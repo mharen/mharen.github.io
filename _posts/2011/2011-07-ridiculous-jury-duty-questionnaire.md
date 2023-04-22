@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-07-18T21:11:00.001-04:00'
-description: ''
-published: true
-slug: 2011-07-ridiculous-jury-duty-questionnaire
 categories:
-- Around Town
-- Letters
-time_to_read: 5
+- around town
+- letters
 title: A Ridiculous Jury Duty Questionnaire
 ---
 

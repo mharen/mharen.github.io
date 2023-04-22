@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-31T19:54:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-list-clear-vs-new-variable-passing-in-c
 categories:
-- Code
-- Technology
-time_to_read: 5
+- code
+- technology
 title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2009-01-25T22:58:00.002-05:00'
-description: ''
-published: true
-slug: 2009-01-in-transition
-categories:
-- Trash
-time_to_read: 5
+categories: trash
 title: In transition
 ---
 

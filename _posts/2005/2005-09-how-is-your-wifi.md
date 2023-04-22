@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-24T02:44:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-how-is-your-wifi
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: How is your WiFi?
 ---
 

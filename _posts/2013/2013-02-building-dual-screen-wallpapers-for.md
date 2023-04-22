@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2013-02-19T21:59:00.002-05:00'
-description: ''
-published: true
-slug: 2013-02-building-dual-screen-wallpapers-for
 categories:
-- PowerShell
-- Technology
-time_to_read: 5
+- powershell
+- technology
 title: Building Dual-Screen Wallpapers for Windows 7 with PowerShell
 ---
 

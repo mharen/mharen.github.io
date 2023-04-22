@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-10T00:35:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-where-do-you-see-yourself-in-five-years
 categories:
-- Work
-- Random Updates
-time_to_read: 5
+- work
+- random updates
 title: Where Do You See Yourself in Five Years? (Blue Pill or Red Pill?)
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-02-16T19:00:00.001-05:00'
-description: ''
-published: true
-slug: 2005-02-googol-err-google
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Googol err Google
 ---
 

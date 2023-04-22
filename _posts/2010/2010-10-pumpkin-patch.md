@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-10-03T00:43:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-pumpkin-patch
 categories:
-- Around Town
-- Sarah
-- Family
-time_to_read: 5
+- around town
+- sarah
+- family
 title: The Pumpkin Patch
 ---
 

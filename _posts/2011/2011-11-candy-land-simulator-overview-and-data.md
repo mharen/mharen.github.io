@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-11-10T23:00:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-candy-land-simulator-overview-and-data
 categories:
-- Candy Land Simulator
-- NaBloPoMo 2011
-- Code
-- Technology
-time_to_read: 5
+- candy land simulator
+- nablopomo 2011
+- code
+- technology
 title: 'A Candy Land Simulator: Overview and Data Representations'
 ---
 

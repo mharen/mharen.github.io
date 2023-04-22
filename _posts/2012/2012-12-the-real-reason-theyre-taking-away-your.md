@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-12-12T20:33:00.001-05:00'
-description: ''
-published: true
-slug: 2012-12-the-real-reason-theyre-taking-away-your
 categories:
-- Wireless
-- Technology
-time_to_read: 5
+- wireless
+- technology
 title: "The Real Reason They\u2019re Taking Away Your Unlimited Data"
 ---
 

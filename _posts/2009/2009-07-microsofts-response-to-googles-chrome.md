@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2009-07-14T23:20:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-microsofts-response-to-googles-chrome
 categories:
-- Windows
-- Work
-- In the News
-- Technology
-time_to_read: 5
+- windows
+- work
+- in the news
+- technology
 title: "Microsoft\u2019s Response to Google\u2019s Chrome OS"
 ---
 

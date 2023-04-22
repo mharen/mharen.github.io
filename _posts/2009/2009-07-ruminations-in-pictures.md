@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-07-18T01:31:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-ruminations-in-pictures
 categories:
-- Around Town
-- Ruminations
-- Random Updates
-time_to_read: 5
+- around town
+- ruminations
+- random updates
 title: Ruminations in Pictures
 ---
 

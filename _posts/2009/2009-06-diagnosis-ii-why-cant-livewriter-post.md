@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-06-29T14:06:00.002-04:00'
-description: ''
-published: true
-slug: 2009-06-diagnosis-ii-why-cant-livewriter-post
 categories:
-- Windows
-- Technology
-time_to_read: 5
+- windows
+- technology
 title: "Diagnosis II: Why Can\u2019t LiveWriter Post from Work?"
 ---
 

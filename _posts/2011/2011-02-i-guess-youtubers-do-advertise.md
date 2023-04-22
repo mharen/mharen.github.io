@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-07T23:45:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-i-guess-youtubers-do-advertise
 categories:
-- Television
-- Marketing
-- In the News
-time_to_read: 5
+- television
+- marketing
+- in the news
 title: "I Guess YouTuber\u2019s *Do* Advertise"
 ---
 

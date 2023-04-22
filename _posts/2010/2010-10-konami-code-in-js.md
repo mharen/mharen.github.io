@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-10-23T23:24:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-konami-code-in-js
 categories:
-- Easter Eggs
-- Code
-- Technology
-time_to_read: 5
+- easter eggs
+- code
+- technology
 title: The Konami Code In JS
 ---
 

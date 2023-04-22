@@ -1,12 +1,8 @@
 ---
-date: '2016-08-26T08:50:00.000-04:00'
-description: ''
-published: true
-slug: another-bittersweet-goodbye
-categories: foster-care
-time_to_read: 5
-title: Another Bittersweet Goodbye
 layout: post
+date: '2016-08-26T08:50:00.000-04:00'
+categories: foster-care
+title: Another Bittersweet Goodbye
 ---
 
 About two years ago we first [said goodbye](../2015/2015-01-they-dont-make-greeting-card-for-that.html) to our first foster placement, a delightful baby boy, J. Thanks to the mercy of time passing, our thoughts have turned from grief to hopefulness. We have no actual knowledge of how he is doing but that’s how it works.

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-10-06T18:15:00.000-04:00'
-description: ''
-published: true
-slug: 2006-10-yes-i-still-alive
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Yes, I'm Still Alive
 ---
 

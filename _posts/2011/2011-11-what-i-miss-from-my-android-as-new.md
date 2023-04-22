@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-11-03T23:09:00.000-04:00'
-description: ''
-published: true
-slug: 2011-11-what-i-miss-from-my-android-as-new
 categories:
-- NaBloPoMo 2011
-- Android
-- Technology
-- iPhone
-time_to_read: 5
+- nablopomo 2011
+- android
+- technology
+- iphone
 title: What I Miss From My Android as a New iPhone User
 ---
 

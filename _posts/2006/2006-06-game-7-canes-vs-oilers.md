@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2006-06-19T08:21:00.000-04:00'
-description: ''
-published: true
-slug: 2006-06-game-7-canes-vs-oilers
 categories:
-- Work
-- Hockey
-- In the News
-- Random Updates
-time_to_read: 5
+- work
+- hockey
+- in the news
+- random updates
 title: 'Game 7: Canes vs. Oilers'
 ---
 

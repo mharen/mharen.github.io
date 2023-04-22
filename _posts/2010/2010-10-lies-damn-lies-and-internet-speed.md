@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-20T18:17:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-lies-damn-lies-and-internet-speed
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Lies, Damned Lies, And Internet Speed Charts
 ---
 

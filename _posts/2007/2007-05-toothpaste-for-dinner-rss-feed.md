@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2007-05-27T17:35:00.000-04:00'
-description: ''
-published: true
-slug: 2007-05-toothpaste-for-dinner-rss-feed
 categories:
-- Random Updates
-- Technology
-time_to_read: 5
+- random updates
+- technology
 title: Toothpaste For Dinner RSS Feed
 ---
 

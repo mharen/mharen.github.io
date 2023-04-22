@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-09-29T01:19:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-things-i-love-about-android
 categories:
-- Android
-- Technology
-time_to_read: 5
+- android
+- technology
 title: Things I Love About Android
 ---
 

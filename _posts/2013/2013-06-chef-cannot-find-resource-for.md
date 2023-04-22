@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2013-06-14T09:45:00.001-04:00'
-description: ''
-published: true
-slug: 2013-06-chef-cannot-find-resource-for
 categories:
-- Chef
-- Windows
-- Work
-- Code
-- Technology
-time_to_read: 5
+- chef
+- windows
+- work
+- code
+- technology
 title: 'Chef: Cannot find a resource for powershell on windows version 6.1.7600 (solved)'
 ---
 

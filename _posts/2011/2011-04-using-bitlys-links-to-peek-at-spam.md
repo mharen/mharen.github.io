@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-04-18T12:34:00.001-04:00'
-description: ''
-published: true
-slug: 2011-04-using-bitlys-links-to-peek-at-spam
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: "Using Bitly\u2019s \u201C+\u201D Links to Peek at Spam"
 ---
 

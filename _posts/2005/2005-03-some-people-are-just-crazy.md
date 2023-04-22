@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-03-08T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-03-some-people-are-just-crazy
-categories:
-- In the News
-time_to_read: 5
+categories: in the news
 title: some people are just crazy
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-26T23:44:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-target-is-crazy-and-random-pictures
 categories:
-- Random Updates
-- Travel
-time_to_read: 5
+- random updates
+- travel
 title: Target Is Crazy, And Random Pictures
 ---
 

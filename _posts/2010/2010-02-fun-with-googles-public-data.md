@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-02-27T13:29:00.001-05:00'
-description: ''
-published: true
-slug: 2010-02-fun-with-googles-public-data
 categories:
-time_to_read: 5
 title: "Fun with Google\u2019s Public Data"
 ---
 

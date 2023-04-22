@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-06-29T14:02:00.001-04:00'
-description: ''
-published: true
-slug: 2009-06-highlight-all-matching-words
 categories:
-- Code
-- Technology
-time_to_read: 5
+- code
+- technology
 title: Highlight all matching words
 ---
 

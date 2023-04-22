@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-01-23T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-01-nothing-special
 categories:
-- Hockey
-- Random Updates
-time_to_read: 5
+- hockey
+- random updates
 title: Nothing special
 ---
 

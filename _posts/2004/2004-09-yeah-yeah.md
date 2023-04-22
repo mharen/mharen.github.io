@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2004-09-10T20:00:00.001-04:00'
-description: ''
-published: true
-slug: 2004-09-yeah-yeah
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: yeah, yeah
 ---
 

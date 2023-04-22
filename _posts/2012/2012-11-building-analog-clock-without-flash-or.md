@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-11-13T23:31:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-building-analog-clock-without-flash-or
 categories:
-- NaBloPoMo 2012
-- Code
-- Technology
-time_to_read: 5
+- nablopomo 2012
+- code
+- technology
 title: Building an Analog Clock without Flash or Images
 ---
 

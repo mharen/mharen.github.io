@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2004-12-12T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2004-12-things-that-are-green
-categories:
-- Movies
-time_to_read: 5
+categories: movies
 title: Things that are green
 ---
 

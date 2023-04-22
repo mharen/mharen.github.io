@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-18T14:12:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-auto-tint-glass
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Auto-Tint Glass
 ---
 

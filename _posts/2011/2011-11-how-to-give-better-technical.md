@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-07T23:35:00.000-05:00'
-description: ''
-published: true
-slug: 2011-11-how-to-give-better-technical
 categories:
-- Work
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- work
+- nablopomo 2011
+- technology
 title: How To Give Better Technical Presentations
 ---
 

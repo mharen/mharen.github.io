@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-06-05T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-06-updates-exams-3-of-5-sofa-express-sarah
 categories:
-- School
-- Random Updates
-time_to_read: 5
+- school
+- random updates
 title: 'Updates: Exams (3 of 5), Sofa Express, Sarah''s Car'
 ---
 

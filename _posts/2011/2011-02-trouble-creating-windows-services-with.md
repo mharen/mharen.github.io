@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-02-03T11:39:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-trouble-creating-windows-services-with
 categories:
-- Windows
-- Work
-- Usability
-- Technology
-time_to_read: 5
+- windows
+- work
+- usability
+- technology
 title: "Trouble Creating Windows Services With \u201Csc.exe create\u201D"
 ---
 

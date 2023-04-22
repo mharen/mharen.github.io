@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-11-09T18:01:00.000-05:00'
-description: ''
-published: true
-slug: 2010-11-export-itunes-playlist-to-android
 categories:
-- Android
-- Technology
-time_to_read: 5
+- android
+- technology
 title: Export an iTunes Playlist to Android
 ---
 

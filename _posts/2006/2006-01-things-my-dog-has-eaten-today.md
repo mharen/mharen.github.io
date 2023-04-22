@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-01-02T08:41:00.000-05:00'
-description: ''
-published: true
-slug: 2006-01-things-my-dog-has-eaten-today
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Things my dog has eaten today
 ---
 

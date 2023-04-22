@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-08-11T22:59:00.001-04:00'
-description: ''
-published: true
-slug: 2009-08-first-look-at-windows-7
 categories:
-- Windows
-- Technology
-time_to_read: 5
+- windows
+- technology
 title: First Look at Windows 7
 ---
 

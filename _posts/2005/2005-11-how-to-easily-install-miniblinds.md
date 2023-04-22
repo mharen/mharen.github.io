@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-11-22T15:45:00.000-05:00'
-description: ''
-published: true
-slug: 2005-11-how-to-easily-install-miniblinds
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: How to easily install miniblinds
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-06-29T14:01:00.002-04:00'
-description: ''
-published: true
-slug: 2009-06-publishing-code-to-blogger_2255
 categories:
-- Windows
-- Technology
-time_to_read: 5
+- windows
+- technology
 title: Publishing Code to Blogger
 ---
 

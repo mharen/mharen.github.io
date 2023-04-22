@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2013-09-09T10:03:00.001-04:00'
-description: ''
-published: true
-slug: 2013-09-notify-new-relic-of-deployments-with
 categories:
-- Work
-- DevOps
-- Code
-- Technology
-time_to_read: 5
+- work
+- devops
+- code
+- technology
 title: Notify New Relic of Deployments with Chef
 ---
 

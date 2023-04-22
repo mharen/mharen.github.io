@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-07-04T17:07:00.000-04:00'
-description: ''
-published: true
-slug: 2007-07-programmers-thatprogram
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Programmers That...Program?
 ---
 

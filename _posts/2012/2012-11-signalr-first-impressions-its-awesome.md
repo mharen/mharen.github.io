@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2012-11-08T23:59:00.000-05:00'
-description: ''
-published: true
-slug: 2012-11-signalr-first-impressions-its-awesome
 categories:
-- NaBloPoMo 2012
-- Work
-- Code
-- SignalR
-- Technology
-time_to_read: 5
+- nablopomo 2012
+- work
+- code
+- signalr
+- technology
 title: "SignalR: First Impressions (It\u2019s Awesome)"
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-10-05T07:39:00.000-04:00'
-description: ''
-published: true
-slug: 2007-10-she-coming
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: She's coming!
 ---
 

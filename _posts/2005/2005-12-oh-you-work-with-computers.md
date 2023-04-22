@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-12-22T11:32:00.000-05:00'
-description: ''
-published: true
-slug: 2005-12-oh-you-work-with-computers
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Oh, you work with computers?
 ---
 

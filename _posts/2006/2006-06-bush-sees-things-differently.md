@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-06-14T14:05:00.000-04:00'
-description: ''
-published: true
-slug: 2006-06-bush-sees-things-differently
-categories:
-- In the News
-time_to_read: 5
+categories: in the news
 title: Bush Sees Things Differently
 ---
 

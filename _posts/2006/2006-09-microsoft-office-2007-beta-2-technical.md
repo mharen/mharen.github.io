@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-09-15T04:26:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-microsoft-office-2007-beta-2-technical
 categories:
-- Windows
-- Technology
-time_to_read: 5
+- windows
+- technology
 title: Microsoft Office 2007 (Beta 2, Technical Refresh)
 ---
 

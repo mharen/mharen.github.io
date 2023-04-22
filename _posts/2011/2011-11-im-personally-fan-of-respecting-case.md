@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-11-21T13:51:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-im-personally-fan-of-respecting-case
 categories:
-- Work
-- NaBloPoMo 2011
-- Code
-- Technology
-time_to_read: 5
+- work
+- nablopomo 2011
+- code
+- technology
 title: Case Sensitivity in ASP.NET
 ---
 

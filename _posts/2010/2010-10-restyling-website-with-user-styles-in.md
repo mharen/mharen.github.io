@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-10-16T15:12:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-restyling-website-with-user-styles-in
 categories:
-- Sarah
-- Code
-- Technology
-time_to_read: 5
+- sarah
+- code
+- technology
 title: Restyling A Website With User Styles in Chrome
 ---
 

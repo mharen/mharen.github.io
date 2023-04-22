@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-11-06T13:55:00.000-05:00'
-description: ''
-published: true
-slug: 2012-11-death-by-thousand-paper-cuts-way-we-buy
 categories:
-- Household
-- NaBloPoMo 2012
-- Real Estate
-time_to_read: 5
+- household
+- nablopomo 2012
+- real estate
 title: 'Death By a Thousand Paper Cuts: The Way We Buy and Sell Houses Is Begging
   for Disruption'
 ---

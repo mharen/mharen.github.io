@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-03-15T22:09:00.001-04:00'
-description: ''
-published: true
-slug: 2011-03-how-not-to-cross-border-or-please
 categories:
-- Around Town
-- Work
-- Random Updates
-time_to_read: 5
+- around town
+- work
+- random updates
 title: "How Not to Cross the Border, Or \u201CPlease Proceed to Immigration\u201D"
 ---
 

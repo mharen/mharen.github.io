@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-04-14T21:04:00.001-04:00'
-description: ''
-published: true
-slug: 2011-04-speed-matters-how-to-talk-about-in
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'Speed Matters: How to Talk About It'
 ---
 

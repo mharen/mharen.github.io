@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-11-09T10:52:00.001-05:00'
-description: ''
-published: true
-slug: 2010-11-adventures-in-unsubscribing-spoiler-it
 categories:
-- Usability
-- Technology
-time_to_read: 5
+- usability
+- technology
 title: "Adventures in Unsubscribing (Spoiler: It Ends in \u201CGrrrrr\u201D)"
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-05-06T15:19:00.000-04:00'
-description: ''
-published: true
-slug: 2007-05-more-baby-stuff
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: More Baby Stuff...
 ---
 

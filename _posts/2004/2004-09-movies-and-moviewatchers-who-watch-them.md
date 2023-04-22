@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2004-09-10T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2004-09-movies-and-moviewatchers-who-watch-them
-categories:
-- Movies
-time_to_read: 5
+categories: movies
 title: movies and the moviewatchers who watch them
 ---
 

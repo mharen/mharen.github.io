@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2014-07-08T14:47:00.002-04:00'
-description: ''
-published: true
-slug: 2014-07-make-way-for-unique-key-constraint-by
 categories:
-time_to_read: 5
 title: Make way for a unique key constraint by renaming/updating duplicate rows in
   SQL Server
 ---

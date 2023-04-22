@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2013-11-02T16:25:00.001-04:00'
-description: ''
-published: true
-slug: 2013-11-understanding-that-there-exists
 categories:
-- Psychology
-- Work
-- Books
-time_to_read: 5
+- psychology
+- work
+- books
 title: Understanding (That There Exists) An Opposing View
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-08T14:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-house-hunting-updates
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: House Hunting Updates
 ---
 

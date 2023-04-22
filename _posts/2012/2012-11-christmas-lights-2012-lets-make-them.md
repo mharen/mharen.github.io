@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-11-12T23:52:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-christmas-lights-2012-lets-make-them
 categories:
-- Household
-- NaBloPoMo 2012
-time_to_read: 5
+- household
+- nablopomo 2012
 title: "Christmas Lights 2012: \u201CLet\u2019s Make Them Nice This Time\u201D"
 ---
 

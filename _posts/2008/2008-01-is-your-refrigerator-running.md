@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-01-26T20:59:00.000-05:00'
-description: ''
-published: true
-slug: 2008-01-is-your-refrigerator-running
-categories:
-- Household
-time_to_read: 5
+categories: household
 title: Is Your Refrigerator Running?
 ---
 

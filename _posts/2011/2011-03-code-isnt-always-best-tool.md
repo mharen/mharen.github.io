@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-03-05T22:43:00.001-05:00'
-description: ''
-published: true
-slug: 2011-03-code-isnt-always-best-tool
 categories:
-- Work
-- Technology
-- Project Noodle
-time_to_read: 5
+- work
+- technology
+- project noodle
 title: "Code Isn\u2019t Always the Best Tool"
 ---
 

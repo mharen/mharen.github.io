@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2005-11-17T12:22:00.000-05:00'
-description: ''
-published: true
-slug: 2005-11-updates-all-around
 categories:
-- Around Town
-- Relaxing
-- Work
-- Random Updates
-time_to_read: 5
+- around town
+- relaxing
+- work
+- random updates
 title: Updates All Around
 ---
 

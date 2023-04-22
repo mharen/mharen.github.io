@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-03-02T13:36:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-leave-sql-servers-cost-threshold-for
 categories:
-time_to_read: 5
 title: "Leave SQL Server\u2019s Cost Threshold for Parallelism Alone"
 ---
 

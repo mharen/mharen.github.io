@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-07-01T23:22:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-transformers-2-rise-of-some-giant
 categories:
-- Household
-- Movies
-time_to_read: 5
+- household
+- movies
 title: Transformers 2, Rise of some Giant Robots
 ---
 

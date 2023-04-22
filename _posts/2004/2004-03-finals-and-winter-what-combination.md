@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2004-03-15T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2004-03-finals-and-winter-what-combination
-categories:
-- School
-time_to_read: 5
+categories: school
 title: finals and winter, what a combination
 ---
 

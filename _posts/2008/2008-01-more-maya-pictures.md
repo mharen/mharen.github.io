@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-01-05T17:34:00.000-05:00'
-description: ''
-published: true
-slug: 2008-01-more-maya-pictures
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: More Maya Pictures
 ---
 

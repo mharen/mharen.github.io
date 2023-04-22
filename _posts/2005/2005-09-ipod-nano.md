@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-13T02:10:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-ipod-nano
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: iPod Nano
 ---
 

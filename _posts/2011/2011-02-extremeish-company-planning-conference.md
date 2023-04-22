@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-02-07T16:33:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-extremeish-company-planning-conference
 categories:
-- Relaxing
-- Work
-time_to_read: 5
+- relaxing
+- work
 title: An Extreme(ish) Company Planning Conference
 ---
 

@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-07T22:53:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-end-of-super-bowl-style-advertising
 categories:
-- Television
-- Marketing
-- In the News
-time_to_read: 5
+- television
+- marketing
+- in the news
 title: The End Of Super Bowl-Style Advertising
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-07T17:31:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-why-computers-suck-part-1
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Why Computers Suck, Part 1
 ---
 

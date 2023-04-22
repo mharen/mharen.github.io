@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-07-15T05:20:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-diary-of-mad-black-woman-05-stars
-categories:
-- Movies
-time_to_read: 5
+categories: movies
 title: Diary of a Mad Black Woman (0/5 stars)
 ---
 

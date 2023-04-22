@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-12-23T11:42:00.001-05:00'
-description: ''
-published: true
-slug: 2010-12-thatll-be-44tax-btw-tax-is-61
 categories:
-- Marketing
-- Random Updates
-time_to_read: 5
+- marketing
+- random updates
 title: "That\u2019ll be $44+\u201CTax\u201D (BTW, \u201Ctax\u201D is 61%)"
 ---
 

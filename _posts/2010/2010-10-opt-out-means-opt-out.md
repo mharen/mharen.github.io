@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-29T13:15:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-opt-out-means-opt-out
 categories:
-- Marketing
-- Technology
-time_to_read: 5
+- marketing
+- technology
 title: Opt Out Means Opt Out
 ---
 

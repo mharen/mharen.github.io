@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-04-01T22:24:00.004-04:00'
-description: ''
-published: true
-slug: 2009-04-working-with-yield-keyword-in-c
 categories:
-time_to_read: 5
 title: Working with the Yield keyword in C#
 ---
 

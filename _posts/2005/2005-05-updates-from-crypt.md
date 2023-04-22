@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-05-30T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-05-updates-from-crypt
-categories:
-- Television
-time_to_read: 5
+categories: television
 title: Updates from the crypt
 ---
 

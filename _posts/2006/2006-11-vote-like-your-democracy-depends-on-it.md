@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2006-11-07T09:06:00.000-05:00'
-description: ''
-published: true
-slug: 2006-11-vote-like-your-democracy-depends-on-it
 categories:
-- Around Town
-- In the News
-- Technology
-time_to_read: 5
+- around town
+- in the news
+- technology
 title: Vote Like Your Democracy Depends on it!
 ---
 

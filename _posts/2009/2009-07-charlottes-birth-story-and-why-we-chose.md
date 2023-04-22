@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-07-30T21:49:00.006-04:00'
-description: ''
-published: true
-slug: 2009-07-charlottes-birth-story-and-why-we-chose
 categories:
-- Sarah
-- Family
-- Baby
-time_to_read: 5
+- sarah
+- family
+- baby
 title: Charlotte's Birth Story, and Why We Chose Homebirth (Written by Sarah)
 ---
 

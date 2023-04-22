@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-07-17T22:23:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-baby-scale-hack
 categories:
-- Household
-- Baby
-time_to_read: 5
+- household
+- baby
 title: Baby Scale Hack
 ---
 

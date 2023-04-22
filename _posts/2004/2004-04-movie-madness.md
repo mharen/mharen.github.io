@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2004-04-12T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2004-04-movie-madness
 categories:
-- Movies
-- Random Updates
-time_to_read: 5
+- movies
+- random updates
 title: Movie Madness
 ---
 

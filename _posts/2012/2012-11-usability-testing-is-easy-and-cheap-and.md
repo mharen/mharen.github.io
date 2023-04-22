@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-11-19T23:28:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-usability-testing-is-easy-and-cheap-and
 categories:
-- NaBloPoMo 2012
-- Usability
-- Technology
-time_to_read: 5
+- nablopomo 2012
+- usability
+- technology
 title: Usability Testing is Easy. And Cheap. And Painful (But Essential!)
 ---
 

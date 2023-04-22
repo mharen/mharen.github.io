@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-07-29T21:10:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-cards-in-newark
-categories:
-- Poker
-time_to_read: 5
+categories: poker
 title: Cards in Newark
 ---
 

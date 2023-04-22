@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-28T13:57:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-this-ups-my-choice-thing-is-actually
 categories:
-- Around Town
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- around town
+- nablopomo 2011
+- technology
 title: "This \u201CUPS My Choice\u201D Thing is Actually Pretty Neat"
 ---
 

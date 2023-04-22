@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-01-25T09:27:00.000-05:00'
-description: ''
-published: true
-slug: 2006-01-conversation-i-had-with-michael-today
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: A conversation I had with Michael today
 ---
 

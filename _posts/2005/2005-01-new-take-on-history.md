@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-01-16T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-01-new-take-on-history
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: a new take on history
 ---
 

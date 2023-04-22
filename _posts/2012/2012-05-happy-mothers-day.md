@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-05-13T08:46:00.001-04:00'
-description: ''
-published: true
-slug: 2012-05-happy-mothers-day
 categories:
-- Family
-- Baby
-time_to_read: 5
+- family
+- baby
 title: "Happy Mother\u2019s Day"
 ---
 

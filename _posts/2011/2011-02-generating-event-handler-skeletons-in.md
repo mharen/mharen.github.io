@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-08T11:15:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-generating-event-handler-skeletons-in
 categories:
-- Work
-- Code
-- Technology
-time_to_read: 5
+- work
+- code
+- technology
 title: Generating Event Handler Skeletons in .NET
 ---
 

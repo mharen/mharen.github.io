@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2004-01-06T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2004-01-hi-all-hope-everyones-quarter-is-going
 categories:
-- School
-- Random Updates
-time_to_read: 5
+- school
+- random updates
 title: ''
 ---
 

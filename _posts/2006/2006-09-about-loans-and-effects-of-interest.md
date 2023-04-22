@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-20T10:50:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-about-loans-and-effects-of-interest
-categories:
-- Money
-time_to_read: 5
+categories: money
 title: About Loans and the Effects of Interest
 ---
 

@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-04-11T13:04:00.001-04:00'
-description: ''
-published: true
-slug: 2011-04-renaming-sql-server-database
 categories:
-- Database
-- Code
-- Technology
-time_to_read: 5
+- database
+- code
+- technology
 title: Renaming a SQL Server Database
 ---
 

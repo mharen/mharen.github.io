@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-01-24T23:33:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-thing2-explodes-laundry-ensues
 categories:
-- Family
-- Baby
-time_to_read: 5
+- family
+- baby
 title: Thing2 Explodes, Laundry Ensues
 ---
 

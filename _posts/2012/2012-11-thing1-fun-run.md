@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-11-23T08:31:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-thing1-fun-run
 categories:
-- Family
-- NaBloPoMo 2012
-time_to_read: 5
+- family
+- nablopomo 2012
 title: Thing1's Fun Run
 ---
 

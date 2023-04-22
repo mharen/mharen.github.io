@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-03-21T08:34:00.000-05:00'
-description: ''
-published: true
-slug: 2006-03-patriot-games
 categories:
-- In the News
-- Random Updates
-time_to_read: 5
+- in the news
+- random updates
 title: Patriot Games
 ---
 

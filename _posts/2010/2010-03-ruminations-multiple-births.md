@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2010-03-01T18:39:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-ruminations-multiple-births
 categories:
-- Household
-- Family
-- Ruminations
-- Baby
-- Random Updates
-time_to_read: 5
+- household
+- family
+- ruminations
+- baby
+- random updates
 title: 'Ruminations: Multiple Births; Congratulations'
 ---
 

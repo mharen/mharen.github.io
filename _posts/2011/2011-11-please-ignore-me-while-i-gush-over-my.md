@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-09T23:05:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-please-ignore-me-while-i-gush-over-my
 categories:
-- Work
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- work
+- nablopomo 2011
+- technology
 title: Please Ignore Me While I Gush Over My New Laptop
 ---
 

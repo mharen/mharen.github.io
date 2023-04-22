@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2013-02-21T19:11:00.000-05:00'
-description: ''
-published: true
-slug: 2013-02-how-do-i-add-mongodb-replicasetnode
 categories:
-- Database
-- MongoDB
-- Work
-time_to_read: 5
+- database
+- mongodb
+- work
 title: How do I add a MongoDB replicaset/node with auth/credentials to MMS monitor
   on 10gen?
 ---

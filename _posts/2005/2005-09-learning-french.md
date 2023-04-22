@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-26T03:29:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-learning-french
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Learning French
 ---
 

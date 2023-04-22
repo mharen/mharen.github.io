@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-01-12T19:00:00.002-05:00'
-description: ''
-published: true
-slug: 2005-01-spyware-adware-underwear
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Spyware, Adware, Underwear
 ---
 

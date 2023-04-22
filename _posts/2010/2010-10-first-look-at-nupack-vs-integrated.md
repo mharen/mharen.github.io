@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-20T22:01:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-first-look-at-nupack-vs-integrated
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 ---
 

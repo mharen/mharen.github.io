@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-11-03T22:34:00.001-04:00'
-description: ''
-published: true
-slug: 2012-11-amazon-prime-good-bad-and-possibly-ugly
 categories:
-- NaBloPoMo 2012
-- In the News
-time_to_read: 5
+- nablopomo 2012
+- in the news
 title: 'Amazon Prime: The Good, the Bad and the (Possibly) Ugly'
 ---
 

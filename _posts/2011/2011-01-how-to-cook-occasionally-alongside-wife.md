@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-01-30T22:48:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-how-to-cook-occasionally-alongside-wife
 categories:
-- Family
-- Food
-time_to_read: 5
+- family
+- food
 title: How To Cook Occasionally Alongside a Wife Who Cooks Often
 ---
 

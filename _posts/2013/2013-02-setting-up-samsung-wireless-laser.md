@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2013-02-19T21:20:00.001-05:00'
-description: ''
-published: true
-slug: 2013-02-setting-up-samsung-wireless-laser
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'Setting up a Samsung Wireless Laser Printer with a Phone or Tablet
 
   (i.e. Without a Computer)'

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-12-12T06:54:00.000-05:00'
-description: ''
-published: true
-slug: 2006-12-site-news
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Site News
 ---
 

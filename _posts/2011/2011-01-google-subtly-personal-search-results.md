@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-01-30T23:27:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-google-subtly-personal-search-results
 categories:
-- Usability
-- Technology
-time_to_read: 5
+- usability
+- technology
 title: "Google\u2019s Subtly Personalized Search Results"
 ---
 

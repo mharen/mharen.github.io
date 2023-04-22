@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2009-07-27T08:13:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-adding-blow-in-insulation
-categories:
-- Household
-time_to_read: 5
+categories: household
 title: Adding Blow-In Insulation
 ---
 

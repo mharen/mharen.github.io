@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-09-24T22:42:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-in-defense-of-google-or-why-search-isnt
 categories:
-- In the News
-- Technology
-time_to_read: 5
+- in the news
+- technology
 title: "In Defense of Google, or Why Search Isn\u2019t About Bells and Whistles"
 ---
 

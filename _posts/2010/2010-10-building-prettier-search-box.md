@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-10-22T23:50:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-building-prettier-search-box
 categories:
-- Usability
-- Code
-- Technology
-time_to_read: 5
+- usability
+- code
+- technology
 title: Building a Prettier Search Box
 ---
 

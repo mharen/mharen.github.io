@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-11-07T00:13:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-profanity-in-technical-presentations
 categories:
-- Work
-- NaBloPoMo 2011
-time_to_read: 5
+- work
+- nablopomo 2011
 title: Profanity in Technical Presentations and Business
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-11-12T23:59:00.000-05:00'
-description: ''
-published: true
-slug: 2010-11-arduino-day-13-seeking-inspiration
 categories:
-- 30 Days Of Arduino
-- Arduino
-time_to_read: 5
+- 30 days of arduino
+- arduino
 title: 'Arduino Day 12: Seeking Inspiration'
 ---
 

@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2011-11-03T14:55:00.001-04:00'
-description: ''
-published: true
-slug: 2011-11-how-google-search-do-barrel-roll-works
 categories:
-- Easter Eggs
-- In the News
-- Random Updates
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- easter eggs
+- in the news
+- random updates
+- nablopomo 2011
+- technology
 title: "How the Google Search \u201CDo a barrel roll\u201D Works"
 ---
 

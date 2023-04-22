@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-07-13T13:47:00.004-04:00'
-description: ''
-published: true
-slug: 2009-07-we-call-her-bugsy
 categories:
-time_to_read: 5
 title: We Call Her Bugsy
 ---
 

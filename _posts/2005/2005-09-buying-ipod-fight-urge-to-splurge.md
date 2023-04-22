@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-14T02:33:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-buying-ipod-fight-urge-to-splurge
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'Buying an iPod: Fight the Urge to Splurge'
 ---
 

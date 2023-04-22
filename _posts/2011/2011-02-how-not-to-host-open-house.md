@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-16T20:34:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-how-not-to-host-open-house
 categories:
-- Household
-- Around Town
-- In the News
-time_to_read: 5
+- household
+- around town
+- in the news
 title: How Not To Host an Open House
 ---
 

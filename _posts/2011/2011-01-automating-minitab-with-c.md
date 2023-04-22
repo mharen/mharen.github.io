@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-01-20T21:26:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-automating-minitab-with-c
 categories:
-- Work
-- Code
-- Technology
-time_to_read: 5
+- work
+- code
+- technology
 title: Automating Minitab with C#
 ---
 

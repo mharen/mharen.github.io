@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-22T03:04:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-intelligent-cat-door
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Intelligent Cat Door
 ---
 

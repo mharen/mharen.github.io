@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2009-07-22T23:32:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-want-some-poop-with-that
-categories:
-- Baby
-time_to_read: 5
+categories: baby
 title: Want Some Poop With That?
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-07-14T19:21:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-garden-state-45-stars
-categories:
-- Movies
-time_to_read: 5
+categories: movies
 title: Garden State (4/5 stars)
 ---
 

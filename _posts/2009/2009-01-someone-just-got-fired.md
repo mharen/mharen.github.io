@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-01-31T11:27:00.002-05:00'
-description: ''
-published: true
-slug: 2009-01-someone-just-got-fired
 categories:
-time_to_read: 5
 title: Someone just got fired
 ---
 

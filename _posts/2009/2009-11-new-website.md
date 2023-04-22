@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-11-08T00:08:00.008-05:00'
-description: ''
-published: true
-slug: 2009-11-new-website
 categories:
-time_to_read: 5
 title: New Website
 ---
 

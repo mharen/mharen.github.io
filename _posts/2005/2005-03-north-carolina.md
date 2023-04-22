@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-03-27T19:00:00.001-05:00'
-description: ''
-published: true
-slug: 2005-03-north-carolina
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: North Carolina
 ---
 

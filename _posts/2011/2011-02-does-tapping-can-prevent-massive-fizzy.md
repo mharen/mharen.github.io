@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-26T15:30:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-does-tapping-can-prevent-massive-fizzy
 categories:
-- Household
-- Experiments
-- Food
-time_to_read: 5
+- household
+- experiments
+- food
 title: Does Tapping the Can Prevent A Massive Fizzy Explosion?
 ---
 

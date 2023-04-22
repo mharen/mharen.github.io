@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-02-28T19:00:00.001-05:00'
-description: ''
-published: true
-slug: 2005-02-pet-peeve
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: pet peeve
 ---
 

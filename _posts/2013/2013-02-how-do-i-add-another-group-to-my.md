@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2013-02-21T18:03:00.000-05:00'
-description: ''
-published: true
-slug: 2013-02-how-do-i-add-another-group-to-my
 categories:
-- MongoDB
-- Work
-- Technology
-time_to_read: 5
+- mongodb
+- work
+- technology
 title: How do I add another group to my MongoDB MMS monitor on 10gen?
 ---
 

@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-01-16T16:52:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-dear-once-upon-child
 categories:
-- Around Town
-- Letters
-- Reviews
-- Baby
-time_to_read: 5
+- around town
+- letters
+- reviews
+- baby
 title: Dear Once Upon A Child
 ---
 

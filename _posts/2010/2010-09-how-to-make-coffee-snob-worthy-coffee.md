@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-09-19T13:47:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-how-to-make-coffee-snob-worthy-coffee
 categories:
 - coffee
-- Random Updates
-time_to_read: 5
+- random updates
 title: How to Make Coffee-Snob Worthy Coffee
 ---
 

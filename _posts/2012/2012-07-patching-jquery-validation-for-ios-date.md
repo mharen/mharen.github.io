@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-07-25T20:57:00.001-04:00'
-description: ''
-published: true
-slug: 2012-07-patching-jquery-validation-for-ios-date
 categories:
-- Work
-- Code
-- Technology
-time_to_read: 5
+- work
+- code
+- technology
 title: Patching jQuery Validation for the iOS Date Picker
 ---
 

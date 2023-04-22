@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2006-11-01T06:21:00.000-05:00'
-description: ''
-published: true
-slug: 2006-11-moving-north
 categories:
-- School
-- Work
-- Random Updates
-time_to_read: 5
+- school
+- work
+- random updates
 title: Moving North
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-01-05T18:03:00.000-05:00'
-description: ''
-published: true
-slug: 2008-01-pick-number-any-number
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Pick a Number, Any Number
 ---
 

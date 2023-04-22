@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-12-03T22:41:00.001-05:00'
-description: ''
-published: true
-slug: 2012-12-how-much-of-that-sweet-sweet-data-does
 categories:
-- iOS
-- Technology
-- iPhone
-time_to_read: 5
+- ios
+- technology
+- iphone
 title: How Much Of that Sweet, Sweet Data Does Pandora Use on Your Phone?
 ---
 

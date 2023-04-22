@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-11-17T22:23:00.000-05:00'
-description: ''
-published: true
-slug: 2010-11-practice-is-really-great-show
-categories:
-- Television
-time_to_read: 5
+categories: television
 title: '"Private Practice" is a Really Great Show'
 ---
 

@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2006-03-20T06:35:00.000-05:00'
-description: ''
-published: true
-slug: 2006-03-cell-phones-at-movies
 categories:
-- Around Town
-- Movies
-- Technology
-time_to_read: 5
+- around town
+- movies
+- technology
 title: Cell Phones at the Movies
 ---
 

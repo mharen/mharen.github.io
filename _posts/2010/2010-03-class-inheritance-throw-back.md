@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-03-04T15:11:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-class-inheritance-throw-back
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Class Inheritance Throw Back
 ---
 

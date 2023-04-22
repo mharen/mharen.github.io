@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-08-17T19:38:00.001-04:00'
-description: ''
-published: true
-slug: 2012-08-happy-first-birthday-thing-3
 categories:
-- Family
-- Baby
-- Parenting
-time_to_read: 5
+- family
+- baby
+- parenting
 title: Happy First Birthday, Thing 3
 ---
 

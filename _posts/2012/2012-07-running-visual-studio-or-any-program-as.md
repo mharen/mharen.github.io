@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-07-31T09:54:00.001-04:00'
-description: ''
-published: true
-slug: 2012-07-running-visual-studio-or-any-program-as
 categories:
-- Windows
-- Work
-- Technology
-time_to_read: 5
+- windows
+- work
+- technology
 title: Running Visual Studio (or Any Program) As An Administrator Without Prompting
   for Elevation
 ---

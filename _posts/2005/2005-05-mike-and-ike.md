@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-05-08T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-05-mike-and-ike
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Mike and Ike
 ---
 

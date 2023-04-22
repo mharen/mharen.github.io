@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-02-10T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-02-ipod-shuffles-rock-my-world
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: iPod Shuffles Rock (my world)!
 ---
 

@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-11-14T16:30:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-sql-server-2012-saving-changes-is-not
 categories:
-- Database
-- NaBloPoMo 2012
-- Code
-- Technology
-time_to_read: 5
+- database
+- nablopomo 2012
+- code
+- technology
 title: "SQL Server 2012: \u201CSaving changes is not permitted\u2026\u201D"
 ---
 

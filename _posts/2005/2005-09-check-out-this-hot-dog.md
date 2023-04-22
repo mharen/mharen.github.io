@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-09-27T19:21:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-check-out-this-hot-dog
 categories:
-- Relaxing
-- Random Updates
-time_to_read: 5
+- relaxing
+- random updates
 title: Check Out This Hot Dog
 ---
 

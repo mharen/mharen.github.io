@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-03-11T13:43:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-easter-eggs-in-red-gates-sql-compare
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: "Easter Eggs in Red-Gate\u2019s SQL Compare"
 ---
 

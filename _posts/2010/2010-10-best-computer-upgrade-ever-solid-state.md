@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-24T00:37:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-best-computer-upgrade-ever-solid-state
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'The Best Computer Upgrade Ever: Solid State Disk'
 ---
 

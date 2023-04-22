@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-07-04T17:39:00.000-04:00'
-description: ''
-published: true
-slug: 2007-07-flying-sucks
-categories:
-- In the News
-time_to_read: 5
+categories: in the news
 title: Flying Sucks
 ---
 

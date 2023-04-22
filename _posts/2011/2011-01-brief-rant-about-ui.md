@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-01-31T23:10:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-brief-rant-about-ui
 categories:
-- Work
-- Usability
-- Technology
-time_to_read: 5
+- work
+- usability
+- technology
 title: User Interfaces And The Fools Who Love Them
 ---
 

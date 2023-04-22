@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-07-18T19:24:00.001-04:00'
-description: ''
-published: true
-slug: 2011-07-fixing-my-hipster-dryer
-categories:
-- Household
-time_to_read: 5
+categories: household
 title: Fixing My Hipster Dryer
 ---
 

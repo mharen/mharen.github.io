@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-02-04T00:36:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-is-microsoft-crowdsourcing-search
 categories:
-- In the News
-- Technology
-time_to_read: 5
+- in the news
+- technology
 title: Is Microsoft Crowdsourcing Search?
 ---
 

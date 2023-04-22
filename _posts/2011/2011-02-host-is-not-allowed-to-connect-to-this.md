@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-02-14T12:09:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-host-is-not-allowed-to-connect-to-this
 categories:
-- Database
-- Technology
-time_to_read: 5
+- database
+- technology
 title: "\u201CHost is not allowed to connect to this mysql server\u201D [Solved]"
 ---
 

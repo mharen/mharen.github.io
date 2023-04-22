@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2013-02-05T16:56:00.001-05:00'
-description: ''
-published: true
-slug: 2013-02-chef-on-windows-error-tar-cannot-fork
 categories:
-- Chef
-- Work
-- DevOps
-- Code
-- Technology
-time_to_read: 5
+- chef
+- work
+- devops
+- code
+- technology
 title: 'Chef on Windows Error: tar: Cannot fork: Function not implemented (Solved)'
 ---
 

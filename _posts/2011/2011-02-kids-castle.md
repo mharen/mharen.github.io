@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-22T23:56:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-kids-castle
 categories:
-- Around Town
-- Letters
-- Parenting
-time_to_read: 5
+- around town
+- letters
+- parenting
 title: "The Kids\u2019 Castle"
 ---
 

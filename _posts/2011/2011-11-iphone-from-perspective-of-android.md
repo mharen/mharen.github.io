@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-11-02T20:40:00.001-04:00'
-description: ''
-published: true
-slug: 2011-11-iphone-from-perspective-of-android
 categories:
-- NaBloPoMo 2011
-- Android
-- Technology
-- iPhone
-time_to_read: 5
+- nablopomo 2011
+- android
+- technology
+- iphone
 title: iPhone, from a Former Android Enthusiast
 ---
 

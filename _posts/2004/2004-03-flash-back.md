@@ -1,12 +1,10 @@
 ---
+layout: post
 date: '2004-03-07T19:00:00.000-05:00'
-description: ''
-published: true
 slug: 2004-03-flash-back
 categories:
-- School
-- Technology
-time_to_read: 5
+- school
+- technology
 title: flash back
 ---
 

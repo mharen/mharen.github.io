@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-11-02T23:22:00.001-04:00'
-description: ''
-published: true
-slug: 2011-11-moving-hard-drive-with-windows-7-to-new
 categories:
-- Hardware
-- Windows
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- hardware
+- windows
+- nablopomo 2011
+- technology
 title: Moving A Hard Drive with Windows 7 to a New Machine
 ---
 

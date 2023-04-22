@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-09-28T19:49:00.000-04:00'
-description: ''
-published: true
-slug: 2007-09-still-here-still-pregnant
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: Still Here, Still Pregnant
 ---
 

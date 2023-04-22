@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-03-10T12:42:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-autohotkey-wrapping-selection-with-tag
 categories:
-- Work
-- Code
-- Technology
-time_to_read: 5
+- work
+- code
+- technology
 title: 'Autohotkey: Wrapping the selection with a tag'
 ---
 

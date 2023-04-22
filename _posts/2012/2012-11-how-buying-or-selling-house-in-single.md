@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-11-06T22:49:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-how-buying-or-selling-house-in-single
 categories:
-- Household
-- Money
-- NaBloPoMo 2012
-- Real Estate
-time_to_read: 5
+- household
+- money
+- nablopomo 2012
+- real estate
 title: How Buying or Selling a House in a Single Day Could Work
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-07-03T19:31:00.003-04:00'
-description: ''
-published: true
-slug: 2009-07-announcing-charlotte-mae-haren
 categories:
-- Household
-- Family
-time_to_read: 5
+- household
+- family
 title: Announcing Charlotte Mae Haren
 ---
 

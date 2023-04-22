@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2007-07-23T21:51:00.000-04:00'
-description: ''
-published: true
-slug: 2007-07-apple-and-iphone
 categories:
-- Letters
-- Technology
-time_to_read: 5
+- letters
+- technology
 title: Apple and the iPhone
 ---
 

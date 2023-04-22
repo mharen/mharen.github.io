@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-03-10T16:40:00.001-05:00'
-description: ''
-published: true
-slug: 2011-03-curious-behavior-of-html-image-inputs
 categories:
-- Code
-- Technology
-time_to_read: 5
+- code
+- technology
 title: The Curious Behavior of HTML Image Inputs, Or Why "&x=0&y=0" Is Showing Up
   Uninvited
 ---

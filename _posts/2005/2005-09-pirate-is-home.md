@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-28T14:35:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-pirate-is-home
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Pirate is Home!
 ---
 

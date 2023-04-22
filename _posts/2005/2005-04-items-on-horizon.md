@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2005-04-20T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-04-items-on-horizon
 categories:
-- Poker
-- Hockey
-- Technology
-time_to_read: 5
+- poker
+- hockey
+- technology
 title: Items on the horizon
 ---
 

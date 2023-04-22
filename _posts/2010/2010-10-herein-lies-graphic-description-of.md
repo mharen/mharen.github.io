@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-24T18:35:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-herein-lies-graphic-description-of
 categories:
-- Family
-- Random Updates
-time_to_read: 5
+- family
+- random updates
 title: Herein Lies A Graphic Description of Toilet Punishment
 ---
 

@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-01-09T23:53:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-presenting-parental-anger-scale
 categories:
-- Family
-- Baby
-- Parenting
-time_to_read: 5
+- family
+- baby
+- parenting
 title: 'Presenting: The Parental Anger Scale'
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-08-23T23:43:00.002-04:00'
-description: ''
-published: true
-slug: 2009-08-two-cents-on-healthcare-part-ii
 categories:
-- Healthcare
-- In the News
-time_to_read: 5
+- healthcare
+- in the news
 title: Two Cents on Healthcare, Part 2
 ---
 

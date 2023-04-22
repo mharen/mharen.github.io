@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-06-28T08:01:00.000-04:00'
-description: ''
-published: true
-slug: 2005-06-updates-soon
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Updates soon
 ---
 

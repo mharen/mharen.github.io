@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-07-02T10:35:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-are-you-crashing-responsibly
 categories:
-- Work
-- Usability
-- Technology
-time_to_read: 5
+- work
+- usability
+- technology
 title: Are you Crashing Responsibly?
 ---
 

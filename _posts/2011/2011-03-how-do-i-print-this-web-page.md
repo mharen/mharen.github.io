@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-03-24T12:29:00.003-04:00'
-description: ''
-published: true
-slug: 2011-03-how-do-i-print-this-web-page
 categories:
-- Usability
-- Technology
-time_to_read: 5
+- usability
+- technology
 title: How Do I Print [this web page]!?
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-02-28T23:35:00.001-05:00'
-description: ''
-published: true
-slug: 2010-02-how-richter-scale-works
 categories:
-- Math
-- In the News
-time_to_read: 5
+- math
+- in the news
 title: How the Richter Scale Works
 ---
 

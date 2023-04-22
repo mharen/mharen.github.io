@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-01-29T19:22:00.000-05:00'
-description: ''
-published: true
-slug: 2008-01-this-ad-is-gold
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: This Ad is Gold
 ---
 

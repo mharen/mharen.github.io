@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-04-15T10:45:00.001-04:00'
-description: ''
-published: true
-slug: 2011-04-reduce-noise-from-responses-to-your
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: Reduce Noise from Responses To Your Outlook Meeting Requests
 ---
 

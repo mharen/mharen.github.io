@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2011-02-02T20:27:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-my-favorite-book-ever
 categories:
-- Relaxing
-- Reviews
-- Kindle
-- Technology
-- Books
-time_to_read: 5
+- relaxing
+- reviews
+- kindle
+- technology
+- books
 title: My Favorite Book Ever
 ---
 

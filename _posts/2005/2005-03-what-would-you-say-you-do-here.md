@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-03-11T19:00:00.001-05:00'
-description: ''
-published: true
-slug: 2005-03-what-would-you-say-you-do-here
-categories:
-- School
-time_to_read: 5
+categories: school
 title: What would you say you do here?
 ---
 

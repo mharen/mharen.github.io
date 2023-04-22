@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2005-06-01T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-06-more-updates-lost-graduation
 categories:
-- Television
-- School
-- Random Updates
-time_to_read: 5
+- television
+- school
+- random updates
 title: More updates - Lost, Graduation
 ---
 

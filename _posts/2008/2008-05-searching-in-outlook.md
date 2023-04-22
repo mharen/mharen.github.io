@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-05-23T07:25:00.000-04:00'
-description: ''
-published: true
-slug: 2008-05-searching-in-outlook
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Searching in Outlook
 ---
 

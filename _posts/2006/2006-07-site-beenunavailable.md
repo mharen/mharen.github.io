@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-07-13T09:51:00.000-04:00'
-description: ''
-published: true
-slug: 2006-07-site-beenunavailable
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Site's Been...Unavailable
 ---
 

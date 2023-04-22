@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-11-01T22:51:00.001-04:00'
-description: ''
-published: true
-slug: 2012-11-halloween-abroad
 categories:
-- Family
-- NaBloPoMo 2012
-- Baby
-- Parenting
-time_to_read: 5
+- family
+- nablopomo 2012
+- baby
+- parenting
 title: Halloween Abroad
 ---
 

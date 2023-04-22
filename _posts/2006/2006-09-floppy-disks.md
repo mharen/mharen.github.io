@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-09-15T05:29:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-floppy-disks
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: Floppy Disks
 ---
 

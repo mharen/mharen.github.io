@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-03-04T23:06:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-generating-super-shiny-hopefully-secure
 categories:
-- Code
-- Technology
-time_to_read: 5
+- code
+- technology
 title: Generating Super Shiny, Hopefully Secure Tokens
 ---
 

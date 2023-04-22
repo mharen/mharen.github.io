@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-03-02T22:41:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-word-document-automation-with-net-4-new
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: 'Word Document Automation with .NET 4: New Doc From Template'
 ---
 

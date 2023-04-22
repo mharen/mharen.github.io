@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-12-21T22:56:00.001-05:00'
-description: ''
-published: true
-slug: 2009-12-bad-haircuts
 categories:
-- Household
-- Family
-time_to_read: 5
+- household
+- family
 title: Bad Haircuts
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-05-19T09:35:00.000-04:00'
-description: ''
-published: true
-slug: 2008-05-surf-quietly-and-securely-at-work
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Surf Quietly and Securely at Work
 ---
 

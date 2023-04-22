@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-11-19T00:35:00.001-05:00'
-description: ''
-published: true
-slug: 2010-11-customer-service-how-airtran-bought-me
 categories:
-- Around Town
-- Marketing
-time_to_read: 5
+- around town
+- marketing
 title: 'Customer Service: How AirTran Bought Me For $0.50'
 ---
 

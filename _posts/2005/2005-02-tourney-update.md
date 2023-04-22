@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-02-28T19:00:00.002-05:00'
-description: ''
-published: true
-slug: 2005-02-tourney-update
-categories:
-- Poker
-time_to_read: 5
+categories: poker
 title: tourney update
 ---
 

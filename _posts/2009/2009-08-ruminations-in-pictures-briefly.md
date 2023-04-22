@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2009-08-23T01:34:00.001-04:00'
-description: ''
-published: true
-slug: 2009-08-ruminations-in-pictures-briefly
 categories:
-- Around Town
-- Ruminations
-- In the News
-- Random Updates
-time_to_read: 5
+- around town
+- ruminations
+- in the news
+- random updates
 title: Ruminations in Pictures (Briefly)
 ---
 

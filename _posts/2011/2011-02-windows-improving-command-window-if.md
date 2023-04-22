@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-18T11:58:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-windows-improving-command-window-if
 categories:
-- Windows
-- Usability
-- Technology
-time_to_read: 5
+- windows
+- usability
+- technology
 title: 'Windows: Improving the Command Window, if Only Slightly'
 ---
 

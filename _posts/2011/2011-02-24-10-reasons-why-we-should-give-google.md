@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-02-24T23:24:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-24-10-reasons-why-we-should-give-google
 categories:
-- In the News
-- Technology
-time_to_read: 5
+- in the news
+- technology
 title: 10 Reasons Why We Should Give Google More Credit
 ---
 

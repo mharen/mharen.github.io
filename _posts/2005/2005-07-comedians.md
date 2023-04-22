@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-07-28T04:21:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-comedians
 categories:
-- Relaxing
-- Reviews
-time_to_read: 5
+- relaxing
+- reviews
 title: Comedians
 ---
 

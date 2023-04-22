@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-03-08T15:20:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-20-years-of-computing
 categories:
-time_to_read: 5
 title: +/-20 Years of Computing
 ---
 

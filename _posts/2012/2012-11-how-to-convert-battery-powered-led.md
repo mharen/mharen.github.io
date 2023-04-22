@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-11-16T23:59:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-how-to-convert-battery-powered-led
 categories:
-- NaBloPoMo 2012
-- Technology
-time_to_read: 5
+- nablopomo 2012
+- technology
 title: How to Convert Battery-Powered LED Christmas Lights to USB
 ---
 

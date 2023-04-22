@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-11-01T23:08:00.001-04:00'
-description: ''
-published: true
-slug: 2010-11-nanowrimo-arduino-style
 categories:
-- Arduino
-- Technology
-time_to_read: 5
+- arduino
+- technology
 title: 'Nanowrimo: Arduino Style'
 ---
 

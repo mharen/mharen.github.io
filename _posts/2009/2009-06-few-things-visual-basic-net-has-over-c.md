@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2009-06-22T23:09:00.003-04:00'
-description: ''
-published: true
-slug: 2009-06-few-things-visual-basic-net-has-over-c
-categories:
-- Code
-time_to_read: 5
+categories: code
 title: C# and VB.NET Compared
 ---
 

@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-03-05T18:08:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-active-directory-look-up
 categories:
-time_to_read: 5
 title: Active Directory Look-Up
 ---
 

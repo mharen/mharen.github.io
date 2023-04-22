@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-06-26T17:00:00.009-04:00'
-description: ''
-published: true
-slug: 2009-06-troubleshooting-elusive-site-slow-down
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: Troubleshooting an Elusive Site Slow Down
 ---
 

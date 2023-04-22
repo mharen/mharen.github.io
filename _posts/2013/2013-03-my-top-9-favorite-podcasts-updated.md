@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2013-03-11T17:46:00.000-04:00'
-description: ''
-published: true
-slug: 2013-03-my-top-9-favorite-podcasts-updated
 categories:
-- Science
-- Technology
-time_to_read: 5
+- science
+- technology
 title: My Top 9 Favorite Podcasts (Updated March 2013)
 ---
 

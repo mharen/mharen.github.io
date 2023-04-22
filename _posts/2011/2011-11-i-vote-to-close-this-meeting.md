@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-23T11:54:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-i-vote-to-close-this-meeting
 categories:
-- Work
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- work
+- nablopomo 2011
+- technology
 title: I Vote To Close This Meeting
 ---
 

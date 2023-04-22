@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-07-18T21:55:00.001-04:00'
-description: ''
-published: true
-slug: 2011-07-statistics-are-misleading-at-best
 categories:
-- Around Town
-- In the News
-time_to_read: 5
+- around town
+- in the news
 title: Statistics are Misleading At Best, Filthy Liars at Second Best
 ---
 

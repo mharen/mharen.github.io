@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-03-16T22:13:00.001-04:00'
-description: ''
-published: true
-slug: 2011-03-feature-complete-vs-complete-features
 categories:
-- Work
-- Ruminations
-- Technology
-time_to_read: 5
+- work
+- ruminations
+- technology
 title: Feature Complete vs. Complete Features
 ---
 

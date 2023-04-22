@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-03-01T14:03:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-word-document-automation-with-net-4
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: 'Word Document Automation with .NET 4: Attach Styles From a Template'
 ---
 

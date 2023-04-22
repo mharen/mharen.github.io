@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2010-09-30T16:16:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-why-i-love-having-decent-camera-phone
 categories:
-- Sarah
-- Family
-- Baby
-- Random Updates
-time_to_read: 5
+- sarah
+- family
+- baby
+- random updates
 title: Why I love Having a Decent Camera Phone
 ---
 

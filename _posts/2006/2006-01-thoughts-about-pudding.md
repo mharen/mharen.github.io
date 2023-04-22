@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-01-24T16:22:00.000-05:00'
-description: ''
-published: true
-slug: 2006-01-thoughts-about-pudding
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Thoughts About Pudding
 ---
 

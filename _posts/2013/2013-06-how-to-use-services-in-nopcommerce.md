@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2013-06-18T10:25:00.001-04:00'
-description: ''
-published: true
-slug: 2013-06-how-to-use-services-in-nopcommerce
 categories:
-- NopCommerce
-- Work
-- Code
-time_to_read: 5
+- nopcommerce
+- work
+- code
 title: "How to use services in a NopCommerce Plugin that it doesn\u2019t use by default"
 ---
 

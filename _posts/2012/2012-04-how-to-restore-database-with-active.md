@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-04-13T14:45:00.001-04:00'
-description: ''
-published: true
-slug: 2012-04-how-to-restore-database-with-active
 categories:
-- Database
-- Work
-- Code
-- Technology
-time_to_read: 5
+- database
+- work
+- code
+- technology
 title: How To Restore a Database With Active Connections
 ---
 

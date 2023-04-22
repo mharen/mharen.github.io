@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-03-28T16:40:00.000-04:00'
-description: ''
-published: true
-slug: 2007-03-funny-shirts-baby-stuff
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: Funny Shirts, Baby Stuff
 ---
 

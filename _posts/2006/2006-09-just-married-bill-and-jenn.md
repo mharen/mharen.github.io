@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-20T11:09:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-just-married-bill-and-jenn
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: 'Just Married: Bill and Jenn'
 ---
 

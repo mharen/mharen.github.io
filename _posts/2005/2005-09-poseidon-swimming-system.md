@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-21T02:22:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-poseidon-swimming-system
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Poseidon Swimming System
 ---
 

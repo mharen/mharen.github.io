@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-11-22T09:00:00.000-05:00'
-description: ''
-published: true
-slug: 2012-11-dear-children-you-are-awesome
 categories:
-- Family
-- NaBloPoMo 2012
-- Baby
-- Parenting
-time_to_read: 5
+- family
+- nablopomo 2012
+- baby
+- parenting
 title: 'Dear Children: You Are Awesome'
 ---
 

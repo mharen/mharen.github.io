@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-07-22T21:29:00.002-04:00'
-description: ''
-published: true
-slug: 2009-07-warning-this-is-kindof-gross
 categories:
-time_to_read: 5
 title: Warning ~ This is kindof gross
 ---
 

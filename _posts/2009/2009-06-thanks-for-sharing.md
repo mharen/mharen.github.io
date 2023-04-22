@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-06-24T22:31:00.001-04:00'
-description: ''
-published: true
-slug: 2009-06-thanks-for-sharing
 categories:
-time_to_read: 5
 title: "Thanks for Sharing\u2026"
 ---
 

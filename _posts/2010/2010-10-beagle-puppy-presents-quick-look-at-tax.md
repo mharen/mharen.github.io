@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-13T00:04:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-beagle-puppy-presents-quick-look-at-tax
-categories:
-- Money
-time_to_read: 5
+categories: money
 title: 'Beagle Puppy Presents: A Quick Look at Tax Brackets (Dull, I know, but Bear
   With Me!)'
 ---

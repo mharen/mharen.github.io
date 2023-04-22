@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-03-18T07:31:00.000-04:00'
-description: ''
-published: true
-slug: 2008-03-new-pics
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: New Pics
 ---
 

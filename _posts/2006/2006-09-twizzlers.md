@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-22T12:57:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-twizzlers
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Twizzlers
 ---
 

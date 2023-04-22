@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2009-08-14T10:15:00.001-04:00'
-description: ''
-published: true
-slug: 2009-08-enabling-dynamic-http-compression-in
-categories:
-- Windows
-time_to_read: 5
+categories: windows
 title: Enabling Dynamic HTTP Compression in IIS7 on Windows Server 2008
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-11-22T15:36:00.000-05:00'
-description: ''
-published: true
-slug: 2005-11-when-batteries-attack
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: When Batteries Attack!
 ---
 

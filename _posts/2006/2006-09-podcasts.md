@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-15T03:50:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-podcasts
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Podcasts
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-02-22T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-02-headhuntingfor-jobs
 categories:
-- School
-- Work
-time_to_read: 5
+- school
+- work
 title: headhunting...for jobs ;)
 ---
 

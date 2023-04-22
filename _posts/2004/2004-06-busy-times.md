@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2004-06-07T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2004-06-busy-times
 categories:
-- School
-- Work
-- Random Updates
-- Technology
-time_to_read: 5
+- school
+- work
+- random updates
+- technology
 title: Busy times
 ---
 

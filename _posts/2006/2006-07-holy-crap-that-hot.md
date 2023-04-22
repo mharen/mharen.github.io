@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-07-03T12:11:00.000-04:00'
-description: ''
-published: true
-slug: 2006-07-holy-crap-that-hot
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Holy Crap, That's Hot
 ---
 

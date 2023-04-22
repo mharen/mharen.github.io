@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-03-11T11:38:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-watch-out-for-that-distribution
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: Watch out for that Distribution Database
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-08-02T15:11:00.001-04:00'
-description: ''
-published: true
-slug: 2009-08-apache-reverse-proxy-implemented
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: Apache Reverse Proxy Implemented
 ---
 

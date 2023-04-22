@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-01-10T21:53:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-windows-7-tip-checkbox-based-file
 categories:
-- Windows
-- Technology
-time_to_read: 5
+- windows
+- technology
 title: 'Windows 7 Tip: Check Box-Based File Selection'
 ---
 

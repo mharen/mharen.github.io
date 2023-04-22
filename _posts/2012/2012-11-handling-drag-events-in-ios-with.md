@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-11-09T23:52:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-handling-drag-events-in-ios-with
 categories:
-- NaBloPoMo 2012
-- Code
-- Technology
-time_to_read: 5
+- nablopomo 2012
+- code
+- technology
 title: Handling Drag Events in iOS with Javascript
 ---
 

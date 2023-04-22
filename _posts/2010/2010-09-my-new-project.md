@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-09-21T23:29:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-my-new-project
 categories:
-- Technology
-- Project Noodle
-time_to_read: 5
+- technology
+- project noodle
 title: My New Project
 ---
 

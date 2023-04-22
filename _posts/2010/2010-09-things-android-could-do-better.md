@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-09-29T16:16:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-things-android-could-do-better
 categories:
-- Android
-- Technology
-time_to_read: 5
+- android
+- technology
 title: Things Android Could Do Better
 ---
 

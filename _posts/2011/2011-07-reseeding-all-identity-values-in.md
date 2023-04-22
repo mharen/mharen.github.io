@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-07-19T10:31:00.001-04:00'
-description: ''
-published: true
-slug: 2011-07-reseeding-all-identity-values-in
 categories:
-- Database
-- Work
-- Code
-- Technology
-time_to_read: 5
+- database
+- work
+- code
+- technology
 title: Reseeding *All* Identity Values in a Database
 ---
 

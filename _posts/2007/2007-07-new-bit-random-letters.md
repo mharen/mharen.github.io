@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-07-04T18:08:00.000-04:00'
-description: ''
-published: true
-slug: 2007-07-new-bit-random-letters
-categories:
-- Letters
-time_to_read: 5
+categories: letters
 title: 'New Bit: Random Letters'
 ---
 

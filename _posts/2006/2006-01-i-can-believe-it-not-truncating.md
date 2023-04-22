@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-01-25T09:44:00.000-05:00'
-description: ''
-published: true
-slug: 2006-01-i-can-believe-it-not-truncating
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: I can't believe it's not truncating!
 ---
 

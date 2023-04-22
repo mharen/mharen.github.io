@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-01-10T22:56:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-blurry-shapes-unleashing-bokeh
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: 'Blurry Shapes: Unleashing the Bokeh'
 ---
 

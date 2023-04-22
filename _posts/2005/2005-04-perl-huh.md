@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-04-24T20:00:00.001-04:00'
-description: ''
-published: true
-slug: 2005-04-perl-huh
 categories:
-- Code
-- Technology
-time_to_read: 5
+- code
+- technology
 title: Perl - huh?
 ---
 

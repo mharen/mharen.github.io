@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-11-19T22:31:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-fun-times-at-niagara-falls
 categories:
-- Family
-- NaBloPoMo 2012
-- Travel
-time_to_read: 5
+- family
+- nablopomo 2012
+- travel
 title: Fun Times at Niagara Falls With the Kiddos
 ---
 

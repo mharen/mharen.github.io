@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-07-22T22:23:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-structuring-our-developer-tools-with
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: Structuring Our Developer Tools with a Reverse Proxy
 ---
 

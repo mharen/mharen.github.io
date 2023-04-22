@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-07-28T20:36:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-tivo-to-rescue-slickdealsnet
 categories:
-- Television
-- Technology
-time_to_read: 5
+- television
+- technology
 title: TiVo to the Rescue, Slickdeals.net
 ---
 

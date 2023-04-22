@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2010-11-14T23:56:00.001-05:00'
-description: ''
-published: true
-slug: 2010-11-arduino-day-14-simple-conductivity
 categories:
-- 30 Days Of Arduino
-- Arduino
-- Code
-- Technology
-time_to_read: 5
+- 30 days of arduino
+- arduino
+- code
+- technology
 title: 'Arduino Day 14: Simple Conductivity Sensor'
 ---
 

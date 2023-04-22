@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-02-23T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-02-business-quote
 categories:
-- Poker
-- Random Updates
-time_to_read: 5
+- poker
+- random updates
 title: business quote
 ---
 

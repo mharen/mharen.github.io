@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-07-14T19:29:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-batman-355-stars
-categories:
-- Movies
-time_to_read: 5
+categories: movies
 title: Batman (3.5/5 stars)
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-05-16T20:00:00.001-04:00'
-description: ''
-published: true
-slug: 2005-05-music-freeloading
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: music freeloading
 ---
 

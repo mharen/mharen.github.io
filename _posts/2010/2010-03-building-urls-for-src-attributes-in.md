@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-03-10T12:01:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-building-urls-for-src-attributes-in
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: "Building URLs for \u201CSRC\u201D Attributes in ASP.NET MVC"
 ---
 

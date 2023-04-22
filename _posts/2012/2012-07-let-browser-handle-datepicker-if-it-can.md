@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-07-25T20:16:00.001-04:00'
-description: ''
-published: true
-slug: 2012-07-let-browser-handle-datepicker-if-it-can
 categories:
-- Work
-- Code
-- Technology
-time_to_read: 5
+- work
+- code
+- technology
 title: Let the Browser Handle the Datepicker (if it can)
 ---
 

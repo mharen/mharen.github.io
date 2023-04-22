@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-01-28T00:15:00.000-05:00'
-description: ''
-published: true
-slug: 2008-01-airplane-ruminations
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Airplane Ruminations
 ---
 

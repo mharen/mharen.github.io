@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-12-21T00:12:00.001-05:00'
-description: ''
-published: true
-slug: 2010-12-life-lessons-about-glitter
 categories:
-- Household
-- Sarah
-- Family
-time_to_read: 5
+- household
+- sarah
+- family
 title: "Life Lessons About Glitter (ZOMG IT\u2019S EVERYWHERE)"
 ---
 

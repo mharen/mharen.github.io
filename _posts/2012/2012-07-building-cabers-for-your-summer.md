@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-07-14T14:56:00.001-04:00'
-description: ''
-published: true
-slug: 2012-07-building-cabers-for-your-summer
 categories:
-- Work
-- Random Updates
-time_to_read: 5
+- work
+- random updates
 title: Building Cabers for your Summer Olympics
 ---
 

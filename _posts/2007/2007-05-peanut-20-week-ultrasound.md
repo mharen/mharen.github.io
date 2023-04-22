@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-05-13T16:50:00.000-04:00'
-description: ''
-published: true
-slug: 2007-05-peanut-20-week-ultrasound
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: Peanut's 20-Week Ultrasound
 ---
 

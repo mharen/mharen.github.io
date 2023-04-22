@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-01T23:17:00.001-04:00'
-description: ''
-published: true
-slug: 2011-11-campaigning-like-boss
 categories:
-- Work
-- Random Updates
-- NaBloPoMo 2011
-time_to_read: 5
+- work
+- random updates
+- nablopomo 2011
 title: Campaigning Like a Boss
 ---
 

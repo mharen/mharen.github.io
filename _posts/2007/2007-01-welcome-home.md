@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-01-31T16:13:00.000-05:00'
-description: ''
-published: true
-slug: 2007-01-welcome-home
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Welcome Home
 ---
 

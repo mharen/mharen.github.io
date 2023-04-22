@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-08T23:48:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-jim-pony-taxi-who-sounds-lot-like
 categories:
-- Work
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- work
+- nablopomo 2011
+- technology
 title: Jim, The Pony Taxi, Who Sounds A Lot Like an Engineer
 ---
 

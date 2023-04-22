@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-07T19:31:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-infinite-scroll-is-best-thing-since
 categories:
-- Usability
-- Technology
-time_to_read: 5
+- usability
+- technology
 title: Infinite Scroll Is The Best Thing Since XmlHttpRequest
 ---
 

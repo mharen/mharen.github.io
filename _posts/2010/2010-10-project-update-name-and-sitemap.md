@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-08T14:58:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-project-update-name-and-sitemap
 categories:
-- Technology
-- Project Noodle
-time_to_read: 5
+- technology
+- project noodle
 title: 'My New Project Update: Name and Sitemap'
 ---
 

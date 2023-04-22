@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-10-30T16:14:00.001-04:00'
-description: ''
-published: true
-slug: 2012-10-catching-unique-key-constraint
 categories:
-- Database
-- Work
-- Code
-- Technology
-time_to_read: 5
+- database
+- work
+- code
+- technology
 title: Catching Unique Key Constraint Violations with Entity Framework and SQL Server
 ---
 

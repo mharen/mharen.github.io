@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2004-07-18T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2004-07-workin-in-coal-mineerelectrical-supply
 categories:
-- Relaxing
-- Work
-- Random Updates
-time_to_read: 5
+- relaxing
+- work
+- random updates
 title: workin' in a coal mine...er...electrical supply company
 ---
 

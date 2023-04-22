@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-12-03T21:45:00.001-05:00'
-description: ''
-published: true
-slug: 2012-12-does-ios-report-usage-in-mebibytes-or
 categories:
-- Television
-- iOS
-- Apple
-- iPhone
-time_to_read: 5
+- television
+- ios
+- apple
+- iphone
 title: Does iOS Report Usage in Mebibytes or Megabytes?
 ---
 

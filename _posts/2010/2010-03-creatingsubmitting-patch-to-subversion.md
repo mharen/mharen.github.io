@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-03-08T13:38:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-creatingsubmitting-patch-to-subversion
 categories:
-time_to_read: 5
 title: Creating/Submitting a Patch to a Subversion Repo
 ---
 

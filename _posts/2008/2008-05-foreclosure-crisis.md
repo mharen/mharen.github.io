@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2008-05-24T18:06:00.000-04:00'
-description: ''
-published: true
-slug: 2008-05-foreclosure-crisis
 categories:
-- Money
-- In the News
-time_to_read: 5
+- money
+- in the news
 title: The Foreclosure Crisis
 ---
 

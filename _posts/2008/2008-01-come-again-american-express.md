@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2008-01-05T17:28:00.000-05:00'
-description: ''
-published: true
-slug: 2008-01-come-again-american-express
 categories:
-- Letters
-- Money
-time_to_read: 5
+- letters
+- money
 title: Come Again, American Express?
 ---
 

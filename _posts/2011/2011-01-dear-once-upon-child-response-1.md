@@ -1,15 +1,12 @@
 ---
+layout: post
 date: '2011-01-19T22:07:00.001-05:00'
-description: ''
-published: true
-slug: 2011-01-dear-once-upon-child-response-1
 categories:
-- Around Town
-- Letters
-- Reviews
-- Family
-- Baby
-time_to_read: 5
+- around town
+- letters
+- reviews
+- family
+- baby
 title: Dear Michael (Response from Once Upon A Child)
 ---
 

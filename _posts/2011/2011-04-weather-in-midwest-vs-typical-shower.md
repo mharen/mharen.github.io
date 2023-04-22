@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-04-14T19:58:00.001-04:00'
-description: ''
-published: true
-slug: 2011-04-weather-in-midwest-vs-typical-shower
 categories:
-- Around Town
-- Random Updates
-time_to_read: 5
+- around town
+- random updates
 title: Weather in the Midwest vs. A Typical Shower Faucet
 ---
 

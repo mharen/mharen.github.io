@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-15T04:42:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-working-like-it-my-job
-categories:
-- Work
-time_to_read: 5
+categories: work
 title: Working like it's my Job
 ---
 

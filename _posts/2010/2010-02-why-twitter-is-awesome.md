@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-02-27T19:04:00.001-05:00'
-description: ''
-published: true
-slug: 2010-02-why-twitter-is-awesome
 categories:
-time_to_read: 5
 title: Why Twitter is Awesome
 ---
 

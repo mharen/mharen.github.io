@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-12-02T06:19:00.000-05:00'
-description: ''
-published: true
-slug: 2005-12-healthyer-pick-me-up
-categories:
-- Work
-time_to_read: 5
+categories: work
 title: Healthy(er) pick me up!
 ---
 

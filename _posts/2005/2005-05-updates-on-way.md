@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2005-05-29T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-05-updates-on-way
 categories:
-- Television
-- School
-- Hockey
-- Random Updates
-time_to_read: 5
+- television
+- school
+- hockey
+- random updates
 title: updates on the way...
 ---
 

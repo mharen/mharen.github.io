@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-03-27T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-03-two-minute-minor
-categories:
-- Hockey
-time_to_read: 5
+categories: hockey
 title: two-minute minor
 ---
 

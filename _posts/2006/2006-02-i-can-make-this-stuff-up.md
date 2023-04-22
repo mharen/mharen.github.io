@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-02-02T10:24:00.000-05:00'
-description: ''
-published: true
-slug: 2006-02-i-can-make-this-stuff-up
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: I can't make this stuff up
 ---
 

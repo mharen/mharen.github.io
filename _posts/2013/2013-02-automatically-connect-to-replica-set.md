@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2013-02-19T18:36:00.000-05:00'
-description: ''
-published: true
-slug: 2013-02-automatically-connect-to-replica-set
 categories:
-- Database
-- MongoDB
-- Work
-- Code
-time_to_read: 5
+- database
+- mongodb
+- work
+- code
 title: Automatically Connect to the Replica Set Primary with Mongo Shell
 ---
 

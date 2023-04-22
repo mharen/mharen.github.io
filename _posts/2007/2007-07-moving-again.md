@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-07-04T17:43:00.000-04:00'
-description: ''
-published: true
-slug: 2007-07-moving-again
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Moving Again
 ---
 

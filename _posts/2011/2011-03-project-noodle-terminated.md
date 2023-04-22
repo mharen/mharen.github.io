@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-03-05T23:25:00.001-05:00'
-description: ''
-published: true
-slug: 2011-03-project-noodle-terminated
 categories:
-- Work
-- Technology
-- Project Noodle
-time_to_read: 5
+- work
+- technology
+- project noodle
 title: 'Project Noodle: Terminated'
 ---
 

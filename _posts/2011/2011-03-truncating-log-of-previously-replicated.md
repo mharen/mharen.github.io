@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-03-16T10:38:00.001-04:00'
-description: ''
-published: true
-slug: 2011-03-truncating-log-of-previously-replicated
 categories:
-- Database
-- Work
-- Code
-- Technology
-time_to_read: 5
+- database
+- work
+- code
+- technology
 title: Truncating the log of a previously replicated database
 ---
 

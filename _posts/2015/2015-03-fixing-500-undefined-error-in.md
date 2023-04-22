@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2015-03-24T09:16:00.001-04:00'
-description: ''
-published: true
-slug: 2015-03-fixing-500-undefined-error-in
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: 'Fixing "500 : undefined" error in Swashbuckle/Swagger'
 ---
 

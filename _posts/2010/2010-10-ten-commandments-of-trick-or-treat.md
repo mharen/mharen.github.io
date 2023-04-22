@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-31T17:54:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-ten-commandments-of-trick-or-treat
 categories:
-- Family
-- In the News
-time_to_read: 5
+- family
+- in the news
 title: Ten Commandments of Trick or Treat
 ---
 

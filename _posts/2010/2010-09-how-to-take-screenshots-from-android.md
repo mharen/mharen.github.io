@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-09-28T23:49:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-how-to-take-screenshots-from-android
 categories:
-- Android
-- Technology
-time_to_read: 5
+- android
+- technology
 title: How to Take Screenshots from an Android Phone
 ---
 

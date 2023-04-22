@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-03-18T21:45:00.001-04:00'
-description: ''
-published: true
-slug: 2010-03-healthcare-musings-part-4-from-friggin
 categories:
-- Healthcare
-- In the News
-time_to_read: 5
+- healthcare
+- in the news
 title: Healthcare Musings Part 4 (From a Friggin Airplane)
 ---
 

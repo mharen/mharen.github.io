@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-08-23T00:48:00.001-04:00'
-description: ''
-published: true
-slug: 2009-08-building-windows-sidebar-gadget
 categories:
-- Windows
-- Usability
-- Technology
-time_to_read: 5
+- windows
+- usability
+- technology
 title: Building a Windows Sidebar Gadget
 ---
 

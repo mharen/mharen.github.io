@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-21T08:04:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-download-debt-and-schedule-information
-categories:
-- Money
-time_to_read: 5
+categories: money
 title: Download Debt and Schedule Information
 ---
 

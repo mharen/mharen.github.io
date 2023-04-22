@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-07-18T19:59:00.001-04:00'
-description: ''
-published: true
-slug: 2011-07-how-to-cook-bacon-on-george-foreman
-categories:
-- Food
-time_to_read: 5
+categories: food
 title: How to Cook Bacon on a George Foreman Grill
 ---
 

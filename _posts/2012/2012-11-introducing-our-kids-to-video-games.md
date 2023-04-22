@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2012-11-05T14:47:00.000-05:00'
-description: ''
-published: true
-slug: 2012-11-introducing-our-kids-to-video-games
 categories:
-- Experiments
-- Family
-- NaBloPoMo 2012
-time_to_read: 5
+- experiments
+- family
+- nablopomo 2012
 title: Introducing Our Kids to Video Games
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2015-01-15T22:25:00.000-05:00'
-description: ''
-published: true
-slug: 2015-01-they-dont-make-greeting-card-for-that
-categories:
-- foster care
-time_to_read: 5
+categories: foster-care
 title: They don't make a greeting card for that
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2007-06-29T17:11:00.000-04:00'
-description: ''
-published: true
-slug: 2007-06-peanut-of-course
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: Peanut (of course!)
 ---
 

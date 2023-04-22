@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-02-11T10:22:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-recovering-from-sql-server-error-syntax
 categories:
-- Database
-- Technology
-time_to_read: 5
+- database
+- technology
 title: "Recovering from SQL Server Error: \u201CSyntax Error in TextHeader\u201D"
 ---
 

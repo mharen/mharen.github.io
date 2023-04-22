@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-07-29T00:19:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-when-it-comes-to-internet-connectivity
 categories:
-- Work
-- Networks
-- Technology
-time_to_read: 5
+- work
+- networks
+- technology
 title: When it Comes to Internet Connectivity, Business Users Get Screwed
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2009-09-29T00:03:00.001-04:00'
-description: ''
-published: true
-slug: 2009-09-to-fail-or-not-to-fail-plus-bonus
-categories:
-- Ruminations
-time_to_read: 5
+categories: ruminations
 title: To Fail Or Not To Fail; Plus Bonus Ruminations
 ---
 

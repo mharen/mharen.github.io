@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-07-17T12:33:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-new-site
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: New site
 ---
 

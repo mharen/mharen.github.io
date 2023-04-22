@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-05-22T18:00:00.000-04:00'
-description: ''
-published: true
-slug: 2008-05-maya-grace
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: Maya Grace
 ---
 

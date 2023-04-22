@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2009-09-30T23:35:00.001-04:00'
-description: ''
-published: true
-slug: 2009-09-food-allergies-fun
 categories:
-time_to_read: 5
 title: Food Allergies != Fun
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-09-16T16:37:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-gas-prices
-categories:
-- In the News
-time_to_read: 5
+categories: in the news
 title: Gas prices
 ---
 

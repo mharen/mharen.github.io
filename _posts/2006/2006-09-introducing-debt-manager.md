@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-20T09:45:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-introducing-debt-manager
-categories:
-- Money
-time_to_read: 5
+categories: money
 title: 'Introducing: Debt Manager'
 ---
 

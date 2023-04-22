@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2012-12-11T10:18:00.001-05:00'
-description: ''
-published: true
-slug: 2012-12-sap-connector-error-service-unknown
 categories:
-- Work
-- Code
-- Technology
-- SAP
-time_to_read: 5
+- work
+- code
+- technology
+- sap
 title: "SAP Connector: \u201CERROR service '?' unknown\u201D (SOLVED)"
 ---
 

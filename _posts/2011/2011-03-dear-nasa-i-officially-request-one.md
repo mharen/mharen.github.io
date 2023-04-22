@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-03-09T09:45:00.001-05:00'
-description: ''
-published: true
-slug: 2011-03-dear-nasa-i-officially-request-one
 categories:
-- Letters
-- In the News
-- Random Updates
-time_to_read: 5
+- letters
+- in the news
+- random updates
 title: Dear NASA, I Officially Request One Space Shuttle
 ---
 

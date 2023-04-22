@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-09-21T00:09:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-about-those-magic-eye-things
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: About Those Magic Eye Things
 ---
 

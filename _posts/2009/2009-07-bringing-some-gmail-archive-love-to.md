@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2009-07-11T09:26:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-bringing-some-gmail-archive-love-to
 categories:
-- Work
-- Usability
-- Code
-- Technology
-time_to_read: 5
+- work
+- usability
+- code
+- technology
 title: Bringing some Gmail-Archive Love to Outlook
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2009-08-04T00:09:00.001-04:00'
-description: ''
-published: true
-slug: 2009-08-were-going-to-zoo-zoo-zoohow-aboutwhat
 categories:
-- Family
-- Ruminations
-time_to_read: 5
+- family
+- ruminations
 title: "We\u2019re going to the zoo--zoo--zoo\u2026how about\u2014what are you looking\
   \ at?!"
 ---

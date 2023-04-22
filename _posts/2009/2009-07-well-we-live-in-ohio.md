@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-07-04T23:28:00.001-04:00'
-description: ''
-published: true
-slug: 2009-07-well-we-live-in-ohio
 categories:
-- Relaxing
-- Family
-- Random Updates
-time_to_read: 5
+- relaxing
+- family
+- random updates
 title: Well, we live in Ohio.
 ---
 

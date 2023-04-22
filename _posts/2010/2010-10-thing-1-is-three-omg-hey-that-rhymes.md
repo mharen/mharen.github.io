@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-05T17:30:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-thing-1-is-three-omg-hey-that-rhymes
-categories:
-- Family
-time_to_read: 5
+categories: family
 title: Thing 1 is Three, OMG (Hey! That Rhymes!)
 ---
 

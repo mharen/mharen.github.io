@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-04-19T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-04-hockey-madness
-categories:
-- Hockey
-time_to_read: 5
+categories: hockey
 title: Hockey Madness!
 ---
 

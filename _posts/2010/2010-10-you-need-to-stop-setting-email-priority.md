@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-04T22:57:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-you-need-to-stop-setting-email-priority
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: You Need to Stop Setting Email Priority
 ---
 

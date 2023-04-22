@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-21T23:20:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-hey-zoo-membership-dude-letter-from
 categories:
-- Around Town
-- Letters
-- Family
-time_to_read: 5
+- around town
+- letters
+- family
 title: 'Hey Zoo Membership Dude: A Letter from Tammy the Tamarin'
 ---
 

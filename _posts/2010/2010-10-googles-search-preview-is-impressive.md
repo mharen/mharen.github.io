@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-10-18T17:04:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-googles-search-preview-is-impressive
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: "Google\u2019s Search Preview Is Impressive"
 ---
 

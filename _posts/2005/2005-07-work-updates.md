@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-07-25T19:23:00.000-04:00'
-description: ''
-published: true
-slug: 2005-07-work-updates
-categories:
-- Work
-time_to_read: 5
+categories: work
 title: Work Updates
 ---
 

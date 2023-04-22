@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-12-14T17:24:00.001-05:00'
-description: ''
-published: true
-slug: 2010-12-last-minute-gifts-guide-2010
 categories:
-- In the News
-- Random Updates
-time_to_read: 5
+- in the news
+- random updates
 title: 'Last Minute Gifts: Guide 2010'
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-03-10T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-03-workyaaaay
-categories:
-- Work
-time_to_read: 5
+categories: work
 title: Work...yaaaay!
 ---
 

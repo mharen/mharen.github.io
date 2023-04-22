@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2004-06-16T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2004-06-movin-on-up
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: Movin' on up..
 ---
 

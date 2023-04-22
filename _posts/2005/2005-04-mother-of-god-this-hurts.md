@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-04-26T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-04-mother-of-god-this-hurts
-categories:
-- Hockey
-time_to_read: 5
+categories: hockey
 title: Mother of God this hurts
 ---
 

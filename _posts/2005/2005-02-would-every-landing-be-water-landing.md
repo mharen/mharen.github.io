@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-02-17T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-02-would-every-landing-be-water-landing
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: Would every landing be a water landing?
 ---
 

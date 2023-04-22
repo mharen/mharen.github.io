@@ -1,10 +1,7 @@
 ---
+layout: post
 date: '2010-03-18T00:19:00.001-04:00'
-description: ''
-published: true
-slug: 2010-03-power-of-defaults-and-sourcesafe-really
 categories:
-time_to_read: 5
 title: 'The Power of Defaults, and: SourceSafe Really is That Bad'
 ---
 

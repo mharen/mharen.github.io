@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-09-30T10:27:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-anatomy-of-typical-sensationalist-news
-categories:
-- In the News
-time_to_read: 5
+categories: in the news
 title: Anatomy of a Typical Sensationalist News Story
 ---
 

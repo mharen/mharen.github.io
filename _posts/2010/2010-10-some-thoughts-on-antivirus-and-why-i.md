@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-10-24T22:35:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-some-thoughts-on-antivirus-and-why-i
 categories:
-- Windows
-- Technology
-time_to_read: 5
+- windows
+- technology
 title: Some Thoughts on Antivirus and Why I Now Use It
 ---
 

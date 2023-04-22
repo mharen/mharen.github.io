@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2009-06-30T15:58:00.002-04:00'
-description: ''
-published: true
-slug: 2009-06-amoeba-fever-problem
 categories:
-- Math
-- Code
-- Technology
-time_to_read: 5
+- math
+- code
+- technology
 title: Amoeba Fever Problem
 ---
 

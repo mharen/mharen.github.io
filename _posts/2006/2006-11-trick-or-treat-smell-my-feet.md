@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-11-01T13:15:00.000-05:00'
-description: ''
-published: true
-slug: 2006-11-trick-or-treat-smell-my-feet
-categories:
-- Around Town
-time_to_read: 5
+categories: around-town
 title: Trick or Treat, Smell my Feet
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-09-15T05:25:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-sailing-great-lakes
 categories:
-- Relaxing
-- Work
-time_to_read: 5
+- relaxing
+- work
 title: Sailing the Great Lakes
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-11-04T21:10:00.001-04:00'
-description: ''
-published: true
-slug: 2011-11-oh-no-i-have-interview-today-and-did
 categories:
-- Work
-- NaBloPoMo 2011
-time_to_read: 5
+- work
+- nablopomo 2011
 title: Oh no! I have an interview today and did absolutely nothing to prepare!
 ---
 

@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2004-02-03T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2004-02-superbowl-superschool-supermice
 categories:
-- Television
-- School
-- Random Updates
-time_to_read: 5
+- television
+- school
+- random updates
 title: Superbowl, Superschool, Supermice
 ---
 

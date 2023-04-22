@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-11-14T23:00:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-if-you-use-outlooks-handy-meeting
 categories:
-- Work
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- work
+- nablopomo 2011
+- technology
 title: 'Outlook Tip: Automatically Archive Annoying Meeting Invitation Responses'
 ---
 

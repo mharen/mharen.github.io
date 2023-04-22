@@ -1,16 +1,13 @@
 ---
+layout: post
 date: '2005-04-12T20:00:00.001-04:00'
-description: ''
-published: true
-slug: 2005-04-random-updates
 categories:
-- Television
-- School
-- Work
-- Hockey
-- Movies
-- Random Updates
-time_to_read: 5
+- television
+- school
+- work
+- hockey
+- movies
+- random updates
 title: random updates
 ---
 

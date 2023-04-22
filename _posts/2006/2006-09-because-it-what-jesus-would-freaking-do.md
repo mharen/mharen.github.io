@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-25T18:09:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-because-it-what-jesus-would-freaking-do
-categories:
-- Television
-time_to_read: 5
+categories: television
 title: Because it's what Jesus Would Freaking Do
 ---
 

@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-12-14T09:44:00.000-05:00'
-description: ''
-published: true
-slug: 2005-12-so-server-was-down-big-deal
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: So the server was down, big deal!
 ---
 

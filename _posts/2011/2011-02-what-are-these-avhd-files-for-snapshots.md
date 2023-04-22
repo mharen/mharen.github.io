@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-02-16T19:27:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-what-are-these-avhd-files-for-snapshots
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'Hyper-V: What are these *.avhd files for? Snapshots? But I have no snapshots!'
 ---
 

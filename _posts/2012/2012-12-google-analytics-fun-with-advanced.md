@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2012-12-12T18:55:00.001-05:00'
-description: ''
-published: true
-slug: 2012-12-google-analytics-fun-with-advanced
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: 'Google Analytics: Fun with Advanced Segments'
 ---
 

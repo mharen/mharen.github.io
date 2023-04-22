@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-02-03T21:24:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-special-message-from-thing1-and-thing2
 categories:
-- Sarah
-- Family
-- Baby
-time_to_read: 5
+- sarah
+- family
+- baby
 title: A Special Message From Thing1 and Thing2
 ---
 

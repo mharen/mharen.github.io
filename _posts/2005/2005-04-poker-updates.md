@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-04-24T20:00:00.000-04:00'
-description: ''
-published: true
-slug: 2005-04-poker-updates
-categories:
-- Poker
-time_to_read: 5
+categories: poker
 title: Poker updates
 ---
 

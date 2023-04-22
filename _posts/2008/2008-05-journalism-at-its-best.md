@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2008-05-23T06:27:00.000-04:00'
-description: ''
-published: true
-slug: 2008-05-journalism-at-its-best
-categories:
-- In the News
-time_to_read: 5
+categories: in the news
 title: Journalism At Its Best
 ---
 

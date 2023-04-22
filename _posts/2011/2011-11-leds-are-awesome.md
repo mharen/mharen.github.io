@@ -1,14 +1,11 @@
 ---
+layout: post
 date: '2011-11-15T22:12:00.001-05:00'
-description: ''
-published: true
-slug: 2011-11-leds-are-awesome
 categories:
-- Household
-- Around Town
-- NaBloPoMo 2011
-- Technology
-time_to_read: 5
+- household
+- around town
+- nablopomo 2011
+- technology
 title: LEDs Have Arrived!
 ---
 

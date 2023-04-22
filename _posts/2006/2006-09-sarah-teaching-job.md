@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-09-15T04:53:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-sarah-teaching-job
 categories:
-- School
-- Work
-time_to_read: 5
+- school
+- work
 title: Sarah's Teaching Job
 ---
 

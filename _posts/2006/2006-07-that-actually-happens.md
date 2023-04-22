@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-07-19T09:53:00.000-04:00'
-description: ''
-published: true
-slug: 2006-07-that-actually-happens
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: That Actually Happens?!
 ---
 

@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2006-03-23T11:08:00.000-05:00'
-description: ''
-published: true
-slug: 2006-03-prime-numbers
 categories:
-- School
-- Technology
-time_to_read: 5
+- school
+- technology
 title: Prime Numbers
 ---
 

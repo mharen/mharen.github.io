@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-10-24T23:40:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-project-noodle-initial-database-design
 categories:
-- Database
-- Technology
-- Project Noodle
-time_to_read: 5
+- database
+- technology
+- project noodle
 title: 'Project Noodle: Initial Database Design'
 ---
 

@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-03-02T23:11:00.001-05:00'
-description: ''
-published: true
-slug: 2011-03-how-much-does-apple-addiction-cost
 categories:
-- Money
-- In the News
-- Technology
-time_to_read: 5
+- money
+- in the news
+- technology
 title: How Much Does an Apple Addiction Cost?
 ---
 

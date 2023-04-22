@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-12-17T23:01:00.001-05:00'
-description: ''
-published: true
-slug: 2012-12-goodbye-hello
 categories:
-- Work
-- Random Updates
-time_to_read: 5
+- work
+- random updates
 title: Goodbye, Hello
 ---
 

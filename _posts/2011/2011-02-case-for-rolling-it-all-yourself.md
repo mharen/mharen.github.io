@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2011-02-07T22:14:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-case-for-rolling-it-all-yourself
 categories:
-- Usability
-- Technology
-time_to_read: 5
+- usability
+- technology
 title: A Case For Rolling It (All) Yourself
 ---
 

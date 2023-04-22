@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2005-03-11T19:00:00.000-05:00'
-description: ''
-published: true
-slug: 2005-03-saw-45-bananas
-categories:
-- Movies
-time_to_read: 5
+categories: movies
 title: Saw (4/5 bananas)
 ---
 

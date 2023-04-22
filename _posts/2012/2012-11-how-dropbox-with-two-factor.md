@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-11-02T22:24:00.001-04:00'
-description: ''
-published: true
-slug: 2012-11-how-dropbox-with-two-factor
 categories:
-- NaBloPoMo 2012
-- Technology
-time_to_read: 5
+- nablopomo 2012
+- technology
 title: How Dropbox with Two-Factor Authentication Neatly Handles Application Specific
   Passwords
 ---

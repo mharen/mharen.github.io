@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-09-27T09:30:00.000-04:00'
-description: ''
-published: true
-slug: 2006-09-average-blah-has-bajillion-times-more
-categories:
-- Random Updates
-time_to_read: 5
+categories: random-updates
 title: 'The average blah has a bajillion times more bacteria than the average
 
   toilet seat'

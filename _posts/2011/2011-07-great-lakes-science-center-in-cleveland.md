@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-07-24T21:31:00.001-04:00'
-description: ''
-published: true
-slug: 2011-07-great-lakes-science-center-in-cleveland
 categories:
-- Around Town
-- Family
-- Baby
-time_to_read: 5
+- around town
+- family
+- baby
 title: The Great Lakes Science Center in Cleveland, Ohio
 ---
 

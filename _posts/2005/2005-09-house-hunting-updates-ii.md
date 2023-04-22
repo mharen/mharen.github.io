@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2005-09-09T17:55:00.000-04:00'
-description: ''
-published: true
-slug: 2005-09-house-hunting-updates-ii
 categories:
-- Around Town
-- Random Updates
-time_to_read: 5
+- around town
+- random updates
 title: House Hunting Updates (II)
 ---
 

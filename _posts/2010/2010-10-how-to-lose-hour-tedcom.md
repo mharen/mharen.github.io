@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2010-10-04T12:45:00.001-04:00'
-description: ''
-published: true
-slug: 2010-10-how-to-lose-hour-tedcom
 categories:
-- In the News
-- Random Updates
-- Technology
-time_to_read: 5
+- in the news
+- random updates
+- technology
 title: 'How to lose an hour: TED.com'
 ---
 

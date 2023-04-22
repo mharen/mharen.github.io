@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-09-30T00:57:00.001-04:00'
-description: ''
-published: true
-slug: 2010-09-in-defense-of-stackexchange-or-trust
-categories:
-- Technology
-time_to_read: 5
+categories: technology
 title: In Defense of StackExchange / Trust the Experts / Roy Osherove is Wrong
 ---
 

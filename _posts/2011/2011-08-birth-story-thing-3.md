@@ -1,13 +1,10 @@
 ---
+layout: post
 date: '2011-08-21T00:28:00.001-04:00'
-description: ''
-published: true
-slug: 2011-08-birth-story-thing-3
 categories:
-- Family
-- Baby
-- Parenting
-time_to_read: 5
+- family
+- baby
+- parenting
 title: 'Birth Story: Thing 3'
 ---
 

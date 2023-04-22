@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2012-11-23T13:49:00.001-05:00'
-description: ''
-published: true
-slug: 2012-11-amazons-impressive-gift-wrap-service
 categories:
-- NaBloPoMo 2012
-- Random Updates
-time_to_read: 5
+- nablopomo 2012
+- random updates
 title: "How I Discovered Amazon\u2019s Impressive Gift Wrap Service Via a Generous\
   \ Friend"
 ---

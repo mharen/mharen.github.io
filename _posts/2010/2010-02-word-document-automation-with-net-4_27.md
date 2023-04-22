@@ -1,12 +1,9 @@
 ---
+layout: post
 date: '2010-02-27T12:02:00.001-05:00'
-description: ''
-published: true
-slug: 2010-02-word-document-automation-with-net-4_27
 categories:
-- Work
-- Technology
-time_to_read: 5
+- work
+- technology
 title: 'Word Document Automation with .NET 4: Update All Fields'
 ---
 

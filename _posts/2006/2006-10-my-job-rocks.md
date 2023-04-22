@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2006-10-29T12:40:00.000-05:00'
-description: ''
-published: true
-slug: 2006-10-my-job-rocks
-categories:
-- Work
-time_to_read: 5
+categories: work
 title: My Job Rocks
 ---
 

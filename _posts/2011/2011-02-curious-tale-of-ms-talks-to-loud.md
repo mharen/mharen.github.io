@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2011-02-28T23:53:00.001-05:00'
-description: ''
-published: true
-slug: 2011-02-curious-tale-of-ms-talks-to-loud
-categories:
-- Around Town
-time_to_read: 5
+categories: around-town
 title: The Curious Tale of Ms. Talks-Too-Loud
 ---
 

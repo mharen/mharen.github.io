@@ -1,11 +1,7 @@
 ---
+layout: post
 date: '2010-03-05T11:59:00.001-05:00'
-description: ''
-published: true
-slug: 2010-03-htmljs-progressive-enhancement
-categories:
-- Code
-time_to_read: 5
+categories: code
 title: 'HTML/JS: Progressive Enhancement'
 ---
 
