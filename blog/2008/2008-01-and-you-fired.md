@@ -11,4 +11,4 @@ time_to_read: 5
 title: And You're Fired!
 ---
 
-<a href="http://www.wassupy.com/wp-content/uploads/2008/01/firedpuppy.jpg"><img src="http://www.wassupy.com/wp-content/uploads/2008/01/firedpuppy-small.jpg" /></a>
+![firedpuppy.jpg](firedpuppy.jpg)</a>

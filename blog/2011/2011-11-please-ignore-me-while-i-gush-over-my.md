@@ -50,10 +50,10 @@ Regarding the keyboard, I'm sure few will share this complaint, but I miss my co
 While I do like having proper** page up/down** buttons, the layout is weird. My intuition has me hitting the wrong one, thinking that they should be reversed. Or really, they should be somewhere else. I wish I could order this thing with a standard arrow/nav arrangement instead of the 10-key. *That'd be awesome.*
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="352" src="http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s640/have.png" width="640" /></a></div>
+<a href="http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;">![have.png](have.png)</a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="593" src="http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s640/want.png" width="640" /></a></div>
+<a href="http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;">![want.png](want.png)</a></div>
 <br />
 The track pad is fine, but the **track pad scroll support** leaves a little to be desired. I find it jumps around when I try to scroll. The experience is hard to describe, so you'll just have to take my word for it: it's a bit jarring. I assume it's a software issue so maybe it'll go away with a driver update or by tweaking a bunch of random settings.
 
@@ -63,11 +63,11 @@ I am overwhelmingly thrilled with this thing. It's fast and reliable. It seems t
 I don't know how meaningful these things are but I've become quite obsessed with my Windows Experience Index scores. Here's my old machine, just before I moved its hard drive over.:
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s640/d520+wei.png" width="640" /></a></div>
+<a href="http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;">![d520+wei.png](d520+wei.png)</a></div>
 <br />
 And my new one:
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="203" src="http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s640/e6520+wei.png" width="640" /></a></div>
+<a href="http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;">![e6520+wei.png](e6520+wei.png)</a></div>
 <br />
 That's a big leap, and I can feel it.

@@ -11,7 +11,7 @@ time_to_read: 5
 title: 'Speed Matters: How to Talk About It'
 ---
 
-<p>I spend a lot of time discussing software with all kinds of people who are not software people (that’s why they hire me!). Some things are easy to describe with a mockup or a formula. For example, screens like these:</p>  <p align="center"><img alt="image" height="283" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TaeZjq2uBJI/AAAAAAAABgQ/3GWeZQGzf0o/image%5B2%5D.png" style="margin: 3px 0px; display: inline;" title="image" width="221" />&#160; <img alt="image" height="325" src="http://lh3.ggpht.com/_IKD9WtY5kxU/TaeZj7q82gI/AAAAAAAABgU/h3zE_UiJadY/image%5B8%5D.png" style="margin: 3px; display: inline;" title="image" width="415" /></p>
+<p>I spend a lot of time discussing software with all kinds of people who are not software people (that’s why they hire me!). Some things are easy to describe with a mockup or a formula. For example, screens like these:</p>  <p align="center">![image%5B8%5D.png](image%5B8%5D.png)</p>
 <p>Such screens don’t require all that much explanation as the pictures communicate things so well. Let’s look at the second screen—with the table. </p>
 <p>Suppose those messages were loaded from a database and the customer wanted new messages to appear automatically (i.e. without clicking refresh). OK, sure—no problem! This comes up all the time and this is the conversation that always occurs (if you get lost, the software guy is the one asking all the questions and the customer is the one giving vague, unhelpful answers):</p>
 <blockquote> 
@@ -34,7 +34,7 @@ title: 'Speed Matters: How to Talk About It'
 <p><strong>II. Text Message </strong>speed is anything that takes about 10-20 seconds. If you text someone, you know you’ve got at least 30 seconds before you hear back. I think this is the level that most people expect “real-time” applications to operate in.</p>
 <p><strong>III. Email speed</strong> is anything that takes a minute or two. This is long enough that you might take a break from whatever you’re doing instead of hitting “refresh” a million times. It’s also the most inconsistent—no one’s all that surprised when an email that usually arrives promptly takes an hour or more to show up.</p>
 <p><strong>IV.</strong> Finally, there’s <strong>everything else speed</strong>. This includes daily builds or overnight batch jobs. These are things like newsletters that go out once a day or physical things you put in mailboxes. It could also be a large file download. If it takes more than a few minutes, it might as well take a few hours or days.</p>
-<p><img alt="image" height="328" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TaeZkFzCosI/AAAAAAAABgY/duss0zJizhU/image%5B17%5D.png" style="margin: 3px auto; display: block; float: none;" title="image" width="504" /></p>
+<p>![image%5B17%5D.png](image%5B17%5D.png)</p>
 <p>This has a lovely logarithmic quality about it, doesn’t it?</p>
 <p>If it’s not already obvious, the reason it’s so important that everyone be at the same level in conversation is that <strong>the cost of speed is substantial</strong>, especially at level one. <strong>If being crazy fast was easy, everyone would do it.</strong></p>
 

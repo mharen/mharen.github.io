@@ -13,11 +13,11 @@ title: Watch out for that Distribution Database
 ---
 
 <p>I received some pretty <a href="http://twitter.com/mharen/status/10326855258">serious alerts this morning</a> about our database server running low on disk space and quickly discovered something amiss:</p>
-<p><img alt="image" border="0" height="58" src="http://lh5.ggpht.com/_IKD9WtY5kxU/S5kch_P0yoI/AAAAAAAAArI/dLksI7uk940/image%5B2%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="image" width="210" /> </p>
+<p>![image%5B2%5D.png](image%5B2%5D.png) </p>
 <p>That’s a tad higher than usual…just 100x bigger than it should be (yikes)! Allow me to illustrate how I imagine the last few months going for this gargantuan file:</p>
-<p><img alt="db-growth" border="0" height="455" src="http://lh6.ggpht.com/_IKD9WtY5kxU/S5kciOjEgMI/AAAAAAAAArM/v7SQotcU79Y/db-growth%5B5%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="db-growth" width="631" /> </p>
+<p>![db-growth%5B5%5D.png](db-growth%5B5%5D.png) </p>
 <p>The problem turned out to be that several of the replication SQL jobs were disabled (since…months ago). The pertinent job is probably this one, the distribution clean up job:</p>
-<p><img alt="image" border="0" height="20" src="http://lh3.ggpht.com/_IKD9WtY5kxU/S5kciRVAdSI/AAAAAAAAArQ/yqxehPZak48/image%5B5%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="image" width="226" /> </p>
+<p>![image%5B5%5D.png](image%5B5%5D.png) </p>
 <p>It’s supposed to run every 10 minutes to tidy things up in the distribution database. I guess not running for <em>three months </em>could lead to some problems (eek!). There’s really no excuse for this—it’s embarrassing. I’m not the DBA for this system but I should have noticed; a lot of people should have noticed.</p>
 <p>Since this task was disabled (not failing), it didn’t show up in our usual alert stream. I’m not sure how we solve that problem other than create an alert that detects disabled jobs. Or better yet, we could create alerts that fire whenever the job hasn’t run in the last <em>n</em> minutes—something like that. </p>
 <p>Of course adding more sensitive alerts to the sizes of certain files or the free space of certain drives will help, too.</p>

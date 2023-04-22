@@ -13,4 +13,4 @@ title: Does this baby make me look fat?
 
 Check out the new header!
 
-<a href="http://pregnancy.baby-gaga.com/"><a href="http://pregnancy.baby-gaga.com/"><img alt="pregnancy calendar" border="0" src="http://tickers.baby-gaga.com/p/dev271pr___.png" /></a>
+<a href="http://pregnancy.baby-gaga.com/"><a href="http://pregnancy.baby-gaga.com/">![dev271pr___.png](dev271pr___.png)</a>

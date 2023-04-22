@@ -11,6 +11,6 @@ time_to_read: 5
 title: Holy Crap, That's Hot
 ---
 
-<img src="http://www.wassupy.com/wp-content/uploads/2006/07/hothothot.jpg" />
+![hothothot.jpg](hothothot.jpg)
 
 In Raleigh, at least. I will be getting my AC charged pronto--with temperatures like this, I could probably make a health insuance claim for it.

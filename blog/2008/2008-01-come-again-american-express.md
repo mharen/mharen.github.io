@@ -12,7 +12,7 @@ time_to_read: 5
 title: Come Again, American Express?
 ---
 
-I have been traveling a quite bit lately for work and at my office we don't use corporate cards. So to make finances a little easier, I started using a "business-only" card in October which would generally be used for only work-related expenses.<br /><p align="center"><img alt="Amex Gold Card" src="http://www.wassupy.com/wp-content/uploads/2008/01/amex_gold_card_full.jpg" /></p><br />I used an American Express Gold card for this because it had no pre-set spending limit (some business trips can get pricey) and it had excellent sign up rewards. The first two trips went well and I was happy with my new card. However, during a longer trip in December I ran into a snag. Here's how I explained the problem in a letter to American Express after the incident:<br /><blockquote>Customer Service,
+I have been traveling a quite bit lately for work and at my office we don't use corporate cards. So to make finances a little easier, I started using a "business-only" card in October which would generally be used for only work-related expenses.<br /><p align="center">![amex_gold_card_full.jpg](amex_gold_card_full.jpg)<blockquote>Customer Service,
 
 I am writing to bring a recent incident to your attention. I signed up for an American Express Gold card with no preset spending limit in October. I had several business trips planned and had intended to use this business card for all of them.
 

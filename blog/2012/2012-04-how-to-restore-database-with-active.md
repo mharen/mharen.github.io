@@ -27,7 +27,7 @@ title: How To Restore a Database With Active Connections
   <pre class="csharpcode"><span class="kwrd">EXEC</span> sp_who2 </pre>
 </blockquote>
 
-<pre><font face="Trebuchet MS"><a href="http://lh4.ggpht.com/-EZc6brv5Nf4/T4h0NIX7N4I/AAAAAAAAEaw/kDbP2vJ1XMg/s1600-h/SNAG-00242.png"><img alt="SNAG-0024" height="302" src="http://lh6.ggpht.com/-T4pdPPP1y8Q/T4h0N88aeqI/AAAAAAAAEa4/pEViw2LEw_0/SNAG-0024_thumb.png" style="margin: 3px auto; display: block; float: none;" title="SNAG-0024" width="472" /></a></font></pre>
+<pre><font face="Trebuchet MS">![SNAG-00242.png](SNAG-00242.png)</a></font></pre>
 
 <p>Copy down all the SPIDs associated with the DB you want to overwrite. Obviously your DB will be there instead of “OMS”—that’s mine, get your own!</p>
 

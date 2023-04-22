@@ -59,32 +59,32 @@ Alternate Methods</h2>
 Internet Explorer</h3>
 </div>
 <div>
-<img border="0" src="https://lh5.googleusercontent.com/-YFN2F2-ihgo/TYpsGTuxUhI/AAAAAAAABfE/v45MA_Q48PE/s320/ie-file-print.png" />
+![ie-file-print.png](ie-file-print.png)
 </div>
 <div>
 or
 </div>
 <div>
-<img border="0" src="https://lh6.googleusercontent.com/-7IydI5Zog1A/TYpsGacmUoI/AAAAAAAABfI/xHaC7L8FnC8/s320/ie-right-click.png" />
+![ie-right-click.png](ie-right-click.png)
 </div>
 <div>
 <h3>
 Chrome:</h3>
 </div>
 <div>
-<img border="0" src="https://lh5.googleusercontent.com/-K-8-bwRN6JU/TYpsG7x_YkI/AAAAAAAABfM/d1S5YMO9oHc/s320/chrome-file-print.png" />
+![chrome-file-print.png](chrome-file-print.png)
 </div>
 <div>
 or</div>
 <div>
-<img border="0" src="https://lh3.googleusercontent.com/-8O8TUn7dK5U/TYpsHBAMW0I/AAAAAAAABfQ/9XOFK9yZEA0/s320/chrome-right-click.png" />
+![chrome-right-click.png](chrome-right-click.png)
 </div>
 <div>
 <h3>
 Firefox</h3>
 </div>
 <div>
-<img border="0" src="https://lh4.googleusercontent.com/-WEiI1mbF-CQ/TYp5HI-5JkI/AAAAAAAABfU/HJUfRnpSsGo/s320/firefox-file-print.png" />
+![firefox-file-print.png](firefox-file-print.png)
 </div>
 </div>
 

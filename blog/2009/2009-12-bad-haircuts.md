@@ -14,7 +14,7 @@ title: Bad Haircuts
 
 <p>A while back I got the worst haircut I’ve ever gotten. I could tell because when men get haircuts, they go unacknowledged (my wife usually doesn’t even notice!). But people noticed me this time.</p>
 <p>I could see the flurry of familiar questions each horrified/amused onlooker mentally dismissed when they first met me after the cut…did he cut his own hair? Is that a wig? Did he pay for that? Then I’d invariably see their eyes trace a circle around my head as they imagined the bowl that must have been used as a cutting template. It came out something like this:</p>
-<p><img alt="image" border="0" height="273" src="http://lh5.ggpht.com/_IKD9WtY5kxU/SzBDZ0eZpcI/AAAAAAAAAkY/vk6cm69Vu6c/image%5B7%5D.png" style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px;" title="image" width="379" /></p>
+<p>![image%5B7%5D.png](image%5B7%5D.png)</p>
 <p>Maybe I got what I deserved by going to a place called Fantastic Sams and paying a mere $11.</p>
 <p>But wait, since it’s almost Tuesday, let’s make this a twofer. A few months later I went to a Great Clips that had just opened by our house. It turns out that it’s a terrible idea to go to a haircutter’s grand opening. Let me guide you through the cut…</p>
 <p>So there I was looking a little scruffy, hoping for a trim, so I hopped into the chair and described what I wanted. The cutter gets started and does the clipper thing and some scissors and we start to talking. I ask my usual question which is something about how busy they are (not). </p>
@@ -35,7 +35,7 @@ title: Bad Haircuts
 <p>“I know, I just can’t get it even…” buzzzzzzz</p>  
 <p>“Ok, it looks good…no—yep it’s great—no…no—ok there, now it’s great.” No more need for those clippers…or scissors. “We’re done here.” (it went something like that).</p>
 </blockquote>
-<p>So I was done and had what I guess was just a hack job that resembled something like this:</p>  <p align="center"><img border="0" height="240" src="http://www.bloggerdad.com/wp-content/uploads/2009/04/bad-hair-day.jpg" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" width="181" />(<a href="http://www.flickr.com/photos/fordbuchanan/3263291855/">artist</a> rendering)</p>
+<p>So I was done and had what I guess was just a hack job that resembled something like this:</p>  <p align="center">![bad-hair-day.jpg](bad-hair-day.jpg)(<a href="http://www.flickr.com/photos/fordbuchanan/3263291855/">artist</a> rendering)</p>
 <p>Then I’m not sure how this happened, but Sarah (who only rarely gets her hair cut), decided to get a trim and got the same person! I swear I didn’t know, babe—honest!</p>
 <p>Sarah asked for a trim up to her shoulders—about an inch. The cutter took about 3 inches off. When Sarah’s hair was flying fast and free well above her shoulders, the cutter suggested that her hair bounced up quite a bit with its curl. Her hair is not curly. At all.</p>
 <p>After the cut, Sarah thought she got a mediocre cut but didn’t think much of it until we put our stories together. She apparently had some good conversation herself. My favorite response came when Sarah asked the cutter if she grew up cutting her family members’ hair:</p>

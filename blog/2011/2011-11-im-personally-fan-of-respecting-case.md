@@ -19,7 +19,7 @@ title: Case Sensitivity in ASP.NET
 <p>The first three (among others) are implemented with a hash table that does case-insensitive lookups. (There’s an <a href="http://stackoverflow.com/q/1731283/29/#1731535">awesome answer</a> over on Stackoverflow that explains why it works this way).</p>
 <p>So after playing fast and loose with case sensitivity, it’s easy to treat the viewstate object the same way. But, as you’ve surely guessed by now, lookups in the viewstate bag are <em>case-sensitive</em>. </p>
 <p>Unfortunately, I can’t find a reference that documents this at the moment, but I can confirm it works that way from personal experience. Here’s one of my recent commits:</p>
-<p><a href="http://lh3.ggpht.com/-Og4JcYjreqg/TsqduOusbBI/AAAAAAAAEIk/ZnKRtSICYT0/s1600-h/image%25255B2%25255D.png"><img alt="image" height="32" src="http://lh5.ggpht.com/-ltiQNxGE02k/TsqduT5hyZI/AAAAAAAAEIs/O0_Uw2Yq0hw/image_thumb.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="image" width="356" /></a><img alt="image" height="31" src="http://lh4.ggpht.com/-hcIDsDzo2mc/Tsqdu4JSLcI/AAAAAAAAEIw/TiUUQJTrtLg/image_thumb%25255B1%25255D.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="image" width="452" /> </p>
+<p>![image%25255B2%25255D.png](image%25255B2%25255D.png)</a>![image_thumb%25255B1%25255D.png](image_thumb%25255B1%25255D.png) </p>
 <p>And a flood of Google results from others affected confirms it’s not a fluke affecting just me.</p>
 <p></p>
 <p></p>

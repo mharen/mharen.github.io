@@ -12,13 +12,13 @@ time_to_read: 5
 title: The Foreclosure Crisis
 ---
 
-<p id="x9yg0"><img align="right" alt="House" src="http://www.wassupy.com/wp-content/uploads/2008/05/house.jpg" style="border: 0px none ; padding: 5px;" />I've been reading a lot about our nation's foreclosure crisis and it's an issue that has hit my area (NE Ohio) pretty hard. I am having a really hard time deciding who to blame. The list of suspects is long:</p>
+<p id="x9yg0">![house.jpg](house.jpg)I've been reading a lot about our nation's foreclosure crisis and it's an issue that has hit my area (NE Ohio) pretty hard. I am having a really hard time deciding who to blame. The list of suspects is long:</p>
 
 <ol id="x9yg1"><br />	<li id="x9yg8">Borrowers</li><br />	<li id="x9yg8">Real Estate Agents</li><br />	<li id="x9yg8">Brokers<br id="bw_b0" /></li><br />	<li id="x9yg8">Lenders</li><br />	<li id="x9yg8">Banks</li><br />	<li id="x9yg8">Wall Street and Big Investors</li><br /></ol><br />I think that is a (roughly) accurate view of who relates to a mortgage.
 
 <strong id="kufa2">Blame the borrowers</strong>
 
-<img alt="" class="alignleft size-full wp-image-615" height="171" src="http://www.wassupy.com/wp-content/uploads/2008/05/bw.jpg" style="border: 0px none ; padding: 5px;" title="Boardwalk" width="150" />Being a person who owns a house and is fairly good with numbers, I find it easy to blame the "irresponsible borrowers."
+![bw.jpg](bw.jpg)Being a person who owns a house and is fairly good with numbers, I find it easy to blame the "irresponsible borrowers."
 
 Buying a house is a huge deal and there is a correspondingly huge amount of paperwork involved. Some of that paperwork describes in painful detail a payment schedule. I realize that one of the problems here is that people received exotic loans with varying payment schedules, but I'm talking about people who couldn't make the <em id="uf5d0">first</em> payment. There are reports all the time about people falling behind from day one--not when their 5-year ARM shot up.
 
@@ -46,7 +46,7 @@ Who is funding these loans? Banks.
 
 <strong id="yo0w2">Blame the banks</strong>
 
-<img align="right" alt="Monopoly Man" src="http://www.wassupy.com/wp-content/uploads/2008/05/monopolyman.jpg" style="border: 0px none ; padding: 5px;" />Somehow in their 20-hour work weeks (closed national holidays, weekends, paydays, full moons and days that end in "y"), bankers managed to buy any and every loan. Despite no income, assets, or SSN, <a href="http://gallery2/v/Dogs/Pirate/" id="mv7s" title="Pirate">Pirate</a> was approved for a sweet crib in the hills.
+![monopolyman.jpg](monopolyman.jpg)Somehow in their 20-hour work weeks (closed national holidays, weekends, paydays, full moons and days that end in "y"), bankers managed to buy any and every loan. Despite no income, assets, or SSN, <a href="http://gallery2/v/Dogs/Pirate/" id="mv7s" title="Pirate">Pirate</a> was approved for a sweet crib in the hills.
 
 This is the last line of defense when it comes to investment quality. Banks had no business buying horrible exotic loans but their thirst for mortgages clouded their judgement and the money was good.
 
@@ -56,11 +56,11 @@ This is where it stops with me. I don't blame Wall Street or the big investors. 
 
 <strong id="cgzs2">So, Blame everyone but Wall Street</strong>
 
-<img alt="Oopsies" class="alignleft size-medium wp-image-613" height="240" src="http://www.wassupy.com/wp-content/uploads/2008/05/oops.jpg" style="border: 0px none ; padding: 5px;" title="oops" width="191" />Borrowers need to be smarter. Education is key here. A simple, accurate monthly budget might have prevented a lot of this. Losing your home and destroying your credit is probably enough punishment so I'll let them off the hook for time served (20% of the blame). As much as I think a bailout of any kind is unfair to the rest of us, something needs to be done--but that's for another time.
+![oops.jpg](oops.jpg)Borrowers need to be smarter. Education is key here. A simple, accurate monthly budget might have prevented a lot of this. Losing your home and destroying your credit is probably enough punishment so I'll let them off the hook for time served (20% of the blame). As much as I think a bailout of any kind is unfair to the rest of us, something needs to be done--but that's for another time.
 
 Brokers and lenders take a hefty portion of the blame (30%) for selling people things they couldn't afford. These guys are the <em id="y4100">first </em>line of defense but since they're part is over when the loan closes they have all too much motivation to look the other way, commit fraud, or just plain oversell us. As I see it, this level is also the biggest opportunity for fraud.
 
-<img alt="" class="alignright size-full wp-image-614" height="101" src="http://www.wassupy.com/wp-content/uploads/2008/05/jail.jpg" title="jail" width="96" />I place the remaining half of the blame with the banks. Just because everyone else is buying crummy loans doesn't make it right. It sounds like I'm talking about a child and maybe I am. These are the guys with the calculators, spreadsheets, forecast models, degrees, etc.--They're supposed to be the experts! I am really struggling to wrap my head around when bankers must have been thinking when they bought junk mortgages. Maybe the truck-loads of cash helped.
+![jail.jpg](jail.jpg)I place the remaining half of the blame with the banks. Just because everyone else is buying crummy loans doesn't make it right. It sounds like I'm talking about a child and maybe I am. These are the guys with the calculators, spreadsheets, forecast models, degrees, etc.--They're supposed to be the experts! I am really struggling to wrap my head around when bankers must have been thinking when they bought junk mortgages. Maybe the truck-loads of cash helped.
 
 <strong id="ei2a0">What Now?</strong>
 

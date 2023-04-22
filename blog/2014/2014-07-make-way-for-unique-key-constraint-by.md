@@ -50,6 +50,6 @@ You ought to be able to run all that and get these results in SQL Server:<br />
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <blockquote class="tr_bq">
-<img border="0" src="http://2.bp.blogspot.com/-6VMwtbbiqjk/U7w8T5lvKAI/AAAAAAAAGNc/Gy2uidsZa20/s1600/query-results.png" /></blockquote>
+![query-results.png](query-results.png)</blockquote>
 <br />
 Adapt to your needs :).

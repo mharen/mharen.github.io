@@ -12,7 +12,7 @@ time_to_read: 5
 title: Thing2 Explodes, Laundry Ensues
 ---
 
-<p><img align="right" alt="IMG_20110124_123322" height="300" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TT5SnJX6EqI/AAAAAAAABVs/BQWCInBGbng/IMG_20110124_123322%5B13%5D.jpg" style="margin: 3px; display: inline; float: right;" title="IMG_20110124_123322" width="170" />Poor Thing2 came down with some sort of stomach bug on Sunday. How do I know? Well I’m no doctor, but when my precious little toddler starts losing her breakfast a red flag goes up. </p>
+<p>![IMG_20110124_123322%5B13%5D.jpg](IMG_20110124_123322%5B13%5D.jpg)Poor Thing2 came down with some sort of stomach bug on Sunday. How do I know? Well I’m no doctor, but when my precious little toddler starts losing her breakfast a red flag goes up. </p>
 <p>We first knew something was wrong when kids were coloring and Sister reported that Thing2 had “spit up”. Thing2 <em>never </em>spits up. Head cocked to one side I investigated and discovered slimy oatmeal where oatmeal isn’t supposed to be (everywhere).</p>
 <p>Even though she wasn’t actually very upset we consoled her anyway and cleaned her up. In the process I think we got more muck on us than on she had on her.</p>
 <blockquote> 
@@ -26,7 +26,7 @@ title: Thing2 Explodes, Laundry Ensues
 <blockquote> 
 <p><strong>Result: </strong>more laundry (clothes, blanket)</p>
 </blockquote>
-<p><strong><img align="right" alt="IMG_20110123_173436" height="193" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TT5SnhHhu4I/AAAAAAAABVw/jU3j_FueVHk/IMG_20110123_173436%5B11%5D.jpg" style="margin: 3px; display: inline; float: right;" title="IMG_20110123_173436" width="200" /></strong>We cleaned up Thing2 and got her back to sleep while Wife dealt with the concentrated evil that was soaking in to her clothes. After some work, she went down for a nice nap. Until she did the most obvious thing ever: threw up again. </p>
+<p><strong>![IMG_20110123_173436%5B11%5D.jpg](IMG_20110123_173436%5B11%5D.jpg)</strong>We cleaned up Thing2 and got her back to sleep while Wife dealt with the concentrated evil that was soaking in to her clothes. After some work, she went down for a nice nap. Until she did the most obvious thing ever: threw up again. </p>
 <blockquote> 
 <p><strong>Result:</strong> more laundry (clothes, blanket)</p>
 </blockquote>
@@ -40,5 +40,5 @@ title: Thing2 Explodes, Laundry Ensues
 <p><strong>Result:</strong> more laundry (comforter #2, sheets, clothes)</p>
 </blockquote>
 <p>Fortunately, though, vomit was no more. She was apparently keeping down her food and producing the most vial, awful, incredibly toxic diapers I’ve ever changed; the kind that go straight to the outdoor can. I’m contemplating a sympathy card to the sanitation department.</p>
-<p>It’s now been more than 24 hours since the last incident and we’re almost caught up on laundry. She’s pretty much back to normal and I’m rejoicing as she rests beside me:</p>  <p align="center"><img alt="shot_1295925990794" height="700" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TT5Sn3GqFmI/AAAAAAAABV0/jd-1HoSoRI8/shot_1295925990794%5B3%5D.jpg" style="margin: 3px; display: inline;" title="shot_1295925990794" width="697" /></p>
+<p>It’s now been more than 24 hours since the last incident and we’re almost caught up on laundry. She’s pretty much back to normal and I’m rejoicing as she rests beside me:</p>  <p align="center">![shot_1295925990794%5B3%5D.jpg](shot_1295925990794%5B3%5D.jpg)</p>
 <p>Parenting: the happiest you’ll ever be, even as you pretend not to notice vomit running down your arms or (OMG)-puke-breath.</p>

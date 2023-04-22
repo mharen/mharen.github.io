@@ -18,9 +18,9 @@ title: How the Richter Scale Works
 </blockquote>
 <p>and started wondering: how Chile’s quake could be 500x as powerful as Haiti’s when their respective Richter scale magnitudes are 8.8 vs. 7.0? The “less destructive” part is interesting, too, but everyone’s already talking about that so I’ll focus on the scale.</p>
 <p>The first clue is that the scale is <a href="http://en.wikipedia.org/wiki/Logarithm">logarithmic</a>. That means that each increment of 1 is a 10x increase in magnitude. If you were to plot <em>x</em> vs. <em>log<sub>10</sub>(x)</em>, it might look like this:</p>
-<p>&#160;<img alt="image" border="0" height="402" src="http://lh3.ggpht.com/_IKD9WtY5kxU/S4tEH9A4jjI/AAAAAAAAApY/bibWf2HfNVc/image%5B11%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="image" width="656" />&#160;</p>
+<p>&#160;![image%5B11%5D.png](image%5B11%5D.png)&#160;</p>
 <p>Well, that’s not very revealing until you realize that the <em>x</em>-axis is increasing logarithmically. Consider the same data but with the <em>x</em>-axis presented linearly:</p>
-<p>&#160;<img alt="image" border="0" height="402" src="http://lh3.ggpht.com/_IKD9WtY5kxU/S4tEIdxSFyI/AAAAAAAAApc/01mTlXYxzss/image%5B8%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="image" width="656" /></p>
+<p>&#160;![image%5B8%5D.png](image%5B8%5D.png)</p>
 <p>Now we’re talking. Each increment on the <em>y</em>-axis is a <strong>10x </strong>increment on the y-axis. i.e. 8 is 10x greater in magnitude than a 7:</p>
 <blockquote> 
 <p>10<sup>8</sup>/10<sup>7</sup> = 10</sup></sup></p>

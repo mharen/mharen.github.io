@@ -12,9 +12,9 @@ title: Anatomy of a Typical Sensationalist News Story
 ---
 
 <p>In our highly charged media, it’s exceedingly common (and frustrating) to see a ridiculous news headline which is not supported by the story within. Here’s what I mean; level of alarm is on the y-axis and piece of the story is on the x-axis:</p>
-<p><img height="428" src="http://lh3.ggpht.com/_IKD9WtY5kxU/TKSeK3p3S6I/AAAAAAAAAxU/4irH2fihph0/image%5B3%5D.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" width="700" /></p>
+<p>![image%5B3%5D.png](image%5B3%5D.png)</p>
 <p>Yikes! Things start out pretty serious. After keeping our attention with a few random facts, the story is finally killed by its own lame ties to reality.</p>
-<p><img align="right" src="http://t3.gstatic.com/images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=" style="display: inline;" />Here’s an actual, far less dramatic example from an <a href="http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story">article</a> I read this morning:</p>
+<p>![images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=](images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=)Here’s an actual, far less dramatic example from an <a href="http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story">article</a> I read this morning:</p>
 <p><strong>Headline: </strong></p>
 <blockquote> 
 <p>Judge who overturned Proposition 8 to retire</p>
@@ -44,5 +44,5 @@ title: Anatomy of a Typical Sensationalist News Story
 <p>What, what? So he was out of there next year anyway? When he leaves, he’ll have served about 90% of his term, which is just the final chapter of more than 20 years of service. </p>
 <p><strong>There’s no story here. </strong>Why was this on the front page?!</p>
 <p>By the way, the Google Image results for [<a href="http://www.google.com/images?q=Vaughn+R.+Walker">Vaughn R. Walker</a>]—the judge—are pretty hilarious:</p>
-<p><img height="220" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TKSePdxXUII/AAAAAAAAAxY/laXS_ziuAHY/image%5B12%5D.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" width="883" /></p>  
+<p>![image%5B12%5D.png](image%5B12%5D.png)</p>  
 <p>Assuming he’s the old guy in a suit, hitting slots 1-3 is pretty good. After that it falls apart, though.</p>

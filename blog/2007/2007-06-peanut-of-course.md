@@ -13,7 +13,7 @@ title: Peanut (of course!)
 
 Just thought I'd share one of my favorite Peanut pictures :)
 
-<a href="http://www.wassupy.com/gallery2/v/Sarahsbelly/"><img alt="25 weeks" id="image551" src="http://www.wassupy.com/wp-content/uploads/2007/06/dscf2052.JPG" /></a>
+<a href="http://www.wassupy.com/gallery2/v/Sarahsbelly/">![dscf2052.JPG](dscf2052.JPG)</a>
 
 Tomorrow starts the third trimester - I can't believe that she's almost here!
 

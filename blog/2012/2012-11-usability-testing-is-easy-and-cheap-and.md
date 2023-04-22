@@ -16,15 +16,15 @@ title: Usability Testing is Easy. And Cheap. And Painful (But Essential!)
 <p>Are you pretty sure your app is awesome and great and super wonderful? Here’s a fun exercise: find someone who’s never used it before and see how that someone uses it. But don’t speak. Let that someone drive.</p>
 <p>If you haven’t done this usability test before, it’s painful to watch. You will see users stumble around what you thought was an intuitive process. You will witness rough edges being discovered for the first time—rough edges that you forgot about months ago.</p>
 <p>There’ll be minor things that are glaring but easy to fix, like this non-question: </p>
-<p><img alt="4-2012-10-23 09.51.56" height="467" src="http://lh6.ggpht.com/-cZ6O4OHfFqM/UKsG297bm2I/AAAAAAAAFXo/dqiQwTBU9gI/4-2012-10-23%25252009.51.56%25255B3%25255D.jpg" style="float: none; margin: 3px auto; display: block;" title="4-2012-10-23 09.51.56" width="700" /></p>
+<p>![4-2012-10-23%25252009.51.56%25255B3%25255D.jpg](4-2012-10-23%25252009.51.56%25255B3%25255D.jpg)</p>
 <p>But there could be fundamental issues with how the app works vs. how users try to use the app:</p>
-<p><img alt="3-2012-09-20 22.38.11" height="700" src="http://lh5.ggpht.com/-RgRPqS5FV6U/UKsG6caw0VI/AAAAAAAAFXw/SVZmTOSWZ3A/3-2012-09-20%25252022.38.11%25255B3%25255D.jpg" style="float: none; margin: 3px auto; display: block;" title="3-2012-09-20 22.38.11" width="536" /></p>  
+<p>![3-2012-09-20%25252022.38.11%25255B3%25255D.jpg](3-2012-09-20%25252022.38.11%25255B3%25255D.jpg)</p>  
 <p>(I can see Siri getting some people in trouble here…“WHO IS SHE!?”)</p>
 <p>Sometimes though, there’s little you can do to catch certain issues. For instance, what is happening in this picture!?</p>
-<p><img alt="1-2012-10-10 23.22.37" height="566" src="http://lh5.ggpht.com/-3jQr2lM5SeY/UKsG7eQEvjI/AAAAAAAAFX4/1RaEFIVY8Lg/1-2012-10-10%25252023.22.37%25255B7%25255D.jpg" style="float: none; margin: 3px auto; display: block;" title="1-2012-10-10 23.22.37" width="467" /></p>
+<p>![1-2012-10-10%25252023.22.37%25255B7%25255D.jpg](1-2012-10-10%25252023.22.37%25255B7%25255D.jpg)</p>
 <p>Ohhhh…</p>
-<p><img alt="2-2012-10-10 23.22.44" height="500" src="http://lh3.ggpht.com/-Js86gy1AY4s/UKsG8lftIRI/AAAAAAAAFYA/znrx06g89_s/2-2012-10-10%25252023.22.44%25255B7%25255D.jpg" style="float: none; margin: 3px auto; display: block;" title="2-2012-10-10 23.22.44" width="467" /></p>  
+<p>![2-2012-10-10%25252023.22.44%25255B7%25255D.jpg](2-2012-10-10%25252023.22.44%25255B7%25255D.jpg)</p>  
 <p>Those are fairly minor. There can be big, huge issues, too, though. For instance, when I tried to sign up for Angie’s List, I opted to sign up with my Google account:</p>
-<p><img alt="join" height="85" src="http://lh5.ggpht.com/-XuOTLcl-mzQ/UKsG9zVSHOI/AAAAAAAAFYI/l5Xdg7p4jqY/join%25255B2%25255D.png" style="float: none; margin: 3px auto; display: block;" title="join" width="417" /></p>
+<p>![join%25255B2%25255D.png](join%25255B2%25255D.png)</p>
 <p>Guess how that experience went :/. I have never had so much trouble giving someone my money. (To their credit, this appears to be fixed now.)</p>
 <p>With a highly fragmented set of clients, third party credentials, and so many paths to conversions, it’s a tough problem that’s not getting any easier to solve. Sorry, there’s no way around it: you’ve got to test, test, and test some more.</p>

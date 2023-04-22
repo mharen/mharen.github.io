@@ -11,7 +11,7 @@ title: Why Twitter is Awesome
 ---
 
 <p>I don’t understand Twitter—how it works, how it makes money, or anything. As a computer engineer, I marvel at how impressive it is in terms of scale. For example, they are now crunching <a href="http://mashable.com/2010/02/22/twitter-50-million-tweets/">50,000,000 tweets per day</a>. That’s incredible.</p>
-<p><img src="http://cdn.mashable.com/wp-content/uploads/2010/02/chart-tweets-per-day3-e1266872028279.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" /></p>
+<p>![chart-tweets-per-day3-e1266872028279.png](chart-tweets-per-day3-e1266872028279.png)</p>
 <p>Volume doesn’t make it awesome, though. Most of those tweets are about what uninteresting people are eating, watching, etc. Here’s why it’s awesome: I am empowered to connect with people in otherwise unreachable places. This calls for some examples:</p>  <h4>Example 1: Microsoft</h4>
 <p>I recently ranted a bit about Visual Studio 2010 RC crashes:</p>
 <blockquote> 

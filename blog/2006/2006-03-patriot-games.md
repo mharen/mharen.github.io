@@ -14,7 +14,7 @@ title: Patriot Games
 
 No, not that Clancy <a href="http://www.amazon.com/gp/product/0425109720/002-6807866-8988029">novel</a> or <a href="http://www.amazon.com/gp/product/B00008LDYV/002-6807866-8988029">movie</a>...introducing, "<a href="http://www.graphix4change.com/portfolio_PA_game.html">The Patriot Act Game</a>".
 
-<img alt="The Patriot Act Game" src="http://www.wassupy.com/blog-images/PatriotActGame.jpg" />
+![PatriotActGame.jpg](PatriotActGame.jpg)
 
 Eat your heart out, <a href="http://www.whitehouse.gov/government/ashcroft-bio.html">John Ashcroft</a>.
 

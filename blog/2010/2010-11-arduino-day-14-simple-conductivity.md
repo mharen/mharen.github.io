@@ -19,7 +19,7 @@ title: 'Arduino Day 14: Simple Conductivity Sensor'
 <p>Yes, that’s Thing 1’s leftovers from lunch (or maybe Thing 2…). Her sandwich bread is somewhat conductive (yellow), but the ham inside is very conductive (green), as is the apple sauce.</p>
 <p>Why is the applesauce dark red? Good Question. It’s homemade, and the best we can figure, the apples just turned brown as they normally do when cut.</p>  <h4>Build</h4>
 <p>The build is identical to the previous few days with a simple analog input added the same way as the CdS cell in <a href="../2010/2010-11-arduino-day-6-analog-inputs.html" target="_blank">another build</a> (I used a 10kΩ resistor instead of 470Ω, though).</p>
-<p><img alt="IMAG0782" height="419" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TOC9mSYbDuI/AAAAAAAABQM/sL6mpzYvNG8/IMAG0782%5B3%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0782" width="700" /></p>  <h4>Code</h4>
+<p>![IMAG0782%5B3%5D.jpg](IMAG0782%5B3%5D.jpg)</p>  <h4>Code</h4>
 <blockquote>   <pre class="csharpcode"><span class="kwrd">const</span> <span class="kwrd">int</span> BuzzPin = 5;
 <span class="kwrd">const</span> <span class="kwrd">int</span> BuzzDuration = 50; 
 <span class="kwrd">const</span> <span class="kwrd">int</span> Tones[] = { 1000, 2000, 3000 };

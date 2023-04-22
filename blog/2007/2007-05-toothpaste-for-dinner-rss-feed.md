@@ -14,13 +14,13 @@ title: Toothpaste For Dinner RSS Feed
 
 I used to subscribe to an <a href="http://en.wikipedia.org/wiki/RSS_(file_format)">RSS feed</a> of the daily comic "<a href="http://www.toothpastefordinner.com">Toothpaste For Dinner</a>". Several months back, however, the comic's creator shut down the feed citing technical problems and warned against complaining and whining about it. 
 
-<a href="http://www.toothpastefordinner.com/021807/linux-users.gif"><img alt="RSS Feed" src="http://www.toothpastefordinner.com/021807/linux-users.gif" /></a>
+<a href="http://www.toothpastefordinner.com/021807/linux-users.gif">![linux-users.gif](linux-users.gif)</a>
 
 If you're not familiar with RSS, you should check it out. The basic approach is this: for each site that you regularly visit, subscribe to the site's feed. Then, in your "feed reader", you can view updates from all your favorite sites without actually having to go to them. This is what allows me to stay current with dozens of different sites daily, with ease. This is somewhat analogous to email in that each time an article or comic is posted on the site, it will show up in your feed reader just like an email message.
 
 There are a lot of great feed readers out there. A few that I have used include <a href="http://www.mozilla.com/thunderbird/">Thunderbird</a>, <a href="https://www.google.com/reader/">Google Reader</a>, and <a href="http://www.newshutch.com/">Newhutch</a>. If you're new, Thunderbird may be a good start since it's actually an email interface. I particularly like Google Reader and Newshutch because they are web based and do a great job of layout out the feeds. I currently use Google Reader and can also recommend it to newbies for its ease of use and ability to add feeds for you based on your interests (who wants to get started only to have nothing to read!).
 
-<a href="http://www.toothpastefordinner.com/110503/operational-hamsterfier.gif"><img alt="Hamsterfier" src="http://www.toothpastefordinner.com/110503/operational-hamsterfier.gif" /></a>
+<a href="http://www.toothpastefordinner.com/110503/operational-hamsterfier.gif">![operational-hamsterfier.gif](operational-hamsterfier.gif)</a>
 
 Anyway, the author of TFD no longer supports RSS. Since the comics are no longer arriving automatically and with the knowledge that he's kind of a jerk, I stopped reading. Since then I have seen a few particularly good comics that renewed me interest so I decided to build my own RSS feed. 
 

@@ -12,7 +12,7 @@ time_to_read: 5
 title: Floppy Disks
 ---
 
-<img align="right" alt="Floppy Disk Guy" id="image495" src="http://www.wassupy.com/wp-content/uploads/2006/09/floppydiskguy.jpg" />Sarah’s school gave her a class list for her computer-based grade-book software on a 3.5” floppy disk. Holy crap! I haven’t seen one in quite a while. I had to pop the disk into my Linux server (in the garage) to read it—we don’t have a floppy drive in the house.
+![floppydiskguy.jpg](floppydiskguy.jpg)Sarah’s school gave her a class list for her computer-based grade-book software on a 3.5” floppy disk. Holy crap! I haven’t seen one in quite a while. I had to pop the disk into my Linux server (in the garage) to read it—we don’t have a floppy drive in the house.
 
 Fortunately, Linux is sweet and let me mount the disk remotely and copy the files over. That is, after I wiped away the cobwebs. No joke—there were cobwebs on the floppy drive! I’m actually surprised that it worked at all. I can just imagine what the Linux kernel was thinking… “whoa? You want to mount /dev/fda0? What the hell is that? Oh right, right, a floppy disk. I didn’t even know I had one of those things installed…”
 

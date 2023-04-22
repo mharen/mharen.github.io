@@ -12,7 +12,7 @@ time_to_read: 5
 title: 'Idea: Blackmail Yourself to Health'
 ---
 
-<div style="float: right;"><img alt="before" height="150" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TUhTm0EUdTI/AAAAAAAABWo/IOPWhHzWQUs/before%5B4%5D.jpg" style="margin: 3px; display: inline;" title="before" width="200" />     <br /><img alt="after" height="150" src="http://lh3.ggpht.com/_IKD9WtY5kxU/TUhTnN1qPyI/AAAAAAAABWs/60t_cbGeH7A/after%5B3%5D.jpg" style="margin: 3px; display: inline;" title="after" width="200" /></div>
+<div style="float: right;">![after%5B3%5D.jpg](after%5B3%5D.jpg)</div>
 <p>It’s no secret that <a href="http://www.wolframalpha.com/input/?i=median+US+BMI" target="_blank">most of us</a> are overweight. I don’t think I’m going out on a limb by suggesting that <em>motivation </em>to eat better and work out more is the biggest issue. I just had a potentially evil idea for motivating people like me: blackmail yourself.</p>
 <p>Suppose you had an app (e.g. a Facebook app) that recorded your “before” stats. This would capture a simple measurement like weight or BMI and (most importantly) an unflattering “before” picture of yourself. This would be like the first weigh in of <em>The Biggest Loser</em> except <strong>it’d all be private to you.</strong></p>
 <p>At first.</p>

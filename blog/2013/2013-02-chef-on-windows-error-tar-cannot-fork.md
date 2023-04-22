@@ -37,7 +37,7 @@ C:\chef\bin\tar.EXE
 c:\Git\bin\tar.EXE
 </pre>
 <p>And apparently some of them <a href="http://sourceforge.net/p/gnuwin32/discussion/74807/thread/c73aced2/">suck</a>. Hard. Since I’m playing with Chef, let’s just use that one—it probably works. This was as easy as updating my PATH variable to place `c:\chef\bin` at the beginning instead of the end (really just before the others found by `which`):</p>
-<p><a href="http://lh4.ggpht.com/-pIdgx2uFfbs/URF_9Qst5HI/AAAAAAAAFhc/PTas7UUcsJI/s1600-h/image%25255B3%25255D.png"><img alt="image" border="0" height="648" src="http://lh3.ggpht.com/-i9H00Ah5ug0/URF_-tUDmPI/AAAAAAAAFhk/WaeAgTe7M7s/image_thumb%25255B1%25255D.png" style="background-image: none; border-right-width: 0px; margin: 3px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px;" title="image" width="628" /></a></p>
+<p>![image%25255B3%25255D.png](image%25255B3%25255D.png)</a></p>
 <p>Once you fix the path, close and reopen your cmd window and try the command again:</p><pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar
 C:\chef\bin\tar.EXE
 </strong>c:\Git\bin\tar.EXE

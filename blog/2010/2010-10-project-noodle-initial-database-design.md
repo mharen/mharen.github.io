@@ -16,7 +16,7 @@ title: 'Project Noodle: Initial Database Design'
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> If you are disoriented, you might want to <a href="http://blog.wassupy.com/search/label/Project%20Noodle">browse more posts</a> about this project</div>
 <p>First off: this will change as I go.</p>
 <p>Here’s my first pass at the database tables for Project Noodle:</p>
-<p><img alt="image" height="691" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TMT8IQv2sOI/AAAAAAAABHs/uLeAR4bf-rg/image%5B12%5D.png" style="margin: 0px auto; display: block; float: none;" title="image" width="698" /></p>
+<p>![image%5B12%5D.png](image%5B12%5D.png)</p>
 <p>It’s definitely not fully normalized (e.g. <code>Interviews.{CriterionValue1,2,3}</code>)—some of that’s intentional. Database design is always a balance.</p>
 <p>At this stage, I am really interested in two key things:</p>  <ol>   <li>Does my schema actually capture all the information I think I need to store? </li>    <li>Are the queries I expect to write easy to write? </li> </ol>
 <p>And so, being the semi-disciplined person I am (or at least when I’m blogging about a recommendation), I will check these two things. </p>  <h4>Does my schema cover everything?</h4>
@@ -24,7 +24,7 @@ title: 'Project Noodle: Initial Database Design'
 <p>So let’s fix that together. It looks like I need something akin to an “interview master” table which will store the details of a block of interviews. This can’t really go in the candidates table since a single candidate could come in multiple times. </p>
 <p>On the other hand, since HR will likely want to schedule interviews in advance, perhaps I could just create an interview record for each user when the interviews are setup. Then, I can group them by date on the Upcoming Interviews screen. </p>
 <p>Having been down this road before, I’m opting for a master table. I’ve found that it helps solve a lot of problems that may not be obvious just yet and it’s probably The Right Thing To Do. Here we go:</p>
-<p><img alt="image" height="771" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TMT8I4v8-0I/AAAAAAAABHw/IzYxSbTJTGw/image%5B16%5D.png" style="margin: 0px auto; display: block; float: none;" title="image" width="700" /></p>
+<p>![image%5B16%5D.png](image%5B16%5D.png)</p>
 <p>A more enterprisey solution would probably break out the ratings from the <code>Interviews</code> table, move the photo and resume columns from <code>Candidates</code> into a full blown files table, add a <code>Locations</code> table to hold conference rooms, and a <code>CandidateTypes</code> table for values like “SW Coop”. </p>
 <p>I’m opting for the much simpler structure above, deferring that refactoring until a significant problem demands that they be made.</p>  <h4>Are my obvious queries easy?</h4>
 <p>I know I want to display a list of interviews with who/when/why/where information. It looks like I can get all that from the <code>InterviewMasters</code> and <code>Candidates</code> tables. It now occurs to me that I don’t have a way to archive interviews. I’ll ignore that for now and come back to it if it becomes an issue.</p>

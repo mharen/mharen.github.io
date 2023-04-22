@@ -12,7 +12,7 @@ time_to_read: 5
 title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 ---
 
-<p>A colleague asked me a C# question on <a href="http://twitter.com/#!/XOver9000/status/29231958731">Twitter</a>:</p>  <p align="center"><img alt="C# - list&lt;T&gt;.clear() or list&lt;T&gt; = new list&lt;T&gt;()?" height="118" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TM4BssqYnrI/AAAAAAAABJw/hqWmieTQhg4/image%5B1%5D.png" style="margin: 3px; display: inline;" title="" width="465" /></p>
+<p>A colleague asked me a C# question on <a href="http://twitter.com/#!/XOver9000/status/29231958731">Twitter</a>:</p>  <p align="center">![image%5B1%5D.png](image%5B1%5D.png)</p>
 <p>I had some trouble responding in 140 characters, so I replied with <a href="http://twitter.com/#!/mharen/status/29232621954">a</a> <a href="http://twitter.com/#!/mharen/status/29232755840">few</a> <a href="http://twitter.com/#!/mharen/status/29232755840">tweets</a> that really didn’t do the question justice. There are a few issues at hand: style and correctness. </p>
 <p>First, when it comes to style, the best guiding principle in programming is clarity. You should express your intent as clearly as possible. If .Clear() represents your intent better than newing up a List, go with it.</p>
 <p>The bigger issue is, of course, correctness. Who cares if your code expresses your intent if it’s wrong? In most situations, it probably doesn’t matter which you choose because each will have the effect you wanted. However, these have a few differences. Off the top of my head there’s the pointer/reference issue (noted in my <a href="http://twitter.com/#!/mharen/status/29232621954">first tweet</a>) and I’m betting something to do with Capacity which I’ll test in a minute.</p>

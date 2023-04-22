@@ -13,7 +13,7 @@ title: "Recovering from SQL Server Error: \u201CSyntax Error in TextHeader\u201D
 ---
 
 <p>After years of working with SQL Server, I thought I’d seen it all. Here’s a humbling reminder that I haven’t:</p>
-<p><img alt="TITLE: Microsoft SQL Server Management Studio Script failed for StoredProcedure.  (Microsoft.SqlServer.Smo) For help, click: http://go.microsoft.com/fwlink?ProdName=Microsoft+SQL+Server&amp;amp;ProdVer=10.50.1600.1+((KJ_RTM).100402-1540+)&amp;amp;EvtSrc=Microsoft.SqlServer.Management.Smo.ExceptionTemplates.FailedOperationExceptionText&amp;amp;EvtID=Script+StoredProcedure&amp;amp;LinkId=20476 ADDITIONAL INFORMATION: Syntax error in TextHeader of StoredProcedure. (Microsoft.SqlServer.Smo) For help, click: http://go.microsoft.com/fwlink?ProdName=Microsoft+SQL+Server&amp;amp;ProdVer=10.50.1600.1+((KJ_RTM).100402-1540+)&amp;amp;EvtSrc=Microsoft.SqlServer.Management.Smo.ExceptionTemplates.FailedOperationExceptionText&amp;amp;LinkId=20476 BUTTONS: OK" height="175" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TVVUQH4AdoI/AAAAAAAABbY/kRIY2EmDer8/image%5B5%5D.png" style="margin: 3px auto; display: block; float: none;" width="621" /></p>
+<p>![image%5B5%5D.png](image%5B5%5D.png)</p>
 <p>This occurred when I tried to script out a stored procedure so I could change it. Not a good sign. Fortunately I can fallback to good old <code>sp_helptext</code> to recover the procedure:</p>
 <blockquote>   <pre class="csharpcode">sp_helptext <span class="str">'procname'</span>
 -- Results in the procedure’s code</pre>

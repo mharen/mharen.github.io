@@ -18,10 +18,10 @@ title: 'Arduino Day 7: Buttons and Buzzers'
 <p>I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind…</p>
 <p>A big benefit to the simple build, though, was that Thing1 was actually interested enough to help from start to finish (<em>five </em>minutes). She helped me with wires and button placement and played with the buttons while I coded it up, and then played with the buttons again once they did something.</p>
 <p>Here we go:</p>  <p align="center"></p>  <h4>Build</h4>
-<p><img alt="IMAG0721" height="631" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TNeHe57R0vI/AAAAAAAABNU/eIOihaC5RwE/IMAG0721%5B7%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0721" width="700" /></p>  <p align="center">(those dainty fingers belong to thing2)</p>  <p align="center"><img alt="IMAG0719" height="700" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TNeHgDFM9qI/AAAAAAAABNY/qe3a8Q4D0rk/IMAG0719%5B8%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0719" width="565" /></p>  <h4>Circuit</h4>
+<p>![IMAG0719%5B8%5D.jpg](IMAG0719%5B8%5D.jpg)</p>  <h4>Circuit</h4>
 <p>Crazy simple circuit today:</p>
-<p><img alt="Sketch_bb" height="254" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TNeHgR3hDVI/AAAAAAAABNc/cJa7mwFgqkA/Sketch_bb%5B7%5D.png" style="margin: 0px auto; display: block; float: none;" title="Sketch_bb" width="614" /></p>  <h4>Schematic</h4>
-<p><img alt="Sketch_schem" height="527" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TNeHgwMKZ9I/AAAAAAAABNg/8XdGWtNZjl0/Sketch_schem%5B7%5D.png" style="margin: 0px auto; display: block; float: none;" title="Sketch_schem" width="700" /></p>  <h4>Code</h4>
+<p>![Sketch_bb%5B7%5D.png](Sketch_bb%5B7%5D.png)</p>  <h4>Schematic</h4>
+<p>![Sketch_schem%5B7%5D.png](Sketch_schem%5B7%5D.png)</p>  <h4>Code</h4>
 <p>Today’s coding was a very simple selection from previous exercises, so this should look familiar:</p>
 <blockquote>   <pre class="csharpcode"><span class="preproc">#define</span> c2 654
 <span class="preproc">#define</span> c3 1308

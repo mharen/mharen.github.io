@@ -12,7 +12,7 @@ time_to_read: 5
 title: How to Take Screenshots from an Android Phone
 ---
 
-<p><img align="right" src="http://chart.apis.google.com/chart?cht=qr&amp;chs=135x135&amp;chl=market://details%3fid%3dcom.geeksoft.screenshot%26referrer%3dutm_source%253DAndrolib%2526utm_medium%253DPage%2526utm_campaign%253DAndrolib%2520Page" style="display: inline;" />It’s not as easy as iPhone, but pretty simple:</p>  <ol>   <li>Root your phone (ok, that’s not so simple)     <br /></li>    <li>Install “screenshot” from the Market     <br /></li>    <li>Open it up and check the box “Shake the phone to take a screenshot”:      <br />      <br /><img alt="screenshot_2" height="480" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TKK3UaEA4YI/AAAAAAAAAvg/sHVVhIVLask/screenshot_2%5B4%5D.png" style="display: inline;" title="screenshot_2" width="288" />      <br />(see what I did there?)      <br /></li>    <li>Shake your phone</li> </ol>
+<p>![screenshot_2%5B4%5D.png](screenshot_2%5B4%5D.png)</li>    <li>Shake your phone</li> </ol>
 <p>Pretty handy!</p>
 
 ---

@@ -13,7 +13,7 @@ title: Check Out This Hot Dog
 ---
 
 If all goes smoothly, this may be our new friend!:<br />
-<div style="text-align: center;"><img alt="Carl, the beagle" src="http://www.wassupy.com/blog-images/carl.jpg" /></div><br />He is a four-month old beagle/basset hound. We've spent a fair amount of time with him at the <a href="http://www.spcawake.org">SPCA</a> and really like him. If our application comes through and the timing works out, we will be all set.
+<div style="text-align: center;">![carl.jpg](carl.jpg)He is a four-month old beagle/basset hound. We've spent a fair amount of time with him at the <a href="http://www.spcawake.org">SPCA</a> and really like him. If our application comes through and the timing works out, we will be all set.
 
 Now all we need is a name! We have several ideas, including:<ul><br />	<li>Carl</li><br />	<li>Hendrix</li><br />	<li>Gordon</li><br />	<li>Sam</li><br />	<li>Pirate</li><br />	<li>Napoleon</li><br /></ul><br />My personal favorite has got to be Pirate. Just imagine the scenarios...
 

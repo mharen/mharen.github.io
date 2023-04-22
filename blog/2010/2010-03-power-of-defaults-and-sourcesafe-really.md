@@ -10,7 +10,7 @@ time_to_read: 5
 title: 'The Power of Defaults, and: SourceSafe Really is That Bad'
 ---
 
-<p><img align="right" border="0" src="http://t0.gstatic.com/images?q=tbn:zBmYgvoYVen6aM:http://c0485811.cdn.cloudfiles.rackspacecloud.com/15f677e1-ba0e-4c79-b347-98130ff041ee.png" style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px;" />Think about the last gadget you bought—a computer, car, GPS, phone—whatever. Chance are that it came with a million settings, each preconfigured to <em>something</em>. Most of us change the simple stuff to suit us (e.g. a ring tone or wallpaper), and ignore the rest.</p>
+<p>![15f677e1-ba0e-4c79-b347-98130ff041ee.png](15f677e1-ba0e-4c79-b347-98130ff041ee.png)Think about the last gadget you bought—a computer, car, GPS, phone—whatever. Chance are that it came with a million settings, each preconfigured to <em>something</em>. Most of us change the simple stuff to suit us (e.g. a ring tone or wallpaper), and ignore the rest.</p>
 <p>It’s the default settings of all the non-trivial things that we ignore that can be so powerful, and often terrible. Consider Microsoft Visual Source Safe. Visual Source Safe was a version control system that shipped with Visual Basic 6, and possibly a rev or two after that. Since everyone already had it, it was the obvious thing to turn to when small VB shops moved up to version control. </p>
 <p>Great for VSS. Terrible for humans. </p>
 <p>The trouble was that VSS is a terrible product. <strong>It is Microsoft’s worst product, ever</strong> (they <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#Microsoft_in-house_use">don’t</a> even use it themselves). Here’s why:</p>

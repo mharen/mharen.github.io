@@ -12,7 +12,7 @@ title: Algorithms Throw Back
 ---
 
 <p>I was given a question today that really took me back. Here’s a hint: it had to do with <a href="http://en.wikipedia.org/wiki/Binary_search_tree">binary search trees</a>, data structures, and pretty printing.</p>
-<p>I haven’t touched a BST in six years so it took some priming to get me going.</p>  <p align="center"><img alt="image" border="0" height="134" src="http://lh4.ggpht.com/_IKD9WtY5kxU/S5AIumzhfCI/AAAAAAAAAqY/IBHalH7hDGs/image%5B2%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="image" width="187" />(<a href="http://people.ksp.sk/~kuko/bak/index.html">BST builder</a>)</p>
+<p>I haven’t touched a BST in six years so it took some priming to get me going.</p>  <p align="center">![image%5B2%5D.png](image%5B2%5D.png)(<a href="http://people.ksp.sk/~kuko/bak/index.html">BST builder</a>)</p>
 <p>The task was to print this tree level by level. So the output should be 3, 1, 6, 2, 5, 7, 4. If you’re a programmer, I encourage you to solve this problem as an exercise before looking at my solution. It was humbling for me.</p>
 <p>After wasting a half hour messing around with recursion, I was given a pretty nice hint to do it iteratively with a queue. </p>
 <p>I still failed miserably with my good old paper and pencil, but afterwards set out to do it in a more comfortable environment (C#).</p>

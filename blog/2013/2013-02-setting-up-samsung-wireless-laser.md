@@ -41,9 +41,9 @@ Launch that printer app again and go to print something else. This should allow 
 
 Now go kill some trees! 
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://lh3.googleusercontent.com/-zhKBuMUGGrk/USQy0wjnCUI/AAAAAAAAFiE/gQCkcyhTjjk/s640/blogger-image-855070614.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://lh3.googleusercontent.com/-zhKBuMUGGrk/USQy0wjnCUI/AAAAAAAAFiE/gQCkcyhTjjk/s640/blogger-image-855070614.jpg" /></a></div> 
+<div class="separator" style="clear: both; text-align: center;"><a href="https://lh3.googleusercontent.com/-zhKBuMUGGrk/USQy0wjnCUI/AAAAAAAAFiE/gQCkcyhTjjk/s640/blogger-image-855070614.jpg" style="margin-left: 1em; margin-right: 1em;">![blogger-image-855070614.jpg](blogger-image-855070614.jpg)</a></div> 
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://lh4.googleusercontent.com/-SgC8NNFR37M/USQy2F7rA4I/AAAAAAAAFiM/KNZs8Z1CLPE/s640/blogger-image-519166345.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://lh4.googleusercontent.com/-SgC8NNFR37M/USQy2F7rA4I/AAAAAAAAFiM/KNZs8Z1CLPE/s640/blogger-image-519166345.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://lh4.googleusercontent.com/-SgC8NNFR37M/USQy2F7rA4I/AAAAAAAAFiM/KNZs8Z1CLPE/s640/blogger-image-519166345.jpg" style="margin-left: 1em; margin-right: 1em;">![blogger-image-519166345.jpg](blogger-image-519166345.jpg)</a></div>
 
 ---
 

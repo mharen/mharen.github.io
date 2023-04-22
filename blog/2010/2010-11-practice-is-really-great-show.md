@@ -11,7 +11,7 @@ time_to_read: 5
 title: '"Private Practice" is a Really Great Show'
 ---
 
-<p align="center"><img align="right" alt="bed pan" height="240" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TOScJj03hBI/AAAAAAAABQw/gYLK0DFSSKE/bed%20pan%5B4%5D.jpg" style="margin: 3px; display: inline; float: right;" title="bed pan" width="300" /></p>
+<p align="center">![bed%20pan%5B4%5D.jpg](bed%20pan%5B4%5D.jpg)</p>
 <p>One of Wife's indulgences is watching &quot;Private Practice&quot;. I don't watch it with her but I can't help but overhear it while I work on my own projects. Fortunately I was out of town a few days ago so I was unable to listen in.</p>
 <p>If you haven't seen the show, here's a pretty reasonable guess for what all the drama might be about at any given time:</p>
 <blockquote> 

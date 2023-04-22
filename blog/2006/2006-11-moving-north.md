@@ -15,7 +15,7 @@ title: Moving North
 
 I think we've made arrangements with all necessary persons (his-work, her-work, his-family, her-family, etc.) so I here you go:<br /><p align="center"><strong>We are moving to Ohio!</strong></p>
 
-<div style="text-align: center;"><img alt="moving.JPG" id="image528" src="http://www.wassupy.com/wp-content/uploads/2006/11/moving.JPG" /></div><br />I am transferring from the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr">Apex branch</a> to the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr">main office</a> in Aurora and Sarah will be hunting for new and exciting work in the area.
+<div style="text-align: center;">![moving.JPG](moving.JPG)I am transferring from the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr">Apex branch</a> to the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr">main office</a> in Aurora and Sarah will be hunting for new and exciting work in the area.
 
 We're planning to move in January or February.
 

@@ -21,13 +21,13 @@ title: 'Arduino Day 5: Fun With Charlieplexing'
 <p>Speaking of Charlie. Did you guys see that “Lost” finale a while back? I can’t talk about it but <a href="http://www.collegehumor.com/video:1936291">this</a> sums up how I feel pretty well. I just watched that again and the pain/disappointment is still too real to discuss it.</p>
 <p>So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yesterday.&#160; The song has maybe 10 notes in total. I simply took the frequency range of those notes and broke it into six slices. As I mentioned yesterday, I have no musical skill whatsoever so these are completely arbitrary and not in any order.</p>
 <p>Here we go:</p>  <p align="center"></p>  <h4>Build</h4>
-<p><img alt="IMAG0689" height="498" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TNTRp0pt2nI/AAAAAAAABMw/-5U6BwtOcMs/IMAG0689%5B8%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0689" width="700" /><img alt="IMAG0694" height="372" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TNTRqUx4UVI/AAAAAAAABM0/pNlKcn_IAtQ/IMAG0694%5B8%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0694" width="700" /></p>  <h4>Circuit</h4>
+<p>![IMAG0694%5B8%5D.jpg](IMAG0694%5B8%5D.jpg)</p>  <h4>Circuit</h4>
 <p>This doesn’t well represent the circuit:</p>
-<p><img alt="day 5_bb" height="292" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TNTRq1nAmUI/AAAAAAAABM4/8sgdquaUGvo/day%205_bb%5B7%5D.png" style="margin: 0px auto; display: block; float: none;" title="day 5_bb" width="618" /></p>
+<p>![day%205_bb%5B7%5D.png](day%205_bb%5B7%5D.png)</p>
 <p>It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.</p>
 <p>If you look closely in the build shot above you can see that I used four rows, and the middle two are common to provide less contorting of the LED leads.</p>  <h4>Schematic</h4>
 <p>I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:</p>
-<p><img alt="day 5_schem" height="244" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TNTRrJ9ppcI/AAAAAAAABM8/l0cE6M54IHc/day%205_schem%5B8%5D.png" style="margin: 0px auto; display: block; float: none;" title="day 5_schem" width="527" /></p>  <h4>Code</h4>
+<p>![day%205_schem%5B8%5D.png](day%205_schem%5B8%5D.png)</p>  <h4>Code</h4>
 <p>I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.</p>
 <p>Today’s changes are in bold:</p>
 <blockquote>   <pre class="csharpcode"><strong><span class="kwrd">int</span> Pins[] = { 2, 3, 4 };
@@ -231,6 +231,6 @@ title: 'Arduino Day 5: Fun With Charlieplexing'
 
 <p>I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:</p>
 
-<p><img alt="IMAG0704" height="419" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TNTRrqAB3OI/AAAAAAAABNA/p-oaoalTVSo/IMAG0704%5B5%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0704" width="700" /></p>
+<p>![IMAG0704%5B5%5D.jpg](IMAG0704%5B5%5D.jpg)</p>
 
 <p>(The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)</p>

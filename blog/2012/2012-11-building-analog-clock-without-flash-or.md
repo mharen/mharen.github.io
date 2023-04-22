@@ -14,7 +14,7 @@ title: Building an Analog Clock without Flash or Images
 ---
 
 <p>Thing1 is learning to tell time on analog and digital clocks. Her uncle was kind enough to send over a link to an <a href="http://www.oswego.org/ocsd-web/games/StopTheClock/sthec1.html">online game</a> that helps reinforce what she’s learning. </p>
-<p><img alt="image" height="446" src="http://lh3.ggpht.com/-3Tx_2Z1E09A/UKMelgA1dTI/AAAAAAAAFQo/fYLY4MaepEY/image2.png" style="float: none; margin: 3px auto; display: block;" title="image" width="647" /></p>
+<p>![image2.png](image2.png)</p>
 <p>It is pretty neat! Unfortunately, though, it’s implemented in Flash so we can’t use it on our iOS devices. Let’s fix that by turning it into a regular web page. We might end up using some of the fancier HTML/CSS/JS things as we go.</p>
 <p>The first thing we’ll need is an analog clock so we’ll build that today. I’m going to do it the hard way by insisting that no images be used. Just for fun.</p>
 <p><em>(Note: very little of this is likely to work in anything except Chrome. Sorry.)</em></p>

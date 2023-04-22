@@ -21,7 +21,7 @@ title: "The Kids\u2019 Castle"
 <p>Dear Kids’ Castle Staff,</p>
 <p>My wife and I sporadically exercise at your gym and entrust our kiddos to you, Maya and Charlotte. After experiencing the poor state of child care in other facilities, I can confidently say that we’ve stumbled upon something incredible in the Kids’ Castle. </p>
 <p>You wouldn’t believe how excited the kids get on the way to the gym, knowing they get to see you guys, watch movies, color pictures and play play play! You’re all truly amazing. Believe it or not, their joy in visiting you encourages me to be less of a lethargic bum and exercise more often if only so they can drop in.</p>
-<p><a href="http://lh6.ggpht.com/_IKD9WtY5kxU/TWSTeh0LlbI/AAAAAAAABdE/eoLHZGKj2Sg/s1600-h/DSC_0084%5B5%5D.jpg"><img alt="DSC_0084" height="469" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TWSTfNZjOZI/AAAAAAAABdI/q5tterqDjU8/DSC_0084_thumb.jpg" style="margin: 3px auto; display: block; float: none;" title="DSC_0084" width="700" /></a></p>
+<p>![DSC_0084%5B5%5D.jpg](DSC_0084%5B5%5D.jpg)</a></p>
 <p>You each go above and beyond the already difficult task of focusing your attention unfailingly on our children (the thing they crave the most). This is exemplified by how each of you cares for Charlotte. She’s always very excited to play until the moment we leave. Invariably one of you consoles her warmly until, within three minutes, she’s off playing, coloring, or preparing to steal another child’s artwork. </p>
 <p>From my wife, my ordinarily shy children, and me, please accept our sincerest thanks for all you do.</p>
 <p>With admiration,   <br />Michael Haren</p>

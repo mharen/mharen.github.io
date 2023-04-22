@@ -14,7 +14,7 @@ title: 'Introducing: Debt Manager'
 I’ve been working on a small web application for a little while now. I think it is ready for some public scrutiny so here you go, <a href="/debt" title="Debt Manager">Debt Manager</a>:
 
 <a href="/debt" title="Debt Manager"><br />
-<div style="text-align: center;"><a href="/debt" title="Debt Manager"><img alt="AccountManager.jpg" id="image497" src="http://www.wassupy.com/wp-content/uploads/2006/09/AccountManager.jpg" /></a></div><br />Jiggawha? At the <em>most basic level</em>, you just enter in all your loans and this puppy will give you a payoff schedule.
+<div style="text-align: center;"><a href="/debt" title="Debt Manager">![AccountManager.jpg](AccountManager.jpg)Jiggawha? At the <em>most basic level</em>, you just enter in all your loans and this puppy will give you a payoff schedule.
 
 <strong>Yeah, yeah, I can do that in Excel</strong>
 

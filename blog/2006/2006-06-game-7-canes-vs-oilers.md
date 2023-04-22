@@ -14,4 +14,4 @@ time_to_read: 5
 title: 'Game 7: Canes vs. Oilers'
 ---
 
-<div style="text-align: center;"><img src="http://www.wassupy.com/blog-images/caneslogo.gif" /></div><br />This just in: I am <em>going </em>to GAME 7 of the <a href="http://www.nhl.com/cup/index.html">Stanley Cup</a> tonight. Holy bejesus. This is reason #248 to work at <a href="http://www.rovisys.com/rovisys/About/news.asp">Rovisys</a>.It all comes down to this, folks.
+<div style="text-align: center;">![caneslogo.gif](caneslogo.gif)This just in: I am <em>going </em>to GAME 7 of the <a href="http://www.nhl.com/cup/index.html">Stanley Cup</a> tonight. Holy bejesus. This is reason #248 to work at <a href="http://www.rovisys.com/rovisys/About/news.asp">Rovisys</a>.It all comes down to this, folks.

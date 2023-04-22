@@ -12,11 +12,11 @@ time_to_read: 5
 title: Sarah's Teaching Job
 ---
 
-<img align="right" alt="SLHS" id="image481" src="http://www.wassupy.com/wp-content/uploads/2006/09/slhs.gif" style="border: 5px none ;" />Sarah started teaching biology a couple weeks ago at <a href="http://www.lee.k12.nc.us/schools/slhs/index.html">Southern Lee High School</a> in Sanford, North Carolina. She has three regular bio classes and is crazy busy. She leaves the house around 6am and returns around 6pm. Then she writes lesson plans and tests until midnight or later. She is finally catching up to the point where she is working a few days in advance and can occasionally get 5 hours of sleep.
+![slhs.gif](slhs.gif)Sarah started teaching biology a couple weeks ago at <a href="http://www.lee.k12.nc.us/schools/slhs/index.html">Southern Lee High School</a> in Sanford, North Carolina. She has three regular bio classes and is crazy busy. She leaves the house around 6am and returns around 6pm. Then she writes lesson plans and tests until midnight or later. She is finally catching up to the point where she is working a few days in advance and can occasionally get 5 hours of sleep.
 
 I am not joking here. She is working her freaking tail off for those little punks. Oh yeah, about her students...
 
-<img align="left" alt="Apple" id="image482" src="http://www.wassupy.com/wp-content/uploads/2006/09/apple.thumbnail.jpg" style="padding: 5px;" />This is a regular bio class—not enriched or college-prep or anything. The ability to read is apparently not a prerequisite. I took her first test and got a 98 on it—I haven’t seen any bio crap in more than 6 years and I missed one question. After giving the same test to 75 students, she had less than five As.
+![apple.thumbnail.jpg](apple.thumbnail.jpg)This is a regular bio class—not enriched or college-prep or anything. The ability to read is apparently not a prerequisite. I took her first test and got a 98 on it—I haven’t seen any bio crap in more than 6 years and I missed one question. After giving the same test to 75 students, she had less than five As.
 
 This is easy stuff. For example, a question on lab safety: “True/False It is good practice to taste unknown liquids to identify the chemical present.” What?! Even my dog knows not to do that and he’ll eat <em>anything</em>.
 

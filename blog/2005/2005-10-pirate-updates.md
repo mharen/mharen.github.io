@@ -15,7 +15,7 @@ I have posted a bunch of new pictures of our puppy in <a href="http://www.wassup
 
 In related news...my website was down for about half a day because of what turned out to be "wiring trouble".
 
-<img alt="Ethernet" src="http://www.wassupy.com/blog-images/PirateWires01.jpg" style="text-align: center;" />&nbsp;
+![PirateWires01.jpg](PirateWires01.jpg)&nbsp;
 
 I found that extremely interesting and decided to interrogate my dog. He came clean and confessed to disecting my Tivo ethernet cable, too. That's great--my webserver goes down AND my Tivo is about to run out of programming. Damn dog!
 

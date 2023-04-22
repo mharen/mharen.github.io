@@ -17,7 +17,7 @@ title: How To Give Better Technical Presentations
 
 I get a lot of great feedback each time, which make it very rewarding.&nbsp;<span style="background-color: transparent;">I must be doing a good job if&nbsp;I've&nbsp;convinced people I’m an expert on any of  what I’ve presented (I rarely am but some seem to think so!). I think the real trick is just staying two pages  ahead of the audience in the proverbial textbook. I know what’s about to happen  on the screen; it’s loosely scripted. I’ve chosen to present the parts I like  (and understand). And most importantly, I’ve practiced the whole thing a dozen  times, and the hard parts (usually programming on the spot) a dozen </span><em style="background-color: transparent;">more  </em><span style="background-color: transparent;">times.</span>
 
-<a href="http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://1.bp.blogspot.com/-VYATiabsXi8/TriotWo2xGI/AAAAAAAAD_E/fehmSb91pwc/s1600/alot.png" /></a><br />
+<a href="http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">![alot.png](alot.png)
 **That’s really the only reason I look like I know what I’m doing: I prepare. A  lot. **
 
 I also benefit from experience, but you have to start somewhere. Here are a  few tips to motivate you to take up small speaking roles and give better  presentations.
@@ -60,7 +60,7 @@ In fact, when I first started doing tech talks **I flat out bribed people to ask
 
 But of course there are times where the crowd is just not into it and you find yourself with a lot of dead air to fill. **You need a backup plan for filling that dead air.** I always prepare an extra demo or exercise just in case this happens (or some other part of my presentation fails miserably). As I near the end of the talk, I just peek at the clock and decide if "I have time for one more thing" or if "it's time to wrap up and take some questions." Having this buffer is essential when you're just getting started or when presenting to an unfamiliar audience.
 
-<a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="215" src="http://1.bp.blogspot.com/-wJB_RytROSA/TriwCtl2IgI/AAAAAAAAD_M/uX81hTF4rM8/s320/feedback.png" width="320" /></a><br />
+<a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">![feedback.png](feedback.png)
 And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. <a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public">Take it and modify it</a> to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word").
 
 Now go forth and make a fool of yourself. *For science!*

@@ -26,7 +26,7 @@ title: 'A Candy Land Simulator: The Game Engine'
     <span class="rem">// ...</span>
 ];</pre>
 
-<p><a href="http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/"><img alt="players" height="453" src="http://lh6.ggpht.com/--met3oPx4nc/Tr6nEfhiLfI/AAAAAAAAEF4/f3wKVfhaRIg/players%25255B7%25255D.jpg" style="margin: 3px auto; display: block; float: none;" title="players" width="700" /></a></p>
+<p><a href="http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/">![players%25255B7%25255D.jpg](players%25255B7%25255D.jpg)</a></p>
 
 <p>Now we need to simply draw cards and keep track of a player through the game. I guess we should come up with some simple way to track that. Players will have a name and a position on the board. We also need to know if the player is losing a turn because they stepped on a licorice space. This should do it:</p>
 

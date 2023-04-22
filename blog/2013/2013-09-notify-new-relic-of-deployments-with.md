@@ -21,7 +21,7 @@ title: Notify New Relic of Deployments with Chef
   message <span class="str">"application_id"</span> =&gt; <span class="str">"#{node["</span>newrelic<span class="str">"]["</span>appid<span class="str">"]}"</span>
 end</pre>
 <p>I’m loading the key and application id from attributes. And it works (this is dev…no traffic there :))!</p>
-<p><img alt="deployment-markers" border="0" height="489" src="http://lh6.ggpht.com/-5KpUr1Z1HOM/Ui3VS8tpVVI/AAAAAAAAGIA/lGRUgzbVvzA/deployment-markers%25255B2%25255D.png" style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 3px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top: 0px; border-right: 0px; padding-top: 0px;" title="deployment-markers" width="602" /></p>
+<p>![deployment-markers%25255B2%25255D.png](deployment-markers%25255B2%25255D.png)</p>
 <p>This was crazy simple to do, though it might be better implemented as a report handler. If you go that route please share.</p>
 
 ---

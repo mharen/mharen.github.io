@@ -35,7 +35,7 @@ title: 'A Candy Land Simulator: The Game Engine, Implemented'
 
 <p>So let’s get down to implementing some of the game engine we spec'd out yesterday. First, here’s the test harness:</p>
 
-<p><img alt="image" height="213" src="http://lh6.ggpht.com/-AO0xgiJ25Wk/TsKVe3uk7yI/AAAAAAAAEGY/vXnJu5ODvcw/image%25255B3%25255D.png" style="margin: 3px auto; display: block; float: none;" title="image" width="304" /></p>
+<p>![image%25255B3%25255D.png](image%25255B3%25255D.png)</p>
 
 <p>I decided to add an option of letting players stop the game as soon as one player wins (like normal people), or to play through until everyone “wins” like my kids play. This is the main function that we run when we click the button to start the game. It loads up that option from a checkbox, and the players:</p>
 

@@ -17,7 +17,7 @@ title: Publishing Code to Blogger
 <p><strong>A Few Gripes and Gotchas</strong></p>
 <p>Live Writer comes with a whole suite of “Live” tools. After installing Live Writer, I had MSN popping up and new addons in outlook wanting my attention. It is certainly not the light and easy text editor I was hoping for.</p>
 <p>Next, posts published with Live Writer will often have a bunch of extra newlines in them. This can be fixed by telling Blogger not to convert line breaks:</p>
-<p><img alt="image" border="0" height="207" src="http://lh5.ggpht.com/_IKD9WtY5kxU/Skj1LGkSxxI/AAAAAAAAANA/nDLUHx-p1Yc/image5.png" style="border-width: 0px; display: inline;" title="image" width="648" /> </p>
+<p>![image5.png](image5.png) </p>
 <p>Finally, I’m not a big fan of the way the code block plugin I mentioned earlier handles CSS. It inserts a new block of styles with every single code block. The workaround seems to be simple enough, though: add the CSS block to the template’s styles and make sure to uncheck “Embed Stylesheet” each time you insert code.</p>
 <p><strong>On a Positive Note</strong></p>
 <p>It handles images well (I can paste in images from other programs). It handles links well. It blends the WYSIWYG/HTML editing well and with a pretty good plugin community, I’m liking it better than other editors I’ve used in the past.</p>

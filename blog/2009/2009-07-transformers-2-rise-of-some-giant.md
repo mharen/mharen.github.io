@@ -12,7 +12,7 @@ time_to_read: 5
 title: Transformers 2, Rise of some Giant Robots
 ---
 
-<p>My darling wife agreed to see Transformers2 with me last weekend. We had a nice time and she actually enjoyed the move more than expected. I thought it was pretty good, too (though I had low, low expectations).</p>  <p align="center"><img alt="image" border="0" height="480" src="http://lh4.ggpht.com/_IKD9WtY5kxU/Skwn7KXL2uI/AAAAAAAAAN8/-S_QHLYmT5c/image%5B8%5D.png" style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px;" title="image" width="502" /> </p>
+<p>My darling wife agreed to see Transformers2 with me last weekend. We had a nice time and she actually enjoyed the move more than expected. I thought it was pretty good, too (though I had low, low expectations).</p>  <p align="center">![image%5B8%5D.png](image%5B8%5D.png) </p>
 <p>The best part was when Agent Simmons was on the phone with an aircraft carrier telling them to use the rail gun to hit the Decepticon on top of the pyramid, even though no one’s ever heard of Simmons and he doesn’t have clearance, yadda yadda, and my wife said this:</p>
 <blockquote> 
 <p>“Oh come on! The military would never just trust some random guy. That’s not very believable.”</p>

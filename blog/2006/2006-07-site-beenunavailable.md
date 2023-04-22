@@ -13,6 +13,6 @@ title: Site's Been...Unavailable
 
 I know, I know. gimme a break.
 
-<img alt="Broken wire" src="http://wassupy.com/blog-images/PirateWires01.jpg" title="Broken wire" />
+![PirateWires01.jpg](PirateWires01.jpg)
 
 So it wasn't really Pirate's fault this time...I was having some network issues. I've switched how my dynamic DNS is handled so hopefully things will be better from here on out.

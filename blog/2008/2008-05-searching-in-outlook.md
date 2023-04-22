@@ -11,7 +11,7 @@ time_to_read: 5
 title: Searching in Outlook
 ---
 
-<img align="left" alt="Outlook" src="http://www.wassupy.com/wp-content/uploads/2008/05/outlook-icon.jpg" />Love it or hate it, Outlook is <em>the </em>email solution for a lot of people. When it comes to work-related email, I'm one of those suckers.
+![outlook-icon.jpg](outlook-icon.jpg)Love it or hate it, Outlook is <em>the </em>email solution for a lot of people. When it comes to work-related email, I'm one of those suckers.
 
 Now that Google has spoiled us with archive-and-search-everything email, I've run into issues with my enormous work inbox. I have mimicked by gmail setup in Outlook with the aid of the fantastic search tool Lookout.
 
@@ -21,4 +21,4 @@ If you're stuck with Outlook, consider this free tool to make searches quick and
 
 One final tip: if you are using Outlook 2007 and hate that annoying "Click here to enable lame instant search" nag bar, fear not. This is how to disable it:<br /><p align="left">&nbsp;</p>
 
-<ul><br />	<li>Tools &gt; Options &gt; Other &gt; Advanced Options</li><br />	<li>Uncheck "Show prompts to enable lame InstantSearch"</li><br /></ul><br /><p align="center"><img alt="Disable Outlook Instant Search Nag Bar" src="http://www.wassupy.com/wp-content/uploads/2008/05/disablesearchoutlook.png" /></p><br /><p align="left"> Happy searching!</p>
+<ul><br />	<li>Tools &gt; Options &gt; Other &gt; Advanced Options</li><br />	<li>Uncheck "Show prompts to enable lame InstantSearch"</li><br /></ul><br /><p align="center">![disablesearchoutlook.png](disablesearchoutlook.png)<p align="left"> Happy searching!</p>

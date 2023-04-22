@@ -10,7 +10,7 @@ time_to_read: 5
 title: Someone just got fired
 ---
 
-<a href="http://www.google.com/trends/hottrends?q=google+this+site+may+harm+your+computer&amp;date=2009-1-31&amp;sa=X"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5297498305726210962" src="http://2.bp.blogspot.com/_IKD9WtY5kxU/SYR-pEcLY5I/AAAAAAAAAKw/Ng7BrQhWljs/s400/google-oops.png" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 142px;" /></a>
+<a href="http://www.google.com/trends/hottrends?q=google+this+site+may+harm+your+computer&amp;date=2009-1-31&amp;sa=X">![google-oops.png](google-oops.png)</a>
 For about 30 minutes this morning, google was broken.
 
 

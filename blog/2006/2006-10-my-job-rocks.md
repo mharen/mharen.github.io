@@ -13,7 +13,7 @@ title: My Job Rocks
 
 <strong>Subtitle:</strong> Why you should work for <a href="http://www.rovisys.com/rovisys/about/news.asp">Rovisys</a>
 
-<img align="right" alt="Rovisys" id="image526" src="http://www.wassupy.com/wp-content/uploads/2006/10/rovisys-o-logo.gif" />Throughout high school and college, I had one goal in mind when it came to academia: get a job. I realized that degree-->job, so I stuck with college. Now don't get me wrong, I had a great time in college. I met some awesome people and often think back to some of the best fun I have ever had.
+![rovisys-o-logo.gif](rovisys-o-logo.gif)Throughout high school and college, I had one goal in mind when it came to academia: get a job. I realized that degree-->job, so I stuck with college. Now don't get me wrong, I had a great time in college. I met some awesome people and often think back to some of the best fun I have ever had.
 
 On the other hand, although I think about engineering pretty much 18 hours a day (it's a disease), I only have to answer to someone 8-10 of those hours. When I get home, I don't have to study or do homework--I do fun stuff!
 

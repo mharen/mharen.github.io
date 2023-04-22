@@ -12,7 +12,7 @@ time_to_read: 5
 title: Two Cents on Healthcare, Part 2
 ---
 
-<p><img align="right" alt="image" border="0" height="148" src="http://lh5.ggpht.com/_IKD9WtY5kxU/SpIMRLXS48I/AAAAAAAAAgk/8DKBigPKamM/image%5B12%5D.png" style="border: 0px none ; display: inline; margin-left: 0px; margin-right: 0px;" title="image" width="240" /> My friend Tiffany commented on <a href="../2009/2009-08-two-cents-on-healthcare.html">part 1</a> of my healthcare posts on Facebook:</p>
+<p>![image%5B12%5D.png](image%5B12%5D.png) My friend Tiffany commented on <a href="../2009/2009-08-two-cents-on-healthcare.html">part 1</a> of my healthcare posts on Facebook:</p>
 <blockquote> 
 <p>Please address how and/or why the US will remain on the cutting edge of health care without dissolving into the bowels of mediocrity. And, what motivates our most outstanding physicians to continue practicing in this capitalist society? I look forward to your thoughts and will end with a smiley face in order to maintain lightheartedness. :) </p>
 </blockquote>
@@ -27,7 +27,7 @@ title: Two Cents on Healthcare, Part 2
 <p>I appreciate the genuine friendliness with which Tif and Tim signed their comments though I predict that this will <a href="http://www.createdebate.com/debate/show/But_No_Offense_Really">deteriorate</a> <a href="http://www.allegro.cc/forums/thread/456370/456498#target">soon</a>. I guess we’ll see how long it lasts!</p>
 <p>I completely agree with Tim. Our current system <a href="http://www.photius.com/rankings/healthranks.html">isn’t the world class health care giant</a> we all like to believe it is even though we’re <a href="http://www.photius.com/rankings/total_health_expenditure_as_pecent_of_gdp_2000_to_2005.html">paying through the nose</a> for it. While those numbers are dated, more <a href="http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse">recent analysis</a> is grim, too:</p>
 <blockquote> 
-<p><a href="http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse"><img align="right" alt="image" border="0" height="23" src="http://lh4.ggpht.com/_IKD9WtY5kxU/SpIMR-gWmfI/AAAAAAAAAgo/wphR-yN4qSs/image%5B6%5D.png" style="border: 0px none ; display: inline; margin-left: 0px; margin-right: 0px;" title="image" width="153" /></a> “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund. </p>  
+<p><a href="http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse">![image%5B6%5D.png](image%5B6%5D.png)</a> “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund. </p>  
 <p>The study, which assesses the United States on 37 health care measures, finds little improvement since the last report, as the cost of health care continues to rise steadily and more people — even those with insurance — struggle to pay their medical bills. </p>  
 <p>“<strong>The central finding is that access has deteriorated</strong>,” Ms. Davis said. </p>  
 <p>…the United States, for example, has reduced the number of preventable deaths for people under the age of 75 to 110 deaths for every 100,000 people, compared with 115 deaths five years earlier, but other countries have made greater strides. <strong>As a result, the United States now ranks last in preventable mortality.</strong></p>

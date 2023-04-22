@@ -15,7 +15,7 @@ title: Jim, The Pony Taxi, Who Sounds A Lot Like an Engineer
 
 <a href="https://plus.google.com/103506291560311820711/posts/U4RurULNe4X">By request</a>, 600 words on ponies.
 
-<img alt="T" border="0" src="http://2.bp.blogspot.com/-8rSVQP-UW9Y/TroE67Vh8II/AAAAAAAAD_w/Tm9yGibSAyY/s1600/t.png" style="border-bottom-style: none; border-color: initial; border-left-style: none; border-right-style: none; border-top-style: none; float: left; padding-bottom: 1px; padding-left: 1px; padding-right: 1px; padding-top: 1px;" title="T" />here once was a clever pony named Jim. He was a <a href="http://twitpic.com/7bid0x">fine steed</a> who loved solving the world's transportation problems, one trip at a time. When asked what he did for a living, Jim would often answer&nbsp;succinctly, "I make traveling easier."
+![t.png](t.png)here once was a clever pony named Jim. He was a <a href="http://twitpic.com/7bid0x">fine steed</a> who loved solving the world's transportation problems, one trip at a time. When asked what he did for a living, Jim would often answer&nbsp;succinctly, "I make traveling easier."
 
 And so Jim went about his days improving trip performance and finding new ways to help his customers. All the while though, a particular calling bubbled to the surface: more than anything, he *really* wanted his riders to be happy. Unfortunately, like most ponies, Jim wasn't just directed to&nbsp;*wherever*&nbsp;his customers wanted to go, but also *how *to get there.
 

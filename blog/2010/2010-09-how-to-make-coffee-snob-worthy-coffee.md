@@ -37,10 +37,10 @@ title: How to Make Coffee-Snob Worthy Coffee
 <p>On the other hand, if that really was a question, then the answer is “no.”</p>
 <p><strong>What coffee pot do you really use?</strong></p>
 <p>A Mr. Coffee Drip Pot as pictured (that’s really mine, about to brew!). </p>
-<p><img alt="IMAG0144" border="0" height="480" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TJaLm1Un3lI/AAAAAAAAAtM/1jaeiu4sPg0/IMAG0144_thumb%5B4%5D.jpg" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="IMAG0144" width="347" /></p>
+<p>![IMAG0144_thumb%5B4%5D.jpg](IMAG0144_thumb%5B4%5D.jpg)</p>
 <p><strong>What coffee do you really use?</strong></p>
 <p>My current bag is “Archer Farms, Organic, Fair Trade, Super Nice Guy, Hippie Approved, Single Origin, Save the Children (seriously!?) Tierra Del Sol”. It’s from Target and costs like $6-$8. It’s just coffee. When this bag is gone, I’ll get another of a similar roast but a different variety.</p>
-<p><a href="http://lh6.ggpht.com/_IKD9WtY5kxU/TJaLnXlmG7I/AAAAAAAAAtQ/GNkNwr-Uz6g/s1600-h/IMAG0143%5B17%5D.jpg"><img alt="IMAG0143" border="0" height="480" src="http://lh3.ggpht.com/_IKD9WtY5kxU/TJaLoQKPcQI/AAAAAAAAAtU/796T6vFohTI/IMAG0143_thumb%5B1%5D.jpg" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="IMAG0143" width="330" /></a></p>
+<p>![IMAG0143%5B17%5D.jpg](IMAG0143%5B17%5D.jpg)</a></p>
 <p><strong>How do I get good coffee at work? </strong></p>
 <p>Yikes, I have no idea. This is where that damn “snob” word comes up again. It’s hard to avoid the label when bringing in your own coffee to share or worse, using a private coffee maker. I’m open to ideas (leave a comment). This is probably why so many people buy coffee on their way <em>into</em> work.</p>
 <p></p>
@@ -53,14 +53,14 @@ title: How to Make Coffee-Snob Worthy Coffee
 <p>I have mixed feelings on that. They’re pretty wasteful in terms of energy and packaging. As far as flavor goes, they’re ok. I’d say they are much better than the typical Folgers junk but a noticeable step below the coffee I pictured above and significantly more expensive. One key advantage to this method is that you can mix it up so easily by trying different cups each time.</p>
 <p><strong>Why is coffee so gross?</strong></p>
 <p>It’s an acquired taste for sure. Here’s my estimate of a typical hater’s reasons:</p>
-<p><img alt="chart[1]" border="0" height="302" src="http://lh3.ggpht.com/_IKD9WtY5kxU/TJaLoh6KNqI/AAAAAAAAAtY/y_0V8714fdI/chart%5B1%5D%5B7%5D.png" style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px;" title="chart[1]" width="540" /></p>
+<p>![chart%5B1%5D%5B7%5D.png](chart%5B1%5D%5B7%5D.png)</p>
 <p><strong>I’m making coffee for an actual coffee snob, what do I do?</strong></p>
 <p>That’s actually pretty simple—just ask them to make it; they won’t mind. Or, if your friend is nice, ask them for honest feedback. They will invariably say that it should be stronger, or at least that’s been my experience. Hat-tip to the <a href="http://picturingtheordinary.blogspot.com/">nicest coffee expert</a> I know.</p>
 <p><strong>Umm Starbucks is way better than Dunkin.</strong></p>
 <p>That’s incorrect but more importantly, irrelevant!</p>
 <p><strong>You’re totally drinking coffee right now, aren’t you?</strong></p>
 <p>Yes.</p>
-<p><img alt="IMAG0145" border="0" height="383" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TJaOgKIqvKI/AAAAAAAAAtc/pIJKgs5sUTI/IMAG0145%5B4%5D.jpg" style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px;" title="IMAG0145" width="640" /></p>
+<p>![IMAG0145%5B4%5D.jpg](IMAG0145%5B4%5D.jpg)</p>
 
 ---
 

@@ -21,10 +21,10 @@ title: 'Arduino Day 6: Analog Inputs'
 <p>If you or someone you know hasn't yet experienced the hilarity of user submitted content, please, do not fear. You are welcome here. It's a safe-ish place.</p>
 <p>Now where was I? Oh yes…</p>
 <p>Today’s build is another extension on the sound thing I’ve been working on. I took the Mario playing board and added in a light-trigger so it only plays when it’s dark. I also used the potentiometer to control the tempo of the song. Let me show you:</p>  <p align="center"></p>  <h4>Build</h4>
-<p><img alt="IMAG0705" height="354" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TNYgbVRaazI/AAAAAAAABNE/l6Q-IqhczCc/IMAG0705%5B8%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0705" width="700" /><img alt="IMAG0707" height="425" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TNYgb7Uv__I/AAAAAAAABNI/UmJixZnGHDo/IMAG0707%5B8%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0707" width="700" /></p>  <h4>Circuit</h4>
+<p>![IMAG0707%5B8%5D.jpg](IMAG0707%5B8%5D.jpg)</p>  <h4>Circuit</h4>
 <p>Since this build was a very minor addition to my previous circuits, I’m only showing the simple changes here:</p>
-<p><img alt="Sketch_bb" height="299" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TNYgcWjCPRI/AAAAAAAABNM/Uza5UmdY_yQ/Sketch_bb%5B6%5D.png" style="margin: 0px auto; display: block; float: none;" title="Sketch_bb" width="522" /></p>  <h4>Schematic</h4>
-<p><img alt="Sketch_schem" height="401" src="http://lh4.ggpht.com/_IKD9WtY5kxU/TNYgcpkrFyI/AAAAAAAABNQ/nh5oNBkAkVI/Sketch_schem%5B14%5D.png" style="margin: 0px auto; display: block; float: none;" title="Sketch_schem" width="541" /></p>  <h4>Code</h4>
+<p>![Sketch_bb%5B6%5D.png](Sketch_bb%5B6%5D.png)</p>  <h4>Schematic</h4>
+<p>![Sketch_schem%5B14%5D.png](Sketch_schem%5B14%5D.png)</p>  <h4>Code</h4>
 <p>The only changes today were in the Loop() routine:</p>
 <blockquote>   <pre class="csharpcode"><span class="kwrd">void</span> loop() {
   <span class="kwrd">int</span> CdsReading;  

@@ -19,11 +19,11 @@ title: 'Nanowrimo: Arduino Style'
 <blockquote> 
 <p>Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. It's intended for artists, designers, hobbyists, and anyone interested in creating interactive objects or environments.</p>
 </blockquote>
-<p>That is, it’s a little board with circuits and chips and stuff that you can wire things up to. Then, you write programs to control it and neat things happen. Here’s what it looks like:</p>  <p align="center"><img height="336" src="http://gravitech.us/Arduino/Duemilanove/Duemilanove_3.jpg" style="margin: 3px;" width="450" /></p>
+<p>That is, it’s a little board with circuits and chips and stuff that you can wire things up to. Then, you write programs to control it and neat things happen. Here’s what it looks like:</p>  <p align="center">![Duemilanove_3.jpg](Duemilanove_3.jpg)</p>
 <p>It’s about half the size of a fancy smart phone—it easily fits in your hand. Even small hands!</p>
 <p>Oh, and it’s $25—$30 shipped.</p>
 <p>The coolest thing about Arduino, besides it's capabilities and awesome price, is it’s popularity. Being open source, a lot of different people make it, and it comes in a lot of <a href="http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=148">different sizes</a>. For small projects, you can get something like this:</p>
-<p><img alt="tiny arduino" height="363" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TM-AnfehJLI/AAAAAAAABJ4/iyYYIsfhNdo/tiny%20arduino%5B7%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="tiny arduino" width="417" /></p>
+<p>![tiny%20arduino%5B7%5D.jpg](tiny%20arduino%5B7%5D.jpg)</p>
 <p>It’s widely available, and being crazy popular, there’s a lot of people posting tutorials, examples, and accessories for it. The community support behind this thing is incredible. This is good, because I’m going to need all the help I can get.</p>
 <p>My first project will be up shortly.</p>
 
