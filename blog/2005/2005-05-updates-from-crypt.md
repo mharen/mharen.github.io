@@ -19,7 +19,7 @@ Well, that's what they did. 'nough said.<h3>24</h3>This was a two-hour show. It 
 
 Well pardon me, sir, but wtf? What a terrible ending! Basically, Tony and Bitchelle fake Jack's death so he can go into hiding and start a "new" life. That is, until <s>next season</s> tomorrow another terrorist does something that only Jack can handle. 
 
-That brings up a barely related point I've been thinking about. I think that they should codeword each season with a day of the week. So season one is Monday, season two is Tuesday, etc. If they're feeling really ambitious and worry that seven days won't cover it, they could start with a date Jan 1, Jan 2, etc. Just a thought...<h3>Alias</h3>Or as I like to call it, <b>Jenny plays dress-up</b>.
+That brings up a barely related point I've been thinking about. I think that they should codeword each season with a day of the week. So season one is Monday, season two is Tuesday, etc. If they're feeling really ambitious and worry that seven days won't cover it, they could start with a date Jan 1, Jan 2, etc. Just a thought...<h3>Alias</h3>Or as I like to call it, **Jenny plays dress-up**.
 
 This show was really, really good the first two seasons. Season three and now season four were a little slow and repetitive. The last three episodes of this season, however, have been extremely good.
 

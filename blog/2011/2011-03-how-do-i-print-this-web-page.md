@@ -28,7 +28,7 @@ But But But...</h2>
 Where's my "print" link? Print links are about a million years old in Internet years. 
  They were needed back in the day when technology couldn't easily produce 
  "printer-friendly versions" of pages without doing server-side voodoo magic. 
- Things have been different&nbsp;<i>for years</i>, though, and separate print 
+ Things have been different&nbsp;*for years*, though, and separate print 
  pages are no longer necessary.&nbsp;
 </div>
 <div>

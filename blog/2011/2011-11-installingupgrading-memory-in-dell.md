@@ -79,12 +79,12 @@ In pictures:</div>
 <tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-mX6r1NZW6b8/TrsxTlGBJ-I/AAAAAAAAEFA/xXxbd5Jysrk/s1600/IMG_0623.JPG" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://1.bp.blogspot.com/-mX6r1NZW6b8/TrsxTlGBJ-I/AAAAAAAAEFA/xXxbd5Jysrk/s640/IMG_0623.JPG" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">All set. Now put it all back together!</td></tr>
 </tbody></table>
-Boot...and it works!<br />
-<br />
+Boot...and it works!
+
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://3.bp.blogspot.com/-pW0bI5rraMU/Trs0TBIQDBI/AAAAAAAAEFQ/mTm4B7j_V-U/s1600/boom+8gb.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="420" src="http://3.bp.blogspot.com/-pW0bI5rraMU/Trs0TBIQDBI/AAAAAAAAEFQ/mTm4B7j_V-U/s640/boom+8gb.png" width="640" /></a></div>
-<br />
-<br />
+
+
 <div>
 For $60, 8gb seems like a no-brainer upgrade if your laptop supports it.&nbsp;And now, I can finally reap the rewards of choosing to go with Windows 7 x64 two years ago. Yay!</div>
 </div>

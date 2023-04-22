@@ -11,9 +11,9 @@ title: Make way for a unique key constraint by renaming/updating duplicate rows 
   SQL Server
 ---
 
-If you want to add a unique key constraint or index to a table that might have duplicate records you're in for some fun. You can either delete the duplicates, or fix the data to make them unique.<br />
-<br />
-Suppose you have a table "Widgets", which <i>should</i>&nbsp;be unique on SupplierId and Name, but isn't. This tsql script will update the duplicates by appending a "(1)", "(2)", etc. to the Name, thus satisfying the proposed UKC:<br />
+If you want to add a unique key constraint or index to a table that might have duplicate records you're in for some fun. You can either delete the duplicates, or fix the data to make them unique.
+
+Suppose you have a table "Widgets", which *should*&nbsp;be unique on SupplierId and Name, but isn't. This tsql script will update the duplicates by appending a "(1)", "(2)", etc. to the Name, thus satisfying the proposed UKC:<br />
 <blockquote class="tr_bq">
 <pre style="color: #333333; line-height: 16.25px;"><span style="color: #008800; font-weight: bold;">DECLARE</span> @Widgets <span style="color: #008800; font-weight: bold;">TABLE</span>(
   Id <span style="color: #007020;">INT</span> <span style="color: #008800; font-weight: bold;">NOT</span> <span style="color: #008800; font-weight: bold;">NULL</span> <span style="color: #008800; font-weight: bold;">PRIMARY</span> <span style="color: #008800; font-weight: bold;">KEY</span>, 

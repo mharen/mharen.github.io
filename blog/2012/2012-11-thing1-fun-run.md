@@ -12,10 +12,10 @@ time_to_read: 5
 title: Thing1's Fun Run
 ---
 
-Wife and I ran the Kent Turkey Trot again this year. She placed in the top 10 for women and I finished without dying so overall we beat our goals. <br />
-<br />
-More exciting than mere survival, though was Thing1's race. She did a ~0.25 mile fun run. She was ridiculously photogenic on the way out but was moving so fast it was hard to capture her on film.<br />
-<br />
+Wife and I ran the Kent Turkey Trot again this year. She placed in the top 10 for women and I finished without dying so overall we beat our goals. 
+
+More exciting than mere survival, though was Thing1's race. She did a ~0.25 mile fun run. She was ridiculously photogenic on the way out but was moving so fast it was hard to capture her on film.
+
 Congrats, Peanut! 
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://lh5.googleusercontent.com/-ivZz8eZhYg0/UK96quU_RKI/AAAAAAAAFYs/SgOGA0tf31c/s640/blogger-image--1925738137.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://lh5.googleusercontent.com/-ivZz8eZhYg0/UK96quU_RKI/AAAAAAAAFYs/SgOGA0tf31c/s640/blogger-image--1925738137.jpg" /></a></div> 

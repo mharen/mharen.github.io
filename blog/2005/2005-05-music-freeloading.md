@@ -11,7 +11,7 @@ time_to_read: 5
 title: music freeloading
 ---
 
-In my quest for legal music, I've been doing quite a bit of research. iTunes looks great but has one serious shortfall. When you buy a track, you are locked in. This means that you must use iTunes or an iPod to listen. I've got a mac but I use linux more often so this would be a problem. Another problem with iTMS is that if you lose the files, you are sol. You <b>cannot</b> download them again. This may be true with other stores, too, but I don't know.
+In my quest for legal music, I've been doing quite a bit of research. iTunes looks great but has one serious shortfall. When you buy a track, you are locked in. This means that you must use iTunes or an iPod to listen. I've got a mac but I use linux more often so this would be a problem. Another problem with iTMS is that if you lose the files, you are sol. You **cannot** download them again. This may be true with other stores, too, but I don't know.
 
 Most other stores support only windows (which I don't have at all) so that's even worse.
 

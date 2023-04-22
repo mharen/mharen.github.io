@@ -19,4 +19,4 @@ There remain only two things that could keep us from getting this home. First, t
 
 The second obstacle is the loan. We don't have much cash on hand so a down payment isn't really an option. We've been told that since we are first time buyers, financing the whole shebang shouldn't be a problem...I guess we'll see.
 
-I'll keep you (that's <i>plural you</i>--my 5 loyal readers) posted with the goings on.
+I'll keep you (that's *plural you*--my 5 loyal readers) posted with the goings on.

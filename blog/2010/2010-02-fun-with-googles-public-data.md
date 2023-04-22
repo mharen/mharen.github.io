@@ -19,7 +19,7 @@ title: "Fun with Google\u2019s Public Data"
 <p><img alt="image" border="0" height="521" src="http://lh3.ggpht.com/_IKD9WtY5kxU/S4lknNWhXiI/AAAAAAAAApU/bMDbqRVCGUg/image%5B27%5D.png" style="border-bottom: 0px; border-left: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px;" title="image" width="865" /> </p>
 <p>Clearly my source data could be more complete. Even with the gaps, though, the exploding trend is obvious. It comes with this neat, mind-blowing factoid, too:</p>
 <blockquote> 
-<p>The total number of humans that have <b>ever lived</b> has been estimated at <b>110 billion</b>.      <br /><b>Approximately 6% of all those people are alive today.</b></p>
+<p>The total number of humans that have **ever lived</b> has been estimated at <b>110 billion</b>.      <br /><b>Approximately 6% of all those people are alive today.**</p>
 </blockquote>
 <p><em>Wow</em>. With the modern improvements to <a href="http://www.google.com/publicdata?ds=wb-wdi&amp;q=lifespan#met=sp_dyn_le00_in&amp;tdim=true">life expectancy</a> and high rate of population growth (<a href="http://en.wikipedia.org/wiki/File:World_population_growth_-_time_between_each_billion-person_growth.jpg">10-15 years per billion</a>), it might be a while before this 6% figure stabilizes (i.e. stops growing). </p>
 <p>I’m not suggesting that this is a bad thing—not at all. I just find it interesting.</p>
