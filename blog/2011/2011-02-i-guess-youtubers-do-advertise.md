@@ -13,7 +13,7 @@ time_to_read: 5
 title: "I Guess YouTuber\u2019s *Do* Advertise"
 ---
 
-<p>In <a href="http://blog.wassupy.com/2011/02/end-of-super-bowl-style-advertising.html" target="_blank">my last post</a> I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:</p>
+<p>In <a href="../2011/2011-02-end-of-super-bowl-style-advertising.html" target="_blank">my last post</a> I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:</p>
 <blockquote> 
 <p>But what about actual advertising?</p>
 </blockquote>

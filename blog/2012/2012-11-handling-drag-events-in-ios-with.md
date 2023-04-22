@@ -13,7 +13,7 @@ time_to_read: 5
 title: Handling Drag Events in iOS with Javascript
 ---
 
-<p>I built <a href="http://blocky.apphb.com/">this thing</a> the other day while <a href="http://blog.wassupy.com/2012/11/signalr-first-impressions-its-awesome.html">playing around</a> with <a href="https://github.com/SignalR/SignalR">SignalR</a>. It fills in cells in a table as you trace around with your mouse. On mobile, however, it didn’t work as well as I’d like. There it would only let you tap, not drag, which was a pretty big bummer.</p>
+<p>I built <a href="http://blocky.apphb.com/">this thing</a> the other day while <a href="../2012/2012-11-signalr-first-impressions-its-awesome.html">playing around</a> with <a href="https://github.com/SignalR/SignalR">SignalR</a>. It fills in cells in a table as you trace around with your mouse. On mobile, however, it didn’t work as well as I’d like. There it would only let you tap, not drag, which was a pretty big bummer.</p>
 <p>The fix I settled on required two tricks combined together. First, I needed to translate the touch events into mouse events. Second, I needed to rework how the touch events work in the first place.</p>
 <p>I adapted a <a href="http://ross.posterous.com/2008/08/19/iphone-touch-events-in-javascript/">snippet of code</a> to effectively catch the touchmove events and replay them as mousemove events like so:</p>  <pre class="csharpcode">    <span class="rem">// don't just copy this code. It gets better farther down...</span>
 <span class="kwrd">    function</span> touchHandler(<span class="kwrd">event</span>) {

@@ -13,7 +13,7 @@ title: Two Cents on Healthcare, Part 3
 ---
 
 <p>My previous posts on this topic have met with some healthy and informative discussion. In this post I hope to address some of those comments and then bring my position back into focus.</p>
-<p>I started <a href="http://blog.wassupy.com/2009/08/two-cents-on-healthcare.html">with this</a>:</p>
+<p>I started <a href="../2009/2009-08-two-cents-on-healthcare.html">with this</a>:</p>
 <blockquote> 
 <p>“I fully support dramatic health care reform. I don’t know what the right solution is but what <a href="http://www.photius.com/rankings/healthranks.html"><font color="#0066cc">we’re doing now</font></a> isn’t it.”</p>
 </blockquote>

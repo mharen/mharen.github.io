@@ -24,7 +24,7 @@ title: 'Presenting: The Parental Anger Scale'
 <p><strong>Child’s Grievance:</strong> been awake for three hours, stolen toy, lost toy, toy too far away, toy no longer entertaining, or hungry</p>
 <p><strong>Parental Response:</strong> polite explanation (“teaching moments”), snacks, bribery or redirection</p>  <h3>Level 3: Angry Parent</h3>
 <p><strong>Frequency: </strong>occasional</p>
-<p><strong>Triggers:</strong> child maintains persistent level 2 activity, performs are-you-kidding-me actions like <a href="http://blog.wassupy.com/2010/12/life-lessons-about-glitter.html" target="_blank">dumping glitter all over the place</a>, or perpetrates hitting/violence or outright malicious speech toward others</p>
+<p><strong>Triggers:</strong> child maintains persistent level 2 activity, performs are-you-kidding-me actions like <a href="../2010/2010-12-life-lessons-about-glitter.html" target="_blank">dumping glitter all over the place</a>, or perpetrates hitting/violence or outright malicious speech toward others</p>
 <p><strong>Child’s Grievance:</strong> who knows?</p>
 <p><strong>Parental Response:</strong> timeout, loss of privileges, or early termination of activities (the car is turned around, as they say), insists that parent cannot understand children who don’t use their words because all they can hear is “quack quack quack” (implying child is a duck)</p>  <h3>Level 4: Frazzled Parent</h3>
 <p><strong>Frequency:</strong> rare</p>

@@ -14,7 +14,7 @@ time_to_read: 5
 title: How Buying or Selling a House in a Single Day Could Work
 ---
 
-<p><a href="http://blog.wassupy.com/2012/11/death-by-thousand-paper-cuts-way-we-buy.html">Previously</a> I discussed why I think the real estate transactions are handled is headed for major change:</p>
+<p><a href="../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html">Previously</a> I discussed why I think the real estate transactions are handled is headed for major change:</p>
 <blockquote> 
 <p><strong>The market is craving disruption (Zillow was just the beginning).</strong> It is bloated with a surplus of homes and sellers everywhere are anxious…</p>
 </blockquote>
@@ -22,7 +22,7 @@ title: How Buying or Selling a House in a Single Day Could Work
 <blockquote> 
 <p><strong>…we’re talking about big money.</strong> The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.</p>
 </blockquote>
-<p>Head <a href="http://blog.wassupy.com/2012/11/death-by-thousand-paper-cuts-way-we-buy.html">back there</a> for a bit more explanation if you aren’t convinced the way we do this now is awful.</p>
+<p>Head <a href="../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html">back there</a> for a bit more explanation if you aren’t convinced the way we do this now is awful.</p>
 <p>But how could this all be different? I think it’s a lot simpler than you might imagine. Let’s consider another process for buying really expensive things: cars.</p>
 <p>(Or skip this part and <a href="#enough-already">jump straight</a> to a story about how great house shopping could be.)</p>
 <p>You can walk into a dealership and purchase a nice car or truck for $30,000-40,000. That’s a lot of money, and has a monthly payment<sup id="sup1-20121106"><a href="#foot1-20121106">1</a></sup> comparable to a house<sup id="sup2-20121106"><a href="#foot2-20121106">2</a></sup> worth about $140,000. And all it takes is a driver license and your afternoon (and probably good credit). Let’s examine how the car people do it.</p>

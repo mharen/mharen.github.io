@@ -17,5 +17,5 @@ title: The End Of Super Bowl-Style Advertising
 <p>He nailed it. When I have access to unlimited amusing clips (usually with no ulterior motive), watching a three hour football game is hardly an efficient delivery mechanism for untested, untargeted clips designed to manipulate me.</p>
 <p>Sure I chuckled at several of them, including this favorite that I’m sure you’ve seen 800 times already:</p>  <p align="center"></p>
 <p>And this close runner-up:</p>  <p align="center"></p>
-<p>But those professionally produced, multi-million-dollar barely match up to what Youtubers put together. <a href="http://blog.wassupy.com/2010/11/arduino-day-6-analog-inputs.html" target="_blank">Need I remind you</a>? </p>
+<p>But those professionally produced, multi-million-dollar barely match up to what Youtubers put together. <a href="../2010/2010-11-arduino-day-6-analog-inputs.html" target="_blank">Need I remind you</a>? </p>
 <p>But what about actual advertising? I for one welcome our ad-targeting, crowd-sourced robot overlords and judging from yesterday’s performance, the sooner they arrive the better.</p>

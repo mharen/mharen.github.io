@@ -13,7 +13,7 @@ title: Apache Reverse Proxy Implemented
 ---
 
 <p class="feed-note">Note to off-site viewers: this post has pictures. If you don’t see them, come to the site for a better view!</p>
-<p>This is a follow-up on my <a href="http://blog.wassupy.com/2009/07/structuring-our-developer-tools-with.html">previous post</a> about the server architecture I setup to support my company’s developers. This was the goal:</p>
+<p>This is a follow-up on my <a href="../2009/2009-07-structuring-our-developer-tools-with.html">previous post</a> about the server architecture I setup to support my company’s developers. This was the goal:</p>
 <p>&#160; <img alt="image" border="0" height="389" src="http://lh5.ggpht.com/_IKD9WtY5kxU/SnXk0B6jdbI/AAAAAAAAAcU/jc3J4Yg5eCw/image%5B11%5D.png" style="border-right-width: 0px; display: block; float: none; border-top-width: 0px; border-bottom-width: 0px; margin-left: auto; border-left-width: 0px; margin-right: auto;" title="image" width="640" /> </p>
 <p>Or in words: users inside and outside of the company need access to a bunch of tools (the green arrows). The proposed way of doing that uses a single server as a gatekeeper and router to other servers (the black arrows).</p>
 <p>This design offers many benefits which I won’t repeat here—head over to the original post to read up on them. Instead, this follow up serves to document how this design was implemented. In many ways it was easier than expected but we hit a few hurdles I didn’t expect.</p>

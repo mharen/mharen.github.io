@@ -15,7 +15,7 @@ time_to_read: 5
 title: Dear Michael (Response from Once Upon A Child)
 ---
 
-<p>My <a href="http://blog.wassupy.com/2011/01/dear-once-upon-child.html" target="_blank">silly letter</a> sent to the operator of my local Once Upon A Child received the following response:</p>  <blockquote style="border-left: #b3bdff 2px solid; padding-left: 5px; font-size: 0.9em;"> 
+<p>My <a href="../2011/2011-01-dear-once-upon-child.html" target="_blank">silly letter</a> sent to the operator of my local Once Upon A Child received the following response:</p>  <blockquote style="border-left: #b3bdff 2px solid; padding-left: 5px; font-size: 0.9em;"> 
 <p>Dear Michael,</p>  
 <p>Thank you for the email and customer input is always considered. I apologize for the delay in response. If you have further questions or comments my new email for the location is; (removed).</p>  
 <p>Regarding our bathroom, I do empathize with the potty training parents and the pregnant mothers shopping. I can tell you the story behind this as the decision to make our bathroom facilities private was one that was made over many years after several different attempts to monitor usage.</p>  

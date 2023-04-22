@@ -47,7 +47,7 @@ title: Target Is Crazy, And Random Pictures
 <p>The best part is that Sarah found them in another isle for $5. Identical.</p>
 <p>We were in Cereal City so bizarre sites like this were common:</p>
 <p><img alt="image" height="419" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TMegJqp4kwI/AAAAAAAABI4/8oQzUiydcfo/image%5B30%5D.png" style="margin: 0px auto; display: block; float: none;" title="image" width="700" /></p>
-<p>Antivirus <a href="http://blog.wassupy.com/2010/10/some-thoughts-on-antivirus-and-why-i.html">being helpful</a> and totally not ruining the Weather Channel, though to be fair, it’s accuracy is about on par with the forecast (zing—<a href="http://instantrimshot.com/">weather joke</a>!):</p>
+<p>Antivirus <a href="../2010/2010-10-some-thoughts-on-antivirus-and-why-i.html">being helpful</a> and totally not ruining the Weather Channel, though to be fair, it’s accuracy is about on par with the forecast (zing—<a href="http://instantrimshot.com/">weather joke</a>!):</p>
 <p><img alt="IMAG0375" height="419" src="http://lh3.ggpht.com/_IKD9WtY5kxU/TMegKQAeZKI/AAAAAAAABJA/gGUWtvYEPfE/IMAG0375%5B4%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0375" width="700" /></p>
 <p>And finally, my favorite item of the month:</p>
 <p><img alt="IMAG0401" height="419" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TMegK2jCK4I/AAAAAAAABJE/C2UGtjZH_Ns/IMAG0401%5B4%5D.jpg" style="margin: 0px auto; display: block; float: none;" title="IMAG0401" width="700" /></p>

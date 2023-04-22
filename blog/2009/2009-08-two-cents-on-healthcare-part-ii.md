@@ -12,7 +12,7 @@ time_to_read: 5
 title: Two Cents on Healthcare, Part 2
 ---
 
-<p><img align="right" alt="image" border="0" height="148" src="http://lh5.ggpht.com/_IKD9WtY5kxU/SpIMRLXS48I/AAAAAAAAAgk/8DKBigPKamM/image%5B12%5D.png" style="border: 0px none ; display: inline; margin-left: 0px; margin-right: 0px;" title="image" width="240" /> My friend Tiffany commented on <a href="http://blog.wassupy.com/2009/08/two-cents-on-healthcare.html">part 1</a> of my healthcare posts on Facebook:</p>
+<p><img align="right" alt="image" border="0" height="148" src="http://lh5.ggpht.com/_IKD9WtY5kxU/SpIMRLXS48I/AAAAAAAAAgk/8DKBigPKamM/image%5B12%5D.png" style="border: 0px none ; display: inline; margin-left: 0px; margin-right: 0px;" title="image" width="240" /> My friend Tiffany commented on <a href="../2009/2009-08-two-cents-on-healthcare.html">part 1</a> of my healthcare posts on Facebook:</p>
 <blockquote> 
 <p>Please address how and/or why the US will remain on the cutting edge of health care without dissolving into the bowels of mediocrity. And, what motivates our most outstanding physicians to continue practicing in this capitalist society? I look forward to your thoughts and will end with a smiley face in order to maintain lightheartedness. :) </p>
 </blockquote>

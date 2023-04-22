@@ -13,7 +13,7 @@ time_to_read: 5
 title: Happy First Birthday, Thing 3
 ---
 
-<p>Thing 3’s birthday is today. It’s hard to believe it’s already been a year since <a href="http://blog.wassupy.com/2011/08/birth-story-thing-3.html">he was born</a>.</p>
+<p>Thing 3’s birthday is today. It’s hard to believe it’s already been a year since <a href="../2011/2011-08-birth-story-thing-3.html">he was born</a>.</p>
 <p><img alt="11-IMG_3263" height="700" src="http://lh5.ggpht.com/-eUejCHlr_I8/UC7VqUfxwJI/AAAAAAAAE2s/z12ZsIo3q4I/11-IMG_3263%25255B4%25255D.jpg" style="float: none; margin: 3px auto; display: block;" title="11-IMG_3263" width="700" /></p>
 <p>Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.</p>
 <p>Needless to say, I’m excited for the times my son and I will share together. Since I have so many fond memories of growing up working with my dad on handyman-related things, Wife thought I could make him a tool bench as a present (or maybe she’s just spending too much time on Pinterest, where she <a href="http://pinterest.com/pin/184577284698686013/">got the idea</a>).</p>
