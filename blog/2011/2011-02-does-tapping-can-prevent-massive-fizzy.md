@@ -13,8 +13,12 @@ time_to_read: 5
 title: Does Tapping the Can Prevent A Massive Fizzy Explosion?
 ---
 
-<p>Some feel compelled to tap the top of a can of soda before opening, especially if it’s recently been dropped. Does this precaution help or is just something our know-it-all mothers made up? My guess is that this action has no effect. Let’s test my hypothesis:</p>  <p align="center"></p>
-<p>Although the results were disputed by those present, I’m sure you’ll agree with me, Internet, that the tapping had no effect and the complete lack of a fizzy mess was an epic disappointment. Additional tests, including trials with other types of pop are necessary.</p>
+
+Some feel compelled to tap the top of a can of soda before opening, especially if it’s recently been dropped. Does this precaution help or is just something our know-it-all mothers made up? My guess is that this action has no effect. Let’s test my hypothesis:  
+
+
+
+Although the results were disputed by those present, I’m sure you’ll agree with me, Internet, that the tapping had no effect and the complete lack of a fizzy mess was an epic disappointment. Additional tests, including trials with other types of pop are necessary.
 
 ---
 

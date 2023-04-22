@@ -11,4 +11,12 @@ time_to_read: 5
 title: Things my dog has eaten today
 ---
 
-a peanut m&amp;m<br />half of a squeaker from a toy (subsequently coughed up)<br />fluff from the toy<br />a jello cup (mostly empty)<br />a potato
+a peanut m&amp;m
+
+half of a squeaker from a toy (subsequently coughed up)
+
+fluff from the toy
+
+a jello cup (mostly empty)
+
+a potato

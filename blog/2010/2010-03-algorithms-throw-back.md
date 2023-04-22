@@ -11,12 +11,20 @@ time_to_read: 5
 title: Algorithms Throw Back
 ---
 
-<p>I was given a question today that really took me back. Here’s a hint: it had to do with <a href="http://en.wikipedia.org/wiki/Binary_search_tree">binary search trees</a>, data structures, and pretty printing.</p>
-<p>I haven’t touched a BST in six years so it took some priming to get me going.</p>  <p align="center">![image%5B2%5D.png](image%5B2%5D.png)(<a href="http://people.ksp.sk/~kuko/bak/index.html">BST builder</a>)</p>
-<p>The task was to print this tree level by level. So the output should be 3, 1, 6, 2, 5, 7, 4. If you’re a programmer, I encourage you to solve this problem as an exercise before looking at my solution. It was humbling for me.</p>
-<p>After wasting a half hour messing around with recursion, I was given a pretty nice hint to do it iteratively with a queue. </p>
-<p>I still failed miserably with my good old paper and pencil, but afterwards set out to do it in a more comfortable environment (C#).</p>
-<p>Here’s my basic node class (structs are for sissys):</p>  <pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> Node
+
+I was given a question today that really took me back. Here’s a hint: it had to do with <a href="http://en.wikipedia.org/wiki/Binary_search_tree">binary search trees</a>, data structures, and pretty printing.
+
+I haven’t touched a BST in six years so it took some priming to get me going.  
+
+![image%5B2%5D.png](image%5B2%5D.png)(<a href="http://people.ksp.sk/~kuko/bak/index.html">BST builder</a>)
+
+The task was to print this tree level by level. So the output should be 3, 1, 6, 2, 5, 7, 4. If you’re a programmer, I encourage you to solve this problem as an exercise before looking at my solution. It was humbling for me.
+
+After wasting a half hour messing around with recursion, I was given a pretty nice hint to do it iteratively with a queue. 
+
+I still failed miserably with my good old paper and pencil, but afterwards set out to do it in a more comfortable environment (C#).
+
+Here’s my basic node class (structs are for sissys):  <pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> Node
     {
         <span class="kwrd">public</span> Node(<span class="kwrd">int</span> <span class="kwrd">value</span>, Node left = <span class="kwrd">null</span>, Node right = <span class="kwrd">null</span>)
         {
@@ -27,7 +35,8 @@ title: Algorithms Throw Back
         <span class="kwrd">public</span> Node Right { get; set; }
     }</pre>
 
-<p>And my main program:</p>
+
+And my main program:
 
 <pre class="csharpcode">    <span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
     {
@@ -39,7 +48,8 @@ title: Algorithms Throw Back
         Console.ReadKey();
     }</pre>
 
-<p>And the magic:</p>
+
+And the magic:
 
 <pre class="csharpcode">    <span class="kwrd">static</span> <span class="kwrd">void</span> PrettyPrintByLevel(Node n)
     {
@@ -57,14 +67,16 @@ title: Algorithms Throw Back
         } <span class="kwrd">while</span> (Nodes.Count &gt; 0);
     }</pre>
 
-<p>A quick test reveals that it works:</p>
+
+A quick test reveals that it works:
 
 <blockquote>
   <pre class="csharpcode">3 1 6 2 5 7 4</pre>
 </blockquote>
 Yay! So what did I learn today? I’m rusty on the basics and need to do some more <a href="http://projecteuler.net/">Project Euler problems</a>. 
 
-<p>I’ve taken this opportunity to brush up on some Java. Here’s the same app in the similar, but different Java:</p>
+
+I’ve taken this opportunity to brush up on some Java. Here’s the same app in the similar, but different Java:
 
 <pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> main(String[] args) {
         <span class="rem">// build up a tree</span>
@@ -94,7 +106,8 @@ Yay! So what did I learn today? I’m rusty on the basics and need to do some mo
         <span class="rem">// calling for the list's length over and over again</span>
     }</pre>
 
-<p>It’s pretty much the same thing.</p>
+
+It’s pretty much the same thing.
 
 ---
 

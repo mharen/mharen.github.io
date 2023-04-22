@@ -11,25 +11,46 @@ time_to_read: 5
 title: Enabling Dynamic HTTP Compression in IIS7 on Windows Server 2008
 ---
 
-<p>I’m not very familiar with the newer configuration screens in Windows Server 2008 so I pulled my hair out trying to update some settings. Apparently it’s just too obvious for Google to have been any help so I’m documenting it here for the next shmuck.</p>
-<p>I wanted to enable dynamic http compression. I found the page to <em>enable</em> it but it wasn’t <em>installed</em>:</p>
+
+I’m not very familiar with the newer configuration screens in Windows Server 2008 so I pulled my hair out trying to update some settings. Apparently it’s just too obvious for Google to have been any help so I’m documenting it here for the next shmuck.
+
+I wanted to enable dynamic http compression. I found the page to *enable* it but it wasn’t *installed*:
 <blockquote> 
-<p>“The dynamic content compression module is not installed.” (but we won’t tell you how to install it)</p>
+
+“The dynamic content compression module is not installed.” (but we won’t tell you how to install it)
 </blockquote>
-<p>It turns out that installing it is very easy and didn’t require a reboot (for me, at least):</p>
-<p><strong>Text only</strong></p>
-<p>Install it:</p>  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS)</li>    <li>Role Services (scroll down) &gt; Add Role Services</li>    <li>Add desired role (Web Server &gt; Performance &gt; Dynamic Content Compression)</li>    <li>Next, Install, Wait…Done!</li> </ol>
-<p>Enable it:</p>  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager</li>    <li>Next pane: Sites &gt; Default Web Site &gt; Your Web Site</li>    <li>Main pane: IIS &gt; Compression</li> </ol>
-<p><strong>With perdy pictures</strong></p>
-<p>Install it:</p>  <ol>   <li>Open server manager     <br />![SNAG-0002%5B3%5D.png](SNAG-0002%5B3%5D.png)</a></li> </ol>
-<p>Enable it:</p>  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager     <br />![SNAG-0005%5B3%5D.png](SNAG-0005%5B3%5D.png)</a> </li> </ol>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>You might be wondering why you’d want to compress content in the first place. <a href="http://weblogs.asp.net/owscott/archive/2009/02/22/iis-7-compression-good-bad-how-much.aspx">This site</a> has a nice analysis of the practice as well as detailed information regarding what compression level you should use (and how to set it).</p>
+
+It turns out that installing it is very easy and didn’t require a reboot (for me, at least):
+
+<strong>Text only</strong>
+
+Install it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS)</li>    <li>Role Services (scroll down) &gt; Add Role Services</li>    <li>Add desired role (Web Server &gt; Performance &gt; Dynamic Content Compression)</li>    <li>Next, Install, Wait…Done!</li> </ol>
+
+Enable it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager</li>    <li>Next pane: Sites &gt; Default Web Site &gt; Your Web Site</li>    <li>Main pane: IIS &gt; Compression</li> </ol>
+
+<strong>With perdy pictures</strong>
+
+Install it:  <ol>   <li>Open server manager     
+
+![SNAG-0002%5B3%5D.png](SNAG-0002%5B3%5D.png)</a></li> </ol>
+
+Enable it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager     
+
+![SNAG-0005%5B3%5D.png](SNAG-0005%5B3%5D.png)</a> </li> </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+You might be wondering why you’d want to compress content in the first place. <a href="http://weblogs.asp.net/owscott/archive/2009/02/22/iis-7-compression-good-bad-how-much.aspx">This site</a> has a nice analysis of the practice as well as detailed information regarding what compression level you should use (and how to set it).
 
 ---
 

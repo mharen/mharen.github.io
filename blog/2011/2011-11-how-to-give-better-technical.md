@@ -40,11 +40,15 @@ Don't dumb it down. **Unless you are giving a beginner's guide to whatever, aim 
 
 **For the love of all that is holy know how to use the presentation equipment.** I refuse to be that guy stuck in the front of the room fiddling with the projector and microphone for the first 15 minutes of a 60 minute talk. *Don't be that guy. *I usually present in the same room with the same equipment but I still show up an hour early to get everything ready to go.
 
-Don't be afraid to **let others help you.** If you are supposed to record something or teleconference the talk, ask a trusted coworker or friend to oversee that stuff. You don't want to be worrying about it if you can help it. This works for simple stuff, too. You can ask someone to keep an eye out for questions in the chat room or let you know if you went too quickly through something. <br />
+Don't be afraid to **let others help you.** If you are supposed to record something or teleconference the talk, ask a trusted coworker or friend to oversee that stuff. You don't want to be worrying about it if you can help it. This works for simple stuff, too. You can ask someone to keep an eye out for questions in the chat room or let you know if you went too quickly through something. 
+
+
 <hr />
 "Great tips, but **how do I actually put one of these together?**" you ask? Unfortunately, it's a lot of work, but the more work you do to prepare, the easier the actual presentation will be. Don't skimp on preparation (your audience can tell)!
 
-I think most presentations are terrible because the presenter wasn't honest with himself regarding what needed to be done. There’s a lot more to presenting than many realize:<br />
+I think most presentations are terrible because the presenter wasn't honest with himself regarding what needed to be done. There’s a lot more to presenting than many realize:
+
+
 <ul>
 <li>Pick a topic</li>
 <li>Identify what you want to cover in the topic</li>

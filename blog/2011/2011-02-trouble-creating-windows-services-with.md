@@ -14,7 +14,8 @@ time_to_read: 5
 title: "Trouble Creating Windows Services With \u201Csc.exe create\u201D"
 ---
 
-<p>I was recently tasked with figuring out why a seemingly correct call to sc.exe wasn’t working. This turned into an exercise in frustration as I tried the command about 50 different ways. This is close, but not close enough:</p>
+
+I was recently tasked with figuring out why a seemingly correct call to sc.exe wasn’t working. This turned into an exercise in frustration as I tried the command about 50 different ways. This is close, but not close enough:
 <blockquote>   <pre><strong>** Don’t do this—it doesn’t work (keep reading) **
 </strong>C:\&gt;sc.exe create ServiceName binpath=&quot;C:\Path\Service.exe -args&quot;
                               depend=&quot;tcpip&quot;
@@ -40,22 +41,27 @@ NOTE: The option name includes the equal sign.
  password= &lt;password&gt;</pre>
 </blockquote>
 
-<p>It unhelpfully just dumps the usage information without telling me what I did wrong. After screwing around with it for far too long, I finally figured it out. It says that each “option name includes the equal sign”, but <strong>it also includes the space after the equal sign</strong>.</p>
 
-<p>It turns out that a literal, precise interpretation of the command line arguments is needed:</p>
+It unhelpfully just dumps the usage information without telling me what I did wrong. After screwing around with it for far too long, I finally figured it out. It says that each “option name includes the equal sign”, but <strong>it also includes the space after the equal sign</strong>.
+
+
+It turns out that a literal, precise interpretation of the command line arguments is needed:
 
 <blockquote>
-  <pre><p>
+  <pre>
+
 C:\&gt;sc.exe create ServiceName binpath=<font style="background-color: #ffff00;"> </font>&quot;C:\Path\Service.exe -args&quot; 
                               depend=<font style="background-color: #ffff00;"> </font>&quot;tcpip&quot; 
                               DisplayName=<font style="background-color: #ffff00;"> </font>&quot;Service Name&quot;
 [SC] CreateService SUCCESS
-</p></pre>
+</pre>
 </blockquote>
 
-<p>![image%5B3%5D.png](image%5B3%5D.png)Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.</p>
 
-<p>Interestingly, while preparing this post I learned that the help info <em>has been improved</em> in Windows 7 and Windows Server 2008:</p>
+![image%5B3%5D.png](image%5B3%5D.png)Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.
+
+
+Interestingly, while preparing this post I learned that the help info *has been improved* in Windows 7 and Windows Server 2008:
 
 <blockquote>
   <pre>NOTE: The option name includes 
@@ -64,7 +70,8 @@ C:\&gt;sc.exe create ServiceName binpath=<font style="background-color: #ffff00;
       the equal sign and the value.</strong></pre>
 </blockquote>
 
-<p>So I guess <em>now it’s documented</em>, but still a usability fail.</p>
+
+So I guess *now it’s documented*, but still a usability fail.
 
 ---
 
@@ -94,7 +101,9 @@ Thank you, you have saved my time..
 
 **Unknown said on 2013-10-31**
 
-Big thanks from me too.<br />What an awful piece of work sc.exe is for something so important. Really pathetic.
+Big thanks from me too.
+
+What an awful piece of work sc.exe is for something so important. Really pathetic.
 
 **Luisma said on 2014-07-01**
 

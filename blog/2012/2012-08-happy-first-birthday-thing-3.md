@@ -13,28 +13,56 @@ time_to_read: 5
 title: Happy First Birthday, Thing 3
 ---
 
-<p>Thing 3’s birthday is today. It’s hard to believe it’s already been a year since <a href="../2011/2011-08-birth-story-thing-3.html">he was born</a>.</p>
-<p>![11-IMG_3263%25255B4%25255D.jpg](11-IMG_3263%25255B4%25255D.jpg)</p>
-<p>Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.</p>
-<p>Needless to say, I’m excited for the times my son and I will share together. Since I have so many fond memories of growing up working with my dad on handyman-related things, Wife thought I could make him a tool bench as a present (or maybe she’s just spending too much time on Pinterest, where she <a href="http://pinterest.com/pin/184577284698686013/">got the idea</a>).</p>
-<p>The gist of the project was to refurbish a piece of furniture into a children’s toy (this helps to make up for my lack of cabinetry skills). We went to the <a href="http://www.habitat.org/restores/default.aspx">Habitat for Humanity ReStore</a> and discovered a pretty amazing place for construction materials and furniture. This place was a lot more than I expected.</p>
-<p>We found what we needed:</p>
-<p>![02-2012-08-04%25252014.10.58%25255B1%25255D.jpg](02-2012-08-04%25252014.10.58%25255B1%25255D.jpg)</p>
-<p>The girls helped me scuff of the surface for priming and painting:</p>  <p align="center">![04-2012-08-04%25252014.19.54.jpg](04-2012-08-04%25252014.19.54.jpg)</p>  <p align="left">Then we wiped it down and repaired a broken drawer:</p>
-<p>![08-2012-08-04%25252014.46.20.jpg](08-2012-08-04%25252014.46.20.jpg)</p>
-<p>I primed it with Kilz 2 Latex primer and then applied a single coat of a greyish paint we found in the basement.</p>
-<p>I cut a section of pegboard for the back from a 2’x4’ section I bought at Lowes. I also bought a paint sample (~8 oz.) mixed to just slightly darker than regular red. This was for the drawer front and peg board so I didn’t need much.</p>
-<p>After painting, the girls helped me attach the draw slides and peg board (tip: tapping the screws with a drill first, then letting the kids help with a manual driver makes for good fun)</p>
-<p>![14-2012-08-16%25252020.55.10.jpg](14-2012-08-16%25252020.55.10.jpg)</p>
-<p>And it’s finished! I dug up some old pegboard hooks which fit the toolset Wife bought pretty well:</p>
-<p>![09-IMG_3459.jpg](09-IMG_3459.jpg)</p>
-<p>Thing1 inspecting our work:</p>
-<p>![10-IMG_3458%25255B1%25255D.jpg](10-IMG_3458%25255B1%25255D.jpg)</p>
-<p>![13-2012-08-16%25252022.16.49.jpg](13-2012-08-16%25252022.16.49.jpg)</p>
-<p>Happy Birthday, Thing 3</p>
-<p>![12-IMG_3222.jpg](12-IMG_3222.jpg)</p>    
-<p>Love,   <br />Daddy</p>  <hr />
-<p>Bill of Materials (total cost $43).</p>  <ul>   <li>Used cabinet: $12</li>    <li>Primer: $7</li>    <li>Red Paint: $3</li>    <li>Gray Paint: $3 (actually leftover)</li>    <li>Ruler (for drawer pull): $1</li>    <li>Pegboard: $5</li>    <li>Toys: $12</li> </ul>
+
+Thing 3’s birthday is today. It’s hard to believe it’s already been a year since <a href="../2011/2011-08-birth-story-thing-3.html">he was born</a>.
+
+![11-IMG_3263%25255B4%25255D.jpg](11-IMG_3263%25255B4%25255D.jpg)
+
+Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.
+
+Needless to say, I’m excited for the times my son and I will share together. Since I have so many fond memories of growing up working with my dad on handyman-related things, Wife thought I could make him a tool bench as a present (or maybe she’s just spending too much time on Pinterest, where she <a href="http://pinterest.com/pin/184577284698686013/">got the idea</a>).
+
+The gist of the project was to refurbish a piece of furniture into a children’s toy (this helps to make up for my lack of cabinetry skills). We went to the <a href="http://www.habitat.org/restores/default.aspx">Habitat for Humanity ReStore</a> and discovered a pretty amazing place for construction materials and furniture. This place was a lot more than I expected.
+
+We found what we needed:
+
+![02-2012-08-04%25252014.10.58%25255B1%25255D.jpg](02-2012-08-04%25252014.10.58%25255B1%25255D.jpg)
+
+The girls helped me scuff of the surface for priming and painting:  
+
+![04-2012-08-04%25252014.19.54.jpg](04-2012-08-04%25252014.19.54.jpg)  
+
+Then we wiped it down and repaired a broken drawer:
+
+![08-2012-08-04%25252014.46.20.jpg](08-2012-08-04%25252014.46.20.jpg)
+
+I primed it with Kilz 2 Latex primer and then applied a single coat of a greyish paint we found in the basement.
+
+I cut a section of pegboard for the back from a 2’x4’ section I bought at Lowes. I also bought a paint sample (~8 oz.) mixed to just slightly darker than regular red. This was for the drawer front and peg board so I didn’t need much.
+
+After painting, the girls helped me attach the draw slides and peg board (tip: tapping the screws with a drill first, then letting the kids help with a manual driver makes for good fun)
+
+![14-2012-08-16%25252020.55.10.jpg](14-2012-08-16%25252020.55.10.jpg)
+
+And it’s finished! I dug up some old pegboard hooks which fit the toolset Wife bought pretty well:
+
+![09-IMG_3459.jpg](09-IMG_3459.jpg)
+
+Thing1 inspecting our work:
+
+![10-IMG_3458%25255B1%25255D.jpg](10-IMG_3458%25255B1%25255D.jpg)
+
+![13-2012-08-16%25252022.16.49.jpg](13-2012-08-16%25252022.16.49.jpg)
+
+Happy Birthday, Thing 3
+
+![12-IMG_3222.jpg](12-IMG_3222.jpg)    
+
+Love,   
+
+Daddy  <hr />
+
+Bill of Materials (total cost $43).  <ul>   <li>Used cabinet: $12</li>    <li>Primer: $7</li>    <li>Red Paint: $3</li>    <li>Gray Paint: $3 (actually leftover)</li>    <li>Ruler (for drawer pull): $1</li>    <li>Pegboard: $5</li>    <li>Toys: $12</li> </ul>
 
 ---
 

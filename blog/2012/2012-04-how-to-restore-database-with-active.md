@@ -14,9 +14,13 @@ time_to_read: 5
 title: How To Restore a Database With Active Connections
 ---
 
-<p>If you’ve ever tried to restore over top of an existing database in SQL Server, you may be familiar with messages like these:</p>
+
+If you’ve ever tried to restore over top of an existing database in SQL Server, you may be familiar with messages like these:
 <blockquote> 
-<p>Msg 5061, Level 16, State 1, Line 1 ALTER DATABASE failed because a lock could not be placed on database 'foo'. Try again later</p>    <pre><code><font face="Trebuchet MS">Exclusive access could not be obtained because the database is in use.<br />RESTORE DATABASE is terminating abnormally.</font></code></pre>
+
+Msg 5061, Level 16, State 1, Line 1 ALTER DATABASE failed because a lock could not be placed on database 'foo'. Try again later    <pre><code><font face="Trebuchet MS">Exclusive access could not be obtained because the database is in use.
+
+RESTORE DATABASE is terminating abnormally.</font></code></pre>
 </blockquote>
 
 <pre><font face="Trebuchet MS">What’s going on here is that you need exclusive access to the DB but someone’s already there. Here’s the simplest approach I know of to get in there and get busy:</font></pre>
@@ -29,9 +33,11 @@ title: How To Restore a Database With Active Connections
 
 <pre><font face="Trebuchet MS">![SNAG-00242.png](SNAG-00242.png)</a></font></pre>
 
-<p>Copy down all the SPIDs associated with the DB you want to overwrite. Obviously your DB will be there instead of “OMS”—that’s mine, get your own!</p>
 
-<p>Then fill those numbers into this script:</p>
+Copy down all the SPIDs associated with the DB you want to overwrite. Obviously your DB will be there instead of “OMS”—that’s mine, get your own!
+
+
+Then fill those numbers into this script:
 
 <blockquote>
   <pre class="csharpcode"><span class="rem">-- Lookup users on YourDb with ‘sp_who2’, then kill their SPIDs like this:</span>
@@ -60,4 +66,5 @@ title: How To Restore a Database With Active Connections
 GO</pre>
 </blockquote>
 
-<p>That should do it.</p>
+
+That should do it.

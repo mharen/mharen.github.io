@@ -12,8 +12,10 @@ time_to_read: 5
 title: How to Take Screenshots from an Android Phone
 ---
 
-<p>![screenshot_2%5B4%5D.png](screenshot_2%5B4%5D.png)</li>    <li>Shake your phone</li> </ol>
-<p>Pretty handy!</p>
+
+![screenshot_2%5B4%5D.png](screenshot_2%5B4%5D.png)</li>    <li>Shake your phone</li> </ol>
+
+Pretty handy!
 
 ---
 
@@ -33,7 +35,11 @@ It was a new area for me so I started by following some forums for a few weeks t
 
 To-Date I've experienced the following advantages to a rooted phone:
 
-- I was able to flash the Froyo ROM on before the OTA update come around<br />- I have a free WiFi tether app I use occasionally with my laptop when I need to get online in a bind<br />- I can take screenshots
+- I was able to flash the Froyo ROM on before the OTA update come around
+
+- I have a free WiFi tether app I use occasionally with my laptop when I need to get online in a bind
+
+- I can take screenshots
 
 That's a relatively boring list, but I'm sure there are other uses out there.
 

@@ -13,25 +13,32 @@ time_to_read: 5
 title: Patching jQuery Validation for the iOS Date Picker
 ---
 
-<p>If you’re trying to use <a href="../2012/2012-07-let-browser-handle-datepicker-if-it-can.html">native datepickers</a> with <code>&lt;input type=&quot;date&quot;/&gt;</code> in your app <em>and the jQuery Validate plugin for validation</em>, here's something you probably need to know.</p>
-<p>I discovered, when testing my app on an iPhone, that the jQuery Validate plugin wasn’t working on my date inputs. It would always mark them invalid. Huh.</p>
-<p>I dug into it and found that <a href="https://github.com/jzaefferer/jquery-validation/blob/907467e874e8812ee9547cc7073d793dfd253f2f/jquery.validate.js#L1107">this is how</a> it determines if a date is valid:</p>  <pre class="csharpcode"><span class="rem">// http://docs.jquery.com/Plugins/Validation/Methods/date</span>
+
+If you’re trying to use <a href="../2012/2012-07-let-browser-handle-datepicker-if-it-can.html">native datepickers</a> with <code>&lt;input type=&quot;date&quot;/&gt;</code> in your app *and the jQuery Validate plugin for validation*, here's something you probably need to know.
+
+I discovered, when testing my app on an iPhone, that the jQuery Validate plugin wasn’t working on my date inputs. It would always mark them invalid. Huh.
+
+I dug into it and found that <a href="https://github.com/jzaefferer/jquery-validation/blob/907467e874e8812ee9547cc7073d793dfd253f2f/jquery.validate.js#L1107">this is how</a> it determines if a date is valid:  <pre class="csharpcode"><span class="rem">// http://docs.jquery.com/Plugins/Validation/Methods/date</span>
 date: <span class="kwrd">function</span>(value, element) {
     <span class="kwrd">return</span> <span class="kwrd">this</span>.optional(element) || !/Invalid|NaN/.test(<span class="kwrd">new</span> Date(value));
 }</pre>
 
-<p>That is, it just passes the string to be tested to the Javascript “Date()” constructor and checks to see if something back comes back.</p>
 
-<p>OK…what’s going on then? I <a href="http://jsfiddle.net/mharen/EXsKA/">logged the value</a> of the input and confirmed that it’s in the sensible ISO format I thought it’d be in:</p>
+That is, it just passes the string to be tested to the Javascript “Date()” constructor and checks to see if something back comes back.
+
+
+OK…what’s going on then? I <a href="http://jsfiddle.net/mharen/EXsKA/">logged the value</a> of the input and confirmed that it’s in the sensible ISO format I thought it’d be in:
 
 <pre class="csharpcode">2012-07-17 </pre>
 
-<p>After an embarassingly large amount of hunting in the wrong places, I eventually uncovered that validation code above and simple ran it:</p>
+
+After an embarassingly large amount of hunting in the wrong places, I eventually uncovered that validation code above and simple ran it:
 
 <pre class="csharpcode">2012-07-18 fiddle.jshell.net:23
 Tue Jul 17 2012 20:00:00 GMT-0400 (Eastern Daylight Time) </pre>
 
-<p>OK, so that makes sense in Chrome—<em>the validation works in Chrome</em>. <strong>So I ran that in iOS and…it failed!</strong> Here’s my commit message after I figured this out:</p>
+
+OK, so that makes sense in Chrome—*the validation works in Chrome*. <strong>So I ran that in iOS and…it failed!</strong> Here’s my commit message after I figured this out:
 
 <blockquote>
   <pre>// patch the validate &quot;date&quot; method to accomodate iOS-style ISO dates
@@ -40,18 +47,22 @@ Tue Jul 17 2012 20:00:00 GMT-0400 (Eastern Daylight Time) </pre>
 // doesn't parse them... WUT?! I'm looking at you iOS</pre>
 </blockquote>
 
-<p>This is madness. iOS 5’s Date() can’t parse what has got to be the easiest to parse date string ever.</p>
 
-<p>Enough grumbling…what do we do? My first solution involved using the other date parse rule in the Validate plugin: </p>
+This is madness. iOS 5’s Date() can’t parse what has got to be the easiest to parse date string ever.
+
+
+Enough grumbling…what do we do? My first solution involved using the other date parse rule in the Validate plugin: 
 
 <pre class="csharpcode"><span class="rem">// http://docs.jquery.com/Plugins/Validation/Methods/dateISO</span>
 dateISO: <span class="kwrd">function</span>(value, element) {
     <span class="kwrd">return</span> <span class="kwrd">this</span>.optional(element) || /^\d{4}[\/\-]\d{1,2}[\/\-]\d{1,2}$/.test(value);
 },</pre>
 
-<p>That worked, since it just matches a simple yyyy-MM-dd pattern. I (of course) do server side validation, too, so I’m not worried about a user entering a syntactically correct, but practically incorrect date like 2012-02-30.</p>
 
-<p>Rather than change all my inputs to use this alternative rule, or mess with my validation routine (I’m using the unobtrusive flavor)—I’d really like to just leave all that be, I decided to patch the first validator like so:</p>
+That worked, since it just matches a simple yyyy-MM-dd pattern. I (of course) do server side validation, too, so I’m not worried about a user entering a syntactically correct, but practically incorrect date like 2012-02-30.
+
+
+Rather than change all my inputs to use this alternative rule, or mess with my validation routine (I’m using the unobtrusive flavor)—I’d really like to just leave all that be, I decided to patch the first validator like so:
 
 <pre class="csharpcode"><span class="kwrd">if</span> ($.validator) {
     <span class="kwrd">var</span> originalDateValidator1 = $.validator.methods.date;
@@ -66,11 +77,14 @@ dateISO: <span class="kwrd">function</span>(value, element) {
     };
 }</pre>
 
-<p>Quite simply, this just runs both of the date checkers and returns true if either of them pass.</p>
 
-<p>In addition to not having to actually change any of my HTML, this code sits outside the library itself (it’s in my <a href="https://github.com/mharen/service-tracker/blob/1bac669089a4b2c6c4c472a6c972073353726954/service-tracker-mvc/Scripts/script.js#L20">global.js</a> file) so I can still update my plugins or load them from CDNs without fear. Oh, and if a user enters a date in the usual MM/dd/yyyy format in a browser that doesn’t support the native datepicker, the validation will still pass.</p>
+Quite simply, this just runs both of the date checkers and returns true if either of them pass.
 
-<p>Hopefully Apple fixes this issue…</p>
+
+In addition to not having to actually change any of my HTML, this code sits outside the library itself (it’s in my <a href="https://github.com/mharen/service-tracker/blob/1bac669089a4b2c6c4c472a6c972073353726954/service-tracker-mvc/Scripts/script.js#L20">global.js</a> file) so I can still update my plugins or load them from CDNs without fear. Oh, and if a user enters a date in the usual MM/dd/yyyy format in a browser that doesn’t support the native datepicker, the validation will still pass.
+
+
+Hopefully Apple fixes this issue…
 
 ---
 

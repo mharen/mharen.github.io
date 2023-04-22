@@ -13,20 +13,46 @@ time_to_read: 5
 title: Campaigning Like a Boss
 ---
 
-<p>I work at a company of about 250 people. We work hard and try to <a href="http://www.rovisys.com/about/just_for_fun.aspx">have a good time</a> every now and again. One of the structured ways that we have a good time is through the Rovisys Activities Committee, or RAC. It’s basically like the party planning committee from the show The Office, but we have bigger budgets and better parties. </p>
-<p>The committee holds elections every year to replace a few outgoing members. This is a job that no one really wants because it actually takes a lot of work to plan a party for a large group of people (employees and their families). When someone nominated me I figured why not go all out? You know, actually act like I want it? A lot of people were confused by this.</p>
-<p>As Mick Jagger once said (according to the briefest of fact checking), “anything worth doing is worth overdoing.” (Thanks @pwninstein for the quote.) And so I put out a call for help with my campaign on the internets:</p>
-<p>![image%25255B4%25255D.png](image%25255B4%25255D.png)</a></p>
-<p>I put that up on Reddit, along with a bunch of pictures of myself. After a little cross promotion on various social networks, gold started rolling in. Big time.</p>  <p align="center">![whyyouno.jpg](whyyouno.jpg)</p>    
-<p>And possibly others that I’ve misplaced. </p>
-<p>A lot of people assumed all this was just a joke. But it wasn’t. I printed 60 and posted them everywhere. On walls, office, cubes, file cabinets, windshields, microwaves, coffee makers, windows, servers, mailboxes, etc.</p>
-<p>![RAC%2525202011%252520Election%25255B3%25255D.jpg](RAC%2525202011%252520Election%25255B3%25255D.jpg)</a></p>
-<p>This was on Wednesday, just two days before the election. Then a funny thing happened: the other candidates suddenly realized that maybe they should make posters for <em>themselves</em> instead of for <em>me</em>. So a second wave of posters showed up that afternoon and the next day.</p>  <p align="center">![CSI%252520Miami.jpg](CSI%252520Miami.jpg)</p>  <p align="center">(And many others I don’t have clean copies of)</p>
-<p>The great thing about this happening so quickly was that by the time anyone in management might have had the inkling to shut it down, it was too big to stop. It was about this time that people started wondering how I had time to make all these things. My answer? I didn’t. Which prompted another attack ad:</p>  <p align="center">![Haren%252520-%252520I%252520don%252527t%252520always.jpg](Haren%252520-%252520I%252520don%252527t%252520always.jpg)</p>
-<p>Things quieted down a bit for the rest of Thursday and then everyone was busy with actual work, and the Halloween party coming up the next day. Speaking of which, here’s one of the other candidates in a truly scary costume:</p>  <p align="center">![IMG_0329.JPG](IMG_0329.JPG)</p>    
-<p>About an hour before the election I overheard him say something about making kids cry. And I couldn’t resist making my my first and only poster (personally):</p>  <p align="center">![anderson%252520cry.jpg](anderson%252520cry.jpg)</p>
-<p>It was a lot of fun, and I won. <em>Huge thanks </em>to all those that contributed to my campaign. </p>
-<p>Like most campaigns, we avoided the issues, made fools of each other, and set the bar of what we expect from our constituents painfully low.</p>
+
+I work at a company of about 250 people. We work hard and try to <a href="http://www.rovisys.com/about/just_for_fun.aspx">have a good time</a> every now and again. One of the structured ways that we have a good time is through the Rovisys Activities Committee, or RAC. It’s basically like the party planning committee from the show The Office, but we have bigger budgets and better parties. 
+
+The committee holds elections every year to replace a few outgoing members. This is a job that no one really wants because it actually takes a lot of work to plan a party for a large group of people (employees and their families). When someone nominated me I figured why not go all out? You know, actually act like I want it? A lot of people were confused by this.
+
+As Mick Jagger once said (according to the briefest of fact checking), “anything worth doing is worth overdoing.” (Thanks @pwninstein for the quote.) And so I put out a call for help with my campaign on the internets:
+
+![image%25255B4%25255D.png](image%25255B4%25255D.png)</a>
+
+I put that up on Reddit, along with a bunch of pictures of myself. After a little cross promotion on various social networks, gold started rolling in. Big time.  
+
+![whyyouno.jpg](whyyouno.jpg)    
+
+And possibly others that I’ve misplaced. 
+
+A lot of people assumed all this was just a joke. But it wasn’t. I printed 60 and posted them everywhere. On walls, office, cubes, file cabinets, windshields, microwaves, coffee makers, windows, servers, mailboxes, etc.
+
+![RAC%2525202011%252520Election%25255B3%25255D.jpg](RAC%2525202011%252520Election%25255B3%25255D.jpg)</a>
+
+This was on Wednesday, just two days before the election. Then a funny thing happened: the other candidates suddenly realized that maybe they should make posters for *themselves* instead of for *me*. So a second wave of posters showed up that afternoon and the next day.  
+
+![CSI%252520Miami.jpg](CSI%252520Miami.jpg)  
+
+(And many others I don’t have clean copies of)
+
+The great thing about this happening so quickly was that by the time anyone in management might have had the inkling to shut it down, it was too big to stop. It was about this time that people started wondering how I had time to make all these things. My answer? I didn’t. Which prompted another attack ad:  
+
+![Haren%252520-%252520I%252520don%252527t%252520always.jpg](Haren%252520-%252520I%252520don%252527t%252520always.jpg)
+
+Things quieted down a bit for the rest of Thursday and then everyone was busy with actual work, and the Halloween party coming up the next day. Speaking of which, here’s one of the other candidates in a truly scary costume:  
+
+![IMG_0329.JPG](IMG_0329.JPG)    
+
+About an hour before the election I overheard him say something about making kids cry. And I couldn’t resist making my my first and only poster (personally):  
+
+![anderson%252520cry.jpg](anderson%252520cry.jpg)
+
+It was a lot of fun, and I won. *Huge thanks *to all those that contributed to my campaign. 
+
+Like most campaigns, we avoided the issues, made fools of each other, and set the bar of what we expect from our constituents painfully low.
 
 ---
 

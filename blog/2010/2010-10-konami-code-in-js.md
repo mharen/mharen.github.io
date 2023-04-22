@@ -13,9 +13,12 @@ time_to_read: 5
 title: The Konami Code In JS
 ---
 
-<p><strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do <a href="http://en.wikipedia.org/wiki/Konami_Code">some research</a>. If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.</p>
-<p>To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the &quot;something cool&quot;.</p>  <h4>Sequence Detector</h4>
-<p>First, we need to determine what sequence we're interested in in terms of <a href="http://www.quirksmode.org/js/keys.html">key codes</a>:</p>
+
+<strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do <a href="http://en.wikipedia.org/wiki/Konami_Code">some research</a>. If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.
+
+To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the &quot;something cool&quot;.  <h4>Sequence Detector</h4>
+
+First, we need to determine what sequence we're interested in in terms of <a href="http://www.quirksmode.org/js/keys.html">key codes</a>:
 <blockquote>   <pre class="csharpcode"><span class="kwrd">var</span> DesiredSequence = [
               38 <span class="rem">// up</span>
             , 38 <span class="rem">// up</span>
@@ -30,7 +33,8 @@ title: The Konami Code In JS
         ];</pre>
 </blockquote>
 
-<p>And then we need a very, very simple <a href="http://en.wikipedia.org/wiki/Finite-state_machine">state machine</a> to keep track of where we are in the sequence:</p>
+
+And then we need a very, very simple <a href="http://en.wikipedia.org/wiki/Finite-state_machine">state machine</a> to keep track of where we are in the sequence:
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">var</span> SequenceIndex = -1;
@@ -52,17 +56,21 @@ $(document).keydown(<span class="kwrd">function</span> (e) {
 });</pre>
 </blockquote>
 
-<p>This is about as naïve as it gets and would not be appropriate for sequences with large repeating blocks. But we don’t have that so we’re good. (For example, if the user hits “up, up, up”, we could argue that the next key should be an “up” <em>or </em>a “down”, or even “up, up”, depending on how much history we consider. A serious state machine would take care of this but we do none of that here, because we’re not being very serious.)</p>
 
-<p>So let's fill in that do-something-cool block.</p>
+This is about as naïve as it gets and would not be appropriate for sequences with large repeating blocks. But we don’t have that so we’re good. (For example, if the user hits “up, up, up”, we could argue that the next key should be an “up” *or *a “down”, or even “up, up”, depending on how much history we consider. A serious state machine would take care of this but we do none of that here, because we’re not being very serious.)
+
+
+So let's fill in that do-something-cool block.
 
 <h4>Something Cool</h4>
 
-<p>A <a href="http://konamicodesites.com/">lot of sites</a> do neat things for this code. My take on it will involve Ninja, just like Google Reader, but I'll put a different spin on it. Here's the code:</p>
+
+A <a href="http://konamicodesites.com/">lot of sites</a> do neat things for this code. My take on it will involve Ninja, just like Google Reader, but I'll put a different spin on it. Here's the code:
 
 <blockquote>
 
-<p>
+
+
     <pre class="csharpcode"><span class="kwrd">if</span> (SequenceIndex == DesiredSequence.length - 1) {
     SequenceIndex = -1;
             
@@ -91,10 +99,11 @@ $(document).keydown(<span class="kwrd">function</span> (e) {
                     .each(<span class="kwrd">function</span> () { DoFlyby(<span class="kwrd">this</span>); });
     }
 }</pre>
-  </p>
+  
 </blockquote>
 
-<p>That leverages this function, defined elsewhere:</p>
+
+That leverages this function, defined elsewhere:
 
 <pre class="csharpcode">    <span class="kwrd">function</span> DoFlyby(elem) {
         <span class="kwrd">var</span> Depth = .25 + Math.random() * 5;
@@ -115,6 +124,8 @@ $(document).keydown(<span class="kwrd">function</span> (e) {
         );
     }</pre>
 
-<p>Of course you could just give it a try on my site. (By the way, if you’re using a weaker browser like IE7, this might look awful.)</p>
 
-<p>This is an <a href="http://en.wikipedia.org/wiki/Easter_egg_(media)#Software-based">easter egg</a>.</p>
+Of course you could just give it a try on my site. (By the way, if you’re using a weaker browser like IE7, this might look awful.)
+
+
+This is an <a href="http://en.wikipedia.org/wiki/Easter_egg_(media)#Software-based">easter egg</a>.

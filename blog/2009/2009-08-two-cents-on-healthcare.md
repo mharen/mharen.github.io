@@ -12,9 +12,12 @@ time_to_read: 5
 title: Two Cents on Healthcare
 ---
 
-<p>I’m not prepared to tackle the healthcare debate on this blog just yet. I have very strong feelings on the matter—so much so that I’m not sure where to start. I’m swirling from thought to thought unsure of how to begin writing. It’s a feeling similar to what I experience after a house move where I just walk around in circles unsure of how or what to start unpacking. So I’ll be brief. </p>
-<p><strong>I fully support dramatic health care reform. I don’t know what the right solution is but what <a href="http://www.photius.com/rankings/healthranks.html">we’re doing now</a> isn’t it.</strong></p>
-<p>Feel free to post comment with questions, clarifications, etc. but please keep it civil. This is likely to be the first of many short blurbs on the topic.</p>
+
+I’m not prepared to tackle the healthcare debate on this blog just yet. I have very strong feelings on the matter—so much so that I’m not sure where to start. I’m swirling from thought to thought unsure of how to begin writing. It’s a feeling similar to what I experience after a house move where I just walk around in circles unsure of how or what to start unpacking. So I’ll be brief. 
+
+<strong>I fully support dramatic health care reform. I don’t know what the right solution is but what <a href="http://www.photius.com/rankings/healthranks.html">we’re doing now</a> isn’t it.</strong>
+
+Feel free to post comment with questions, clarifications, etc. but please keep it civil. This is likely to be the first of many short blurbs on the topic.
 
 ---
 

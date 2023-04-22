@@ -12,4 +12,11 @@ time_to_read: 5
 title: "Diagnosis II: Why Can\u2019t LiveWriter Post from Work?"
 ---
 
-<p>The remote server returned an error: (403) Forbidden.I’m at working trying to toss up blog post here and there and things are coasting along smoothly with Windows Live Writer when I see this when I hit <em>publish</em> (bonk):</p>  <p align="center">![image8.png](image8.png) </p>  <p align="left">It seems that even none of the blogger/blogspot domains are blocked here, blogger ships its images to <a href="http://picasaweb.google.com/">http://picasaweb.google.com/</a>, which <em>is </em>blocked. No matter, I asked our friendly IT admin to unblock it. Now I can publish. But did it work?</p>  <p align="left">Sort of. The publish worked but the image wasn’t coming through. It seems that the img src is actually on another domain. e.g. http://<strong>lh3</strong>.ggpht.com/…. In my case, lh3 is blocked but lh5 isn’t. So I switched the images to lh5 and they all work just fine from within my corporate firewall (for now).</p>
+
+The remote server returned an error: (403) Forbidden.I’m at working trying to toss up blog post here and there and things are coasting along smoothly with Windows Live Writer when I see this when I hit *publish* (bonk):  
+
+![image8.png](image8.png)   
+
+It seems that even none of the blogger/blogspot domains are blocked here, blogger ships its images to <a href="http://picasaweb.google.com/">http://picasaweb.google.com/</a>, which *is *blocked. No matter, I asked our friendly IT admin to unblock it. Now I can publish. But did it work?  
+
+Sort of. The publish worked but the image wasn’t coming through. It seems that the img src is actually on another domain. e.g. http://<strong>lh3</strong>.ggpht.com/…. In my case, lh3 is blocked but lh5 isn’t. So I switched the images to lh5 and they all work just fine from within my corporate firewall (for now).

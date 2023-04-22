@@ -12,17 +12,28 @@ time_to_read: 5
 title: 'My New Project: Initial Mockups'
 ---
 
-<p>This app is going to be pretty simple with only a handful of areas, each with a set of pretty basic screens:</p>
-<p>![image%5B5%5D.png](image%5B5%5D.png)</p>
-<p>Let’s pretend you’re an interviewer and I’ll walk you through what I’ve mocked up so far. Immediately after you do an interview, you open up the app and look for the person you just interviewed on the <font face="Courier New">/Interview/Recent</font> screen:</p>
-<p>![image%5B8%5D.png](image%5B8%5D.png)</p>
-<p>You click on Rivers and see this:</p>
-<p>![image%5B14%5D.png](image%5B14%5D.png)</p>
-<p>Once you enter your feedback, you’re part is complete.</p>
-<p>Now let’s look at what human resources might see in the <font face="Courier New">/Candidate/Details</font> after a few kind folks like yourselves have entered some feedback:</p>
-<p>![image%5B20%5D.png](image%5B20%5D.png)</p>
-<p>Whatever HR needs to make a decision regarding an additional interview, hire, or no-hire should be available on this screen. This screen will also be expanded to track their decision (not pictured).</p>
-<p>These are the three key screens of the application. There are likely to be dramatic changes to them as the flow of the application is better defined. Stay tuned for more…in a week or so.</p>
+
+This app is going to be pretty simple with only a handful of areas, each with a set of pretty basic screens:
+
+![image%5B5%5D.png](image%5B5%5D.png)
+
+Let’s pretend you’re an interviewer and I’ll walk you through what I’ve mocked up so far. Immediately after you do an interview, you open up the app and look for the person you just interviewed on the <font face="Courier New">/Interview/Recent</font> screen:
+
+![image%5B8%5D.png](image%5B8%5D.png)
+
+You click on Rivers and see this:
+
+![image%5B14%5D.png](image%5B14%5D.png)
+
+Once you enter your feedback, you’re part is complete.
+
+Now let’s look at what human resources might see in the <font face="Courier New">/Candidate/Details</font> after a few kind folks like yourselves have entered some feedback:
+
+![image%5B20%5D.png](image%5B20%5D.png)
+
+Whatever HR needs to make a decision regarding an additional interview, hire, or no-hire should be available on this screen. This screen will also be expanded to track their decision (not pictured).
+
+These are the three key screens of the application. There are likely to be dramatic changes to them as the flow of the application is better defined. Stay tuned for more…in a week or so.
 
 ---
 
@@ -36,7 +47,11 @@ As for a name, all I can think of is stupid stuff.
 
 I suggest you do Macgyver episode titled themed names (assuming you will do more than one app eventually).
 
-Project hellfire<br />project HEIST<br />project gauntlet
+Project hellfire
+
+project HEIST
+
+project gauntlet
 
 I also have an idea for an app for you to do, but I can not remember what it is.
 

@@ -13,5 +13,8 @@ time_to_read: 5
 title: A Special Message From Thing1 and Thing2
 ---
 
-<p>We interrupt this program for a special message from Thing1 and Thing2:</p>  <p style="text-align: center;"></p>
-<p>On a related note, I just found out my brother and sister have <strong>paranormal powers</strong>. They <em>knew</em> Wife was pregnant back at Thanksgiving. Now let’s not get hung up on the fact that she wasn’t pregnant at the time of this determination, or the fact that neither of them made their convictions known until <em>after we announced it</em>. The take away here is that <a href="http://bit.ly/POOOWWEEERR" target="_blank">they are powerful</a> and should be feared…or revered…or something. I’m not sure what but we definitely should not tease them about their delusions.</p>
+
+We interrupt this program for a special message from Thing1 and Thing2:  
+
+
+On a related note, I just found out my brother and sister have <strong>paranormal powers</strong>. They *knew* Wife was pregnant back at Thanksgiving. Now let’s not get hung up on the fact that she wasn’t pregnant at the time of this determination, or the fact that neither of them made their convictions known until *after we announced it*. The take away here is that <a href="http://bit.ly/POOOWWEEERR" target="_blank">they are powerful</a> and should be feared…or revered…or something. I’m not sure what but we definitely should not tease them about their delusions.

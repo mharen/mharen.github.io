@@ -15,22 +15,36 @@ title: 'Arduino Day 2: Digital Inputs (More Fun With LEDs)'
 ---
 
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
-<p>I’m still familiarizing myself with everything Arduino so this next project is a simple modification to my <a href="../2010/2010-11-arduino-day-1-unpacking-and-fun-with.html">day-1 LED project</a>. I’ve added some dip switches to control which pattern will appear on the LEDs. Here’s the result:</p>  <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:2ed362dc-459a-49ec-9778-b92c1de822e0" style="padding-bottom: 0px; padding-left: 0px; width: 640px; padding-right: 0px; display: block; float: none; margin-left: auto; clear: both; margin-right: auto; padding-top: 0px;">
+
+I’m still familiarizing myself with everything Arduino so this next project is a simple modification to my <a href="../2010/2010-11-arduino-day-1-unpacking-and-fun-with.html">day-1 LED project</a>. I’ve added some dip switches to control which pattern will appear on the LEDs. Here’s the result:  <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:2ed362dc-459a-49ec-9778-b92c1de822e0" style="padding-bottom: 0px; padding-left: 0px; width: 640px; padding-right: 0px; display: block; float: none; margin-left: auto; clear: both; margin-right: auto; padding-top: 0px;">
 <div id="dc2e06b9-c0bb-4d0d-af51-271a66a5afda" style="margin: 0px; padding: 0px; display: inline;">
 <div><a href="http://www.youtube.com/watch?v=sQcut-JRXqY" target="_new">![video24e262f99644%5B73%5D.jpg](video24e262f99644%5B73%5D.jpg)</a></div></div></div>
-<p>It’s really pretty simple. For switches 0 and 1, I have the hot line coming through an LED, through the switch, and then split between a resistor to ground and a digital input on the board. I’m not certain I have this right, but it works and my board hasn’t melted so it’s good enough for me.</p>
-<p>In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On…off…that reminds me of the <a href="http://www.imdb.com/title/tt0087538/">Karate Kid</a>. </p>
-<p>![image%5B2%5D.png](image%5B2%5D.png)In the Karate Kid, this old guy befriends a teenager after beating a bunch of bullies senseless. Through couldn’t-work-in-a-million-years training, Mr. Miyagi (the old guy) eventually leads the annoying kid (Daniel-san) to victory at the local Karate championship, and thereby winning the heart of Captain-Bully-Bag-Of-Many-Douches’s ex-girlfriend. </p>
-<p>A few things: first of all, this story is complete crap. You can’t defeat a bunch of black belts using your wax-on/wax-off skills (on/off—that’s what got me onto this rant). Second of all, Miyagi should be arrested for his shenanigans. Third, I loved this movie more than life itself when I was two years old; give me a break, family. Actually, you should be ashamed of yourselves, family—I was two—what’s your excuse? I watched this movie again a few weeks ago and it was awful.</p>
-<p>Ah memories! Back to the project:</p>
-<p>Build:</p>
-<p>![IMAG0665%5B4%5D.jpg](IMAG0665%5B4%5D.jpg)</p>
-<p>![IMAG0668%5B11%5D.jpg](IMAG0668%5B11%5D.jpg)</p>
-<p><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Circuit (built with the amazing<span class="Apple-converted-space">&#160;</span><a href="http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;">Fritzing</a>):</span></span></p>
-<p>![day%20two%20-%20bb%5B6%5D.png](day%20two%20-%20bb%5B6%5D.png)</p>
-<p><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Schematic (automatically built from the above image with the amazing<span class="Apple-converted-space">&#160;</span><a href="http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;">Fritzing</a>):</span></span></p>
-<p><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">![day%20two%20-%20schema%5B7%5D.png](day%20two%20-%20schema%5B7%5D.png)</span></span></p>
-<p><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Code:</span></span></p>
+
+It’s really pretty simple. For switches 0 and 1, I have the hot line coming through an LED, through the switch, and then split between a resistor to ground and a digital input on the board. I’m not certain I have this right, but it works and my board hasn’t melted so it’s good enough for me.
+
+In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On…off…that reminds me of the <a href="http://www.imdb.com/title/tt0087538/">Karate Kid</a>. 
+
+![image%5B2%5D.png](image%5B2%5D.png)In the Karate Kid, this old guy befriends a teenager after beating a bunch of bullies senseless. Through couldn’t-work-in-a-million-years training, Mr. Miyagi (the old guy) eventually leads the annoying kid (Daniel-san) to victory at the local Karate championship, and thereby winning the heart of Captain-Bully-Bag-Of-Many-Douches’s ex-girlfriend. 
+
+A few things: first of all, this story is complete crap. You can’t defeat a bunch of black belts using your wax-on/wax-off skills (on/off—that’s what got me onto this rant). Second of all, Miyagi should be arrested for his shenanigans. Third, I loved this movie more than life itself when I was two years old; give me a break, family. Actually, you should be ashamed of yourselves, family—I was two—what’s your excuse? I watched this movie again a few weeks ago and it was awful.
+
+Ah memories! Back to the project:
+
+Build:
+
+![IMAG0665%5B4%5D.jpg](IMAG0665%5B4%5D.jpg)
+
+![IMAG0668%5B11%5D.jpg](IMAG0668%5B11%5D.jpg)
+
+<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Circuit (built with the amazing<span class="Apple-converted-space">&#160;</span><a href="http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;">Fritzing</a>):</span></span>
+
+![day%20two%20-%20bb%5B6%5D.png](day%20two%20-%20bb%5B6%5D.png)
+
+<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Schematic (automatically built from the above image with the amazing<span class="Apple-converted-space">&#160;</span><a href="http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;">Fritzing</a>):</span></span>
+
+<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">![day%20two%20-%20schema%5B7%5D.png](day%20two%20-%20schema%5B7%5D.png)</span></span>
+
+<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Code:</span></span>
 <blockquote>   <pre class="csharpcode"><span class="kwrd">int</span> SwitchPin0 = 2;
 <span class="kwrd">int</span> SwitchPin1 = 4;
 <span class="kwrd">int</span> Leds[] = {3, 5, 6, 9, 10, 11};
@@ -102,13 +116,17 @@ title: 'Arduino Day 2: Digital Inputs (More Fun With LEDs)'
 }</pre>
 </blockquote>
 
-<p>Next plans</p>
 
-<p>I went out to Radio Shack to pick up a few things and apparently they only sell phones and batteries now? Even though the salesman assured me they don’t have anything like an “LED” or a “resistor”, I found a dusty cabinet in the back with some nice stuff. I picked up a 5kΩ potentiometer, a bunch of random LEDs, a couple push buttons, some 220Ω resistors, and a piezo buzzer. </p>
+Next plans
 
-<p>I was hoping to get a smaller breadboard and a pack of ready-to-use wires since what I have are a bit brittle, but no dice. I was actually a little surprised that they didn’t have a whole Arduino/microcontroller section. This stuff is really, really popular among geeks and it seems to me that “The Shack” (as I’m supposed to call it now) is missing out on an opportunity to become relevant again.</p>
 
-<p>Oh well. I got enough to keep me going a few more days so see you tomorrow!</p>
+I went out to Radio Shack to pick up a few things and apparently they only sell phones and batteries now? Even though the salesman assured me they don’t have anything like an “LED” or a “resistor”, I found a dusty cabinet in the back with some nice stuff. I picked up a 5kΩ potentiometer, a bunch of random LEDs, a couple push buttons, some 220Ω resistors, and a piezo buzzer. 
+
+
+I was hoping to get a smaller breadboard and a pack of ready-to-use wires since what I have are a bit brittle, but no dice. I was actually a little surprised that they didn’t have a whole Arduino/microcontroller section. This stuff is really, really popular among geeks and it seems to me that “The Shack” (as I’m supposed to call it now) is missing out on an opportunity to become relevant again.
+
+
+Oh well. I got enough to keep me going a few more days so see you tomorrow!
 
 ---
 

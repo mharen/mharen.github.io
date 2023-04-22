@@ -18,6 +18,6 @@ No, not that Clancy <a href="http://www.amazon.com/gp/product/0425109720/002-680
 
 Eat your heart out, <a href="http://www.whitehouse.gov/government/ashcroft-bio.html">John Ashcroft</a>.
 
-Instead of play money, the game uses Civil Liberties. More often then not, you lose your civil liberty cards (more or less depending on your race) and end up in Jail--err--Guantanamo Bay. The game is <em>very</em> educational.
+Instead of play money, the game uses Civil Liberties. More often then not, you lose your civil liberty cards (more or less depending on your race) and end up in Jail--err--Guantanamo Bay. The game is *very* educational.
 
 The game is freely available--the author provides PDFs that you can download and print out. Check out the <a href="http://www.graphix4change.com/portfolio_PA_game.html">site</a> for more information.

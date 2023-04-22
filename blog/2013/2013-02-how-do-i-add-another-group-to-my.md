@@ -13,4 +13,9 @@ time_to_read: 5
 title: How do I add another group to my MongoDB MMS monitor on 10gen?
 ---
 
-<p>10gen has some seriously awesome (free) monitoring software: <a href="http://www.10gen.com/products/mongodb-monitoring-service">MMS</a>.</p> <p>![image%25255B17%25255D.png](image%25255B17%25255D.png)</p> <p>Once you do that you can switch among your groups with the select list in the upper-left corner. </p>
+
+10gen has some seriously awesome (free) monitoring software: <a href="http://www.10gen.com/products/mongodb-monitoring-service">MMS</a>.
+
+![image%25255B17%25255D.png](image%25255B17%25255D.png)
+
+Once you do that you can switch among your groups with the select list in the upper-left corner. 

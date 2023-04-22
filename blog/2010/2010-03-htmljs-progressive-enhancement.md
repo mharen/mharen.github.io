@@ -11,21 +11,29 @@ time_to_read: 5
 title: 'HTML/JS: Progressive Enhancement'
 ---
 
-<p>The great thing about a semantic approach to web development is how nice and easy it can be to make progressive enhancements.</p>
-<p>For example, suppose I have a “what’s this” help link beside some potentially confusing statement:</p>
-<p>&#160;![image%5B11%5D.png](image%5B11%5D.png) </p>
-<p></p>
-<p>Nothing fancy here—just a link with a _blank target (<a href="http://jsbin.com/unuqo/3/edit">source</a>, <a href="http://jsbin.com/unuqo/3">demo</a>):</p>  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">p</span><span class="kwrd">&gt;</span>Hello World 
+
+The great thing about a semantic approach to web development is how nice and easy it can be to make progressive enhancements.
+
+For example, suppose I have a “what’s this” help link beside some potentially confusing statement:
+
+&#160;![image%5B11%5D.png](image%5B11%5D.png) 
+
+
+
+Nothing fancy here—just a link with a _blank target (<a href="http://jsbin.com/unuqo/3/edit">source</a>, <a href="http://jsbin.com/unuqo/3">demo</a>):  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">p</span><span class="kwrd">&gt;</span>Hello World 
   <span class="kwrd">&lt;</span><span class="html">a</span> <span class="attr">href</span><span class="kwrd">=&quot;/help/tips&quot;</span>
      <span class="attr">target</span><span class="kwrd">=&quot;_blank&quot;</span> 
      <span class="attr">title</span><span class="kwrd">=&quot;Hello World Help&quot;</span>
      <span class="attr">class</span><span class="kwrd">=&quot;help-link&quot;</span><span class="kwrd">&gt;</span>(what's this?)<span class="kwrd">&lt;/</span><span class="html">a</span><span class="kwrd">&gt;&lt;/</span><span class="html">p</span><span class="kwrd">&gt;</span></pre>
 
-<p>It’s not very pretty but it gets the job done without any Javascript. Let’s make it sexy:</p>
 
-<p>![image%5B8%5D.png](image%5B8%5D.png) </p>
+It’s not very pretty but it gets the job done without any Javascript. Let’s make it sexy:
 
-<p>Here we’ve augmented the help link with a nice <a href="http://jqueryui.com/home">jQuery UI</a> <a href="http://jqueryui.com/demos/dialog/">dialog</a> instead of a browser popup (<a href="http://jsbin.com/unuqo/4/edit">source</a>, <a href="http://jsbin.com/unuqo/4">demo</a>):</p>
+
+![image%5B8%5D.png](image%5B8%5D.png) 
+
+
+Here we’ve augmented the help link with a nice <a href="http://jqueryui.com/home">jQuery UI</a> <a href="http://jqueryui.com/demos/dialog/">dialog</a> instead of a browser popup (<a href="http://jsbin.com/unuqo/4/edit">source</a>, <a href="http://jsbin.com/unuqo/4">demo</a>):
 
 <pre class="csharpcode">$(<span class="kwrd">function</span>(){
   
@@ -50,8 +58,11 @@ title: 'HTML/JS: Progressive Enhancement'
   
 });​</pre>
 
-<p>This doesn’t require any changes to the HTML/CSS—it uses existing attributes like <code>href</code> and <code>title</code> to wire itself up to the link. And, if JS is disabled or broken, <em>the link will still work</em>. </p>
 
-<p>By applying incremental enhancements in this fashion, we can easily maintain decent support for less-capable browsers while keeping our code clean and elegant.</p>
+This doesn’t require any changes to the HTML/CSS—it uses existing attributes like <code>href</code> and <code>title</code> to wire itself up to the link. And, if JS is disabled or broken, *the link will still work*. 
 
-<p>You might notice, too, that this JS snippet is looking at a class (<code>help-link</code>), not an <code>id</code>. Since it infers everything it needs to show the dialog from the link itself, this snippet will work on <strong>any</strong> link in the page tagged with the <code>help-link</code> class. Nice, right?</p>
+
+By applying incremental enhancements in this fashion, we can easily maintain decent support for less-capable browsers while keeping our code clean and elegant.
+
+
+You might notice, too, that this JS snippet is looking at a class (<code>help-link</code>), not an <code>id</code>. Since it infers everything it needs to show the dialog from the link itself, this snippet will work on <strong>any</strong> link in the page tagged with the <code>help-link</code> class. Nice, right?

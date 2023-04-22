@@ -14,8 +14,10 @@ time_to_read: 5
 title: 'A Candy Land Simulator: The Game Engine, Implemented'
 ---
 
-<p><em>Note: this post is from a </em><a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator"><em>series on Candy Land</em></a><em>.</em></p>
-<p>We’re back again. We still have our board and cards (these are old hat now, right?):</p>  <pre class="csharpcode"><span class="kwrd">var</span> board = [
+
+*Note: this post is from a *<a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator">*series on Candy Land*</a>*.*
+
+We’re back again. We still have our board and cards (these are old hat now, right?):  <pre class="csharpcode"><span class="kwrd">var</span> board = [
     { color: <span class="str">'Red'</span> },
     { color: <span class="str">'Orange'</span>, bridgeTo: 59 }
     <span class="rem">// ...</span>
@@ -26,18 +28,22 @@ title: 'A Candy Land Simulator: The Game Engine, Implemented'
     <span class="rem">// ...</span>
 ];</pre>
 
-<p>And we just added some players:</p>
+
+And we just added some players:
 
 <pre class="csharpcode"><span class="kwrd">var</span> players = [
     { name: <span class="str">'Michael'</span>, isLosingATurn: <span class="kwrd">false</span>, position: -1, isWinner: <span class="kwrd">false</span>, moves = 0 },
     { name: <span class="str">'Thing 1'</span>, isLosingATurn: <span class="kwrd">false</span>, position: -1, isWinner: <span class="kwrd">false</span>, moves = 0 }
 ];</pre>
 
-<p>So let’s get down to implementing some of the game engine we spec'd out yesterday. First, here’s the test harness:</p>
 
-<p>![image%25255B3%25255D.png](image%25255B3%25255D.png)</p>
+So let’s get down to implementing some of the game engine we spec'd out yesterday. First, here’s the test harness:
 
-<p>I decided to add an option of letting players stop the game as soon as one player wins (like normal people), or to play through until everyone “wins” like my kids play. This is the main function that we run when we click the button to start the game. It loads up that option from a checkbox, and the players:</p>
+
+![image%25255B3%25255D.png](image%25255B3%25255D.png)
+
+
+I decided to add an option of letting players stop the game as soon as one player wins (like normal people), or to play through until everyone “wins” like my kids play. This is the main function that we run when we click the button to start the game. It loads up that option from a checkbox, and the players:
 
 <pre class="csharpcode"><span class="rem">// for stats</span>
 <span class="kwrd">var</span> gamesPlayed = 0;
@@ -79,9 +85,11 @@ $(<span class="str">'#run'</span>).click(<span class="kwrd">function</span>(){
             );
 });</pre>
 
-<p>As you’ll see, I’ve taken a few other liberties during the implementation that deviate slightly from the original design. That’s normal. </p>
 
-<p>So when we actually call “DoGame()”, this is called:</p>
+As you’ll see, I’ve taken a few other liberties during the implementation that deviate slightly from the original design. That’s normal. 
+
+
+So when we actually call “DoGame()”, this is called:
 
 <pre class="csharpcode"><span class="kwrd">function</span> DoGame(options, players){
     <span class="rem">// initialize the board</span>
@@ -95,7 +103,8 @@ $(<span class="str">'#run'</span>).click(<span class="kwrd">function</span>(){
     <span class="kwrd">while</span>(DoGameLoop(options, players, board, cards));
 }</pre>
 
-<p>Which calls “DoGameLoop” repeatedly until it signals that the game is over:</p>
+
+Which calls “DoGameLoop” repeatedly until it signals that the game is over:
 
 <pre class="csharpcode"><span class="rem">// return false when the game is over</span>
 <span class="kwrd">function</span> DoGameLoop(options, players, board, cards){
@@ -128,7 +137,8 @@ $(<span class="str">'#run'</span>).click(<span class="kwrd">function</span>(){
     <span class="kwrd">return</span> IsSomeoneStillPlaying;
 }</pre>
 
-<p>That just calls “DoPlayerLoop” for each player:</p>
+
+That just calls “DoPlayerLoop” for each player:
 
 <pre class="csharpcode"><span class="kwrd">function</span> DoPlayerLoop(options, player, board, cards){
     <span class="rem">// if we are losing a turn, turn off the &quot;isLosingATurn&quot; </span>
@@ -169,7 +179,8 @@ $(<span class="str">'#run'</span>).click(<span class="kwrd">function</span>(){
     }
 }</pre>
 
-<p>The real workhorse in there is the call to DoMove, which actually advances the game token along the board:</p>
+
+The real workhorse in there is the call to DoMove, which actually advances the game token along the board:
 
 <pre class="csharpcode">function DoMove(options, player, board, card){
     <span class="rem">// we'll cycle through the board. </span>
@@ -208,8 +219,11 @@ $(<span class="str">'#run'</span>).click(<span class="kwrd">function</span>(){
     <span class="kwrd">return</span> currentSpace;
 }</pre>
 
-<p>All this, including the source to the utility functions (e.g. DrawACard) is available <a href="http://jsfiddle.net/mharen/crgAX/35/">in the fiddle</a>. Here’s the working version:</p>
 
-<p></p>
+All this, including the source to the utility functions (e.g. DrawACard) is available <a href="http://jsfiddle.net/mharen/crgAX/35/">in the fiddle</a>. Here’s the working version:
 
-<p>In the next post I’ll do some additional testing and verification. A brief, casual comparison to other papers online reveals that my results are reasonable. I’m not saying they are correct, but I’m at least in the ball park for finding the length of an average game (around 45-50 cards).</p>
+
+
+
+
+In the next post I’ll do some additional testing and verification. A brief, casual comparison to other papers online reveals that my results are reasonable. I’m not saying they are correct, but I’m at least in the ball park for finding the length of an average game (around 45-50 cards).

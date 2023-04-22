@@ -16,19 +16,34 @@ title: 'Arduino Day 11: Extreme Feedback for Hudson Builds (Includes Chuck Norri
 ---
 
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
-<p>Improving on yesterday’s build, I added in some actual network-sourced data. My little traffic lights now show the build status of one of my projects:</p>  <p align="center" style="clear: both;"></p>
-<p>In case you don’t know what any of that was, let me try to explain. At work I build software, and that software is written in code. We have a server monitor our code and automatically try to build it (convert the code into executable software) whenever it changes. We use an awesome tool called Hudson to do this for us. What I’ve built is called an extreme feedback device because it reports a piece of soft data (the build status) in a physical way (beeping lights).</p>
-<p>Whenever the build status changes (any of “success”, “building” or “failed”), the board beeps and lights up the appropriate LED (green, yellow or red).</p>
-<p>In the future this tool could be tied to a <a href="http://www.thinkgeek.com/computing/accessories/8a0f/" target="_blank">mechanical foam dart gun</a> to physically punish whoever broke the build. Speaking of missiles, I saw <em>Delta Force</em> recently enough to make this connection: Chuck Norris’s motorcycle <em>launched missiles</em>. Yeah.</p>
-<p>![chuck-norris-delta-force.jpg](chuck-norris-delta-force.jpg)</p>
-<p>You might imagine how politically correct and culturally sensitive a 1986 movie about terrorism, with the subtitle “They don't negotiate with terrorists... they blow them away!” is. It’s like <em>24</em> with less talk and more explosions.</p>
-<p>But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:</p>
-<p><a href="http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank">![Norrishuckabee%5B5%5D.jpg](Norrishuckabee%5B5%5D.jpg)</a></p>
-<p>70. Chuck Norris is <strong>seventy</strong> years old. And apparently immortal which is extra scary considering, well, <a href="http://www.chucknorrisfacts.com/" target="_blank">you know</a>.</p>  <h4>Build (Repeat)</h4>
-<p>![DSC_00113%5B2%5D.jpg](DSC_00113%5B2%5D.jpg)</p>  <h4>Circuit (Repeat)</h4>
-<p>![Sketch_bb6%5B2%5D.png](Sketch_bb6%5B2%5D.png)</p>  <h4>Schematic (Repeat)</h4>
-<p>![Sketch_schem6%5B2%5D.png](Sketch_schem6%5B2%5D.png)</p>  <h4>Code (Updated)</h4>  <h5>C#</h5>
-<p>I started out today by doing all this in Powershell…but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).</p>
+
+Improving on yesterday’s build, I added in some actual network-sourced data. My little traffic lights now show the build status of one of my projects:  
+
+
+
+In case you don’t know what any of that was, let me try to explain. At work I build software, and that software is written in code. We have a server monitor our code and automatically try to build it (convert the code into executable software) whenever it changes. We use an awesome tool called Hudson to do this for us. What I’ve built is called an extreme feedback device because it reports a piece of soft data (the build status) in a physical way (beeping lights).
+
+Whenever the build status changes (any of “success”, “building” or “failed”), the board beeps and lights up the appropriate LED (green, yellow or red).
+
+In the future this tool could be tied to a <a href="http://www.thinkgeek.com/computing/accessories/8a0f/" target="_blank">mechanical foam dart gun</a> to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
+
+![chuck-norris-delta-force.jpg](chuck-norris-delta-force.jpg)
+
+You might imagine how politically correct and culturally sensitive a 1986 movie about terrorism, with the subtitle “They don't negotiate with terrorists... they blow them away!” is. It’s like *24* with less talk and more explosions.
+
+But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
+
+<a href="http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank">![Norrishuckabee%5B5%5D.jpg](Norrishuckabee%5B5%5D.jpg)</a>
+
+70. Chuck Norris is <strong>seventy</strong> years old. And apparently immortal which is extra scary considering, well, <a href="http://www.chucknorrisfacts.com/" target="_blank">you know</a>.  <h4>Build (Repeat)</h4>
+
+![DSC_00113%5B2%5D.jpg](DSC_00113%5B2%5D.jpg)  <h4>Circuit (Repeat)</h4>
+
+![Sketch_bb6%5B2%5D.png](Sketch_bb6%5B2%5D.png)  <h4>Schematic (Repeat)</h4>
+
+![Sketch_schem6%5B2%5D.png](Sketch_schem6%5B2%5D.png)  <h4>Code (Updated)</h4>  <h5>C#</h5>
+
+I started out today by doing all this in Powershell…but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
 <blockquote>   <pre class="csharpcode"><span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
 {
 
@@ -133,7 +148,8 @@ title: 'Arduino Day 11: Extreme Feedback for Hudson Builds (Includes Chuck Norri
 
 <h4>Next Steps</h4>
 
-<p>I’ve got a busy weekend coming up so I’ll probably just spend a little time refining what I have. I’m open to ideas, though!</p>
+
+I’ve got a busy weekend coming up so I’ll probably just spend a little time refining what I have. I’m open to ideas, though!
 
 ---
 

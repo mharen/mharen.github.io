@@ -25,6 +25,6 @@ Finally, there is a better solution. I suggest that theaters, churches, etc. ins
 
 Just imagine...you walk into church and your phone, being smart and sophisticated, silences itself. After you leave church, your phone reverts to your crappy Super Mario Brothers ringer or school fight song. Then, you swing by the theater to see a movie, and the phone silences itself again. Sweet!
 
-Of course this method has its problems, too. First and foremost, this technology doesn't exist. This task would require cooperation among phone makers. Fortunately, the method used to signal the phones <em>does</em> exist in many newer phones, <a href="http://www.howstuffworks.com/bluetooth.htm">Bluetooth</a> (short range communication).
+Of course this method has its problems, too. First and foremost, this technology doesn't exist. This task would require cooperation among phone makers. Fortunately, the method used to signal the phones *does* exist in many newer phones, <a href="http://www.howstuffworks.com/bluetooth.htm">Bluetooth</a> (short range communication).
 
-Of course this solution does not address issues with people who actually <em>talk</em> on their cell phones during a movie. While jamming would work in that case, I think a swift kick to the temple would be better. That's exactly how <a href="http://www.chucknorrisfacts.com/">Chuck Norris</a> would handle the situation, anyway.
+Of course this solution does not address issues with people who actually *talk* on their cell phones during a movie. While jamming would work in that case, I think a swift kick to the temple would be better. That's exactly how <a href="http://www.chucknorrisfacts.com/">Chuck Norris</a> would handle the situation, anyway.

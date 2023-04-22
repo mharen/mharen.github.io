@@ -32,4 +32,8 @@ If you�d like to see a preview of your button/protector prior to ordering, we 
 
 We will get started upon receipt of payment!
 
-Regards,<br />Jacque Oley<br />sales@dealerbuttons.com</div>I am not joking. I checked out the story and, according to google:news, it's legit. He might not know any of the people involved but the story is true. What do I say to that!? I'm speachless.
+Regards,
+
+Jacque Oley
+
+sales@dealerbuttons.com</div>I am not joking. I checked out the story and, according to google:news, it's legit. He might not know any of the people involved but the story is true. What do I say to that!? I'm speachless.

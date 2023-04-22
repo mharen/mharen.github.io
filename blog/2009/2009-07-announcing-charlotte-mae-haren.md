@@ -12,8 +12,14 @@ time_to_read: 5
 title: Announcing Charlotte Mae Haren
 ---
 
-<p>Our latest family addition arrived last night at 9:30 pm. Sarah did an amazing job—she’s a pro who makes birth look easy (though it certainly is not!).</p>  <p align="center">![IMG_5238%5B17%5D.jpg](IMG_5238%5B17%5D.jpg)  </p>
-<p>Sarah delivered at home in a tub with the help of our awesome midwife Pam and friend Sierra (also Awesome). I’ll leave it to Sarah to elaborate as desired on the birth experience. Thanks to all for your support!</p>  <p align="center"><a href="http://lh5.ggpht.com/_IKD9WtY5kxU/Sk6UmHbak1I/AAAAAAAAAOY/ANELFuIgOVg/s1600-h/IMG_5252-1%5B28%5D.jpg" target="_blank">![IMG_5250-1_thumb%5B6%5D.jpg](IMG_5250-1_thumb%5B6%5D.jpg)</a></p>
+
+Our latest family addition arrived last night at 9:30 pm. Sarah did an amazing job—she’s a pro who makes birth look easy (though it certainly is not!).  
+
+![IMG_5238%5B17%5D.jpg](IMG_5238%5B17%5D.jpg)  
+
+Sarah delivered at home in a tub with the help of our awesome midwife Pam and friend Sierra (also Awesome). I’ll leave it to Sarah to elaborate as desired on the birth experience. Thanks to all for your support!  
+
+<a href="http://lh5.ggpht.com/_IKD9WtY5kxU/Sk6UmHbak1I/AAAAAAAAAOY/ANELFuIgOVg/s1600-h/IMG_5252-1%5B28%5D.jpg" target="_blank">![IMG_5250-1_thumb%5B6%5D.jpg](IMG_5250-1_thumb%5B6%5D.jpg)</a>
 
 ---
 

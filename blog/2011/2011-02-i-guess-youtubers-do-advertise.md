@@ -13,13 +13,22 @@ time_to_read: 5
 title: "I Guess YouTuber\u2019s *Do* Advertise"
 ---
 
-<p>In <a href="../2011/2011-02-end-of-super-bowl-style-advertising.html" target="_blank">my last post</a> I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:</p>
+
+In <a href="../2011/2011-02-end-of-super-bowl-style-advertising.html" target="_blank">my last post</a> I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:
 <blockquote> 
-<p>But what about actual advertising?</p>
+
+But what about actual advertising?
 </blockquote>
-<p>That is, what will happen during all those TV timeouts when we start depending more on YouTube to entertain us? I guess the value of those time slices will drop to reasonable levels for one (that is, until the medium really falls apart). And two, more advertising will creep into viral videos. Taking my <a href="http://stuffmystudentsdraw.blogspot.com/" target="_blank">brother</a>’s challenge, let’s analyze my favorite video of all time, <a href="http://www.youtube.com/watch?v=VF9-sEbqDvU" target="_blank">Marcel the Shell</a> <em>as is</em>:</p>  <p align="center">![image%5B16%5D.png](image%5B16%5D.png)</p>    
-<p>I bet these are all incidental, too. Imagine if it was intentional?</p>  <p align="center">![image%5B20%5D.png](image%5B20%5D.png)</p>
-<p>I think Marcel’s expression is appropriate.</p>
+
+That is, what will happen during all those TV timeouts when we start depending more on YouTube to entertain us? I guess the value of those time slices will drop to reasonable levels for one (that is, until the medium really falls apart). And two, more advertising will creep into viral videos. Taking my <a href="http://stuffmystudentsdraw.blogspot.com/" target="_blank">brother</a>’s challenge, let’s analyze my favorite video of all time, <a href="http://www.youtube.com/watch?v=VF9-sEbqDvU" target="_blank">Marcel the Shell</a> *as is*:  
+
+![image%5B16%5D.png](image%5B16%5D.png)    
+
+I bet these are all incidental, too. Imagine if it was intentional?  
+
+![image%5B20%5D.png](image%5B20%5D.png)
+
+I think Marcel’s expression is appropriate.
 
 ---
 

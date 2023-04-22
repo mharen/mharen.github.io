@@ -21,7 +21,7 @@ I found that extremely interesting and decided to interrogate my dog. He came cl
 
 I guess I should be greatful that so far his antics include only eating ethernet cables. After all, he could be peeing and pooping all over the place. Oh wait...damn dog!
 
-At the end of the day, however, he really is a great dog. We just have to remember that he's a puppy and interested in EVERYTHING. And by <em>interested in</em>, of course I mean insatiably led to chew and by <em>everything </em>, of course I mean...well, everything.
+At the end of the day, however, he really is a great dog. We just have to remember that he's a puppy and interested in EVERYTHING. And by *interested in*, of course I mean insatiably led to chew and by *everything *, of course I mean...well, everything.
 
 So we've basically got a two yearold on our hands. He eats everything and only runs into places you don't want him to be :).
 

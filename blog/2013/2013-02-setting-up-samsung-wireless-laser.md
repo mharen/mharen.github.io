@@ -27,7 +27,7 @@ Next, go get the Samsung print app for your phone or tablet. Do this before the 
 
 The printer will broadcast a WiFi network for ad-hoc printing. Connect to that with your phone or tablet--it'll be something like "PortThru". Just look for an open network with a good signal that looks like it was named by a corporation.
 
-Once you're connected to the printer open the print app. We don't actually want to print anything yet (though you could!). Go through the motions like you <em>are</em> going to print something though, because we want to know the printer's IP address. This will show up when you go to select the printer.
+Once you're connected to the printer open the print app. We don't actually want to print anything yet (though you could!). Go through the motions like you *are* going to print something though, because we want to know the printer's IP address. This will show up when you go to select the printer.
 
 Note the IP address and head over to your web browser. Enter the IP address in the address bar to get to the printer's management console.
 

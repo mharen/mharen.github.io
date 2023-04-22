@@ -29,7 +29,9 @@ It is amazing how helpless you feel when you are missing a foot.
 
 They get me home and Shelley ices it some more and tells me that I must go to see a doctor now or tomorrow. I decide to go tomorrow and sit it out. Then I reconsider and when I find out that our copay is pretty low and that the pain is amazing, we decide to head of to the OSU emergency room. It's not really an emergency but I don't want to wait until morning. It's about 3 am at this point.
 
-[UPDATE 5/5/05]<br />I went to the hospital and after xrays, it was determined that nothing so broken...seriously. They gave me some crutches and meds and sent me on my way.
+[UPDATE 5/5/05]
+
+I went to the hospital and after xrays, it was determined that nothing so broken...seriously. They gave me some crutches and meds and sent me on my way.
 
 I went to the doctor the next morning and she confirmed that it probably isn't broken. She prescribed physical therapy. I've been to physical therapy a few times since and it's great. I do all these excercises that are pretty painful but help a whole lot. I can walk now with a slight limp and when I take pain meds I can run ;).
 

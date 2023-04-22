@@ -13,7 +13,9 @@ title: Hockey Madness
 
 Sarah, Shelley, Chris, Jeff, and I just got out of our first hockey game. As spectators? Oh no, my friend, as hockey players. That's right--we don't play *for* Ohio State, but we do play *at* Ohio State. It was really cool. More updates on this later. Out next game is next week - Maybe i can get some pictures.
 
-[next day update]<br />OSU offers hockey at three 4 levels: A, B, C, D, D being the least skilled, and A being the most skilled. Since we have no skills, the best place for us is D. Are we playing D-League hockey? No...The day of signups, we were too late and all the D-league teams filled up. Feeling invincible as college students sometimes feel, we built of our courage and signed the C league sheet. What the hell were we thinking? Only one of us has ever played before--we can hardly skate.
+[next day update]
+
+OSU offers hockey at three 4 levels: A, B, C, D, D being the least skilled, and A being the most skilled. Since we have no skills, the best place for us is D. Are we playing D-League hockey? No...The day of signups, we were too late and all the D-league teams filled up. Feeling invincible as college students sometimes feel, we built of our courage and signed the C league sheet. What the hell were we thinking? Only one of us has ever played before--we can hardly skate.
 
 So we 'practice' for the first game by attending a couple open skates and we feel less-confident when we realize that, yes, we can't skate, have never handled a puck before, and are on a team with 15 other people whom we also don't know.
 

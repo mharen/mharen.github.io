@@ -12,9 +12,26 @@ time_to_read: 5
 title: The Foreclosure Crisis
 ---
 
-<p id="x9yg0">![house.jpg](house.jpg)I've been reading a lot about our nation's foreclosure crisis and it's an issue that has hit my area (NE Ohio) pretty hard. I am having a really hard time deciding who to blame. The list of suspects is long:</p>
 
-<ol id="x9yg1"><br />	<li id="x9yg8">Borrowers</li><br />	<li id="x9yg8">Real Estate Agents</li><br />	<li id="x9yg8">Brokers<br id="bw_b0" /></li><br />	<li id="x9yg8">Lenders</li><br />	<li id="x9yg8">Banks</li><br />	<li id="x9yg8">Wall Street and Big Investors</li><br /></ol><br />I think that is a (roughly) accurate view of who relates to a mortgage.
+![house.jpg](house.jpg)I've been reading a lot about our nation's foreclosure crisis and it's an issue that has hit my area (NE Ohio) pretty hard. I am having a really hard time deciding who to blame. The list of suspects is long:
+
+<ol id="x9yg1">
+
+	<li id="x9yg8">Borrowers</li>
+
+	<li id="x9yg8">Real Estate Agents</li>
+
+	<li id="x9yg8">Brokers<br id="bw_b0" /></li>
+
+	<li id="x9yg8">Lenders</li>
+
+	<li id="x9yg8">Banks</li>
+
+	<li id="x9yg8">Wall Street and Big Investors</li>
+
+</ol>
+
+I think that is a (roughly) accurate view of who relates to a mortgage.
 
 <strong id="kufa2">Blame the borrowers</strong>
 

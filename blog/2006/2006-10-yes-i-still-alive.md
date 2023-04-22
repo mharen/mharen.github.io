@@ -11,4 +11,6 @@ time_to_read: 5
 title: Yes, I'm Still Alive
 ---
 
-<p align="center">![map.gif](map.gif)</a></p>
+
+
+![map.gif](map.gif)</a>

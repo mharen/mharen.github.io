@@ -11,7 +11,21 @@ time_to_read: 5
 title: More Baby Stuff...
 ---
 
-It's a girl!  We are thrilled - I can't wait to go SHOPPING but we have to wait until we have a house in which to put the things we buy :)  So far, Peanut has:<br /><ul><br />	<li>2 pairs of socks</li><br />	<li>1 fleece snowsuit</li><br />	<li>1 yellow creeper with ducks on it</li><br />	<li>1 fleece jacket/pants combo with a hood with bear ears on it</li><br /></ul><br />So she has enough clothes to get her through 1 day :)  I'll get some pictures up when I get the energy :P  I swear Peanut is going through a growth spurt because I am exhausted!
+It's a girl!  We are thrilled - I can't wait to go SHOPPING but we have to wait until we have a house in which to put the things we buy :)  So far, Peanut has:
+
+<ul>
+
+	<li>2 pairs of socks</li>
+
+	<li>1 fleece snowsuit</li>
+
+	<li>1 yellow creeper with ducks on it</li>
+
+	<li>1 fleece jacket/pants combo with a hood with bear ears on it</li>
+
+</ul>
+
+So she has enough clothes to get her through 1 day :)  I'll get some pictures up when I get the energy :P  I swear Peanut is going through a growth spurt because I am exhausted!
 
 The ultrasound was awesome!  As far as we can tell, everything is developing perfectly and she is right on schedule (and maybe even a little ahead!) - the detail was pretty amazing - you could see fingers, toes, etc. which we expected, but they also looked at her heart chambers and the various parts of her brain!  Wacky!  They could even tell that she has 3 vessels in her umbilical cord (which is a good thing :)).
 

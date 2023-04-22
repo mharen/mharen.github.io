@@ -22,7 +22,9 @@ Fast forward to the jobsite. I am using real technologies now like VB.Net. I am 
 
 This is huge. CINT(1.6) = 2, not 1! So I look up the <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/script56/html/38eee725-da5b-469b-b3f7-c818a74037c1.asp">documentation</a> and sure enough:
 
-<blockquote>Note: CInt differs from the Fix and Int functions, which truncate, rather than round, the fractional part of a number. When the fractional part is exactly 0.5, the CInt function always rounds it to the nearest even number. For example, 0.5 rounds to 0, and 1.5 rounds to 2.<br /></blockquote>
+<blockquote>Note: CInt differs from the Fix and Int functions, which truncate, rather than round, the fractional part of a number. When the fractional part is exactly 0.5, the CInt function always rounds it to the nearest even number. For example, 0.5 rounds to 0, and 1.5 rounds to 2.
+
+</blockquote>
 
  I'll be damn. You might notice something even more crazy--it doesn't just round .5 up, it rounds to the nearest even number. Holy crap times two. I have not used this style of rounding since chemistry class in college when we had to mess with significant digits and such. This means that CINT(2.5) = 2...and...CINT(1.5) = 2. Yes, they both equal 2.
 

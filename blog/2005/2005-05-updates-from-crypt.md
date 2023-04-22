@@ -13,7 +13,9 @@ title: Updates from the crypt
 
 Finale time has come and gone, and let me tell you, what a season it has been. <h3>7th Heaven</h3>What a load of crap. Oh my goodness, I'm not sure I'll be able to express how terrible this was. I'm not even going to try. Instead, I'll just give props to the writers. I'm 100% sure this is how it went down:
 
-Writer 1: OK guys, our show is so bad and we've been on the air so long that I bet we could outsource the script to our 4 year olds--<br />Writer 2: --or lets hire some crack hos!
+Writer 1: OK guys, our show is so bad and we've been on the air so long that I bet we could outsource the script to our 4 year olds--
+
+Writer 2: --or lets hire some crack hos!
 
 Well, that's what they did. 'nough said.<h3>24</h3>This was a two-hour show. It was awesome for about 1:45. The show had been lagging a little bit but this finale was pretty good. That is, until (spoiler...) the jackass President decided that even though Jack saved the entire damn country (again, 4 seasons running) and was willing to be handed over to the Chinese government for some bullshit that happened 3 <s>weeks</s> hours ago, he's got to be killed because--get this--he knows too much.
 

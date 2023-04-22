@@ -14,7 +14,12 @@ time_to_read: 5
 title: Automatically Connect to the Replica Set Primary with Mongo Shell
 ---
 
-<p>So you got your fancy MongoDB Replica Set running, did you, Mr. Fancypants? Before too long you might run into an issue: <strong>how do you connect to the primary node when the primary can change? </strong></p> <p>Luckily our applications don’t have this problem because their drivers are smart and automatically connect to the primary. The Mongo shell doesn’t do that, though.</p> <p>Here’s a library to help with that. Throw this into a file called replicaSetConnector.js:</p><pre class="csharpcode"><span class="kwrd">var</span> ReplicaSetConnector = (<span class="kwrd">function</span>() { 
+
+So you got your fancy MongoDB Replica Set running, did you, Mr. Fancypants? Before too long you might run into an issue: <strong>how do you connect to the primary node when the primary can change? </strong>
+
+Luckily our applications don’t have this problem because their drivers are smart and automatically connect to the primary. The Mongo shell doesn’t do that, though.
+
+Here’s a library to help with that. Throw this into a file called replicaSetConnector.js:<pre class="csharpcode"><span class="kwrd">var</span> ReplicaSetConnector = (<span class="kwrd">function</span>() { 
     <span class="kwrd">var</span> RSC = <span class="kwrd">function</span>(options) {
     
         <span class="rem">// private method for handling the dirty work of connecting </span>
@@ -54,13 +59,15 @@ title: Automatically Connect to the Replica Set Primary with Mongo Shell
         
     <span class="kwrd">return</span> RSC;
 })();</pre>
-<p>That’s a library we’ll reuse bunches of times. Now make another file for your environment, e.g. prod.js with this in it:</p><pre class="csharpcode">(<span class="kwrd">new</span> ReplicaSetConnector({ 
+
+That’s a library we’ll reuse bunches of times. Now make another file for your environment, e.g. prod.js with this in it:<pre class="csharpcode">(<span class="kwrd">new</span> ReplicaSetConnector({ 
     initialHost: <span class="str">'one-of-your-replica-set-nodes:27017'</span>, 
     database: <span class="str">"database-name"</span>, 
     username: <span class="str">"user"</span>, 
     password: <span class="str">"secret..."</span>,
     debug: <span class="kwrd">true</span>})).connect();</pre>
-<p>And we’re finally read to connect with a mongo shell like so:</p><pre class="csharpcode">%&gt; mongo --shell --nodb replicaSetConnector.js prod.js
+
+And we’re finally read to connect with a mongo shell like so:<pre class="csharpcode">%&gt; mongo --shell --nodb replicaSetConnector.js prod.js
 MongoDB shell version: 2.2.2
 type "help" for help
 loading file: replicaSetConnector.js
@@ -70,7 +77,8 @@ Connecting to one-of-your-replica-set-nodes:27017/database-name as user:secret..
 </strong>Connecting to another-one-of-your-replica-set-nodes:27017/database-name as user:secret
 <strong>...or are you ;)</strong>
 &gt;</pre>
-<p>Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can <a href="http://tldp.org/LDP/abs/html/aliases.html">alias</a> that command to something shorter, add the library to your <a href="http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file">mongorc</a> file, or make Windows shortcut.</p>
+
+Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can <a href="http://tldp.org/LDP/abs/html/aliases.html">alias</a> that command to something shorter, add the library to your <a href="http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file">mongorc</a> file, or make Windows shortcut.
 
 ---
 

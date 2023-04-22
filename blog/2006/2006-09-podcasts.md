@@ -17,5 +17,7 @@ I’ll start us off with...<strong>Podcasts</strong>
 
 ![PodcastLogo.png](PodcastLogo.png)I am ashamed to admit that I am about two years behind on this one. For those new to the term, a <a href="http://en.wikipedia.org/wiki/Podcast">Podcast</a> is (usually) a subscription based mechanism to receive regular episodes of audio or video. These are generally free, weekly programs…think radio shows.
 
-The cool thing about podcasts is that you can subscribe to them (again, usually for free), and they will update on your computer (and iPod if you have one) automatically. So if you are an NPR addict like me, but don’t always have a radio handy at just the right time, you can subscribe to the <a href="http://www.npr.org/rss/podcast/podcast_directory.php">appropriate feed</a> and listen to your program whenever. You can usually go back 10+ episodes, too!<br />
+The cool thing about podcasts is that you can subscribe to them (again, usually for free), and they will update on your computer (and iPod if you have one) automatically. So if you are an NPR addict like me, but don’t always have a radio handy at just the right time, you can subscribe to the <a href="http://www.npr.org/rss/podcast/podcast_directory.php">appropriate feed</a> and listen to your program whenever. You can usually go back 10+ episodes, too!
+
+
 <div align="center"><a href="http://homestarrunner.com/sbemail.html">![radionews](radionews)</ul>

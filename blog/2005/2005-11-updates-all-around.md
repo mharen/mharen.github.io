@@ -16,9 +16,15 @@ title: Updates All Around
 
 This isn't the usual I'm-getting-pressure-to-update-the-site update, no sir.
 
-I have been pretty busy of late. You can thank my company, my dog, and my house for the lack of updates :). Sarah actually encourages me to update the site, so it's not her fault.<br /><h3>Pirate</h3><br />So let's start with the dog. Pirate is doing fine. He's doing well at driving us nuts, too. He is cute when he wants to be, but he just uses it to lull you into a false sense of security. Once you start trusting him he becomes a trouble maker--eating and defecating everywhere. grrrrrr.<br />![Pirate1.jpg](Pirate1.jpg)He is crate-trained, though, so we can put him in there or outside for a few minutes instead of killing him. :)
+I have been pretty busy of late. You can thank my company, my dog, and my house for the lack of updates :). Sarah actually encourages me to update the site, so it's not her fault.
 
-We took Pirate to the vet last week because we thought he was very, very sick. Believe it or not, his primary symptom was <em>good behavior</em>. We were concerned because he was moping around and resting all the time, like an old dog. He was also eating, and vomiting grass. Finally, we couldn't confirm that he had defecated that day...at all.
+<h3>Pirate</h3>
+
+So let's start with the dog. Pirate is doing fine. He's doing well at driving us nuts, too. He is cute when he wants to be, but he just uses it to lull you into a false sense of security. Once you start trusting him he becomes a trouble maker--eating and defecating everywhere. grrrrrr.
+
+![Pirate1.jpg](Pirate1.jpg)He is crate-trained, though, so we can put him in there or outside for a few minutes instead of killing him. :)
+
+We took Pirate to the vet last week because we thought he was very, very sick. Believe it or not, his primary symptom was *good behavior*. We were concerned because he was moping around and resting all the time, like an old dog. He was also eating, and vomiting grass. Finally, we couldn't confirm that he had defecated that day...at all.
 
 ![Pirate2.jpg](Pirate2.jpg)
 
@@ -46,6 +52,10 @@ My house has grass now! We moved in 10/1/05 and were told to expect the sod to b
 
 <h3>Funny</h3>
 
-And finally, here's a laugh. Since I've been going to Canada so often, Sarah got me this great shirt:<br />![gallery-canada.jpg](gallery-canada.jpg)<a href="http://www.toothpastefordinner.com/">Check out this site</a>. Somehow he puts out a comic every single day. They are hilarious. Plus, I think he is from Ohio. 
+And finally, here's a laugh. Since I've been going to Canada so often, Sarah got me this great shirt:
 
-Here's one for you chem geeks (e.g. Sarah and Shelley):<br />![gallery-solution.jpg](gallery-solution.jpg)
+![gallery-canada.jpg](gallery-canada.jpg)<a href="http://www.toothpastefordinner.com/">Check out this site</a>. Somehow he puts out a comic every single day. They are hilarious. Plus, I think he is from Ohio. 
+
+Here's one for you chem geeks (e.g. Sarah and Shelley):
+
+![gallery-solution.jpg](gallery-solution.jpg)

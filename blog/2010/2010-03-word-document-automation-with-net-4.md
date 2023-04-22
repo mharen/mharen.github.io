@@ -12,13 +12,16 @@ time_to_read: 5
 title: 'Word Document Automation with .NET 4: Attach Styles From a Template'
 ---
 
-<p>I’ve been working with document generation a <a href="../2010/2010-02-word-document-automation-with-net-4.html">bit</a> <a href="../2010/2010-02-word-document-automation-with-net-4_27.html">lately</a>. The latest hurdle I’ve had to jump is related to styles. I’ve found that the technique I’m using to merge styles is nice and easy but has one undesired feature: each source doc brings its own styles with it, overwriting any existing styles that have already been imported as it goes. This is nice in a lot of ways, but not what I want at the moment.</p>
-<p>After a lot of trial and error, I’ve come up with a super simple way to apply a single set of styles to the finished document:</p>  <pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> StyleDocument(Document document, <span class="kwrd">string</span> templateFile)
+
+I’ve been working with document generation a <a href="../2010/2010-02-word-document-automation-with-net-4.html">bit</a> <a href="../2010/2010-02-word-document-automation-with-net-4_27.html">lately</a>. The latest hurdle I’ve had to jump is related to styles. I’ve found that the technique I’m using to merge styles is nice and easy but has one undesired feature: each source doc brings its own styles with it, overwriting any existing styles that have already been imported as it goes. This is nice in a lot of ways, but not what I want at the moment.
+
+After a lot of trial and error, I’ve come up with a super simple way to apply a single set of styles to the finished document:  <pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> StyleDocument(Document document, <span class="kwrd">string</span> templateFile)
 {
     document.CopyStylesFromTemplate(templateFile);
 }</pre>
 
-<p>That’s it! This will take all the styles from the given .dotx or .docx file and apply them to the given document object. If you only have a file path of the document that needs to be styled, you’ll need to open/close it, too, with this overload (in addition to the above method):</p>
+
+That’s it! This will take all the styles from the given .dotx or .docx file and apply them to the given document object. If you only have a file path of the document that needs to be styled, you’ll need to open/close it, too, with this overload (in addition to the above method):
 
 <pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> StyleDocument(<span class="kwrd">string</span> file, <span class="kwrd">string</span> templateFile)
 {
@@ -36,7 +39,8 @@ title: 'Word Document Automation with .NET 4: Attach Styles From a Template'
     }
 }</pre>
 
-<p>Where <code class="csharpcode">DisposeApp(…)</code> is just a helper to cleanup my mess:</p>
+
+Where <code class="csharpcode">DisposeApp(…)</code> is just a helper to cleanup my mess:
 
 <pre class="csharpcode"><span class="kwrd">private</span> <span class="kwrd">static</span> <span class="kwrd">void</span> DisposeApp(Application WordApp)
 {
@@ -52,4 +56,5 @@ title: 'Word Document Automation with .NET 4: Attach Styles From a Template'
     }
 }</pre>
 
-<p>This technique is far, far nicer than working with the styles manually.</p>
+
+This technique is far, far nicer than working with the styles manually.

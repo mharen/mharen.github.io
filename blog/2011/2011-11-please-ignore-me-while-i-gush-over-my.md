@@ -15,17 +15,23 @@ title: Please Ignore Me While I Gush Over My New Laptop
 
 We're a Dell shop and that's worked out well for us. I'm serious about hardware, but not pathologically so. I have a single laptop that I take very good care of and I try to time my upgrades strategically to get the most bang for my (company's) buck. Here's my recent history.
 
-<br />
+
+
+
 <ul>
 <li>I had a trusty D505 for a couple years. It was OK, but not stellar</li>
 <li>Then I upgrade to the dual-core awesomeness of the D520. I waited for the gen 2</li>
 <li>Two years ago I got a shiny SSD (Intel X25M). I waited for the gen 2.&nbsp;</li>
 <li>And last month, my disk almost full, my screen getting flaky, and my VM usage increasing, I upgraded again. Now I have a Dell Latitude E6520 (with gen 2 i7qm).</li>
 </ul>
-<br />
+
+
+
 Here's my brief review.
 
-<span style="font-size: large;">**Things I love**</span><br />
+<span style="font-size: large;">**Things I love**</span>
+
+
 The **screen** is great. We don't skimp on screens so this baby is full hd. It took me a few days to get used to the widescreen format, and the tiny text, but I like it now. It's bright and crisp with oodles of pixels.
 
 The **performance** is incredible. Getting an SSD two years ago was insane--the best upgrade ever--but moving to a modern processor (with four hyper-threaded cores) is a close second. Of course I moved my SSD over to this new machine so I really have a killer workhorse of a machine now.
@@ -38,7 +44,9 @@ I like that I finally have a **built-in webcam**. I rarely use it but when I nee
 
 I like this E-media bay thing, also known as that spot where the disc drive falls out of. Right now I have a huge *second* harddrive in there instead of a disc drive (that's the part I like). It's very nice considering how small SSDs tend to be. Now I have tons of scratch space to complement my lightning fast, but scarce SSD. The first thing I'll use it for is to set up regular backups since SSDs <a href="http://www.codinghorror.com/blog/2011/05/the-hot-crazy-solid-state-drive-scale.html">aren't widely known</a> for their longevity.
 
-**<span style="font-size: large;">Things that could be better</span>**<br />
+**<span style="font-size: large;">Things that could be better</span>**
+
+
 The **form factor** is *large*. It's not awkward for day to day use, or lugging around the office, but using it on a plane would be difficult. It's probably too large for a non-automobile commute.
 
 It's not too heavy, and it works for me, but I could see some improvement here. I do like the new finish and style of the machine, but as far as simple size and weight, it's your typical Windows Laptop.
@@ -51,23 +59,33 @@ While I do like having proper** page up/down** buttons, the layout is weird. My 
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;">![have.png](have.png)</a></div>
-<br />
+
+
+
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;">![want.png](want.png)</a></div>
-<br />
+
+
+
 The track pad is fine, but the **track pad scroll support** leaves a little to be desired. I find it jumps around when I try to scroll. The experience is hard to describe, so you'll just have to take my word for it: it's a bit jarring. I assume it's a software issue so maybe it'll go away with a driver update or by tweaking a bunch of random settings.
 
-**<span style="font-size: large;">Conclusion</span>**<br />
+**<span style="font-size: large;">Conclusion</span>**
+
+
 I am overwhelmingly thrilled with this thing. It's fast and reliable. It seems to run much cooler than my D520, and am typing this in the dark, comfortably.
 
 I don't know how meaningful these things are but I've become quite obsessed with my Windows Experience Index scores. Here's my old machine, just before I moved its hard drive over.:
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;">![d520+wei.png](d520+wei.png)</a></div>
-<br />
+
+
+
 And my new one:
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;">![e6520+wei.png](e6520+wei.png)</a></div>
-<br />
+
+
+
 That's a big leap, and I can feel it.

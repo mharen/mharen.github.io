@@ -25,6 +25,6 @@ I recall similar experiences with my <a href="http://support.dlink.com/products/
 
 My point is that this technology has had plenty of time to mature. I'd rather see advancements in stability instead of speed. For nearly all users, speed isn't the issue.
 
-If you have had <em>good</em> experiences with your wireless connection, please comment on what equipment you have. It might also be helpful to know if your access point is open or closed (if you don't know what that means and you set this thing up yourself, your router is <em>open</em>).
+If you have had *good* experiences with your wireless connection, please comment on what equipment you have. It might also be helpful to know if your access point is open or closed (if you don't know what that means and you set this thing up yourself, your router is *open*).
 
-Finally, if you are using a Mac, don't bother commenting. My iBook rocks with <em>any</em> WiFi connection.
+Finally, if you are using a Mac, don't bother commenting. My iBook rocks with *any* WiFi connection.

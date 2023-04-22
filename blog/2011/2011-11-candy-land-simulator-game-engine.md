@@ -14,8 +14,10 @@ time_to_read: 5
 title: 'A Candy Land Simulator: The Game Engine'
 ---
 
-<p><em>Note: this post is from a </em><a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator"><em>series on Candy Land</em></a><em>.</em></p>
-<p>Last time we captured the board and the card deck into Javascript objects that look like this:</p>  <pre class="csharpcode"><span class="kwrd">var</span> board = [
+
+*Note: this post is from a *<a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator">*series on Candy Land*</a>*.*
+
+Last time we captured the board and the card deck into Javascript objects that look like this:  <pre class="csharpcode"><span class="kwrd">var</span> board = [
     { color: <span class="str">'Red'</span> },
     { color: <span class="str">'Orange'</span>, bridgeTo: 59 }
     <span class="rem">// ...</span>
@@ -26,20 +28,25 @@ title: 'A Candy Land Simulator: The Game Engine'
     <span class="rem">// ...</span>
 ];</pre>
 
-<p><a href="http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/">![players%25255B7%25255D.jpg](players%25255B7%25255D.jpg)</a></p>
 
-<p>Now we need to simply draw cards and keep track of a player through the game. I guess we should come up with some simple way to track that. Players will have a name and a position on the board. We also need to know if the player is losing a turn because they stepped on a licorice space. This should do it:</p>
+<a href="http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/">![players%25255B7%25255D.jpg](players%25255B7%25255D.jpg)</a>
+
+
+Now we need to simply draw cards and keep track of a player through the game. I guess we should come up with some simple way to track that. Players will have a name and a position on the board. We also need to know if the player is losing a turn because they stepped on a licorice space. This should do it:
 
 <pre class="csharpcode"><span class="kwrd">var</span> players = [
     { name: <span class="str">'Michael'</span>, isLosingATurn: <span class="kwrd">false</span>, position: -1 },
     { name: <span class="str">'Thing 1'</span>, isLosingATurn: <span class="kwrd">false</span>, position: -1 },
 ];</pre>
 
-<p>As we design the rest of the engine, we’ll add to that as necessary.</p>
 
-<p>OK, now we need to create a game loop. A game loop basically covers all the actions that happen in one cycle of the game. Since Candy Land players don’t affect each other (except for a shared deck of cards), all the interesting stuff happens in the player loop, with alternating players.</p>
+As we design the rest of the engine, we’ll add to that as necessary.
 
-<p>Here’s a <a href="http://jsfiddle.net/mharen/crgAX/6/">first pass</a> of what we need:</p>
+
+OK, now we need to create a game loop. A game loop basically covers all the actions that happen in one cycle of the game. Since Candy Land players don’t affect each other (except for a shared deck of cards), all the interesting stuff happens in the player loop, with alternating players.
+
+
+Here’s a <a href="http://jsfiddle.net/mharen/crgAX/6/">first pass</a> of what we need:
 
 <pre class="csharpcode"><span class="kwrd">var</span> players = [
     { name: <span class="str">'Michael'</span>, isLosingATurn: <span class="kwrd">false</span>, position: -1, isWinner: <span class="kwrd">false</span>, moves: 0 },
@@ -53,7 +60,9 @@ title: 'A Candy Land Simulator: The Game Engine'
           
     <span class="rem">// initialize the deck</span>
 
-    <span class="rem">// call &quot;DoGameLoop&quot; (pass in the board and deck) until it returns false, <br />    // which indicates the game is over</span>
+    <span class="rem">// call &quot;DoGameLoop&quot; (pass in the board and deck) until it returns false, 
+
+    // which indicates the game is over</span>
     
     <span class="rem">// when the game is over print out summary stats (e.g move counts) and exit</span>
 }
@@ -79,7 +88,9 @@ title: 'A Candy Land Simulator: The Game Engine'
     
     <span class="rem">// if the space we landed on is a bridge, follow the bridge</span>
     
-    <span class="rem">// if we are now on a lose-a-turn space, turn <br />    // on the &quot;isLosingATurn&quot; property so we know </span>
+    <span class="rem">// if we are now on a lose-a-turn space, turn 
+
+    // on the &quot;isLosingATurn&quot; property so we know </span>
     <span class="rem">// to skip our turn the next time around</span>
 }
 
@@ -98,4 +109,5 @@ title: 'A Candy Land Simulator: The Game Engine'
     <span class="rem">// return a new board</span>
 }</pre>
 
-<p>That should read pretty easily from top to bottom (you may have to use your imagination a little bit). We’ll implement some of these in the next post.</p>
+
+That should read pretty easily from top to bottom (you may have to use your imagination a little bit). We’ll implement some of these in the next post.

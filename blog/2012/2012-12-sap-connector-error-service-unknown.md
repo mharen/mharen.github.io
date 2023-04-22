@@ -14,17 +14,21 @@ time_to_read: 5
 title: "SAP Connector: \u201CERROR service '?' unknown\u201D (SOLVED)"
 ---
 
-<p>So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working great to connect your .NET application to SAP when suddenly you start getting this error:</p>
+
+So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working great to connect your .NET application to SAP when suddenly you start getting this error:
 <blockquote> 
-<p><strong>ERROR service '?' unknown</strong></p>
+
+<strong>ERROR service '?' unknown</strong>
 </blockquote>
-<p>You probably have some code like this (or you’re just trying to <a href="http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/">login</a> or get your app to run):</p>  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
+
+You probably have some code like this (or you’re just trying to <a href="http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/">login</a> or get your app to run):  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
 
 <span class="rem">// other init...</span>
 
 Server.Start();</pre>
 
-<p>So what happened? I’m guessing you have a new machine or recently removed some SAP-related software. I’m also guessing that if you install the SAP Logon pad, this issue will go away. But you don’t have to go to all that trouble! In my experience, all you need to do is add some configuration to the system services file. Here’s how:</p>
+
+So what happened? I’m guessing you have a new machine or recently removed some SAP-related software. I’m also guessing that if you install the SAP Logon pad, this issue will go away. But you don’t have to go to all that trouble! In my experience, all you need to do is add some configuration to the system services file. Here’s how:
 
 <ol>
   <li>Open Notepad as an administrator </li>
@@ -34,7 +38,9 @@ Server.Start();</pre>
   <li>Look around for services starting with &quot;sap&quot; </li>
 
   <li>Assuming you don't find much, add these lines to the end: 
-    <br />
+    
+
+
 
     <pre>sapdp00  3200/tcp
 sapdp01  3201/tcp
@@ -241,10 +247,13 @@ sapgw99  3399/tcp</pre>
   <li>Save the file and restart your application (rebooting the machine shouldn't be required) </li>
 </ol>
 
-<p>Strictly speaking, you should only really one or two of these—the one that corresponds to your SAP system—but I don’t think it hurts anything to have them all in there.</p>
+
+Strictly speaking, you should only really one or two of these—the one that corresponds to your SAP system—but I don’t think it hurts anything to have them all in there.
 
 <h3>Other Things To Try</h3>
 
-<p>If that doesn’t fix it, you might also make sure you’re <a href="http://scn.sap.com/message/7362628">using a hostname</a> (not an IP address) and that you are using the <a href="http://scn.sap.com/message/10615183#10615183">right connection</a> for your situation (ashost/application server host vs. message server host else there is).</p>
 
-<p>I also stumbled across a user <a href="http://social.technet.microsoft.com/Forums/en-US/identitylifecyclemanager/thread/6b0c21e2-3f10-47df-be92-f9b682805dd9/">reporting an issue with tabs vs. spaces</a>. I’ve not had any trouble with spaces but your mileage may vary.</p>
+If that doesn’t fix it, you might also make sure you’re <a href="http://scn.sap.com/message/7362628">using a hostname</a> (not an IP address) and that you are using the <a href="http://scn.sap.com/message/10615183#10615183">right connection</a> for your situation (ashost/application server host vs. message server host else there is).
+
+
+I also stumbled across a user <a href="http://social.technet.microsoft.com/Forums/en-US/identitylifecyclemanager/thread/6b0c21e2-3f10-47df-be92-f9b682805dd9/">reporting an issue with tabs vs. spaces</a>. I’ve not had any trouble with spaces but your mileage may vary.

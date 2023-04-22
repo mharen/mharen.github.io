@@ -19,19 +19,49 @@ In an effort to reduce my support calls, I am bringing back the "Fix it yourself
 
 While I hope that the content on my site is still mildly distracting, I think it is time for the page to come back, albiet in "post" form. So here you go.
 
-<h3>Basics</h3><br />First off, if you don't have WindowsXP, you are in for a world of pain. Most of the tips below will work for you should know that you are using an operating system with security analogous to a straw house with all the doors and windows open...on a windy day...in Kansas...during tornado season...with Dorothy.
+<h3>Basics</h3>
 
-So, you should have Windows XP and it damn well should have Service Pack 2. Here's the easiest way to check: Hold with <em>windows </em>key on your keyboard (b/t Ctrl and Alt) and press the <em>break </em>key (usually above the 10-keypad or the backspace key). This will bring up <em>System Properties</em> window. If you already have Service Pack 2, the first section will say so. DO NOT go poking around in the other tabs--just hit Cancel to close the window.
+First off, if you don't have WindowsXP, you are in for a world of pain. Most of the tips below will work for you should know that you are using an operating system with security analogous to a straw house with all the doors and windows open...on a windy day...in Kansas...during tornado season...with Dorothy.
+
+So, you should have Windows XP and it damn well should have Service Pack 2. Here's the easiest way to check: Hold with *windows *key on your keyboard (b/t Ctrl and Alt) and press the *break *key (usually above the 10-keypad or the backspace key). This will bring up *System Properties* window. If you already have Service Pack 2, the first section will say so. DO NOT go poking around in the other tabs--just hit Cancel to close the window.
 
 Whether you have SP2 or not, go on, we'll get it later if you need it.
 
-<h3>Essentials</h3><br />Download and install these now.<br /><ol><br />	<li><a href="http://www.mozilla.com/firefox/">Firefox</a> (web browser)</li><br />	<li><a href="http://www.mozilla.com/thunderbird/">Thunderbird</a> (email, if you don't use only web-based email)</li><br />	<li><a href="http://www.microsoft.com/athome/security/spyware/software/default.mspx">Microsoft AntiSpyware</a> (free, for now)</li><br /></ol>
+<h3>Essentials</h3>
+
+Download and install these now.
+
+<ol>
+
+	<li><a href="http://www.mozilla.com/firefox/">Firefox</a> (web browser)</li>
+
+	<li><a href="http://www.mozilla.com/thunderbird/">Thunderbird</a> (email, if you don't use only web-based email)</li>
+
+	<li><a href="http://www.microsoft.com/athome/security/spyware/software/default.mspx">Microsoft AntiSpyware</a> (free, for now)</li>
+
+</ol>
 
 The above titles are FREE and of very high quality. I suggest installing them and setting them to update automatically. Then, use them in place of Internet Explorer and Outlook Express. Now's the part where you have options...
 
 If you have a virus scanner installed, update it now. Then, set it to update automatically. If you cannot update because your subscription is over, you have two options. You can either get a new antivirus package, or pay the fee for the one you have. Obviously paying the $20-$40 to keep the one you have is easier. 
 
-For the cheapskates out there like me, follow these steps to get you 12 months of free virus scanning:<br /><ol><br />	<li>Uninstall that McAfee crap that came with your machine.</li><br />	<li>Then, open up that red shield in your task bar--the one warning you about a lack of virus protection.</li><br />	<li>Click on Recommendations</li><br />	<li>Where it says, "Get another antivirus program." click "How?"</li><br />	<li>Follow onscreen instructions. Note that the CA antivirus comes with 12-months free.</li><br />	<li>Let the install actually scan your computer--it takes forever but it is well worth it!</li><br /></ol>
+For the cheapskates out there like me, follow these steps to get you 12 months of free virus scanning:
+
+<ol>
+
+	<li>Uninstall that McAfee crap that came with your machine.</li>
+
+	<li>Then, open up that red shield in your task bar--the one warning you about a lack of virus protection.</li>
+
+	<li>Click on Recommendations</li>
+
+	<li>Where it says, "Get another antivirus program." click "How?"</li>
+
+	<li>Follow onscreen instructions. Note that the CA antivirus comes with 12-months free.</li>
+
+	<li>Let the install actually scan your computer--it takes forever but it is well worth it!</li>
+
+</ol>
 
 Obviously you will have this problem again in 12 months...
 

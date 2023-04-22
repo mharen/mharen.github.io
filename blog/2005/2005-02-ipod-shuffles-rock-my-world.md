@@ -11,7 +11,9 @@ time_to_read: 5
 title: iPod Shuffles Rock (my world)!
 ---
 
-So...<br />Last week I was introduced to the <a href="http://www.apple.com/ipodshuffle/">iPod Shuffle</a>.  Cute.  Small (smaller than a pack of sugar free gum, in fact).  Simple.  I am the perfect demographic for this item :)  
+So...
+
+Last week I was introduced to the <a href="http://www.apple.com/ipodshuffle/">iPod Shuffle</a>.  Cute.  Small (smaller than a pack of sugar free gum, in fact).  Simple.  I am the perfect demographic for this item :)  
 
 But, I told myself, I already have an iPod.  First generation.  That is big.  And crashes.  So I convinced myself that the iPod shuffle would have to wait until some occasion that Michael could buy it for me.  The next day, my iPod dies.  Battery is completely useless, and it can't even hold a charge for the first two words of a song.  Now, I need some sort of music player for the gym and for running, so I had to do something about this problem.  You know how much it costs to replace the battery on an iPod?  $99.  And how much does a nice shiny new small cute simple iPod shuffle cost?  $99.  I think it was a God thing :)
 

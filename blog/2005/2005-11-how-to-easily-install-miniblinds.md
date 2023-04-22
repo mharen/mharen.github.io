@@ -15,7 +15,7 @@ If you have ever installed miniblinds, good for you. I recently moved into a new
 
 ![DSCF1394.JPG](DSCF1394.JPG)
 
-Further investigation revealed that the problem was with the window frame. You see, my windows are surrounded by a nice sharp edge. To create this edge, the builder uses a metal strip on the corner (drywall edges are not so nice). The problem is that the crummy screws you get with the blinds are nearly immpossible to get <em>through</em> this metal strip.
+Further investigation revealed that the problem was with the window frame. You see, my windows are surrounded by a nice sharp edge. To create this edge, the builder uses a metal strip on the corner (drywall edges are not so nice). The problem is that the crummy screws you get with the blinds are nearly immpossible to get *through* this metal strip.
 
 ![DSCF1395.JPG](DSCF1395.JPG)
 

@@ -13,8 +13,10 @@ time_to_read: 5
 title: Automating Minitab with C#
 ---
 
-<p>My job takes me a lot of different places and I work with a lot of different technologies along the way. Recently my team and I were tasked with a sort of <a href="http://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">ETL</a>/reporting project involving some bizarrely formatted flat files, an Oracle database, and a couple Minitab macros. It was actually very straight forward except for one piece: automating Minitab.</p>
-<p>I’m sharing the core piece of our development below in hopes that this will save a future dev some grief. I know that this looks very simple, and it is. Getting down to these few lines was not, I assure you, easy. A shout out to <a href="http://www.twitter.com/xover9000" target="_blank">@xover9000</a> for doing pretty much all of this:</p>
+
+My job takes me a lot of different places and I work with a lot of different technologies along the way. Recently my team and I were tasked with a sort of <a href="http://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">ETL</a>/reporting project involving some bizarrely formatted flat files, an Oracle database, and a couple Minitab macros. It was actually very straight forward except for one piece: automating Minitab.
+
+I’m sharing the core piece of our development below in hopes that this will save a future dev some grief. I know that this looks very simple, and it is. Getting down to these few lines was not, I assure you, easy. A shout out to <a href="http://www.twitter.com/xover9000" target="_blank">@xover9000</a> for doing pretty much all of this:
 <blockquote>   <pre class="csharpcode"><span class="rem">// the basic pieces</span>
 var MtbApp = <span class="kwrd">new</span> Mtb.Application();
 var MtbProj = MtbApp.ActiveProject;
@@ -38,6 +40,8 @@ MtbProj.ExecuteCommand(<span class="str">@&quot;%C:\Path\To\YourMacro.mac&quot;<
 MtbApp.Quit();</pre>
 </blockquote>
 
-<p>Through those objects you do have access to all kinds of functionality if you need, but just for running macros those eight lines ought to cover it.</p>
 
-<p>If you’re using a recent version of .NET, any errors that occur while running the above snippet will be raised as <em>COMException</em>s. The <em>Application</em> object has some error-related properties on it but in my experience their contents are copied into the <em>COMException</em> for you so that’s probably all you really need.</p>
+Through those objects you do have access to all kinds of functionality if you need, but just for running macros those eight lines ought to cover it.
+
+
+If you’re using a recent version of .NET, any errors that occur while running the above snippet will be raised as *COMException*s. The *Application* object has some error-related properties on it but in my experience their contents are copied into the *COMException* for you so that’s probably all you really need.

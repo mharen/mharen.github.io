@@ -12,14 +12,20 @@ time_to_read: 5
 title: Generating Super Shiny, Hopefully Secure Tokens
 ---
 
-<p>I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:</p>
+
+I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:
 <blockquote> 
-<p>“My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –<a href="http://www.demetrimartin.com/">Demetri Martin</a> (<a href="http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/">via</a>)</p>
+
+“My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –<a href="http://www.demetrimartin.com/">Demetri Martin</a> (<a href="http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/">via</a>)
 </blockquote>
-<p>Now would be a good time for you to stop reading.</p>  <hr />
-<p>I was working on a little security related code today which required the generation of unique and random tokens. I’m always nervous working with crypto because it’s so easy to fail. </p>
-<p>But here I am, ready to fail.</p>
-<p>So like I said, I need to create a bunch of tokens—blocks of text or numbers. They can’t be easily guessed and need to be unique. Let’s see if I can’t screw this up.</p>  <pre class="csharpcode">        <span class="rem">/// &lt;summary&gt;</span>
+
+Now would be a good time for you to stop reading.  <hr />
+
+I was working on a little security related code today which required the generation of unique and random tokens. I’m always nervous working with crypto because it’s so easy to fail. 
+
+But here I am, ready to fail.
+
+So like I said, I need to create a bunch of tokens—blocks of text or numbers. They can’t be easily guessed and need to be unique. Let’s see if I can’t screw this up.  <pre class="csharpcode">        <span class="rem">/// &lt;summary&gt;</span>
         <span class="rem">/// Generate a decently long string o random characters, suitable for tokens</span>
         <span class="rem">/// &lt;/summary&gt;</span>
         <span class="rem">/// &lt;returns&gt;a string of gobbledygook&lt;/returns&gt;</span>
@@ -45,8 +51,11 @@ title: Generating Super Shiny, Hopefully Secure Tokens
         }
         <span class="kwrd">static</span> RandomNumberGenerator BetterRandom = <span class="kwrd">new</span> RNGCryptoServiceProvider();</pre>
 
-<p>Basically I take two components—a 16-bit <a href="http://en.wikipedia.org/wiki/Globally_Unique_Identifier">GUID</a>, and a 44-byte chunk of random bits. The GUID would <a href="http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx">normally be enough</a> to satisfy me as they are pretty much unique (and the Win32 algorithm might even guarantee them to be unique when considering a single machine) <em>but</em>, I was afraid they might be predictable as they <a href="http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx">aren’t actually all that random</a>. </p>
 
-<p>How’d I come up with 44 bytes (352 bits)? It looks nice. I guessed a few numbers until I got the encoded output to be of reasonable size. Which brings me to the Base64 conversion. This just takes the binary blob of bits and turns them into simple, printable characters so I can pass them around in URLs.</p>
+Basically I take two components—a 16-bit <a href="http://en.wikipedia.org/wiki/Globally_Unique_Identifier">GUID</a>, and a 44-byte chunk of random bits. The GUID would <a href="http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx">normally be enough</a> to satisfy me as they are pretty much unique (and the Win32 algorithm might even guarantee them to be unique when considering a single machine) *but*, I was afraid they might be predictable as they <a href="http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx">aren’t actually all that random</a>. 
 
-<p>If you’re know of any weaknesses with this approach, please share! Something like this will eventually guard something about as valuable as a garden gnome, so I’m not too worried about it yet. It’s certainly more secure than the simple passwords most of <em>us</em> use.</p>
+
+How’d I come up with 44 bytes (352 bits)? It looks nice. I guessed a few numbers until I got the encoded output to be of reasonable size. Which brings me to the Base64 conversion. This just takes the binary blob of bits and turns them into simple, printable characters so I can pass them around in URLs.
+
+
+If you’re know of any weaknesses with this approach, please share! Something like this will eventually guard something about as valuable as a garden gnome, so I’m not too worried about it yet. It’s certainly more secure than the simple passwords most of *us* use.

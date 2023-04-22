@@ -15,9 +15,12 @@ time_to_read: 5
 title: "How the Google Search \u201CDo a barrel roll\u201D Works"
 ---
 
-<p>As a web guy I was intrigued by today’s Google easter egg. If you haven’t heard, go to Google and search for “<a href="https://www.google.com/search?q=do+a+barrel+roll">Do a barrel roll</a>”. If you’re using a decent browser, the entire page will do fun things.</p>
-<p>![image%25255B4%25255D.png](image%25255B4%25255D.png)</p>
-<p>How do they do it? I jumped into the source to see. It’s a simple CSS transition:</p>  <pre class="csharpcode">@-moz-keyframes roll    { 100% { -moz-transform: rotate(360deg); } } 
+
+As a web guy I was intrigued by today’s Google easter egg. If you haven’t heard, go to Google and search for “<a href="https://www.google.com/search?q=do+a+barrel+roll">Do a barrel roll</a>”. If you’re using a decent browser, the entire page will do fun things.
+
+![image%25255B4%25255D.png](image%25255B4%25255D.png)
+
+How do they do it? I jumped into the source to see. It’s a simple CSS transition:  <pre class="csharpcode">@-moz-keyframes roll    { 100% { -moz-transform: rotate(360deg); } } 
 @-o-keyframes roll      { 100% { -o-transform: rotate(360deg); } } 
 @-webkit-keyframes roll { 100% { -webkit-transform: rotate(360deg); } } 
 body{ 

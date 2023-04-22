@@ -15,7 +15,8 @@ time_to_read: 5
 title: 'Chef on Windows Error: tar: Cannot fork: Function not implemented (Solved)'
 ---
 
-<p>I’m <a href="http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows">diving into</a> the fun world of <a href="http://www.opscode.com/chef/">Chef</a>. But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:</p><pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>knife cookbook site install getting-started</strong>
+
+I’m <a href="http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows">diving into</a> the fun world of <a href="http://www.opscode.com/chef/">Chef</a>. But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>knife cookbook site install getting-started</strong>
 Installing getting-started to C:/Users/mharen/Code/chef-repo/cookbooks
 Checking out the master branch.
 Pristine copy branch (chef-vendor-getting-started) exists, switching to it.
@@ -31,14 +32,18 @@ STDERR: <strong>tar: Cannot fork: Function not implemented
 ---- End output of tar zxvf C:/Users/mharen/Code/chef-repo/cookbooks/getting-started.tar.gz ----
 Ran tar zxvf C:/Users/mharen/Code/chef-repo/cookbooks/getting-started.tar.gz returned 2
 </pre>
-<p>Lame. After wasting an embarrassingly large amount of time on this issue, I figured it out: I had multiple installs of the `tar` command:</p><pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar</strong>
+
+Lame. After wasting an embarrassingly large amount of time on this issue, I figured it out: I had multiple installs of the `tar` command:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar</strong>
 C:\Program Files (x86)\Gow\bin\tar.EXE
 C:\chef\bin\tar.EXE
 c:\Git\bin\tar.EXE
 </pre>
-<p>And apparently some of them <a href="http://sourceforge.net/p/gnuwin32/discussion/74807/thread/c73aced2/">suck</a>. Hard. Since I’m playing with Chef, let’s just use that one—it probably works. This was as easy as updating my PATH variable to place `c:\chef\bin` at the beginning instead of the end (really just before the others found by `which`):</p>
-<p>![image%25255B3%25255D.png](image%25255B3%25255D.png)</a></p>
-<p>Once you fix the path, close and reopen your cmd window and try the command again:</p><pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar
+
+And apparently some of them <a href="http://sourceforge.net/p/gnuwin32/discussion/74807/thread/c73aced2/">suck</a>. Hard. Since I’m playing with Chef, let’s just use that one—it probably works. This was as easy as updating my PATH variable to place `c:\chef\bin` at the beginning instead of the end (really just before the others found by `which`):
+
+![image%25255B3%25255D.png](image%25255B3%25255D.png)</a>
+
+Once you fix the path, close and reopen your cmd window and try the command again:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar
 C:\chef\bin\tar.EXE
 </strong>c:\Git\bin\tar.EXE
 C:\Program Files (x86)\Gow\bin\tar.EXE
@@ -73,7 +78,8 @@ Fast-forward
 Cookbook getting-started version 0.4.0 successfully installed
 
 C:\Users\mharen\Code\chef-repo&gt;</pre>
-<p><strong>All fixed :)</strong></p>
+
+<strong>All fixed :)</strong>
 
 ---
 

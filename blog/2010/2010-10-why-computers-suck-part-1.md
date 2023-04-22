@@ -11,14 +11,26 @@ time_to_read: 5
 title: Why Computers Suck, Part 1
 ---
 
-<p>I work with a lot of remote machines and this usually involves some fairly unpolished VPN software. Today’s experience definitely takes the cake. </p>
-<p>When <em>you</em> login to your computer, here’s what probably happens:</p>  <ol>   <li>Turn on computer </li>    <li>Possibly enter username/password </li> </ol>
-<p>Done.</p>
-<p>Here’s how <em>I</em> login:</p>  <ol>   <li>Turn on my computer </li>    <li>Enter username/password </li>    <li>Launch Internet Explorer and go to specific address </li>    <li>Skip an SSL warning by clicking “Continue to this website (not recommended)”      <br />      <br />![image%5B37%5D.png](image%5B37%5D.png)</li> </ol>
-<p>Wait for what? Apparently I took too long doing all of the above and need to start again. Yikes!</p>
-<p>It’s completely not cool that this is what computers do to people. With the possible exception of entering my password, I am horrible unqualified to answer the majority of those questions.</p>
-<p>As part of my job, I strive to make situations like this less common.</p>
-<p>Oh, and in case you’re wondering why I have two RSA tokens in that second picture above, it’s because I have a different one for each company. Handy, right? (No.)</p>
+
+I work with a lot of remote machines and this usually involves some fairly unpolished VPN software. Today’s experience definitely takes the cake. 
+
+When *you* login to your computer, here’s what probably happens:  <ol>   <li>Turn on computer </li>    <li>Possibly enter username/password </li> </ol>
+
+Done.
+
+Here’s how *I* login:  <ol>   <li>Turn on my computer </li>    <li>Enter username/password </li>    <li>Launch Internet Explorer and go to specific address </li>    <li>Skip an SSL warning by clicking “Continue to this website (not recommended)”      
+
+      
+
+![image%5B37%5D.png](image%5B37%5D.png)</li> </ol>
+
+Wait for what? Apparently I took too long doing all of the above and need to start again. Yikes!
+
+It’s completely not cool that this is what computers do to people. With the possible exception of entering my password, I am horrible unqualified to answer the majority of those questions.
+
+As part of my job, I strive to make situations like this less common.
+
+Oh, and in case you’re wondering why I have two RSA tokens in that second picture above, it’s because I have a different one for each company. Handy, right? (No.)
 
 ---
 

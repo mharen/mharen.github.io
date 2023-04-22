@@ -18,8 +18,8 @@ I am not joking here. She is working her freaking tail off for those little punk
 
 ![apple.thumbnail.jpg](apple.thumbnail.jpg)This is a regular bio class—not enriched or college-prep or anything. The ability to read is apparently not a prerequisite. I took her first test and got a 98 on it—I haven’t seen any bio crap in more than 6 years and I missed one question. After giving the same test to 75 students, she had less than five As.
 
-This is easy stuff. For example, a question on lab safety: “True/False It is good practice to taste unknown liquids to identify the chemical present.” What?! Even my dog knows not to do that and he’ll eat <em>anything</em>.
+This is easy stuff. For example, a question on lab safety: “True/False It is good practice to taste unknown liquids to identify the chemical present.” What?! Even my dog knows not to do that and he’ll eat *anything*.
 
-I’m not sure what’s ok to write about and what’s off limits regarding her students so I’ll try to get Sarah to post some things. She has some really, really ridiculous stories. My current favorite is about her most disruptive student going to the administrator’s office to serve a suspension, only to find that he had received a second suspension that <em>same day</em> from a <em>different teacher</em> for a <em>completely unrelated antic</em>.
+I’m not sure what’s ok to write about and what’s off limits regarding her students so I’ll try to get Sarah to post some things. She has some really, really ridiculous stories. My current favorite is about her most disruptive student going to the administrator’s office to serve a suspension, only to find that he had received a second suspension that *same day* from a *different teacher* for a *completely unrelated antic*.
 
 On the plus side (for her), I don’t mind grading papers. I try to do as many quizzes and homework assignments as I can. The thing is though, I hate to alphabetize. I don’t know why—I just hate doing it. I finally started refusing to do that part—hey it’s my mental health or a clean stack of alphabetized papers. You can’t have both.

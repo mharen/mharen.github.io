@@ -14,7 +14,8 @@ time_to_read: 5
 title: Catching Unique Key Constraint Violations with Entity Framework and SQL Server
 ---
 
-<p>Suppose you want to submit a model to your database with Entity Framework. It might look something like this:</p>  <pre class="csharpcode"><span class="kwrd">using</span>(var db = <span class="kwrd">new</span> DatabaseContext()){
+
+Suppose you want to submit a model to your database with Entity Framework. It might look something like this:  <pre class="csharpcode"><span class="kwrd">using</span>(var db = <span class="kwrd">new</span> DatabaseContext()){
     <span class="rem">// add object to context that already exists in DB</span>
     <span class="rem">// db.Whatever.AddObject(...)</span>
     
@@ -22,25 +23,32 @@ title: Catching Unique Key Constraint Violations with Entity Framework and SQL S
     db.SaveChanges(); <span class="rem">// BOOM</span>
 }</pre>
 
-<p>Now suppose your database has a unique key constraint to prevent you from inserting duplicate data. If you do, your insert will bomb with an UpdateException:</p>
+
+Now suppose your database has a unique key constraint to prevent you from inserting duplicate data. If you do, your insert will bomb with an UpdateException:
 
 <blockquote>
 
-<p>An error occurred while updating the entries. See the inner exception for details.</p>
+
+An error occurred while updating the entries. See the inner exception for details.
 </blockquote>
 
-<p>The inner exception is more helpful:</p>
+
+The inner exception is more helpful:
 
 <blockquote>
 
-<p>Cannot insert duplicate key row in object '%.*ls' with unique index '%.*ls'. The duplicate key value is %ls.</p>
+
+Cannot insert duplicate key row in object '%.*ls' with unique index '%.*ls'. The duplicate key value is %ls.
 </blockquote>
 
-<p>We can catch that and display a nice message to the user, but first we should make sure you’re handling the right thing. We only want to catch the exception if we know that it’s a duplication issue (not any other db-related issue). </p>
 
-<p>Digging into the exception reveals that its inner exception is a SqlException, which itself has a SqlErrorCollection. Nice!</p>
+We can catch that and display a nice message to the user, but first we should make sure you’re handling the right thing. We only want to catch the exception if we know that it’s a duplication issue (not any other db-related issue). 
 
-<p>The SqlErrorCollection is populated by the SQL Server itself. What could it contain? I’m glad you asked! This query can help:</p>
+
+Digging into the exception reveals that its inner exception is a SqlException, which itself has a SqlErrorCollection. Nice!
+
+
+The SqlErrorCollection is populated by the SQL Server itself. What could it contain? I’m glad you asked! This query can help:
 
 <pre class="csharpcode"><span class="kwrd">SELECT</span> error, description
 <span class="kwrd">FROM</span> master..sysmessages
@@ -68,9 +76,11 @@ title: Catching Unique Key Constraint Violations with Entity Framework and SQL S
     </tr>
   </tbody></table>
 
-<p>So those are just the errors we want to check for, and if you want to handle something else, check that sysmessages table for your other options (it will give you all the error numbers, severities, descriptions, etc.). </p>
 
-<p>Here’s how:</p>
+So those are just the errors we want to check for, and if you want to handle something else, check that sysmessages table for your other options (it will give you all the error numbers, severities, descriptions, etc.). 
+
+
+Here’s how:
 
 <pre class="csharpcode"><span class="kwrd">try</span> {
     <span class="kwrd">using</span>(var db = <span class="kwrd">new</span> DatabaseContext()){
@@ -92,11 +102,14 @@ title: Catching Unique Key Constraint Violations with Entity Framework and SQL S
     }
 }</pre>
 
-<p>First we make sure the inner exception is actually a SqlException, and then we confirm that it contains one the errors we want to handle.</p>
 
-<p>Of course, this might be even prettier as an extension method that wraps the SaveChanges call (or a generic Func()) with all the ugly exception checking code…</p>
+First we make sure the inner exception is actually a SqlException, and then we confirm that it contains one the errors we want to handle.
 
-<p><strong>Note:</strong> if you would prefer to actually check for duplicates before sending the insert, you can, but make sure you check atomically to avoid a concurrency issue. If you don’t, another transaction could insert a record which conflicts with yours between the command that checks for the duplicate and the command that inserts the row. </p>
+
+Of course, this might be even prettier as an extension method that wraps the SaveChanges call (or a generic Func()) with all the ugly exception checking code…
+
+
+<strong>Note:</strong> if you would prefer to actually check for duplicates before sending the insert, you can, but make sure you check atomically to avoid a concurrency issue. If you don’t, another transaction could insert a record which conflicts with yours between the command that checks for the duplicate and the command that inserts the row. 
 
 ---
 
@@ -106,5 +119,9 @@ title: Catching Unique Key Constraint Violations with Entity Framework and SQL S
 
 Michael
 
-This is even better than Entity Framework:<br />https://www.kellermansoftware.com/p-47-net-data-access-layer.aspx<br />
+This is even better than Entity Framework:
+
+https://www.kellermansoftware.com/p-47-net-data-access-layer.aspx
+
+
 

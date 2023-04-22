@@ -12,11 +12,39 @@ time_to_read: 5
 title: Check Out This Hot Dog
 ---
 
-If all goes smoothly, this may be our new friend!:<br />
+If all goes smoothly, this may be our new friend!:
+
+
 <div style="text-align: center;">![carl.jpg](carl.jpg)He is a four-month old beagle/basset hound. We've spent a fair amount of time with him at the <a href="http://www.spcawake.org">SPCA</a> and really like him. If our application comes through and the timing works out, we will be all set.
 
-Now all we need is a name! We have several ideas, including:<ul><br />	<li>Carl</li><br />	<li>Hendrix</li><br />	<li>Gordon</li><br />	<li>Sam</li><br />	<li>Pirate</li><br />	<li>Napoleon</li><br /></ul><br />My personal favorite has got to be Pirate. Just imagine the scenarios...
+Now all we need is a name! We have several ideas, including:<ul>
 
-<br /><blockquote>&gt; "Oh he's so cute, what's his name!?"<br />&lt; "Pirate."<br />&gt; "Oh...um...oh."<br />&gt; "Hi...pirate."<br />&lt; "Yarrrr!"</blockquote>
+	<li>Carl</li>
+
+	<li>Hendrix</li>
+
+	<li>Gordon</li>
+
+	<li>Sam</li>
+
+	<li>Pirate</li>
+
+	<li>Napoleon</li>
+
+</ul>
+
+My personal favorite has got to be Pirate. Just imagine the scenarios...
+
+
+
+<blockquote>&gt; "Oh he's so cute, what's his name!?"
+
+&lt; "Pirate."
+
+&gt; "Oh...um...oh."
+
+&gt; "Hi...pirate."
+
+&lt; "Yarrrr!"</blockquote>
 
 Feel free to submit any ideas as a comment--we are open to suggestions. We were pretty set on Charlie Brown but that was vetoed because we found it was used by another family member's dog.

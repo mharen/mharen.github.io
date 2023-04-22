@@ -15,7 +15,11 @@ On my recent journey to Canada (work, don't ask), I took it upon myself to learn
 
 Using a few signs as my <a href="http://en.wikipedia.org/wiki/Rosetta_stone">Rosetta Stone</a> I now consider myself a fluent speaker. Here's what I've learned so far...
 
-<h3>Metric Conversion</h3><br />Let's start with an easy one:<br />
+<h3>Metric Conversion</h3>
+
+Let's start with an easy one:
+
+
 <div class="compare">![DSCF1244.jpg](DSCF1244.jpg)
 <div class="compare">![>	<li value=](>	<li value=)
 <div class="compare">![>	<li value=](>	<li value=)Awesome, now I have a fluent vocabulary of 17 words. My next challenge is to communicate with others using only these words.  Feel free to submit your suggested sentences as a comment.

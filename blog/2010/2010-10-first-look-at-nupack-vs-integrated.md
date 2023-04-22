@@ -12,34 +12,57 @@ title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 ---
 
 <h4>Installation</h4>
-<p>Couldn’t be easier:</p>  <ul>   <li>![image2.png](image2.png)<a href="http://nupack.codeplex.com/"><u><font color="#0066cc">http://nupack.codeplex.com/</font></u></a> </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
-<p>Fire up Visual Studio 2010 and open the Package Manager Console under View &gt; Other Windows &gt; Package Manager Console (or press C-W, C-Z):</p>
-<p>![image23.png](image23.png)</p>
-<p>From here you get a nice, friendly command line window:</p>
-<blockquote>   <pre><code><p>PM&gt;</p></code></pre>
+
+Couldn’t be easier:  <ul>   <li>![image2.png](image2.png)<a href="http://nupack.codeplex.com/"><u><font color="#0066cc">http://nupack.codeplex.com/</font></u></a> </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
+
+Fire up Visual Studio 2010 and open the Package Manager Console under View &gt; Other Windows &gt; Package Manager Console (or press C-W, C-Z):
+
+![image23.png](image23.png)
+
+From here you get a nice, friendly command line window:
+<blockquote>   <pre><code>
+PM&gt;</code></pre>
 </blockquote>
 
-<p>This is a PowerShell console so the standard pattern of commands is available with the “-package” suffix. For example, to see what’s available, try List-Package:</p>
+
+This is a PowerShell console so the standard pattern of commands is available with the “-package” suffix. For example, to see what’s available, try List-Package:
 
 <blockquote>
   <pre>  <pre>PM&gt; <strong>List-Package</strong></pre>
-Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0.0 Adam.JSGenerator helps producing snippets...<br />Agatha-rrsl      1.2.0 Request/Response Service Layer for .NET <br />AntiXSS          4.0.1 AntiXSS is an encoding library which uses...<br />Antlr            3.1.1 ANother Tool for Language Recognition...<br />Antlr            3.1.3 ANother Tool for Language Recognition... </pre>
+Id Version Description 
+
+-- ------- ----------- 
+
+Adam.JSGenerator 1.1.0.0 Adam.JSGenerator helps producing snippets...
+
+Agatha-rrsl      1.2.0 Request/Response Service Layer for .NET 
+
+AntiXSS          4.0.1 AntiXSS is an encoding library which uses...
+
+Antlr            3.1.1 ANother Tool for Language Recognition...
+
+Antlr            3.1.3 ANother Tool for Language Recognition... </pre>
 
   <pre>&lt;snip&gt; </pre>
 </blockquote>
 
 <blockquote>
 
-<p>PM&gt; </p>
+
+PM&gt; 
 </blockquote>
 
-<p>Nice! OK, Let’s open up a new ASP.NET MVC App:</p>
 
-<p>![image22.png](image22.png)</p>
+Nice! OK, Let’s open up a new ASP.NET MVC App:
 
-<p>And throw together a simple MVC app:</p>
 
-<p>Model:</p>
+![image22.png](image22.png)
+
+
+And throw together a simple MVC app:
+
+
+Model:
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">namespace</span> TechTalk7.Models
@@ -52,7 +75,8 @@ Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0
 }</pre>
 </blockquote>
 
-<p>Controller:</p>
+
+Controller:
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">namespace</span> TechTalk7.Controllers
@@ -78,7 +102,8 @@ Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0
 }</pre>
 </blockquote>
 
-<p>View:</p>
+
+View:
 
 <blockquote>
   <pre class="csharpcode">    &lt;h2&gt;Index&lt;/h2&gt;
@@ -95,22 +120,34 @@ Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0
     &lt;/ol&gt;</pre>
 </blockquote>
 
-<p>Output:</p>
 
-<p>![image26.png](image26.png)</p>
+Output:
 
-<p>It works! Now let’s improve that view code by trying out that fancy <a href="http://mvccontrib.codeplex.com/wikipage?title=T4MVC">T4MVC</a> stuff I’ve <a href="http://channel9.msdn.com/blogs/jongalloway/jon-takes-five-with-david-ebbo-on-t4mvc">heard</a> so much about:</p>
+
+![image26.png](image26.png)
+
+
+It works! Now let’s improve that view code by trying out that fancy <a href="http://mvccontrib.codeplex.com/wikipage?title=T4MVC">T4MVC</a> stuff I’ve <a href="http://channel9.msdn.com/blogs/jongalloway/jon-takes-five-with-david-ebbo-on-t4mvc">heard</a> so much about:
 
 <blockquote>
-  <pre><code><p>PM&gt; <strong>Add-Package t4mvc</strong>     <br />Successfully added 'T4MVC 2.6.30' to TechTalk7 
-<br />PM&gt; </p></code></pre>
+  <pre><code>
+PM&gt; <strong>Add-Package t4mvc</strong>     
+
+Successfully added 'T4MVC 2.6.30' to TechTalk7 
+
+
+PM&gt; </code></pre>
 </blockquote>
 
-<p>That was easy. But what just happened? It looks like some files were added:</p>
 
-<p align="center">![image13.png](image13.png)</p>
+That was easy. But what just happened? It looks like some files were added:
 
-<p>Sweet! Now I have T4MVC all ready to go and can do neat things like this:</p>
+
+
+![image13.png](image13.png)
+
+
+Sweet! Now I have T4MVC all ready to go and can do neat things like this:
 
 <blockquote>
   <pre class="csharpcode">    <span class="kwrd">&lt;</span><span class="html">ol</span><span class="kwrd">&gt;</span>
@@ -118,7 +155,7 @@ Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0
        { <span class="asp">%&gt;</span>
 
        <span class="kwrd">&lt;</span><span class="html">li</span><span class="kwrd">&gt;</span>
-        <span class="rem">&lt;!-- <em>old way</em>, without T4--&gt;</span>
+        <span class="rem">&lt;!-- *old way*, without T4--&gt;</span>
 <strong>        <span class="asp">&lt;%</span>=Html.ActionLink(I.Name, <span class="str">&quot;Details&quot;</span>, <span class="kwrd">new</span> { ID = I.ID }) <span class="asp">%&gt;</span>
 </strong>
         <span class="rem">&lt;!--new way, *with* T4--&gt;</span>
@@ -129,9 +166,11 @@ Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0
     <span class="kwrd">&lt;/</span><span class="html">ol</span><span class="kwrd">&gt;</span></pre>
 </blockquote>
 
-<p>Better. No more typo-prone strings, clunky object initializers, and it’s even a little shorter.</p>
 
-<p>Soon I’ll be checking out the Spark View Engine, too. With that, my code above could be replaced with something like this:</p>
+Better. No more typo-prone strings, clunky object initializers, and it’s even a little shorter.
+
+
+Soon I’ll be checking out the Spark View Engine, too. With that, my code above could be replaced with something like this:
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">viewdata</span> <span class="attr">Ideas</span><span class="kwrd">=&quot;List[[TechTalk7.Models.Idea]]&quot;</span><span class="kwrd">/&gt;</span>
@@ -143,4 +182,5 @@ Id Version Description <br />-- ------- ----------- <br />Adam.JSGenerator 1.1.0
 <span class="kwrd">&lt;/</span><span class="html">ol</span><span class="kwrd">&gt;</span></pre>
 </blockquote>
 
-<p><em>That </em>looks pretty nice. </p>
+
+*That *looks pretty nice. 

@@ -17,7 +17,9 @@ My super amazing wife has started her own blog.  It is phenomenal.  Some of the 
 
 
 
-<br />
+
+
+
 <span style="font-size: 75%;">*actually it is</span>
 
 ---

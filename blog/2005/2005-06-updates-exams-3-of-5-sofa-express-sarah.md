@@ -12,7 +12,9 @@ time_to_read: 5
 title: 'Updates: Exams (3 of 5), Sofa Express, Sarah''s Car'
 ---
 
-<h3>Exams</h3><br />So far, exams have gone well. First I had my ice skating exam. No joke ;). I got a 98% in the class. That's not bad considering I sprained my ankle pretty badly a few weeks ago. Sarah and Shelley both, of course, got above 100%. :P
+<h3>Exams</h3>
+
+So far, exams have gone well. First I had my ice skating exam. No joke ;). I got a 98% in the class. That's not bad considering I sprained my ankle pretty badly a few weeks ago. Sarah and Shelley both, of course, got above 100%. :P
 
 I took my CSE694 exam last Thursday and I think I did well. No big deal. The course is on data mining so it consists of about equal parts of hand waving and algorithms.
 
@@ -20,7 +22,9 @@ Then I had Math today. It was a piece of cake. The exam was comprehensive, cover
 
 My next two exams are Tuesday and Wednesday... ;s
 
-<h3>Sofa Express</h3><br />For graduation my parents gave us a bunch of money to buy furniture. I, to my great surprise, actually enjoyed the experience. I never thought I'd say it but there you go. We're having some cool living room stuff delivered the day we move in. Of course I wouldn't bring it up if the story stopped here...
+<h3>Sofa Express</h3>
+
+For graduation my parents gave us a bunch of money to buy furniture. I, to my great surprise, actually enjoyed the experience. I never thought I'd say it but there you go. We're having some cool living room stuff delivered the day we move in. Of course I wouldn't bring it up if the story stopped here...
 
 We placed our order at just about closing time one night and were told that we were the second sale of the day. They had 3 people working. Wow. I bet our salesman was 2 for 2. He took everything down, gave us 10% off, and zapped our credit card for 20%. The rest would be paid off over 12 months of interest free payments. So we're all set. 
 
@@ -28,7 +32,9 @@ A few days later, my dad gives me a postcard from sofa express advertising a 20%
 
 I was pretty shocked that this was such a complicated thing for them. Like I said, they had two sales the entire day...isn't this a pretty simple thing!? I can't wait to get my updated invoice...
 
-<h3>Sarah's Car</h3><br />Oh man, this is a good one. So i am driving though our little alley and I'm just about to pull into our parking lot when I see my neighbor backing towards me. I honk and attempt to get out of the way but all efforts are futile. He manages to not hear me, or avoid me. He backs right into the side of the rear driver's side door/wheel. The damage is very small but deep enough that it will require some painting.
+<h3>Sarah's Car</h3>
+
+Oh man, this is a good one. So i am driving though our little alley and I'm just about to pull into our parking lot when I see my neighbor backing towards me. I honk and attempt to get out of the way but all efforts are futile. He manages to not hear me, or avoid me. He backs right into the side of the rear driver's side door/wheel. The damage is very small but deep enough that it will require some painting.
 
 Since body shops calculate quotes with a magic formula that starts the bidding at $500, he wasn't happy. He tells me he's got this uncle of his who runs a body shop and can take care of it, no problem. At first this doesn't seem TOO bad. I mean, I'm not really liking the idea, but I'm still listening. Here's the problem: the guy keeps talking. I swear, the more he talks, the less I like the idea. It seems that his uncle works only during the summer. It also seems that the guy who hit me (my student neighbor who is currently flaming up his charcoal grill on his covered, wood porch) is the one who is actually going to do the work, he just wants his uncle to be there to be sure he does everything correctly. I'd really like to help this guy out but I'm not comfortable sending my car with him to a shop that's 45 minutes away so he can hack away at it.
 

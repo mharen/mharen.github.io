@@ -15,13 +15,25 @@ Michael: in computers, what is 1*1.5?
 
 sarah: 2
 
-Michael: good guess<br />no
+Michael: good guess
 
-sarah: 1<br />?
+no
 
-Michael: it is typically 12<br />1<br />1<br />integer arith.
+sarah: 1
 
-sarah: ah<br />i forgot about that
+?
+
+Michael: it is typically 12
+
+1
+
+1
+
+integer arith.
+
+sarah: ah
+
+i forgot about that
 
 Michael: i just discovered a HUGE thing in VB that shocked me
 
@@ -31,9 +43,19 @@ Michael: yes
 
 sarah: what's that?
 
-Michael: CINT(1.9) is used to convert the argument to an integer<br />so, i would expect...<br />CINT(1.9) = 2<br />wait<br />I would expect cint(1.9)=1
+Michael: CINT(1.9) is used to convert the argument to an integer
 
-sarah: ya<br />no?
+so, i would expect...
+
+CINT(1.9) = 2
+
+wait
+
+I would expect cint(1.9)=1
+
+sarah: ya
+
+no?
 
 Michael: it doesn't. Cint ROUNDS....holy shit
 
@@ -45,7 +67,9 @@ sarah: crazy!
 
 Michael: this is so backwards
 
-sarah: you guys are nerdy<br />:)
+sarah: you guys are nerdy
+
+:)
 
 Michael: seriouslyt
 
@@ -53,10 +77,20 @@ sarah: i know!
 
 Michael: it gets worse
 
-sarah: it's so awesome!<br />and crazy!<br />crazily awesomely crazy!
+sarah: it's so awesome!
 
-Michael: it uses scientific rounding -- it rounds .5 to the nearest even!<br />cint(1.5) = 2<br />cint(2.5) = 2
+and crazy!
+
+crazily awesomely crazy!
+
+Michael: it uses scientific rounding -- it rounds .5 to the nearest even!
+
+cint(1.5) = 2
+
+cint(2.5) = 2
 
 sarah: omg no way!
 
-Michael: so to go from assuming it simply truncated to now rounding ina very unusual way is very disconcerting<br />you think you are funny but you are not.
+Michael: so to go from assuming it simply truncated to now rounding ina very unusual way is very disconcerting
+
+you think you are funny but you are not.

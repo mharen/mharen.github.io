@@ -12,7 +12,8 @@ time_to_read: 5
 title: Word Document Automation with .NET 4
 ---
 
-<p>I’ve been toying around with some document generation lately and thought I’d share a bit of what I’ve learned. Here’s a method for extracting a list of custom properties in use in the document:</p>  <pre class="csharpcode"><span class="rem">/// &lt;summary&gt;</span>
+
+I’ve been toying around with some document generation lately and thought I’d share a bit of what I’ve learned. Here’s a method for extracting a list of custom properties in use in the document:  <pre class="csharpcode"><span class="rem">/// &lt;summary&gt;</span>
 <span class="rem">/// Retrieves custom properties from a given Word document</span>
 <span class="rem">/// &lt;/summary&gt;</span>
 <span class="rem">/// &lt;param name=&quot;file&quot;&gt;Full path to the Word document&lt;/param&gt;</span>
@@ -56,7 +57,8 @@ title: Word Document Automation with .NET 4
     <span class="kwrd">return</span> DocProperties;
 }</pre>
 
-<p>This is so much easier and cleaner with .NET4’s new dynamic capabilities and how nice it plays with COM. To use this, add the following references to your project:</p>
+
+This is so much easier and cleaner with .NET4’s new dynamic capabilities and how nice it plays with COM. To use this, add the following references to your project:
 
 <ul>
   <li>Microsoft.Office.Interop.Word, v12 </li>

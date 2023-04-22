@@ -14,12 +14,20 @@ time_to_read: 5
 title: Reseeding *All* Identity Values in a Database
 ---
 
-<p><em>(This post was written against SQL Server 2000. The concepts apply to more recent versions, but the batch script may not work on them.)</em></p>
-<p>If you work intimately with databases for very long, you might run into an issue where you can’t insert a record because of some weird duplicate primary key error:</p>
+
+*(This post was written against SQL Server 2000. The concepts apply to more recent versions, but the batch script may not work on them.)*
+
+If you work intimately with databases for very long, you might run into an issue where you can’t insert a record because of some weird duplicate primary key error:
 <blockquote> 
-<p><font color="#ff0000">Msg 2627, Level 14, State 1, Line whatever        <br />Violation of PRIMARY KEY constraint 'PK'. Cannot insert duplicate key in object '&lt;table&gt;'.</font>       <br />The statement has been terminated.</p>
+
+<font color="#ff0000">Msg 2627, Level 14, State 1, Line whatever        
+
+Violation of PRIMARY KEY constraint 'PK'. Cannot insert duplicate key in object '&lt;table&gt;'.</font>       
+
+The statement has been terminated.
 </blockquote>
-<p>“That’s strange,” you’ll say, because it’s failing on an identity column, which is supposed to auto-increment. Here’s a test case that demonstrates this behavior, and the fix:</p>
+
+“That’s strange,” you’ll say, because it’s failing on an identity column, which is supposed to auto-increment. Here’s a test case that demonstrates this behavior, and the fix:
 <blockquote>   <pre class="csharpcode"><span class="kwrd">CREATE</span> <span class="kwrd">TABLE</span> IdentityTest (ID <span class="kwrd">INT</span> <span class="kwrd">IDENTITY</span> <span class="kwrd">PRIMARY</span> <span class="kwrd">KEY</span>)
 
 <span class="rem">-- insert auto-incrementing values</span>
@@ -46,13 +54,15 @@ INSERT IdentityTest <span class="kwrd">DEFAULT</span> <span class="kwrd">VALUES<
 <span class="kwrd">DROP</span> <span class="kwrd">TABLE</span> IdentityTest</pre>
 </blockquote>
 
-<p>The easiest way to fix this is to reset (“reseed”) the table’s identity value:</p>
+
+The easiest way to fix this is to reset (“reseed”) the table’s identity value:
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">DBCC</span> CHECKIDENT (IdentityTest, RESEED) -- fix!</pre>
 </blockquote>
 
-<p>This script, pulled from <a href="http://bit.ly/plJNx2">RedGate’s forums</a> (an awesome company, by the way), resets those identity values for every table in the database:</p>
+
+This script, pulled from <a href="http://bit.ly/plJNx2">RedGate’s forums</a> (an awesome company, by the way), resets those identity values for every table in the database:
 
 <blockquote>
   <pre class="csharpcode"><span class="rem">-- courtesy of RedGate forums http://bit.ly/plJNx2</span>
@@ -86,4 +96,5 @@ INSERT IdentityTest <span class="kwrd">DEFAULT</span> <span class="kwrd">VALUES<
 <span class="kwrd">DEALLOCATE</span> row</pre>
 </blockquote>
 
-<p>This is handy to have in the toolbox when a data sync screws up a bunch of tables. In fact, that’s the primary reason I’m posting it here—so <strong><em>I</em></strong> can refer back to it in the future as needed.</p>
+
+This is handy to have in the toolbox when a data sync screws up a bunch of tables. In fact, that’s the primary reason I’m posting it here—so <strong>*I*</strong> can refer back to it in the future as needed.

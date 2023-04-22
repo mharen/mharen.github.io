@@ -13,11 +13,16 @@ time_to_read: 5
 title: 'Project Noodle: Terminated'
 ---
 
-<p>It is with surprisingly little regret that I announce the termination of <a href="http://blog.wassupy.com/search/label/Project%20Noodle">Project Noodle</a>. Those not directly involved can stop reading now as this is completely unrelated to anything I’ve written about recently.</p>
-<p>Project Noodle was conceived with the goal of improving the recruitment process at my company. We don’t have trouble getting candidates but we don’t have easy access to data on how successful interviewers are—that’s what I wanted to fix.</p>
-<p>After working through some mockups and trying to define how we might measure a successful interviewer, I came to three conclusions:</p>  <ul>   <li>HR already collects a lot of information about candidates and interviews in a set of spreadsheets</li>    <li>We don’t have (and can’t collect) enough data to tell who is good or bad at interviewing</li>    <li>But even if we could, it’d take <em>years </em>and probably couldn’t be shared with us anyway</li> </ul>
-<p>The whole point of Project Noodle was to collect data with the goal of giving interviewers (e.g. <em>me</em>) feedback on how we’re doing. Since I can’t do that, I’ve decided to drop the project. </p>
-<p>As I <a href="../2011/2011-03-code-isnt-always-best-tool.html">just wrote</a>, knowing when to do this is important but difficult.</p>
+
+It is with surprisingly little regret that I announce the termination of <a href="http://blog.wassupy.com/search/label/Project%20Noodle">Project Noodle</a>. Those not directly involved can stop reading now as this is completely unrelated to anything I’ve written about recently.
+
+Project Noodle was conceived with the goal of improving the recruitment process at my company. We don’t have trouble getting candidates but we don’t have easy access to data on how successful interviewers are—that’s what I wanted to fix.
+
+After working through some mockups and trying to define how we might measure a successful interviewer, I came to three conclusions:  <ul>   <li>HR already collects a lot of information about candidates and interviews in a set of spreadsheets</li>    <li>We don’t have (and can’t collect) enough data to tell who is good or bad at interviewing</li>    <li>But even if we could, it’d take *years *and probably couldn’t be shared with us anyway</li> </ul>
+
+The whole point of Project Noodle was to collect data with the goal of giving interviewers (e.g. *me*) feedback on how we’re doing. Since I can’t do that, I’ve decided to drop the project. 
+
+As I <a href="../2011/2011-03-code-isnt-always-best-tool.html">just wrote</a>, knowing when to do this is important but difficult.
 
 ---
 

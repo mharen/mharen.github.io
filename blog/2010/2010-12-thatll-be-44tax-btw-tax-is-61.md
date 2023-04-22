@@ -12,13 +12,20 @@ time_to_read: 5
 title: "That\u2019ll be $44+\u201CTax\u201D (BTW, \u201Ctax\u201D is 61%)"
 ---
 
-<p><strong>Warning:</strong> if you are overwhelmed by a joyful Christmas spirit, you should probably not read this right now. It’s a rant.</p>
-<p>I don’t get out much. My last concert was…a while ago. There is something about buying tickets that hasn’t gotten any better in the years since, though: ridonkulous fees.</p>
-<p>Take, for example, the following invoice for four tickets to Toy Story on Ice (I have kids, ok?):</p>
-<p>![ticket%20racket%5B2%5D.png](ticket%20racket%5B2%5D.png)</p>
-<p>That’s $44 for the tickets, and $26.75 for…I don’t know what for. They are literally charging 61% extra. These are electronic tickets so they aren’t even <em>trying to hide the evil</em> with these fees. You don’t have bags to haul around like an airline—we’re talking about electrons here.</p>  <ul>   <li>“Handling fee”? This is 100% electronic—what are you “handling”? </li>    <li>“Convenience fee”? What the hell is that? I’m buying these online, which saves <strong>you</strong> money on printing, shipping, logistics, etc. Charging me extra for the privilege of saving you money is just absurd. Can you imagine buying any other product and paying more to download it than having it shipped to you?</li>    <li>“Facility fee”? Isn’t that what I bought the tickets for? Or did you forget to book the stadium when you booked Disney and now you’re short $200,000?</li> </ul>
-<p>What about tax? That’s one that I <strong>wouldn’t </strong>shy from but you <strong>don’t </strong>have that there. Odd.</p>
-<p>You know what, Quicken Loans Arena (and pretty much any place that sells tickets, probably)? You suck. <strong>Let’s make a deal</strong>: you keep your tiny, cold seats, $8 sodas and who-knows-what-parking spaces and I’ll keep my money and my sanity. Square?</p>
+
+<strong>Warning:</strong> if you are overwhelmed by a joyful Christmas spirit, you should probably not read this right now. It’s a rant.
+
+I don’t get out much. My last concert was…a while ago. There is something about buying tickets that hasn’t gotten any better in the years since, though: ridonkulous fees.
+
+Take, for example, the following invoice for four tickets to Toy Story on Ice (I have kids, ok?):
+
+![ticket%20racket%5B2%5D.png](ticket%20racket%5B2%5D.png)
+
+That’s $44 for the tickets, and $26.75 for…I don’t know what for. They are literally charging 61% extra. These are electronic tickets so they aren’t even *trying to hide the evil* with these fees. You don’t have bags to haul around like an airline—we’re talking about electrons here.  <ul>   <li>“Handling fee”? This is 100% electronic—what are you “handling”? </li>    <li>“Convenience fee”? What the hell is that? I’m buying these online, which saves <strong>you</strong> money on printing, shipping, logistics, etc. Charging me extra for the privilege of saving you money is just absurd. Can you imagine buying any other product and paying more to download it than having it shipped to you?</li>    <li>“Facility fee”? Isn’t that what I bought the tickets for? Or did you forget to book the stadium when you booked Disney and now you’re short $200,000?</li> </ul>
+
+What about tax? That’s one that I <strong>wouldn’t </strong>shy from but you <strong>don’t </strong>have that there. Odd.
+
+You know what, Quicken Loans Arena (and pretty much any place that sells tickets, probably)? You suck. <strong>Let’s make a deal</strong>: you keep your tiny, cold seats, $8 sodas and who-knows-what-parking spaces and I’ll keep my money and my sanity. Square?
 
 ---
 

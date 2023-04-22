@@ -12,13 +12,18 @@ time_to_read: 5
 title: 'Word Document Automation with .NET 4: Update All Fields'
 ---
 
-<p></p>
-<p>I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:</p>
+
+
+
+I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:
 <blockquote> 
-<p>I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two two. I would say &quot;Sweet.&quot; And then people would say, &quot;Mitch, how do I get a hold of you?&quot; I'd say, &quot;Just press two for a while. And when I answer, you will know you have pressed two enough.&quot; (<a href="http://en.wikiquote.org/wiki/Mitch_Hedberg">more classics</a> from the late and invariably hilarious Mitch Hedberg)</p>
+
+I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two two. I would say &quot;Sweet.&quot; And then people would say, &quot;Mitch, how do I get a hold of you?&quot; I'd say, &quot;Just press two for a while. And when I answer, you will know you have pressed two enough.&quot; (<a href="http://en.wikiquote.org/wiki/Mitch_Hedberg">more classics</a> from the late and invariably hilarious Mitch Hedberg)
 </blockquote>
-<p>Now would be a good time for you to stop reading. </p>  <hr />
-<p>On with the show! This handy method will attempt to update all the fields in the document passed to it:</p>  <pre class="csharpcode"><span class="rem">/// &lt;summary&gt;</span>
+
+Now would be a good time for you to stop reading.   <hr />
+
+On with the show! This handy method will attempt to update all the fields in the document passed to it:  <pre class="csharpcode"><span class="rem">/// &lt;summary&gt;</span>
 <span class="rem">/// Update damn near every field in the document</span>
 <span class="rem">/// &lt;/summary&gt;</span>
 <span class="rem">/// &lt;param name=&quot;document&quot;&gt;The document in dire need of updating&lt;/param&gt;</span>
@@ -78,7 +83,8 @@ title: 'Word Document Automation with .NET 4: Update All Fields'
 }</pre>
 <span class="Apple-style-span"><span class="Apple-style-span" style="text-align: left; line-height: 16px; font-family: verdana, arial, sans-serif; color: rgb(51,51,51); font-size: 13px;">
   
-<p>To use this, add the following references to your project:</p>
+
+To use this, add the following references to your project:
 
     <ul>
       <li>Microsoft.Office.Interop.Word, v12</li>
@@ -87,7 +93,8 @@ title: 'Word Document Automation with .NET 4: Update All Fields'
     </ul>
   </span></span>
 
-<p>It makes me cry a little to brute force every container I can think of this way. Surely there’s a better way. Maybe I could just traverse the documents DOM an update anything that looks like a field castable to a Field…I’ll think about that. Until then, this seems to work…</p>
+
+It makes me cry a little to brute force every container I can think of this way. Surely there’s a better way. Maybe I could just traverse the documents DOM an update anything that looks like a field castable to a Field…I’ll think about that. Until then, this seems to work…
 
 ---
 
@@ -97,7 +104,27 @@ title: 'Word Document Automation with .NET 4: Update All Fields'
 
 Note: the finally{} cleanup code ought be enhanced with a call to something <a href="http://stackoverflow.com/questions/1907270/c-outlook-2007-com-interop-application-does-not-exit" rel="nofollow">like this</a>:
 
-    private static void DisposeApp(Application WordApp)<br />    {<br />        if (WordApp != null)<br />        {<br />            if (WordApp.ActiveDocument != null)<br />            {<br />                (WordApp.ActiveDocument as _Document).Close();<br />            }<br />            (WordApp as _Application).Quit();
+    private static void DisposeApp(Application WordApp)
 
-            System.Runtime.InteropServices.Marshal.FinalReleaseComObject(WordApp);<br />        }<br />    }
+    {
+
+        if (WordApp != null)
+
+        {
+
+            if (WordApp.ActiveDocument != null)
+
+            {
+
+                (WordApp.ActiveDocument as _Document).Close();
+
+            }
+
+            (WordApp as _Application).Quit();
+
+            System.Runtime.InteropServices.Marshal.FinalReleaseComObject(WordApp);
+
+        }
+
+    }
 

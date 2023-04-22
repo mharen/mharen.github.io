@@ -19,6 +19,6 @@ Didn't see it? Look al ittle closer:
 
 ![DSCF1393-closeup.JPG](DSCF1393-closeup.JPG)
 
-You might notice a little foamy goodness leeching out of the <em>non</em>-rechargeable battery.
+You might notice a little foamy goodness leeching out of the *non*-rechargeable battery.
 
 Oooops! I wasn't trying to be cheap, I am just becoming senile.

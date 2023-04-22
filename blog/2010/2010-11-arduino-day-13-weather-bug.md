@@ -15,9 +15,14 @@ title: 'Arduino Day 13: Weather Bug'
 ---
 
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
-<p>Today’s quick and simple adaptation of Thursday’s build was suggested by my brother, Chris. It’s a simple traffic light view of the weather:</p>
-<p>The app parses XML files from the Internet and extracts a temperature value. If the temperature is less than 30 or over 100, it lights the red LED. If it’s between 30 and 60 or 90 and 100, the yellow LED lights. If it’s in the remaining sweet spot of 60-90, the green LED lights.</p>  <p align="center">![IMAG0774%5B4%5D.jpg](IMAG0774%5B4%5D.jpg)</p>
-<p>Build, circuit, schematic, and Arduino code are identical to my <a href="../2010/2010-11-arduino-day-11-extreme-feedback-for.html" target="_blank">previous project</a>.</p>  <h4>C# (Updated)</h4>
+
+Today’s quick and simple adaptation of Thursday’s build was suggested by my brother, Chris. It’s a simple traffic light view of the weather:
+
+The app parses XML files from the Internet and extracts a temperature value. If the temperature is less than 30 or over 100, it lights the red LED. If it’s between 30 and 60 or 90 and 100, the yellow LED lights. If it’s in the remaining sweet spot of 60-90, the green LED lights.  
+
+![IMAG0774%5B4%5D.jpg](IMAG0774%5B4%5D.jpg)
+
+Build, circuit, schematic, and Arduino code are identical to my <a href="../2010/2010-11-arduino-day-11-extreme-feedback-for.html" target="_blank">previous project</a>.  <h4>C# (Updated)</h4>
 <blockquote>   <pre class="csharpcode"><span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
 {
 
@@ -72,4 +77,5 @@ title: 'Arduino Day 13: Weather Bug'
 
 <h4>Next Steps</h4>
 
-<p>More projects!</p>
+
+More projects!

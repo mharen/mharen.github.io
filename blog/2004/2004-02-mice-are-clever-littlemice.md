@@ -18,6 +18,8 @@ The kits we used were by <a href="http://www.bulldogsecurity.com">bulldog securi
 
 Moving along...
 
-Hindsight is 20-20.<br />In my previous post I might have jumped the gun with declaring victory over the mice. I have found a couple dead mice throughout the house but only yesterday Shelley was greeted by a furry fiend while searching for something in the pantry. I think i have these little guys figured out now, though. At first i thought they were simply looking for food when they got into our poptarts and oatmeal. But now that they are hitting our canned goods, cereal, potatoes, and fruit snacks, I realize that these rodents are trying to starve us out! They must be hoarding this food somewhere-- they eat, by my estimates, 300lbs of food each day. 
+Hindsight is 20-20.
+
+In my previous post I might have jumped the gun with declaring victory over the mice. I have found a couple dead mice throughout the house but only yesterday Shelley was greeted by a furry fiend while searching for something in the pantry. I think i have these little guys figured out now, though. At first i thought they were simply looking for food when they got into our poptarts and oatmeal. But now that they are hitting our canned goods, cereal, potatoes, and fruit snacks, I realize that these rodents are trying to starve us out! They must be hoarding this food somewhere-- they eat, by my estimates, 300lbs of food each day. 
 
 I hope the mice get a chance to see this because i want them to know this, and know it well: we won't give up the fight! Speedy Gonzales, Mighty Mouse, Fival, and Stuart cannot save you now.

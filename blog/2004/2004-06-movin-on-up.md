@@ -11,6 +11,10 @@ time_to_read: 5
 title: Movin' on up..
 ---
 
-New address for the summer:<br />1185 Rose Court<br />Kent, OH 44240
+New address for the summer:
+
+1185 Rose Court
+
+Kent, OH 44240
 
 There'll still be people around at my usual address but for anything directly to sarah or myself, use the kent address.

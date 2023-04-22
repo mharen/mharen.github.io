@@ -15,21 +15,38 @@ title: 'Arduino Day 5: Fun With Charlieplexing'
 ---
 
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
-<p>Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from <a href="../2010/2010-11-arduino-day-4-fun-with-sound.html">yesterday’s fun</a>. In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. </p>
-<p>Fortunately there’s this thing called <a href="http://en.wikipedia.org/wiki/Multiplexing">multiplexing</a> (muxing) which lets you combine a bunch of signals together (board outputs), transmit them over fewer wires, and then demux them at the destination (LEDs).</p>
-<p>A particularly popular method of this in the Arduino world seems to be <a href="http://en.wikipedia.org/wiki/Charlieplexing">Charlieplexing</a>. Charlieplexing is pretty sweet because from <em>n</em> pins, you can individually address <em>n(n-1)</em> LEDs. For example, a mere 6 pins can address 30 LEDs. Nice!</p>
-<p>Speaking of Charlie. Did you guys see that “Lost” finale a while back? I can’t talk about it but <a href="http://www.collegehumor.com/video:1936291">this</a> sums up how I feel pretty well. I just watched that again and the pain/disappointment is still too real to discuss it.</p>
-<p>So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yesterday.&#160; The song has maybe 10 notes in total. I simply took the frequency range of those notes and broke it into six slices. As I mentioned yesterday, I have no musical skill whatsoever so these are completely arbitrary and not in any order.</p>
-<p>Here we go:</p>  <p align="center"></p>  <h4>Build</h4>
-<p>![IMAG0694%5B8%5D.jpg](IMAG0694%5B8%5D.jpg)</p>  <h4>Circuit</h4>
-<p>This doesn’t well represent the circuit:</p>
-<p>![day%205_bb%5B7%5D.png](day%205_bb%5B7%5D.png)</p>
-<p>It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.</p>
-<p>If you look closely in the build shot above you can see that I used four rows, and the middle two are common to provide less contorting of the LED leads.</p>  <h4>Schematic</h4>
-<p>I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:</p>
-<p>![day%205_schem%5B8%5D.png](day%205_schem%5B8%5D.png)</p>  <h4>Code</h4>
-<p>I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.</p>
-<p>Today’s changes are in bold:</p>
+
+Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from <a href="../2010/2010-11-arduino-day-4-fun-with-sound.html">yesterday’s fun</a>. In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. 
+
+Fortunately there’s this thing called <a href="http://en.wikipedia.org/wiki/Multiplexing">multiplexing</a> (muxing) which lets you combine a bunch of signals together (board outputs), transmit them over fewer wires, and then demux them at the destination (LEDs).
+
+A particularly popular method of this in the Arduino world seems to be <a href="http://en.wikipedia.org/wiki/Charlieplexing">Charlieplexing</a>. Charlieplexing is pretty sweet because from *n* pins, you can individually address *n(n-1)* LEDs. For example, a mere 6 pins can address 30 LEDs. Nice!
+
+Speaking of Charlie. Did you guys see that “Lost” finale a while back? I can’t talk about it but <a href="http://www.collegehumor.com/video:1936291">this</a> sums up how I feel pretty well. I just watched that again and the pain/disappointment is still too real to discuss it.
+
+So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yesterday.&#160; The song has maybe 10 notes in total. I simply took the frequency range of those notes and broke it into six slices. As I mentioned yesterday, I have no musical skill whatsoever so these are completely arbitrary and not in any order.
+
+Here we go:  
+
+  <h4>Build</h4>
+
+![IMAG0694%5B8%5D.jpg](IMAG0694%5B8%5D.jpg)  <h4>Circuit</h4>
+
+This doesn’t well represent the circuit:
+
+![day%205_bb%5B7%5D.png](day%205_bb%5B7%5D.png)
+
+It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.
+
+If you look closely in the build shot above you can see that I used four rows, and the middle two are common to provide less contorting of the LED leads.  <h4>Schematic</h4>
+
+I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:
+
+![day%205_schem%5B8%5D.png](day%205_schem%5B8%5D.png)  <h4>Code</h4>
+
+I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
+
+Today’s changes are in bold:
 <blockquote>   <pre class="csharpcode"><strong><span class="kwrd">int</span> Pins[] = { 2, 3, 4 };
 <span class="kwrd">int</span> Leds[6][2] = 
 {
@@ -229,8 +246,11 @@ title: 'Arduino Day 5: Fun With Charlieplexing'
 
 <h4>Next Steps</h4>
 
-<p>I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:</p>
 
-<p>![IMAG0704%5B5%5D.jpg](IMAG0704%5B5%5D.jpg)</p>
+I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:
 
-<p>(The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)</p>
+
+![IMAG0704%5B5%5D.jpg](IMAG0704%5B5%5D.jpg)
+
+
+(The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)

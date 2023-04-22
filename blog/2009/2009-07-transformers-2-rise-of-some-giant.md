@@ -12,10 +12,17 @@ time_to_read: 5
 title: Transformers 2, Rise of some Giant Robots
 ---
 
-<p>My darling wife agreed to see Transformers2 with me last weekend. We had a nice time and she actually enjoyed the move more than expected. I thought it was pretty good, too (though I had low, low expectations).</p>  <p align="center">![image%5B8%5D.png](image%5B8%5D.png) </p>
-<p>The best part was when Agent Simmons was on the phone with an aircraft carrier telling them to use the rail gun to hit the Decepticon on top of the pyramid, even though no one’s ever heard of Simmons and he doesn’t have clearance, yadda yadda, and my wife said this:</p>
+
+My darling wife agreed to see Transformers2 with me last weekend. We had a nice time and she actually enjoyed the move more than expected. I thought it was pretty good, too (though I had low, low expectations).  
+
+![image%5B8%5D.png](image%5B8%5D.png) 
+
+The best part was when Agent Simmons was on the phone with an aircraft carrier telling them to use the rail gun to hit the Decepticon on top of the pyramid, even though no one’s ever heard of Simmons and he doesn’t have clearance, yadda yadda, and my wife said this:
 <blockquote> 
-<p>“Oh come on! The military would never just trust some random guy. That’s not very believable.”</p>
+
+“Oh come on! The military would never just trust some random guy. That’s not very believable.”
 </blockquote>
-<p>I turned and stared at her for a few beats before responding, “that’s what you are having trouble believing? Not the alien robots…? Huh.” Priceless.</p>
-<p>By the way Optimus Prime dies half-way through. Oh wait: spoiler alert! Seriously though, I almost cried.</p>
+
+I turned and stared at her for a few beats before responding, “that’s what you are having trouble believing? Not the alien robots…? Huh.” Priceless.
+
+By the way Optimus Prime dies half-way through. Oh wait: spoiler alert! Seriously though, I almost cried.

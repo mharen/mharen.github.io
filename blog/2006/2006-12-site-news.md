@@ -21,7 +21,7 @@ So what happened? I'm not completely sure. My current theory is that our power w
 
 Anyway, even though I was down for several days the problem only took 45 seconds to fix. The delay was simply because I had to physically get to my machine (in my garage) and hook up a keyboard and monitor to it. All set now.
 
-<strong>Holidays - </strong>Sarah and I are traveling to Ohio for the holidays (that'd be a good time to steal my webserver! Keep in mind that it's 7 years old and a piece of crap, though). We are getting pretty close to calling it quits as far as the "let's go to every family and do a full Christmas with all of them" thing. We really love seeing family and doing Christmas with each of them (Sarah's mom, Sarah's dad, My mom, my dad) but our interstate-fragmented families, it's getting too hard. I think the problem will soon be that in an effort to enjoy Christmas with everyone, we'll in fact not enjoy Christmas with <em>anyone</em> (and annoy others, too!).
+<strong>Holidays - </strong>Sarah and I are traveling to Ohio for the holidays (that'd be a good time to steal my webserver! Keep in mind that it's 7 years old and a piece of crap, though). We are getting pretty close to calling it quits as far as the "let's go to every family and do a full Christmas with all of them" thing. We really love seeing family and doing Christmas with each of them (Sarah's mom, Sarah's dad, My mom, my dad) but our interstate-fragmented families, it's getting too hard. I think the problem will soon be that in an effort to enjoy Christmas with everyone, we'll in fact not enjoy Christmas with *anyone* (and annoy others, too!).
 
 Moving to Ohio will help this somewhat because travel won't be such a big deal, but with a sister-in-law in Texas and a brother in New York (who knows where the other near-college-graduate-siblings will end up) getting everyone together on the same day is ruffling some feathers.
 
@@ -39,8 +39,52 @@ There was a point where I was booked for 400 hours in December. To put that in p
 
 This isn't just me saying look-I'm-so-busy--my whole company is like this. When I asked for another resource (i.e. a person), I was told that the earliest available date for anyone, company-wide was January or February. If you want to pick a specialty (like software), it could be later. That's good news, I guess. I wish I was eligible for the company bonus plan... :).
 
-On a related note, if you are an engineer or an engineering student, <a href="http://www.rovisys.com/rovisys/contact/careers/job_opportunities.asp">we're hiring like crazy</a>--tell 'em Michael sent ya.<br /><strong>Upcoming Posts - </strong>I'm planning to do a couple silly posts as well as some more serious topics. Some ideas I've had floating around for a while include:<br /><ul><br />	<li>Basic computer related tutorials (how stuff works, networking, programming, terminology, etc.)</li><br />	<li>How to buy a computer</li><br />	<li>Internet security</li><br />	<li>How to get around your company's web filter via secure personal proxy (akin to VPN)</li><br />	<li>iPod tips or "Things I learned once I finally got an iPod"</li><br />	<li>Discussion of digital music, DRM, portability, and the concept of digital property</li><br />	<li>More programming</li><br />	<li>Rants about traveling and the airline industry</li><br />	<li>Online mapping technology (check out <a href="http://maps.yahoo.com/">Yahoo Maps</a>--above and beyond <a href="http://maps.google.com/">Google Maps</a>)</li><br /></ul><br />Keep in mind that I haven't actually written any of that stuff yet, nor am I qualified to write much of it. I chose some of the topics because they interest me and I want to research them. My plan is to knock one of these out each month or so in an on going fashion. This will likely be as much or more educational for me than anyone else.
+On a related note, if you are an engineer or an engineering student, <a href="http://www.rovisys.com/rovisys/contact/careers/job_opportunities.asp">we're hiring like crazy</a>--tell 'em Michael sent ya.
+
+<strong>Upcoming Posts - </strong>I'm planning to do a couple silly posts as well as some more serious topics. Some ideas I've had floating around for a while include:
+
+<ul>
+
+	<li>Basic computer related tutorials (how stuff works, networking, programming, terminology, etc.)</li>
+
+	<li>How to buy a computer</li>
+
+	<li>Internet security</li>
+
+	<li>How to get around your company's web filter via secure personal proxy (akin to VPN)</li>
+
+	<li>iPod tips or "Things I learned once I finally got an iPod"</li>
+
+	<li>Discussion of digital music, DRM, portability, and the concept of digital property</li>
+
+	<li>More programming</li>
+
+	<li>Rants about traveling and the airline industry</li>
+
+	<li>Online mapping technology (check out <a href="http://maps.yahoo.com/">Yahoo Maps</a>--above and beyond <a href="http://maps.google.com/">Google Maps</a>)</li>
+
+</ul>
+
+Keep in mind that I haven't actually written any of that stuff yet, nor am I qualified to write much of it. I chose some of the topics because they interest me and I want to research them. My plan is to knock one of these out each month or so in an on going fashion. This will likely be as much or more educational for me than anyone else.
 
 Other topics (like how to buy a computer, how computers work, and programming) I do know quite a bit about so you can expect more frequent posts on those topics because they require less prep time.
 
-Feel free to <a href="mailto:mharen@gmail.com">send me questions</a>. Things these that I just made up are good examples:<br /><ul><br />	<li>Why can't I run Mac software on a PC (and what's the difference anyhow?!)?</li><br />	<li>Are wireless routers secure?</li><br />	<li>What is up with Windows Vista?</li><br />	<li>What would you say you do here? Or, what exactly is "programming"?!</li><br />	<li>What's the difference between a crocodile and an alligator?</li><br />	<li>What's so special about those LED Christmas lights?</li><br /></ul><br />That's it for now.
+Feel free to <a href="mailto:mharen@gmail.com">send me questions</a>. Things these that I just made up are good examples:
+
+<ul>
+
+	<li>Why can't I run Mac software on a PC (and what's the difference anyhow?!)?</li>
+
+	<li>Are wireless routers secure?</li>
+
+	<li>What is up with Windows Vista?</li>
+
+	<li>What would you say you do here? Or, what exactly is "programming"?!</li>
+
+	<li>What's the difference between a crocodile and an alligator?</li>
+
+	<li>What's so special about those LED Christmas lights?</li>
+
+</ul>
+
+That's it for now.

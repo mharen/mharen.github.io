@@ -21,7 +21,9 @@ At 1:45 pm today we learned that he'll be going home to live with a relative *to
 
 We are conflicted. We knew this would likely happen; we were told that 85% of kids go "home." And we're glad for him, his relative, and his birth mother! This is the best thing for him! But we're sad, too.
 
-We're heartbroken. We're experiencing profound loss that most people can't understand.<br />
+We're heartbroken. We're experiencing profound loss that most people can't understand.
+
+
 <blockquote class="tr_bq" style="text-align: left;">
 *"He's not your son,"* people must think.&nbsp;</blockquote>
 <blockquote class="tr_bq" style="text-align: left;">
@@ -48,7 +50,9 @@ Tomorrow we cannot do. But we will. We will bathe and dress him. We will feed hi
 
 We will never see him again. This child that we have held, comforted, and raised as our own will be gone.
 
-And we will cry some more.<br />
+And we will cry some more.
+
+
 <blockquote class="tr_bq">
 *"You shouldn't get attached,"* people must think.</blockquote>
 <blockquote class="tr_bq">

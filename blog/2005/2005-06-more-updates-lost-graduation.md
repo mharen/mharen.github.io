@@ -29,4 +29,8 @@ And then the real world starts on Monday. Sarah is deferring the real world unti
 
 Now I just need to figure out why GoogleMaps says the drive will take 10.5 hours and MapQuest says it will take only 8.5 hours...
 
-And that new address one more time...<br />   2916 Waterford Forest Circle<br />   Cary, NC 27513
+And that new address one more time...
+
+   2916 Waterford Forest Circle
+
+   Cary, NC 27513

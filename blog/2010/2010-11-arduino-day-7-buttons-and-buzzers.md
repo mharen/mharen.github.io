@@ -15,14 +15,24 @@ title: 'Arduino Day 7: Buttons and Buzzers'
 ---
 
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
-<p>I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind…</p>
-<p>A big benefit to the simple build, though, was that Thing1 was actually interested enough to help from start to finish (<em>five </em>minutes). She helped me with wires and button placement and played with the buttons while I coded it up, and then played with the buttons again once they did something.</p>
-<p>Here we go:</p>  <p align="center"></p>  <h4>Build</h4>
-<p>![IMAG0719%5B8%5D.jpg](IMAG0719%5B8%5D.jpg)</p>  <h4>Circuit</h4>
-<p>Crazy simple circuit today:</p>
-<p>![Sketch_bb%5B7%5D.png](Sketch_bb%5B7%5D.png)</p>  <h4>Schematic</h4>
-<p>![Sketch_schem%5B7%5D.png](Sketch_schem%5B7%5D.png)</p>  <h4>Code</h4>
-<p>Today’s coding was a very simple selection from previous exercises, so this should look familiar:</p>
+
+I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind…
+
+A big benefit to the simple build, though, was that Thing1 was actually interested enough to help from start to finish (*five *minutes). She helped me with wires and button placement and played with the buttons while I coded it up, and then played with the buttons again once they did something.
+
+Here we go:  
+
+  <h4>Build</h4>
+
+![IMAG0719%5B8%5D.jpg](IMAG0719%5B8%5D.jpg)  <h4>Circuit</h4>
+
+Crazy simple circuit today:
+
+![Sketch_bb%5B7%5D.png](Sketch_bb%5B7%5D.png)  <h4>Schematic</h4>
+
+![Sketch_schem%5B7%5D.png](Sketch_schem%5B7%5D.png)  <h4>Code</h4>
+
+Today’s coding was a very simple selection from previous exercises, so this should look familiar:
 <blockquote>   <pre class="csharpcode"><span class="preproc">#define</span> c2 654
 <span class="preproc">#define</span> c3 1308
 
@@ -69,4 +79,5 @@ title: 'Arduino Day 7: Buttons and Buzzers'
 
 <h4>Next Steps</h4>
 
-<p>I’d really like to get some live content into this thing. For example, we have a build system at work that automatically builds all of our code. When a build fails, it goes “red” and we’re notified. I’d like to create an “extreme feedback device” (Google it for examples) which represents the build status in some physical way. We’ll see how that goes.</p>
+
+I’d really like to get some live content into this thing. For example, we have a build system at work that automatically builds all of our code. When a build fails, it goes “red” and we’re notified. I’d like to create an “extreme feedback device” (Google it for examples) which represents the build status in some physical way. We’ll see how that goes.
