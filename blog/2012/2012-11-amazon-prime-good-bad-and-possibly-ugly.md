@@ -13,7 +13,7 @@ title: 'Amazon Prime: The Good, the Bad and the (Possibly) Ugly'
 ---
 
 
-![prime%25255B2%25255D.png](prime%25255B2%25255D.png)I’ve had Amazon Prime for a couple of years now and it’s awesome. The freedom to buy pretty much anything without worrying about a $25 minimum or when things will arrive is great. It’s insane that they are able to deliver service like this for so little. Since they have warehouses all over the place, the real trick is internal logistics, I think (not the shipping speed—most orders to me come from neighboring states). 
+![prime%5B2%5D.png](prime%5B2%5D.png)I’ve had Amazon Prime for a couple of years now and it’s awesome. The freedom to buy pretty much anything without worrying about a $25 minimum or when things will arrive is great. It’s insane that they are able to deliver service like this for so little. Since they have warehouses all over the place, the real trick is internal logistics, I think (not the shipping speed—most orders to me come from neighboring states). 
 
 It’s still a big trick when you consider that I can order a carton of macaroni and cheese or a memory upgrade for my laptop pretty late into the evening and have it on my doorstep the next day for $4, or the day after for free (with a membership). Nutso.
 
@@ -31,7 +31,7 @@ That’s all good stuff.
 
 **But there’s something bad **sweeping in under the name of “[add-on items](http://www.amazon.com/gp/help/customer/display.html?nodeId=200876660)”. 
 
-![add-item%25255B2%25255D.jpg](add-item%25255B2%25255D.jpg)
+![add-item%5B2%5D.jpg](add-item%5B2%5D.jpg)
 
 I first came across these when I tried to buy a [super cheap phone mount ](http://www.amazon.com/Wazes-Universal-Mount-your-Smartphone/dp/B004O7S7Z0)for my car. Amazon wouldn’t let me buy it unless it was part of a $25+ order. Even if I was willing to pay for shipping. Even [with Prime](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200876660#prime):
 <blockquote> 

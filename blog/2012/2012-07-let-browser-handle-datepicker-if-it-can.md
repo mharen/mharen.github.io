@@ -32,5 +32,5 @@ Then the only other thing you need is to attach a datepicker if the browser need
     $(<span class="str">"input[type=date]"</span>).datepicker();
 }</pre>
 The theory here is that now when a browser adds support for native datepickers, the site will automatically *stop adding the jQuery datepicker*. Slick.
-Here’s an example. If you try this in Chrome (added sometime on or before version 20…?), the second input should be a native datepicker (![SNAG-0045%25255B3%25255D.png](SNAG-0045%25255B3%25255D.png)</a>
+Here’s an example. If you try this in Chrome (added sometime on or before version 20…?), the second input should be a native datepicker (![SNAG-0045%5B3%5D.png](SNAG-0045%5B3%5D.png)</a>
 Oh, and by the way, this is especially great for mobile devices—this is supported on iOS but [not much else](http://caniuse.com/#feat=input-datetime) (yet).

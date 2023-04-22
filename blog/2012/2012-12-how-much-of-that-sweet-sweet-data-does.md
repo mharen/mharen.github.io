@@ -58,7 +58,7 @@ Pandora on the Web plays 64k AAC+ for free listeners and 192k for Pandora One su
 
 OK, so let’s get that 64k stream into the units we like: MB/minute. (I’m assuming that “64k” means 64 kilobits per minute.):
 
-![image%25255B3%25255D.png](image%25255B3%25255D.png)
+![image%5B3%5D.png](image%5B3%5D.png)
 
 So 0.47 MiB/minute. Nice. If I convert my above figures into MiB from MB, I get 0.54 MiB/minute. That’s still more than Pandora claims, but we’re in the ballpark so I’ll take their word for it<sup>1</sup> (maybe I got some emails in the background during those 15 minutes…).
 

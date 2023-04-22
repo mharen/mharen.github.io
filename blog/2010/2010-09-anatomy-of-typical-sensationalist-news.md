@@ -18,7 +18,7 @@ In our highly charged media, it’s exceedingly common (and frustrating) to see 
 
 Yikes! Things start out pretty serious. After keeping our attention with a few random facts, the story is finally killed by its own lame ties to reality.
 
-![images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=](images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=)Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
+![ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI.jpg](ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI.jpg)Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
 
 **Headline: **
 <blockquote> 

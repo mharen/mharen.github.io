@@ -25,7 +25,7 @@ Of course I&#160; used clips last year, too, but only directly on the wires and 
 
 They’re easy, but it takes a lot longer. Wife and I are very, very pleased with the results so far. 
 
-![DSC_0039%25255B3%25255D.jpg](DSC_0039%25255B3%25255D.jpg)
+![DSC_0039%5B3%5D.jpg](DSC_0039%5B3%5D.jpg)
 
 I should probably get a tripod and a remote, but considering that these were taken in near-total darkness we’re lucky we can see anything at all.
 

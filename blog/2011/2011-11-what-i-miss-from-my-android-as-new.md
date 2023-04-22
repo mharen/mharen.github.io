@@ -25,7 +25,7 @@ That is, whether you go with Android or iPhone or whatever, these are overwhelmi
 
 OK, let’s go.  <h4>What I Miss From My Android as a New iPhone User</h4>
 
-*(In no particular order.)*  <h5>![images?q=tbn:ANd9GcTb7AAG2S6ZS6DqXhBAtvFAMNoLT1MvMO6P56LPQs_CIMkxXojN](images?q=tbn:ANd9GcTb7AAG2S6ZS6DqXhBAtvFAMNoLT1MvMO6P56LPQs_CIMkxXojN)Identity Management</h5>
+*(In no particular order.)*  <h5>![ANd9GcTb7AAG2S6ZS6DqXhBAtvFAMNoLT1MvMO6P56LPQs_CIMkxXojN.jpg](ANd9GcTb7AAG2S6ZS6DqXhBAtvFAMNoLT1MvMO6P56LPQs_CIMkxXojN.jpg)Identity Management</h5>
 
 When you setup an Android phone, you have to tie a Google account to it, just like an iPhone requires an Apple ID. Where Android one-ups iPhone is by letting you use this identity to sign in to other apps. This means that I setup my Google account once, but then just say, “yep, use that one” when I launch Gmail, Reader, News, Voice, Plus, etc. *without typing in my password again*.
 
@@ -33,9 +33,9 @@ Typing passwords is really a big part of it. I feel like I have to type my login
 
 I think the next big thing in tech is going to be a ridiculously simple to use, and comprehensive approach to identity and its related attributes. The burden is just growing to be too much to put it off much longer. You hear that Microsoft? Google? Facebook? Apple? Get on it!  <h5 style="clear: both;">Fewer Password Prompts</h5>
 
-![Automatic_Updates_inline%25255B1%25255D.png](Automatic_Updates_inline%25255B1%25255D.png)A tad more on this, because it’s really annoying. Why do I have to enter my password to install apps? Why when I update apps? Feel free to ask for a pin or password when money’s involved, but otherwise I feel like I’m authenticating myself waaaay too much.
+![Automatic_Updates_inline%5B1%5D.png](Automatic_Updates_inline%5B1%5D.png)A tad more on this, because it’s really annoying. Why do I have to enter my password to install apps? Why when I update apps? Feel free to ask for a pin or password when money’s involved, but otherwise I feel like I’m authenticating myself waaaay too much.
 
-This is something that strikes me as a very “un-Apple” thing to do. The company that insists that two mouse buttons is too complicated doesn’t strike me as the company that ought to make updating my apps so hard. Actually, apps (optionally) update automatically on Android—I miss that.  <h5>![dinc%25255B1%25255D.jpg](dinc%25255B1%25255D.jpg)A “Back” Button</h5>
+This is something that strikes me as a very “un-Apple” thing to do. The company that insists that two mouse buttons is too complicated doesn’t strike me as the company that ought to make updating my apps so hard. Actually, apps (optionally) update automatically on Android—I miss that.  <h5>![dinc%5B1%5D.jpg](dinc%5B1%5D.jpg)A “Back” Button</h5>
 
 Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../2010/2010-09-things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
 
@@ -76,7 +76,7 @@ This one almost didn’t make the list. Flash on Android is rarely a pleasant ex
 
 I’m a life long tinkerer. One of my favorite things to do when I was little was to disassemble old electronics (phones, VCRs, computers, etc.) and then imagine how all the magical pieces inside worked. This led directly to my career in engineering (I actually know how some of that stuff works now!).
 
-Android was very compatible with my tinkerer-inclined mind. I could dig around in the OS files, write quick and dirty apps, attach a debugger, root it, install various roms, etc. I know you can do a lot of that on iPhone, but with Android it’s all encouraged and seems much more accessible.  <h5 style="clear: both;">![images?q=tbn:ANd9GcTrrbamX_oZyYIlOM6hCMYYvkJQuDZUksFEVM9ovOu-jH_02eOVkA](images?q=tbn:ANd9GcTrrbamX_oZyYIlOM6hCMYYvkJQuDZUksFEVM9ovOu-jH_02eOVkA)Cheaper/Standardized Accessories</h5>
+Android was very compatible with my tinkerer-inclined mind. I could dig around in the OS files, write quick and dirty apps, attach a debugger, root it, install various roms, etc. I know you can do a lot of that on iPhone, but with Android it’s all encouraged and seems much more accessible.  <h5 style="clear: both;">![ANd9GcTrrbamX_oZyYIlOM6hCMYYvkJQuDZUksFEVM9ovOu.jpg](ANd9GcTrrbamX_oZyYIlOM6hCMYYvkJQuDZUksFEVM9ovOu.jpg)Cheaper/Standardized Accessories</h5>
 
 While I do love the solid, versatile dock connector, I don’t love that everything that plugs into it costs $25. And if you *do* consider cheap chargers and cables, you have to wade through hundreds of one-star reviews about how a $6 piece of wire caused someone’s house to burn down and his dog to run away.
 
@@ -88,7 +88,7 @@ One of the unsung heroes of the Android OS has got to be navigation. Yes, Maps i
 
 It’s fully integrated with Google Voice Actions, too (kind of like iPhone’s Siri) so I would routinely say things like this while driving, “navigate to Target/BestBuy/Dunkin Donuts/Natatorium in Some City” and it just works.
 
-It is beautiful, fast, intuitive, and very effective. (It does kill the phone’s battery, though…)   <h5 style="clear: both;">![go%252520home.png](go%252520home.png)Shortcuts</h5>
+It is beautiful, fast, intuitive, and very effective. (It does kill the phone’s battery, though…)   <h5 style="clear: both;">![go%20home.png](go%20home.png)Shortcuts</h5>
 
 Shortcuts are one of the things I bet almost nobody uses, but they are great. You can add shortcuts to you home screen for apps, sure (Android normally keeps apps in a drawer, not on the home screen), but also for common actions like [navigating to a specific address](http://www.howtogeek.com/howto/25707/create-a-%E2%80%9Cgo-home%E2%80%9D-shortcut-for-your-android-phone%E2%80%99s-google-maps-navigation/) (home, work, etc.), calling someone, or playing a song. Having single-tap access to common actions is pretty great.  <h5 style="clear: both;">Conclusion</h5>
 

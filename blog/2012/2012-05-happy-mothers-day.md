@@ -23,19 +23,19 @@ So I got downstairs and quickly realized I’d have to severely back off from my
 
 This is where I’d go on and on about how hilarious it was to make coffee or breakfast or whatever with a baby…but I can’t because nothing’s happening down here. That is, except for some good old baby-daddy snuggle time:
 
-![Photo%252520May%25252013%25252C%2525207%25252046%25252053%252520AM%25255B5%25255D.jpg](Photo%252520May%25252013%25252C%2525207%25252046%25252053%252520AM%25255B5%25255D.jpg)
+![Photo%20May%2013%2C%207%2046%2053%20AM%5B5%5D.jpg](Photo%20May%2013%2C%207%2046%2053%20AM%5B5%5D.jpg)
 
 And I got it. Suddenly I understood why you are so selfless 365.24 days a year.
 
-![Photo%252520Apr%25252026%25252C%25252011%25252057%25252046%252520PM%25255B6%25255D.jpg](Photo%252520Apr%25252026%25252C%25252011%25252057%25252046%252520PM%25255B6%25255D.jpg)
+![Photo%20Apr%2026%2C%2011%2057%2046%20PM%5B6%5D.jpg](Photo%20Apr%2026%2C%2011%2057%2046%20PM%5B6%5D.jpg)
 
 Being an always-on mom is challenging and draining. And rewarding and beautiful.  
 
-![Photo%252520May%25252013%25252C%2525207%25252058%25252051%252520AM%25255B4%25255D.jpg](Photo%252520May%25252013%25252C%2525207%25252058%25252051%252520AM%25255B4%25255D.jpg)
+![Photo%20May%2013%2C%207%2058%2051%20AM%5B4%5D.jpg](Photo%20May%2013%2C%207%2058%2051%20AM%5B4%5D.jpg)
 
 I like to joke when I’m watching a child or two that we’re lucky I remember to feed them. It’s fun and all but we really would probably starve without you. Or rapidly adopt a cake-based diet.
 
-![Photo%252520May%25252013%25252C%2525208%25252000%25252043%252520AM%25255B4%25255D.jpg](Photo%252520May%25252013%25252C%2525208%25252000%25252043%252520AM%25255B4%25255D.jpg)
+![Photo%20May%2013%2C%208%2000%2043%20AM%5B4%5D.jpg](Photo%20May%2013%2C%208%2000%2043%20AM%5B4%5D.jpg)
 
 Happy Mother’s Day :)
 

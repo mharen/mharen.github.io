@@ -16,7 +16,7 @@ title: Happy First Birthday, Thing 3
 
 Thing 3’s birthday is today. It’s hard to believe it’s already been a year since [he was born](../2011/2011-08-birth-story-thing-3.html).
 
-![11-IMG_3263%25255B4%25255D.jpg](11-IMG_3263%25255B4%25255D.jpg)
+![11-IMG_3263%5B4%5D.jpg](11-IMG_3263%5B4%5D.jpg)
 
 Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.
 
@@ -26,15 +26,15 @@ The gist of the project was to refurbish a piece of furniture into a children’
 
 We found what we needed:
 
-![02-2012-08-04%25252014.10.58%25255B1%25255D.jpg](02-2012-08-04%25252014.10.58%25255B1%25255D.jpg)
+![02-2012-08-04%2014.10.58%5B1%5D.jpg](02-2012-08-04%2014.10.58%5B1%5D.jpg)
 
 The girls helped me scuff of the surface for priming and painting:  
 
-![04-2012-08-04%25252014.19.54.jpg](04-2012-08-04%25252014.19.54.jpg)  
+![04-2012-08-04%2014.19.54.jpg](04-2012-08-04%2014.19.54.jpg)  
 
 Then we wiped it down and repaired a broken drawer:
 
-![08-2012-08-04%25252014.46.20.jpg](08-2012-08-04%25252014.46.20.jpg)
+![08-2012-08-04%2014.46.20.jpg](08-2012-08-04%2014.46.20.jpg)
 
 I primed it with Kilz 2 Latex primer and then applied a single coat of a greyish paint we found in the basement.
 
@@ -42,7 +42,7 @@ I cut a section of pegboard for the back from a 2’x4’ section I bought at Lo
 
 After painting, the girls helped me attach the draw slides and peg board (tip: tapping the screws with a drill first, then letting the kids help with a manual driver makes for good fun)
 
-![14-2012-08-16%25252020.55.10.jpg](14-2012-08-16%25252020.55.10.jpg)
+![14-2012-08-16%2020.55.10.jpg](14-2012-08-16%2020.55.10.jpg)
 
 And it’s finished! I dug up some old pegboard hooks which fit the toolset Wife bought pretty well:
 
@@ -50,9 +50,9 @@ And it’s finished! I dug up some old pegboard hooks which fit the toolset Wife
 
 Thing1 inspecting our work:
 
-![10-IMG_3458%25255B1%25255D.jpg](10-IMG_3458%25255B1%25255D.jpg)
+![10-IMG_3458%5B1%5D.jpg](10-IMG_3458%5B1%5D.jpg)
 
-![13-2012-08-16%25252022.16.49.jpg](13-2012-08-16%25252022.16.49.jpg)
+![13-2012-08-16%2022.16.49.jpg](13-2012-08-16%2022.16.49.jpg)
 
 Happy Birthday, Thing 3
 

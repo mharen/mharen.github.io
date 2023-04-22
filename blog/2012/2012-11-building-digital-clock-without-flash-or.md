@@ -18,7 +18,7 @@ As a continuation of yesterday’s post wherein I built an [analog clock without
 
 Again, here’s where we’re headed:
 
-![goal%25255B2%25255D.png](goal%25255B2%25255D.png)
+![goal%5B2%5D.png](goal%5B2%5D.png)
 
 Let’s start with the basic layout again—just a section with an HTML5 &lt;time&gt; element within it:
 

@@ -17,15 +17,15 @@ This post started out a little unusually. My normally scheduled blog time was in
 
 So after struggling against writer’s block for too long, I [put the call out](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X):
 
-[![image%25255B28%25255D%25255B2%25255D.png](image%25255B28%25255D%25255B2%25255D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
+[![image%5B28%5D%5B2%5D.png](image%5B28%5D%5B2%5D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
 
 And it was answered:
 
-[![image%25255B29%25255D%25255B2%25255D.png](image%25255B29%25255D%25255B2%25255D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
+[![image%5B29%5D%5B2%5D.png](image%5B29%5D%5B2%5D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
 
 Crap, indeed. Then, this happened:
 
-[![image%25255B30%25255D%25255B2%25255D.png](image%25255B30%25255D%25255B2%25255D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
+[![image%5B30%5D%5B2%5D.png](image%5B30%5D%5B2%5D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
 
 Who am I to deny one of my personal tech heroes, [Scott Hanselman](http://www.hanselman.com/blog/)?  <hr />        <h4>Profanity in Technical Presentations and Business</h4>
 
@@ -37,11 +37,11 @@ For example, my vocabulary varies with my audience. I don’t use terms like *lo
 
 If we view language on a scale, we can adjust aspects of it to suit our surroundings. When I’m in a meeting with a bunch of higher-ups, for example, my language variables look like this:
 
-![image%25255B27%25255D%25255B3%25255D.png](image%25255B27%25255D%25255B3%25255D.png)
+![image%5B27%5D%5B3%5D.png](image%5B27%5D%5B3%5D.png)
 
 I play it safe because to do anything else would be odd and possibly counterproductive. During the work day, with my closer coworkers, the dials move up a bit:
 
-![image%25255B26%25255D%25255B3%25255D.png](image%25255B26%25255D%25255B3%25255D.png)
+![image%5B26%5D%5B3%5D.png](image%5B26%5D%5B3%5D.png)
 
 And then after work, at a code-a-thon, or in smaller groups, things max out as I turn into a child who just learned forbidden words and can’t shut up.
 

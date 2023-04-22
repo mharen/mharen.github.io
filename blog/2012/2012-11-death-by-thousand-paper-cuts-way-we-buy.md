@@ -18,7 +18,7 @@ title: 'Death By a Thousand Paper Cuts: The Way We Buy and Sell Houses Is Beggin
 It takes approximately 30-60 days to buy a house with a mortgage in the United States, if everything goes well. Closing in three weeks is possible but will stress everyone out and is not encouraged. 
 But why? What is so hard about buying a house that the whole process takes so long? In my experience, there’s not one thing you can point to. It’s just that there’s a lot of separate people involved and they all take a little bit of time. When you add it all up, it takes a month or two to close.
 Death by a thousand paper cuts, as they say.
-![for%252520sale%25255B2%25255D.jpg](for%252520sale%25255B2%25255D.jpg)
+![for%20sale%5B2%5D.jpg](for%20sale%5B2%5D.jpg)
 When you consider how messed up our housing industry has been for the last few years I think it’s incredible that not much has changed already. By some accounts, I’d say it’s actually worse (I’ve heard that buying a short-sale or foreclosure takes *even more *time).
 I firmly believe that by the year 2020, this is all going to be different. By then, a significant share of the market will be available for purchase in under seven days, with some unoccupied houses ready to change hands in a *single day*. I’ll explain.
 I see two straightforward reasons why I think this is inevitable:<ol><li>The market is poised for a shakeup.</li>

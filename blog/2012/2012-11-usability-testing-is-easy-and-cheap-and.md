@@ -20,25 +20,25 @@ If you haven’t done this usability test before, it’s painful to watch. You w
 
 There’ll be minor things that are glaring but easy to fix, like this non-question: 
 
-![4-2012-10-23%25252009.51.56%25255B3%25255D.jpg](4-2012-10-23%25252009.51.56%25255B3%25255D.jpg)
+![4-2012-10-23%2009.51.56%5B3%5D.jpg](4-2012-10-23%2009.51.56%5B3%5D.jpg)
 
 But there could be fundamental issues with how the app works vs. how users try to use the app:
 
-![3-2012-09-20%25252022.38.11%25255B3%25255D.jpg](3-2012-09-20%25252022.38.11%25255B3%25255D.jpg)  
+![3-2012-09-20%2022.38.11%5B3%5D.jpg](3-2012-09-20%2022.38.11%5B3%5D.jpg)  
 
 (I can see Siri getting some people in trouble here…“WHO IS SHE!?”)
 
 Sometimes though, there’s little you can do to catch certain issues. For instance, what is happening in this picture!?
 
-![1-2012-10-10%25252023.22.37%25255B7%25255D.jpg](1-2012-10-10%25252023.22.37%25255B7%25255D.jpg)
+![1-2012-10-10%2023.22.37%5B7%5D.jpg](1-2012-10-10%2023.22.37%5B7%5D.jpg)
 
 Ohhhh…
 
-![2-2012-10-10%25252023.22.44%25255B7%25255D.jpg](2-2012-10-10%25252023.22.44%25255B7%25255D.jpg)  
+![2-2012-10-10%2023.22.44%5B7%5D.jpg](2-2012-10-10%2023.22.44%5B7%5D.jpg)  
 
 Those are fairly minor. There can be big, huge issues, too, though. For instance, when I tried to sign up for Angie’s List, I opted to sign up with my Google account:
 
-![join%25255B2%25255D.png](join%25255B2%25255D.png)
+![join%5B2%5D.png](join%5B2%5D.png)
 
 Guess how that experience went :/. I have never had so much trouble giving someone my money. (To their credit, this appears to be fixed now.)
 

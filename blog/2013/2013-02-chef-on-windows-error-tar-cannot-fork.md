@@ -41,7 +41,7 @@ c:\Git\bin\tar.EXE
 
 And apparently some of them [suck](http://sourceforge.net/p/gnuwin32/discussion/74807/thread/c73aced2/). Hard. Since I’m playing with Chef, let’s just use that one—it probably works. This was as easy as updating my PATH variable to place `c:\chef\bin` at the beginning instead of the end (really just before the others found by `which`):
 
-![image%25255B3%25255D.png](image%25255B3%25255D.png)</a>
+![image%5B3%5D.png](image%5B3%5D.png)</a>
 
 Once you fix the path, close and reopen your cmd window and try the command again:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar
 C:\chef\bin\tar.EXE

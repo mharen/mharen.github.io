@@ -27,19 +27,19 @@ The above materials yield 2-12’ cabers. Your mileage may vary as I’ve learne
 
 So go get those noodles:
 
-![11-IMG_3165%25255B4%25255D.jpg](11-IMG_3165%25255B4%25255D.jpg)
+![11-IMG_3165%5B4%5D.jpg](11-IMG_3165%5B4%5D.jpg)
 
 I built mine in bundles of seven (one in the middle, and six surrounding it all hexagon like):
 
-![04-IMG_3172%25255B4%25255D.jpg](04-IMG_3172%25255B4%25255D.jpg)
+![04-IMG_3172%5B4%5D.jpg](04-IMG_3172%5B4%5D.jpg)
 
 Here’s one thing that I hope will help a lot during the games: I offset three across the middle by 50%. So four back, three forward (imagine pulling the two yellow and one blue noodles above half-way out of that bundle as a starting point). This overlap will hopefully help things stay together. This means that I have a joint about every 2’ or so where 3-4 new noodles are added.
 
 I found a single rubber band to be very helpful while taping each joint:
 
-![07-IMG_3169%25255B21%25255D.jpg](07-IMG_3169%25255B21%25255D.jpg)
+![07-IMG_3169%5B21%5D.jpg](07-IMG_3169%5B21%5D.jpg)
 
-![06-IMG_3170%25255B4%25255D.jpg](06-IMG_3170%25255B4%25255D.jpg)
+![06-IMG_3170%5B4%5D.jpg](06-IMG_3170%5B4%5D.jpg)
 
 OK, I’m probably over explaining this…it’s really pretty obvious when you do it.                
 
@@ -47,19 +47,19 @@ I found that the tape didn’t stick all that well to the foam. This is nice if 
 
 When you run out of noodles, you’ll have three or four sticking out. Cut those off, and use the amputated noodles to fill in the opposite end. These things cut ridiculously easy with regular old scissors:
 
-![05-IMG_3171%25255B4%25255D.jpg](05-IMG_3171%25255B4%25255D.jpg)
+![05-IMG_3171%5B4%5D.jpg](05-IMG_3171%5B4%5D.jpg)
 
 At this point, I had a single 24’ long bundle of noodles. I cut it in half and capped all the ends with a very generous amount of tape to make *two *bundles:
 
-![2012-07-14%25252014.27.17%25255B5%25255D.jpg](2012-07-14%25252014.27.17%25255B5%25255D.jpg)
+![2012-07-14%2014.27.17%5B5%5D.jpg](2012-07-14%2014.27.17%5B5%5D.jpg)
 
 As any god engineer would, I carefully estimated my materials before heading to the store and ended up with the following waste:
 
-![01-IMG_3175%25255B5%25255D.jpg](01-IMG_3175%25255B5%25255D.jpg)  
+![01-IMG_3175%5B5%5D.jpg](01-IMG_3175%5B5%5D.jpg)  
 
 And they’re ready:
 
-![02-IMG_3174%25255B6%25255D.jpg](02-IMG_3174%25255B6%25255D.jpg)
+![02-IMG_3174%5B6%5D.jpg](02-IMG_3174%5B6%5D.jpg)
 
 We had originally considered putting a wood dowel down the middle for rigidity. Ultimately I decided to forgo any additional structure. These are stiff enough to toss, but bendy enough to make it interesting or funny to watch people try. Plus they are light and safer this way.
 

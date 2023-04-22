@@ -24,29 +24,29 @@ Good times. Anyway, we happened to find ourselves in Canada again last month. I 
 
 But now we have a gaggle of children…so it’s even better :)
 
-![05-2012-10-26%25252015.37.28%25255B3%25255D.jpg](05-2012-10-26%25252015.37.28%25255B3%25255D.jpg)
+![05-2012-10-26%2015.37.28%5B3%5D.jpg](05-2012-10-26%2015.37.28%5B3%5D.jpg)
 
-![06-2012-10-26%25252015.37.43%25255B3%25255D.jpg](06-2012-10-26%25252015.37.43%25255B3%25255D.jpg)
+![06-2012-10-26%2015.37.43%5B3%5D.jpg](06-2012-10-26%2015.37.43%5B3%5D.jpg)
 
-They loved it!  ![07-2012-10-26%25252015.55.37%25255B2%25255D.jpg](07-2012-10-26%25252015.55.37%25255B2%25255D.jpg) 
+They loved it!  ![07-2012-10-26%2015.55.37%5B2%5D.jpg](07-2012-10-26%2015.55.37%5B2%5D.jpg) 
 
 That’s the iPhone’s native panorama. Here’s the same shot with the 360 app:  <div style="text-align: center;"></div>
 
-![08-2012-10-26%25252015.57.16%25255B3%25255D.jpg](08-2012-10-26%25252015.57.16%25255B3%25255D.jpg)
+![08-2012-10-26%2015.57.16%5B3%5D.jpg](08-2012-10-26%2015.57.16%5B3%5D.jpg)
 
 It’s fun reliving these experiences with them.  <hr />
 
 Except for the driving, they’re fun travel companions, too.  
 
-![02-2012-10-24%25252019.18.09%25255B5%25255D.jpg](02-2012-10-24%25252019.18.09%25255B5%25255D.jpg)
+![02-2012-10-24%2019.18.09%5B5%5D.jpg](02-2012-10-24%2019.18.09%5B5%5D.jpg)
 
 Thank God for this woman. Whenever you see my kids behaving or being cute, it’s because of her.
 
-![14-2012-10-27%25252008.27.27%25255B3%25255D.jpg](14-2012-10-27%25252008.27.27%25255B3%25255D.jpg)
+![14-2012-10-27%2008.27.27%5B3%5D.jpg](14-2012-10-27%2008.27.27%5B3%5D.jpg)
 
 I don’t remember what exactly was going on here…but they’re all in one place so I probably thought that was significant enough to document it with a photo.  
 
-![13-2012-10-27%25252008.26.26%25255B6%25255D.jpg](13-2012-10-27%25252008.26.26%25255B6%25255D.jpg)
+![13-2012-10-27%2008.26.26%5B6%5D.jpg](13-2012-10-27%2008.26.26%5B6%5D.jpg)
 
 Happy Thanksgiving!
 
