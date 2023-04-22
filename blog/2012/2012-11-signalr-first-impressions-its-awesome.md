@@ -16,7 +16,7 @@ title: "SignalR: First Impressions (It\u2019s Awesome)"
 ---
 
 
-<a href="https://github.com/SignalR/SignalR#readme">SignalR</a> is an:
+[SignalR](https://github.com/SignalR/SignalR#readme) is an:
 <blockquote> 
 
 Async signaling library for .NET to help build real-time, multi-user interactive web applications.
@@ -26,16 +26,16 @@ It narrows the gap among clients, and between each client and the server. Signal
 
 Have you ever written a little refresh routine to poll the server for something? Was it a pain or terribly heavy duty? Did it make you feel dirty? Yeah. SignalR fixes that, and then some.
 
-How? It uses some new tech (<a href="http://en.wikipedia.org/wiki/WebSocket">web sockets</a>) for the newer browsers and some clever tricks for the older stuff (<a href="http://en.wikipedia.org/wiki/Push_technology#Long_polling">long polling</a>).
+How? It uses some new tech ([web sockets](http://en.wikipedia.org/wiki/WebSocket)) for the newer browsers and some clever tricks for the older stuff ([long polling](http://en.wikipedia.org/wiki/Push_technology#Long_polling)).
 
-Check out the impressive <a href="http://jabbr.net/">live chat</a> sample, or watch this <a href="http://vimeo.com/31938189">stock ticker</a> demo:  
-
-
-After seeing <a href="http://www.hanselman.com/blog/AsynchronousScalableWebApplicationsWithRealtimePersistentLongrunningConnectionsWithSignalR.aspx">Hanselman</a> present the above demo at StirTrek, I’ve been meaning to give it a try. So I finally did at last night’s RoviSys hack-a-thon. Here’s what I came up with:  
+Check out the impressive [live chat](http://jabbr.net/) sample, or watch this [stock ticker](http://vimeo.com/31938189) demo:  
 
 
+After seeing [Hanselman](http://www.hanselman.com/blog/AsynchronousScalableWebApplicationsWithRealtimePersistentLongrunningConnectionsWithSignalR.aspx) present the above demo at StirTrek, I’ve been meaning to give it a try. So I finally did at last night’s RoviSys hack-a-thon. Here’s what I came up with:  
 
-That app’s actually <a href="http://blocky.apphb.com/">live right now</a> and the <a href="https://github.com/mharen/devour/tree/master/devour">source is on GitHub</a>. Check it out! (Note: if you’re not on a solid internet connection, or my host is under load, it’s not going to look great…it’s not been optimized all that much—use some imagination!)
+
+
+That app’s actually [live right now](http://blocky.apphb.com/) and the [source is on GitHub](https://github.com/mharen/devour/tree/master/devour). Check it out! (Note: if you’re not on a solid internet connection, or my host is under load, it’s not going to look great…it’s not been optimized all that much—use some imagination!)
 
 Oh, and it works on mobile.
 

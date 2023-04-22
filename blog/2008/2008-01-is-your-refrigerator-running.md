@@ -41,7 +41,7 @@ Annette at AHShole explains that this is not going to happen and repeats her ear
 
 <span style="font-weight: bold;">Thursday 8:30am:</span> The Sears technician calls ahead and predicts a 9am arrival. He's a nice guy and arrives on time. Ten minutes later Fred is back to his old self again. Apparently the compressor was fine--only the relay needed replaced. Thanks Sears! I ask the tech how much he would have charged me if I didn't have insurance (my copay is $55). He immediately answers, "$265."
 
-I wish I had some orange juice in my mouth when he said that so I could spit it out all dramatically. Two-hundred-sixty-five-frickin-dollars for 10 minutes of work. Are you kidding me? He didn't even pretend this was <a href="http://www.google.com/products?q=refrigerator+compressor+relay&amp;btnG=Search+Products&amp;hl=en&amp;show=dd&amp;scoring=p" id="ya31" target="_blank" title="relay prices">due to parts</a>. At that hourly rate, he must make over a bajillion dollars per year.
+I wish I had some orange juice in my mouth when he said that so I could spit it out all dramatically. Two-hundred-sixty-five-frickin-dollars for 10 minutes of work. Are you kidding me? He didn't even pretend this was [due to parts](http://www.google.com/products?q=refrigerator+compressor+relay&amp;btnG=Search+Products&amp;hl=en&amp;show=dd&amp;scoring=p" id="ya31" target="_blank" title="relay prices). At that hourly rate, he must make over a bajillion dollars per year.
 
 <span style="font-weight: bold;">In conclusion:</span>
 

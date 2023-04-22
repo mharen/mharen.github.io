@@ -14,7 +14,7 @@ title: How Dropbox with Two-Factor Authentication Neatly Handles Application Spe
 ---
 
 
-I am a long time fan of Dropbox and <a href="http://support.google.com/accounts/bin/answer.py?hl=en&amp;answer=180744">two-factor authentication</a> (there’s a cool video there that explains what two-factor auth is if it’s news to you). When Dropbox added support for the “pain in the ass but worth it” way of making my data super (SUPER!) safe, I jumped on board.
+I am a long time fan of Dropbox and [two-factor authentication](http://support.google.com/accounts/bin/answer.py?hl=en&amp;answer=180744) (there’s a cool video there that explains what two-factor auth is if it’s news to you). When Dropbox added support for the “pain in the ass but worth it” way of making my data super (SUPER!) safe, I jumped on board.
 
 It didn’t occur to me until today, though, how they handle application-specific passwords. That is, passwords for apps that aren’t aware of this two-factor business.
 
@@ -22,9 +22,9 @@ Google handles this in a pretty straight forward (but painful) way by simply let
 
 ![asp2%25255B2%25255D.png](asp2%25255B2%25255D.png)
 
-So when my phone’s document scanning app (<a href="https://itunes.apple.com/us/app/jotnot-scanner/id307868751?mt=8">JotNot</a>) complained that I couldn’t connect it to Dropbox, I realized the issue was that I had added two-factor authentication since I hooked the two things together. So I went looking for a way to generate an application-specific password for the app. 
+So when my phone’s document scanning app ([JotNot](https://itunes.apple.com/us/app/jotnot-scanner/id307868751?mt=8)) complained that I couldn’t connect it to Dropbox, I realized the issue was that I had added two-factor authentication since I hooked the two things together. So I went looking for a way to generate an application-specific password for the app. 
 
-I was surprised that I couldn’t find a way to do this so I turned to Google and <a href="http://blog.binaryfactory.ca/2012/08/dropbox-two-step-authentication/">found this</a>:
+I was surprised that I couldn’t find a way to do this so I turned to Google and [found this](http://blog.binaryfactory.ca/2012/08/dropbox-two-step-authentication/):
 <blockquote> 
 
 “The menu to create application specific passwords doesn’t seem to be directly available, but don’t worry, as soon as you will add a new app, <strong>Dropbox will detect the failure to login and email you the link to create an application specific password.</strong>”

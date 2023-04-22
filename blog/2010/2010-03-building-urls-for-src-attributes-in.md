@@ -22,7 +22,7 @@ I’ve been told that these programming posts are not interesting or funny. For 
 “Chuck Norris CAN believe it's not butter.”
 </blockquote>
 
-–<a href="http://www.chucknorrisfacts.com/chuck-norris-top-50-facts">Chuck Norris Facts</a> 
+–[Chuck Norris Facts](http://www.chucknorrisfacts.com/chuck-norris-top-50-facts) 
 
 Now would be a good time for you to stop reading. 
 
@@ -51,7 +51,7 @@ The trick is to call into <code>Url.Content</code> or <code>Url.Content</code> l
 <pre class="csharpcode">    <span class="kwrd">&lt;</span><span class="html">script</span> <span class="attr">type</span><span class="kwrd">=&quot;text/javascript&quot;</span> <span class="attr">src</span><span class="kwrd">=&quot;&lt;%=<strong>Url.Content</strong>(&quot;</span>~/<span class="attr">Scripts</span>/<span class="attr">all-src</span>.<span class="attr">min</span>.<span class="attr">js</span><span class="kwrd">&quot;)%&gt;&quot;</span><span class="kwrd">&gt;&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span></pre>
 
 
-This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between <a href="http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&amp;changeSetId=23011#266520"><code>Url.Content</code></a> and <a href="http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx"><code>Url.Content</code></a>? <code>ResolveUrl</code> has been around *forever* as part of <code>Url.Content</code>. On the other hand, <code>Url.Content</code> is relatively new and ships as part of <code>Url.Content</code>. Aside from that, I have no idea—if you do, <a href="http://stackoverflow.com/questions/2418050">please share</a>.
+This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between [<code>Url.Content</code>](http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&amp;changeSetId=23011#266520) and [<code>Url.Content</code>](http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx)? <code>ResolveUrl</code> has been around *forever* as part of <code>Url.Content</code>. On the other hand, <code>Url.Content</code> is relatively new and ships as part of <code>Url.Content</code>. Aside from that, I have no idea—if you do, [please share](http://stackoverflow.com/questions/2418050).
 
 
 Note: these commands work pretty much everywhere—<code>imgs</code>, <code>Url.Content</code>, etc.

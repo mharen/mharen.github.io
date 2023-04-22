@@ -14,7 +14,7 @@ title: Amoeba Fever Problem
 ---
 
 
-My brother, Chris, sent me this interesting <a href="http://yofx.blogspot.com/2009/06/amoeba-fever-problem.html">math problem</a>:
+My brother, Chris, sent me this interesting [math problem](http://yofx.blogspot.com/2009/06/amoeba-fever-problem.html):
 <blockquote> 
 
 Toby has a jar with one amoeba in it. Every minute, every amoeba turns into 0, 1, 2, or 3 amoebae with a probability of 1/4 for each case (dies, does nothing, splits into two, or splits into three). What is the probability that the amoeba population eventually dies out?
@@ -40,7 +40,7 @@ Or more generally:
 
 This converges very rapidly so any additional terms beyond n=3 are insignificant here.
 
-This approach is not very accurate as it assumes linear growth of the population which is not promised, though I figured it’d be close. Being a programmer, I decided to write a <a href="http://jsbin.com/afoli">simple simulator</a> to just brute force the answer.
+This approach is not very accurate as it assumes linear growth of the population which is not promised, though I figured it’d be close. Being a programmer, I decided to write a [simple simulator](http://jsbin.com/afoli) to just brute force the answer.
 
 This little in-browser JavaScript application runs through hundreds or thousands of “jars” to see how often the jar flourishes with life or dies out. I assume that if the population reaches 1000 amoebae that it will *never* die off (that is, the chances of it are small enough to consider it a win). In fact, flipping through my results shows that if a jar can survive 9 iterations, it’s almost certain it will flourish (a much lower standard would probably suffice).
 
@@ -48,7 +48,7 @@ Anyway, so after 10000 jars are tested, I get a number of about 41%. (note: don�
 
 Chris has promised to check the math later and determine if I’m close.
 
-Feel free to do a view-source, or look at the page in <a href="http://jsbin.com/afoli/edit">edit mode</a>. It won’t let you overwrite my version so hack away. When readying to criticize my code, keep in mind that I wrote it at 4am and haven’t prepared it for public scrutiny. The fact that it’s so slow tells me I’m doing something horribly inefficient somewhere…
+Feel free to do a view-source, or look at the page in [edit mode](http://jsbin.com/afoli/edit). It won’t let you overwrite my version so hack away. When readying to criticize my code, keep in mind that I wrote it at 4am and haven’t prepared it for public scrutiny. The fact that it’s so slow tells me I’m doing something horribly inefficient somewhere…
 
 ---
 

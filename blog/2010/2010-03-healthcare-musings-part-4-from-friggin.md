@@ -15,7 +15,7 @@ title: Healthcare Musings Part 4 (From a Friggin Airplane)
 
 I’m thrilled to see the whole healthcare thing coming together. I am very excited that the most important legislation of my generation will be passed soon!
 
-I hope upon hope that the new <a href="http://www.reuters.com/article/idUSTRE61O4NV20100319">CBO numbers</a>, predicting some nice deficit cuts (1.3 trillion over 20 years!), will give some republics the excuse they need to get with the program. Imagine how powerful it would be if a bunch of them got on board—it doesn’t have to be a party line vote and I think the CBO report gives them an out. 
+I hope upon hope that the new [CBO numbers](http://www.reuters.com/article/idUSTRE61O4NV20100319), predicting some nice deficit cuts (1.3 trillion over 20 years!), will give some republics the excuse they need to get with the program. Imagine how powerful it would be if a bunch of them got on board—it doesn’t have to be a party line vote and I think the CBO report gives them an out. 
 
 They can even rub it in the dems faces by claiming their pressure and work lead to a better, cheaper bill—that might even be true. Just vote for the damn thing!
 
@@ -27,7 +27,7 @@ All along I’ve maintained a much simpler view of this whole healthcare issue:
 <strong>The insured pay for the freeloaders already through higher premiums, obscene costs, and taxes. Why not make it official and get some benefits ourselves?</strong>
 </blockquote>
 
-BTW: I’m posting this <a href="http://twitter.com/mharen/status/10699650341">from a friggin airplane</a>.
+BTW: I’m posting this [from a friggin airplane](http://twitter.com/mharen/status/10699650341).
 
 ---
 

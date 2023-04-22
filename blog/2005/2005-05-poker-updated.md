@@ -19,4 +19,4 @@ This left Chris and Jon to go heads-up for over an hour. There was some really g
 
 The process repeated and Chris was left with a very short stack. The process repeated again and Jon took the title! Congratulations! Thanks to all the players for coming out.
 
-And then on Sunday we both played in a 330 person tournament. I got 2nd place at my table of 10 and Chris got 1st at his table. He went on to the final table and played against Daniel Negreanu, a very famous poker professional. He played awesome the whole night and won so cool prizes! He finished 3rd out of 330. You can read all about it on <a href="http://www.xanga.com/home.aspx?user=supermanwithcheese">his site</a>. The pic you see is Chris with Daniel.
+And then on Sunday we both played in a 330 person tournament. I got 2nd place at my table of 10 and Chris got 1st at his table. He went on to the final table and played against Daniel Negreanu, a very famous poker professional. He played awesome the whole night and won so cool prizes! He finished 3rd out of 330. You can read all about it on [his site](http://www.xanga.com/home.aspx?user=supermanwithcheese). The pic you see is Chris with Daniel.

@@ -35,7 +35,7 @@ Really I have only myself to blame. As we were driving home from church, Sarah s
 
 Nah, I thought, this will be different. And it *was…*different. I might never eat roast beef again. At least not until I forget all this in a few weeks and accidentally eat at Arby’s again.
 
-On a barely related note, check out this <a href="http://www.mopo.ca/2007/04/fast-food-ads-vs-reality.html">ad-vs-actual</a> round up of fast food sandwiches. <sup>*</sup><a href="http://www.kovideo.net/lyrics/d/Dane-Cook/Bathroom.html">Hat</a>-<a href="http://www.absoluteastronomy.com/quotations/Dane_Cook">Tip</a> to <a href="http://www.danecook.com/">Dane Cook</a>
+On a barely related note, check out this [ad-vs-actual](http://www.mopo.ca/2007/04/fast-food-ads-vs-reality.html) round up of fast food sandwiches. <sup>*</sup>[Hat](http://www.kovideo.net/lyrics/d/Dane-Cook/Bathroom.html)-[Tip](http://www.absoluteastronomy.com/quotations/Dane_Cook) to [Dane Cook](http://www.danecook.com/)
 
 ---
 

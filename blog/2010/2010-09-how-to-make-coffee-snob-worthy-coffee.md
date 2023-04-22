@@ -25,7 +25,7 @@ That’s why I started drinking coffee, any way. The reason I’m a snob about i
 
 Notably absent from my reasons is caffeine. That difficult to spell compound has no perceptible effect on me and is of little use (to me) when struck with that 2:30 feeling. And yes, I have tested this by abstaining from coffee for many weeks at a time…  <h4>How To Make Coffee at Home</h4>
 
-First off, you need good coffee. Coffee has a limited shelf life so don’t buy too much. Check the label carefully for the words “Folgers” and “Maxwell House”—these are indications of poor quality coffee. Buy it in a bag, too, not a can. For true connoisseurs, read up on <a href="http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html">Alton Brown’s advice</a> and try to catch his *Good Eats* on the topic. I think most of his thoughts are pretty extreme, though, so I’ll present a much simplified version. 
+First off, you need good coffee. Coffee has a limited shelf life so don’t buy too much. Check the label carefully for the words “Folgers” and “Maxwell House”—these are indications of poor quality coffee. Buy it in a bag, too, not a can. For true connoisseurs, read up on [Alton Brown’s advice](http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html) and try to catch his *Good Eats* on the topic. I think most of his thoughts are pretty extreme, though, so I’ll present a much simplified version. 
 
 Here’s what you’ll need:  <ul>   <li>a coffee maker and filters – nothing fancy; I use a simple $15 Mr. Coffee drip machine </li>    <li>coffee – again, nothing too fancy; I like pretty much any mild/medium roast and usually pay $6-8 per 12oz bag </li>    <li>kitchen scale – something with good precision (grams or hundredths of an ounce) </li> </ul>
 
@@ -39,7 +39,7 @@ Brew your coffee (don’t steal a cup part way through—it only takes 3 minutes
 
 Prepare a mug as you normally would or if you’re new here, add a splash or two of milk and a generous tablespoon of sugar (get ‘em started easy, I always say). Pour the drink and find something interesting or relaxing to do for 20 minutes while it cools enough for you to actually sip it.  <h4>Your Next Pot</h4>
 
-How’d that first pot go? Too strong/weak? Think about what you’d like to change and do so next time by adjusting your numbers up or down by one or two grams/cup. If you feel compelled to go lower than 12 grams total, though, I’d suggest diluting the finished product with some water as suggested in the previously references <a href="http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html">article</a>:
+How’d that first pot go? Too strong/weak? Think about what you’d like to change and do so next time by adjusting your numbers up or down by one or two grams/cup. If you feel compelled to go lower than 12 grams total, though, I’d suggest diluting the finished product with some water as suggested in the previously references [article](http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html):
 <blockquote> 
 
 If you prefer a milder cup, brew to full strength, and then dilute with hot water. Brewing with too little coffee will result in over-extraction, and that means bitterness.
@@ -49,7 +49,7 @@ If you follow the dilution method, I suggest switching to tea (pansy) or adding 
 
 After a few weeks you’ll run out of coffee. Buy a different variety next time to keep things interesting. Sarah always gets me something new, but nothing fancy, and the slight change every few weeks is great.  <h4>What About Organic/Fair Trade/Single Origin/Blah/Blah/Blah Coffee?</h4>
 
-I honestly don’t know the first thing about any of that. My <a href="http://footedjammies.blogspot.com/">resident hippie</a> buys coffee like a hippie so I guess I am passively endorsing some of those causes by drinking it, so there’s that. I suggest turning to Google for more info on those topics.  <h4>FAQ (i.e. Q&amp;As I Made Up)</h4>
+I honestly don’t know the first thing about any of that. My [resident hippie](http://footedjammies.blogspot.com/) buys coffee like a hippie so I guess I am passively endorsing some of those causes by drinking it, so there’s that. I suggest turning to Google for more info on those topics.  <h4>FAQ (i.e. Q&amp;As I Made Up)</h4>
 
 <strong>I have a fancy {coffee, coffee maker, beaker, flask, magical gem, etc.} and it makes *way* better coffee? </strong>
 
@@ -97,7 +97,7 @@ It’s an acquired taste for sure. Here’s my estimate of a typical hater’s r
 
 <strong>I’m making coffee for an actual coffee snob, what do I do?</strong>
 
-That’s actually pretty simple—just ask them to make it; they won’t mind. Or, if your friend is nice, ask them for honest feedback. They will invariably say that it should be stronger, or at least that’s been my experience. Hat-tip to the <a href="http://picturingtheordinary.blogspot.com/">nicest coffee expert</a> I know.
+That’s actually pretty simple—just ask them to make it; they won’t mind. Or, if your friend is nice, ask them for honest feedback. They will invariably say that it should be stronger, or at least that’s been my experience. Hat-tip to the [nicest coffee expert](http://picturingtheordinary.blogspot.com/) I know.
 
 <strong>Umm Starbucks is way better than Dunkin.</strong>
 
@@ -127,5 +127,5 @@ Awesome post! I must admit, I had a HORRIBLE cup of Dunkin last Sunday. I will d
 
 **Michael Haren said on 2010-09-23**
 
-I must share <a href="http://theoatmeal.com/comics/coffee" rel="nofollow">this</a>, too
+I must share [this](http://theoatmeal.com/comics/coffee" rel="nofollow), too
 

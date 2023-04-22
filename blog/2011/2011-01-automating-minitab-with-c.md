@@ -14,9 +14,9 @@ title: Automating Minitab with C#
 ---
 
 
-My job takes me a lot of different places and I work with a lot of different technologies along the way. Recently my team and I were tasked with a sort of <a href="http://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">ETL</a>/reporting project involving some bizarrely formatted flat files, an Oracle database, and a couple Minitab macros. It was actually very straight forward except for one piece: automating Minitab.
+My job takes me a lot of different places and I work with a lot of different technologies along the way. Recently my team and I were tasked with a sort of [ETL](http://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank)/reporting project involving some bizarrely formatted flat files, an Oracle database, and a couple Minitab macros. It was actually very straight forward except for one piece: automating Minitab.
 
-I’m sharing the core piece of our development below in hopes that this will save a future dev some grief. I know that this looks very simple, and it is. Getting down to these few lines was not, I assure you, easy. A shout out to <a href="http://www.twitter.com/xover9000" target="_blank">@xover9000</a> for doing pretty much all of this:
+I’m sharing the core piece of our development below in hopes that this will save a future dev some grief. I know that this looks very simple, and it is. Getting down to these few lines was not, I assure you, easy. A shout out to [@xover9000](http://www.twitter.com/xover9000" target="_blank) for doing pretty much all of this:
 <blockquote>   <pre class="csharpcode"><span class="rem">// the basic pieces</span>
 var MtbApp = <span class="kwrd">new</span> Mtb.Application();
 var MtbProj = MtbApp.ActiveProject;

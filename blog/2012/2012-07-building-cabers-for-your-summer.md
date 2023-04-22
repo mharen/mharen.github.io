@@ -15,9 +15,9 @@ title: Building Cabers for your Summer Olympics
 
 Let’s face it: you’re not an Olympian. Great, I’m relieved to get that out of the way.
 
-Starting with the Summer games in 2008, my company has held its own version of the Olympics. We had a fantastically <a href="http://www.rovisys.com/staticContent/Pictures/RovOlympics2008/index.html">memorable time in 2008</a>, and <a href="http://www.rovisys.com/staticContent/Pictures/WinterOlympics2010/index.html">again in 2010</a> (Winter), and are ramping up again for the 2012 games on Friday.
+Starting with the Summer games in 2008, my company has held its own version of the Olympics. We had a fantastically [memorable time in 2008](http://www.rovisys.com/staticContent/Pictures/RovOlympics2008/index.html), and [again in 2010](http://www.rovisys.com/staticContent/Pictures/WinterOlympics2010/index.html) (Winter), and are ramping up again for the 2012 games on Friday.
 
-My contribution to the organization of the event this year is the caber toss. Or really just the cabers themselves. Apparently a <a href="http://en.wikipedia.org/wiki/Caber_toss">caber toss</a> is a Scottish thing where you launch 175 lb., 19’ birch trees (the cabers) for distance and accuracy. Obviously we’re not going to do exactly that (we’re a bunch of wee engineers) so our approximation will be constructed from pool noodles. Approximate equipment for an approximate event (this isn’t actually an *Olympic *event), I guess.
+My contribution to the organization of the event this year is the caber toss. Or really just the cabers themselves. Apparently a [caber toss](http://en.wikipedia.org/wiki/Caber_toss) is a Scottish thing where you launch 175 lb., 19’ birch trees (the cabers) for distance and accuracy. Obviously we’re not going to do exactly that (we’re a bunch of wee engineers) so our approximation will be constructed from pool noodles. Approximate equipment for an approximate event (this isn’t actually an *Olympic *event), I guess.
 
 Here’s how I made ours.
 
@@ -65,4 +65,4 @@ We had originally considered putting a wood dowel down the middle for rigidity. 
 
 Now I just need to figure out how to actually get them to the office…
 
-If you’re overwhelmed with curiosity about what an office Olympics might be like, check out photos from previous years (<a href="http://www.rovisys.com/staticContent/Pictures/RovOlympics2008/index.html">2008</a>, <a href="http://www.rovisys.com/staticContent/Pictures/WinterOlympics2010/index.html">2010</a>). Pictures from this year’s games will be up a few weeks after the event.
+If you’re overwhelmed with curiosity about what an office Olympics might be like, check out photos from previous years ([2008](http://www.rovisys.com/staticContent/Pictures/RovOlympics2008/index.html), [2010](http://www.rovisys.com/staticContent/Pictures/WinterOlympics2010/index.html)). Pictures from this year’s games will be up a few weeks after the event.

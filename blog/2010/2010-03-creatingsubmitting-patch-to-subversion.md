@@ -20,7 +20,7 @@ I’ve been told that these programming posts are not interesting or funny. For 
 
 “I hope we find a cure for every major disease, because I'm tired of walking 5K. I'm pretty sure I don't have to sweat for cancer. I'll write a check.”   
 
-–<a href="http://www.danieltosh.com/">Daniel Tosh</a> (<a href="http://en.wikiquote.org/wiki/Daniel_Tosh">via</a>)
+–[Daniel Tosh](http://www.danieltosh.com/) ([via](http://en.wikiquote.org/wiki/Daniel_Tosh))
 </blockquote>
 
 Now would be a good time for you to stop reading.  <hr />

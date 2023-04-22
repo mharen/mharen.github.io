@@ -19,7 +19,7 @@ Sometimes I wonder if the whole air travel industry is really just a giant exper
 
 It seems to me that the whole airline industry is taking the wrong approach to solve the issue of security. Instead of belittling thousands (millions?) of people each day with completely ridiculous procedures, I suggest we try something else.
 
-First, let's recognize that a plane is basically a bus that can fly (you are so clever, <a href="http://www.airbus.com/en/">Airbus</a>). Terrorists or any other nut job can take a bus (or diner, or super market, or cafe) hostage much more easily than an airplane and yet all the focus is on planes. I guess this is because of the sole difference with airplanes--they are unique in their ability to be used as missiles. Let's focus our energy and money on that issue.
+First, let's recognize that a plane is basically a bus that can fly (you are so clever, [Airbus](http://www.airbus.com/en/)). Terrorists or any other nut job can take a bus (or diner, or super market, or cafe) hostage much more easily than an airplane and yet all the focus is on planes. I guess this is because of the sole difference with airplanes--they are unique in their ability to be used as missiles. Let's focus our energy and money on that issue.
 
 Instead of spending billions on sniffers, scanners, and detectors, let's make the cockpit into a tank and just let the pilots fly the planes. Build in some fail safes to keep the pilots isolated from cabin activities (including conversation) when the plane goes into "hijack" mode.
 

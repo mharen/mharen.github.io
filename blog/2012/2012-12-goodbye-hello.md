@@ -14,10 +14,10 @@ title: Goodbye, Hello
 
 
 I'm happy to share that I've begun an entirely new volume in my career. Today is my first day at OverDrive, Inc.<h3>The New</h3>
-<a href="http://overdrive.com/">OverDrive</a>&nbsp;does management and distribution of digital media like audio books and ebooks. If you've ever borrowed an ebook from your library, the chances are very good you've touched their technology.
+[OverDrive](http://overdrive.com/)&nbsp;does management and distribution of digital media like audio books and ebooks. If you've ever borrowed an ebook from your library, the chances are very good you've touched their technology.
 They're headquartered in an amazing new office in Garfield Heights, Ohio, where I'll be working as a developer.<h3>The Old</h3>
 I am leaving behind an incredible team at RoviSys. I worked there for nearly eight years and had the pleasure of building some great software and great relationships.
-If you're looking for a fun, dynamic environment with some clever, passionate people give them a <a href="http://www.rovisys.com/Careers/Careers.aspx">shout</a>. If you like variety in your work or love to travel why are you still here? Go call them (they're hiring all the time)!<h3>What?! Why?</h3>
+If you're looking for a fun, dynamic environment with some clever, passionate people give them a [shout](http://www.rovisys.com/Careers/Careers.aspx). If you like variety in your work or love to travel why are you still here? Go call them (they're hiring all the time)!<h3>What?! Why?</h3>
 I had a pretty sweet setup at RoviSys, it's true. So why would I step out into the unknown like this? It really boiled down to the differences between consulting work and product work.
 For me, consulting meant that I got to work on a variety of different things. The projects were numerous. That's good.
 Product work is different. Pretty much all your effort goes to support the products of your company. Of course products are complex things with lots of moving parts, but it's a far cry from the diversity you see in consulting.

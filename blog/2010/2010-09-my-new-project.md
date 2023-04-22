@@ -15,7 +15,7 @@ title: My New Project
 
 I’m kicking off a new project today and am taking you along for the ride. While the subject matter could hardly be less interesting (as you’ll soon find), I hope the process to be worthwhile. Stick with me to the end for your assignment and an opportunity to win fabulously small, worthless prizes.  <h4>The Project</h4>
 
-<a href="http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php">![interview-questions.gif](interview-questions.gif)</a>The problem I’m trying to solve relates to how a company manages interviews. 
+[![interview-questions.gif](interview-questions.gif)](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)The problem I’m trying to solve relates to how a company manages interviews. 
 
 For example, imagine this scenario. You get called for an interview with a company. You schedule a time and go in. You might talk to five different people who all form an opinion of you as a candidate. Ultimately these five opinions are considered in some way and some decision about your future is made.
 

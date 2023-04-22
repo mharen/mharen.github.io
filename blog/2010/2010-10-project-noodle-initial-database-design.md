@@ -13,7 +13,7 @@ time_to_read: 5
 title: 'Project Noodle: Initial Database Design'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> If you are disoriented, you might want to <a href="http://blog.wassupy.com/search/label/Project%20Noodle">browse more posts</a> about this project</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> If you are disoriented, you might want to [browse more posts](http://blog.wassupy.com/search/label/Project%20Noodle) about this project</div>
 
 First off: this will change as I go.
 
@@ -27,7 +27,7 @@ At this stage, I am really interested in two key things:  <ol>   <li>Does my sch
 
 And so, being the semi-disciplined person I am (or at least when I’m blogging about a recommendation), I will check these two things.   <h4>Does my schema cover everything?</h4>
 
-In another window I brought up the <a href="../2010/2010-09-my-new-project-initial-mockups.html">mockups</a>. Right off the bat, I’m finding a gap in what I need to capture and what my schema supports:  <ul>   <li>I don’t have anywhere to store why, when, or where a candidate is to be interviewed </li>    <li>I don’t have anywhere to store a candidates picture, or resume </li>    <li>I don’t have anywhere to store a candidates actual offer or hire status </li> </ul>
+In another window I brought up the [mockups](../2010/2010-09-my-new-project-initial-mockups.html). Right off the bat, I’m finding a gap in what I need to capture and what my schema supports:  <ul>   <li>I don’t have anywhere to store why, when, or where a candidate is to be interviewed </li>    <li>I don’t have anywhere to store a candidates picture, or resume </li>    <li>I don’t have anywhere to store a candidates actual offer or hire status </li> </ul>
 
 So let’s fix that together. It looks like I need something akin to an “interview master” table which will store the details of a block of interviews. This can’t really go in the candidates table since a single candidate could come in multiple times. 
 

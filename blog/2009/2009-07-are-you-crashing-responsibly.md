@@ -25,7 +25,7 @@ Power outage? Probably.
 
 Disk error? Maybe.  
 
-Ancient browsers? <a href="http://mharen.blogspot.com/2009/06/troubleshooting-elusive-site-slow-down.html">Maybe</a>.  
+Ancient browsers? [Maybe](http://mharen.blogspot.com/2009/06/troubleshooting-elusive-site-slow-down.html).  
 
 CPU error? CPU what?  
 
@@ -34,13 +34,13 @@ User-modified executable? Oh hell no.
 Virus infestation? Game over.
 </blockquote>
 
-The fact is, with finite time and resources we do the best we can to provide a good user experience to as many users as we can. The idea of <a href="http://www.codinghorror.com/blog/archives/001118.html">crashing responsibly</a>, though, is to toss in some grace when the unexpected occurs. Check out that post for a lot of really great tips. I’ll just repeat a couple ideas briefly here.
+The fact is, with finite time and resources we do the best we can to provide a good user experience to as many users as we can. The idea of [crashing responsibly](http://www.codinghorror.com/blog/archives/001118.html), though, is to toss in some grace when the unexpected occurs. Check out that post for a lot of really great tips. I’ll just repeat a couple ideas briefly here.
 
-First, blame yourself, not the user. It’s usually not their fault something went wrong. I love the <a href="http://stackoverflow.com/">stackoverflow</a> error message (only once encountered):
+First, blame yourself, not the user. It’s usually not their fault something went wrong. I love the [stackoverflow](http://stackoverflow.com/) error message (only once encountered):
 
 &#160;![gooderrorpage7.png](gooderrorpage7.png) 
 
-Obviously <a href="http://icanhascheezburger.com/">Lolcats</a> won’t work in some professional environments but the message certainly would: <strong>This is our fault and we’re on it.</strong> Here’s a less adorable mockup I made recently for a corporate project (thanks to <a href="http://www.balsamiq.com/products/mockups/examples">Balsamiq mockups</a>, a sweet mockup maker):  
+Obviously [Lolcats](http://icanhascheezburger.com/) won’t work in some professional environments but the message certainly would: <strong>This is our fault and we’re on it.</strong> Here’s a less adorable mockup I made recently for a corporate project (thanks to [Balsamiq mockups](http://www.balsamiq.com/products/mockups/examples), a sweet mockup maker):  
 
 ![ErrorPageMockup.png](ErrorPageMockup.png) 
 

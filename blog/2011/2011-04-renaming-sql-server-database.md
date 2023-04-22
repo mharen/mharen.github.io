@@ -34,10 +34,10 @@ SQL Server 2005+ should use this slightly different version:
 </blockquote>
 
 
-If you want to rename the actual files on disk, too, <a href="http://www.mssqltips.com/tip.asp?tip=1891">this article</a> does a fantastic job with that topic.
+If you want to rename the actual files on disk, too, [this article](http://www.mssqltips.com/tip.asp?tip=1891) does a fantastic job with that topic.
 
 
-If you’re curious what <code>ROLLBACK IMMEDIATE</code> does, <a href="http://itknowledgeexchange.techtarget.com/sql-server/understanding-what-the-with-rollback-immediate-does/">this is a great explanation</a>. In short, it rolls back *other *transactions if they are blocking the desired operation. Without this statement, the <code>ALTER DATABASE</code> command may take as long as *forever* to run.
+If you’re curious what <code>ROLLBACK IMMEDIATE</code> does, [this is a great explanation](http://itknowledgeexchange.techtarget.com/sql-server/understanding-what-the-with-rollback-immediate-does/). In short, it rolls back *other *transactions if they are blocking the desired operation. Without this statement, the <code>ALTER DATABASE</code> command may take as long as *forever* to run.
 
 ---
 

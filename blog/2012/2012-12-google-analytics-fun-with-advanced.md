@@ -18,7 +18,7 @@ The normal stats you get for your users are pretty nice:
 
 ![image%25255B2%25255D.png](image%25255B2%25255D.png)
 
-But this doesn’t show us how they’ve changed *over time*. For instance, how has Internet Explorer fared over the last two years? You can do this with <a href="https://support.google.com/analytics/bin/answer.py?hl=en-GB&amp;answer=1033017&amp;topic=1032940&amp;rd=1">advanced segments</a>.
+But this doesn’t show us how they’ve changed *over time*. For instance, how has Internet Explorer fared over the last two years? You can do this with [advanced segments](https://support.google.com/analytics/bin/answer.py?hl=en-GB&amp;answer=1033017&amp;topic=1032940&amp;rd=1).
 
 Click the advanced segments button and add a few custom segments for the metric you’re interested in. In my case, I added one for browsers that look like IE, and browsers that don’t:
 
@@ -68,7 +68,7 @@ I’m pleasantly surprised to see that 1280px+-wide monitors make up more than 8
 
 Google+ circles - More by Eugen Oprea
 
-Nov 6, 2012 – Google Analytics Advanced Segments are powerful filters that can help you segment data. Learn more about them in this article. <a href="http://www.jdmediasurge.com/google-analtyics-training/" rel="nofollow">see more here </a>
+Nov 6, 2012 – Google Analytics Advanced Segments are powerful filters that can help you segment data. Learn more about them in this article. [see more here ](http://www.jdmediasurge.com/google-analtyics-training/" rel="nofollow)
 
 
 

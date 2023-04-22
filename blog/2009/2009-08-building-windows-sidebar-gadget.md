@@ -22,7 +22,7 @@ Here’s the end result:
 
 The gadget is on the right side, the regular Hudson interface on the left. The top 11 projects are listed as links to their project pages within Hudson. The colored bullets indicate build status (green = good, red = bad). I experimented with shading, text color, etc. and concluded that just having colored bullets was clear, clean and consistent with the regular Hudson interface.
 
-![image%5B9%5D.png](image%5B9%5D.png)Anyway, the easiest way to get started with Gadget development seems to be starting with an existing gadget. I started with the unofficial Stackoverflow.com <a href="http://flairgadget.codeplex.com/">flair gadget</a>. A .gadget file is really just a zip file. 7zip seems to know this as it allowed me to unzip it without renaming it to .zip which was nice. After unzipping, I stripped out pretty much everything except the structure. 
+![image%5B9%5D.png](image%5B9%5D.png)Anyway, the easiest way to get started with Gadget development seems to be starting with an existing gadget. I started with the unofficial Stackoverflow.com [flair gadget](http://flairgadget.codeplex.com/). A .gadget file is really just a zip file. 7zip seems to know this as it allowed me to unzip it without renaming it to .zip which was nice. After unzipping, I stripped out pretty much everything except the structure. 
 
 The gadget is remarkably simple—it’s just two web pages, main.html and settings.html. All the other files are just there for support: a few images, jquery (my favorite JS library), and json2 (brings JSON support to IE which is curiously missing on my Windows 7 machine). Obviously main.js/.css/.html go together as do settings.js/.css/.html.
 

@@ -21,7 +21,7 @@ So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working
 <strong>ERROR service '?' unknown</strong>
 </blockquote>
 
-You probably have some code like this (or you’re just trying to <a href="http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/">login</a> or get your app to run):  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
+You probably have some code like this (or you’re just trying to [login](http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/) or get your app to run):  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
 
 <span class="rem">// other init...</span>
 
@@ -253,7 +253,7 @@ Strictly speaking, you should only really one or two of these—the one that cor
 <h3>Other Things To Try</h3>
 
 
-If that doesn’t fix it, you might also make sure you’re <a href="http://scn.sap.com/message/7362628">using a hostname</a> (not an IP address) and that you are using the <a href="http://scn.sap.com/message/10615183#10615183">right connection</a> for your situation (ashost/application server host vs. message server host else there is).
+If that doesn’t fix it, you might also make sure you’re [using a hostname](http://scn.sap.com/message/7362628) (not an IP address) and that you are using the [right connection](http://scn.sap.com/message/10615183#10615183) for your situation (ashost/application server host vs. message server host else there is).
 
 
-I also stumbled across a user <a href="http://social.technet.microsoft.com/Forums/en-US/identitylifecyclemanager/thread/6b0c21e2-3f10-47df-be92-f9b682805dd9/">reporting an issue with tabs vs. spaces</a>. I’ve not had any trouble with spaces but your mileage may vary.
+I also stumbled across a user [reporting an issue with tabs vs. spaces](http://social.technet.microsoft.com/Forums/en-US/identitylifecyclemanager/thread/6b0c21e2-3f10-47df-be92-f9b682805dd9/). I’ve not had any trouble with spaces but your mileage may vary.

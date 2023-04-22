@@ -11,7 +11,7 @@ time_to_read: 5
 title: Twizzlers
 ---
 
-I know you're not supposed to get into Heaven just by merit, but whoever invented <a href="http://www.hersheys.com/products/details/twizzlers.asp">Twizzlers</a> should get a free pass...If people are going to be somewhere for eternity, they're going to want him or her around.
+I know you're not supposed to get into Heaven just by merit, but whoever invented [Twizzlers](http://www.hersheys.com/products/details/twizzlers.asp) should get a free pass...If people are going to be somewhere for eternity, they're going to want him or her around.
 
 
 

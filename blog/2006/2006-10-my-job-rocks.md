@@ -11,7 +11,7 @@ time_to_read: 5
 title: My Job Rocks
 ---
 
-<strong>Subtitle:</strong> Why you should work for <a href="http://www.rovisys.com/rovisys/about/news.asp">Rovisys</a>
+<strong>Subtitle:</strong> Why you should work for [Rovisys](http://www.rovisys.com/rovisys/about/news.asp)
 
 ![rovisys-o-logo.gif](rovisys-o-logo.gif)Throughout high school and college, I had one goal in mind when it came to academia: get a job. I realized that degree-->job, so I stuck with college. Now don't get me wrong, I had a great time in college. I met some awesome people and often think back to some of the best fun I have ever had.
 
@@ -27,7 +27,7 @@ I get a kick out of seeing things I did be actually useful to others. For exampl
 
 Then, I was hired as a full-timer a year later. They are <strong>still</strong> using it! Given, it has obviously received some major updates, bug fixes, etc., but the point is that people actually use this stuff! Of course looking back at my code causes me to chuckle at its poor design and convoluted ways of doing simple things. You live, you learn.
 
-OK, OK, but why Rovisys? Rovisys is small company of about 150 people. For the most part this is a good thing. I know most people in the company, including the President/owner--and they actually know me, too! In fact, it's the president of the company that <a href="http://www.wassupy.com/20060915/work/sailing-the-great-lakes/" title="Sailing the Great Lakes">took a bunch of us out</a> on the Great Lakes in August.
+OK, OK, but why Rovisys? Rovisys is small company of about 150 people. For the most part this is a good thing. I know most people in the company, including the President/owner--and they actually know me, too! In fact, it's the president of the company that [took a bunch of us out](http://www.wassupy.com/20060915/work/sailing-the-great-lakes/" title="Sailing the Great Lakes) on the Great Lakes in August.
 
 Rovisys takes care of its employees pretty well. From what I understand, pay is pretty average, but it goes far beyond that. I don't even want to know what the budget is for company events like parties, outings, etc. It's huge.
 

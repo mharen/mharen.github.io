@@ -28,6 +28,6 @@ And this close runner-up:
 
 
 
-But those professionally produced, multi-million-dollar barely match up to what Youtubers put together. <a href="../2010/2010-11-arduino-day-6-analog-inputs.html" target="_blank">Need I remind you</a>? 
+But those professionally produced, multi-million-dollar barely match up to what Youtubers put together. [Need I remind you](../2010/2010-11-arduino-day-6-analog-inputs.html" target="_blank)? 
 
 But what about actual advertising? I for one welcome our ad-targeting, crowd-sourced robot overlords and judging from yesterday’s performance, the sooner they arrive the better.

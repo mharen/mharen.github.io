@@ -17,6 +17,6 @@ WTF? This has no scientific backing whatsoever. The quoted biologists said that 
 
 Maybe to help reduce std's we should...wait that's ridiculous. Oh yeah, so's the chicken pox thing. If, as a parent, I ever do something remotely close to this, using the 'ridiculous scale' of course, I am hereby giving the entire internet community permission to kick my ass.
 
-Still a skeptic? <a href="http://www.npr.org/templates/story/story.php?storyId=4528430">Check it out</a>. I believe you can even <a href="http://www.npr.org/templates/story/story.php?storyId=4528430">listen for free</a>.
+Still a skeptic? [Check it out](http://www.npr.org/templates/story/story.php?storyId=4528430). I believe you can even [listen for free](http://www.npr.org/templates/story/story.php?storyId=4528430).
 
 Also of note is that during this post, I realized that I really, really need to implement a spell checker for my blog.

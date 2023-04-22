@@ -13,7 +13,7 @@ title: 'Blurry Shapes: Unleashing the Bokeh'
 
 
 
-While browsing the excellent photography Stack Exchange site and learning lots about <a href="http://photo.stackexchange.com/q/2706/380#2710" target="_blank">bokeh</a>, I came across the <a href="http://www.diyphotography.net/diy_create_your_own_bokeh" target="_blank">awesome idea</a> that led to this shot:  
+While browsing the excellent photography Stack Exchange site and learning lots about [bokeh](http://photo.stackexchange.com/q/2706/380#2710" target="_blank), I came across the [awesome idea](http://www.diyphotography.net/diy_create_your_own_bokeh" target="_blank) that led to this shot:  
 
 ![DSC_0417%5B6%5D.jpg](DSC_0417%5B6%5D.jpg)
 

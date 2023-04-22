@@ -13,7 +13,7 @@ title: 10 Reasons Why We Should Give Google More Credit
 ---
 
 
-(TL;DR: jump to <a href="#toptenlist-google">the end</a> for the list)
+(TL;DR: jump to [the end](#toptenlist-google) for the list)
 
 In light of recent Google-bashing, I feel compelled to speak up. I’m an engineer and I build stuff every day.
 
@@ -30,7 +30,7 @@ And your history really does help, e.g. “java”. That’s a programming langu
 ![image%5B9%5D.png](image%5B9%5D.png)
 
 Google isn’t all showy or anything, it just gives me results.  
-But sometimes the results suck. <strong>Here are a few reasons to give Google a break:</strong>  <ol>   <li>The results only suck occasionally. I use Google a lot. If you do, too, check your <a href="https://www.google.com/history/">history</a> to see just how much:       
+But sometimes the results suck. <strong>Here are a few reasons to give Google a break:</strong>  <ol>   <li>The results only suck occasionally. I use Google a lot. If you do, too, check your [history](https://www.google.com/history/) to see just how much:       
 
 ![choose-search%5B3%5D.jpg](choose-search%5B3%5D.jpg)</li>    <li>Google will take over the world and you better be on its good side when it does </li> </ol>
 

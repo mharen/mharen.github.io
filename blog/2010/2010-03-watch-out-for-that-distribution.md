@@ -13,7 +13,7 @@ title: Watch out for that Distribution Database
 ---
 
 
-I received some pretty <a href="http://twitter.com/mharen/status/10326855258">serious alerts this morning</a> about our database server running low on disk space and quickly discovered something amiss:
+I received some pretty [serious alerts this morning](http://twitter.com/mharen/status/10326855258) about our database server running low on disk space and quickly discovered something amiss:
 
 ![image%5B2%5D.png](image%5B2%5D.png) 
 

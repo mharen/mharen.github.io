@@ -13,7 +13,7 @@ title: 'Word Document Automation with .NET 4: Attach Styles From a Template'
 ---
 
 
-I’ve been working with document generation a <a href="../2010/2010-02-word-document-automation-with-net-4.html">bit</a> <a href="../2010/2010-02-word-document-automation-with-net-4_27.html">lately</a>. The latest hurdle I’ve had to jump is related to styles. I’ve found that the technique I’m using to merge styles is nice and easy but has one undesired feature: each source doc brings its own styles with it, overwriting any existing styles that have already been imported as it goes. This is nice in a lot of ways, but not what I want at the moment.
+I’ve been working with document generation a [bit](../2010/2010-02-word-document-automation-with-net-4.html) [lately](../2010/2010-02-word-document-automation-with-net-4_27.html). The latest hurdle I’ve had to jump is related to styles. I’ve found that the technique I’m using to merge styles is nice and easy but has one undesired feature: each source doc brings its own styles with it, overwriting any existing styles that have already been imported as it goes. This is nice in a lot of ways, but not what I want at the moment.
 
 After a lot of trial and error, I’ve come up with a super simple way to apply a single set of styles to the finished document:  <pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> StyleDocument(Document document, <span class="kwrd">string</span> templateFile)
 {

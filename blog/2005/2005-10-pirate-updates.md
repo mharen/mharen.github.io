@@ -11,7 +11,7 @@ time_to_read: 5
 title: Pirate Updates
 ---
 
-I have posted a bunch of new pictures of our puppy in <a href="http://www.wassupy.com/gallery2/main.php?g2_view=core.ShowItem&amp;g2_itemId=3293&amp;g2_page=1">the gallery</a>.
+I have posted a bunch of new pictures of our puppy in [the gallery](http://www.wassupy.com/gallery2/main.php?g2_view=core.ShowItem&amp;g2_itemId=3293&amp;g2_page=1).
 
 In related news...my website was down for about half a day because of what turned out to be "wiring trouble".
 

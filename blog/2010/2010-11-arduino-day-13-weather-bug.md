@@ -14,7 +14,7 @@ time_to_read: 5
 title: 'Arduino Day 13: Weather Bug'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
 Today’s quick and simple adaptation of Thursday’s build was suggested by my brother, Chris. It’s a simple traffic light view of the weather:
 
@@ -22,7 +22,7 @@ The app parses XML files from the Internet and extracts a temperature value. If 
 
 ![IMAG0774%5B4%5D.jpg](IMAG0774%5B4%5D.jpg)
 
-Build, circuit, schematic, and Arduino code are identical to my <a href="../2010/2010-11-arduino-day-11-extreme-feedback-for.html" target="_blank">previous project</a>.  <h4>C# (Updated)</h4>
+Build, circuit, schematic, and Arduino code are identical to my [previous project](../2010/2010-11-arduino-day-11-extreme-feedback-for.html" target="_blank).  <h4>C# (Updated)</h4>
 <blockquote>   <pre class="csharpcode"><span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
 {
 

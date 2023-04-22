@@ -20,7 +20,7 @@ Trust me, as a computer engineering student, this is hammered home over and over
 
 Fast forward to the jobsite. I am using real technologies now like VB.Net. I am using a method that returns a double/float and really need the integer part. So, I use good old CINT(double). I am shocked when my results appear to be rounded! Holy crap!
 
-This is huge. CINT(1.6) = 2, not 1! So I look up the <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/script56/html/38eee725-da5b-469b-b3f7-c818a74037c1.asp">documentation</a> and sure enough:
+This is huge. CINT(1.6) = 2, not 1! So I look up the [documentation](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/script56/html/38eee725-da5b-469b-b3f7-c818a74037c1.asp) and sure enough:
 
 <blockquote>Note: CInt differs from the Fix and Int functions, which truncate, rather than round, the fractional part of a number. When the fractional part is exactly 0.5, the CInt function always rounds it to the nearest even number. For example, 0.5 rounds to 0, and 1.5 rounds to 2.
 

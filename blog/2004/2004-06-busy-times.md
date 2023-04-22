@@ -21,7 +21,7 @@ Sarah and I got a hamster. He goes by Geronimo. He like to read scifi play poker
 I got an email from John Lannan yesterday. He's doing great. He had to postpone his wedding though as he's heading back to Ira--err, he's heading to some unnamed country in the middle east to fight for Operation Iraqi Freedom. Feel free to drop him a line-- he'd love to hear from you:
 
 
-<div style="border: 1px gray solid; width: 200px; text-align: center;"><a href="jonathan.lannan@dhafra.af.mil">jonathan.lannan@dhafra.af.mil</a>
+<div style="border: 1px gray solid; width: 200px; text-align: center;">[jonathan.lannan@dhafra.af.mil](jonathan.lannan@dhafra.af.mil)
 
   SrA Lannan Johnathon T.
 

@@ -14,15 +14,15 @@ title: Happy First Birthday, Thing 3
 ---
 
 
-Thing 3’s birthday is today. It’s hard to believe it’s already been a year since <a href="../2011/2011-08-birth-story-thing-3.html">he was born</a>.
+Thing 3’s birthday is today. It’s hard to believe it’s already been a year since [he was born](../2011/2011-08-birth-story-thing-3.html).
 
 ![11-IMG_3263%25255B4%25255D.jpg](11-IMG_3263%25255B4%25255D.jpg)
 
 Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.
 
-Needless to say, I’m excited for the times my son and I will share together. Since I have so many fond memories of growing up working with my dad on handyman-related things, Wife thought I could make him a tool bench as a present (or maybe she’s just spending too much time on Pinterest, where she <a href="http://pinterest.com/pin/184577284698686013/">got the idea</a>).
+Needless to say, I’m excited for the times my son and I will share together. Since I have so many fond memories of growing up working with my dad on handyman-related things, Wife thought I could make him a tool bench as a present (or maybe she’s just spending too much time on Pinterest, where she [got the idea](http://pinterest.com/pin/184577284698686013/)).
 
-The gist of the project was to refurbish a piece of furniture into a children’s toy (this helps to make up for my lack of cabinetry skills). We went to the <a href="http://www.habitat.org/restores/default.aspx">Habitat for Humanity ReStore</a> and discovered a pretty amazing place for construction materials and furniture. This place was a lot more than I expected.
+The gist of the project was to refurbish a piece of furniture into a children’s toy (this helps to make up for my lack of cabinetry skills). We went to the [Habitat for Humanity ReStore](http://www.habitat.org/restores/default.aspx) and discovered a pretty amazing place for construction materials and furniture. This place was a lot more than I expected.
 
 We found what we needed:
 

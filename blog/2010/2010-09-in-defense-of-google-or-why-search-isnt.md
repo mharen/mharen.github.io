@@ -13,7 +13,7 @@ title: "In Defense of Google, or Why Search Isn\u2019t About Bells and Whistles"
 ---
 
 
-I read a <a href="http://www.fastcompany.com/1687702/how-microsoft-bing-should-respond-to-google-instant-search">tiring article</a> wherein Google was accused of being a Bing copy-cat, and that Microsoft should sit still if they want to usurp Google. The post suggests two key Google weaknesses:  <ol>   <li>It has fewer features than Bing </li>    <li>Its new Instant Search is traumatic to the elderly </li> </ol>
+I read a [tiring article](http://www.fastcompany.com/1687702/how-microsoft-bing-should-respond-to-google-instant-search) wherein Google was accused of being a Bing copy-cat, and that Microsoft should sit still if they want to usurp Google. The post suggests two key Google weaknesses:  <ol>   <li>It has fewer features than Bing </li>    <li>Its new Instant Search is traumatic to the elderly </li> </ol>
 
 I’d like to offer a few counterpoints.  <h4>It has fewer features than Bing</h4>
 
@@ -23,7 +23,7 @@ While Bing fills your screen with beautiful images overlaid with elegant, animat
 
 ![image%5B13%5D.png](image%5B13%5D.png)
 
-Sure, Bing is gorgeous here. However, that’s not what’s important to me. When I hit the search engine, I want to find stuff and I don’t want to wait. This is Bing’s greatest weakness: speed. As I type this, Bing repeatedly takes 8-10 seconds to load from an empty cache. Google takes 1-2 seconds. Actually, the difference is worse than that—I just measured with the always awesome <a href="http://www.fiddler2.com/fiddler2/">Fiddler</a>:  
+Sure, Bing is gorgeous here. However, that’s not what’s important to me. When I hit the search engine, I want to find stuff and I don’t want to wait. This is Bing’s greatest weakness: speed. As I type this, Bing repeatedly takes 8-10 seconds to load from an empty cache. Google takes 1-2 seconds. Actually, the difference is worse than that—I just measured with the always awesome [Fiddler](http://www.fiddler2.com/fiddler2/):  
 
 ![image%5B31%5D.png](image%5B31%5D.png)
 
@@ -49,7 +49,7 @@ In this case, the whole point of Instant Search is that after the query is typed
 
 As for the flashing screen? I don’t find it bothersome at all—it’s no more abrupt than what happens every time a link is clicked, after all. I’d bet money they had a prototype that animated the transition from empty search box to the results page. I bet it looked awesome, too, but they scrapped it because the animation didn’t add enough value to offset the time wasted waiting for things to slide around.
 
-Google is <a href="http://en.wikipedia.org/wiki/Elegance">elegant</a>. Bing is <a href="http://en.wiktionary.org/wiki/showy">showy</a>.
+Google is [elegant](http://en.wikipedia.org/wiki/Elegance). Bing is [showy](http://en.wiktionary.org/wiki/showy).
 
 ---
 

@@ -57,13 +57,13 @@ This is where I get really fired up and here's why: these guys have virtually no
 
 As I understand it, all a broker has to do is convince a bank to fund the loan. Since this is a free market, the broker can shop the loan package to multiple banks until someone bites. Over the last few years the standards of a "good loan" have erroded to the point where my dog is considering his own place--all driven by the insatiable demand for mortgages as investments.
 
-NPR's <em id="l-oy2">This American Life</em> has an <a href="http://thisamericanlife.org/Radio_Episode.aspx?sched=1242" id="cpmq" title="incredible story">incredible story</a> about this part of the crisis and I highly recommend it.
+NPR's <em id="l-oy2">This American Life</em> has an [incredible story](http://thisamericanlife.org/Radio_Episode.aspx?sched=1242" id="cpmq" title="incredible story) about this part of the crisis and I highly recommend it.
 
 Who is funding these loans? Banks.
 
 <strong id="yo0w2">Blame the banks</strong>
 
-![monopolyman.jpg](monopolyman.jpg)Somehow in their 20-hour work weeks (closed national holidays, weekends, paydays, full moons and days that end in "y"), bankers managed to buy any and every loan. Despite no income, assets, or SSN, <a href="http://gallery2/v/Dogs/Pirate/" id="mv7s" title="Pirate">Pirate</a> was approved for a sweet crib in the hills.
+![monopolyman.jpg](monopolyman.jpg)Somehow in their 20-hour work weeks (closed national holidays, weekends, paydays, full moons and days that end in "y"), bankers managed to buy any and every loan. Despite no income, assets, or SSN, [Pirate](http://gallery2/v/Dogs/Pirate/" id="mv7s" title="Pirate) was approved for a sweet crib in the hills.
 
 This is the last line of defense when it comes to investment quality. Banks had no business buying horrible exotic loans but their thirst for mortgages clouded their judgement and the money was good.
 

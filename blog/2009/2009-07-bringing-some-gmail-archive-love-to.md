@@ -17,7 +17,7 @@ title: Bringing some Gmail-Archive Love to Outlook
 
 I love Gmail's archive feature. It frees me from organizing my mail by depending on search instead. If you’re unfamiliar, here’s the Google approach to mail:  <ol>   <li>New mail shows up in your inbox</li>    <li>When you’re done with an email, you “archive” it, which basically moves it into a giant folder</li>    <li>When you need to find an old message again, you *search* for it by keyword, sender, date, etc. You *do not *organize mail by folder (though you can if you must)</li> </ol>
 
-I’ve been using a similar approach in Outlook at work for a long time. Encouraged by a <a href="http://getitdone.quickanddirtytips.com/inbox-zero.aspx">GTD idea</a> (cool podcast, btw), I created this structure:  
+I’ve been using a similar approach in Outlook at work for a long time. Encouraged by a [GTD idea](http://getitdone.quickanddirtytips.com/inbox-zero.aspx) (cool podcast, btw), I created this structure:  
 
 ![image%5B55%5D.png](image%5B55%5D.png) 
 
@@ -27,7 +27,7 @@ This mimics the Gmail approach pretty well and means that I can often get to a z
 
 This process has worked wonders for me—really! So now my problem is this: I’m in the office after some paternity leave and I have hundreds of messages to run through. This leaves me missing gmail’s shortcut key for archiving. With a quick press of the “y” key, I can archive messages in gmail and I wanted that in Outlook, too! Here’s how I did it.
 
-First, create a certificate so you can sign the macro we’re about to create. Do this by following <a href="http://grok.lsu.edu/Article.aspx?articleId=593">these instructions</a> (this is my abbreviated version):
+First, create a certificate so you can sign the macro we’re about to create. Do this by following [these instructions](http://grok.lsu.edu/Article.aspx?articleId=593) (this is my abbreviated version):
 <blockquote> 
 
 Open *Start &gt; All Programs &gt; Microsoft Office &gt; MS Office Tools &gt; Digital Certificate for VBA Projects*
@@ -41,7 +41,7 @@ Next, open up Outlook and go to *Tools &gt; Macro &gt; Visual Basic Editor*:
 
 &#160;![image%5B47%5D.png](image%5B47%5D.png) 
 
-Next, enter this code under *Project1 &gt; Microsoft Office Outlook &gt; ThisOutlookSession* (thanks to <a href="http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/">Richard</a> for this code!):
+Next, enter this code under *Project1 &gt; Microsoft Office Outlook &gt; ThisOutlookSession* (thanks to [Richard](http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/) for this code!):
 <blockquote>   <pre class="csharpcode"><span class="kwrd">Option</span> Explicit
 
 <span class="kwrd">Public</span> <span class="kwrd">Sub</span> ArchiveSelectedItems()

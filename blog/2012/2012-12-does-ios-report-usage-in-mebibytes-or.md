@@ -21,7 +21,7 @@ With data caps being all the rage these days you might be wondering how you can 
 
 ![13%25255B7%25255D.png](13%25255B7%25255D.png)
 
-But since I’m a computer guy, I want to know: is this measured in base-2 bytes (e.g. <a href="http://en.wikipedia.org/wiki/Mebibyte">mebibytes</a>) or base-10 bytes (<a href="http://en.wikipedia.org/wiki/Megabyte">megabytes</a>)? 
+But since I’m a computer guy, I want to know: is this measured in base-2 bytes (e.g. [mebibytes](http://en.wikipedia.org/wiki/Mebibyte)) or base-10 bytes ([megabytes](http://en.wikipedia.org/wiki/Megabyte))? 
 
 I couldn’t tell and the docs weren’t clear so I tested it. First I needed a test file. I took a video file and used 7zip to build a file that’s exactly 10 MB in size:
 

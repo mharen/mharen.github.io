@@ -20,7 +20,7 @@ While working on some deployment stuff I ran into this error: <blockquote>
 
 *Cannot find a resource for powershell on windows version 6.1.7600*</blockquote>
 
-The <a href="http://community.opscode.com/chat/chef/2012-11-06#id-228600">solution</a> turned out to be pretty obvious, and easy: <strong>include the powershell cookbook</strong>. For some reason I assumed it came in as part of the windows cookbook, but no. So just include it in your metadata.rb file like so: <blockquote><pre class="csharpcode">name             <span class="str">'...'</span>
+The [solution](http://community.opscode.com/chat/chef/2012-11-06#id-228600) turned out to be pretty obvious, and easy: <strong>include the powershell cookbook</strong>. For some reason I assumed it came in as part of the windows cookbook, but no. So just include it in your metadata.rb file like so: <blockquote><pre class="csharpcode">name             <span class="str">'...'</span>
 maintainer       <span class="str">'...'</span>
 maintainer_email <span class="str">'...'</span>
 description      <span class="str">'...'</span>

@@ -12,7 +12,7 @@ time_to_read: 5
 title: Sarah's Teaching Job
 ---
 
-![slhs.gif](slhs.gif)Sarah started teaching biology a couple weeks ago at <a href="http://www.lee.k12.nc.us/schools/slhs/index.html">Southern Lee High School</a> in Sanford, North Carolina. She has three regular bio classes and is crazy busy. She leaves the house around 6am and returns around 6pm. Then she writes lesson plans and tests until midnight or later. She is finally catching up to the point where she is working a few days in advance and can occasionally get 5 hours of sleep.
+![slhs.gif](slhs.gif)Sarah started teaching biology a couple weeks ago at [Southern Lee High School](http://www.lee.k12.nc.us/schools/slhs/index.html) in Sanford, North Carolina. She has three regular bio classes and is crazy busy. She leaves the house around 6am and returns around 6pm. Then she writes lesson plans and tests until midnight or later. She is finally catching up to the point where she is working a few days in advance and can occasionally get 5 hours of sleep.
 
 I am not joking here. She is working her freaking tail off for those little punks. Oh yeah, about her students...
 

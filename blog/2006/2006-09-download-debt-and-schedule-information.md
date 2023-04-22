@@ -16,4 +16,4 @@ title: Download Debt and Schedule Information
 
 A note to any XML purists out there: in the XML output I make heavy use of attributes where elements may be more appropriate. Relax, I don't want to hear about it.
 
-As usual, posts related to the Debt Manager can be found in the <a href="/?cat=14">Money category</a>.
+As usual, posts related to the Debt Manager can be found in the [Money category](/?cat=14).

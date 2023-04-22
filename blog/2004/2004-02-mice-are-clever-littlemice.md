@@ -14,7 +14,7 @@ title: mice are clever little...mice.
 
 Sarah and I each got a remote car starter, keyless entry kit for Christmas from my parents. I finally got around to hooking them up this past weekend. Actually, this was the first warm weekend during which we didn't have to study for exams. All told, the project took about 4 hours/car. It went pretty smoothly. Now Sarah and I can start/stop our cold, icy cars from the comfort of our kitchen :). 
 
-The kits we used were by <a href="http://www.bulldogsecurity.com">bulldog security</a>. Overall I'd say the install was not too difficult (though time consuming) and the range is ok. They advertised our model as reaching 800 feet. I'd say it can do about 150 feet-- but that's really all we need so no big deal. I find myself now looking forward to bad weather (hot or cold) so I can take full advantage of the remote start. strange, isn't it?
+The kits we used were by [bulldog security](http://www.bulldogsecurity.com). Overall I'd say the install was not too difficult (though time consuming) and the range is ok. They advertised our model as reaching 800 feet. I'd say it can do about 150 feet-- but that's really all we need so no big deal. I find myself now looking forward to bad weather (hot or cold) so I can take full advantage of the remote start. strange, isn't it?
 
 Moving along...
 

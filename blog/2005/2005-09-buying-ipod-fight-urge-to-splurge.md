@@ -11,7 +11,7 @@ time_to_read: 5
 title: 'Buying an iPod: Fight the Urge to Splurge'
 ---
 
-Continuing our discussion of the <a href="http://wassupy.com/?p=427" title="iPod Nano">sneaky iPod pricing structure</a> from yesterday, here are a few tips to help you fight the impulse to splurge.
+Continuing our discussion of the [sneaky iPod pricing structure](http://wassupy.com/?p=427" title="iPod Nano) from yesterday, here are a few tips to help you fight the impulse to splurge.
 
 <h3>Purpose</h3>Are you planning to use your new player while exercising? If so, you might be better off with a flash based player like the Shuffle and Nano. Running and shaking can cause the hard drive based players to skip, crash, and otherwise stop playing music. Do not let that "3 minute anti-skip" crap fool youâ€”they don't work well when used while exercising. This is the primary reason that Sarah got a shuffle and she loves it.
 

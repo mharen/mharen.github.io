@@ -15,7 +15,7 @@ title: Publishing Code to Blogger
 
 Publishing code to a blog can be tough. On my old blog engine (wordpress), I felt like I had more control with respect to plugins, javascript, css, etc. Here, on blogger, things are a little different. 
 
-I’ve turned to <a href="http://windowslivewriter.spaces.live.com/">Windows Live Writer</a>. It’s actually pretty slick and integrates well with Blogger. I added the <a href="http://gallery.live.com/liveItemDetail.aspx?li=1f57bd9b-a692-4593-9e9e-e2962d9c0eee">Code Block plugin</a> which does syntax highlighting pretty well. 
+I’ve turned to [Windows Live Writer](http://windowslivewriter.spaces.live.com/). It’s actually pretty slick and integrates well with Blogger. I added the [Code Block plugin](http://gallery.live.com/liveItemDetail.aspx?li=1f57bd9b-a692-4593-9e9e-e2962d9c0eee) which does syntax highlighting pretty well. 
 
 <strong>A Few Gripes and Gotchas</strong>
 
@@ -39,5 +39,5 @@ I’m a fan—I’m using it to write this post!
 
 **BloggerGeeze said on 2010-02-17**
 
-I have almost tried everything in the internet about adding/displaying a code block on blogger and nothing work luckily I've seen this post from BloggerGeeze - <a href="http://www.bloggergeeze.com/2010/02/how-to-create-code-block-on-blogger.html" rel="nofollow">How to create code block on blogger</a>. Just sharing.
+I have almost tried everything in the internet about adding/displaying a code block on blogger and nothing work luckily I've seen this post from BloggerGeeze - [How to create code block on blogger](http://www.bloggergeeze.com/2010/02/how-to-create-code-block-on-blogger.html" rel="nofollow). Just sharing.
 

@@ -19,11 +19,11 @@ I think we've made arrangements with all necessary persons (his-work, her-work, 
 
 <strong>We are moving to Ohio!</strong>
 
-<div style="text-align: center;">![moving.JPG](moving.JPG)I am transferring from the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr">Apex branch</a> to the <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr">main office</a> in Aurora and Sarah will be hunting for new and exciting work in the area.
+<div style="text-align: center;">![moving.JPG](moving.JPG)I am transferring from the [Apex branch](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr) to the [main office](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&amp;ie=UTF8&amp;z=15&amp;om=1&amp;iwloc=addr) in Aurora and Sarah will be hunting for new and exciting work in the area.
 
 We're planning to move in January or February.
 
-We're <a href="http://www.fsbo.com/list/90492">selling our house</a> and will be hunting for a new one. If we don't find the perfect house before we move, apartment living will have to suffice. By the way, I know that the dead of winter is pretty much the worst time to sell a house. Spare me.
+We're [selling our house](http://www.fsbo.com/list/90492) and will be hunting for a new one. If we don't find the perfect house before we move, apartment living will have to suffice. By the way, I know that the dead of winter is pretty much the worst time to sell a house. Spare me.
 
 At my office, I've not informed anyone of this below management. That should happen shortly.
 
@@ -39,9 +39,9 @@ Why so soon? Allow me to dodge my question with a clever comment. We weren't pla
 
 <strong>Why Aurora? Why not Newark?</strong>
 
-Another excellent question (it's easy to come up with good questions when you are quizzing yourself). I work for <a href="http://www.rovisys.com/">Rovisys</a>, perhaps the <a href="http://www.wassupy.com/20061029/work/my-job-rocks/">coolest company</a> around. Rovisys has an office near our folks so why not? I get to stay at the same, cool company and everything.
+Another excellent question (it's easy to come up with good questions when you are quizzing yourself). I work for [Rovisys](http://www.rovisys.com/), perhaps the [coolest company](http://www.wassupy.com/20061029/work/my-job-rocks/) around. Rovisys has an office near our folks so why not? I get to stay at the same, cool company and everything.
 
-Also, we don't want to be too close. I've seen enough <a href="http://www.everybodylovesray.com/">Everybody Loves Raymond</a> to know that some distance is important. We're close enough to make easy weekend trips but far enough away that unannounced drop-ins are unlikely.
+Also, we don't want to be too close. I've seen enough [Everybody Loves Raymond](http://www.everybodylovesray.com/) to know that some distance is important. We're close enough to make easy weekend trips but far enough away that unannounced drop-ins are unlikely.
 
 <strong>Why not Columbus?</strong>
 

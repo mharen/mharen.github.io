@@ -14,9 +14,9 @@ title: The Great Lakes Science Center in Cleveland, Ohio
 ---
 
 
-The <a href="http://www.glsc.org/">Great Lakes Science Center</a> is a fantastic place for curious kids and adults. It has a lot of exhibits, is easy to get to, and seems to keep the kiddos entertained indefinitely. 
+The [Great Lakes Science Center](http://www.glsc.org/) is a fantastic place for curious kids and adults. It has a lot of exhibits, is easy to get to, and seems to keep the kiddos entertained indefinitely. 
 
-The only drawback may be that some of the exhibits are difficult to grasp for very young children. My 3.75 year old, Thing1, has only recently developed the patience needed to notice what’s happening enough to be in awe. This isn’t to say that the venue doesn’t work for younger kids. In fact, Thing2 (two years old), has a great time, too. The difference is that she spends most of her time running from booth to booth mashing buttons like she just doubled down on a bet to be settled by Mortal Kombat and <a href="http://en.wikipedia.org/wiki/Eddy_Gordo#Other_appearances">doesn’t know any combos</a>. She has a great time, but if you’re not ready for it, *you’ll *be frustrated that you can’t experience any of the science yourself. Having been a few times before, this isn’t an issue for Wife or me anymore.
+The only drawback may be that some of the exhibits are difficult to grasp for very young children. My 3.75 year old, Thing1, has only recently developed the patience needed to notice what’s happening enough to be in awe. This isn’t to say that the venue doesn’t work for younger kids. In fact, Thing2 (two years old), has a great time, too. The difference is that she spends most of her time running from booth to booth mashing buttons like she just doubled down on a bet to be settled by Mortal Kombat and [doesn’t know any combos](http://en.wikipedia.org/wiki/Eddy_Gordo#Other_appearances). She has a great time, but if you’re not ready for it, *you’ll *be frustrated that you can’t experience any of the science yourself. Having been a few times before, this isn’t an issue for Wife or me anymore.
 
 They also have a fantastic play area that any kid under about seven or eight would love (any older than that and you’ll probably enjoy the actual science stuff more). We save it for the end so we can use it as a bribe, and take a break while the kids literally run themselves out of steam. Most of my pictures are from this area.
 
@@ -42,7 +42,7 @@ They had a neat display on DNA sequencing, including a board asking people what 
 
 ![science-center-21%25255B6%25255D.jpg](science-center-21%25255B6%25255D.jpg)
 
-And this one that triggered a memory of a <a href="http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html">hilarious comic</a>:
+And this one that triggered a memory of a [hilarious comic](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html):
 
 ![science-center-20%25255B7%25255D.jpg](science-center-20%25255B7%25255D.jpg)    
 
@@ -56,7 +56,7 @@ Before we left that exhibit, Wife got a chance to school us in DNA building:
 
 ![science-center-16%25255B5%25255D.jpg](science-center-16%25255B5%25255D.jpg)
 
-Then we did something new: took a tour of the steamship <a href="http://www.glsc.org/mather_museum.php">*William G. Mather*</a>. Unfortunately, I have very few pictures of it. Suffice it to say, it’s utterly massive. Here’s a pic from <a href="http://en.wikipedia.org/wiki/Steamship_William_G._Mather_Maritime_Museum">Wikipedia</a> that really doesn’t do it justice:
+Then we did something new: took a tour of the steamship [*William G. Mather*](http://www.glsc.org/mather_museum.php). Unfortunately, I have very few pictures of it. Suffice it to say, it’s utterly massive. Here’s a pic from [Wikipedia](http://en.wikipedia.org/wiki/Steamship_William_G._Mather_Maritime_Museum) that really doesn’t do it justice:
 
 ![science-center-27%25255B5%25255D.jpg](science-center-27%25255B5%25255D.jpg)  
 

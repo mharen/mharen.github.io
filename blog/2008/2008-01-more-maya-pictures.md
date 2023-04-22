@@ -11,7 +11,7 @@ time_to_read: 5
 title: More Maya Pictures
 ---
 
-Just a quick note: Sarah has uploaded a bunch of <a href="/gallery2/v/MayaGraceFirstDays/?g2_page=5">new</a> <a href="/gallery2/v/MayaGraceFirstDays/?g2_page=6">pictures</a> of everyone's favorite baby. And now for the most pathetic look you will ever see in your life:
+Just a quick note: Sarah has uploaded a bunch of [new](/gallery2/v/MayaGraceFirstDays/?g2_page=5) [pictures](/gallery2/v/MayaGraceFirstDays/?g2_page=6) of everyone's favorite baby. And now for the most pathetic look you will ever see in your life:
 
 
 

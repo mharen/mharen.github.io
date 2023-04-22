@@ -14,7 +14,7 @@ time_to_read: 5
 title: "Arduino Day 8: \u201CReaction\u201D Game"
 ---
 
-<div style="border-top: #888 1px solid; border-right: #888 1px solid; border-bottom: #888 1px solid; float: right; padding-bottom: 5px; padding-top: 5px; padding-left: 5px; margin: 0px auto; border-left: #888 1px solid; padding-right: 5px; width: 200px; background-color: #eee;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
+<div style="border-top: #888 1px solid; border-right: #888 1px solid; border-bottom: #888 1px solid; float: right; padding-bottom: 5px; padding-top: 5px; padding-left: 5px; margin: 0px auto; border-left: #888 1px solid; padding-right: 5px; width: 200px; background-color: #eee;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
 Today’s build combines a lot of the skills I’ve learned so far. It’s a simple game you’ve probably played before. It works like this for two players (though any number is possible): <ol> <li>Each player gets a clicker  <li>When the buzzer sounds and the center light illuminates, hit our clicker as fast as you can  <li>The first player to click wins </li></ol>
 
@@ -22,7 +22,7 @@ Here’s the finished project:
 
 
 
-I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with <a href="http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris" target="_blank">David Sedaris</a>. If you don’t know who that is, you probably won’t find it funny. In that case, <a href="http://www.collegehumor.com/videos/playlist:prankwar" target="_blank">this</a> type of humor probably more your style.  <h4>Build</h4>
+I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris" target="_blank). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar" target="_blank) type of humor probably more your style.  <h4>Build</h4>
 
 ![Sketch_schem%5B7%5D.png](Sketch_schem%5B7%5D.png) <h4>Code</h4><pre class="csharpcode"><span class="kwrd">const</span> <span class="kwrd">int</span> ToneHz = 2000;
 <span class="kwrd">const</span> <span class="kwrd">int</span> P1ButtonPin = 3;
@@ -153,7 +153,7 @@ GameState State = Woohoo;
 
 While this project could certainly be improved (e.g. holding down your button insures victory when instead you should lose for pressing it early), I’m satisfied with it.
 
-I might try to build a Simon game tomorrow. Special thanks to <a href="http://twitter.com/#!/corsae/status/1655470213300224">@corsae</a> for a nice list of project ideas.
+I might try to build a Simon game tomorrow. Special thanks to [@corsae](http://twitter.com/#!/corsae/status/1655470213300224) for a nice list of project ideas.
 
 ---
 

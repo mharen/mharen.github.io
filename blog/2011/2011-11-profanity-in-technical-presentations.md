@@ -15,21 +15,21 @@ title: Profanity in Technical Presentations and Business
 
 This post started out a little unusually. My normally scheduled blog time was interrupted by an inconvenient support call from one of my customers (DST FML) and the whole mess of digging through databases and log files really ruined my NaBloPoMo motivation. 
 
-So after struggling against writer’s block for too long, I <a href="https://plus.google.com/103506291560311820711/posts/U4RurULNe4X">put the call out</a>:
+So after struggling against writer’s block for too long, I [put the call out](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X):
 
-<a href="https://plus.google.com/103506291560311820711/posts/U4RurULNe4X">![image%25255B28%25255D%25255B2%25255D.png](image%25255B28%25255D%25255B2%25255D.png)</a>
+[![image%25255B28%25255D%25255B2%25255D.png](image%25255B28%25255D%25255B2%25255D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
 
 And it was answered:
 
-<a href="https://plus.google.com/103506291560311820711/posts/U4RurULNe4X">![image%25255B29%25255D%25255B2%25255D.png](image%25255B29%25255D%25255B2%25255D.png)</a>
+[![image%25255B29%25255D%25255B2%25255D.png](image%25255B29%25255D%25255B2%25255D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
 
 Crap, indeed. Then, this happened:
 
-<a href="https://plus.google.com/103506291560311820711/posts/U4RurULNe4X">![image%25255B30%25255D%25255B2%25255D.png](image%25255B30%25255D%25255B2%25255D.png)</a>
+[![image%25255B30%25255D%25255B2%25255D.png](image%25255B30%25255D%25255B2%25255D.png)](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X)
 
-Who am I to deny one of my personal tech heroes, <a href="http://www.hanselman.com/blog/">Scott Hanselman</a>?  <hr />        <h4>Profanity in Technical Presentations and Business</h4>
+Who am I to deny one of my personal tech heroes, [Scott Hanselman](http://www.hanselman.com/blog/)?  <hr />        <h4>Profanity in Technical Presentations and Business</h4>
 
-I think people are generally very good at tailoring their behavior (speech, language, etc.) to their surroundings. That’s probably why, after noting a few encounters with presenters who didn’t follow this social norm, Hanselman was compelled to record some <a href="http://www.hanselman.com/blog/ProfanityDoesntWork.aspx">excellent points</a> on the topic.
+I think people are generally very good at tailoring their behavior (speech, language, etc.) to their surroundings. That’s probably why, after noting a few encounters with presenters who didn’t follow this social norm, Hanselman was compelled to record some [excellent points](http://www.hanselman.com/blog/ProfanityDoesntWork.aspx) on the topic.
 
 The simple fact is that the overwhelming majority of interactions we have with each other are professional and courteous. That’s how norms are established, after all. So, is crude language appropriate in professional settings? I think it’s better to look at language as just one of many aspects of how we interact with others. 
 
@@ -49,11 +49,11 @@ My point is, normal people constantly tune these social variables. Intentionally
 
 <strong>I think making inappropriate jokes or using bad language is, more than anything, distracting.</strong> I’m sure it offends some people, too, but I think the bigger issue is the effect it has on your signal. If people are busy thinking about *how *you said something, they aren’t thinking about *what *you said. 
 
-I think Scott’s right to focus on language as the essence of professionalism in the work place and during presentations. In other settings it might be something else. For example, commenters on Reddit crank the normal, dispassionate language option for crudeness to 11; it’s like an f-bomb blizzard where every snowflake is some different invocation of the same hyper-flexible word. But <a href="http://en.wikipedia.org/wiki/Troll_(Internet)">there</a> heads explode if someone makes a typo or uses improper grammar. 
+I think Scott’s right to focus on language as the essence of professionalism in the work place and during presentations. In other settings it might be something else. For example, commenters on Reddit crank the normal, dispassionate language option for crudeness to 11; it’s like an f-bomb blizzard where every snowflake is some different invocation of the same hyper-flexible word. But [there](http://en.wikipedia.org/wiki/Troll_(Internet)) heads explode if someone makes a typo or uses improper grammar. 
 
 So the next time you want to build a rapport with your audience or jazz up a boring topic, do what I do: tell self-deprecating jokes until you get sympathy laughs and move on to the cool stuff everyone came to hear about. If you think you need four-letter gimmicks to earn people’s time, you’re doing it wrong.
 
-And *they were <a href="http://twitpic.com/7bid0x">ponies</a> the whole time.*
+And *they were [ponies](http://twitpic.com/7bid0x) the whole time.*
 
 ---
 

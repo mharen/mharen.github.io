@@ -14,7 +14,7 @@ title: 'Windows 7 Tip: Check Box-Based File Selection'
 
 <h3>The Tip:</h3>
 
-I just stumbled across this handy feature of Windows 7 (<a href="http://mintywhite.com/vista/vcustomization/select-multiple-files-with-checkboxes-in-vista-explorer/" target="_blank">apparently</a> introduced in Vista): multiple file selection without holding down the control key via check boxes:
+I just stumbled across this handy feature of Windows 7 ([apparently](http://mintywhite.com/vista/vcustomization/select-multiple-files-with-checkboxes-in-vista-explorer/" target="_blank) introduced in Vista): multiple file selection without holding down the control key via check boxes:
 
 ![image%5B2%5D.png](image%5B2%5D.png)
 

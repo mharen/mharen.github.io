@@ -14,9 +14,9 @@ time_to_read: 5
 title: 'Arduino Day 9: Simon(ish) Game'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
-I built another game on top of <a href="../2010/2010-11-arduino-day-8-reaction-game.html" target="_blank">yesterday’s circuit</a>. I think you’ll probably recognize it:  
+I built another game on top of [yesterday’s circuit](../2010/2010-11-arduino-day-8-reaction-game.html" target="_blank). I think you’ll probably recognize it:  
 
 
 

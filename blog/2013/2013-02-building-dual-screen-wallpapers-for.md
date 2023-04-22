@@ -26,9 +26,9 @@ Of course the problem then is finding wallpapers that fit that size. Google can 
 
 </strong>![blogger-image--1475083773.jpg](blogger-image--1475083773.jpg)</a>
 
-I did this recently to an <a href="http://www.reddit.com/r/pics/comments/qiir8/45_calvin_hobbes_wallpapers_optimized_for/">entire collection</a> of Calvin and Hobbes wallpapers. I wanted to show a different comic on each screen, but not always the same two at a time—I wanted to mimic the Windows 8 strategy of seemingly random wallpapers on random screens. 
+I did this recently to an [entire collection](http://www.reddit.com/r/pics/comments/qiir8/45_calvin_hobbes_wallpapers_optimized_for/) of Calvin and Hobbes wallpapers. I wanted to show a different comic on each screen, but not always the same two at a time—I wanted to mimic the Windows 8 strategy of seemingly random wallpapers on random screens. 
 
-I combined two images manually, side by side at 2560x1024 once to confirm it would work, and then wrote a few lines of PowerShell to generate every possible combination with the help of the amazing <a href="http://www.imagemagick.org/">ImageMagick</a> library (specifically the <a href="http://www.imagemagick.org/script/montage.php">montage</a> command). The idea being that if I just pre-generate all the options, they will appear to be randomly assembled as they cycle through.
+I combined two images manually, side by side at 2560x1024 once to confirm it would work, and then wrote a few lines of PowerShell to generate every possible combination with the help of the amazing [ImageMagick](http://www.imagemagick.org/) library (specifically the [montage](http://www.imagemagick.org/script/montage.php) command). The idea being that if I just pre-generate all the options, they will appear to be randomly assembled as they cycle through.
 
 Run this script in the dirctory containing all your single wallpapers and it will combine them into the dual-screen variety.
 

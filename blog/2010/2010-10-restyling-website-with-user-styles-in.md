@@ -18,7 +18,7 @@ Designing a new theme for a website can be a pretty big undertaking if the proce
 
 User styles are small bits of CSS—the code that describes what a webpage looks like—that live in your browser, not actually on the webpage. All I need to do is add my CSS changes so only *my* view of the site is affected. I can do this for *any* site, too, not just sites I control.
 
-There is of course one major downside to this approach: I can’t change the site’s structure—its HTML. Hopefully, though, if I’ve implemented the HTML properly, with a good <a href="http://en.wikipedia.org/wiki/HTML#Semantic_HTML">semantic design</a>, the styling should be straight forward without HTML changes.
+There is of course one major downside to this approach: I can’t change the site’s structure—its HTML. Hopefully, though, if I’ve implemented the HTML properly, with a good [semantic design](http://en.wikipedia.org/wiki/HTML#Semantic_HTML), the styling should be straight forward without HTML changes.
 
 Today, I’ll walk you through an actual process of this as I restyle Sarah’s blog.  <h4>Before</h4>
 
@@ -38,7 +38,7 @@ So then I just need to know what element of the existing site to apply this to. 
 
 ![image%5B18%5D.png](image%5B18%5D.png)
 
-Here we see the structure of the page on the left and the selected element’s styles on the right. And there we see the background-image property. That’s what I will override in my user style via the Chrome Extension <a href="https://chrome.google.com/extensions/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe">Stylish</a>:
+Here we see the structure of the page on the left and the selected element’s styles on the right. And there we see the background-image property. That’s what I will override in my user style via the Chrome Extension [Stylish](https://chrome.google.com/extensions/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe):
 
 ![image%5B17%5D.png](image%5B17%5D.png)
 

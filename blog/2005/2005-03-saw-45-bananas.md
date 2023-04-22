@@ -11,7 +11,7 @@ time_to_read: 5
 title: Saw (4/5 bananas)
 ---
 
-Tonight, I finally got around to seeing "<a href="http://imdb.com/title/tt0387564/">Saw</a>." Since Sarah's out of town, I figured this was my best opportunity.
+Tonight, I finally got around to seeing "[Saw](http://imdb.com/title/tt0387564/)." Since Sarah's out of town, I figured this was my best opportunity.
 
 I thought the film was excellent. Let me qualify that: the acting: terrible; the script: excellent. I thought it was a very well made film, except for the acting. I enjoyed the plot, the camera work, the sweet surround sound, and the characters (except for the acting).
 

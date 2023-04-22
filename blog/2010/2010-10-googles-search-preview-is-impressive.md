@@ -12,7 +12,7 @@ title: "Google\u2019s Search Preview Is Impressive"
 ---
 
 
-There is no half-assing it over at Google. When they bring something to market, it’s generally a well-polished solution. Like <a href="http://googlesystem.blogspot.com/2010/10/google-tests-search-preview.html">Search Preview</a> which just started showing up for me. 
+There is no half-assing it over at Google. When they bring something to market, it’s generally a well-polished solution. Like [Search Preview](http://googlesystem.blogspot.com/2010/10/google-tests-search-preview.html) which just started showing up for me. 
 
 I noticed that search results became shaded as I hovered:
 

@@ -21,8 +21,8 @@ Let’s go back. If this were a soon-to-be-canceled television show, you’d hea
 
 After doing a little Internet research wife discovered that we might have food poisoning but that we probably weren’t going to die (optimism!). We concluded that complaining to the restaurant was unlikely to go well so we dropped that idea, too. It was around this time that we made pumpkin milk shakes. They were awesome (really!). 
 
-![shake%5B2%5D.jpg](shake%5B2%5D.jpg)Shortly after finishing my extra large pumpkin ice cream milkshake I did my own Internet research (I was still feeling a little nauseated). I found <a href="https://health.google.com/health/ref/Food+poisoning">something</a> wife neglected to share about what to do if you think you have food poisoning:
-<blockquote>   <ul>     <li>Don't eat solid foods until the diarrhea has passed, and <strong>avoid dairy products</strong>, which can worsen diarrhea (due to a temporary state of <a href="https://health.google.com/health/ref/Lactose+intolerance">lactose intolerance</a>). </li>      <li>Drink any fluid (<strong>except milk or caffeinated beverages</strong>) to replace fluids lost by diarrhea and vomiting. </li>   </ul>
+![shake%5B2%5D.jpg](shake%5B2%5D.jpg)Shortly after finishing my extra large pumpkin ice cream milkshake I did my own Internet research (I was still feeling a little nauseated). I found [something](https://health.google.com/health/ref/Food+poisoning) wife neglected to share about what to do if you think you have food poisoning:
+<blockquote>   <ul>     <li>Don't eat solid foods until the diarrhea has passed, and <strong>avoid dairy products</strong>, which can worsen diarrhea (due to a temporary state of [lactose intolerance](https://health.google.com/health/ref/Lactose+intolerance)). </li>      <li>Drink any fluid (<strong>except milk or caffeinated beverages</strong>) to replace fluids lost by diarrhea and vomiting. </li>   </ul>
 </blockquote>
 
 So yeah, we were drinking soda before and after dinner and each had milkshakes. Nice.

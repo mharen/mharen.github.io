@@ -33,11 +33,11 @@ Download and install these now.
 
 <ol>
 
-	<li><a href="http://www.mozilla.com/firefox/">Firefox</a> (web browser)</li>
+	<li>[Firefox](http://www.mozilla.com/firefox/) (web browser)</li>
 
-	<li><a href="http://www.mozilla.com/thunderbird/">Thunderbird</a> (email, if you don't use only web-based email)</li>
+	<li>[Thunderbird](http://www.mozilla.com/thunderbird/) (email, if you don't use only web-based email)</li>
 
-	<li><a href="http://www.microsoft.com/athome/security/spyware/software/default.mspx">Microsoft AntiSpyware</a> (free, for now)</li>
+	<li>[Microsoft AntiSpyware](http://www.microsoft.com/athome/security/spyware/software/default.mspx) (free, for now)</li>
 
 </ol>
 
@@ -65,7 +65,7 @@ For the cheapskates out there like me, follow these steps to get you 12 months o
 
 Obviously you will have this problem again in 12 months...
 
-Now it's time to run Windows Update. If you already have windows xp sp2 and it is set to update automatically, you can probably skip this step. If not, <strong>this is the singly most important thing you can do.</strong> Using Internet Explorer, go to <a href="http://windowsupdate.microsoft.com">WindowsUpdate.Microsoft.com</a>
+Now it's time to run Windows Update. If you already have windows xp sp2 and it is set to update automatically, you can probably skip this step. If not, <strong>this is the singly most important thing you can do.</strong> Using Internet Explorer, go to [WindowsUpdate.Microsoft.com](http://windowsupdate.microsoft.com)
 
 Install all the critical updates. If you don't have SP2, it will be listed here. Install that one all by itself. This will take awhile.
 
@@ -73,6 +73,6 @@ Depending on the updates you have available, it might take a few visits to this 
 
 At this point, you have accomplished a lot. You should have antivirus, antispyware, and windows updates--ALL of which should be updating themselves automatically. Hopefully, these packages will eradicate your machine of existing problems as well as protect you from new problems.
 
-If you run into problems or have other comments/suggestions please <a href="mailto:mharen@gmail.com">email </a>me or post a comment. For those of you who know my cell number, feel free to call that as well.
+If you run into problems or have other comments/suggestions please [email ](mailto:mharen@gmail.com)me or post a comment. For those of you who know my cell number, feel free to call that as well.
 
 While it is never too late to perform these actions, the sooner, the better. Good luck!

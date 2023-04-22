@@ -15,7 +15,7 @@ title: How do I add a MongoDB replicaset/node with auth/credentials to MMS monit
 ---
 
 
-Want to get in on that sweet, sweet <a href="http://www.10gen.com/products/mongodb-monitoring-service">MMS</a> MongoDB monitoring action? 
+Want to get in on that sweet, sweet [MMS](http://www.10gen.com/products/mongodb-monitoring-service) MongoDB monitoring action? 
 
 ![image%25255B20%25255D%25255B3%25255D.png](image%25255B20%25255D%25255B3%25255D.png)
 

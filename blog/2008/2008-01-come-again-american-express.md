@@ -110,5 +110,5 @@ If you're still with me, there you have it. The scariest part of all this is tha
 
 **Unknown said on 2014-11-28**
 
-The travel management industry has been expanded in a vast direction. It not only provides personalized traveling service to corporate travelers, but, also provides, <a href="http://www.brickelltravel.com/businesstravelservices.php" rel="nofollow">corporate travel service with the help of American Express</a>, which, in turn helps to minimize the cost of business trips.
+The travel management industry has been expanded in a vast direction. It not only provides personalized traveling service to corporate travelers, but, also provides, [corporate travel service with the help of American Express](http://www.brickelltravel.com/businesstravelservices.php" rel="nofollow), which, in turn helps to minimize the cost of business trips.
 

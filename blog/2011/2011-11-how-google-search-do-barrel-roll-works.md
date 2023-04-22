@@ -16,7 +16,7 @@ title: "How the Google Search \u201CDo a barrel roll\u201D Works"
 ---
 
 
-As a web guy I was intrigued by today’s Google easter egg. If you haven’t heard, go to Google and search for “<a href="https://www.google.com/search?q=do+a+barrel+roll">Do a barrel roll</a>”. If you’re using a decent browser, the entire page will do fun things.
+As a web guy I was intrigued by today’s Google easter egg. If you haven’t heard, go to Google and search for “[Do a barrel roll](https://www.google.com/search?q=do+a+barrel+roll)”. If you’re using a decent browser, the entire page will do fun things.
 
 ![image%25255B4%25255D.png](image%25255B4%25255D.png)
 
@@ -29,4 +29,4 @@ body{
     -o-animation-name: roll; -o-animation-duration: 4s; -o-animation-iteration-count: 1; 
     -webkit-animation-name: roll; -webkit-animation-duration: 4s; -webkit-animation-iteration-count: 1; 
 } </pre>
-Nice and easy, eh? Now go play with <a href="http://jsfiddle.net/mharen/KRkvE/3/">this fiddle</a>.
+Nice and easy, eh? Now go play with [this fiddle](http://jsfiddle.net/mharen/KRkvE/3/).

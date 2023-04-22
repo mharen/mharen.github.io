@@ -14,9 +14,9 @@ title: TiVo to the Rescue, Slickdeals.net
 
 I just (finally) picked up a Tivo. I've wanted one for a long time but simply couldn't afford it. It wasn't even the initial cost--often they're available for &lt; $100--it was the monthly service fee of $12.95. 
 
-Well I came across a deal I simply couldn't pass up. Thanks to <a href="http://www.slickdeals.net">SlickDeals.net</a>, I found a <a href="http://www.tacp.toshiba.com/dvr/product.asp?model=rs-tx20">Toshiba Tivo</a> with 140 hour capacity and a DVD-R burner for $100. As an added bonus, the unit includes basic service for free. 
+Well I came across a deal I simply couldn't pass up. Thanks to [SlickDeals.net](http://www.slickdeals.net), I found a [Toshiba Tivo](http://www.tacp.toshiba.com/dvr/product.asp?model=rs-tx20) with 140 hour capacity and a DVD-R burner for $100. As an added bonus, the unit includes basic service for free. 
 
-Here's the deal breakdown (this is ridiculous): pick of the $600 unit and use a 50% off coupon at checkout. This brings it down to $300+tax. Then send in a $200 rebate to bring the final cost to $100+tax. Hell yeah! I was lucky enough to find one in stock and have it all up and running. Many thanks to <a href="http://www.slickdeals.net">SlickDeals.net</a>.
+Here's the deal breakdown (this is ridiculous): pick of the $600 unit and use a 50% off coupon at checkout. This brings it down to $300+tax. Then send in a $200 rebate to bring the final cost to $100+tax. Hell yeah! I was lucky enough to find one in stock and have it all up and running. Many thanks to [SlickDeals.net](http://www.slickdeals.net).
 
 The unit includes 45 days of TivoPlus for free so I am enjoying all those great features. I admit that I will probably end up picking up the service after the trial expires, if only for Season Pass.
 

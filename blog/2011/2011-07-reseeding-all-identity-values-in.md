@@ -62,7 +62,7 @@ The easiest way to fix this is to reset (“reseed”) the table’s identity va
 </blockquote>
 
 
-This script, pulled from <a href="http://bit.ly/plJNx2">RedGate’s forums</a> (an awesome company, by the way), resets those identity values for every table in the database:
+This script, pulled from [RedGate’s forums](http://bit.ly/plJNx2) (an awesome company, by the way), resets those identity values for every table in the database:
 
 <blockquote>
   <pre class="csharpcode"><span class="rem">-- courtesy of RedGate forums http://bit.ly/plJNx2</span>

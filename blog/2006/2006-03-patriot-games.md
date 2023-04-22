@@ -12,12 +12,12 @@ time_to_read: 5
 title: Patriot Games
 ---
 
-No, not that Clancy <a href="http://www.amazon.com/gp/product/0425109720/002-6807866-8988029">novel</a> or <a href="http://www.amazon.com/gp/product/B00008LDYV/002-6807866-8988029">movie</a>...introducing, "<a href="http://www.graphix4change.com/portfolio_PA_game.html">The Patriot Act Game</a>".
+No, not that Clancy [novel](http://www.amazon.com/gp/product/0425109720/002-6807866-8988029) or [movie](http://www.amazon.com/gp/product/B00008LDYV/002-6807866-8988029)...introducing, "[The Patriot Act Game](http://www.graphix4change.com/portfolio_PA_game.html)".
 
 ![PatriotActGame.jpg](PatriotActGame.jpg)
 
-Eat your heart out, <a href="http://www.whitehouse.gov/government/ashcroft-bio.html">John Ashcroft</a>.
+Eat your heart out, [John Ashcroft](http://www.whitehouse.gov/government/ashcroft-bio.html).
 
 Instead of play money, the game uses Civil Liberties. More often then not, you lose your civil liberty cards (more or less depending on your race) and end up in Jail--err--Guantanamo Bay. The game is *very* educational.
 
-The game is freely available--the author provides PDFs that you can download and print out. Check out the <a href="http://www.graphix4change.com/portfolio_PA_game.html">site</a> for more information.
+The game is freely available--the author provides PDFs that you can download and print out. Check out the [site](http://www.graphix4change.com/portfolio_PA_game.html) for more information.

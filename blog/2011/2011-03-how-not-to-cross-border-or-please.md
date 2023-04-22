@@ -20,7 +20,7 @@ Before Sunday, I’ve been redirected to immigration twice. The first time, a ve
 
 The second time I just answered a few questions and was on my way.
 
-<a href="http://www.flickr.com/photos/thomashawk/5366984244/">![348516764_f4eb021893_b%5B4%5D.jpg](348516764_f4eb021893_b%5B4%5D.jpg)</a>
+[![348516764_f4eb021893_b%5B4%5D.jpg](348516764_f4eb021893_b%5B4%5D.jpg)](http://www.flickr.com/photos/thomashawk/5366984244/)
 
 Sunday was a different story. I was making fantastic time when I crossed the Ambassador bridge. The booth agent didn’t much care for my song and dance around the “w” word and sent me to immigration. The guy there wasn’t too happy to see me either. He asked for my documentation—letter of attestation, college diploma, resume and customer contract—and was disappointed that I wasn’t sure what he was talking about and couldn’t provide any of it. 
 
@@ -28,7 +28,7 @@ I admitted that I had no idea what to do as I’d never provided anything before
 
 This was at 10pm on Sunday so that wasn’t going to happen (also, that was impossible—I’m awesome at what I do but not 100% unique, even in Canada). I asked if I was being turned away or if I could figure something out. He replied, “I’m legally required to give you a chance to produce documentation before I turn you away.” <strong>Challenge accepted.</strong>
 
-I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents:  <ul>   <li>customer contract from my company’s VPN</li>    <li>my college diploma from Dropbox (<a href="http://db.tt/BqdZp7x">referral</a>!)</li>    <li>my resume from <a href="http://careers.stackoverflow.com/haren">Stackoverflow Careers</a></li> </ul>
+I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents:  <ul>   <li>customer contract from my company’s VPN</li>    <li>my college diploma from Dropbox ([referral](http://db.tt/BqdZp7x)!)</li>    <li>my resume from [Stackoverflow Careers](http://careers.stackoverflow.com/haren)</li> </ul>
 
 I also wrote a letter of attestation according to the NAFTA documents the agent gave me. Yeah, NAFTA, as in the treaty. I asked the guy if I could write this letter myself, seeing as how no one would be present at my office. He was surprised and said no one had ever done it themselves on the spot before. He couldn’t see why not so that’s what I did. 
 
@@ -68,7 +68,7 @@ She asked me a bunch of new questions and genuinely tried to understand exactly 
 
 Apparently she didn’t realize I had just gathered/written them minutes before. I was on my way at last! I hopped in my car and sped off, a couple of hours behind schedule. I happily looked up and saw this:
 
-<a href="http://www.metroscap.com/detroit/533/the-ambassador-bridge.php">![Ambassador.jpg](Ambassador.jpg)</a>
+[![Ambassador.jpg](Ambassador.jpg)](http://www.metroscap.com/detroit/533/the-ambassador-bridge.php)
 
 Oh that’s weird, I thought. Then, quite suddenly, I realized this meant <strong>I was headed back into the United States </strong>and shouted a four letter word. I had a decision to make. I could go through customs two more times (and pay the bridge toll twice again, too), or do something very dumb. <strong>I was tired and irritable so I did the latter. </strong>
 

@@ -17,7 +17,7 @@ title: 'Amazon Prime: The Good, the Bad and the (Possibly) Ugly'
 
 It’s still a big trick when you consider that I can order a carton of macaroni and cheese or a memory upgrade for my laptop pretty late into the evening and have it on my doorstep the next day for $4, or the day after for free (with a membership). Nutso.
 
-Recently I noticed this twist on the “<a href="http://www.amazon.com/gp/help/customer/display.html/ref=hp_navbox_overview_norush?nodeId=200444160#norush">no rush</a>” option when checking out with Amazon Prime:
+Recently I noticed this twist on the “[no rush](http://www.amazon.com/gp/help/customer/display.html/ref=hp_navbox_overview_norush?nodeId=200444160#norush)” option when checking out with Amazon Prime:
 
 ![image2.png](image2.png)</a>
 
@@ -25,15 +25,15 @@ They’re offering me a $1 in MP3s to use the “slower” shipping speed. I’v
 
 Do they do this when they *need to*? That is, do they calculate that the nearby shipping center is near capacity and offer people these to help alleviate the pressure? Amazon’s very smart and they could definitely pull that off. It’d be a clever way to discretely ease the load if people actually go for it.
 
-I don’t think that’s it, though. I think they really do it just to promote their MP3 business. I have no data to support it, so I’ll just speculate: I bet conversions are higher for customers getting a free MP3 this way than when Amazon just <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000740381">gives you one</a> for practically nothing. The way I figure it, you’re trading something valuable (2-day shipping, which at least feels expensive to you, but probably isn’t) for an MP3. That MP3 really only costs a dollar, but you *feel* like it’s worth more so you’re more likely to actually redeem it. And then you buy other MP3s. And suddenly you’re downloading (and paying for) more music. Damn you, Amazon! (And shipping MP3s is…very affordable.)
+I don’t think that’s it, though. I think they really do it just to promote their MP3 business. I have no data to support it, so I’ll just speculate: I bet conversions are higher for customers getting a free MP3 this way than when Amazon just [gives you one](http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000740381) for practically nothing. The way I figure it, you’re trading something valuable (2-day shipping, which at least feels expensive to you, but probably isn’t) for an MP3. That MP3 really only costs a dollar, but you *feel* like it’s worth more so you’re more likely to actually redeem it. And then you buy other MP3s. And suddenly you’re downloading (and paying for) more music. Damn you, Amazon! (And shipping MP3s is…very affordable.)
 
 That’s all good stuff. 
 
-<strong>But there’s something bad </strong>sweeping in under the name of “<a href="http://www.amazon.com/gp/help/customer/display.html?nodeId=200876660">add-on items</a>”. 
+<strong>But there’s something bad </strong>sweeping in under the name of “[add-on items](http://www.amazon.com/gp/help/customer/display.html?nodeId=200876660)”. 
 
 ![add-item%25255B2%25255D.jpg](add-item%25255B2%25255D.jpg)
 
-I first came across these when I tried to buy a <a href="http://www.amazon.com/Wazes-Universal-Mount-your-Smartphone/dp/B004O7S7Z0">super cheap phone mount </a>for my car. Amazon wouldn’t let me buy it unless it was part of a $25+ order. Even if I was willing to pay for shipping. Even <a href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200876660#prime">with Prime</a>:
+I first came across these when I tried to buy a [super cheap phone mount ](http://www.amazon.com/Wazes-Universal-Mount-your-Smartphone/dp/B004O7S7Z0)for my car. Amazon wouldn’t let me buy it unless it was part of a $25+ order. Even if I was willing to pay for shipping. Even [with Prime](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200876660#prime):
 <blockquote> 
 
 When you add an Add-on Item to an Amazon Prime order of more than $25, your Add-on Item will also receive Prime shipping benefits, including FREE Two-Day Shipping. For example, if you ordered five $5 pacifiers, each of which was an Add-on Item, your order would receive FREE Two-Day Shipping.
@@ -51,7 +51,7 @@ But now it feels like they’ve found a loophole. And it sucks. And I feel even 
 
 <strong>This brings me to the ugly.</strong>
 
-There are an increasingly large number of stories out there about the perils of working for huge retailers like Amazon. For instance, I recommend <a href="http://www.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor">this fascinating tale</a> of what it’s like to work as a picker in a giant warehouse by Mac McClelland of MotherJones:
+There are an increasingly large number of stories out there about the perils of working for huge retailers like Amazon. For instance, I recommend [this fascinating tale](http://www.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor) of what it’s like to work as a picker in a giant warehouse by Mac McClelland of MotherJones:
 <blockquote> 
 
 I'll admit that I did start crying a little. Not at work, thankfully, since that's evidently frowned upon, but later, when I explained to someone over Skype that it hurts, oh, how my body hurts after failing to make my goals despite speed-walking or flat-out jogging and pausing every 20 or 30 seconds to reach on my tiptoes or bend or drop to the floor for 10.5 hours, and isn't it awful that they fired Brian because he had a baby, and, in fact, when I was hired I signed off on something acknowledging that anyone who leaves without at least a week's notice—whether because they're a journalist who will just walk off or because they miss a day for having a baby and are terminated—has their hours paid out not at their hired rate but at the legal minimum. Which in this state, like in lots of states, is about $7 an hour. Thank God that I (unlike Brian, probably) didn't need to pay for opting into Amalgamated's &quot;limited&quot; health insurance program. Because in my 10.5-hour day I'll make about $60 after taxes.  
@@ -59,10 +59,10 @@ I'll admit that I did start crying a little. Not at work, thankfully, since that
 &quot;This is America?&quot; my Skype pal asks, because often I'm abroad.
 </blockquote>
 
-The author never says she worked at Amazon and I’m not making that connection here. It’s tough to revere them quite so much when I read stories about the general business like that. Or stories <a href="http://www.mcall.com/news/local/amazon/mc-allentown-amazon-complaints-20110917,0,6503103.story">like this</a>, which *definitely *happened at Amazon:
+The author never says she worked at Amazon and I’m not making that connection here. It’s tough to revere them quite so much when I read stories about the general business like that. Or stories [like this](http://www.mcall.com/news/local/amazon/mc-allentown-amazon-complaints-20110917,0,6503103.story), which *definitely *happened at Amazon:
 <blockquote> 
 
 Workers said they were forced to endure brutal heat inside the sprawling warehouse and were pushed to work at a pace many could not sustain. Employees were frequently reprimanded regarding their productivity and threatened with termination, workers said. The consequences of not meeting work expectations were regularly on display, as employees lost their jobs and got escorted out of the warehouse. Such sights encouraged some workers to conceal pain and push through injury lest they get fired as well, workers said.
 </blockquote>
 
-But maybe the big yellow-orange smile <a href="http://theweek.com/article/index/230950/amazons-worker-education-program-a-sweatshop-cover-up">is listening</a>? I hope so.
+But maybe the big yellow-orange smile [is listening](http://theweek.com/article/index/230950/amazons-worker-education-program-a-sweatshop-cover-up)? I hope so.

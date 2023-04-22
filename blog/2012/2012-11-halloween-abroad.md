@@ -17,7 +17,7 @@ title: Halloween Abroad
 
 I travel semi-regularly for work and it just so happened that we’d be in Canada during our town’s trick-or-treat. The kiddos love candy, costumes and friends, so trick-or-treat is a pretty big deal to them and they would be bummed to miss out. Luckily, their mommy is amazing.
 
-She couldn’t really make up for being away from friends, but Sarah could arrange plenty of activities. First, we went to Dussel Farms to get pumpkins and do the <a href="http://footedjammies.blogspot.com/2012/11/nablopomo-begins.html">How Tall This Fall thing</a>, which has become a favorite family tradition. 
+She couldn’t really make up for being away from friends, but Sarah could arrange plenty of activities. First, we went to Dussel Farms to get pumpkins and do the [How Tall This Fall thing](http://footedjammies.blogspot.com/2012/11/nablopomo-begins.html), which has become a favorite family tradition. 
 
 ![06-2012-10-20%25252015.52.43%25255B7%25255D.jpg](06-2012-10-20%25252015.52.43%25255B7%25255D.jpg)
 

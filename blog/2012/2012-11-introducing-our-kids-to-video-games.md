@@ -22,7 +22,7 @@ They only really use it in the car on special occasions and are scarily good abo
 
 (Major props to Apple for this one. I never appreciated how great it is having just one button at the bottom to take you home—no matter what—until I saw my kids go crazy with this thing.)
 
-After Thing1 expressed interest in my <a href="https://itunes.apple.com/us/app/letterpress-word-game/id526619424?mt=8">Letterpress</a> games, I decided to put that on there, too. <strong>Yes, I play against my 5-yo in LetterPress.</strong> She gets to practice her words and I get to feel good about myself by crushing an opponent for a change. How awesome is that?
+After Thing1 expressed interest in my [Letterpress](https://itunes.apple.com/us/app/letterpress-word-game/id526619424?mt=8) games, I decided to put that on there, too. <strong>Yes, I play against my 5-yo in LetterPress.</strong> She gets to practice her words and I get to feel good about myself by crushing an opponent for a change. How awesome is that?
 
 ![mario%25255B12%25255D.png](mario%25255B12%25255D.png)Perhaps all of our success with iOS gaming left me unprepared for what happened when we dusted off the Wii and fired up Super Mario Bros. 3&#160; (via the virtual console). (We do a weekly “movie night” and Wife had the idea that we could do swap in “Wii night” every once and a while.)
 
@@ -72,6 +72,6 @@ Most importantly (so far), <strong>they’re learning persistence—that they ca
 
 And we adults like it, too!
 
-<a href="http://2dboy.com/games.php">Try it</a>. It looks like it’s $20 for a universal copy for all platforms but a copy for just iOS or just Android is $5.  <hr />
+[Try it](http://2dboy.com/games.php). It looks like it’s $20 for a universal copy for all platforms but a copy for just iOS or just Android is $5.  <hr />
 
-External Photo credits:  <ul>   <li><a href="http://pokedude911.deviantart.com/art/8-Bit-Mario-176989536">Mario</a> </li>    <li><a href="http://multiplayerblog.mtv.com/2011/01/24/3ds-nintendo-features-done-befor/2/">Wiimote</a> </li>    <li><a href="http://pclosmag.com/html/Issues/201008/page18.html">World of Goo (Building a Bridge)</a> </li> </ul>
+External Photo credits:  <ul>   <li>[Mario](http://pokedude911.deviantart.com/art/8-Bit-Mario-176989536) </li>    <li>[Wiimote](http://multiplayerblog.mtv.com/2011/01/24/3ds-nintendo-features-done-befor/2/) </li>    <li>[World of Goo (Building a Bridge)](http://pclosmag.com/html/Issues/201008/page18.html) </li> </ul>

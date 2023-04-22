@@ -15,7 +15,7 @@ Some random updates, short-answer style...
 
 <strong>Site Down - </strong>Wassupy was down the past few days not because I've been the latest Google or Microsoft acquisition, but rather because of an unfortunately timed power failure, software update, and negligence.
 
-My server runs <a href="http://www.gentoo.org/">linux</a> which is pretty much as good as it gets as far as remote administration goes. Whenever there's a hiccup I just "<a href="http://en.wikipedia.org/wiki/Secure_Shell" title="Secure Shell">ssh</a>" over to the machine and fix it, from anywhere. In fact, the system can hardly tell the difference between me sitting at the keyboard in my garage or typing on a smart phone's keypad from Singapore.
+My server runs [linux](http://www.gentoo.org/) which is pretty much as good as it gets as far as remote administration goes. Whenever there's a hiccup I just "[ssh](http://en.wikipedia.org/wiki/Secure_Shell" title="Secure Shell)" over to the machine and fix it, from anywhere. In fact, the system can hardly tell the difference between me sitting at the keyboard in my garage or typing on a smart phone's keypad from Singapore.
 
 So what happened? I'm not completely sure. My current theory is that our power went out long enough for my three minute UPS to fail, causing my machine to shut down. Since my machine had not been restarted in over 400 days (more than a year), the init sequence ("boot") hadn't been run in ages. Since that previous boot last September, I had installed, uninstalled, reinstalled, reconfigured, etc. everything but the kernel.
 
@@ -27,7 +27,7 @@ Moving to Ohio will help this somewhat because travel won't be such a big deal, 
 
 We'll probably do the whole shebang for 2006 and 2007 but my prediction is that we'll start taking turns and working in our own tradition by 2008. We'll see... :)
 
-<strong>House -</strong> Our house is listed on several sites (<a href="http://www.fsbo.com/detail_list.phtml?id=90492">FSBO</a>, <a href="http://raleigh.craigslist.org/rfs/228626934.html">Craigslist</a>, <a href="http://realtor.com/Prop/1072082271">MLS</a>) and we've had three showings. Most of the feedback from the agents has been positive and we remain confident that our home will sell soon.
+<strong>House -</strong> Our house is listed on several sites ([FSBO](http://www.fsbo.com/detail_list.phtml?id=90492), [Craigslist](http://raleigh.craigslist.org/rfs/228626934.html), [MLS](http://realtor.com/Prop/1072082271)) and we've had three showings. Most of the feedback from the agents has been positive and we remain confident that our home will sell soon.
 
 As far as my transfer goes, we're planning to move as soon as our house sells, but no earlier than January 22 (Sarah's last day). We are actively looking at homes in the Aurora area (Ravenna, Kent, Streetsboro, Cuyahoga, Rootstown, etc.) and hope that the timing works out.
 
@@ -39,7 +39,7 @@ There was a point where I was booked for 400 hours in December. To put that in p
 
 This isn't just me saying look-I'm-so-busy--my whole company is like this. When I asked for another resource (i.e. a person), I was told that the earliest available date for anyone, company-wide was January or February. If you want to pick a specialty (like software), it could be later. That's good news, I guess. I wish I was eligible for the company bonus plan... :).
 
-On a related note, if you are an engineer or an engineering student, <a href="http://www.rovisys.com/rovisys/contact/careers/job_opportunities.asp">we're hiring like crazy</a>--tell 'em Michael sent ya.
+On a related note, if you are an engineer or an engineering student, [we're hiring like crazy](http://www.rovisys.com/rovisys/contact/careers/job_opportunities.asp)--tell 'em Michael sent ya.
 
 <strong>Upcoming Posts - </strong>I'm planning to do a couple silly posts as well as some more serious topics. Some ideas I've had floating around for a while include:
 
@@ -61,7 +61,7 @@ On a related note, if you are an engineer or an engineering student, <a href="ht
 
 	<li>Rants about traveling and the airline industry</li>
 
-	<li>Online mapping technology (check out <a href="http://maps.yahoo.com/">Yahoo Maps</a>--above and beyond <a href="http://maps.google.com/">Google Maps</a>)</li>
+	<li>Online mapping technology (check out [Yahoo Maps](http://maps.yahoo.com/)--above and beyond [Google Maps](http://maps.google.com/))</li>
 
 </ul>
 
@@ -69,7 +69,7 @@ Keep in mind that I haven't actually written any of that stuff yet, nor am I qua
 
 Other topics (like how to buy a computer, how computers work, and programming) I do know quite a bit about so you can expect more frequent posts on those topics because they require less prep time.
 
-Feel free to <a href="mailto:mharen@gmail.com">send me questions</a>. Things these that I just made up are good examples:
+Feel free to [send me questions](mailto:mharen@gmail.com). Things these that I just made up are good examples:
 
 <ul>
 

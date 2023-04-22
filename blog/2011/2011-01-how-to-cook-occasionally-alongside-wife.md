@@ -37,7 +37,7 @@ That’s how I make something simple like drop biscuits. If I’m responsible fo
 
 This is the completely overkill part that I’m most proud of. By making a timeline, I can have each element of food on the table at the right temperature at the right time. This is something that is apparently second nature to some people but I have to be deliberately systematic about it. Here’s an example.
 
-Suppose we’re having steak and baked potatoes. This is a cake walk for most people but here’s what I actually did last time I made this meal:  <ol>   <li>Find and study a steak recipe. <a href="http://howtogrillsteak.com/prep.aspx" target="_blank">Check!</a></li>    <li>Find and study a baked potato recipe. <a href="http://howtobakeapotato.com/" target="_blank">Check!</a></li>    <li>Make sure we have everything. Check!</li>    <li>Make a timeline like this (working backwards from Go Time):     
+Suppose we’re having steak and baked potatoes. This is a cake walk for most people but here’s what I actually did last time I made this meal:  <ol>   <li>Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx" target="_blank)</li>    <li>Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/" target="_blank)</li>    <li>Make sure we have everything. Check!</li>    <li>Make a timeline like this (working backwards from Go Time):     
 
 ![image%5B5%5D.png](image%5B5%5D.png)</li>    <li>Execute timeline</li> </ol>
 

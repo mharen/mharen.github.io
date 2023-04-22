@@ -18,7 +18,7 @@ title: 'Word Document Automation with .NET 4: Update All Fields'
 I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:
 <blockquote> 
 
-I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two two. I would say &quot;Sweet.&quot; And then people would say, &quot;Mitch, how do I get a hold of you?&quot; I'd say, &quot;Just press two for a while. And when I answer, you will know you have pressed two enough.&quot; (<a href="http://en.wikiquote.org/wiki/Mitch_Hedberg">more classics</a> from the late and invariably hilarious Mitch Hedberg)
+I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two two. I would say &quot;Sweet.&quot; And then people would say, &quot;Mitch, how do I get a hold of you?&quot; I'd say, &quot;Just press two for a while. And when I answer, you will know you have pressed two enough.&quot; ([more classics](http://en.wikiquote.org/wiki/Mitch_Hedberg) from the late and invariably hilarious Mitch Hedberg)
 </blockquote>
 
 Now would be a good time for you to stop reading.   <hr />
@@ -102,7 +102,7 @@ It makes me cry a little to brute force every container I can think of this way.
 
 **Michael Haren said on 2010-02-27**
 
-Note: the finally{} cleanup code ought be enhanced with a call to something <a href="http://stackoverflow.com/questions/1907270/c-outlook-2007-com-interop-application-does-not-exit" rel="nofollow">like this</a>:
+Note: the finally{} cleanup code ought be enhanced with a call to something [like this](http://stackoverflow.com/questions/1907270/c-outlook-2007-com-interop-application-does-not-exit" rel="nofollow):
 
     private static void DisposeApp(Application WordApp)
 

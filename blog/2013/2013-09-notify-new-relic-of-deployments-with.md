@@ -19,7 +19,7 @@ You can tell New Relic about your deployments and they’ll add vertical lines t
 
 The documentation on the Events &gt; Deployments page is very helpful, but I still had to tinker with my message to New Relic’s API to get it to work. Here’s what I ended up with:
 
-At the end of my recipe, post to the API with the <a href="http://docs.opscode.com/resource_http_request.html">http_request</a> resource:<pre class="csharpcode">http_request <span class="str">"notify_new_relic"</span> do
+At the end of my recipe, post to the API with the [http_request](http://docs.opscode.com/resource_http_request.html) resource:<pre class="csharpcode">http_request <span class="str">"notify_new_relic"</span> do
   action :post
   url <span class="str">"https://rpm.newrelic.com/deployments.xml"</span>
   headers <span class="str">"x-api-key"</span> =&gt; <span class="str">"#{node["</span>newrelic<span class="str">"]["</span>apikey<span class="str">"]}"</span>

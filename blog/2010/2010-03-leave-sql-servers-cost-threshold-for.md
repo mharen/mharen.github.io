@@ -14,14 +14,14 @@ title: "Leave SQL Server\u2019s Cost Threshold for Parallelism Alone"
 I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:
 <blockquote> 
 
-“I like fruit baskets because it gives you the ability to mail someone a piece of fruit without appearing insane. Like, if someone just mailed you an apple you’d be like ‘Huh? What the hell is this?’, but if it’s in a fruit basket you’re like ‘This is *nice!*.’” –<a href="http://www.demetrimartin.com/">Demetri Martin</a> (<a href="http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/">via</a>)
+“I like fruit baskets because it gives you the ability to mail someone a piece of fruit without appearing insane. Like, if someone just mailed you an apple you’d be like ‘Huh? What the hell is this?’, but if it’s in a fruit basket you’re like ‘This is *nice!*.’” –[Demetri Martin](http://www.demetrimartin.com/) ([via](http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/))
 </blockquote>
 
 Now would be a good time for you to stop reading.  <hr />
 
-<a href="http://www.urbandictionary.com/define.php?term=sad+panda">![125981194793.png](125981194793.png)</a>A while back I was performance-testing a new SQL Server cluster. This machine was years-better than the system it was replacing and the perf-test was showing it. Everything I threw at it was flying—this thing was screaming fast.
+[![125981194793.png](125981194793.png)](http://www.urbandictionary.com/define.php?term=sad+panda)A while back I was performance-testing a new SQL Server cluster. This machine was years-better than the system it was replacing and the perf-test was showing it. Everything I threw at it was flying—this thing was screaming fast.
 
-Then we started load testing. This was basically an integration test where we turned on everything at once and <a href="http://en.wikipedia.org/wiki/Up_to_eleven">cranked it to 11</a>. Only we didn’t get to 11 because our server fell over at 2, making me a sad panda. The server started throwing strange and never-before-seen (by me) errors about problems with memory, threads, timeouts, etc. It looked like this:
+Then we started load testing. This was basically an integration test where we turned on everything at once and [cranked it to 11](http://en.wikipedia.org/wiki/Up_to_eleven). Only we didn’t get to 11 because our server fell over at 2, making me a sad panda. The server started throwing strange and never-before-seen (by me) errors about problems with memory, threads, timeouts, etc. It looked like this:
 
 ![image%5B5%5D.png](image%5B5%5D.png) 
 
@@ -33,7 +33,7 @@ Fortunately, SQL Server knows all this and has a setting for it:
 
 ![image%5B2%5D.png](image%5B2%5D.png) 
 
-The <a href="http://msdn.microsoft.com/en-us/library/aa196716(SQL.80).aspx">cost threshold for parallelism</a>. This value is in seconds. When SQL Server estimates a query will take longer than x seconds to be executed, the query is executed in *parallel*; otherwise *serial*.
+The [cost threshold for parallelism](http://msdn.microsoft.com/en-us/library/aa196716(SQL.80).aspx). This value is in seconds. When SQL Server estimates a query will take longer than x seconds to be executed, the query is executed in *parallel*; otherwise *serial*.
 
 <strong>Do not set this to a very low value like my DBA apparently did. </strong>
 

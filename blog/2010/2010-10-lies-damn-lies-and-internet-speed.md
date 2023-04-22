@@ -26,7 +26,7 @@ Wide Open West:
 
 ![image22.png](image22.png)
 
-There are two problems with all this:  <ol>   <li>The recommendations are completely crap </li>    <li>They rarely give you information on what actually matters: your upstream—how fast you can <a href="http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet">send stuff</a>: </li> </ol>  
+There are two problems with all this:  <ol>   <li>The recommendations are completely crap </li>    <li>They rarely give you information on what actually matters: your upstream—how fast you can [send stuff](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet): </li> </ol>  
 
 <span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;"></span></span> <span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">     <h4><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">The Recommendations Are Completely Crap</span></span></h4>    
 
@@ -44,7 +44,7 @@ The most frustrating speed-related problem on the Internet today (for home users
 
 The reason this is a problem is that the speeds normally advertised are asynchronous: different up vs. down. Digging into the vendors a little deeper reveals the upload speeds:    
 
-U-Verse (I couldn’t find this anywhere except <a href="http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet">Wikipedia</a>):    
+U-Verse (I couldn’t find this anywhere except [Wikipedia](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet)):    
 
 ![image%5B3%5D.png](image%5B3%5D.png)    
 
@@ -58,6 +58,6 @@ The sad fact is that even if you pay for ridiculous internet like Time Warner’
 
 <strong>I would rather pay $10 to improve my upload speed from 1 to 2 mbps than improve my download speed from 6 to 12 mbps. </strong>  <h4>Final Thoughts</h4>
 
-I appreciate that vendors are trying to make this stuff easier to buy—that’s great, this stuff is confusing. My objection is that for today’s internet, “Basic”, “Pro” or <strong>anything around 5mbps is far and away sufficient for most people</strong>. The average live Hulu stream is <a href="http://www.hulu.com/support/technical_faq#reqs">under 1.5mbps</a>. The average website is plenty fast on the smallest connection you can buy. <strong>Vendors are not doing a good job justifying the upsell with any honesty.</strong>
+I appreciate that vendors are trying to make this stuff easier to buy—that’s great, this stuff is confusing. My objection is that for today’s internet, “Basic”, “Pro” or <strong>anything around 5mbps is far and away sufficient for most people</strong>. The average live Hulu stream is [under 1.5mbps](http://www.hulu.com/support/technical_faq#reqs). The average website is plenty fast on the smallest connection you can buy. <strong>Vendors are not doing a good job justifying the upsell with any honesty.</strong>
 
-I personally have a 6mbps line and find it more than adequate. If I can surf, stream Hulu, and blog while Sarah uploads all <a href="http://footedjammies.blogspot.com/">those pictures</a>, I think six ought to be enough for most people.
+I personally have a 6mbps line and find it more than adequate. If I can surf, stream Hulu, and blog while Sarah uploads all [those pictures](http://footedjammies.blogspot.com/), I think six ought to be enough for most people.

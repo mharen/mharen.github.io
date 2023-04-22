@@ -14,13 +14,13 @@ title: "I Guess YouTuber\u2019s *Do* Advertise"
 ---
 
 
-In <a href="../2011/2011-02-end-of-super-bowl-style-advertising.html" target="_blank">my last post</a> I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:
+In [my last post](../2011/2011-02-end-of-super-bowl-style-advertising.html" target="_blank) I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:
 <blockquote> 
 
 But what about actual advertising?
 </blockquote>
 
-That is, what will happen during all those TV timeouts when we start depending more on YouTube to entertain us? I guess the value of those time slices will drop to reasonable levels for one (that is, until the medium really falls apart). And two, more advertising will creep into viral videos. Taking my <a href="http://stuffmystudentsdraw.blogspot.com/" target="_blank">brother</a>’s challenge, let’s analyze my favorite video of all time, <a href="http://www.youtube.com/watch?v=VF9-sEbqDvU" target="_blank">Marcel the Shell</a> *as is*:  
+That is, what will happen during all those TV timeouts when we start depending more on YouTube to entertain us? I guess the value of those time slices will drop to reasonable levels for one (that is, until the medium really falls apart). And two, more advertising will creep into viral videos. Taking my [brother](http://stuffmystudentsdraw.blogspot.com/" target="_blank)’s challenge, let’s analyze my favorite video of all time, [Marcel the Shell](http://www.youtube.com/watch?v=VF9-sEbqDvU" target="_blank) *as is*:  
 
 ![image%5B16%5D.png](image%5B16%5D.png)    
 

@@ -13,7 +13,7 @@ title: Two Cents on Healthcare, Part 2
 ---
 
 
-![image%5B12%5D.png](image%5B12%5D.png) My friend Tiffany commented on <a href="../2009/2009-08-two-cents-on-healthcare.html">part 1</a> of my healthcare posts on Facebook:
+![image%5B12%5D.png](image%5B12%5D.png) My friend Tiffany commented on [part 1](../2009/2009-08-two-cents-on-healthcare.html) of my healthcare posts on Facebook:
 <blockquote> 
 
 Please address how and/or why the US will remain on the cutting edge of health care without dissolving into the bowels of mediocrity. And, what motivates our most outstanding physicians to continue practicing in this capitalist society? I look forward to your thoughts and will end with a smiley face in order to maintain lightheartedness. :) 
@@ -33,12 +33,12 @@ We may spend the most money, but we don't get the best service, that's bad Capit
 I will also end with a smile :) this is just a friendly post. I look forward to reading more about it. Thanks for the link.
 </blockquote>
 
-I appreciate the genuine friendliness with which Tif and Tim signed their comments though I predict that this will <a href="http://www.createdebate.com/debate/show/But_No_Offense_Really">deteriorate</a> <a href="http://www.allegro.cc/forums/thread/456370/456498#target">soon</a>. I guess we’ll see how long it lasts!
+I appreciate the genuine friendliness with which Tif and Tim signed their comments though I predict that this will [deteriorate](http://www.createdebate.com/debate/show/But_No_Offense_Really) [soon](http://www.allegro.cc/forums/thread/456370/456498#target). I guess we’ll see how long it lasts!
 
-I completely agree with Tim. Our current system <a href="http://www.photius.com/rankings/healthranks.html">isn’t the world class health care giant</a> we all like to believe it is even though we’re <a href="http://www.photius.com/rankings/total_health_expenditure_as_pecent_of_gdp_2000_to_2005.html">paying through the nose</a> for it. While those numbers are dated, more <a href="http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse">recent analysis</a> is grim, too:
+I completely agree with Tim. Our current system [isn’t the world class health care giant](http://www.photius.com/rankings/healthranks.html) we all like to believe it is even though we’re [paying through the nose](http://www.photius.com/rankings/total_health_expenditure_as_pecent_of_gdp_2000_to_2005.html) for it. While those numbers are dated, more [recent analysis](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse) is grim, too:
 <blockquote> 
 
-<a href="http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse">![image%5B6%5D.png](image%5B6%5D.png)</a> “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund.   
+[![image%5B6%5D.png](image%5B6%5D.png)](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse) “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund.   
 
 The study, which assesses the United States on 37 health care measures, finds little improvement since the last report, as the cost of health care continues to rise steadily and more people — even those with insurance — struggle to pay their medical bills.   
 
@@ -61,7 +61,7 @@ Consider the same scenario but now with Joe being a mostly responsible guy. Supp
 <strong>Proposed financial impact: </strong>we cover Joe and everyone else with universal health care (not necessarily free, but mandated, just like car insurance in Ohio and elsewhere). He gets sick and the system pays, just like before. Only now, we’re accounting for it properly and Joe’s finances are not left in ruins. The cost to you and me is the same either way. 
 </blockquote>
 
-It’s great that we’re a compassionate nation that hesitates to let the sick perish, but perhaps I’m too generous when I assume that the uninsured are so well received. <a href="http://www.independent.co.uk/opinion/commentators/johann-hari/johann-hari-republicans-religion-and-the-triumph-of-unreason-1773994.html">Some stats</a> suggest that many die in need of medical care that’s out of reach (via <a href="http://powazek.com/posts/2030">Powazek</a>, via <a href="http://blurbomat.com/archives/2009/08/21/perceptions-deceptions-and-healthcare/">Blurbomat</a>):
+It’s great that we’re a compassionate nation that hesitates to let the sick perish, but perhaps I’m too generous when I assume that the uninsured are so well received. [Some stats](http://www.independent.co.uk/opinion/commentators/johann-hari/johann-hari-republicans-religion-and-the-triumph-of-unreason-1773994.html) suggest that many die in need of medical care that’s out of reach (via [Powazek](http://powazek.com/posts/2030), via [Blurbomat](http://blurbomat.com/archives/2009/08/21/perceptions-deceptions-and-healthcare/)):
 <blockquote> 
 
 Here's what's actually happening. The US is the only major industrialised country that does not provide regular healthcare to all its citizens. Instead, they are required to provide for themselves – and 50 million people can't afford the insurance. <strong>As a result, 18,000 US citizens die every year needlessly, because they can't access the care they require.</strong> That's equivalent to six 9/11s, every year, year on year. 

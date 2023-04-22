@@ -11,7 +11,7 @@ time_to_read: 5
 title: Programmers That...Program?
 ---
 
-As a software guy, <a href="http://www.codinghorror.com/blog/archives/000781.html">this article</a> made me very sad. The basic gist is that a lot of software grads these days can't actually write simple programs. I'm talking about really simple programs that I am confident both my wife and brother could implement with their single introductory programming class.
+As a software guy, [this article](http://www.codinghorror.com/blog/archives/000781.html) made me very sad. The basic gist is that a lot of software grads these days can't actually write simple programs. I'm talking about really simple programs that I am confident both my wife and brother could implement with their single introductory programming class.
 
 The example from the article, is an application that prints a list of numbers from 1-10. A slightly less ridiculously easy version is to:
 

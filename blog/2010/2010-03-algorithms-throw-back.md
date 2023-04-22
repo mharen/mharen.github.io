@@ -12,11 +12,11 @@ title: Algorithms Throw Back
 ---
 
 
-I was given a question today that really took me back. Here’s a hint: it had to do with <a href="http://en.wikipedia.org/wiki/Binary_search_tree">binary search trees</a>, data structures, and pretty printing.
+I was given a question today that really took me back. Here’s a hint: it had to do with [binary search trees](http://en.wikipedia.org/wiki/Binary_search_tree), data structures, and pretty printing.
 
 I haven’t touched a BST in six years so it took some priming to get me going.  
 
-![image%5B2%5D.png](image%5B2%5D.png)(<a href="http://people.ksp.sk/~kuko/bak/index.html">BST builder</a>)
+![image%5B2%5D.png](image%5B2%5D.png)([BST builder](http://people.ksp.sk/~kuko/bak/index.html))
 
 The task was to print this tree level by level. So the output should be 3, 1, 6, 2, 5, 7, 4. If you’re a programmer, I encourage you to solve this problem as an exercise before looking at my solution. It was humbling for me.
 
@@ -73,7 +73,7 @@ A quick test reveals that it works:
 <blockquote>
   <pre class="csharpcode">3 1 6 2 5 7 4</pre>
 </blockquote>
-Yay! So what did I learn today? I’m rusty on the basics and need to do some more <a href="http://projecteuler.net/">Project Euler problems</a>. 
+Yay! So what did I learn today? I’m rusty on the basics and need to do some more [Project Euler problems](http://projecteuler.net/). 
 
 
 I’ve taken this opportunity to brush up on some Java. Here’s the same app in the similar, but different Java:

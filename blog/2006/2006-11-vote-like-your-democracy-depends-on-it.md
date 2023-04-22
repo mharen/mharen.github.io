@@ -23,12 +23,12 @@ What an easy (too easy?) experience. I encourage everyone to vote, but only if y
 
 <ul>
 
-	<li><a href="http://www.ncfamily.org/voterguide2006/">North Carolina 2006 Voters Guide</a> by the Family Policy Council. This organization sends surveys to all the candidates and posts the results. That's it. No analysis or funny talk--just scans of what the candidates wrote. I found most of the questions to be good and many of the responses to be very helpful in shaping my vote.</li>
+	<li>[North Carolina 2006 Voters Guide](http://www.ncfamily.org/voterguide2006/) by the Family Policy Council. This organization sends surveys to all the candidates and posts the results. That's it. No analysis or funny talk--just scans of what the candidates wrote. I found most of the questions to be good and many of the responses to be very helpful in shaping my vote.</li>
 
-	<li><a href="http://www.sboe.state.nc.us/votersearch/seimsvot.htm">North Carolina Board of Elections</a>. Of course knowing who you can vote for in the local races is useful, too. This will tell you where to vote and who you will be voting for.</li>
+	<li>[North Carolina Board of Elections](http://www.sboe.state.nc.us/votersearch/seimsvot.htm). Of course knowing who you can vote for in the local races is useful, too. This will tell you where to vote and who you will be voting for.</li>
 
 </ul>
 
-You can probably find similar sites for your state by <a href="http://www.wassupy.com/voter%20guide%20my_state_here">searching accordingly</a>.
+You can probably find similar sites for your state by [searching accordingly](http://www.wassupy.com/voter%20guide%20my_state_here).
 
-I am almost disappointed that I didn't get use an electronic voting machine. I was curious how they worked as I have never actually used one. Then again, I like the fact that my vote is not <a href="http://www.eff.org/Activism/E-voting/">surrounded in controversy</a> by floating on some USB drive or flash card or whatever.
+I am almost disappointed that I didn't get use an electronic voting machine. I was curious how they worked as I have never actually used one. Then again, I like the fact that my vote is not [surrounded in controversy](http://www.eff.org/Activism/E-voting/) by floating on some USB drive or flash card or whatever.

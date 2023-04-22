@@ -14,7 +14,7 @@ title: 'Project Noodle: Terminated'
 ---
 
 
-It is with surprisingly little regret that I announce the termination of <a href="http://blog.wassupy.com/search/label/Project%20Noodle">Project Noodle</a>. Those not directly involved can stop reading now as this is completely unrelated to anything I’ve written about recently.
+It is with surprisingly little regret that I announce the termination of [Project Noodle](http://blog.wassupy.com/search/label/Project%20Noodle). Those not directly involved can stop reading now as this is completely unrelated to anything I’ve written about recently.
 
 Project Noodle was conceived with the goal of improving the recruitment process at my company. We don’t have trouble getting candidates but we don’t have easy access to data on how successful interviewers are—that’s what I wanted to fix.
 
@@ -22,7 +22,7 @@ After working through some mockups and trying to define how we might measure a s
 
 The whole point of Project Noodle was to collect data with the goal of giving interviewers (e.g. *me*) feedback on how we’re doing. Since I can’t do that, I’ve decided to drop the project. 
 
-As I <a href="../2011/2011-03-code-isnt-always-best-tool.html">just wrote</a>, knowing when to do this is important but difficult.
+As I [just wrote](../2011/2011-03-code-isnt-always-best-tool.html), knowing when to do this is important but difficult.
 
 ---
 

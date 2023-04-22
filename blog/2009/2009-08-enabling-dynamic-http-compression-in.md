@@ -50,7 +50,7 @@ Enable it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (II
 
 
 
-You might be wondering why you’d want to compress content in the first place. <a href="http://weblogs.asp.net/owscott/archive/2009/02/22/iis-7-compression-good-bad-how-much.aspx">This site</a> has a nice analysis of the practice as well as detailed information regarding what compression level you should use (and how to set it).
+You might be wondering why you’d want to compress content in the first place. [This site](http://weblogs.asp.net/owscott/archive/2009/02/22/iis-7-compression-good-bad-how-much.aspx) has a nice analysis of the practice as well as detailed information regarding what compression level you should use (and how to set it).
 
 ---
 

@@ -11,11 +11,11 @@ time_to_read: 5
 title: iPod Nano
 ---
 
-My friend Bryan did a <a href="http://guybehindtheguy.blogspot.com/2005/09/is-that-ipod-nano-in-your-pocket-or.html" title="Is that an iPod Nano in your pocket--or are you just freakishly unendowed?">quick analysis</a> of this <a href="http://www.apple.com/ipodnano/" title="Apple -- iPod nano">tiny, little device</a>. I completely agree with his conclusion regarding color choices: what happened? Like Tif, My wife agrees that the mini is soooo "I want one" because of the color choices. As it stands now, your only options are white and red (U2). Wow it's small, though.
+My friend Bryan did a [quick analysis](http://guybehindtheguy.blogspot.com/2005/09/is-that-ipod-nano-in-your-pocket-or.html" title="Is that an iPod Nano in your pocket--or are you just freakishly unendowed?) of this [tiny, little device](http://www.apple.com/ipodnano/" title="Apple -- iPod nano). I completely agree with his conclusion regarding color choices: what happened? Like Tif, My wife agrees that the mini is soooo "I want one" because of the color choices. As it stands now, your only options are white and red (U2). Wow it's small, though.
 
-Check out <a href="http://guybehindtheguy.blogspot.com/2005/09/is-that-ipod-nano-in-your-pocket-or.html" title="Is that an iPod Nano in your pocket--or are you just freakishly unendowed?">Bryan's article</a> for some more commentary and references.
+Check out [Bryan's article](http://guybehindtheguy.blogspot.com/2005/09/is-that-ipod-nano-in-your-pocket-or.html" title="Is that an iPod Nano in your pocket--or are you just freakishly unendowed?) for some more commentary and references.
 
-I find the <a href="http://www.apple.com/ipod/" title="Apple - iPod">iPod</a> pricing structure devilishly clever. It kills me:
+I find the [iPod](http://www.apple.com/ipod/" title="Apple - iPod) pricing structure devilishly clever. It kills me:
 
 
 

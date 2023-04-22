@@ -14,7 +14,7 @@ title: 'Birth Story: Thing 3'
 ---
 
 
-Thing 3 was born Wednesday, August 17th at 12:10 pm. He was 7.56 lbs. and 20.5” long. His future will be chronicled mostly on <a href="http://footedjammies.blogspot.com/">Wife’s blog</a>. This post is about the eventful hours leading up to, and immediately following his birth.
+Thing 3 was born Wednesday, August 17th at 12:10 pm. He was 7.56 lbs. and 20.5” long. His future will be chronicled mostly on [Wife’s blog](http://footedjammies.blogspot.com/). This post is about the eventful hours leading up to, and immediately following his birth.
 
 This is all from my perspective, and is meant to complement whatever Wife may write about her experience.
 
@@ -40,7 +40,7 @@ This is all from my perspective, and is meant to complement whatever Wife may wr
 
 ![2011-08-17%252520at%25252006-05-18%25255B4%25255D.jpg](2011-08-17%252520at%25252006-05-18%25255B4%25255D.jpg)  
 
-<strong>8:00</strong> Contractions slow just slightly at the good news that Midwife is here. I encourage Wife to walk and we start wandering around the neighborhood. Each contraction (about every 5 minutes) produces an interesting scene that must be confusing to our neighbors. It goes like this: wife will lean on me, or the ground and I’ll hold a long warm rice sock<sup><a href="#note-1" name="note-1-source">[1]</a></sup> low across her belly while she whispers<sup><a href="#note-2" name="note-2-source">[2]</a></sup> sweet labor sounds to the heavens.
+<strong>8:00</strong> Contractions slow just slightly at the good news that Midwife is here. I encourage Wife to walk and we start wandering around the neighborhood. Each contraction (about every 5 minutes) produces an interesting scene that must be confusing to our neighbors. It goes like this: wife will lean on me, or the ground and I’ll hold a long warm rice sock<sup>[[1]](#note-1" name="note-1-source)</sup> low across her belly while she whispers<sup>[[2]](#note-2" name="note-2-source)</sup> sweet labor sounds to the heavens.
 
 Thing 1 and Thing 2 wake up.
 
@@ -68,17 +68,17 @@ Midwife occasionally adds a few drops of lavender essential oils to the tub. The
 
 Midwife reports that the baby’s head is pretty much ready to crown but something may be blocking his grand escape (hand, cord, edge of cervix, a word from our sponsors, who knows). She suggests we move to the bed just in case any complex maneuvers are necessary as they are easier to execute on land.
 
-We carefully help Wife to the bed which is already doubly made up with regular fixings under a patented, quadruple layer fluid guard spread<sup><a href="#note-3" name="note-3-source">[3]</a></sup>—the usefulness of this will become obvious quite soon.
+We carefully help Wife to the bed which is already doubly made up with regular fixings under a patented, quadruple layer fluid guard spread<sup>[[3]](#note-3" name="note-3-source)</sup>—the usefulness of this will become obvious quite soon.
 
 <strong>12:05</strong> With the move to the bed complete, the real action begins. I’m starting to wonder if the neighbors will hear the goings on and what they might do in response. Midwife continues to monitor the baby periodically via doppler and we’re all feeling a bit tense at the difficulty in finding his heart rate. Wife is growing particularly anxious. I am scared, too, but like a rock (in my head at least), insist Baby’s fine and we’ll meet him soon. Midwife offers some encouragement to push with the next contraction and Wife complies in dramatic fashion.
 
-<strong>12:07</strong> What happens next is delicately noted on the birth report as “12:07: SROM”—or spontaneous rupture of membranes, i.e. water breaks on its own. What really happens is...messy. During a particularly difficult contraction the bag of waters does rupture, in seriously unexpected geyser fashion<sup><a href="#note-4" name="note-4-source">[4]</a></sup>.
+<strong>12:07</strong> What happens next is delicately noted on the birth report as “12:07: SROM”—or spontaneous rupture of membranes, i.e. water breaks on its own. What really happens is...messy. During a particularly difficult contraction the bag of waters does rupture, in seriously unexpected geyser fashion<sup>[[4]](#note-4" name="note-4-source)</sup>.
 
 <strong>12:10</strong> Within moments of the explosive delivery of fluid, Baby’s head, full of hair, starts crowning. With some gentle guidance from Midwife, and another push, his head comes through. One final push and he fully emerges, followed by another surprising volume of fluid.
 
-<a href="http://www.veggiepirates.com/">![pirate%252520flush%25255B5%25255D.png](pirate%252520flush%25255B5%25255D.png)</a>
+[![pirate%252520flush%25255B5%25255D.png](pirate%252520flush%25255B5%25255D.png)](http://www.veggiepirates.com/)
 
-And then joy. Raw, cliché, tears-in-your-eyes joy. A dramatic, heart wrenching joy that engulfs us again and again with each tiny cry from this tiny little person that we’ve spent that last 39 weeks praying for<sup><a href="#note-5" name="note-5-source">[5]</a></sup>.
+And then joy. Raw, cliché, tears-in-your-eyes joy. A dramatic, heart wrenching joy that engulfs us again and again with each tiny cry from this tiny little person that we’ve spent that last 39 weeks praying for<sup>[[5]](#note-5" name="note-5-source)</sup>.
 
 ![2011-08-17%252520at%25252011-32-59%25255B4%25255D.jpg](2011-08-17%252520at%25252011-32-59%25255B4%25255D.jpg)
 
@@ -128,7 +128,7 @@ Everyone—Wife, me, Midwife, BirthTeam and assorted kiddos—spend the rest of 
 
 ![2011-08-17%252520at%25252011-33-24%25255B5%25255D.jpg](2011-08-17%252520at%25252011-33-24%25255B5%25255D.jpg)
 
-Midwife does the baby exam on the bed right in front of us and walks us through each detail as she adoringly checks it. All are invited to observe. She examines the the placenta and involves the curious kiddos as much as they are comfortable with. Midwife asks of our plans for the placenta and refuses to chuckle at my quizzical expression. Wife decides to freeze it “for now”<sup><a href="#note-6" name="note-6-source">[6]</a></sup>.
+Midwife does the baby exam on the bed right in front of us and walks us through each detail as she adoringly checks it. All are invited to observe. She examines the the placenta and involves the curious kiddos as much as they are comfortable with. Midwife asks of our plans for the placenta and refuses to chuckle at my quizzical expression. Wife decides to freeze it “for now”<sup>[[6]](#note-6" name="note-6-source)</sup>.
 
 ![2011-08-17%252520at%25252012-04-22%25255B4%25255D.jpg](2011-08-17%252520at%25252012-04-22%25255B4%25255D.jpg)
 
@@ -138,7 +138,7 @@ Midwife weighs and measures Baby (7lb-9oz, 20.5”). She gives us a few final in
 
 ![2011-08-17%252520at%25252012-39-06%25255B10%25255D.jpg](2011-08-17%252520at%25252012-39-06%25255B10%25255D.jpg)
 
-<strong>2:00</strong> BirthTeam friends gather up offspring, wish us well, and leave. Midwife fills out Baby’s certificate (he’s still unnamed), and leaves (she’ll return tomorrow for a follow up). I see everyone off and discover that they have been busy caring for not just our children but our home. BirthTeam friends and Midwife have done laundry, dishes, and cleaned our bathroom. They even baked Baby a birthday cake! These touching gifts are so, so appreciated as the house falls quiet<sup><a href="#note-7" name="note-7-source">[7]</a></sup>.
+<strong>2:00</strong> BirthTeam friends gather up offspring, wish us well, and leave. Midwife fills out Baby’s certificate (he’s still unnamed), and leaves (she’ll return tomorrow for a follow up). I see everyone off and discover that they have been busy caring for not just our children but our home. BirthTeam friends and Midwife have done laundry, dishes, and cleaned our bathroom. They even baked Baby a birthday cake! These touching gifts are so, so appreciated as the house falls quiet<sup>[[7]](#note-7" name="note-7-source)</sup>.
 
 Wife and Baby settle in for a nap and I take the noisemakers, Thing 1 and Thing 2, to the store to pick up a few things but really just to make the house quiet and give the new big sisters some much needed attention.
 
@@ -146,7 +146,7 @@ And life goes on, +1.  <h3>Thank You</h3>
 
 Thank you to everyone who supported us on Baby’s birthday.
 
-*Thank you*, Jamie and Adrianne<sup><a href="#note-8" name="note-8-source">[8]</a></sup>, for watching our kids. Your kindness in caring for them, feeding them, clothing them and helping them participate in the birth in the absolutely perfect way is the most beautiful gift I’ve ever received from a friend.
+*Thank you*, Jamie and Adrianne<sup>[[8]](#note-8" name="note-8-source)</sup>, for watching our kids. Your kindness in caring for them, feeding them, clothing them and helping them participate in the birth in the absolutely perfect way is the most beautiful gift I’ve ever received from a friend.
 
 *Thank you*, Sierra, for shooting what I’m sure will be amazing pictures—capturing these special moments is very important to us. I appreciate your encouragement to Wife during her labor and helping me help her. Having you in the room during the entire process lowered our anxiety at least two notches and enabled us to truly focus on Wife and Baby.
 
@@ -161,14 +161,14 @@ We are so fortunate to have you all.
 ![2011-08-17%252520at%25252013-27-58%25255B4%25255D.jpg](2011-08-17%252520at%25252013-27-58%25255B4%25255D.jpg)
 
 *(Tip: click the number, or your browser’s back button to go back.)*  
-<a href="#note-1-source">[1]</a>It’s basically a tube sock version of <a href="http://www.wikihow.com/Make-a-Rice-Sock">this</a>  
-<a href="#note-2-source">[2]</a>And sometimes *shouts*  
-<a href="#note-3-source">[3]</a>A fantastic Midwife trick where you take a regular bed with sheets on it and layer on a waterproof shower curtain liner, a bunch of absorbent Chux pads, a forsaken sheet, and more Chux pads. The advantage to this, aside from protecting your bed from the perils of labor, is that when it’s all over you just peel off the waterproofing stuff and a perfectly made bed is underneath.  
-<a href="#note-4-source">[4]</a>We later measured and found fluid eight feet away.  
-<a href="#note-5-source">[5]</a>Unlike most things in this world that ultimately disappoint us when we spend weeks or months building them up in anticipation, meeting your child for the first time shatters all imaginable expectations. I’ve experienced it three times now and the physiological response is so incredible *I’m literally tearing up right now as I type*.  
-<a href="#note-6-source">[6]</a>Huh? Wife’s been crunchy long enough now that I know better than to ask about this.  
-<a href="#note-7-source">[7]</a>Quieter. Our other two kids are awake.  
-<a href="#note-8-source">[8]</a>And Eric for delivering critical foodstuffs!
+[[1]](#note-1-source)It’s basically a tube sock version of [this](http://www.wikihow.com/Make-a-Rice-Sock)  
+[[2]](#note-2-source)And sometimes *shouts*  
+[[3]](#note-3-source)A fantastic Midwife trick where you take a regular bed with sheets on it and layer on a waterproof shower curtain liner, a bunch of absorbent Chux pads, a forsaken sheet, and more Chux pads. The advantage to this, aside from protecting your bed from the perils of labor, is that when it’s all over you just peel off the waterproofing stuff and a perfectly made bed is underneath.  
+[[4]](#note-4-source)We later measured and found fluid eight feet away.  
+[[5]](#note-5-source)Unlike most things in this world that ultimately disappoint us when we spend weeks or months building them up in anticipation, meeting your child for the first time shatters all imaginable expectations. I’ve experienced it three times now and the physiological response is so incredible *I’m literally tearing up right now as I type*.  
+[[6]](#note-6-source)Huh? Wife’s been crunchy long enough now that I know better than to ask about this.  
+[[7]](#note-7-source)Quieter. Our other two kids are awake.  
+[[8]](#note-8-source)And Eric for delivering critical foodstuffs!
 
 ---
 

@@ -18,7 +18,7 @@ Thanks to the wonderful technology of spam filters, I rarely see spam anymore. T
 
 It made it through the corporate filters but to Outlook’s credit it *was* flagged as probable spam.  
 
-Obviously I didn’t click the link. A bitly link. Hmmm. I use bitly for my <a href="http://twitter.com/mharen">twittering</a> and happen to know that if you add a “+” to the end of *any *bitly or jmp link, you get an awesome stats page <a href="http://bit.ly/hIfeGP+">like this</a>:  
+Obviously I didn’t click the link. A bitly link. Hmmm. I use bitly for my [twittering](http://twitter.com/mharen) and happen to know that if you add a “+” to the end of *any *bitly or jmp link, you get an awesome stats page [like this](http://bit.ly/hIfeGP+):  
 
 ![image%5B5%5D.png](image%5B5%5D.png)  
 
@@ -26,4 +26,4 @@ This usefully tells you where the link takes you (the “long link”)—a datin
 
 What have I learned? Even though I have no idea how many spam emails it took to get 190 hits, or what (if anything) those 190 clicks earned the sender, I’m disappointed to find at least that many people were curious enough, gullible enough, or foolish enough, to click the link. <strong>If the spam problem hadn’t been pretty much solved years ago, I’d be angry at you 190 people for supporting the industry.</strong>
 
-<a href="http://bit.ly/hIfeGP+">Check it out</a> for yourself, or try adding “+” to any jmp/bitly link you come across for some occasionally interesting data (<a href="http://bit.ly/hZvZiH">like this one</a>).
+[Check it out](http://bit.ly/hIfeGP+) for yourself, or try adding “+” to any jmp/bitly link you come across for some occasionally interesting data ([like this one](http://bit.ly/hZvZiH)).

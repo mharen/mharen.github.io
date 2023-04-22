@@ -23,7 +23,7 @@ But now I’m faced with a decision that I suddenly don’t have an easy answer 
 
 Quite simply, I need to decide if I want to move into management (i.e. manage projects and occasionally design software, but stop coding) or stay technical (i.e. design software and write code, but stop advancing). To code or not to code…  <h4>![magic8ball1.jpg](magic8ball1.jpg)Option 1: The Default Path Into Management and Sales</h4>
 
-The path of least external resistance is definitely to follow the management route at my current company. That’s what everyone expects me to do. It’s probably where the money is and provides new growth opportunities. Over time I’d have to give up coding and learn more about project management, people management, and sales—areas that don’t excite me terribly. This is the <a href="http://en.wikipedia.org/wiki/Bluepill">blue pill</a> option.  <h4>Option 2: The Terminal Path of Staying Technical</h4>
+The path of least external resistance is definitely to follow the management route at my current company. That’s what everyone expects me to do. It’s probably where the money is and provides new growth opportunities. Over time I’d have to give up coding and learn more about project management, people management, and sales—areas that don’t excite me terribly. This is the [blue pill](http://en.wikipedia.org/wiki/Bluepill) option.  <h4>Option 2: The Terminal Path of Staying Technical</h4>
 
 Another option is to resist the pull into management and remain a senior engineer forever. By deliberately limiting my advancement into management, I’d be able to stay technical and do pretty much what I do now. The money and the work is comfortable, though there’s more travel than I’d like. I’d probably continue leading small teams and working on long-term projects. This is another blue pill option.  <h4>Option 3: Something Else Entirely</h4>
 
@@ -39,7 +39,7 @@ Option 3—something else entirely—has some significant issues. While it is ex
 
 That leaves me with option 1. The wildcard within option 1 is that I might be able to sneak some of option 3 into it. My manager and I have discussed my product manager goals and concluded that it’s a remote possibility. That basically means that I need to get very lucky—a successful product needs to emerge from the organization (something that very rarely happens, as it’s not our primary business), *and* I need to be worked into the foundation of it. But if the product management stuff doesn’t work out, I’ll still be in good shape. I’ve done a fair bit of technical sales and have actually found parts of it that I enjoy so there might be a future there.
 
-So that’s what I’m going to do: option 1, management and sales, with an eye out for product management opportunities. This of course means I’ll be more motivated than ever to do side projects like <a href="http://blog.wassupy.com/search/label/Project%20Noodle">Noodle</a> to scratch my coder itch and stay sharp.  <h4>Final Conclusions</h4>
+So that’s what I’m going to do: option 1, management and sales, with an eye out for product management opportunities. This of course means I’ll be more motivated than ever to do side projects like [Noodle](http://blog.wassupy.com/search/label/Project%20Noodle) to scratch my coder itch and stay sharp.  <h4>Final Conclusions</h4>
 
 Of course this is the *five-year* plan so who knows what’ll happen? 
 

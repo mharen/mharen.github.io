@@ -11,7 +11,7 @@ time_to_read: 5
 title: Batman (3.5/5 stars)
 ---
 
-Oh boy, what a classic! <a href="http://imdb.com/title/tt0096895/">Batman</a>, the original. 1989, wow.
+Oh boy, what a classic! [Batman](http://imdb.com/title/tt0096895/), the original. 1989, wow.
 
 Batman has always been my favorite super hero. Why, you ask? Because he's really just a regular guy, that's why. Anyone could be Batman. I don't have to mutate or learn to fly; I just take up ass-kicking, hire a butler, inherit a crap-load of money and I'm good to go. 
 

@@ -12,17 +12,17 @@ title: To Fail Or Not To Fail; Plus Bonus Ruminations
 ---
 
 
-A hilarious meme popular in my social group right now is that of the fail. This is inspired by many popular sites, the most notable being <a href="http://failblog.org/">FailBlog</a>. a “fail” is an act of failure concluded with the (typically third-party) exclamation “fail”. Some examples:
+A hilarious meme popular in my social group right now is that of the fail. This is inspired by many popular sites, the most notable being [FailBlog](http://failblog.org/). a “fail” is an act of failure concluded with the (typically third-party) exclamation “fail”. Some examples:
 
 While trying to refill a honey bear, I over filled causing quite a mess. Upon seeing my error, a witness is right to proclaim, “Fail!”. This is also increasingly popular in photos. For example, FailBlog is full of sign fails and science fails like these:  
 
-<a href="http://failblog.org/2009/08/30/sports-recognition-fail/">![image%5B11%5D.png](image%5B11%5D.png)</a>&#160;
+[![image%5B11%5D.png](image%5B11%5D.png)](http://failblog.org/2009/08/30/sports-recognition-fail/)&#160;
 
 
 
 
 
-But you already know this. Why would I spend so much time defining a fail? Because apparently it’s not so obvious to a certain group of <a href="http://community.babycenter.com/post/a13943225/fail_pictures_stole_from_the_june_board">BabyCenter moms</a>. Here are a few Fail fails:
+But you already know this. Why would I spend so much time defining a fail? Because apparently it’s not so obvious to a certain group of [BabyCenter moms](http://community.babycenter.com/post/a13943225/fail_pictures_stole_from_the_june_board). Here are a few Fail fails:
 
 ![image%5B35%5D.png](image%5B35%5D.png)
 
@@ -54,11 +54,11 @@ In the spirit of all things fail, here are a few pics I snapped on the way to wo
 
 On my way to work the fire truck pulled out in front of me and while I waited at a traffic light, they extinguished the flames shooting out of that car. Good work guys!
 
-Here’s another encountered while trying to start up a VM on my Windows 7 machine (for those lucky enough to not be familiar with this, it’s the <a href="http://en.wikipedia.org/wiki/Blue_Screen_of_Death">BSOD</a>—what you see when your computer decides to suddenly stop working):
+Here’s another encountered while trying to start up a VM on my Windows 7 machine (for those lucky enough to not be familiar with this, it’s the [BSOD](http://en.wikipedia.org/wiki/Blue_Screen_of_Death)—what you see when your computer decides to suddenly stop working):
 
 ![200909231419_160%5B6%5D.jpg](200909231419_160%5B6%5D.jpg)</a> 
 
-If you want some more funny pics, check out some <a href="http://www.huffingtonpost.com/2009/09/21/the-funniest-protest-sign_n_292342.html">recent protester signs</a>.
+If you want some more funny pics, check out some [recent protester signs](http://www.huffingtonpost.com/2009/09/21/the-funniest-protest-sign_n_292342.html).
 
 While I’m dumping photos off my phone, here are some non-fail ruminations.
 

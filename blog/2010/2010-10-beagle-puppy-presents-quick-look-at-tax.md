@@ -29,7 +29,7 @@ This shows that when you move into the next bracket that *all *of your income is
 
 ![image%5B8%5D.png](image%5B8%5D.png)
 
-That is, a tiny slice is taxed at 10%, a larger slice is taxed at 15%, and a final slice is taxed at 25%. Let’s try a new way to visualize this. Imagine your money as water filling up cups from left to right, until it runs out (insert liquidity joke and <a href="http://instantrimshot.com/">click here</a>; good job):
+That is, a tiny slice is taxed at 10%, a larger slice is taxed at 15%, and a final slice is taxed at 25%. Let’s try a new way to visualize this. Imagine your money as water filling up cups from left to right, until it runs out (insert liquidity joke and [click here](http://instantrimshot.com/); good job):
 
 ![image%5B11%5D.png](image%5B11%5D.png)
 
@@ -41,7 +41,7 @@ More directly, if congress were to lower the tax rate of the first cup, it would
 
 These rates, and the points at which they kick in change occasionally and that’s usually what the politicians are arguing about. 
 
-If you just can’t contain yourself, check out this <a href="http://www.moneychimp.com/features/tax_brackets.htm">nice calculator/reference table</a> or this <a href="http://money.howstuffworks.com/personal-finance/personal-income-taxes/tax-brackets.htm">How Stuff Works article</a> which does a nice job on the topic.
+If you just can’t contain yourself, check out this [nice calculator/reference table](http://www.moneychimp.com/features/tax_brackets.htm) or this [How Stuff Works article](http://money.howstuffworks.com/personal-finance/personal-income-taxes/tax-brackets.htm) which does a nice job on the topic.
 
 Did that help? Did I make it worse? Let me know!
 

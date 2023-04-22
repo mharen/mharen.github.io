@@ -14,7 +14,7 @@ title: Campaigning Like a Boss
 ---
 
 
-I work at a company of about 250 people. We work hard and try to <a href="http://www.rovisys.com/about/just_for_fun.aspx">have a good time</a> every now and again. One of the structured ways that we have a good time is through the Rovisys Activities Committee, or RAC. It’s basically like the party planning committee from the show The Office, but we have bigger budgets and better parties. 
+I work at a company of about 250 people. We work hard and try to [have a good time](http://www.rovisys.com/about/just_for_fun.aspx) every now and again. One of the structured ways that we have a good time is through the Rovisys Activities Committee, or RAC. It’s basically like the party planning committee from the show The Office, but we have bigger budgets and better parties. 
 
 The committee holds elections every year to replace a few outgoing members. This is a job that no one really wants because it actually takes a lot of work to plan a party for a large group of people (employees and their families). When someone nominated me I figured why not go all out? You know, actually act like I want it? A lot of people were confused by this.
 

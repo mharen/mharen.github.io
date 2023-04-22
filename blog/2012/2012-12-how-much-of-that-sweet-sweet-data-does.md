@@ -18,7 +18,7 @@ title: How Much Of that Sweet, Sweet Data Does Pandora Use on Your Phone?
 
 I’ve been looking to upgrade to one of those shiny 4g phones. In doing so I’ll lose my unlimited data plan. Is that a problem? Maybe.
 
-Verizon has a <a href="http://www.verizonwireless.com/b2c/splash/datacalculatorPopup.jsp">pretty neat calculator</a> (I was surprised!) that gives you a rough idea of how much data you might you. The gist is that anything other than video/audio requires very little data:
+Verizon has a [pretty neat calculator](http://www.verizonwireless.com/b2c/splash/datacalculatorPopup.jsp) (I was surprised!) that gives you a rough idea of how much data you might you. The gist is that anything other than video/audio requires very little data:
 
 ![image2.png](image2.png)
 
@@ -46,9 +46,9 @@ That is:  <ul>   <li>+3.5 MB after 5 minutes </li>    <li>+2.5 MB after 5 more m
 
 Or, an average of 0.57 MB per minute. That’s about 34 MB per hour—just over half of what the Verizon calculator suggests. That’s good news! If this number is remotely correct, streaming Pandora for two hours a day will actually consume about 2 GB per month, not 3.5+ GB. 
 
-(Note: the Verizon site uses normal <a href="http://en.wikipedia.org/wiki/Mebibyte">mebibytes</a> but <a href="../2012/2012-12-does-ios-report-usage-in-mebibytes-or.html">iOS doesn’t</a>. The effect of this difference is not insignificant here.)
+(Note: the Verizon site uses normal [mebibytes](http://en.wikipedia.org/wiki/Mebibyte) but [iOS doesn’t](../2012/2012-12-does-ios-report-usage-in-mebibytes-or.html). The effect of this difference is not insignificant here.)
 
-How does this align with what Pandora’s <a href="http://help.pandora.com/customer/portal/articles/90985-audio-quality">documentation</a> claims?
+How does this align with what Pandora’s [documentation](http://help.pandora.com/customer/portal/articles/90985-audio-quality) claims?
 
 ![image3.png](image3.png)
 <blockquote> 

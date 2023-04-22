@@ -18,7 +18,7 @@ In our highly charged media, it’s exceedingly common (and frustrating) to see 
 
 Yikes! Things start out pretty serious. After keeping our attention with a few random facts, the story is finally killed by its own lame ties to reality.
 
-![images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=](images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=)Here’s an actual, far less dramatic example from an <a href="http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story">article</a> I read this morning:
+![images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=](images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=)Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
 
 <strong>Headline: </strong>
 <blockquote> 
@@ -64,7 +64,7 @@ What, what? So he was out of there next year anyway? When he leaves, he’ll hav
 
 <strong>There’s no story here. </strong>Why was this on the front page?!
 
-By the way, the Google Image results for [<a href="http://www.google.com/images?q=Vaughn+R.+Walker">Vaughn R. Walker</a>]—the judge—are pretty hilarious:
+By the way, the Google Image results for [[Vaughn R. Walker](http://www.google.com/images?q=Vaughn+R.+Walker)]—the judge—are pretty hilarious:
 
 ![image%5B12%5D.png](image%5B12%5D.png)  
 

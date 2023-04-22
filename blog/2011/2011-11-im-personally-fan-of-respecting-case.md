@@ -19,7 +19,7 @@ I’m personally a fan of respecting case sensitivity. Historically it seems tha
 
 This leads to some frustratingly elusive bugs on occasion because there *are *instances in VB where case does matter. Take for instance the following objects, commonly available while processing an ASP.NET request:  <ul>   <li>Request</li>    <li>Session</li>    <li>Cookies</li>    <li>Viewstate</li> </ul>
 
-The first three (among others) are implemented with a hash table that does case-insensitive lookups. (There’s an <a href="http://stackoverflow.com/q/1731283/29/#1731535">awesome answer</a> over on Stackoverflow that explains why it works this way).
+The first three (among others) are implemented with a hash table that does case-insensitive lookups. (There’s an [awesome answer](http://stackoverflow.com/q/1731283/29/#1731535) over on Stackoverflow that explains why it works this way).
 
 So after playing fast and loose with case sensitivity, it’s easy to treat the viewstate object the same way. But, as you’ve surely guessed by now, lookups in the viewstate bag are *case-sensitive*. 
 

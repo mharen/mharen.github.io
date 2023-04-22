@@ -12,7 +12,7 @@ time_to_read: 5
 title: Apple and the iPhone
 ---
 
-[This is part of my <a href="/category/letters/">snailmail bit</a>]
+[This is part of my [snailmail bit](/category/letters/)]
 
 July 24, 2007 
 

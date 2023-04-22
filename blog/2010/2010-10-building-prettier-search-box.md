@@ -40,7 +40,7 @@ We can improve things a great deal by adding a shiny graphic:
 </blockquote>
 
 
-That's most easily accomplished by changing the input type from &quot;submit&quot; to &quot;image&quot; like so (this could be accomplished in CSS with a bit <a href="http://stackoverflow.com/q/195632/29">more effort</a>): 
+That's most easily accomplished by changing the input type from &quot;submit&quot; to &quot;image&quot; like so (this could be accomplished in CSS with a bit [more effort](http://stackoverflow.com/q/195632/29)): 
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">input</span> <span class="kwrd">/&gt;
@@ -72,7 +72,7 @@ input.search-box { padding-right:20px; }</pre>
 Clean and simple. 
 
 
-It has one minor drawback in that it doesn't support CSS sprites. If you want that, you'll need to use one of the <code>background-image</code> tricks at the <a href="http://stackoverflow.com/q/195632/29">link</a> I mentioned earlier.
+It has one minor drawback in that it doesn't support CSS sprites. If you want that, you'll need to use one of the <code>background-image</code> tricks at the [link](http://stackoverflow.com/q/195632/29) I mentioned earlier.
 
 
 Of course once Google's Instant Search sweeps the web this will all be a cow's opinion: moo.

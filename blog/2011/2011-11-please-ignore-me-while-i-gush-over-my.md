@@ -42,7 +42,7 @@ I love the **back-lit keyboard**. I work in the dark often (while the kiddos fal
 
 I like that I finally have a **built-in webcam**. I rarely use it but when I need one, it's hard to beat the convenience of having it built-in, ready to go. The quality is much better than whatever Logitech cheap thing I used to use, too.
 
-I like this E-media bay thing, also known as that spot where the disc drive falls out of. Right now I have a huge *second* harddrive in there instead of a disc drive (that's the part I like). It's very nice considering how small SSDs tend to be. Now I have tons of scratch space to complement my lightning fast, but scarce SSD. The first thing I'll use it for is to set up regular backups since SSDs <a href="http://www.codinghorror.com/blog/2011/05/the-hot-crazy-solid-state-drive-scale.html">aren't widely known</a> for their longevity.
+I like this E-media bay thing, also known as that spot where the disc drive falls out of. Right now I have a huge *second* harddrive in there instead of a disc drive (that's the part I like). It's very nice considering how small SSDs tend to be. Now I have tons of scratch space to complement my lightning fast, but scarce SSD. The first thing I'll use it for is to set up regular backups since SSDs [aren't widely known](http://www.codinghorror.com/blog/2011/05/the-hot-crazy-solid-state-drive-scale.html) for their longevity.
 
 **<span style="font-size: large;">Things that could be better</span>**
 
@@ -58,12 +58,12 @@ Regarding the keyboard, I'm sure few will share this complaint, but I miss my co
 While I do like having proper** page up/down** buttons, the layout is weird. My intuition has me hitting the wrong one, thinking that they should be reversed. Or really, they should be somewhere else. I wish I could order this thing with a standard arrow/nav arrangement instead of the 10-key. *That'd be awesome.*
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;">![have.png](have.png)</a></div>
+[![have.png](have.png)](http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;">![want.png](want.png)</a></div>
+[![want.png](want.png)](http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 
@@ -77,14 +77,14 @@ I am overwhelmingly thrilled with this thing. It's fast and reliable. It seems t
 I don't know how meaningful these things are but I've become quite obsessed with my Windows Experience Index scores. Here's my old machine, just before I moved its hard drive over.:
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;">![d520+wei.png](d520+wei.png)</a></div>
+[![d520+wei.png](d520+wei.png)](http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 
 And my new one:
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;">![e6520+wei.png](e6520+wei.png)</a></div>
+[![e6520+wei.png](e6520+wei.png)](http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 

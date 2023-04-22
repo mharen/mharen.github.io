@@ -57,7 +57,7 @@ Hmmm so no training required at all…awesome. So she’s cutting my hair and do
 
 So I was done and had what I guess was just a hack job that resembled something like this:  
 
-![bad-hair-day.jpg](bad-hair-day.jpg)(<a href="http://www.flickr.com/photos/fordbuchanan/3263291855/">artist</a> rendering)
+![bad-hair-day.jpg](bad-hair-day.jpg)([artist](http://www.flickr.com/photos/fordbuchanan/3263291855/) rendering)
 
 Then I’m not sure how this happened, but Sarah (who only rarely gets her hair cut), decided to get a trim and got the same person! I swear I didn’t know, babe—honest!
 

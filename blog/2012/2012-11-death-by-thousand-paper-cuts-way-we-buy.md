@@ -31,6 +31,6 @@ Suppose you’re selling your home for $150,000 and you have 10% in equity ($15,
 *Suddenly your equity has vanished!* And what’s worse, this doesn’t translate into equity for the buyer, either—it’s going to third parties involved in the transaction. And that doesn’t even factor in the fact that it takes months to find a buyer and a month or more to close the deal.
 If you could buy or sell a house in less time, for half the fee, I think you’d be interested. That’s where someone clever is going to seize on an opportunity and make a killing.
 I hope it happens soon.
-I have some <a href="../2012/2012-11-how-buying-or-selling-house-in-single.html">rough ideas</a> for how it could work, too…
-<hr />Photo credits:<ul><li><a href="http://www.bryantanalysts.com/2012/03/30/treasury-secretary-geithner-says-gses-should-consider-principal-reduction/">For sale</a></li>
+I have some [rough ideas](../2012/2012-11-how-buying-or-selling-house-in-single.html) for how it could work, too…
+<hr />Photo credits:<ul><li>[For sale](http://www.bryantanalysts.com/2012/03/30/treasury-secretary-geithner-says-gses-should-consider-principal-reduction/)</li>
 </ul>

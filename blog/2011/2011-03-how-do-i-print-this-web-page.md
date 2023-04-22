@@ -94,5 +94,5 @@ Firefox</h3>
 
 **Michael Haren said on 2011-03-24**
 
-Yes, this has come up often enough lately that I felt compelled to write a page about it, and buy a <a href="http://www.howdoiprint.com" rel="nofollow">domain to redirect here</a>.
+Yes, this has come up often enough lately that I felt compelled to write a page about it, and buy a [domain to redirect here](http://www.howdoiprint.com" rel="nofollow).
 

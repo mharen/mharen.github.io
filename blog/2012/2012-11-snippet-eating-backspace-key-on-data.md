@@ -32,7 +32,7 @@ It’s simple to eat that keyboard shortcut in Javascript. Here’s a snippet th
     });</pre>
 
 
-That is, if the keydown event fires and it’s backspace key and we’re not in an input or textarea, stop the keydown event. We can liven this up a little by interrupting the event if it’s readonly or disabled. <a href="http://stackoverflow.com/a/2768256/29">This answer</a> on Stackoverflow by <a href="http://stackoverflow.com/users/47161/erikkallen">erikkallen</a> covers that case, too:
+That is, if the keydown event fires and it’s backspace key and we’re not in an input or textarea, stop the keydown event. We can liven this up a little by interrupting the event if it’s readonly or disabled. [This answer](http://stackoverflow.com/a/2768256/29) on Stackoverflow by [erikkallen](http://stackoverflow.com/users/47161/erikkallen) covers that case, too:
 
 <pre class="csharpcode">    $(document).unbind(<span class="str">'keydown'</span>).bind(<span class="str">'keydown'</span>, <span class="kwrd">function</span> (<span class="kwrd">event</span>) {
         <span class="kwrd">var</span> doPrevent = <span class="kwrd">false</span>;
@@ -55,7 +55,7 @@ That is, if the keydown event fires and it’s backspace key and we’re not in 
     });</pre>
 
 
-And if you don’t want to use any jQuery, <a href="http://jsfiddle.net/JEKXH/3/">here’s</a> the pure JS version (with <a href="http://stackoverflow.com/a/1629949/29">more</a> <a href="http://stackoverflow.com/a/10182352/29">thanks</a> <a href="http://stackoverflow.com/q/1411545/29">to</a> Stackoverflow):
+And if you don’t want to use any jQuery, [here’s](http://jsfiddle.net/JEKXH/3/) the pure JS version (with [more](http://stackoverflow.com/a/1629949/29) [thanks](http://stackoverflow.com/a/10182352/29) [to](http://stackoverflow.com/q/1411545/29) Stackoverflow):
 
 <pre class="csharpcode">    document.onkeydown = <span class="kwrd">function</span> (<span class="kwrd">event</span>) {
         <span class="kwrd">var</span> doPrevent = <span class="kwrd">false</span>;

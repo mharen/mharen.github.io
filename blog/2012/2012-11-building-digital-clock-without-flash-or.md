@@ -14,7 +14,7 @@ title: Building a Digital Clock without Flash or Images
 ---
 
 
-As a continuation of yesterday’s post wherein I built an <a href="../2012/2012-11-building-analog-clock-without-flash-or.html">analog clock without flash or images</a>, I am going to do something *much easier* today: build a digital clock. This will be another component to the game I’m building for Thing1.
+As a continuation of yesterday’s post wherein I built an [analog clock without flash or images](../2012/2012-11-building-analog-clock-without-flash-or.html), I am going to do something *much easier* today: build a digital clock. This will be another component to the game I’m building for Thing1.
 
 Again, here’s where we’re headed:
 

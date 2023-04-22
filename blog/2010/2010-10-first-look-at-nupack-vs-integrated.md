@@ -13,7 +13,7 @@ title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 
 <h4>Installation</h4>
 
-Couldn’t be easier:  <ul>   <li>![image2.png](image2.png)<a href="http://nupack.codeplex.com/"><u><font color="#0066cc">http://nupack.codeplex.com/</font></u></a> </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
+Couldn’t be easier:  <ul>   <li>![image2.png](image2.png)[<u><font color="#0066cc">http://nupack.codeplex.com/</font></u>](http://nupack.codeplex.com/) </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
 
 Fire up Visual Studio 2010 and open the Package Manager Console under View &gt; Other Windows &gt; Package Manager Console (or press C-W, C-Z):
 
@@ -127,7 +127,7 @@ Output:
 ![image26.png](image26.png)
 
 
-It works! Now let’s improve that view code by trying out that fancy <a href="http://mvccontrib.codeplex.com/wikipage?title=T4MVC">T4MVC</a> stuff I’ve <a href="http://channel9.msdn.com/blogs/jongalloway/jon-takes-five-with-david-ebbo-on-t4mvc">heard</a> so much about:
+It works! Now let’s improve that view code by trying out that fancy [T4MVC](http://mvccontrib.codeplex.com/wikipage?title=T4MVC) stuff I’ve [heard](http://channel9.msdn.com/blogs/jongalloway/jon-takes-five-with-david-ebbo-on-t4mvc) so much about:
 
 <blockquote>
   <pre><code>

@@ -13,7 +13,7 @@ title: Learning French
 
 On my recent journey to Canada (work, don't ask), I took it upon myself to learn French. Audiotapes? No. Workbooks? No. Full Submersion? No. Street signs? No. Oh wait, yeah, street signs. For much of the way through Canada, the highway signs came in pairs: the first in English and the second in French.
 
-Using a few signs as my <a href="http://en.wikipedia.org/wiki/Rosetta_stone">Rosetta Stone</a> I now consider myself a fluent speaker. Here's what I've learned so far...
+Using a few signs as my [Rosetta Stone](http://en.wikipedia.org/wiki/Rosetta_stone) I now consider myself a fluent speaker. Here's what I've learned so far...
 
 <h3>Metric Conversion</h3>
 

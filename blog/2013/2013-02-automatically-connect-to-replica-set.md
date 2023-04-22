@@ -78,7 +78,7 @@ Connecting to one-of-your-replica-set-nodes:27017/database-name as user:secret..
 <strong>...or are you ;)</strong>
 &gt;</pre>
 
-Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can <a href="http://tldp.org/LDP/abs/html/aliases.html">alias</a> that command to something shorter, add the library to your <a href="http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file">mongorc</a> file, or make Windows shortcut.
+Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can [alias](http://tldp.org/LDP/abs/html/aliases.html) that command to something shorter, add the library to your [mongorc](http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file) file, or make Windows shortcut.
 
 ---
 

@@ -13,7 +13,7 @@ title: Peanut (of course!)
 
 Just thought I'd share one of my favorite Peanut pictures :)
 
-<a href="http://www.wassupy.com/gallery2/v/Sarahsbelly/">![dscf2052.JPG](dscf2052.JPG)</a>
+[![dscf2052.JPG](dscf2052.JPG)](http://www.wassupy.com/gallery2/v/Sarahsbelly/)
 
 Tomorrow starts the third trimester - I can't believe that she's almost here!
 

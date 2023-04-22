@@ -13,11 +13,11 @@ title: "Easter Eggs in Red-Gate\u2019s SQL Compare"
 ---
 
 
-A coworker discovered a neat Easter egg in Red-Gate’s <a href="http://www.red-gate.com/Products/schema_compare_for_oracle/index.htm">Schema Compare for Oracle</a>: Oracleoids:
+A coworker discovered a neat Easter egg in Red-Gate’s [Schema Compare for Oracle](http://www.red-gate.com/Products/schema_compare_for_oracle/index.htm): Oracleoids:
 
 ![clip_image002%5B3%5D.jpg](clip_image002%5B3%5D.jpg)
 
-I checked the tools *I use *and discovered this Easter egg in <a href="http://www.red-gate.com/Products/SQL_Compare/index.htm">SQL Compare</a> and <a href="http://www.red-gate.com/Products/SQL_Data_Compare/index.htm">Data Compare</a> (v7.1):
+I checked the tools *I use *and discovered this Easter egg in [SQL Compare](http://www.red-gate.com/Products/SQL_Compare/index.htm) and [Data Compare](http://www.red-gate.com/Products/SQL_Data_Compare/index.htm) (v7.1):
 
 ![image%5B2%5D.png](image%5B2%5D.png) 
 

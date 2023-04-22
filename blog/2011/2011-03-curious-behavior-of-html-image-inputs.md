@@ -36,7 +36,7 @@ but instead I got this:
 </blockquote>
 
 
-Hmm. Initially I thought this was some sort of ASP.NET trick to <a href="http://weblogs.asp.net/hosamkamel/archive/2007/09/07/maintain-scroll-position-after-postbacks-in-asp-net-2-0.aspx">remember scroll position</a>. But I’m using MVC, which has a lot less unexpected magic in it so I quickly concluded it must be something else. I thought about those image maps that used to be all the rage back in 1999 and determined that my <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/number-state.html#concept-input-type-image-coordinate">image input</a> was causing the problem.
+Hmm. Initially I thought this was some sort of ASP.NET trick to [remember scroll position](http://weblogs.asp.net/hosamkamel/archive/2007/09/07/maintain-scroll-position-after-postbacks-in-asp-net-2-0.aspx). But I’m using MVC, which has a lot less unexpected magic in it so I quickly concluded it must be something else. I thought about those image maps that used to be all the rage back in 1999 and determined that my [image input](http://www.whatwg.org/specs/web-apps/current-work/multipage/number-state.html#concept-input-type-image-coordinate) was causing the problem.
 
 
 This was easily confirmed by actually clicking on the magnifying glass on my page and seeing requests like this:

@@ -11,7 +11,7 @@ time_to_read: 5
 title: Maya's on Her Way
 ---
 
-We saw Maya on the ultrasound again today. She's looking good. The doctor was a little concerned that she might not be growing quite as fast as she would have liked so she went ahead and scheduled us for induction *tonight*. The first step is <a href="http://www.birthingnaturally.net/birthplan/intervention/cervidil.html">Cervidil</a> which should help prepare Sarah for Saturday when they give <a href="http://en.wikipedia.org/wiki/Oxytocin">pitocin</a>. Maya will probably be born tomorrow afternoon.
+We saw Maya on the ultrasound again today. She's looking good. The doctor was a little concerned that she might not be growing quite as fast as she would have liked so she went ahead and scheduled us for induction *tonight*. The first step is [Cervidil](http://www.birthingnaturally.net/birthplan/intervention/cervidil.html) which should help prepare Sarah for Saturday when they give [pitocin](http://en.wikipedia.org/wiki/Oxytocin). Maya will probably be born tomorrow afternoon.
 
 We're very excited!
 

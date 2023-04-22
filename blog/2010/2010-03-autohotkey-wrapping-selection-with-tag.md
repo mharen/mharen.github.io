@@ -14,9 +14,9 @@ title: 'Autohotkey: Wrapping the selection with a tag'
 ---
 
 
-<a href="http://www.autohotkey.com/">Autohotkey</a> is a nice tool to be familiar with—it enables you to create advanced hotkeys. Today, I built a very simple script which saved me a bunch of time. Here’s the skinny:
+[Autohotkey](http://www.autohotkey.com/) is a nice tool to be familiar with—it enables you to create advanced hotkeys. Today, I built a very simple script which saved me a bunch of time. Here’s the skinny:
 
-I’ve been blogging about software a lot and these posts are often heavy with terms or phrases that I wrap in <code>http://www.autohotkey.com/</code> tags. Unfortunately, my editor (<a href="http://download.live.com/writer">Live Writer</a>), as awesome as it is, doesn’t support something like this. AutoHotKey to the rescue!
+I’ve been blogging about software a lot and these posts are often heavy with terms or phrases that I wrap in <code>http://www.autohotkey.com/</code> tags. Unfortunately, my editor ([Live Writer](http://download.live.com/writer)), as awesome as it is, doesn’t support something like this. AutoHotKey to the rescue!
 
 Here’s the script:  <pre><code class="csharpcode">#c::                       <span class="rem">; fire on WIN+c</span>
 AutoTrim Off               <span class="rem">; Retain any leading and trailing whitespace on the clipboard.</span>

@@ -20,9 +20,9 @@ I am afraid if I ever have twins or triplets that I would try to carry too many 
 
 And that's my segway into my congratulations to B+T on their new double-dose of parenthood. Here's a list of things to keep you occupied during your downtime (infants are boring):  <ul>   <li>N/A </li> </ul>
 
-...you won't be having any of that. Sorry. Now let's <a href="http://xkcd.com/605/">extrapolate your family</a>:
+...you won't be having any of that. Sorry. Now let's [extrapolate your family](http://xkcd.com/605/):
 
-<a href="http://xkcd.com/605/">![extrapolating.png](extrapolating.png)</a>
+[![extrapolating.png](extrapolating.png)](http://xkcd.com/605/)
 
 At this rate (if my calculations are correct), the trend is slightly alarming: ![image%5B14%5D.png](image%5B14%5D.png) 
 

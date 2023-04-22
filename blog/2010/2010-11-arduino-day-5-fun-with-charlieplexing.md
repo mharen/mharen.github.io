@@ -14,15 +14,15 @@ time_to_read: 5
 title: 'Arduino Day 5: Fun With Charlieplexing'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
-Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from <a href="../2010/2010-11-arduino-day-4-fun-with-sound.html">yesterday’s fun</a>. In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. 
+Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from [yesterday’s fun](../2010/2010-11-arduino-day-4-fun-with-sound.html). In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. 
 
-Fortunately there’s this thing called <a href="http://en.wikipedia.org/wiki/Multiplexing">multiplexing</a> (muxing) which lets you combine a bunch of signals together (board outputs), transmit them over fewer wires, and then demux them at the destination (LEDs).
+Fortunately there’s this thing called [multiplexing](http://en.wikipedia.org/wiki/Multiplexing) (muxing) which lets you combine a bunch of signals together (board outputs), transmit them over fewer wires, and then demux them at the destination (LEDs).
 
-A particularly popular method of this in the Arduino world seems to be <a href="http://en.wikipedia.org/wiki/Charlieplexing">Charlieplexing</a>. Charlieplexing is pretty sweet because from *n* pins, you can individually address *n(n-1)* LEDs. For example, a mere 6 pins can address 30 LEDs. Nice!
+A particularly popular method of this in the Arduino world seems to be [Charlieplexing](http://en.wikipedia.org/wiki/Charlieplexing). Charlieplexing is pretty sweet because from *n* pins, you can individually address *n(n-1)* LEDs. For example, a mere 6 pins can address 30 LEDs. Nice!
 
-Speaking of Charlie. Did you guys see that “Lost” finale a while back? I can’t talk about it but <a href="http://www.collegehumor.com/video:1936291">this</a> sums up how I feel pretty well. I just watched that again and the pain/disappointment is still too real to discuss it.
+Speaking of Charlie. Did you guys see that “Lost” finale a while back? I can’t talk about it but [this](http://www.collegehumor.com/video:1936291) sums up how I feel pretty well. I just watched that again and the pain/disappointment is still too real to discuss it.
 
 So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yesterday.&#160; The song has maybe 10 notes in total. I simply took the frequency range of those notes and broke it into six slices. As I mentioned yesterday, I have no musical skill whatsoever so these are completely arbitrary and not in any order.
 

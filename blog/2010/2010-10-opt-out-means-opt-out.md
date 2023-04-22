@@ -21,11 +21,11 @@ I got an email from Best Buy just now informing me (with way more words than nec
 
 This would have been far better if they had decided to lean the other direction and say, “You opted out of marketing so we’re going to honor that. If you still want your RZ emails, you’ll have to opt in to everything.” Of course if they were going to do that, they’d simply decide to do nothing because it’d be a loss for them!
 
-It’s times like this that a simple mantra helps, like Google’s informal slogan “<a href="http://en.wikipedia.org/wiki/Don't_be_evil">Don’t Be Evil</a>”. I’m not suggesting anything about Google, just that I love “Don’t Be Evil”. Best Buy’s action must have given people within the organization pause and a simple test like that could have helped.
+It’s times like this that a simple mantra helps, like Google’s informal slogan “[Don’t Be Evil](http://en.wikipedia.org/wiki/Don't_be_evil)”. I’m not suggesting anything about Google, just that I love “Don’t Be Evil”. Best Buy’s action must have given people within the organization pause and a simple test like that could have helped.
 
-Best Buy may also wish to review what happened when Yahoo did <a href="http://www.wired.com/politics/security/news/2002/04/51461">something similar</a> in 2002. 
+Best Buy may also wish to review what happened when Yahoo did [something similar](http://www.wired.com/politics/security/news/2002/04/51461) in 2002. 
 
-![image%5B5%5D.png](image%5B5%5D.png)I’m reminded of a related case with <a href="http://stackoverflow.com/">StackOverflow</a>, the awesome Q&amp;A site. Way back in February of 2009 they <a href="http://blog.stackoverflow.com/2009/02/now-showing-email-notifications/">retroactively enabled email notifications</a> for a subset of users:
+![image%5B5%5D.png](image%5B5%5D.png)I’m reminded of a related case with [StackOverflow](http://stackoverflow.com/), the awesome Q&amp;A site. Way back in February of 2009 they [retroactively enabled email notifications](http://blog.stackoverflow.com/2009/02/now-showing-email-notifications/) for a subset of users:
 <blockquote> 
 
 “We have taken the liberty of turning on the ‘opt-in’ email flag for any users who haven’t been on the site for more than 60 days, and have a valid email address and a reputation score of at least 25. We did this to reconnect with Stack Overflow users who have been gone so long they might not know they have a bunch of new answers and comment replies to their posts. (Not to mention all the awesome new features on the website since then.) That was about 3,000 users in total.”

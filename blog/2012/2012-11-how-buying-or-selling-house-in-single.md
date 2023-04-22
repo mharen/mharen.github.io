@@ -15,7 +15,7 @@ title: How Buying or Selling a House in a Single Day Could Work
 ---
 
 
-<a href="../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html">Previously</a> I discussed why I think the real estate transactions are handled is headed for major change:
+[Previously](../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html) I discussed why I think the real estate transactions are handled is headed for major change:
 <blockquote> 
 
 <strong>The market is craving disruption (Zillow was just the beginning).</strong> It is bloated with a surplus of homes and sellers everywhere are anxious…
@@ -27,13 +27,13 @@ And,
 <strong>…we’re talking about big money.</strong> The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
 </blockquote>
 
-Head <a href="../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html">back there</a> for a bit more explanation if you aren’t convinced the way we do this now is awful.
+Head [back there](../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html) for a bit more explanation if you aren’t convinced the way we do this now is awful.
 
 But how could this all be different? I think it’s a lot simpler than you might imagine. Let’s consider another process for buying really expensive things: cars.
 
-(Or skip this part and <a href="#enough-already">jump straight</a> to a story about how great house shopping could be.)
+(Or skip this part and [jump straight](#enough-already) to a story about how great house shopping could be.)
 
-You can walk into a dealership and purchase a nice car or truck for $30,000-40,000. That’s a lot of money, and has a monthly payment<sup id="sup1-20121106"><a href="#foot1-20121106">1</a></sup> comparable to a house<sup id="sup2-20121106"><a href="#foot2-20121106">2</a></sup> worth about $140,000. And all it takes is a driver license and your afternoon (and probably good credit). Let’s examine how the car people do it.
+You can walk into a dealership and purchase a nice car or truck for $30,000-40,000. That’s a lot of money, and has a monthly payment<sup id="sup1-20121106">[1](#foot1-20121106)</sup> comparable to a house<sup id="sup2-20121106">[2](#foot2-20121106)</sup> worth about $140,000. And all it takes is a driver license and your afternoon (and probably good credit). Let’s examine how the car people do it.
 
 ![house%252520equals%252520car.jpg](house%252520equals%252520car.jpg)
 
@@ -43,7 +43,7 @@ The collateral part is easy: they just take the car. They know the value of what
 
 The harder part is figuring out if you can afford the payment. But even that’s not too hard: they ask you all about your debts and your income, and they have your credit history. And even if they’re wrong and you don’t make your payments, they just take the car back and sell it to someone else, hedging the risk.
 
-Then of course the trick to buying a car in a few hours is to put all the people needed to do it in the same building: sales, title, financing<sup id="sup3-20121106"><a href="#foot3-20121106">3</a></sup>, etc. There’s no reason that we couldn’t buy houses the same way. A home mortgage has the same requirements and the solutions to satisfy those requirements are similar. 
+Then of course the trick to buying a car in a few hours is to put all the people needed to do it in the same building: sales, title, financing<sup id="sup3-20121106">[3](#foot3-20121106)</sup>, etc. There’s no reason that we couldn’t buy houses the same way. A home mortgage has the same requirements and the solutions to satisfy those requirements are similar. 
 
 <strong>I think the reason buying a house takes so long is that there are several parties involved, each with a thin slice of responsibility, and each with their own schedules. </strong>There are two ways to fix that for each milestone in the home buying process.
 
@@ -83,11 +83,11 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 <strong>It will take a lot of baby steps to get there, but get there we will and it’ll happen sooner than you think. (And some organizations will make a killing *while bringing down the transaction costs of real estate for everyone*.)</strong>  <hr />
 
-<sup id="foot1-20121106"><a href="#sup1-20121106">1</a></sup>$667/month would pay for a 40,000 figuring a 60 month loan with 0% APR (a popular thing now), excl. insurance, taxes, maintenance, etc.     
+<sup id="foot1-20121106">[1](#sup1-20121106)</sup>$667/month would pay for a 40,000 figuring a 60 month loan with 0% APR (a popular thing now), excl. insurance, taxes, maintenance, etc.     
 
-<sup id="foot2-20121106"><a href="#sup2-20121106">2</a></sup>$667/month would pay for a $140,000 house figuring a 30 year loan with 4% APR, excl. down payment, insurance, taxes, etc.     
+<sup id="foot2-20121106">[2](#sup2-20121106)</sup>$667/month would pay for a $140,000 house figuring a 30 year loan with 4% APR, excl. down payment, insurance, taxes, etc.     
 
-<sup id="foot3-20121106"><a href="#sup3-20121106">3</a></sup>or prearrange for financing with your bank.     <hr />Photo credits:    <ul>   <li><a href="http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&amp;ModelName=Odyssey&amp;ModelYear=2013">Honda Odyssey</a> </li>    <li><a href="http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1">Random house that costs $140k</a> </li> </ul>
+<sup id="foot3-20121106">[3](#sup3-20121106)</sup>or prearrange for financing with your bank.     <hr />Photo credits:    <ul>   <li>[Honda Odyssey](http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&amp;ModelName=Odyssey&amp;ModelYear=2013) </li>    <li>[Random house that costs $140k](http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1) </li> </ul>
 
 ---
 

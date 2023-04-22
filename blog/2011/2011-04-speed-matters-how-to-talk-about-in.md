@@ -48,7 +48,7 @@ I think we need a new scale for talking about such things. I present to you:
 
 <font size="6"><strong>The Four Degrees of Speed</strong>:</font>  <ol style="font-size: 20px; font-weight: bold;">   <li>Google </li>    <li>Text Message </li>    <li>Email </li>    <li>Everything Else </li> </ol>
 
-<strong>I. At Google speed, things happen immediately.</strong> The feedback cycle is so fast it’s comparable to typing on a keyboard—your actions are reflected on the screen without delay. Some sites work very hard to achieve this speed. Facebook is close, but the only one that is consistently fast as all hell (like Google) is <a href="http://stackoverflow.com/">StackOverflow</a> and its network of <a href="http://stackexchange.com/">StackExchange sites</a>. (NB: I originally called this level “instant message speed”, but that’s actually not consistently fast enough to earn the top spot.)
+<strong>I. At Google speed, things happen immediately.</strong> The feedback cycle is so fast it’s comparable to typing on a keyboard—your actions are reflected on the screen without delay. Some sites work very hard to achieve this speed. Facebook is close, but the only one that is consistently fast as all hell (like Google) is [StackOverflow](http://stackoverflow.com/) and its network of [StackExchange sites](http://stackexchange.com/). (NB: I originally called this level “instant message speed”, but that’s actually not consistently fast enough to earn the top spot.)
 
 It’s important to note that many people who have underpowered, spyware-infested PCs *never reach this speed*. These people usually hate computers because all they know are bad, slow computers. To them, launching a picture from their local hard drive takes 15 seconds, which brings us to level 2: text message speed.
 
@@ -74,5 +74,5 @@ What application did you use to make these mockups? Balsamiq?
 
 **Michael Haren said on 2011-06-09**
 
-<a href="http://balsamiq.com/products/mockups" rel="nofollow">Yes, sir.</a>
+[Yes, sir.](http://balsamiq.com/products/mockups" rel="nofollow)
 

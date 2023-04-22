@@ -14,7 +14,7 @@ title: Building an Analog Clock without Flash or Images
 ---
 
 
-Thing1 is learning to tell time on analog and digital clocks. Her uncle was kind enough to send over a link to an <a href="http://www.oswego.org/ocsd-web/games/StopTheClock/sthec1.html">online game</a> that helps reinforce what she’s learning. 
+Thing1 is learning to tell time on analog and digital clocks. Her uncle was kind enough to send over a link to an [online game](http://www.oswego.org/ocsd-web/games/StopTheClock/sthec1.html) that helps reinforce what she’s learning. 
 
 ![image2.png](image2.png)
 
@@ -60,13 +60,13 @@ How about some box-shadow on the hands for more depth?
 
 
 
-Err. Ew. That doesn't work because the effect is applied before the rotation. That leads to each shadow going in a different direction...not very natural. Luckily, someone <a href="http://stackoverflow.com/a/8833172/29">figured out</a> a better way by factoring in the rotation angle. Much better:
+Err. Ew. That doesn't work because the effect is applied before the rotation. That leads to each shadow going in a different direction...not very natural. Luckily, someone [figured out](http://stackoverflow.com/a/8833172/29) a better way by factoring in the rotation angle. Much better:
 
 
 
 Next time I’ll build a digital clock widget…but don’t get your hopes up—it will be simpler.
 
-NB: I <a href="https://twitter.com/mharen/status/268426088076697600">tweeted</a> a version of this clock before writing the post and my pal <a href="http://xdumaine.com/">Xander</a> wired up the clock’s state to a view model with <a href="http://knockoutjs.com/">Knockout</a> and animated it. <a href="http://jsfiddle.net/frCyn/4/">Spiffy</a>.
+NB: I [tweeted](https://twitter.com/mharen/status/268426088076697600) a version of this clock before writing the post and my pal [Xander](http://xdumaine.com/) wired up the clock’s state to a view model with [Knockout](http://knockoutjs.com/) and animated it. [Spiffy](http://jsfiddle.net/frCyn/4/).
 
 ---
 

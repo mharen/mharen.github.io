@@ -14,7 +14,7 @@ title: How do I add another group to my MongoDB MMS monitor on 10gen?
 ---
 
 
-10gen has some seriously awesome (free) monitoring software: <a href="http://www.10gen.com/products/mongodb-monitoring-service">MMS</a>.
+10gen has some seriously awesome (free) monitoring software: [MMS](http://www.10gen.com/products/mongodb-monitoring-service).
 
 ![image%25255B17%25255D.png](image%25255B17%25255D.png)
 

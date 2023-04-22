@@ -16,7 +16,7 @@ title: Generating Super Shiny, Hopefully Secure Tokens
 I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:
 <blockquote> 
 
-“My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –<a href="http://www.demetrimartin.com/">Demetri Martin</a> (<a href="http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/">via</a>)
+“My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –[Demetri Martin](http://www.demetrimartin.com/) ([via](http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/))
 </blockquote>
 
 Now would be a good time for you to stop reading.  <hr />
@@ -32,7 +32,7 @@ So like I said, I need to create a bunch of tokens—blocks of text or numbers. 
         <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">string</span> GenerateKey()
         {
             var RandomBytes = <span class="kwrd">new</span> <span class="kwrd">byte</span>[
-                6 * 10 <span class="rem">// use a multiple of 6 to get a full base64 output <a href="http://en.wikipedia.org/wiki/Base64">http://en.wikipedia.org/wiki/Base64</span>
+                6 * 10 <span class="rem">// use a multiple of 6 to get a full base64 output <a href="http://en.wikipedia.org/wiki/Base64">http://en.wikipedia.org/wiki/Base64</a></span>
 </a>                - 16 <span class="rem">// compensate for the 16-byte guid we're going to add in </span>
                 ];
 
@@ -52,7 +52,7 @@ So like I said, I need to create a bunch of tokens—blocks of text or numbers. 
         <span class="kwrd">static</span> RandomNumberGenerator BetterRandom = <span class="kwrd">new</span> RNGCryptoServiceProvider();</pre>
 
 
-Basically I take two components—a 16-bit <a href="http://en.wikipedia.org/wiki/Globally_Unique_Identifier">GUID</a>, and a 44-byte chunk of random bits. The GUID would <a href="http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx">normally be enough</a> to satisfy me as they are pretty much unique (and the Win32 algorithm might even guarantee them to be unique when considering a single machine) *but*, I was afraid they might be predictable as they <a href="http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx">aren’t actually all that random</a>. 
+Basically I take two components—a 16-bit [GUID](http://en.wikipedia.org/wiki/Globally_Unique_Identifier), and a 44-byte chunk of random bits. The GUID would [normally be enough](http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx) to satisfy me as they are pretty much unique (and the Win32 algorithm might even guarantee them to be unique when considering a single machine) *but*, I was afraid they might be predictable as they [aren’t actually all that random](http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx). 
 
 
 How’d I come up with 44 bytes (352 bits)? It looks nice. I guessed a few numbers until I got the encoded output to be of reasonable size. Which brings me to the Base64 conversion. This just takes the binary blob of bits and turns them into simple, printable characters so I can pass them around in URLs.

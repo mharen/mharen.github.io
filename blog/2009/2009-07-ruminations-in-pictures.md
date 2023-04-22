@@ -20,9 +20,9 @@ Here’s a food pyramid recently posted at my office. It must be one of them new
 
 ![200907110956_054%5B10%5D.jpg](200907110956_054%5B10%5D.jpg)</a>&#160;
 
-I’m a bigger fan of the <a href="http://nataliedee.com/">Natalie Dee</a> variety:  
+I’m a bigger fan of the [Natalie Dee](http://nataliedee.com/) variety:  
 
-<a href="http://www.nataliedee.com/030906">![image%5B27%5D.png](image%5B27%5D.png)</a> 
+[![image%5B27%5D.png](image%5B27%5D.png)](http://www.nataliedee.com/030906) 
 
 
 
@@ -38,7 +38,7 @@ Yep, they’re a one-star award winner! It won’t go to their heads since they 
 
 ![IMAGE_019%5B6%5D.jpg](IMAGE_019%5B6%5D.jpg)</a> 
 
-Don’t let the adorable smiling pig fool you, that’s swine powder in a box. Interestingly enough it actually <a href="http://www.amazon.com/Goya-Ham-Flavored-Concentrate-1-41/dp/B0002HAAOM">looks like</a> it might be pretty good:
+Don’t let the adorable smiling pig fool you, that’s swine powder in a box. Interestingly enough it actually [looks like](http://www.amazon.com/Goya-Ham-Flavored-Concentrate-1-41/dp/B0002HAAOM) it might be pretty good:
 <blockquote> 
 
 <strong>Ingredients:</strong> Salt, Monosodium Glutamate, Artificial Ham Flavor, Hydrolyzed Vegetable Protein, Silica. 
@@ -60,7 +60,7 @@ Then what the hell is this?:
 
 ![image%5B57%5D.png](image%5B57%5D.png)</a>(stock photo)
 
-Apparently a Ford Explorer ate some poor Taurus and is cruising my fair city unashamed as a <a href="http://www.fordvehicles.com/crossovers/taurusx/">*Taurus X*</a>. I can handle a sedan turned wagon or a sedan turned compact, but a sedan turned SUV? No.
+Apparently a Ford Explorer ate some poor Taurus and is cruising my fair city unashamed as a [*Taurus X*](http://www.fordvehicles.com/crossovers/taurusx/). I can handle a sedan turned wagon or a sedan turned compact, but a sedan turned SUV? No.
 
 Back to food. A few weeks before Charlotte was born we spent a day cooking and freezing. Trying to get a week’s worth of food into the freezer proved challenging (space, containers, etc.). Here’s what we did:  
 

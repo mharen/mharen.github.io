@@ -67,7 +67,7 @@ Easy to find unsubscribe link. Clicked and I see:
 
 Done (no login required!). The only way Monitorus could improve this would be by adding an “undo” button here.
 
-Microsoft, let me know where I can send <a href="http://www.amazon.com/dp/0321344758/" target="_blank">this</a>.
+Microsoft, let me know where I can send [this](http://www.amazon.com/dp/0321344758/" target="_blank).
 
 ---
 

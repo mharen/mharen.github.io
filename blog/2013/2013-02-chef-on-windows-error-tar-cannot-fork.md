@@ -16,7 +16,7 @@ title: 'Chef on Windows Error: tar: Cannot fork: Function not implemented (Solve
 ---
 
 
-I’m <a href="http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows">diving into</a> the fun world of <a href="http://www.opscode.com/chef/">Chef</a>. But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>knife cookbook site install getting-started</strong>
+I’m [diving into](http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows) the fun world of [Chef](http://www.opscode.com/chef/). But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>knife cookbook site install getting-started</strong>
 Installing getting-started to C:/Users/mharen/Code/chef-repo/cookbooks
 Checking out the master branch.
 Pristine copy branch (chef-vendor-getting-started) exists, switching to it.
@@ -39,7 +39,7 @@ C:\chef\bin\tar.EXE
 c:\Git\bin\tar.EXE
 </pre>
 
-And apparently some of them <a href="http://sourceforge.net/p/gnuwin32/discussion/74807/thread/c73aced2/">suck</a>. Hard. Since I’m playing with Chef, let’s just use that one—it probably works. This was as easy as updating my PATH variable to place `c:\chef\bin` at the beginning instead of the end (really just before the others found by `which`):
+And apparently some of them [suck](http://sourceforge.net/p/gnuwin32/discussion/74807/thread/c73aced2/). Hard. Since I’m playing with Chef, let’s just use that one—it probably works. This was as easy as updating my PATH variable to place `c:\chef\bin` at the beginning instead of the end (really just before the others found by `which`):
 
 ![image%25255B3%25255D.png](image%25255B3%25255D.png)</a>
 

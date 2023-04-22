@@ -14,15 +14,15 @@ time_to_read: 5
 title: 'Arduino Day 2: Digital Inputs (More Fun With LEDs)'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
-I’m still familiarizing myself with everything Arduino so this next project is a simple modification to my <a href="../2010/2010-11-arduino-day-1-unpacking-and-fun-with.html">day-1 LED project</a>. I’ve added some dip switches to control which pattern will appear on the LEDs. Here’s the result:  <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:2ed362dc-459a-49ec-9778-b92c1de822e0" style="padding-bottom: 0px; padding-left: 0px; width: 640px; padding-right: 0px; display: block; float: none; margin-left: auto; clear: both; margin-right: auto; padding-top: 0px;">
+I’m still familiarizing myself with everything Arduino so this next project is a simple modification to my [day-1 LED project](../2010/2010-11-arduino-day-1-unpacking-and-fun-with.html). I’ve added some dip switches to control which pattern will appear on the LEDs. Here’s the result:  <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:2ed362dc-459a-49ec-9778-b92c1de822e0" style="padding-bottom: 0px; padding-left: 0px; width: 640px; padding-right: 0px; display: block; float: none; margin-left: auto; clear: both; margin-right: auto; padding-top: 0px;">
 <div id="dc2e06b9-c0bb-4d0d-af51-271a66a5afda" style="margin: 0px; padding: 0px; display: inline;">
-<div><a href="http://www.youtube.com/watch?v=sQcut-JRXqY" target="_new">![video24e262f99644%5B73%5D.jpg](video24e262f99644%5B73%5D.jpg)</a></div></div></div>
+<div>[![video24e262f99644%5B73%5D.jpg](video24e262f99644%5B73%5D.jpg)](http://www.youtube.com/watch?v=sQcut-JRXqY" target="_new)</div></div></div>
 
 It’s really pretty simple. For switches 0 and 1, I have the hot line coming through an LED, through the switch, and then split between a resistor to ground and a digital input on the board. I’m not certain I have this right, but it works and my board hasn’t melted so it’s good enough for me.
 
-In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On…off…that reminds me of the <a href="http://www.imdb.com/title/tt0087538/">Karate Kid</a>. 
+In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On…off…that reminds me of the [Karate Kid](http://www.imdb.com/title/tt0087538/). 
 
 ![image%5B2%5D.png](image%5B2%5D.png)In the Karate Kid, this old guy befriends a teenager after beating a bunch of bullies senseless. Through couldn’t-work-in-a-million-years training, Mr. Miyagi (the old guy) eventually leads the annoying kid (Daniel-san) to victory at the local Karate championship, and thereby winning the heart of Captain-Bully-Bag-Of-Many-Douches’s ex-girlfriend. 
 
@@ -36,11 +36,11 @@ Build:
 
 ![IMAG0668%5B11%5D.jpg](IMAG0668%5B11%5D.jpg)
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Circuit (built with the amazing<span class="Apple-converted-space">&#160;</span><a href="http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;">Fritzing</a>):</span></span>
+<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Circuit (built with the amazing<span class="Apple-converted-space">&#160;</span>[Fritzing](http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;)):</span></span>
 
 ![day%20two%20-%20bb%5B6%5D.png](day%20two%20-%20bb%5B6%5D.png)
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Schematic (automatically built from the above image with the amazing<span class="Apple-converted-space">&#160;</span><a href="http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;">Fritzing</a>):</span></span>
+<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Schematic (automatically built from the above image with the amazing<span class="Apple-converted-space">&#160;</span>[Fritzing](http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;)):</span></span>
 
 <span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">![day%20two%20-%20schema%5B7%5D.png](day%20two%20-%20schema%5B7%5D.png)</span></span>
 

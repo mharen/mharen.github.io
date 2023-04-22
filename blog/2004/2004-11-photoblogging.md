@@ -16,10 +16,10 @@ Sarah and I just got a digicam! Couple that with a recent slashdot story about p
 
 Hopefully I can get something going here soon...
 
-For reference, here's a <a href="http://www.orbit1.com/dailyphotos.aspx">pretty neat photoblogger</a>. He has some awesome pictures. And the <a href="http://slashdot.org/articles/04/11/02/2154241.shtml?tid=149">original slashdot story</a>, which has lots of links to other photo sites.
+For reference, here's a [pretty neat photoblogger](http://www.orbit1.com/dailyphotos.aspx). He has some awesome pictures. And the [original slashdot story](http://slashdot.org/articles/04/11/02/2154241.shtml?tid=149), which has lots of links to other photo sites.
 
 Feel free to submit your own photos, too!
 
-To get me started on pictures while i think about the code, I'm going to take a stab at this: <a href="http://www.sh1ft.org/26things/">26 Things</a>. They give you a list of 26 things to take pictures of for a gallery. It seems pretty neat. I'll be posting my pictures as they happen...
+To get me started on pictures while i think about the code, I'm going to take a stab at this: [26 Things](http://www.sh1ft.org/26things/). They give you a list of 26 things to take pictures of for a gallery. It seems pretty neat. I'll be posting my pictures as they happen...
 
 <h4>The list:</h4><ol><li>frame</li><li>glass</li><li>arrow</li><li>numbers</li><li>**small** - geronimo 2004/11/09</li><li>open</li><li>fruit</li><li>wheel</li><li>plastic</li><li>cover</li><li>natural</li><li>saturday</li><li>multi-coloured</li><li>home</li><li>shadow</li><li>sticky</li><li>clean</li><li>foot</li><li>sport</li><li>round</li><li>group</li><li>man made</li><li>half</li><li>path</li><li>full</li><li>the end</li></ol>

@@ -11,6 +11,6 @@ time_to_read: 5
 title: For the "nerds" out there
 ---
 
-The next time someone calls you a nerd, direct them to <a href="http://www.badtech.org/appletree/index3.html">this website</a>. That's right, it's an "Apple" tree. If, on the other hand, you actually have done something like that, there's no hope for you.
+The next time someone calls you a nerd, direct them to [this website](http://www.badtech.org/appletree/index3.html). That's right, it's an "Apple" tree. If, on the other hand, you actually have done something like that, there's no hope for you.
 
 ![apple_tree_1.jpg](apple_tree_1.jpg)

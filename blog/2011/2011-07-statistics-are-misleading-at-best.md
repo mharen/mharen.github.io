@@ -13,7 +13,7 @@ title: Statistics are Misleading At Best, Filthy Liars at Second Best
 ---
 
 
-Back in April, I somehow came across <a href="http://disruptthenarrative.wordpress.com/2011/04/24/gas-pump-activism/">this site</a> blaming President Obama for raging gas prices:
+Back in April, I somehow came across [this site](http://disruptthenarrative.wordpress.com/2011/04/24/gas-pump-activism/) blaming President Obama for raging gas prices:
 
 ![obamagasprices%25255B9%25255D.jpg](obamagasprices%25255B9%25255D.jpg)  
 
@@ -27,7 +27,7 @@ That’s a pretty different picture, isn’t it?
 
 I’m not posting this to indict or vindicate anyone. I’m not even going to guess at explanations for the dramatic changes in that chart. I only post this to encourage people to be skeptical of charts, and to be especially suspicious of sensationalism.
 
-Oh, and if you hate paying $3-4 dollars/gallon in the United States…<a href="../2005/2005-09-gas-prices.html">it could be worse</a>.
+Oh, and if you hate paying $3-4 dollars/gallon in the United States…[it could be worse](../2005/2005-09-gas-prices.html).
 
 ---
 

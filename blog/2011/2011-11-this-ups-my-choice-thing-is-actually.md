@@ -20,7 +20,7 @@ It’s insane to imagine today that it used to work that way but I swear it did!
 
 And yet UPS doesn’t even work that well for most people today. You order something and if you’re lucky, the vendor gives you a tracking number which you constantly monitor to see where your widgets are and when they’ll arrive. Some vendors and shippers added the ability to subscribe to email notification for specific tracking numbers, which helped, but that wasn’t a great solution either.
 
-Then, when I started tracking a package last month, I somehow ended up at <a href="http://www.ups.com/mychoice">UPS’s My Choice</a> system. At first I thought this was just a reinvented notification engine. It didn’t really make sense to me initially because it seemed like the nice features were hiding behind the premium version. And I was really tired.
+Then, when I started tracking a package last month, I somehow ended up at [UPS’s My Choice](http://www.ups.com/mychoice) system. At first I thought this was just a reinvented notification engine. It didn’t really make sense to me initially because it seemed like the nice features were hiding behind the premium version. And I was really tired.
 
 I scoffed at the notion that I’d have to pay some annual fee to get trivial functionality out of a shipping company and forgot about it.
 

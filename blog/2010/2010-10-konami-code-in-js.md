@@ -14,11 +14,11 @@ title: The Konami Code In JS
 ---
 
 
-<strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do <a href="http://en.wikipedia.org/wiki/Konami_Code">some research</a>. If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.
+<strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do [some research](http://en.wikipedia.org/wiki/Konami_Code). If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.
 
 To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the &quot;something cool&quot;.  <h4>Sequence Detector</h4>
 
-First, we need to determine what sequence we're interested in in terms of <a href="http://www.quirksmode.org/js/keys.html">key codes</a>:
+First, we need to determine what sequence we're interested in in terms of [key codes](http://www.quirksmode.org/js/keys.html):
 <blockquote>   <pre class="csharpcode"><span class="kwrd">var</span> DesiredSequence = [
               38 <span class="rem">// up</span>
             , 38 <span class="rem">// up</span>
@@ -34,7 +34,7 @@ First, we need to determine what sequence we're interested in in terms of <a hre
 </blockquote>
 
 
-And then we need a very, very simple <a href="http://en.wikipedia.org/wiki/Finite-state_machine">state machine</a> to keep track of where we are in the sequence:
+And then we need a very, very simple [state machine](http://en.wikipedia.org/wiki/Finite-state_machine) to keep track of where we are in the sequence:
 
 <blockquote>
   <pre class="csharpcode"><span class="kwrd">var</span> SequenceIndex = -1;
@@ -65,7 +65,7 @@ So let's fill in that do-something-cool block.
 <h4>Something Cool</h4>
 
 
-A <a href="http://konamicodesites.com/">lot of sites</a> do neat things for this code. My take on it will involve Ninja, just like Google Reader, but I'll put a different spin on it. Here's the code:
+A [lot of sites](http://konamicodesites.com/) do neat things for this code. My take on it will involve Ninja, just like Google Reader, but I'll put a different spin on it. Here's the code:
 
 <blockquote>
 
@@ -128,4 +128,4 @@ That leverages this function, defined elsewhere:
 Of course you could just give it a try on my site. (By the way, if you’re using a weaker browser like IE7, this might look awful.)
 
 
-This is an <a href="http://en.wikipedia.org/wiki/Easter_egg_(media)#Software-based">easter egg</a>.
+This is an [easter egg](http://en.wikipedia.org/wiki/Easter_egg_(media)#Software-based).

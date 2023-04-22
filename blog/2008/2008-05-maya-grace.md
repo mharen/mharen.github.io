@@ -13,4 +13,4 @@ title: Maya Grace
 
 
 
-![img_1984.jpg](img_1984.jpg)Heads up: the best baby in the world has made an appearance over in the <a href="/gallery2/v/MayaGraceSpring08/">gallery</a>.
+![img_1984.jpg](img_1984.jpg)Heads up: the best baby in the world has made an appearance over in the [gallery](/gallery2/v/MayaGraceSpring08/).

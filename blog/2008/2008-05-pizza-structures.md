@@ -35,21 +35,21 @@ What's the deal with all the Pizza [structure] places around here? We recently b
 
 <ol id="xes-2">
 
-<li id="xes-3"><a href="http://www.pizzahut.com/" id="hw8a" title="Pizza Hut">Pizza Hut</a></li>
+<li id="xes-3">[Pizza Hut](http://www.pizzahut.com/" id="hw8a" title="Pizza Hut)</li>
 
-<li id="xes-4"><a href="http://pizza-cottage.com/" id="a175" title="Pizza Cottage">Pizza Cottage</a></li>
+<li id="xes-4">[Pizza Cottage](http://pizza-cottage.com/" id="a175" title="Pizza Cottage)</li>
 
-<li id="xes-5"><a href="http://www.pizzainn.com/" id="up2h" title="Pizza Inn">Pizza Inn</a></li>
+<li id="xes-5">[Pizza Inn](http://www.pizzainn.com/" id="up2h" title="Pizza Inn)</li>
 
-<li id="xes-6"><a href="http://www.pizzahouse.com/" id="e.1b" title="Pizza House">Pizza House</a></li>
+<li id="xes-6">[Pizza House](http://www.pizzahouse.com/" id="e.1b" title="Pizza House)</li>
 
 <li id="xes-7">Pizza Hotel</li>
 
 <li id="xes-8">Pizza Motel</li>
 
-<li id="xes-9"><a href="http://www.pizzashackinc.com/" id="cgk7" title="Pizza Shack">Pizza Shack</a></li>
+<li id="xes-9">[Pizza Shack](http://www.pizzashackinc.com/" id="cgk7" title="Pizza Shack)</li>
 
-<li id="xes-10"><a href="http://www.wormtowntaxi.com/2008/05/woo-pizza.html" id="k4:4" title="Pizza Wigwam">Pizza Wigwam</a></li>
+<li id="xes-10">[Pizza Wigwam](http://www.wormtowntaxi.com/2008/05/woo-pizza.html" id="k4:4" title="Pizza Wigwam)</li>
 
 <li id="xes-10">Pizza Tee-pee</li>
 
@@ -57,43 +57,43 @@ What's the deal with all the Pizza [structure] places around here? We recently b
 
 <li id="xes-10">Pizza Tree-house</li>
 
-<li id="xes-10"><a href="http://www.tavernpizza.com/" id="clzk" title="Pizza Tavern">Pizza Tavern</a></li>
+<li id="xes-10">[Pizza Tavern](http://www.tavernpizza.com/" id="clzk" title="Pizza Tavern)</li>
 
-<li id="xes-10"><a href="http://www.silopizza.com/" id="zyl9" title="Pizza Silo">Pizza Silo</a><br id="i:lj0" /></li>
+<li id="xes-10">[Pizza Silo](http://www.silopizza.com/" id="zyl9" title="Pizza Silo)<br id="i:lj0" /></li>
 
-<li id="xes-10"><a href="http://jaffreypizzabarn.com/" id="s-5." title="Pizza Barn">Pizza Barn</a><br id="w3:a0" /></li>
+<li id="xes-10">[Pizza Barn](http://jaffreypizzabarn.com/" id="s-5." title="Pizza Barn)<br id="w3:a0" /></li>
 
 <li id="xes-10">Pizza Bed-and-Breakfast<br id="w3:a1" /></li>
 
-<li id="xes-10">Pizza Chair-Lunch-Dinner (thanks <a href="http://www.mitchhedberg.net/" id="id:k" title="Mitch">Mitch</a>)</li>
+<li id="xes-10">Pizza Chair-Lunch-Dinner (thanks [Mitch](http://www.mitchhedberg.net/" id="id:k" title="Mitch))</li>
 
 <li id="xes-10">Pizza Stand</li>
 
-<li id="xes-10"><a href="http://www.thepizzavan.co.uk/" id="pb02" title="Pizza Van">Pizza Van</a></li>
+<li id="xes-10">[Pizza Van](http://www.thepizzavan.co.uk/" id="pb02" title="Pizza Van)</li>
 
 <li id="xes-10">Pizza Condo</li>
 
-<li id="xes-10"><a href="http://www.google.com/search?ie=UTF-8&amp;oe=UTF-8&amp;sourceid=navclient&amp;gfns=1&amp;q=Casa+la+Pizza" id="u-jj" title="Casa la Pizza">Casa la Pizza</a></li>
+<li id="xes-10">[Casa la Pizza](http://www.google.com/search?ie=UTF-8&amp;oe=UTF-8&amp;sourceid=navclient&amp;gfns=1&amp;q=Casa+la+Pizza" id="u-jj" title="Casa la Pizza)</li>
 
-<li id="xes-10" style="text-align: left;"><a href="http://www.towerpizza.com/" id="n2ec" title="Pizza Tower">Pizza Tower</a></li>
+<li id="xes-10" style="text-align: left;">[Pizza Tower](http://www.towerpizza.com/" id="n2ec" title="Pizza Tower)</li>
 
-<li id="xes-10"><a href="http://www.migspizza.com/net/index.htm" id="hjvg" title="Pizza Castle">Pizza Castle</a></li>
+<li id="xes-10">[Pizza Castle](http://www.migspizza.com/net/index.htm" id="hjvg" title="Pizza Castle)</li>
 
 <li id="xes-10">Pizza Igloo</li>
 
 <li id="xes-10">Pizza Bunker</li>
 
-<li id="xes-10"><a href="http://www.menupages.com/restaurantdetails.asp?areaid=0&amp;restaurantid=6252&amp;neighborhoodid=0&amp;cuisineid=39" id="bmww" title="Pizza Cave">Pizza Cave</a></li>
+<li id="xes-10">[Pizza Cave](http://www.menupages.com/restaurantdetails.asp?areaid=0&amp;restaurantid=6252&amp;neighborhoodid=0&amp;cuisineid=39" id="bmww" title="Pizza Cave)</li>
 
 <li id="xes-10">Pizza Cavern</li>
 
 <li id="xes-10">Pizza Church<br id="lwdi0" /></li>
 
-<li id="xes-10"><a href="http://www.pizzapalacejax.com/" id="hf7k" title="Pizza Palace">Pizza Palace</a></li>
+<li id="xes-10">[Pizza Palace](http://www.pizzapalacejax.com/" id="hf7k" title="Pizza Palace)</li>
 
 <li id="xes-10">Pizza Tent</li>
 
-<li id="xes-10"><a href="http://www.mytravelguide.com/restaurants/profile-40848205-United_States_Minnesota_Osakis_Log_Cabin_Pizza.html" id="xgbk" title="Pizza Cabin">Pizza Cabin</a></li>
+<li id="xes-10">[Pizza Cabin](http://www.mytravelguide.com/restaurants/profile-40848205-United_States_Minnesota_Osakis_Log_Cabin_Pizza.html" id="xgbk" title="Pizza Cabin)</li>
 
 </ol>
 

@@ -13,7 +13,7 @@ title: Target Is Crazy, And Random Pictures
 ---
 
 
-We *love *Target. It’s cheap like Walmart but clean, with happy and friendly employees (and customers), and fast checkouts. Sometimes they’re crazy, though. While they’re famous for their <a href="http://www.consumerist.com/tag/target-is-crazy">buying in bulk penalties</a>, we discovered some odd instant substitutes recently:
+We *love *Target. It’s cheap like Walmart but clean, with happy and friendly employees (and customers), and fast checkouts. Sometimes they’re crazy, though. While they’re famous for their [buying in bulk penalties](http://www.consumerist.com/tag/target-is-crazy), we discovered some odd instant substitutes recently:
 
 ![IMAG0432%5B4%5D.jpg](IMAG0432%5B4%5D.jpg)
 
@@ -25,7 +25,7 @@ Instead of getting one of the other, almost identical comforters, you should get
 
 ![IMAG0437%5B4%5D.jpg](IMAG0437%5B4%5D.jpg)
 
-It looks like we have a few more years before these machines take over and we’re totally screwed. <a href="http://googleblog.blogspot.com/2010/10/what-were-driving-at.html">Oh wait</a>.
+It looks like we have a few more years before these machines take over and we’re totally screwed. [Oh wait](http://googleblog.blogspot.com/2010/10/what-were-driving-at.html).
 
 In other news, here’s a collection of random pics from my recent travels:
 
@@ -85,7 +85,7 @@ We were in Cereal City so bizarre sites like this were common:
 
 ![image%5B30%5D.png](image%5B30%5D.png)
 
-Antivirus <a href="../2010/2010-10-some-thoughts-on-antivirus-and-why-i.html">being helpful</a> and totally not ruining the Weather Channel, though to be fair, it’s accuracy is about on par with the forecast (zing—<a href="http://instantrimshot.com/">weather joke</a>!):
+Antivirus [being helpful](../2010/2010-10-some-thoughts-on-antivirus-and-why-i.html) and totally not ruining the Weather Channel, though to be fair, it’s accuracy is about on par with the forecast (zing—[weather joke](http://instantrimshot.com/)!):
 
 ![IMAG0375%5B4%5D.jpg](IMAG0375%5B4%5D.jpg)
 

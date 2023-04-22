@@ -17,7 +17,7 @@ It’s the default settings of all the non-trivial things that we ignore that ca
 
 Great for VSS. Terrible for humans. 
 
-The trouble was that VSS is a terrible product. <strong>It is Microsoft’s worst product, ever</strong> (they <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#Microsoft_in-house_use">don’t</a> even use it themselves). Here’s why:
+The trouble was that VSS is a terrible product. <strong>It is Microsoft’s worst product, ever</strong> (they [don’t](http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#Microsoft_in-house_use) even use it themselves). Here’s why:
 
 <strong>It actively fails where it matters most.</strong> Version control systems have one mandate above all others—protect your data. If you put code in there, it should be really, really safe. It’s in the product name for crying out loud. Unfortunately, VSS doesn’t do this. Some examples…
 
@@ -29,10 +29,10 @@ Then, if you actually get a valid backup, <strong>you won’t be able to restore
 
 <strong>It is hostile to developers</strong>, the only ones that actually care about it. It supports multiple checkouts and merging so poorly that no sane team would use anything but exclusive checkouts (of course no sane team would use this product…). It’s so ridiculously slow to “get latest” on a tree of trivial size (minutes, not seconds) that this becomes a dreaded activity.
 
-If I had to guess, I’d say that a bunch of interns cranked this thing out as a brute force, fun summer project called “let’s make a POS VCS.” They had no intention of shipping an obviously malicious product, and are just as shocked (ashamed?) as the rest of us when it was <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#History">sold to Microsoft</a>.
+If I had to guess, I’d say that a bunch of interns cranked this thing out as a brute force, fun summer project called “let’s make a POS VCS.” They had no intention of shipping an obviously malicious product, and are just as shocked (ashamed?) as the rest of us when it was [sold to Microsoft](http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#History).
 
-If you’re on VSS right now, there are other options. I personally use <a href="http://subversion.tigris.org/">SVN</a> exclusively. If you have a savvy group, you might consider <a href="http://mercurial.selenic.com/">Mercurial</a>, too (distributed VCSs are all the rage right now). Those are both free, by the way.
+If you’re on VSS right now, there are other options. I personally use [SVN](http://subversion.tigris.org/) exclusively. If you have a savvy group, you might consider [Mercurial](http://mercurial.selenic.com/), too (distributed VCSs are all the rage right now). Those are both free, by the way.
 
-For more VSS hate, check out these <a href="http://vssisdead.com/">crazy ads</a> (part of a <a href="http://www.ericsink.com/entries/why_so_serious.html">series</a>) or this <a href="http://www.codinghorror.com/blog/2006/08/source-control-anything-but-sourcesafe.html">PSA</a>.
+For more VSS hate, check out these [crazy ads](http://vssisdead.com/) (part of a [series](http://www.ericsink.com/entries/why_so_serious.html)) or this [PSA](http://www.codinghorror.com/blog/2006/08/source-control-anything-but-sourcesafe.html).
 
-Why am I ranting on this? Because someone was foolish enough to build a <a href="http://www.ge-ip.com/products/2820">ginormous product</a> on top of VSS and that’s causing me all kinds of pain right now.
+Why am I ranting on this? Because someone was foolish enough to build a [ginormous product](http://www.ge-ip.com/products/2820) on top of VSS and that’s causing me all kinds of pain right now.

@@ -17,14 +17,15 @@ title: How To Give Better Technical Presentations
 
 I get a lot of great feedback each time, which make it very rewarding.&nbsp;<span style="background-color: transparent;">I must be doing a good job if&nbsp;I've&nbsp;convinced people I’m an expert on any of  what I’ve presented (I rarely am but some seem to think so!). I think the real trick is just staying two pages  ahead of the audience in the proverbial textbook. I know what’s about to happen  on the screen; it’s loosely scripted. I’ve chosen to present the parts I like  (and understand). And most importantly, I’ve practiced the whole thing a dozen  times, and the hard parts (usually programming on the spot) a dozen </span><em style="background-color: transparent;">more  </em><span style="background-color: transparent;">times.</span>
 
-<a href="http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">![alot.png](alot.png)
+<a href="http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">![alot.png](alot.png)</a>
+
 **That’s really the only reason I look like I know what I’m doing: I prepare. A  lot. **
 
 I also benefit from experience, but you have to start somewhere. Here are a  few tips to motivate you to take up small speaking roles and give better  presentations.
 
 First of all, and trust me on this: **it’s easier than it looks**.&nbsp;<span style="background-color: transparent;">If you have a topic you are deeply interested in, speaking on it is easy if  you do the right preparation. The hard part is finding the time to actually do  all that preparation.</span>
 
-If this is all very new to you or you're having trouble visualizing what a cool presentation might look like, m<span style="background-color: transparent;">y advice to you is to go watch a few stellar examples. Jump on </span><a href="http://channel9.msdn.com/" style="background-color: transparent;">channel 9</a><span style="background-color: transparent;"> and poke  around. Look at anything by </span><a href="http://channel9.msdn.com/Events/MIX/MIX11/FRM02" style="background-color: transparent;">Hanselman</a><span style="background-color: transparent;">. Check out  this </span><a href="http://channel9.msdn.com/Events/MIX/MIX11/FRM02" style="background-color: transparent;">neat thing</a><span style="background-color: transparent;">  from Steve Sanderson. If your presentation is less technical, and short, check out pretty much anything on <a href="http://www.ted.com/talks">TED</a>.</span>
+If this is all very new to you or you're having trouble visualizing what a cool presentation might look like, m<span style="background-color: transparent;">y advice to you is to go watch a few stellar examples. Jump on </span>[channel 9](http://channel9.msdn.com/" style="background-color: transparent;)<span style="background-color: transparent;"> and poke  around. Look at anything by </span>[Hanselman](http://channel9.msdn.com/Events/MIX/MIX11/FRM02" style="background-color: transparent;)<span style="background-color: transparent;">. Check out  this </span>[neat thing](http://channel9.msdn.com/Events/MIX/MIX11/FRM02" style="background-color: transparent;)<span style="background-color: transparent;">  from Steve Sanderson. If your presentation is less technical, and short, check out pretty much anything on [TED](http://www.ted.com/talks).</span>
 
 Then face the facts: you are not going to be as awesome as these guys. They  are pros. But **aspire to greatness! **
 
@@ -64,8 +65,9 @@ In fact, when I first started doing tech talks **I flat out bribed people to ask
 
 But of course there are times where the crowd is just not into it and you find yourself with a lot of dead air to fill. **You need a backup plan for filling that dead air.** I always prepare an extra demo or exercise just in case this happens (or some other part of my presentation fails miserably). As I near the end of the talk, I just peek at the clock and decide if "I have time for one more thing" or if "it's time to wrap up and take some questions." Having this buffer is essential when you're just getting started or when presenting to an unfamiliar audience.
 
-<a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">![feedback.png](feedback.png)
-And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. <a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public">Take it and modify it</a> to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word").
+<a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public">![feedback.png](feedback.png)</a>
+
+And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. [Take it and modify it](https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public) to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word").
 
 Now go forth and make a fool of yourself. *For science!*
 
@@ -75,7 +77,7 @@ Now go forth and make a fool of yourself. *For science!*
 
 **Michael Haren said on 2011-11-07**
 
-For some great tips on improving your delivery, check out <a href="http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx" rel="nofollow">Hanselman's tips</a>.
+For some great tips on improving your delivery, check out [Hanselman's tips](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx" rel="nofollow).
 
 **Sarah said on 2011-11-07**
 

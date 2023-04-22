@@ -10,7 +10,7 @@ time_to_read: 5
 title: New Website
 ---
 
-My super amazing wife has started her own blog.  It is phenomenal.  Some of the best stuff I've read in a LONG time.  Seriously.  You should <a href="http://footedjammies.blogspot.com">check it out</a>.  Oh, and this is totally not her hijacking my site*
+My super amazing wife has started her own blog.  It is phenomenal.  Some of the best stuff I've read in a LONG time.  Seriously.  You should [check it out](http://footedjammies.blogspot.com).  Oh, and this is totally not her hijacking my site*
 
 
 

@@ -11,7 +11,7 @@ time_to_read: 5
 title: Another Bittersweet Goodbye
 ---
 
-About two years ago we first <a href="../2015/2015-01-they-dont-make-greeting-card-for-that.html">said goodbye</a> to our first foster placement, a delightful baby boy, J. Thanks to the mercy of time passing, our thoughts have turned from grief to hopefulness. We have no actual knowledge of how he is doing but that’s how it works.
+About two years ago we first [said goodbye](../2015/2015-01-they-dont-make-greeting-card-for-that.html) to our first foster placement, a delightful baby boy, J. Thanks to the mercy of time passing, our thoughts have turned from grief to hopefulness. We have no actual knowledge of how he is doing but that’s how it works.
 
 Since then we’ve had many more kiddos come through our home. We do our best each time to give them love in whatever form they need – attention, kindness, patience, nutrition, dental, medical, etc. – and we are genuinely happy to see them reunited with their families.
 

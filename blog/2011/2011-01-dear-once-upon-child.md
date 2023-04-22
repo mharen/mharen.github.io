@@ -21,7 +21,7 @@ Once Upon A Child
 
 Stow, OH 44224    
 
-<a href="mailto:aaw@neo.rr.com">aaw@neo.rr.com</a>
+[aaw@neo.rr.com](mailto:aaw@neo.rr.com)
 
 Dear Once Upon A Child,
 

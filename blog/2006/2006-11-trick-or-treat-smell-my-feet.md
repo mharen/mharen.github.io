@@ -11,7 +11,7 @@ time_to_read: 5
 title: Trick or Treat, Smell my Feet
 ---
 
-This is a follow up to Sarah's <a href="http://www.wassupy.com/20061031/random-updates/haik-uesday/">Halloween haiku</a> referencing batman...there's a short story there.
+This is a follow up to Sarah's [Halloween haiku](http://www.wassupy.com/20061031/random-updates/haik-uesday/) referencing batman...there's a short story there.
 
 Sarah and I sat our in our driveway last night handing out candy to the neighborhood chitlins. We bought a metric ton of candy and, near 7:15, were running low. Evidently, our neighbors have been getting busy because there were a lot more kids than last year.
 

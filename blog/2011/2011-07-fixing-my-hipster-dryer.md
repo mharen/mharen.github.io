@@ -44,7 +44,7 @@ Never fear, I’ll just grab my soldering iron. Actually, before I go through th
 
 ![IMG_20110709_160811%25255B4%25255D.jpg](IMG_20110709_160811%25255B4%25255D.jpg)  
 
-With that attached by what is one of the <a href="http://en.wikipedia.org/wiki/Locking_pliers">most useful tools ever</a>, me a safe distance away, no children present, and fire extinguisher at the ready (just kidding, it was way far away), I verified the dryer operated as expected. Hooray!
+With that attached by what is one of the [most useful tools ever](http://en.wikipedia.org/wiki/Locking_pliers), me a safe distance away, no children present, and fire extinguisher at the ready (just kidding, it was way far away), I verified the dryer operated as expected. Hooray!
 
 Next I soldered the wire on, put the cover back on, and enjoyed some self congratulatory snickering. And what’s my true reward? I get to fold laundry (and avoid spending any money on this, or a new dryer).
 

@@ -15,7 +15,7 @@ title: 'A Candy Land Simulator: The Game Engine, Implemented'
 ---
 
 
-*Note: this post is from a *<a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator">*series on Candy Land*</a>*.*
+*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy%20Land%20Simulator)*.*
 
 We’re back again. We still have our board and cards (these are old hat now, right?):  <pre class="csharpcode"><span class="kwrd">var</span> board = [
     { color: <span class="str">'Red'</span> },
@@ -220,7 +220,7 @@ The real workhorse in there is the call to DoMove, which actually advances the g
 }</pre>
 
 
-All this, including the source to the utility functions (e.g. DrawACard) is available <a href="http://jsfiddle.net/mharen/crgAX/35/">in the fiddle</a>. Here’s the working version:
+All this, including the source to the utility functions (e.g. DrawACard) is available [in the fiddle](http://jsfiddle.net/mharen/crgAX/35/). Here’s the working version:
 
 
 

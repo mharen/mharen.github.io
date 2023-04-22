@@ -30,6 +30,6 @@ I don’t want to automatically process or hide the responses if the sender went
 
 Basically, the rule executes whenever a message is sent just to me and has the telltale text in the subject. But, if the message *body* contains any text, leave the message in place. I couldn’t find any reasonable way to check if the body contains any text, so I had to resort to the hack of just checking for vowels. I guess you could add all the letters of the alphabet…but that’d just be silly.
 
-<a href="http://dl.dropbox.com/u/11272726/blog/Hide%20Annoying%20Meeting%20Responses.rwz">Here’s the rule</a> if you just want to import it (and update the move-to folder). If that makes you nervous (it should!), it’s not hard to recreate from the above screenshot.
+[Here’s the rule](http://dl.dropbox.com/u/11272726/blog/Hide%20Annoying%20Meeting%20Responses.rwz) if you just want to import it (and update the move-to folder). If that makes you nervous (it should!), it’s not hard to recreate from the above screenshot.
 
 Once in place, your inbox should be nice and clean again…or at least not cluttered by empty RSVPs.

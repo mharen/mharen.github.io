@@ -15,7 +15,7 @@ title: 'Arduino Day 11: Extreme Feedback for Hudson Builds (Includes Chuck Norri
   Cameo)'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of <a href="http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino">a series</a> on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
 Improving on yesterday’s build, I added in some actual network-sourced data. My little traffic lights now show the build status of one of my projects:  
 
@@ -25,7 +25,7 @@ In case you don’t know what any of that was, let me try to explain. At work I 
 
 Whenever the build status changes (any of “success”, “building” or “failed”), the board beeps and lights up the appropriate LED (green, yellow or red).
 
-In the future this tool could be tied to a <a href="http://www.thinkgeek.com/computing/accessories/8a0f/" target="_blank">mechanical foam dart gun</a> to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
+In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/" target="_blank) to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
 
 ![chuck-norris-delta-force.jpg](chuck-norris-delta-force.jpg)
 
@@ -33,9 +33,9 @@ You might imagine how politically correct and culturally sensitive a 1986 movie 
 
 But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
 
-<a href="http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank">![Norrishuckabee%5B5%5D.jpg](Norrishuckabee%5B5%5D.jpg)</a>
+[![Norrishuckabee%5B5%5D.jpg](Norrishuckabee%5B5%5D.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank)
 
-70. Chuck Norris is <strong>seventy</strong> years old. And apparently immortal which is extra scary considering, well, <a href="http://www.chucknorrisfacts.com/" target="_blank">you know</a>.  <h4>Build (Repeat)</h4>
+70. Chuck Norris is <strong>seventy</strong> years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/" target="_blank).  <h4>Build (Repeat)</h4>
 
 ![DSC_00113%5B2%5D.jpg](DSC_00113%5B2%5D.jpg)  <h4>Circuit (Repeat)</h4>
 

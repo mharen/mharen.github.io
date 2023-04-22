@@ -30,7 +30,7 @@ Later, I had a realization when a friend help a position I found to be indefensi
 
 Then this happened again when I was listening to a podcast I’d been listening to for a long time. My views usually line up well with the host’s (I listen for entertainment, not education). But then he passionately, and repeatedly started taking a position I am strongly opposed to. I literally said “Whoa, what?!” to myself the first time I heard it. Then I went though the whole exercise: this crazy smart, well informed guy has an insane position on this issue. Whoa! But that’s ok!
 
-Now, suppose you actually want to change some hearts and minds on an issue. That’s really, really hard, and I’m not going to tackle that here. I can recommend these two books I recently finished, though: *<a href="http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752">Switch</a>* and <a href="http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671723650">*How To Win Friends and Influence People*</a> (aka HTWFAIP).
+Now, suppose you actually want to change some hearts and minds on an issue. That’s really, really hard, and I’m not going to tackle that here. I can recommend these two books I recently finished, though: *[Switch](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752)* and [*How To Win Friends and Influence People*](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671723650) (aka HTWFAIP).
 
 Both titles walk you through the basics of understanding problems, working with people, and affecting change. They use lots of anecdotes, guidelines, and tips. 
 

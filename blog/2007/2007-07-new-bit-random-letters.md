@@ -27,9 +27,9 @@ Dear Google,
 
 Thank you for providing cool web tools like universal search, GMail, Calendar, and Reader. These applications are an integral part of my daily life.
 
-With respect your code of conduct (<a href="http://investor.google.com/conduct.html">http://investor.google.com/conduct.html</a>) and informal motto, “don’t be evil”, I encourage you to not take over the world.
+With respect your code of conduct ([http://investor.google.com/conduct.html](http://investor.google.com/conduct.html)) and informal motto, “don’t be evil”, I encourage you to not take over the world.
 
-Having recently read of your acquisitions of popular services like YouTube, DoubleClick, FeedBurner, and GrandCentral, and your recent installation of a solar power generation array capable of meeting 30% of your energy needs (<a href="http://www.google.com/corporate/solarpanels/">http://www.google.com/corporate/solarpanels/</a>), I’m growing quite concerned.
+Having recently read of your acquisitions of popular services like YouTube, DoubleClick, FeedBurner, and GrandCentral, and your recent installation of a solar power generation array capable of meeting 30% of your energy needs ([http://www.google.com/corporate/solarpanels/](http://www.google.com/corporate/solarpanels/)), I’m growing quite concerned.
 
 As the popular fortune cookie postscript goes, “…in bed,” so must Google-related news be followed with, “…and their plan for world domination continues.”
 

@@ -32,7 +32,7 @@ I have a Linux box running at home (which happens to run this website). Here's h
 </ol>
 
 
-![ssh-tunnel.png](ssh-tunnel.png)That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a <a href="http://www.gentoo.org/main/en/about.xml">Gentoo-Linux</a> machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
+![ssh-tunnel.png](ssh-tunnel.png)That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a [Gentoo-Linux](http://www.gentoo.org/main/en/about.xml) machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
 
 <strong>Setup a server at home to accept SSH connections</strong>
 

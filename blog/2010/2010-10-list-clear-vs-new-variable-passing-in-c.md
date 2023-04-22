@@ -13,15 +13,15 @@ title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 ---
 
 
-A colleague asked me a C# question on <a href="http://twitter.com/#!/XOver9000/status/29231958731">Twitter</a>:  
+A colleague asked me a C# question on [Twitter](http://twitter.com/#!/XOver9000/status/29231958731):  
 
 ![image%5B1%5D.png](image%5B1%5D.png)
 
-I had some trouble responding in 140 characters, so I replied with <a href="http://twitter.com/#!/mharen/status/29232621954">a</a> <a href="http://twitter.com/#!/mharen/status/29232755840">few</a> <a href="http://twitter.com/#!/mharen/status/29232755840">tweets</a> that really didn’t do the question justice. There are a few issues at hand: style and correctness. 
+I had some trouble responding in 140 characters, so I replied with [a](http://twitter.com/#!/mharen/status/29232621954) [few](http://twitter.com/#!/mharen/status/29232755840) [tweets](http://twitter.com/#!/mharen/status/29232755840) that really didn’t do the question justice. There are a few issues at hand: style and correctness. 
 
 First, when it comes to style, the best guiding principle in programming is clarity. You should express your intent as clearly as possible. If .Clear() represents your intent better than newing up a List, go with it.
 
-The bigger issue is, of course, correctness. Who cares if your code expresses your intent if it’s wrong? In most situations, it probably doesn’t matter which you choose because each will have the effect you wanted. However, these have a few differences. Off the top of my head there’s the pointer/reference issue (noted in my <a href="http://twitter.com/#!/mharen/status/29232621954">first tweet</a>) and I’m betting something to do with Capacity which I’ll test in a minute.
+The bigger issue is, of course, correctness. Who cares if your code expresses your intent if it’s wrong? In most situations, it probably doesn’t matter which you choose because each will have the effect you wanted. However, these have a few differences. Off the top of my head there’s the pointer/reference issue (noted in my [first tweet](http://twitter.com/#!/mharen/status/29232621954)) and I’m betting something to do with Capacity which I’ll test in a minute.
 
 C# doesn’t really have pointers per se. Instead, it feels like every non-value type thing—object (e.g. List)—gets passed around kind of like you’re using pointers, you just don’t know it. This becomes really important when you start newing up objects in helper methods.
 
@@ -161,7 +161,7 @@ After Refresh Clear: 123
 Again we see that repointing references that were <strong>passed by value</strong> does not have the desired effect. We could update the first implementation to pass its list as a ref parameter but I discourage that. I like the .Clear approach instead. The reason .Clear/.Add works is that you are working with the right object by the time you start manipulating it. You could also sidestep the whole problem by changing the method name to “Rebuild” and have it *return *a new list.
 
 
-If that’s just crazy and not making any sense to you, I suggest checking out some of the <a href="http://www.google.com/images?q=variable%20passing%20reference">textbook diagrams</a> that explain this, or read this <a href="http://www.yoda.arachsys.com/csharp/parameters.html">excellent post</a> by Jon Skeet on the same topic. Both do a far better job at this than me.
+If that’s just crazy and not making any sense to you, I suggest checking out some of the [textbook diagrams](http://www.google.com/images?q=variable%20passing%20reference) that explain this, or read this [excellent post](http://www.yoda.arachsys.com/csharp/parameters.html) by Jon Skeet on the same topic. Both do a far better job at this than me.
 
 
 This is a topic that was incorrectly taught (or understood) to me in college, so don’t be surprised if you learn something new as I did.

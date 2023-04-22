@@ -20,7 +20,7 @@ For example, suppose I have a “what’s this” help link beside some potentia
 
 
 
-Nothing fancy here—just a link with a _blank target (<a href="http://jsbin.com/unuqo/3/edit">source</a>, <a href="http://jsbin.com/unuqo/3">demo</a>):  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">p</span><span class="kwrd">&gt;</span>Hello World 
+Nothing fancy here—just a link with a _blank target ([source](http://jsbin.com/unuqo/3/edit), [demo](http://jsbin.com/unuqo/3)):  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">p</span><span class="kwrd">&gt;</span>Hello World 
   <span class="kwrd">&lt;</span><span class="html">a</span> <span class="attr">href</span><span class="kwrd">=&quot;/help/tips&quot;</span>
      <span class="attr">target</span><span class="kwrd">=&quot;_blank&quot;</span> 
      <span class="attr">title</span><span class="kwrd">=&quot;Hello World Help&quot;</span>
@@ -33,7 +33,7 @@ It’s not very pretty but it gets the job done without any Javascript. Let’s 
 ![image%5B8%5D.png](image%5B8%5D.png) 
 
 
-Here we’ve augmented the help link with a nice <a href="http://jqueryui.com/home">jQuery UI</a> <a href="http://jqueryui.com/demos/dialog/">dialog</a> instead of a browser popup (<a href="http://jsbin.com/unuqo/4/edit">source</a>, <a href="http://jsbin.com/unuqo/4">demo</a>):
+Here we’ve augmented the help link with a nice [jQuery UI](http://jqueryui.com/home) [dialog](http://jqueryui.com/demos/dialog/) instead of a browser popup ([source](http://jsbin.com/unuqo/4/edit), [demo](http://jsbin.com/unuqo/4)):
 
 <pre class="csharpcode">$(<span class="kwrd">function</span>(){
   

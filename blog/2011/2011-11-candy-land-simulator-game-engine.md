@@ -15,7 +15,7 @@ title: 'A Candy Land Simulator: The Game Engine'
 ---
 
 
-*Note: this post is from a *<a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator">*series on Candy Land*</a>*.*
+*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy%20Land%20Simulator)*.*
 
 Last time we captured the board and the card deck into Javascript objects that look like this:  <pre class="csharpcode"><span class="kwrd">var</span> board = [
     { color: <span class="str">'Red'</span> },
@@ -29,7 +29,7 @@ Last time we captured the board and the card deck into Javascript objects that l
 ];</pre>
 
 
-<a href="http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/">![players%25255B7%25255D.jpg](players%25255B7%25255D.jpg)</a>
+[![players%25255B7%25255D.jpg](players%25255B7%25255D.jpg)](http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/)
 
 
 Now we need to simply draw cards and keep track of a player through the game. I guess we should come up with some simple way to track that. Players will have a name and a position on the board. We also need to know if the player is losing a turn because they stepped on a licorice space. This should do it:
@@ -46,7 +46,7 @@ As we design the rest of the engine, we’ll add to that as necessary.
 OK, now we need to create a game loop. A game loop basically covers all the actions that happen in one cycle of the game. Since Candy Land players don’t affect each other (except for a shared deck of cards), all the interesting stuff happens in the player loop, with alternating players.
 
 
-Here’s a <a href="http://jsfiddle.net/mharen/crgAX/6/">first pass</a> of what we need:
+Here’s a [first pass](http://jsfiddle.net/mharen/crgAX/6/) of what we need:
 
 <pre class="csharpcode"><span class="kwrd">var</span> players = [
     { name: <span class="str">'Michael'</span>, isLosingATurn: <span class="kwrd">false</span>, position: -1, isWinner: <span class="kwrd">false</span>, moves: 0 },
