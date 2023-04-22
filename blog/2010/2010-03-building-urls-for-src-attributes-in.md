@@ -11,7 +11,16 @@ time_to_read: 5
 title: "Building URLs for \u201CSRC\u201D Attributes in ASP.NET MVC"
 ---
 
-<p>I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following jokes: </p>  <blockquote>   <p>“Chuck Norris can divide by zero” </p>    <p>“Chuck Norris can touch MC Hammer”</p>    <p>“Chuck Norris CAN believe it's not butter.”</p> </blockquote>  <p>–<a href="http://www.chucknorrisfacts.com/chuck-norris-top-50-facts">Chuck Norris Facts</a> </p>  <p>Now would be a good time for you to stop reading. </p>  <p>   <hr /></p>  <p>Dive into ASP.NET MVC and it won’t be long before you do this in a master page:</p>  <pre class="csharpcode">    <span class="kwrd">&lt;</span><span class="html">link</span> <span class="attr">type</span><span class="kwrd">=&quot;text/css&quot;</span> <span class="attr">rel</span><span class="kwrd">=&quot;Stylesheet&quot;</span> <span class="attr">href</span><span class="kwrd">=&quot;~/Content/all-src.min.css&quot;</span> <span class="kwrd">/&gt;</span>
+<p>I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following jokes: </p>
+<blockquote> 
+<p>“Chuck Norris can divide by zero” </p>  
+<p>“Chuck Norris can touch MC Hammer”</p>  
+<p>“Chuck Norris CAN believe it's not butter.”</p>
+</blockquote>
+<p>–<a href="http://www.chucknorrisfacts.com/chuck-norris-top-50-facts">Chuck Norris Facts</a> </p>
+<p>Now would be a good time for you to stop reading. </p>
+<p>   <hr /></p>
+<p>Dive into ASP.NET MVC and it won’t be long before you do this in a master page:</p>  <pre class="csharpcode">    <span class="kwrd">&lt;</span><span class="html">link</span> <span class="attr">type</span><span class="kwrd">=&quot;text/css&quot;</span> <span class="attr">rel</span><span class="kwrd">=&quot;Stylesheet&quot;</span> <span class="attr">href</span><span class="kwrd">=&quot;~/Content/all-src.min.css&quot;</span> <span class="kwrd">/&gt;</span>
     <span class="kwrd">&lt;</span><span class="html">script</span> <span class="attr">type</span><span class="kwrd">=&quot;text/javascript&quot;</span> <span class="attr">src</span><span class="kwrd">=&quot;~/Scripts/all-src.min.js&quot;</span><span class="kwrd">&gt;&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span></pre>
 
 <p>This of course includes a couple global files—one for styles and one for scripts. Here’s the rub: it doesn’t work at all. It’ll seem like it works at first, because you’ll have nice styles and some of your scripts might even work, but it will be a short-lived experience.</p>

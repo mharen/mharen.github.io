@@ -14,7 +14,9 @@ time_to_read: 5
 title: How To Restore a Database With Active Connections
 ---
 
-<p>If you’ve ever tried to restore over top of an existing database in SQL Server, you may be familiar with messages like these:</p>  <blockquote>   <p>Msg 5061, Level 16, State 1, Line 1 ALTER DATABASE failed because a lock could not be placed on database 'foo'. Try again later</p>    <pre><code><font face="Trebuchet MS">Exclusive access could not be obtained because the database is in use.<br />RESTORE DATABASE is terminating abnormally.</font></code></pre>
+<p>If you’ve ever tried to restore over top of an existing database in SQL Server, you may be familiar with messages like these:</p>
+<blockquote> 
+<p>Msg 5061, Level 16, State 1, Line 1 ALTER DATABASE failed because a lock could not be placed on database 'foo'. Try again later</p>    <pre><code><font face="Trebuchet MS">Exclusive access could not be obtained because the database is in use.<br />RESTORE DATABASE is terminating abnormally.</font></code></pre>
 </blockquote>
 
 <pre><font face="Trebuchet MS">What’s going on here is that you need exclusive access to the DB but someone’s already there. Here’s the simplest approach I know of to get in there and get busy:</font></pre>
@@ -25,7 +27,7 @@ title: How To Restore a Database With Active Connections
   <pre class="csharpcode"><span class="kwrd">EXEC</span> sp_who2 </pre>
 </blockquote>
 
-<pre><font face="Trebuchet MS"><a href="http://lh4.ggpht.com/-EZc6brv5Nf4/T4h0NIX7N4I/AAAAAAAAEaw/kDbP2vJ1XMg/s1600-h/SNAG-00242.png"><img alt="SNAG-0024" height="302" src="http://lh6.ggpht.com/-T4pdPPP1y8Q/T4h0N88aeqI/AAAAAAAAEa4/pEViw2LEw_0/SNAG-0024_thumb.png?imgmax=800" style="margin: 3px auto; display: block; float: none;" title="SNAG-0024" width="472" /></a></font></pre>
+<pre><font face="Trebuchet MS"><a href="http://lh4.ggpht.com/-EZc6brv5Nf4/T4h0NIX7N4I/AAAAAAAAEaw/kDbP2vJ1XMg/s1600-h/SNAG-00242.png"><img alt="SNAG-0024" height="302" src="http://lh6.ggpht.com/-T4pdPPP1y8Q/T4h0N88aeqI/AAAAAAAAEa4/pEViw2LEw_0/SNAG-0024_thumb.png" style="margin: 3px auto; display: block; float: none;" title="SNAG-0024" width="472" /></a></font></pre>
 
 <p>Copy down all the SPIDs associated with the DB you want to overwrite. Obviously your DB will be there instead of “OMS”—that’s mine, get your own!</p>
 

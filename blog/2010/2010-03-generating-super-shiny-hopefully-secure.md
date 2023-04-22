@@ -12,7 +12,14 @@ time_to_read: 5
 title: Generating Super Shiny, Hopefully Secure Tokens
 ---
 
-<p>I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:</p>  <blockquote>   <p>“My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –<a href="http://www.demetrimartin.com/">Demetri Martin</a> (<a href="http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/">via</a>)</p> </blockquote>  <p>Now would be a good time for you to stop reading.</p>  <hr />  <p>I was working on a little security related code today which required the generation of unique and random tokens. I’m always nervous working with crypto because it’s so easy to fail. </p>  <p>But here I am, ready to fail.</p>  <p>So like I said, I need to create a bunch of tokens—blocks of text or numbers. They can’t be easily guessed and need to be unique. Let’s see if I can’t screw this up.</p>  <pre class="csharpcode">        <span class="rem">/// &lt;summary&gt;</span>
+<p>I’ve been told that these programming posts are not interesting or funny. For those that have no interest in programming, I offer the following joke:</p>
+<blockquote> 
+<p>“My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –<a href="http://www.demetrimartin.com/">Demetri Martin</a> (<a href="http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/">via</a>)</p>
+</blockquote>
+<p>Now would be a good time for you to stop reading.</p>  <hr />
+<p>I was working on a little security related code today which required the generation of unique and random tokens. I’m always nervous working with crypto because it’s so easy to fail. </p>
+<p>But here I am, ready to fail.</p>
+<p>So like I said, I need to create a bunch of tokens—blocks of text or numbers. They can’t be easily guessed and need to be unique. Let’s see if I can’t screw this up.</p>  <pre class="csharpcode">        <span class="rem">/// &lt;summary&gt;</span>
         <span class="rem">/// Generate a decently long string o random characters, suitable for tokens</span>
         <span class="rem">/// &lt;/summary&gt;</span>
         <span class="rem">/// &lt;returns&gt;a string of gobbledygook&lt;/returns&gt;</span>

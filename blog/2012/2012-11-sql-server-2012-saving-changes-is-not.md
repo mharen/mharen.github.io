@@ -14,7 +14,17 @@ time_to_read: 5
 title: "SQL Server 2012: \u201CSaving changes is not permitted\u2026\u201D"
 ---
 
-<p>Are you riding the new SQL Server 2012 HAWTNESS? Good for you. Did you try to make a table change in Management Studio that requires a table rebuild? Ouch. So you’ve seen this, then:</p>  <p><img alt="alter" height="531" src="http://lh4.ggpht.com/-PArYbehygE4/UKQNjGirySI/AAAAAAAAFRA/8mmbdNV9q2Q/alter%25255B2%25255D.png?imgmax=800" style="float: none; margin: 3px auto; display: block;" title="alter" width="625" /></p>  <blockquote>   <p>“Saving changes is not permitted. The changes you have made require the following tables to be dropped and re-created. You have either made changes to a table that can’t be re-created <strong>or enabled the option Prevent saving changes that require the table to be re-created.</strong>”</p> </blockquote>  <p>So the answer’s right there, but it’s at the end of a really long blob of text so you are forgiven if you missed it. Before you close your table change designer (and lose those precious table changes), just go uncheck that box in the options:</p>  <p><img alt="change options" height="437" src="http://lh6.ggpht.com/-HB2NTCb5hZ8/UKQNjglbhkI/AAAAAAAAFRI/bD31lhvZ0tM/change%252520options%25255B2%25255D.png?imgmax=800" style="float: none; margin: 3px auto; display: block;" title="change options" width="753" /></p>  <p>Now try saving again. Good to go? Cool.</p>  <p>Now it will revert to the behavior it used in SSMS 2008 where it will still warn you if it thinks scary things might happen:</p>  <p><img alt="warning" height="430" src="http://lh6.ggpht.com/-e9yJ1iHnJ1c/UKQNkcvABnI/AAAAAAAAFRQ/_vfEwhMe_-E/warning%25255B2%25255D.png?imgmax=800" style="float: none; margin: 3px auto; display: block;" title="warning" width="536" /></p>  <p>But it’ll let you continue.</p>
+<p>Are you riding the new SQL Server 2012 HAWTNESS? Good for you. Did you try to make a table change in Management Studio that requires a table rebuild? Ouch. So you’ve seen this, then:</p>
+<p><img alt="alter" height="531" src="http://lh4.ggpht.com/-PArYbehygE4/UKQNjGirySI/AAAAAAAAFRA/8mmbdNV9q2Q/alter%25255B2%25255D.png" style="float: none; margin: 3px auto; display: block;" title="alter" width="625" /></p>
+<blockquote> 
+<p>“Saving changes is not permitted. The changes you have made require the following tables to be dropped and re-created. You have either made changes to a table that can’t be re-created <strong>or enabled the option Prevent saving changes that require the table to be re-created.</strong>”</p>
+</blockquote>
+<p>So the answer’s right there, but it’s at the end of a really long blob of text so you are forgiven if you missed it. Before you close your table change designer (and lose those precious table changes), just go uncheck that box in the options:</p>
+<p><img alt="change options" height="437" src="http://lh6.ggpht.com/-HB2NTCb5hZ8/UKQNjglbhkI/AAAAAAAAFRI/bD31lhvZ0tM/change%252520options%25255B2%25255D.png" style="float: none; margin: 3px auto; display: block;" title="change options" width="753" /></p>
+<p>Now try saving again. Good to go? Cool.</p>
+<p>Now it will revert to the behavior it used in SSMS 2008 where it will still warn you if it thinks scary things might happen:</p>
+<p><img alt="warning" height="430" src="http://lh6.ggpht.com/-e9yJ1iHnJ1c/UKQNkcvABnI/AAAAAAAAFRQ/_vfEwhMe_-E/warning%25255B2%25255D.png" style="float: none; margin: 3px auto; display: block;" title="warning" width="536" /></p>
+<p>But it’ll let you continue.</p>
 
 ---
 

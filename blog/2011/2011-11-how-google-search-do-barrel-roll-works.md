@@ -15,7 +15,9 @@ time_to_read: 5
 title: "How the Google Search \u201CDo a barrel roll\u201D Works"
 ---
 
-<p>As a web guy I was intrigued by today’s Google easter egg. If you haven’t heard, go to Google and search for “<a href="https://www.google.com/search?q=do+a+barrel+roll">Do a barrel roll</a>”. If you’re using a decent browser, the entire page will do fun things.</p>  <p><img alt="image" height="453" src="http://lh5.ggpht.com/-TCId5Qsr-qI/TrLjlDS6A6I/AAAAAAAAD70/TOfsYrt3u3E/image%25255B4%25255D.png?imgmax=800" style="margin: 3px auto; display: block; float: none;" title="image" width="700" /></p>  <p>How do they do it? I jumped into the source to see. It’s a simple CSS transition:</p>  <pre class="csharpcode">@-moz-keyframes roll    { 100% { -moz-transform: rotate(360deg); } } 
+<p>As a web guy I was intrigued by today’s Google easter egg. If you haven’t heard, go to Google and search for “<a href="https://www.google.com/search?q=do+a+barrel+roll">Do a barrel roll</a>”. If you’re using a decent browser, the entire page will do fun things.</p>
+<p><img alt="image" height="453" src="http://lh5.ggpht.com/-TCId5Qsr-qI/TrLjlDS6A6I/AAAAAAAAD70/TOfsYrt3u3E/image%25255B4%25255D.png" style="margin: 3px auto; display: block; float: none;" title="image" width="700" /></p>
+<p>How do they do it? I jumped into the source to see. It’s a simple CSS transition:</p>  <pre class="csharpcode">@-moz-keyframes roll    { 100% { -moz-transform: rotate(360deg); } } 
 @-o-keyframes roll      { 100% { -o-transform: rotate(360deg); } } 
 @-webkit-keyframes roll { 100% { -webkit-transform: rotate(360deg); } } 
 body{ 

@@ -13,7 +13,9 @@ time_to_read: 5
 title: Patching jQuery Validation for the iOS Date Picker
 ---
 
-<p>If you’re trying to use <a href="http://blog.wassupy.com/2012/07/let-browser-handle-datepicker-if-it-can.html">native datepickers</a> with <code>&lt;input type=&quot;date&quot;/&gt;</code> in your app <em>and the jQuery Validate plugin for validation</em>, here's something you probably need to know.</p>  <p>I discovered, when testing my app on an iPhone, that the jQuery Validate plugin wasn’t working on my date inputs. It would always mark them invalid. Huh.</p>  <p>I dug into it and found that <a href="https://github.com/jzaefferer/jquery-validation/blob/907467e874e8812ee9547cc7073d793dfd253f2f/jquery.validate.js#L1107">this is how</a> it determines if a date is valid:</p>  <pre class="csharpcode"><span class="rem">// http://docs.jquery.com/Plugins/Validation/Methods/date</span>
+<p>If you’re trying to use <a href="http://blog.wassupy.com/2012/07/let-browser-handle-datepicker-if-it-can.html">native datepickers</a> with <code>&lt;input type=&quot;date&quot;/&gt;</code> in your app <em>and the jQuery Validate plugin for validation</em>, here's something you probably need to know.</p>
+<p>I discovered, when testing my app on an iPhone, that the jQuery Validate plugin wasn’t working on my date inputs. It would always mark them invalid. Huh.</p>
+<p>I dug into it and found that <a href="https://github.com/jzaefferer/jquery-validation/blob/907467e874e8812ee9547cc7073d793dfd253f2f/jquery.validate.js#L1107">this is how</a> it determines if a date is valid:</p>  <pre class="csharpcode"><span class="rem">// http://docs.jquery.com/Plugins/Validation/Methods/date</span>
 date: <span class="kwrd">function</span>(value, element) {
     <span class="kwrd">return</span> <span class="kwrd">this</span>.optional(element) || !/Invalid|NaN/.test(<span class="kwrd">new</span> Date(value));
 }</pre>

@@ -14,7 +14,11 @@ time_to_read: 5
 title: "SAP Connector: \u201CERROR service '?' unknown\u201D (SOLVED)"
 ---
 
-<p>So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working great to connect your .NET application to SAP when suddenly you start getting this error:</p>  <blockquote>   <p><strong>ERROR service '?' unknown</strong></p> </blockquote>  <p>You probably have some code like this (or you’re just trying to <a href="http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/">login</a> or get your app to run):</p>  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
+<p>So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working great to connect your .NET application to SAP when suddenly you start getting this error:</p>
+<blockquote> 
+<p><strong>ERROR service '?' unknown</strong></p>
+</blockquote>
+<p>You probably have some code like this (or you’re just trying to <a href="http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/">login</a> or get your app to run):</p>  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
 
 <span class="rem">// other init...</span>
 

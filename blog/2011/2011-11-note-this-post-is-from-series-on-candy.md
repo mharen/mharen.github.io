@@ -14,7 +14,8 @@ time_to_read: 5
 title: 'A Candy Land Simulator: The Game Engine, Implemented'
 ---
 
-<p><em>Note: this post is from a </em><a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator"><em>series on Candy Land</em></a><em>.</em></p>  <p>We’re back again. We still have our board and cards (these are old hat now, right?):</p>  <pre class="csharpcode"><span class="kwrd">var</span> board = [
+<p><em>Note: this post is from a </em><a href="http://blog.wassupy.com/search/label/Candy%20Land%20Simulator"><em>series on Candy Land</em></a><em>.</em></p>
+<p>We’re back again. We still have our board and cards (these are old hat now, right?):</p>  <pre class="csharpcode"><span class="kwrd">var</span> board = [
     { color: <span class="str">'Red'</span> },
     { color: <span class="str">'Orange'</span>, bridgeTo: 59 }
     <span class="rem">// ...</span>
@@ -34,7 +35,7 @@ title: 'A Candy Land Simulator: The Game Engine, Implemented'
 
 <p>So let’s get down to implementing some of the game engine we spec'd out yesterday. First, here’s the test harness:</p>
 
-<p><img alt="image" height="213" src="http://lh6.ggpht.com/-AO0xgiJ25Wk/TsKVe3uk7yI/AAAAAAAAEGY/vXnJu5ODvcw/image%25255B3%25255D.png?imgmax=800" style="margin: 3px auto; display: block; float: none;" title="image" width="304" /></p>
+<p><img alt="image" height="213" src="http://lh6.ggpht.com/-AO0xgiJ25Wk/TsKVe3uk7yI/AAAAAAAAEGY/vXnJu5ODvcw/image%25255B3%25255D.png" style="margin: 3px auto; display: block; float: none;" title="image" width="304" /></p>
 
 <p>I decided to add an option of letting players stop the game as soon as one player wins (like normal people), or to play through until everyone “wins” like my kids play. This is the main function that we run when we click the button to start the game. It loads up that option from a checkbox, and the players:</p>
 

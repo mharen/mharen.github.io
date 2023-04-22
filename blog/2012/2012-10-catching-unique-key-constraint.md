@@ -25,13 +25,15 @@ title: Catching Unique Key Constraint Violations with Entity Framework and SQL S
 <p>Now suppose your database has a unique key constraint to prevent you from inserting duplicate data. If you do, your insert will bomb with an UpdateException:</p>
 
 <blockquote>
-  <p>An error occurred while updating the entries. See the inner exception for details.</p>
+
+<p>An error occurred while updating the entries. See the inner exception for details.</p>
 </blockquote>
 
 <p>The inner exception is more helpful:</p>
 
 <blockquote>
-  <p>Cannot insert duplicate key row in object '%.*ls' with unique index '%.*ls'. The duplicate key value is %ls.</p>
+
+<p>Cannot insert duplicate key row in object '%.*ls' with unique index '%.*ls'. The duplicate key value is %ls.</p>
 </blockquote>
 
 <p>We can catch that and display a nice message to the user, but first we should make sure you’re handling the right thing. We only want to catch the exception if we know that it’s a duplication issue (not any other db-related issue). </p>

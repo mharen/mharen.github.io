@@ -12,7 +12,13 @@ time_to_read: 5
 title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 ---
 
-<p>A colleague asked me a C# question on <a href="http://twitter.com/#!/XOver9000/status/29231958731">Twitter</a>:</p>  <p align="center"><img alt="C# - list&lt;T&gt;.clear() or list&lt;T&gt; = new list&lt;T&gt;()?" height="118" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TM4BssqYnrI/AAAAAAAABJw/hqWmieTQhg4/image%5B1%5D.png?imgmax=800" style="margin: 3px; display: inline;" title="" width="465" /></p>  <p>I had some trouble responding in 140 characters, so I replied with <a href="http://twitter.com/#!/mharen/status/29232621954">a</a> <a href="http://twitter.com/#!/mharen/status/29232755840">few</a> <a href="http://twitter.com/#!/mharen/status/29232755840">tweets</a> that really didn’t do the question justice. There are a few issues at hand: style and correctness. </p>  <p>First, when it comes to style, the best guiding principle in programming is clarity. You should express your intent as clearly as possible. If .Clear() represents your intent better than newing up a List, go with it.</p>  <p>The bigger issue is, of course, correctness. Who cares if your code expresses your intent if it’s wrong? In most situations, it probably doesn’t matter which you choose because each will have the effect you wanted. However, these have a few differences. Off the top of my head there’s the pointer/reference issue (noted in my <a href="http://twitter.com/#!/mharen/status/29232621954">first tweet</a>) and I’m betting something to do with Capacity which I’ll test in a minute.</p>  <p>C# doesn’t really have pointers per se. Instead, it feels like every non-value type thing—object (e.g. List)—gets passed around kind of like you’re using pointers, you just don’t know it. This becomes really important when you start newing up objects in helper methods.</p>  <p>For example, what do you suppose happens in this code?:</p>  <blockquote>   <pre class="csharpcode"><span class="kwrd">void</span> Main()
+<p>A colleague asked me a C# question on <a href="http://twitter.com/#!/XOver9000/status/29231958731">Twitter</a>:</p>  <p align="center"><img alt="C# - list&lt;T&gt;.clear() or list&lt;T&gt; = new list&lt;T&gt;()?" height="118" src="http://lh5.ggpht.com/_IKD9WtY5kxU/TM4BssqYnrI/AAAAAAAABJw/hqWmieTQhg4/image%5B1%5D.png" style="margin: 3px; display: inline;" title="" width="465" /></p>
+<p>I had some trouble responding in 140 characters, so I replied with <a href="http://twitter.com/#!/mharen/status/29232621954">a</a> <a href="http://twitter.com/#!/mharen/status/29232755840">few</a> <a href="http://twitter.com/#!/mharen/status/29232755840">tweets</a> that really didn’t do the question justice. There are a few issues at hand: style and correctness. </p>
+<p>First, when it comes to style, the best guiding principle in programming is clarity. You should express your intent as clearly as possible. If .Clear() represents your intent better than newing up a List, go with it.</p>
+<p>The bigger issue is, of course, correctness. Who cares if your code expresses your intent if it’s wrong? In most situations, it probably doesn’t matter which you choose because each will have the effect you wanted. However, these have a few differences. Off the top of my head there’s the pointer/reference issue (noted in my <a href="http://twitter.com/#!/mharen/status/29232621954">first tweet</a>) and I’m betting something to do with Capacity which I’ll test in a minute.</p>
+<p>C# doesn’t really have pointers per se. Instead, it feels like every non-value type thing—object (e.g. List)—gets passed around kind of like you’re using pointers, you just don’t know it. This becomes really important when you start newing up objects in helper methods.</p>
+<p>For example, what do you suppose happens in this code?:</p>
+<blockquote>   <pre class="csharpcode"><span class="kwrd">void</span> Main()
 {
     <span class="kwrd">string</span> A = <span class="str">&quot;aaa&quot;</span>;
     <span class="kwrd">string</span> B = <span class="str">&quot;bbb&quot;</span>;
@@ -34,7 +40,8 @@ title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 <p>Does it work? Of course since I’m asking, it probably doesn’t! Here’s the output:</p>
 
 <blockquote>
-  <p>Before Swap: A is 'aaa', B is 'bbb' 
+
+<p>Before Swap: A is 'aaa', B is 'bbb' 
     <br />After Swap:&#160; A is 'aaa', B is 'bbb'</p>
 </blockquote>
 
@@ -65,7 +72,8 @@ title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 <p>Output:</p>
 
 <blockquote>
-  <p>Before Swap: A is 'aaa', B is 'bbb' 
+
+<p>Before Swap: A is 'aaa', B is 'bbb' 
     <br />After Swap:&#160; A is 'bbb', B is 'bbb'</p>
 </blockquote>
 
@@ -115,7 +123,8 @@ title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 <p>And the output:</p>
 
 <blockquote>
-  <p>Before Refresh: abc 
+
+<p>Before Refresh: abc 
     <br />After Refresh New:&#160;&#160; abc 
 
     <br />After Refresh Clear: 123</p>
@@ -148,7 +157,8 @@ Console.WriteLine(<span class="str">&quot;List count: {0}, list capacity: {1}&qu
 <p>And the output:</p>
 
 <blockquote>
-  <p>Building list... 
+
+<p>Building list... 
     <br />List count: 1, list capacity: 4 
 
     <br />List count: 2, list capacity: 4 
@@ -167,7 +177,8 @@ Console.WriteLine(<span class="str">&quot;List count: {0}, list capacity: {1}&qu
 
     <br />List count: 9, list capacity: 16</p>
 
-  <p>Clearing list... 
+
+<p>Clearing list... 
     <br />List count: 0, list capacity: 16</p>
 </blockquote>
 

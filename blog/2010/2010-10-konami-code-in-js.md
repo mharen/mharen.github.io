@@ -13,7 +13,10 @@ time_to_read: 5
 title: The Konami Code In JS
 ---
 
-<p><strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do <a href="http://en.wikipedia.org/wiki/Konami_Code">some research</a>. If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.</p>  <p>To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the &quot;something cool&quot;.</p>  <h4>Sequence Detector</h4>  <p>First, we need to determine what sequence we're interested in in terms of <a href="http://www.quirksmode.org/js/keys.html">key codes</a>:</p>  <blockquote>   <pre class="csharpcode"><span class="kwrd">var</span> DesiredSequence = [
+<p><strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do <a href="http://en.wikipedia.org/wiki/Konami_Code">some research</a>. If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.</p>
+<p>To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the &quot;something cool&quot;.</p>  <h4>Sequence Detector</h4>
+<p>First, we need to determine what sequence we're interested in in terms of <a href="http://www.quirksmode.org/js/keys.html">key codes</a>:</p>
+<blockquote>   <pre class="csharpcode"><span class="kwrd">var</span> DesiredSequence = [
               38 <span class="rem">// up</span>
             , 38 <span class="rem">// up</span>
             , 40 <span class="rem">// down</span>
@@ -58,7 +61,8 @@ $(document).keydown(<span class="kwrd">function</span> (e) {
 <p>A <a href="http://konamicodesites.com/">lot of sites</a> do neat things for this code. My take on it will involve Ninja, just like Google Reader, but I'll put a different spin on it. Here's the code:</p>
 
 <blockquote>
-  <p>
+
+<p>
     <pre class="csharpcode"><span class="kwrd">if</span> (SequenceIndex == DesiredSequence.length - 1) {
     SequenceIndex = -1;
             

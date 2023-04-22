@@ -14,7 +14,8 @@ time_to_read: 5
 title: "Trouble Creating Windows Services With \u201Csc.exe create\u201D"
 ---
 
-<p>I was recently tasked with figuring out why a seemingly correct call to sc.exe wasn’t working. This turned into an exercise in frustration as I tried the command about 50 different ways. This is close, but not close enough:</p>  <blockquote>   <pre><strong>** Don’t do this—it doesn’t work (keep reading) **
+<p>I was recently tasked with figuring out why a seemingly correct call to sc.exe wasn’t working. This turned into an exercise in frustration as I tried the command about 50 different ways. This is close, but not close enough:</p>
+<blockquote>   <pre><strong>** Don’t do this—it doesn’t work (keep reading) **
 </strong>C:\&gt;sc.exe create ServiceName binpath=&quot;C:\Path\Service.exe -args&quot;
                               depend=&quot;tcpip&quot;
                               DisplayName=&quot;Service Name&quot;
@@ -52,7 +53,7 @@ C:\&gt;sc.exe create ServiceName binpath=<font style="background-color: #ffff00;
 </p></pre>
 </blockquote>
 
-<p><img align="right" alt="image" height="136" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TUraU1eoKBI/AAAAAAAABXA/nYYU6LywMHM/image%5B3%5D.png?imgmax=800" style="float: right;" title="image" width="300" />Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.</p>
+<p><img align="right" alt="image" height="136" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TUraU1eoKBI/AAAAAAAABXA/nYYU6LywMHM/image%5B3%5D.png" style="float: right;" title="image" width="300" />Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.</p>
 
 <p>Interestingly, while preparing this post I learned that the help info <em>has been improved</em> in Windows 7 and Windows Server 2008:</p>
 

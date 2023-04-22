@@ -13,7 +13,8 @@ title: The Curious Behavior of HTML Image Inputs, Or Why "&x=0&y=0" Is Showing U
   Uninvited
 ---
 
-<p>While working on an internal tool I noticed that the search form was producing unexpected <code>get</code> requests. Here’s the form:</p>  <blockquote>   <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">form</span> <span class="attr">action</span><span class="kwrd">=&quot;/Search&quot;</span> <span class="attr">method</span><span class="kwrd">=&quot;get&quot;</span><span class="kwrd">&gt;</span>
+<p>While working on an internal tool I noticed that the search form was producing unexpected <code>get</code> requests. Here’s the form:</p>
+<blockquote>   <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">form</span> <span class="attr">action</span><span class="kwrd">=&quot;/Search&quot;</span> <span class="attr">method</span><span class="kwrd">=&quot;get&quot;</span><span class="kwrd">&gt;</span>
   <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">id</span><span class="kwrd">=&quot;s&quot;</span> <span class="attr">name</span><span class="kwrd">=&quot;s&quot;</span> <span class="attr">type</span><span class="kwrd">=&quot;text&quot;</span> <span class="attr">value</span><span class="kwrd">=&quot;&quot;</span> <span class="kwrd">/&gt;</span>
   <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">=&quot;image&quot;</span> <span class="attr">src</span><span class="kwrd">=&quot;search.png&quot;</span> <span class="attr">value</span><span class="kwrd">=&quot;Search&quot;</span> <span class="kwrd">/&gt;</span>
 <span class="kwrd">&lt;/</span><span class="html">form</span><span class="kwrd">&gt;</span></pre>
