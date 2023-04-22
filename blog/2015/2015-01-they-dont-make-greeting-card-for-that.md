@@ -23,11 +23,10 @@ We are conflicted. We knew this would likely happen; we were told that 85% of ki
 
 We're heartbroken. We're experiencing profound loss that most people can't understand.
 
+> *"He's not your son,"* people must think.
 
-<blockquote class="tr_bq" style="text-align: left;">
-*"He's not your son,"* people must think.&nbsp;</blockquote>
-<blockquote class="tr_bq" style="text-align: left;">
-We are all he's ever known.</blockquote>
+> We are all he's ever known.
+
 We started packing up his things. I held him. I cried.
 
 We are grieving.
@@ -52,9 +51,8 @@ We will never see him again. This child that we have held, comforted, and raised
 
 And we will cry some more.
 
+> *"You shouldn't get attached,"* people must think.
 
-<blockquote class="tr_bq">
-*"You shouldn't get attached,"* people must think.</blockquote>
-<blockquote class="tr_bq">
-Maybe not. Attachment is best for him, even if it hurts us.</blockquote>
+> Maybe not. Attachment is best for him, even if it hurts us.
+> 
 And I hope. I hope we will work through our grief and forget how hard this is right now. I hope I forget how painful it is to type these words as I wipe my face after every sentence. Because then we can do it all over again for the next beautiful child that needs our home, if only for a little while.

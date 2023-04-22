@@ -38,8 +38,8 @@ If you’re not familiar with either, you might be surprised to hear that I foun
 
 *HTWFAIP* on the other hand sounds like it’d be all about subterfuge but is actually entirely genuine. It has a slightly different goal of getting people to like you and it encourages this almost exclusively by teaching you to be a nicer person. Seriously! It offers many tips and admits that they will be effective only if you are sincere.
 
-Relating this back to the post, here’s another Dale Carnegie quote from HTWFAIP about arguments: <blockquote>
+Relating this back to the post, here’s another Dale Carnegie quote from HTWFAIP about arguments:
 
-“I have come to the conclusion that there is only one way under high heaven to get the best of an argument— and that is to avoid it. Avoid it as you would avoid rattlesnakes and earthquakes.”</blockquote>
+> “I have come to the conclusion that there is only one way under high heaven to get the best of an argument— and that is to avoid it. Avoid it as you would avoid rattlesnakes and earthquakes.”
 
 Both are good, easy reads, and great for groups. I suggest reading *FTWFAIP* first, then *Switch.*
