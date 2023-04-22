@@ -19,7 +19,7 @@ Have you ever been filling out a form on the web and accidentally navigated away
 
 In addition to the typical things that a good web programmer does to help prevent data loss (e.g. use simple forms, prompt before leaving a dirty form, don’t break the forward/back buttons, background-save frequent drafts, etc.), here’s a technique I’ve used in a few projects that has silently saved people from some suffering: 
 
-<strong>Disable the keyboard shortcut for the back button via the backspace key</strong>
+**Disable the keyboard shortcut for the back button via the backspace key**
 
 In case you didn’t know, the backspace key is typically mapped to the back button. Now imagine you’re updating a large text area with all kinds of thought provoking wisdom. Then you tab away from the text area or click off of it for some reason. Some time later you might hit the backspace key to delete the last letter you typed. Unfortunately, since your focus isn’t in a text area or input, you are navigated away from the page, losing your masterpiece.
 

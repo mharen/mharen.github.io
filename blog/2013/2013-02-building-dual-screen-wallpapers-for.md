@@ -20,7 +20,7 @@ Of course the problem then is finding wallpapers that fit that size. Google can 
 
 <strong>
 
-</strong><strong>But what if you already have single-monitor wallpapers that you want to use? All you really need to do is combine them into a single image.</strong>
+</strong>**But what if you already have single-monitor wallpapers that you want to use? All you really need to do is combine them into a single image.**
 
 <strong>
 

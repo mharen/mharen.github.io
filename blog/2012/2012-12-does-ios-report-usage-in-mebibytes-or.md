@@ -15,7 +15,7 @@ title: Does iOS Report Usage in Mebibytes or Megabytes?
 ---
 
 
-<strong>Quick answer: megabytes (1 × 10<sup>6</sup> bytes).</strong>
+**Quick answer: megabytes (1 × 10<sup>6</sup> bytes).**
 
 With data caps being all the rage these days you might be wondering how you can check your data usage in iOS. It’s simple. Go to Settings &gt; General &gt; Usage &gt; Cellular Usage:
 
@@ -41,4 +41,4 @@ This took a few minutes. And the result:
 
 ![2012-11-30-15.04.43%25255B1%25255D.png](2012-11-30-15.04.43%25255B1%25255D.png)        
 
-10.4 MB. Well there you have it: <strong>it uses the base-10 definition.</strong>
+10.4 MB. Well there you have it: **it uses the base-10 definition.**

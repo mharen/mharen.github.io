@@ -13,13 +13,13 @@ title: About Loans and the Effects of Interest
 
 This post describes the Rapid Payoff feature of the [Debt Manager](/debt), with more of an emphasis on the dollars and cents than the application itself.
 
-<strong>Disclaimer</strong>
+**Disclaimer**
 
 First off, I’m an engineer, not an accountant, banker, etc. I took a bunch of money-related courses in college, but I should not at all be considered more than slightly proficient in the area. Since you stumbled upon this on the internet, you should take it as such: information given by a complete stranger who probably doesn’t know as much about the topic as he thinks.
 
 If the information that my application produces turns out to be wholly inaccurate and you do something really dumb as a result, let me know so that I can fix the application, not your mistake. To put it another way, I am not responsible for whatever you do with this. Seek professional advice when needed.
 
-<strong>What’s the big deal?</strong>
+**What’s the big deal?**
 
 The idea is to eliminate debt. The fastest way to do this is to pay a lot towards debt., thus minimizing the money wasted on interest. Let me reiterate that point: every penny you pay to the interest of a loan is completely wasted. I think people tend to understate the effects of interest so here’s a nifty chart I just whipped up:
 
@@ -41,13 +41,13 @@ Can’t afford $500? An extra $250 each month will cut the life of the loan to *
 
 (note: those graphics were created pretty easily with [Office 2007](http://www.wassupy.com/?p=478). Spiffy huh?)
 
-<strong>Where am I supposed to get extra money?</strong>
+**Where am I supposed to get extra money?**
 
 Lots of places. You can sell stuff you don’t need anymore, switch to a cheaper car, move into a cheaper house, don’t eat out as much, etc. There’s even a way without doing *any* of that: stop financing new stuff. That is, when your car is paid off, you will suddenly have an extra chunk of change. Instead of buying a new car, keep the one that’s paid off and use what you were using on the car to pay off something else.
 
 This method is known as snowballing because the more things you pay off, the more you will be applying to your remaining debts, while not actually increasing the total amount you spend on debt.
 
-<strong>Will this actually work?</strong>
+**Will this actually work?**
 
 Yes, with one seriously huge condition: you must follow the schedule. If you do *not* apply the extra money, it won’t work. This program takes discipline, no doubt.
 

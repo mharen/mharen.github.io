@@ -58,7 +58,7 @@ After Swap:&#160; A is 'aaa', B is 'bbb'
 </blockquote>
 
 
-The reason this doesn’t work is that what we’re passing to the Swap function are just a couple of pointers to the memory location that holds the string data “aaa” and “bbb”. <strong>The objects are *not passed by reference*, but rather references to the objects are passed *by value*</strong>.
+The reason this doesn’t work is that what we’re passing to the Swap function are just a couple of pointers to the memory location that holds the string data “aaa” and “bbb”. **The objects are *not passed by reference*, but rather references to the objects are passed *by value***.
 
 
 It seems nitpicky, but it really is important to understanding how this stuff works. Here’s the correct implementation:
@@ -71,12 +71,12 @@ It seems nitpicky, but it really is important to understanding how this stuff wo
     
     Console.WriteLine(<span class="str">&quot;Before Swap: A is '{0}', B is '{1}'&quot;</span>, A, B);
     
-    Swap(<span class="kwrd"><strong>ref</strong></span> A, <span class="kwrd"><strong>ref</strong></span> B);
+    Swap(<span class="kwrd">**ref**</span> A, <span class="kwrd">**ref**</span> B);
     
     Console.WriteLine(<span class="str">&quot;After Swap:  A is '{0}', B is '{1}'&quot;</span>, A, B);
 }
 
-<span class="kwrd">void</span> Swap(<span class="kwrd"><strong>ref</strong></span> <span class="kwrd">string</span> a, <span class="kwrd"><strong>ref</strong></span> <span class="kwrd">string</span> b){
+<span class="kwrd">void</span> Swap(<span class="kwrd">**ref**</span> <span class="kwrd">string</span> a, <span class="kwrd">**ref**</span> <span class="kwrd">string</span> b){
     <span class="kwrd">string</span> tmp = a;
     a = b;
     b = a;
@@ -158,7 +158,7 @@ After Refresh Clear: 123
 </blockquote>
 
 
-Again we see that repointing references that were <strong>passed by value</strong> does not have the desired effect. We could update the first implementation to pass its list as a ref parameter but I discourage that. I like the .Clear approach instead. The reason .Clear/.Add works is that you are working with the right object by the time you start manipulating it. You could also sidestep the whole problem by changing the method name to “Rebuild” and have it *return *a new list.
+Again we see that repointing references that were **passed by value** does not have the desired effect. We could update the first implementation to pass its list as a ref parameter but I discourage that. I like the .Clear approach instead. The reason .Clear/.Add works is that you are working with the right object by the time you start manipulating it. You could also sidestep the whole problem by changing the method name to “Rebuild” and have it *return *a new list.
 
 
 If that’s just crazy and not making any sense to you, I suggest checking out some of the [textbook diagrams](http://www.google.com/images?q=variable%20passing%20reference) that explain this, or read this [excellent post](http://www.yoda.arachsys.com/csharp/parameters.html) by Jon Skeet on the same topic. Both do a far better job at this than me.

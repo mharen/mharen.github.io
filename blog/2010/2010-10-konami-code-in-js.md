@@ -14,7 +14,7 @@ title: The Konami Code In JS
 ---
 
 
-<strong>Goal:</strong> detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do [some research](http://en.wikipedia.org/wiki/Konami_Code). If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.
+**Goal:** detect the Konami code when entered and do something cool. If you're not familiar with the Konami, do [some research](http://en.wikipedia.org/wiki/Konami_Code). If you have no interest in code, you can enter the Konami code on this site, chuckle or balk, and go on about your day.
 
 To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the &quot;something cool&quot;.  <h4>Sequence Detector</h4>
 

@@ -28,7 +28,7 @@ This really lets me focus on the content of the post which is important because 
 
 ![image%5B13%5D.png](image%5B13%5D.png)
 
-<strong>If I had to pick one thing a UI should be to make it good, I think it should be *obvious*.</strong> The UI should be painfully clear about how to do things. For example, in the above image it’s pretty clear how you open a new tab or how you go forwards/backwards when browsing. This goal is supported by Steve Krug’s excellent book *Don’t Make Me Think*:
+**If I had to pick one thing a UI should be to make it good, I think it should be *obvious*.** The UI should be painfully clear about how to do things. For example, in the above image it’s pretty clear how you open a new tab or how you go forwards/backwards when browsing. This goal is supported by Steve Krug’s excellent book *Don’t Make Me Think*:
 <blockquote> 
 
 “Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. When instructions are absolutely necessary, cut them back to the bare minimum.”
@@ -66,10 +66,10 @@ Except it was confusing as hell to my users! I did some accidental usability tes
 
 I thought I was being so clever by letting users “just type away as quickly as they want” (actual quote)—adding, editing, or removing data at any time but I was wrong. I had taken too much away in the name of minimalism. The UI was technically great, but practically not.
 
-<strong>So what did I do? Nothing.</strong> My hallway usability tests didn’t detect anything wrong because I was asking for opinions from developers who watched the UI be born—its behavior was obvious to them. <strong>The people paying for the software loved it</strong>, too, <strong>because I taught them</strong> how to use it each week I demoed my team’s progress—they never experienced a confused moment. The voiceless victims in this game are the end-users and they’re justice sits as an aging, cosmetic, low-priority, never-fix ticket in the bug tracker. 
+**So what did I do? Nothing.** My hallway usability tests didn’t detect anything wrong because I was asking for opinions from developers who watched the UI be born—its behavior was obvious to them. **The people paying for the software loved it**, too, **because I taught them** how to use it each week I demoed my team’s progress—they never experienced a confused moment. The voiceless victims in this game are the end-users and they’re justice sits as an aging, cosmetic, low-priority, never-fix ticket in the bug tracker. 
 
 Here’s what I’d try given the chance. I’d add the familiar (+), (-) buttons to add new rows and remove existing rows. I’d keep the auto-append behavior exactly the same, but I’d add the buttons to help guide the user’s thinking about what’s going on, and to give them something familiar to fall back on if needed. I’d also shade the empty input just slightly to acknowledge that it’s empty. Like this:  
 
 ![image%5B44%5D.png](image%5B44%5D.png)
 
-Then I’d conduct a real usability test with someone who hasn’t seen any part of this to see what they think and <strong>iterate</strong> until it stopped confusing people.
+Then I’d conduct a real usability test with someone who hasn’t seen any part of this to see what they think and **iterate** until it stopped confusing people.

@@ -24,9 +24,9 @@ The second time I just answered a few questions and was on my way.
 
 Sunday was a different story. I was making fantastic time when I crossed the Ambassador bridge. The booth agent didn’t much care for my song and dance around the “w” word and sent me to immigration. The guy there wasn’t too happy to see me either. He asked for my documentation—letter of attestation, college diploma, resume and customer contract—and was disappointed that I wasn’t sure what he was talking about and couldn’t provide any of it. 
 
-I admitted that I had no idea what to do as I’d never provided anything before and asked for suggestions. He thought it’d be wise to call human resources and get a letter that shows that <strong>&quot;there's no one else in Canada that can do what [I] do to work here as a non-Canadian.&quot;</strong>
+I admitted that I had no idea what to do as I’d never provided anything before and asked for suggestions. He thought it’d be wise to call human resources and get a letter that shows that **&quot;there's no one else in Canada that can do what [I] do to work here as a non-Canadian.&quot;**
 
-This was at 10pm on Sunday so that wasn’t going to happen (also, that was impossible—I’m awesome at what I do but not 100% unique, even in Canada). I asked if I was being turned away or if I could figure something out. He replied, “I’m legally required to give you a chance to produce documentation before I turn you away.” <strong>Challenge accepted.</strong>
+This was at 10pm on Sunday so that wasn’t going to happen (also, that was impossible—I’m awesome at what I do but not 100% unique, even in Canada). I asked if I was being turned away or if I could figure something out. He replied, “I’m legally required to give you a chance to produce documentation before I turn you away.” **Challenge accepted.**
 
 I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents:  <ul>   <li>customer contract from my company’s VPN</li>    <li>my college diploma from Dropbox ([referral](http://db.tt/BqdZp7x)!)</li>    <li>my resume from [Stackoverflow Careers](http://careers.stackoverflow.com/haren)</li> </ul>
 
@@ -64,13 +64,13 @@ She asked me a bunch of new questions and genuinely tried to understand exactly 
 
 “Yes, exactly!” (if we were in the 1980s, at least, but the broad strokes were close enough).
 
-<strong>And then my big break</strong>, “OK, Mr. Haren, I’m going to give you the benefit of the doubt here and allow you to enter. Just next time please print the documents before you arrive.” 
+**And then my big break**, “OK, Mr. Haren, I’m going to give you the benefit of the doubt here and allow you to enter. Just next time please print the documents before you arrive.” 
 
 Apparently she didn’t realize I had just gathered/written them minutes before. I was on my way at last! I hopped in my car and sped off, a couple of hours behind schedule. I happily looked up and saw this:
 
 [![Ambassador.jpg](Ambassador.jpg)](http://www.metroscap.com/detroit/533/the-ambassador-bridge.php)
 
-Oh that’s weird, I thought. Then, quite suddenly, I realized this meant <strong>I was headed back into the United States </strong>and shouted a four letter word. I had a decision to make. I could go through customs two more times (and pay the bridge toll twice again, too), or do something very dumb. <strong>I was tired and irritable so I did the latter. </strong>
+Oh that’s weird, I thought. Then, quite suddenly, I realized this meant **I was headed back into the United States **and shouted a four letter word. I had a decision to make. I could go through customs two more times (and pay the bridge toll twice again, too), or do something very dumb. **I was tired and irritable so I did the latter. **
 
 I pulled a u-ey on the bridge. Even in my tiny car it was a three-point turn but I was quick and there wasn’t any traffic. I pulled up to the Canada-booth again and whimpered, “you’re not going to believe this but I was just cleared through immigration and I made a wrong turn.” He glanced at his computer and waved me through (phew!). I quickly got onto the highway (the right one) and eventually arrived (very late) to my hotel.
 

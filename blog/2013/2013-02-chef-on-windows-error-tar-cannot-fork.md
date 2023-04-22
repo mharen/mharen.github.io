@@ -16,7 +16,7 @@ title: 'Chef on Windows Error: tar: Cannot fork: Function not implemented (Solve
 ---
 
 
-I’m [diving into](http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows) the fun world of [Chef](http://www.opscode.com/chef/). But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>knife cookbook site install getting-started</strong>
+I’m [diving into](http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows) the fun world of [Chef](http://www.opscode.com/chef/). But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;**knife cookbook site install getting-started**
 Installing getting-started to C:/Users/mharen/Code/chef-repo/cookbooks
 Checking out the master branch.
 Pristine copy branch (chef-vendor-getting-started) exists, switching to it.
@@ -24,7 +24,7 @@ Downloading getting-started from the cookbooks site at version 0.4.0 to C:/Users
 Cookbook saved: C:/Users/mharen/Code/chef-repo/cookbooks/getting-started.tar.gz
 Removing pre-existing version.
 Uncompressing getting-started version 0.4.0.
-ERROR: Mixlib::ShellOut::ShellCommandFailed: <strong>Expected process to exit with [0], but received '2'</strong>
+ERROR: Mixlib::ShellOut::ShellCommandFailed: **Expected process to exit with [0], but received '2'**
 ---- Begin output of tar zxvf C:/Users/mharen/Code/chef-repo/cookbooks/getting-started.tar.gz ----
 STDOUT:
 STDERR: <strong>tar: Cannot fork: Function not implemented
@@ -33,7 +33,7 @@ STDERR: <strong>tar: Cannot fork: Function not implemented
 Ran tar zxvf C:/Users/mharen/Code/chef-repo/cookbooks/getting-started.tar.gz returned 2
 </pre>
 
-Lame. After wasting an embarrassingly large amount of time on this issue, I figured it out: I had multiple installs of the `tar` command:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;<strong>which -a tar</strong>
+Lame. After wasting an embarrassingly large amount of time on this issue, I figured it out: I had multiple installs of the `tar` command:<pre style="padding-bottom: 10px; padding-left: 10px; padding-right: 10px; padding-top: 10px;">C:\Users\mharen\Code\chef-repo&gt;**which -a tar**
 C:\Program Files (x86)\Gow\bin\tar.EXE
 C:\chef\bin\tar.EXE
 c:\Git\bin\tar.EXE
@@ -79,7 +79,7 @@ Cookbook getting-started version 0.4.0 successfully installed
 
 C:\Users\mharen\Code\chef-repo&gt;</pre>
 
-<strong>All fixed :)</strong>
+**All fixed :)**
 
 ---
 

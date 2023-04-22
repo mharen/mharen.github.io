@@ -15,11 +15,11 @@ title: Truncating the log of a previously replicated database
 ---
 
 
-(The following is specific to <strong>SQL Server 2000</strong> and might not apply to more recent versions.)
+(The following is specific to **SQL Server 2000** and might not apply to more recent versions.)
 
 I occasionally restore production databases to a test system. Normally I just flip the recovery model from full and simple and I’m good to go. Unfortunately, if the database was being replicated it’s not so easy.
 
-Even if you restore the database *without* “KEEP REPLICATION”, which would imply all the replication bits would be cleaned up for you, the transaction log will still have a replication marker that prevents it from being truncated.&#160; <strong>This means the log file, even in “simple” mode, will grow unbounded (not good!).</strong>
+Even if you restore the database *without* “KEEP REPLICATION”, which would imply all the replication bits would be cleaned up for you, the transaction log will still have a replication marker that prevents it from being truncated.&#160; **This means the log file, even in “simple” mode, will grow unbounded (not good!).**
 
 I’m always reminded of this when I try to clean up an ever-growing log with this command:
 <blockquote>   <pre class="csharpcode"><span class="kwrd">BACKUP</span> LOG yourdb <span class="kwrd">WITH</span> TRUNCATE_ONLY</pre>
@@ -77,4 +77,4 @@ sp_replicationdboption <span class="str">'yourdb'</span>,<span class="str">'publ
 </blockquote>
 
 
-Yes, you simply enable replication long enough to clear the marker. This only takes a few seconds as it doesn’t actually generate a new snapshot or anything expensive like that. <strong>Now you’re free to truncate the log!</strong>
+Yes, you simply enable replication long enough to clear the marker. This only takes a few seconds as it doesn’t actually generate a new snapshot or anything expensive like that. **Now you’re free to truncate the log!**

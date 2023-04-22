@@ -12,7 +12,7 @@ title: 'Hyper-V: What are these *.avhd files for? Snapshots? But I have no snaps
 ---
 
 
-(<strong>Note:</strong> [TL;DR](http://www.urbandictionary.com/define.php?term=tl;dr) is at the [bottom](#tldr) in bold.)
+(**Note:** [TL;DR](http://www.urbandictionary.com/define.php?term=tl;dr) is at the [bottom](#tldr) in bold.)
 
 Virtual machines are crazy awesome. One of my favorite features is that you can snapshot a VM at any point and then later roll back the machine to its exact state at that point. The way this is implemented in Hyper-V is with a differencing disk. That is, the VM uses the normal virtual hard drive that you’re probably familiar with—a giant VHD file which represents the VMs disk—and adds another disk on top of that to record any changes to it without affecting the original VHD directly. 
 
@@ -24,13 +24,13 @@ Think of this like layers of transparencies—[remember those](http://en.wikiped
 
 ![mockup%5B4%5D.png](mockup%5B4%5D.png)</a>
 
-<a name="tldr">All that background should help explain why you will find ever-increasing AVHD files on your system if you play around with snapshots.</a> <strong>But why might you find AVHDs if you no longer have any snapshots?</strong></a>  
+<a name="tldr">All that background should help explain why you will find ever-increasing AVHD files on your system if you play around with snapshots.</a> **But why might you find AVHDs if you no longer have any snapshots?**</a>  
 
-<strong>![no-snaps%5B2%5D.png](no-snaps%5B2%5D.png)</strong>  
+**![no-snaps%5B2%5D.png](no-snaps%5B2%5D.png)**  
 
 Consider what you’re asking Hyper-V to do when you remove a snapshot (as opposed to rolling back to it). Since all the changes since the snapshot are literally in a separate file, it must merge the AVHD into the VHD.   
 
-<strong>![shutdown%5B2%5D.png](shutdown%5B2%5D.png)And here’s the rub: Hyper-V will only do a merge when the machine is *shutdown or turned off *</strong>(pausing it isn’t enough). This explains why I found a couple of AVHDs from months ago even though I didn’t have any snapshots—the machine simply hasn’t been completely shutdown in…years (reboots don’t count—Hyper-V won’t merge unless the VM is really off).  
+**![shutdown%5B2%5D.png](shutdown%5B2%5D.png)And here’s the rub: Hyper-V will only do a merge when the machine is *shutdown or turned off ***(pausing it isn’t enough). This explains why I found a couple of AVHDs from months ago even though I didn’t have any snapshots—the machine simply hasn’t been completely shutdown in…years (reboots don’t count—Hyper-V won’t merge unless the VM is really off).  
 
 If your AVHD is big, this will take a long, long time. Fortunately, cleaning up the AVHD files should improve the VM’s disk performance and save the host machine some disk space (50% in my case).   ![merging%5B2%5D.png](merging%5B2%5D.png)
 

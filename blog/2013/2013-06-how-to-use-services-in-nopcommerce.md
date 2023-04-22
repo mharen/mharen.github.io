@@ -16,7 +16,7 @@ title: "How to use services in a NopCommerce Plugin that it doesn\u2019t use by 
 
 Suppose you want to override some behavior in a NopCommerce service via a plugin. You would start by subclassing the service that has the behavior you want to override. But what if your new code requires access to something that the existing service doesn’t know about? 
 
-The answer turns out to be pretty simple: <strong>just add it to your constructor, and the dependency resolver will figure it out for you.</strong> (You don’t need to worry about it.)
+The answer turns out to be pretty simple: **just add it to your constructor, and the dependency resolver will figure it out for you.** (You don’t need to worry about it.)
 
 Here’s an example. I want to override the PictureService. So I started with this:<pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> MyPictureService : PictureService
     {

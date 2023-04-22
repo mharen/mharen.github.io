@@ -30,7 +30,7 @@ Then, a couple weeks later I got this in my email:
 
 It took me a couple seconds to realize what had happened. I apparently wasn’t paying attention to the sign up process because what UPS is doing is notifying me (automatically) whenever *anyone *ships me a package. It matches packages by address and name (multiple names allowed) and lets me know when they’re on their way, if they are delayed, and when they’ve arrived.
 
-This is more than I expected and <strong>it turns out to be pretty much exactly what I want</strong>. In the weeks since, the emails keep coming:
+This is more than I expected and **it turns out to be pretty much exactly what I want**. In the weeks since, the emails keep coming:
 
 ![image%25255B2%25255D.png](image%25255B2%25255D.png)</a>
 

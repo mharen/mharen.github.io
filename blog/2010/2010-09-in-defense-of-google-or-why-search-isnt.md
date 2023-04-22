@@ -27,7 +27,7 @@ Sure, Bing is gorgeous here. However, that’s not what’s important to me. Whe
 
 ![image%5B31%5D.png](image%5B31%5D.png)
 
-<strong>Bing:</strong> 8.18 seconds per load; <strong>Google: </strong>0.75 seconds per load. Admittedly, this is hardly scientific. I’m doing this test from a single laptop, in a single location, tethered through a cell phone. And yet this directly agrees with my experience each time I try Bing (this is not an isolated issue for me). My point is that Google is freaky fast and it’s a worthwhile feature.
+**Bing:** 8.18 seconds per load; **Google: **0.75 seconds per load. Admittedly, this is hardly scientific. I’m doing this test from a single laptop, in a single location, tethered through a cell phone. And yet this directly agrees with my experience each time I try Bing (this is not an isolated issue for me). My point is that Google is freaky fast and it’s a worthwhile feature.
 
 I’d also argue that Google focuses on far more useful features than other services (e.g. relevance) but it’s hard to stay objective on that road.  <h4>Its new Instant Search is Traumatic to the Elderly </h4>
 
@@ -45,7 +45,7 @@ That *would* be frustrating. But that’s not how people use computers. I don’
 
 ![image%5B40%5D.png](image%5B40%5D.png)
 
-In this case, the whole point of Instant Search is that after the query is typed, the results are immediately displayed, as well as a few extra hints in case the user wants to further hone the results by adding “api”, “iphone”, etc. <strong>That’s pretty useful. </strong>
+In this case, the whole point of Instant Search is that after the query is typed, the results are immediately displayed, as well as a few extra hints in case the user wants to further hone the results by adding “api”, “iphone”, etc. **That’s pretty useful. **
 
 As for the flashing screen? I don’t find it bothersome at all—it’s no more abrupt than what happens every time a link is clicked, after all. I’d bet money they had a prototype that animated the transition from empty search box to the results page. I bet it looked awesome, too, but they scrapped it because the animation didn’t add enough value to offset the time wasted waiting for things to slide around.
 

@@ -23,4 +23,4 @@ The highlight of the first night would probably be a crazy old man we ran into a
 
 ![]()You can also read details from legs 1-4 in the [Captain’s Log](http://www.bumboat.com/log/log2006north.htm).
 
-<strong>UPDATE 29SEP06:</strong> The [Captain's Log](http://www.bumboat.com/log/log2006north.htm) has just been updated to include legs 5 (me) and 6.
+**UPDATE 29SEP06:** The [Captain's Log](http://www.bumboat.com/log/log2006north.htm) has just been updated to include legs 5 (me) and 6.

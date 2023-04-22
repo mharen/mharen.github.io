@@ -46,23 +46,23 @@ To the customer, “instantly” is a vague term that is approximately equal to 
 
 I think we need a new scale for talking about such things. I present to you:
 
-<font size="6"><strong>The Four Degrees of Speed</strong>:</font>  <ol style="font-size: 20px; font-weight: bold;">   <li>Google </li>    <li>Text Message </li>    <li>Email </li>    <li>Everything Else </li> </ol>
+<font size="6">**The Four Degrees of Speed**:</font>  <ol style="font-size: 20px; font-weight: bold;">   <li>Google </li>    <li>Text Message </li>    <li>Email </li>    <li>Everything Else </li> </ol>
 
-<strong>I. At Google speed, things happen immediately.</strong> The feedback cycle is so fast it’s comparable to typing on a keyboard—your actions are reflected on the screen without delay. Some sites work very hard to achieve this speed. Facebook is close, but the only one that is consistently fast as all hell (like Google) is [StackOverflow](http://stackoverflow.com/) and its network of [StackExchange sites](http://stackexchange.com/). (NB: I originally called this level “instant message speed”, but that’s actually not consistently fast enough to earn the top spot.)
+**I. At Google speed, things happen immediately.** The feedback cycle is so fast it’s comparable to typing on a keyboard—your actions are reflected on the screen without delay. Some sites work very hard to achieve this speed. Facebook is close, but the only one that is consistently fast as all hell (like Google) is [StackOverflow](http://stackoverflow.com/) and its network of [StackExchange sites](http://stackexchange.com/). (NB: I originally called this level “instant message speed”, but that’s actually not consistently fast enough to earn the top spot.)
 
 It’s important to note that many people who have underpowered, spyware-infested PCs *never reach this speed*. These people usually hate computers because all they know are bad, slow computers. To them, launching a picture from their local hard drive takes 15 seconds, which brings us to level 2: text message speed.
 
-<strong>II. Text Message </strong>speed is anything that takes about 10-20 seconds. If you text someone, you know you’ve got at least 30 seconds before you hear back. I think this is the level that most people expect “real-time” applications to operate in.
+**II. Text Message **speed is anything that takes about 10-20 seconds. If you text someone, you know you’ve got at least 30 seconds before you hear back. I think this is the level that most people expect “real-time” applications to operate in.
 
-<strong>III. Email speed</strong> is anything that takes a minute or two. This is long enough that you might take a break from whatever you’re doing instead of hitting “refresh” a million times. It’s also the most inconsistent—no one’s all that surprised when an email that usually arrives promptly takes an hour or more to show up.
+**III. Email speed** is anything that takes a minute or two. This is long enough that you might take a break from whatever you’re doing instead of hitting “refresh” a million times. It’s also the most inconsistent—no one’s all that surprised when an email that usually arrives promptly takes an hour or more to show up.
 
-<strong>IV.</strong> Finally, there’s <strong>everything else speed</strong>. This includes daily builds or overnight batch jobs. These are things like newsletters that go out once a day or physical things you put in mailboxes. It could also be a large file download. If it takes more than a few minutes, it might as well take a few hours or days.
+**IV.** Finally, there’s **everything else speed**. This includes daily builds or overnight batch jobs. These are things like newsletters that go out once a day or physical things you put in mailboxes. It could also be a large file download. If it takes more than a few minutes, it might as well take a few hours or days.
 
 ![image%5B17%5D.png](image%5B17%5D.png)
 
 This has a lovely logarithmic quality about it, doesn’t it?
 
-If it’s not already obvious, the reason it’s so important that everyone be at the same level in conversation is that <strong>the cost of speed is substantial</strong>, especially at level one. <strong>If being crazy fast was easy, everyone would do it.</strong>
+If it’s not already obvious, the reason it’s so important that everyone be at the same level in conversation is that **the cost of speed is substantial**, especially at level one. **If being crazy fast was easy, everyone would do it.**
 
 ---
 

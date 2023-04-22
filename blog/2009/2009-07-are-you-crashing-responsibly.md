@@ -40,13 +40,13 @@ First, blame yourself, not the user. It’s usually not their fault something we
 
 &#160;![gooderrorpage7.png](gooderrorpage7.png) 
 
-Obviously [Lolcats](http://icanhascheezburger.com/) won’t work in some professional environments but the message certainly would: <strong>This is our fault and we’re on it.</strong> Here’s a less adorable mockup I made recently for a corporate project (thanks to [Balsamiq mockups](http://www.balsamiq.com/products/mockups/examples), a sweet mockup maker):  
+Obviously [Lolcats](http://icanhascheezburger.com/) won’t work in some professional environments but the message certainly would: **This is our fault and we’re on it.** Here’s a less adorable mockup I made recently for a corporate project (thanks to [Balsamiq mockups](http://www.balsamiq.com/products/mockups/examples), a sweet mockup maker):  
 
 ![ErrorPageMockup.png](ErrorPageMockup.png) 
 
 It’s clear and simple and better than what this program does today (hint: nothing!). It could still be improved, though. For example, I still think it’s a little busy. I could that by moving the “Your info” box after the “Please follow up with me” checkbox so that it’s only displayed/completed if the user actually wants a follow up. I could also make it more clear that they don’t have to submit this at all—we capture the automatic stuff before this page is even displayed.
 
-Secondly (perhaps obvious): make sure your error handler actually handles all your errors! It’s no good otherwise. The best way to get on this path is to make sure existing bugs are handled well <strong>before</strong> you fix them. After you fix the bug, you can’t tell if the error handler is working (and it *will *be needed again).
+Secondly (perhaps obvious): make sure your error handler actually handles all your errors! It’s no good otherwise. The best way to get on this path is to make sure existing bugs are handled well **before** you fix them. After you fix the bug, you can’t tell if the error handler is working (and it *will *be needed again).
 
 You can be proactive, too and fail intentionally to see how your app handles it. For example, in each layer of your n-tiered app, you can toss in random exceptions. Add a 1/0 here, a SQL error in a stored procedure there, and some null references over all and see what happens. If this causes your app to burst into flames (e.g. majorly screw up the database because you’re not using transactions, etc.), you now have some important things to fix and an easy to reproduce problem you can use to verify your fixes.
 

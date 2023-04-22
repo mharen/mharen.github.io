@@ -25,7 +25,7 @@ I have a final, challenging problem: I have to *focus* when I’m cooking (or do
 
 These issues lead right into the root cooking-related problem in our house right now: I can’t cook *with *Wife. Either we get to talking and then I screw up whatever it was I was supposed to be doing, or she has so many changes to a recipe that we no longer really have a recipe on paper (it’s in her head) and I can’t cook it.
 
-<strong>But I have a solution.</strong>
+**But I have a solution.**
 
 I plan and prepare to the point that it’s almost silly. This means I refuse to make anything unless I have a recipe. I read the recipe. I *understand *the recipe. I am one with the recipe. We’re BFFs.
 
@@ -43,7 +43,7 @@ Suppose we’re having steak and baked potatoes. This is a cake walk for most pe
 
 This approach yields one other awesome benefit aside from helping dinner hit the table on-time and at the right temperature: it’s stress free. I just follow my timeline and don’t worry about what I might be missing. When I finish a task, I just set a timer to go off for when I need to start the next step so I can safely zone out on something else (e.g. after “set table”, set timer for “7:40”).
 
-<strong>In summary: plan, portion, plan, execute. </strong>
+**In summary: plan, portion, plan, execute. **
 
 Oh, and I drink while I cook. Happy eating.
 

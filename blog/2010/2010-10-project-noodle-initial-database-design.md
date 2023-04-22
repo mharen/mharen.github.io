@@ -13,7 +13,7 @@ time_to_read: 5
 title: 'Project Noodle: Initial Database Design'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> If you are disoriented, you might want to [browse more posts](http://blog.wassupy.com/search/label/Project%20Noodle) about this project</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** If you are disoriented, you might want to [browse more posts](http://blog.wassupy.com/search/label/Project%20Noodle) about this project</div>
 
 First off: this will change as I go.
 

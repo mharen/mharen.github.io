@@ -24,7 +24,7 @@ What’s the worse that could happen? It’s not like it can’t be amended, rep
 All along I’ve maintained a much simpler view of this whole healthcare issue:
 <blockquote> 
 
-<strong>The insured pay for the freeloaders already through higher premiums, obscene costs, and taxes. Why not make it official and get some benefits ourselves?</strong>
+**The insured pay for the freeloaders already through higher premiums, obscene costs, and taxes. Why not make it official and get some benefits ourselves?**
 </blockquote>
 
 BTW: I’m posting this [from a friggin airplane](http://twitter.com/mharen/status/10699650341).

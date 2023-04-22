@@ -18,7 +18,7 @@ With all the Word automation stuff I’ve been working through, it was nice to f
 Then, to start new docs from this, just include it in the <code>.Add()</code> call:  <pre class="csharpcode">WordApp = <span class="kwrd">new</span> Application();
 
 <span class="rem">// open the template as a new doc</span>
-var Doc = WordApp.Documents.Add(<strong>PathToTemplateFile</strong>);</pre>
+var Doc = WordApp.Documents.Add(**PathToTemplateFile**);</pre>
 
 
 Easy does it.

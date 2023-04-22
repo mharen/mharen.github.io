@@ -18,13 +18,13 @@ title: How Buying or Selling a House in a Single Day Could Work
 [Previously](../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html) I discussed why I think the real estate transactions are handled is headed for major change:
 <blockquote> 
 
-<strong>The market is craving disruption (Zillow was just the beginning).</strong> It is bloated with a surplus of homes and sellers everywhere are anxious…
+**The market is craving disruption (Zillow was just the beginning).** It is bloated with a surplus of homes and sellers everywhere are anxious…
 </blockquote>
 
 And,
 <blockquote> 
 
-<strong>…we’re talking about big money.</strong> The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
+**…we’re talking about big money.** The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
 </blockquote>
 
 Head [back there](../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html) for a bit more explanation if you aren’t convinced the way we do this now is awful.
@@ -45,7 +45,7 @@ The harder part is figuring out if you can afford the payment. But even that’s
 
 Then of course the trick to buying a car in a few hours is to put all the people needed to do it in the same building: sales, title, financing<sup id="sup3-20121106">[3](#foot3-20121106)</sup>, etc. There’s no reason that we couldn’t buy houses the same way. A home mortgage has the same requirements and the solutions to satisfy those requirements are similar. 
 
-<strong>I think the reason buying a house takes so long is that there are several parties involved, each with a thin slice of responsibility, and each with their own schedules. </strong>There are two ways to fix that for each milestone in the home buying process.
+**I think the reason buying a house takes so long is that there are several parties involved, each with a thin slice of responsibility, and each with their own schedules. **There are two ways to fix that for each milestone in the home buying process.
 
 First, you could do lots of things in advance. For instance, if I’m buying a house, the bank typically orders an appraisal of the property you are interested in. This typically takes a few days or up to a week. But why not just let the seller order an appraisal? The mortgage people would have to adjust their policies slightly to accept existing appraisals but that’s achievable (for instance, a bank could accept appraisals done by those with certain certifications, and for certain periods of time, say 90-180 days of validity).
 
@@ -55,9 +55,9 @@ Similarly, buyers could do much of their share of the work in advance, too. This
 
 The second way you could address some of the milestones is to provide those services on demand, rapidly. For instance, a “fast track” team could show up on demand with all the people, equipment, and documents needed to complete a transaction. They could charge a premium for the convenience, but as I discussed yesterday, there’s plenty of money to go around. This might be a successful approach, but I think the first strategy is better so I’ll describe a way it could play out.  <h3 id="enough-already">OK ENOUGH ALREADY! HOW WOULD IT WORK?</h3>
 
-<strong>Suspend your disbelief and imagine the following scenario.</strong> Suppose you are a “fast track” buyer looking to buy a “fast track” house. Further imagine that “fast track” is a thing that’s been around a while and is quite popular. In this fantasy, “fast track” means that a home or buyer has been certified by some group or company to carry the “fast track” logo, indicating that they’ve met some important criteria.
+**Suspend your disbelief and imagine the following scenario.** Suppose you are a “fast track” buyer looking to buy a “fast track” house. Further imagine that “fast track” is a thing that’s been around a while and is quite popular. In this fantasy, “fast track” means that a home or buyer has been certified by some group or company to carry the “fast track” logo, indicating that they’ve met some important criteria.
 
-<strong>So there you are,</strong> driving to your future home. You already know the house you want because you found it online and went through the virtual tours 42 times and drive by it 42 times more. At the appointed time, you meet the owner (or his/her representative) to tour the property (perhaps for the second, third, or fourth time). The owner has already moved out. This is going to be cake.
+**So there you are,** driving to your future home. You already know the house you want because you found it online and went through the virtual tours 42 times and drive by it 42 times more. At the appointed time, you meet the owner (or his/her representative) to tour the property (perhaps for the second, third, or fourth time). The owner has already moved out. This is going to be cake.
 
 Since it’s a certified “fast track” home, you’ve already reviewed the property/pest inspection and appraisal online. 
 
@@ -81,7 +81,7 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 (Of course the above scenario could be modified to include common contingencies like date of possession, chattel, repairs, a cooling off period, etc.)
 
-<strong>It will take a lot of baby steps to get there, but get there we will and it’ll happen sooner than you think. (And some organizations will make a killing *while bringing down the transaction costs of real estate for everyone*.)</strong>  <hr />
+**It will take a lot of baby steps to get there, but get there we will and it’ll happen sooner than you think. (And some organizations will make a killing *while bringing down the transaction costs of real estate for everyone*.)**  <hr />
 
 <sup id="foot1-20121106">[1](#sup1-20121106)</sup>$667/month would pay for a 40,000 figuring a 60 month loan with 0% APR (a popular thing now), excl. insurance, taxes, maintenance, etc.     
 

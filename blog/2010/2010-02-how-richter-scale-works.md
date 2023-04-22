@@ -16,7 +16,7 @@ title: How the Richter Scale Works
 I saw [this headline](http://www.examiner.com/x-4454-Geopolitics-Examiner~y2010m2d28-Chiles-earthquake-500-times-stronger-yet-less-destructive-than-Haitis-Photos):
 <blockquote> 
 
-<strong>Chile’s earthquake 500 times stronger yet less destructive than Haiti’s</strong>
+**Chile’s earthquake 500 times stronger yet less destructive than Haiti’s**
 </blockquote>
 
 and started wondering: how Chile’s quake could be 500x as powerful as Haiti’s when their respective Richter scale magnitudes are 8.8 vs. 7.0? The “less destructive” part is interesting, too, but everyone’s already talking about that so I’ll focus on the scale.
@@ -29,7 +29,7 @@ Well, that’s not very revealing until you realize that the *x*-axis is increas
 
 &#160;![image%5B8%5D.png](image%5B8%5D.png)
 
-Now we’re talking. Each increment on the *y*-axis is a <strong>10x </strong>increment on the y-axis. i.e. 8 is 10x greater in magnitude than a 7:
+Now we’re talking. Each increment on the *y*-axis is a **10x **increment on the y-axis. i.e. 8 is 10x greater in magnitude than a 7:
 <blockquote> 
 
 10<sup>8</sup>/10<sup>7</sup> = 10</sup></sup>
@@ -44,7 +44,7 @@ So it follows then that an 8.8 (Chile) vs. 7.0 (Haiti) would be:
 Thus an 8.8 is 63 times greater in magnitude than a 7. Wow. OK so how do we get to 500x more destructive? It would seem that the news is using a different factor: energy. I didn’t dig into all the math behind it but the [gist of it](http://en.wikipedia.org/wiki/Richter_magnitude_scale#Richter_magnitudes) seems to be that while the Richter scale measures raw amplitude of the little pencil on the paper wheel/strip triggered by the earthquake's waves, the actual energy factor is much higher than 10:
 <blockquote> 
 
-Because of the logarithmic basis of the scale, each whole number increase in magnitude represents a tenfold increase in measured amplitude; in terms of energy, each whole number increase corresponds to an <strong>increase of about 31.6 times</strong> the amount of energy released.
+Because of the logarithmic basis of the scale, each whole number increase in magnitude represents a tenfold increase in measured amplitude; in terms of energy, each whole number increase corresponds to an **increase of about 31.6 times** the amount of energy released.
 </blockquote>
 
 So I guess the news people are applying this to the log scale with a *base of 31.6 instead of 10*. Let’s check:

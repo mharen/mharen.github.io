@@ -67,7 +67,7 @@ I used some removable sticky-tack for the board (sorry for the poor photo), and 
 
 I recommend something other than tape. It looks awful.
 
-<strong>UPDATE (17-Nov-12)!</strong> I couldn’t stand how terrible the tape looked so I tried something a little different today:
+**UPDATE (17-Nov-12)!** I couldn’t stand how terrible the tape looked so I tried something a little different today:
 
 ![2012-11-17%25252011.42.26%25255B3%25255D.jpg](2012-11-17%25252011.42.26%25255B3%25255D.jpg)
 

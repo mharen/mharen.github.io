@@ -20,31 +20,31 @@ We first knew something was wrong when kids were coloring and Sister reported th
 Even though she wasn’t actually very upset we consoled her anyway and cleaned her up. In the process I think we got more muck on us than on she had on her.
 <blockquote> 
 
-<strong>Result:</strong> laundry (clothes)
+**Result:** laundry (clothes)
 </blockquote>
 
 While a tad apprehensive with Thing2’s request, Wife agreed to nurse her. The reasoning was something along the lines of this: maybe it was a fluke, maybe some miracle food will calm her stomach, and certainly nourishment is needed. Before nursing could commence, but immediately after someone said something regrettable like “we should probably put down the waterproof pad on the bed before…” exactly what you’d expect to happen at this point happened. All over the bed.
 <blockquote> 
 
-<strong>Result:</strong> more laundry (clothes, blanket, comforter, mattress cover)
+**Result:** more laundry (clothes, blanket, comforter, mattress cover)
 </blockquote>
 
 Now we were getting a little concerned about dehydration (Thing2’s tiny and can’t afford to lose too much) so drinking or nursing is becoming a priority. Luckily she is all for it and nurses to sleep on the couch. Sometime later, missing the signs (a suddenly awake, burpy toddler), it happens again.
 <blockquote> 
 
-<strong>Result: </strong>more laundry (clothes, blanket)
+**Result: **more laundry (clothes, blanket)
 </blockquote>
 
-<strong>![IMG_20110123_173436%5B11%5D.jpg](IMG_20110123_173436%5B11%5D.jpg)</strong>We cleaned up Thing2 and got her back to sleep while Wife dealt with the concentrated evil that was soaking in to her clothes. After some work, she went down for a nice nap. Until she did the most obvious thing ever: threw up again. 
+**![IMG_20110123_173436%5B11%5D.jpg](IMG_20110123_173436%5B11%5D.jpg)**We cleaned up Thing2 and got her back to sleep while Wife dealt with the concentrated evil that was soaking in to her clothes. After some work, she went down for a nice nap. Until she did the most obvious thing ever: threw up again. 
 <blockquote> 
 
-<strong>Result:</strong> more laundry (clothes, blanket)
+**Result:** more laundry (clothes, blanket)
 </blockquote>
 
 We cleaned her up again and she fell back asleep. I was still holding her a while later when I recognized the signs. I managed to help Thing2 lose another helping of food on the nonporous wood floor.
 <blockquote> 
 
-<strong>Result:</strong> more laundry (just towels—a relative victory!)
+**Result:** more laundry (just towels—a relative victory!)
 </blockquote>
 
 We rinsed her mouth out again and changed her diaper for the fifteenth time and our stinky day began to improve. Thing2 managed to keep her food down and, manifested her sickness mostly by being especially cuddly and passive – traits I’m sure she inherited from me.
@@ -52,7 +52,7 @@ We rinsed her mouth out again and changed her diaper for the fifteenth time and 
 We were feeling a bit worn out so we indulged in a family nap. It was an epic three hours of amazing sleep for all of us. We were waking up gradually with the kiddos. They tumbled around playfully when we realized that Thing2 was smelly in a new way. She has filled her diaper with something sinister and it hadn’t been…contained.
 <blockquote> 
 
-<strong>Result:</strong> more laundry (comforter #2, sheets, clothes)
+**Result:** more laundry (comforter #2, sheets, clothes)
 </blockquote>
 
 Fortunately, though, vomit was no more. She was apparently keeping down her food and producing the most vial, awful, incredibly toxic diapers I’ve ever changed; the kind that go straight to the outdoor can. I’m contemplating a sympathy card to the sanitation department.

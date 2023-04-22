@@ -29,7 +29,7 @@ I don’t think that’s it, though. I think they really do it just to promote t
 
 That’s all good stuff. 
 
-<strong>But there’s something bad </strong>sweeping in under the name of “[add-on items](http://www.amazon.com/gp/help/customer/display.html?nodeId=200876660)”. 
+**But there’s something bad **sweeping in under the name of “[add-on items](http://www.amazon.com/gp/help/customer/display.html?nodeId=200876660)”. 
 
 ![add-item%25255B2%25255D.jpg](add-item%25255B2%25255D.jpg)
 
@@ -45,11 +45,11 @@ I actually believe some of the explanation they’re giving for this:
 The new Add-on program allows Amazon to offer thousands of items at a low price point that would be cost-prohibitive to ship on their own.
 </blockquote>
 
-But it doesn’t matter. <strong>This is still aggravating in a bizarrely visceral way.</strong> To me, the Amazon I love doesn’t play games like this. They ship all kinds of wacky stuff for free and we love them for it. They make bazillions of dollars because of their scale and we love them all the more for eating a couple of bucks here or there when we order a tube of toothpaste and nothing else. 
+But it doesn’t matter. **This is still aggravating in a bizarrely visceral way.** To me, the Amazon I love doesn’t play games like this. They ship all kinds of wacky stuff for free and we love them for it. They make bazillions of dollars because of their scale and we love them all the more for eating a couple of bucks here or there when we order a tube of toothpaste and nothing else. 
 
 But now it feels like they’ve found a loophole. And it sucks. And I feel even more awful for complaining about it because it’s truly absurd that we have Amazon at all and even more so that I’m ranting over this first world problem if ever there was one.
 
-<strong>This brings me to the ugly.</strong>
+**This brings me to the ugly.**
 
 There are an increasingly large number of stories out there about the perils of working for huge retailers like Amazon. For instance, I recommend [this fascinating tale](http://www.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor) of what it’s like to work as a picker in a giant warehouse by Mac McClelland of MotherJones:
 <blockquote> 

@@ -27,7 +27,7 @@ One hallmark difference between the Android platform and iPhone is the obvious f
 
 Notice the button arrangements, read from left to right:  <table border="0" cellpadding="2" cellspacing="0" nowrap="nowrap" style="border-bottom: #ddd 1px solid; border-left: #ddd 1px solid; margin: 0px auto; border-top: #ddd 1px solid; border-right: #ddd 1px solid;" width="50%"><tbody>     <tr>       <td nowrap="nowrap">Moto Droid 2</td>        <td nowrap="nowrap">![droid-incredible-sold-out%5B3%5D%5B6%5D.jpg](droid-incredible-sold-out%5B3%5D%5B6%5D.jpg)</td>        <td nowrap="nowrap">&#160;</td>        <td nowrap="nowrap">Home</td>        <td nowrap="nowrap">Menu</td>        <td nowrap="nowrap">Back</td>        <td nowrap="nowrap">Search</td>     </tr>   </tbody></table>
 
-This is crazy—the four standard buttons should <strong>always</strong> be in the same order. This is a pretty basic UI guideline that I am surprised wasn’t mandated in the Android licensing. There may very well be other combinations out there, too—these are just the first four phones I thought of. This comes 
+This is crazy—the four standard buttons should **always** be in the same order. This is a pretty basic UI guideline that I am surprised wasn’t mandated in the Android licensing. There may very well be other combinations out there, too—these are just the first four phones I thought of. This comes 
 
 I’m not using this as an argument against buttons—just against different orderings. I like the four that I have and prefer this to the iPhone’s very adequate and acceptable single button. 
 

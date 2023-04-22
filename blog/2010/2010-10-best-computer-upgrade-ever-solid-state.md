@@ -34,7 +34,7 @@ Just for kicks, I repeated the test again today (1 year later) and got similar (
 
 ![image%5B4%5D.png](image%5B4%5D.png)
 
-<strong>In summary, I went from crappy {iops, mb/s, ms} to *zomg! *{iops, mb/s, ms}. </strong>
+**In summary, I went from crappy {iops, mb/s, ms} to *zomg! *{iops, mb/s, ms}. **
 
 Interested? The good news for you is that these puppies are faster and even more affordable today. Shop around and check the latest benchmarks to see what models are the best (this info changes so often that I’m not linking to anything specific).
 

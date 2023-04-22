@@ -20,49 +20,49 @@ This is all from my perspective, and is meant to complement whatever Wife may wr
 
 *(Times are approximate.)*
 
-<strong>5:00 am </strong>I notice Wife is missing. She’s in the shower or something. Unusual but not alarming.
+**5:00 am **I notice Wife is missing. She’s in the shower or something. Unusual but not alarming.
 
-<strong>5:30 </strong>Wife is cleaning. Uh oh.
+**5:30 **Wife is cleaning. Uh oh.
 
-<strong>6:15 </strong>Wife wakes me up. Even in my zombie morning state it’s obvious what’s about to happen. I somehow discern that nothing is imminent and am graciously awarded time for a shower. I shower, dress and organize the birth supplies.
+**6:15 **Wife wakes me up. Even in my zombie morning state it’s obvious what’s about to happen. I somehow discern that nothing is imminent and am graciously awarded time for a shower. I shower, dress and organize the birth supplies.
 
 ![2011-08-17%252520at%25252006-03-36%25255B8%25255D.jpg](2011-08-17%252520at%25252006-03-36%25255B8%25255D.jpg)
 
-<strong>6:30</strong> I come downstairs to find BirthTeam assembling. I guess they were called before I was woken. I should probably be surprised by this but it was a good call. The kids are sound asleep.
+**6:30** I come downstairs to find BirthTeam assembling. I guess they were called before I was woken. I should probably be surprised by this but it was a good call. The kids are sound asleep.
 
 ![2011-08-17%252520at%25252006-03-41%25255B4%25255D.jpg](2011-08-17%252520at%25252006-03-41%25255B4%25255D.jpg)
 
-<strong>6:30</strong> Midwife is put on alert that there’s a good chance it’s about to get real.
+**6:30** Midwife is put on alert that there’s a good chance it’s about to get real.
 
-<strong>6:45</strong> I decode Wife’s signals and decide to call in Midwife (it’s real). Contractions are 3-4 minutes apart.
+**6:45** I decode Wife’s signals and decide to call in Midwife (it’s real). Contractions are 3-4 minutes apart.
 
-<strong>7:00</strong> Wife labors with grace and wonder through increasingly intense contractions for about an hour. Just when she starts getting anxious about Midwife, Midwife arrives.
+**7:00** Wife labors with grace and wonder through increasingly intense contractions for about an hour. Just when she starts getting anxious about Midwife, Midwife arrives.
 
 ![2011-08-17%252520at%25252006-05-18%25255B4%25255D.jpg](2011-08-17%252520at%25252006-05-18%25255B4%25255D.jpg)  
 
-<strong>8:00</strong> Contractions slow just slightly at the good news that Midwife is here. I encourage Wife to walk and we start wandering around the neighborhood. Each contraction (about every 5 minutes) produces an interesting scene that must be confusing to our neighbors. It goes like this: wife will lean on me, or the ground and I’ll hold a long warm rice sock<sup>[[1]](#note-1" name="note-1-source)</sup> low across her belly while she whispers<sup>[[2]](#note-2" name="note-2-source)</sup> sweet labor sounds to the heavens.
+**8:00** Contractions slow just slightly at the good news that Midwife is here. I encourage Wife to walk and we start wandering around the neighborhood. Each contraction (about every 5 minutes) produces an interesting scene that must be confusing to our neighbors. It goes like this: wife will lean on me, or the ground and I’ll hold a long warm rice sock<sup>[[1]](#note-1" name="note-1-source)</sup> low across her belly while she whispers<sup>[[2]](#note-2" name="note-2-source)</sup> sweet labor sounds to the heavens.
 
 Thing 1 and Thing 2 wake up.
 
-<strong>9:00</strong> Contractions are back to about three minutes apart and are now too difficult to talk during. Wife spends most of her time resting or enduring contractions on the birth ball.
+**9:00** Contractions are back to about three minutes apart and are now too difficult to talk during. Wife spends most of her time resting or enduring contractions on the birth ball.
 
 ![2011-08-17%252520at%25252006-03-34%25255B9%25255D.jpg](2011-08-17%252520at%25252006-03-34%25255B9%25255D.jpg)
 
 Every 15 minutes or so she escapes alone to the bathroom for five minutes, which gives me a chance to check on BirthTeam, my other kiddos, play Words with Friends, update my out of office status, eat breakfast, etc. So far this labor has been so easy for me that I start to feel guilty.
 
-<strong>9:30</strong> Wife is no longer amused at any of my jokes. Others pick up on this via some sort of XX-chromosome-pair-linked telepathy but wife takes pity on me and suggests, quite directly, that I stop talking. We’ve run out of small talk and we’re both pretty tired so this is convenient. Wife starts eyeing the tub.
+**9:30** Wife is no longer amused at any of my jokes. Others pick up on this via some sort of XX-chromosome-pair-linked telepathy but wife takes pity on me and suggests, quite directly, that I stop talking. We’ve run out of small talk and we’re both pretty tired so this is convenient. Wife starts eyeing the tub.
 
 ![2011-08-17%252520at%25252006-05-23%25255B4%25255D.jpg](2011-08-17%252520at%25252006-05-23%25255B4%25255D.jpg)
 
-<strong>10:00</strong> In the tub! Our last child, Thing 2, was born in a high-sided baby pool in the master bedroom at our old house. Luckily, our new house has a tub big enough for the job. The tub is seems to offer great relief to Wife. Midwife continues to check on her and give her encouragement on how to keep labor moving. Contractions maintain pace and increase in intensity. With help from BirthTeam, I’m able to stay planted by the tub and apply a steady stream of cold cloths to Wife’s forehead with each contraction. The kids make frequent tub-side visits to inquire quite candidly on the whereabouts of the baby, and remark about the whole you’re-in-the-bathtub(!) situation.
+**10:00** In the tub! Our last child, Thing 2, was born in a high-sided baby pool in the master bedroom at our old house. Luckily, our new house has a tub big enough for the job. The tub is seems to offer great relief to Wife. Midwife continues to check on her and give her encouragement on how to keep labor moving. Contractions maintain pace and increase in intensity. With help from BirthTeam, I’m able to stay planted by the tub and apply a steady stream of cold cloths to Wife’s forehead with each contraction. The kids make frequent tub-side visits to inquire quite candidly on the whereabouts of the baby, and remark about the whole you’re-in-the-bathtub(!) situation.
 
 Midwife occasionally adds a few drops of lavender essential oils to the tub. The atmosphere is tense but the room smells nice.
 
 ![2011-08-17%252520at%25252010-09-43%25255B4%25255D.jpg](2011-08-17%252520at%25252010-09-43%25255B4%25255D.jpg)
 
-<strong>*(If you’re not the slightest bit familiar with birth, you might want to stop reading now. Fair warning...this may be considered graphic)*</strong>
+***(If you’re not the slightest bit familiar with birth, you might want to stop reading now. Fair warning...this may be considered graphic)***
 
-<strong>12:00 pm</strong> Things are pretty intense now. Wife is making some sounds that are drawing a crowd of younglings. With the beginning of each contraction they creep closer and then lean back in surprise as volume peaks. I wish I had pictures of their faces—truly priceless. Around this time, Wife is not getting the overwhelming sense that things are progressing as smoothly or rapidly as expected and asks Midwife to check her cervix.
+**12:00 pm** Things are pretty intense now. Wife is making some sounds that are drawing a crowd of younglings. With the beginning of each contraction they creep closer and then lean back in surprise as volume peaks. I wish I had pictures of their faces—truly priceless. Around this time, Wife is not getting the overwhelming sense that things are progressing as smoothly or rapidly as expected and asks Midwife to check her cervix.
 
 ![2011-08-17%252520at%25252010-09-50%25255B4%25255D.jpg](2011-08-17%252520at%25252010-09-50%25255B4%25255D.jpg)
 
@@ -70,11 +70,11 @@ Midwife reports that the baby’s head is pretty much ready to crown but somethi
 
 We carefully help Wife to the bed which is already doubly made up with regular fixings under a patented, quadruple layer fluid guard spread<sup>[[3]](#note-3" name="note-3-source)</sup>—the usefulness of this will become obvious quite soon.
 
-<strong>12:05</strong> With the move to the bed complete, the real action begins. I’m starting to wonder if the neighbors will hear the goings on and what they might do in response. Midwife continues to monitor the baby periodically via doppler and we’re all feeling a bit tense at the difficulty in finding his heart rate. Wife is growing particularly anxious. I am scared, too, but like a rock (in my head at least), insist Baby’s fine and we’ll meet him soon. Midwife offers some encouragement to push with the next contraction and Wife complies in dramatic fashion.
+**12:05** With the move to the bed complete, the real action begins. I’m starting to wonder if the neighbors will hear the goings on and what they might do in response. Midwife continues to monitor the baby periodically via doppler and we’re all feeling a bit tense at the difficulty in finding his heart rate. Wife is growing particularly anxious. I am scared, too, but like a rock (in my head at least), insist Baby’s fine and we’ll meet him soon. Midwife offers some encouragement to push with the next contraction and Wife complies in dramatic fashion.
 
-<strong>12:07</strong> What happens next is delicately noted on the birth report as “12:07: SROM”—or spontaneous rupture of membranes, i.e. water breaks on its own. What really happens is...messy. During a particularly difficult contraction the bag of waters does rupture, in seriously unexpected geyser fashion<sup>[[4]](#note-4" name="note-4-source)</sup>.
+**12:07** What happens next is delicately noted on the birth report as “12:07: SROM”—or spontaneous rupture of membranes, i.e. water breaks on its own. What really happens is...messy. During a particularly difficult contraction the bag of waters does rupture, in seriously unexpected geyser fashion<sup>[[4]](#note-4" name="note-4-source)</sup>.
 
-<strong>12:10</strong> Within moments of the explosive delivery of fluid, Baby’s head, full of hair, starts crowning. With some gentle guidance from Midwife, and another push, his head comes through. One final push and he fully emerges, followed by another surprising volume of fluid.
+**12:10** Within moments of the explosive delivery of fluid, Baby’s head, full of hair, starts crowning. With some gentle guidance from Midwife, and another push, his head comes through. One final push and he fully emerges, followed by another surprising volume of fluid.
 
 [![pirate%252520flush%25255B5%25255D.png](pirate%252520flush%25255B5%25255D.png)](http://www.veggiepirates.com/)
 
@@ -124,7 +124,7 @@ Everyone—Wife, me, Midwife, BirthTeam and assorted kiddos—spend the rest of 
 
 ![2011-08-17%252520at%25252014-05-17%25255B4%25255D.jpg](2011-08-17%252520at%25252014-05-17%25255B4%25255D.jpg)
 
-<strong>1:00</strong> Still high on the experience of meeting Baby, we are ridiculously excited about everything. Use the bathroom for the first time postpartum? OmgHellYesCanIHoldBabyDuring? BirthTeam friends give us some space to soak it all in. Midwife brings Wife an impressive lunch spread (now that she’s eating again) and gives her a quick exam.
+**1:00** Still high on the experience of meeting Baby, we are ridiculously excited about everything. Use the bathroom for the first time postpartum? OmgHellYesCanIHoldBabyDuring? BirthTeam friends give us some space to soak it all in. Midwife brings Wife an impressive lunch spread (now that she’s eating again) and gives her a quick exam.
 
 ![2011-08-17%252520at%25252011-33-24%25255B5%25255D.jpg](2011-08-17%252520at%25252011-33-24%25255B5%25255D.jpg)
 
@@ -138,7 +138,7 @@ Midwife weighs and measures Baby (7lb-9oz, 20.5”). She gives us a few final in
 
 ![2011-08-17%252520at%25252012-39-06%25255B10%25255D.jpg](2011-08-17%252520at%25252012-39-06%25255B10%25255D.jpg)
 
-<strong>2:00</strong> BirthTeam friends gather up offspring, wish us well, and leave. Midwife fills out Baby’s certificate (he’s still unnamed), and leaves (she’ll return tomorrow for a follow up). I see everyone off and discover that they have been busy caring for not just our children but our home. BirthTeam friends and Midwife have done laundry, dishes, and cleaned our bathroom. They even baked Baby a birthday cake! These touching gifts are so, so appreciated as the house falls quiet<sup>[[7]](#note-7" name="note-7-source)</sup>.
+**2:00** BirthTeam friends gather up offspring, wish us well, and leave. Midwife fills out Baby’s certificate (he’s still unnamed), and leaves (she’ll return tomorrow for a follow up). I see everyone off and discover that they have been busy caring for not just our children but our home. BirthTeam friends and Midwife have done laundry, dishes, and cleaned our bathroom. They even baked Baby a birthday cake! These touching gifts are so, so appreciated as the house falls quiet<sup>[[7]](#note-7" name="note-7-source)</sup>.
 
 Wife and Baby settle in for a nap and I take the noisemakers, Thing 1 and Thing 2, to the store to pick up a few things but really just to make the house quiet and give the new big sisters some much needed attention.
 

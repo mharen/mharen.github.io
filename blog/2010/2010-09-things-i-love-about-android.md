@@ -23,31 +23,31 @@ In fact, I think about 75% of each device is definitely in the awesome region, a
 
 This post serves as a brief survey of some of my favorite parts of Android.
 
-<strong>DropBox</strong> shares files between devices (phones, computers, etc.) so easily it’s like stealing candy from a baby. That, however, is a completely untrue expression. If you factor in the emotional and audible toll of stealing *anything* from a baby, it’s *not* easy. But DropBox is. I used it to get all these screenshots onto my laptop, as a matter of fact. That screenshot also captures the fact that you can run multiple apps.
+**DropBox** shares files between devices (phones, computers, etc.) so easily it’s like stealing candy from a baby. That, however, is a completely untrue expression. If you factor in the emotional and audible toll of stealing *anything* from a baby, it’s *not* easy. But DropBox is. I used it to get all these screenshots onto my laptop, as a matter of fact. That screenshot also captures the fact that you can run multiple apps.
 
-<strong>Home screens </strong>let you arrange your favorite apps and widgets however you like. We also have the app tray which is more like what iPhoners might be familiar with—it just lists all the apps. Widgets are pretty sweet, I gotta admit, like that candy you stole, creep.
+**Home screens **let you arrange your favorite apps and widgets however you like. We also have the app tray which is more like what iPhoners might be familiar with—it just lists all the apps. Widgets are pretty sweet, I gotta admit, like that candy you stole, creep.
 
-Google’s <strong>News and Weather </strong>App is pretty slick. I particularly like the trend of temperature (yellow) and chance of precipitation (blue) over the next 24ish hours.  
+Google’s **News and Weather **App is pretty slick. I particularly like the trend of temperature (yellow) and chance of precipitation (blue) over the next 24ish hours.  
 
 ![screenshot_14%5B3%5D%5B3%5D.png](screenshot_14%5B3%5D%5B3%5D.png)
 
-<strong>TweetDeck</strong> is far better than any of the other Twitter or Facebook apps I’ve used. It does the single inbox thing by mixing all the social stuff together, which is nice. With this app I rarely actually visit Facebook.com anymore. It supports multiple columns and simultaneous posts, just like the desktop client.  
+**TweetDeck** is far better than any of the other Twitter or Facebook apps I’ve used. It does the single inbox thing by mixing all the social stuff together, which is nice. With this app I rarely actually visit Facebook.com anymore. It supports multiple columns and simultaneous posts, just like the desktop client.  
 
 ![screenshot_18%5B2%5D.png](screenshot_18%5B2%5D.png) 
 
-The ability to <strong>share </strong>pretty much anything with applications that support it is awesome, too. In this first pic, I’ve chosen a picture to share and Android is asking how. Unfortunately, there’s no easy way to share a <strong>screenshot</strong>. I just [got it working](../2010/2010-09-how-to-take-screenshots-from-android.html) on my device which is how I was able to take all these shots. This is something that iPhone has killed on, hands-down. Interestingly, <strong>Pandora</strong> doesn’t support sharing, which is too bad. I listen to Pandora easily 20 hours a week through my phone and sometimes I’d like a convenient way to share what I’m listening to. Pandora tip: if you have unlimited data, turn on high quality mode in the settings—it’s *much* better.  
+The ability to **share **pretty much anything with applications that support it is awesome, too. In this first pic, I’ve chosen a picture to share and Android is asking how. Unfortunately, there’s no easy way to share a **screenshot**. I just [got it working](../2010/2010-09-how-to-take-screenshots-from-android.html) on my device which is how I was able to take all these shots. This is something that iPhone has killed on, hands-down. Interestingly, **Pandora** doesn’t support sharing, which is too bad. I listen to Pandora easily 20 hours a week through my phone and sometimes I’d like a convenient way to share what I’m listening to. Pandora tip: if you have unlimited data, turn on high quality mode in the settings—it’s *much* better.  
 
 ![screenshot_4%5B2%5D.png](screenshot_4%5B2%5D.png)
 
-I don’t play too many games but we’ve got a couple of nice ones. I very excited for the final release of <strong>Angry Birds</strong>. I’m told this is among iPhone’s highest grossing games of all time, and after finishing the beta/demo, I can see why.  
+I don’t play too many games but we’ve got a couple of nice ones. I very excited for the final release of **Angry Birds**. I’m told this is among iPhone’s highest grossing games of all time, and after finishing the beta/demo, I can see why.  
 
 ![screenshot_29%5B2%5D.png](screenshot_29%5B2%5D.png)
 
-I’d been thinking about Kindles ever since they broke the $200 barrier. I like to read but for these reasons, traditional books don’t work that well with me: they are clunky and burdensome to carry around, I like to read multiple books at the same time, and I’m also all that smart with words so I have to look things up all the time. Kindle goes a long way toward solving all of those issues. <strong>Kindle for Android </strong>makes it about 80% of the way there, picking up big points on portability.   
+I’d been thinking about Kindles ever since they broke the $200 barrier. I like to read but for these reasons, traditional books don’t work that well with me: they are clunky and burdensome to carry around, I like to read multiple books at the same time, and I’m also all that smart with words so I have to look things up all the time. Kindle goes a long way toward solving all of those issues. **Kindle for Android **makes it about 80% of the way there, picking up big points on portability.   
 
 ![screenshot_13%5B2%5D.png](screenshot_13%5B2%5D.png)
 
-This thing also has the best <strong>GPS Navigation</strong> I’ve ever seen—it’s much better than our Garmin. Being tied to the internet, it’s maps are always up-to-date (with traffic, street view, and satellite view), as are the searchable businesses. It’s simply beautiful and incredibly effective—much more so in motion as everything is wonderfully animated and intuitive.  
+This thing also has the best **GPS Navigation** I’ve ever seen—it’s much better than our Garmin. Being tied to the internet, it’s maps are always up-to-date (with traffic, street view, and satellite view), as are the searchable businesses. It’s simply beautiful and incredibly effective—much more so in motion as everything is wonderfully animated and intuitive.  
 
 ![screenshot_24%5B2%5D.png](screenshot_24%5B2%5D.png)
 

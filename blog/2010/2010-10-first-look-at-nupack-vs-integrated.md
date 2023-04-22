@@ -28,7 +28,7 @@ PM&gt;</code></pre>
 This is a PowerShell console so the standard pattern of commands is available with the “-package” suffix. For example, to see what’s available, try List-Package:
 
 <blockquote>
-  <pre>  <pre>PM&gt; <strong>List-Package</strong></pre>
+  <pre>  <pre>PM&gt; **List-Package**</pre>
 Id Version Description 
 
 -- ------- ----------- 
@@ -131,7 +131,7 @@ It works! Now let’s improve that view code by trying out that fancy [T4MVC](ht
 
 <blockquote>
   <pre><code>
-PM&gt; <strong>Add-Package t4mvc</strong>     
+PM&gt; **Add-Package t4mvc**     
 
 Successfully added 'T4MVC 2.6.30' to TechTalk7 
 
@@ -159,7 +159,7 @@ Sweet! Now I have T4MVC all ready to go and can do neat things like this:
 <strong>        <span class="asp">&lt;%</span>=Html.ActionLink(I.Name, <span class="str">&quot;Details&quot;</span>, <span class="kwrd">new</span> { ID = I.ID }) <span class="asp">%&gt;</span>
 </strong>
         <span class="rem">&lt;!--new way, *with* T4--&gt;</span>
-<strong>        <span class="asp">&lt;%</span>=Html.ActionLink(I.Name, MVC.Idea.Details(1)) <span class="asp">%&gt;</span></strong>
+**        <span class="asp">&lt;%</span>=Html.ActionLink(I.Name, MVC.Idea.Details(1)) <span class="asp">%&gt;</span>**
        <span class="kwrd">&lt;/</span><span class="html">li</span><span class="kwrd">&gt;</span>
 
     <span class="asp">&lt;%</span>} <span class="asp">%&gt;</span>

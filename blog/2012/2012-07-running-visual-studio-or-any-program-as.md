@@ -16,7 +16,7 @@ title: Running Visual Studio (or Any Program) As An Administrator Without Prompt
 
 <blockquote> 
 
-<strong>Update:</strong> this fix hasn’t been as comprehensively effective as I hoped. Some things work well, but I’m still running into escalation issues. *Sigh…*
+**Update:** this fix hasn’t been as comprehensively effective as I hoped. Some things work well, but I’m still running into escalation issues. *Sigh…*
 </blockquote>
 
 As a developer, I often find myself doing things that only administrators can do. This is especially true since I work primarily with web applications within IIS, since related activities require elevation.
@@ -25,11 +25,11 @@ For years, I have simply launched my Visual Studio instances from a “Run as Ad
 
 ![SNAG-0051%25255B4%25255D.png](SNAG-0051%25255B4%25255D.png)</a>  
 
-<strong><font color="#ff0000">Keep reading—there’s a better way than this for frequently used programs!</font></strong>
+**<font color="#ff0000">Keep reading—there’s a better way than this for frequently used programs!</font>**
 
 BUT—that eventually drove me crazy enough to try something better because:  <ul>   <li>I constantly see the UAC elevation dialog </li>    <li>Because the app is running elevated, files that would normally open in it won’t open when double-clicked (solution/sln files, particularly) </li> </ul>
 
-Today I finally got tired of it and spent eight minutes figuring out how to do this better. I followed [these instructions](http://cybernetnews.com/helpful-tip-disable-uac-prompt-for-an-application/) to add a compatibility fix to the app so that it always runs as the user invoking it, which is me, and I’m an admin. Here’s the gist (slight additions to the referenced instructions):  <ol>   <li>Download this thing: [Microsoft Application Compatibility Toolkit](http://www.microsoft.com/en-us/download/details.aspx?id=7352) </li>    <li>Run the 32-bit version of it (not 64-bit version—both are installed if you have a 64-bit machine) </li>    <li>Add the new &quot;application fix” to the custom database. Choose your app (devenv.exe for me) and give it the “run as invoker” fix </li>    <li>*Instead* of opening a command prompt and installing it, just go to <strong>File &gt; Install</strong> </li> </ol>
+Today I finally got tired of it and spent eight minutes figuring out how to do this better. I followed [these instructions](http://cybernetnews.com/helpful-tip-disable-uac-prompt-for-an-application/) to add a compatibility fix to the app so that it always runs as the user invoking it, which is me, and I’m an admin. Here’s the gist (slight additions to the referenced instructions):  <ol>   <li>Download this thing: [Microsoft Application Compatibility Toolkit](http://www.microsoft.com/en-us/download/details.aspx?id=7352) </li>    <li>Run the 32-bit version of it (not 64-bit version—both are installed if you have a 64-bit machine) </li>    <li>Add the new &quot;application fix” to the custom database. Choose your app (devenv.exe for me) and give it the “run as invoker” fix </li>    <li>*Instead* of opening a command prompt and installing it, just go to **File &gt; Install** </li> </ol>
 
 Then I removed the “Run as Administrator” changes I made years back and things work great; my complaints above are fixed.
 

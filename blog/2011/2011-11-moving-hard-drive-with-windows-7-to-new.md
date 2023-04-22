@@ -21,7 +21,7 @@ I think Windows 7 is the first Windows OS that ages nicely enough that I don’t
 
 [![image%25255B6%25255D.png](image%25255B6%25255D.png)](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html)
 
-<strong>Yes, I really moved my drive from one machine to another *without reinstalling anything *(except drivers). And you can, too! </strong>Don’t listen to the naysayers (but do make backups just in case).
+**Yes, I really moved my drive from one machine to another *without reinstalling anything *(except drivers). And you can, too! **Don’t listen to the naysayers (but do make backups just in case).
 
 I followed “Method One” in [that guide](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html) which basically does the following:  <ol>   <li>Backup your system (seriously!) </li>    <li>Prepare your drive to be moved (sysprep) </li>    <li>Move or duplicate your drive to your new machine </li>    <li>Boot up and do some configuration </li>    <li>Install all your drivers </li> </ol>
 

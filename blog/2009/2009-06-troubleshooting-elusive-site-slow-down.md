@@ -24,17 +24,17 @@ Recently a user started reporting some odd behavior. She reports that after five
 Assuming this was a simple problem, I asked some follow up questions:
 <blockquote> 
 
-<strong>Does restarting the browser fix the problem?</strong> Yes (for five minutes).  
+**Does restarting the browser fix the problem?** Yes (for five minutes).  
 
-<strong>Does it happen all day long?</strong> Yes (not just during busy times).  
+**Does it happen all day long?** Yes (not just during busy times).  
 
-<strong>Does it happen just to you?</strong> Yes (but on many machines!).  
+**Does it happen just to you?** Yes (but on many machines!).  
 
-<strong>How does the rest of the site work when it happens?</strong> Just fine (it’s only the one page? Crap).  
+**How does the rest of the site work when it happens?** Just fine (it’s only the one page? Crap).  
 
-<strong>How long has this been happening?</strong> At least a month (ouch)  
+**How long has this been happening?** At least a month (ouch)  
 
-<strong>What OS/browser are you using?</strong> Windows 2000 with IE6 (ouch)
+**What OS/browser are you using?** Windows 2000 with IE6 (ouch)
 </blockquote>
 
 So at this point I had no idea—no clue whatsoever—what the problem was. I asked around to see if any of my coworkers had any thoughts and we came up with a plan to narrow down the possibilities.
@@ -122,9 +122,9 @@ RewriteCond %{HTTP:User-Agent} MSIE\ [56]
 <strong><span style="color: rgb(0, 0, 255);">RewriteCond %{HTTP:User-Agent} !SV1</span>
 </strong>RewriteCond %{REQUEST_URI} \.(css|js)$
 RewriteHeader Accept-Encoding: .* $1</pre></blockquote><blockquote>
-What this does is look at the <kbd>User-Agent</kbd> header of any incoming request. If it’s IE5 (just to be safe) or IE6, and the <strong><span style="color: rgb(0, 0, 255);">User-Agent doesn’t contain <kbd>SV1</kbd> (which indicates IE6 SP2)</span></strong>, and if the requested page is a .css or .js file, then we rewrite the <kbd>Accept-Encoding</kbd> header to a blank string (normally it would be <kbd>gzip/deflate</kbd>, which indicates that the browser can handle those compression methods).</blockquote>
+What this does is look at the <kbd>User-Agent</kbd> header of any incoming request. If it’s IE5 (just to be safe) or IE6, and the **<span style="color: rgb(0, 0, 255);">User-Agent doesn’t contain <kbd>SV1</kbd> (which indicates IE6 SP2)</span>**, and if the requested page is a .css or .js file, then we rewrite the <kbd>Accept-Encoding</kbd> header to a blank string (normally it would be <kbd>gzip/deflate</kbd>, which indicates that the browser can handle those compression methods).</blockquote>
 Aha! Maybe most of the clients are running IE6SP2, but she’s running IE6-sans-sp2! I checked the logs again and looked at her user agent string, hoping it’d be IE6-sans-SP2:<blockquote>
-Mozilla/4.0 (compatible; <strong>MSIE 6.0</strong>; Windows NT 5.0; .NET CLR 1.1.4322)</blockquote>
+Mozilla/4.0 (compatible; **MSIE 6.0**; Windows NT 5.0; .NET CLR 1.1.4322)</blockquote>
 Awesome—no “SV1” so now, let’s just make sure that there aren’t many people in the same boat (if there were and this was the problem, I’d have more reports of the slow down). I turned to LogParser again, this time extracting user-agent strings and a count of how many times they came up from 14 days of logs:<blockquote><pre class="csharpcode"><em>Query (normally all on one line):
 </em>C:\...&gt;LogParser.exe "
 <span class="kwrd">SELECT</span> [cs(<span class="kwrd">User</span>-Agent)],<span class="kwrd">Count</span>(*)
@@ -234,8 +234,8 @@ Awesome—no “SV1” so now, let’s just make sure that there aren’t many p
 9       MSIE 6.0 Windows NT 5.1 SV1  </pre></blockquote>
 Since there are so many different ways a client can report themselves, I dumped the results into excel and used some PivotTable magic to get this:
 <table border="0"><tbody><tr>
-     <td><strong>Browser</strong></td>
-     <td align="right"><strong>% of total</strong></td>
+     <td>**Browser**</td>
+     <td align="right">**% of total**</td>
    </tr><tr>
      <td>IE6SP2</td>
      <td>65.81</td>
@@ -266,7 +266,7 @@ I took the user’s comments at face value and coupled them with a very strong a
 I might be counting my chickens a little early yet but I’m pretty sure I have this problem figured out, and each of those three “facts” are wrong.
 After talking with the user, she revealed that other areas of the site *do* slow down, just “not as bad”. Number 1 and 2 gone.
 When reviewing her computer (Windows 2000, IE6, tiny amount of memory), and recalling the amount of patience users have with this product (a lot), I realized that assumption 3 isn’t very solid either.
-Once I ignored those three items, it was obvious that the application itself had a problem that could likely be reproduced by me, in house. So that’s what I did—<strong>something I should have tried in the very beginning.</strong> I dug out an ancient laptop with Windows 2000 and IE6SP1 and started running the app. Much to my surprise (though I guess I should have expected it by this point), after 10 minutes, the app started to crawl. Badly.
+Once I ignored those three items, it was obvious that the application itself had a problem that could likely be reproduced by me, in house. So that’s what I did—**something I should have tried in the very beginning.** I dug out an ancient laptop with Windows 2000 and IE6SP1 and started running the app. Much to my surprise (though I guess I should have expected it by this point), after 10 minutes, the app started to crawl. Badly.
 Being the computer person, I immediately saw why in the little hard drive light. Internet Explorer was leaking memory like crazy and eventually, when the system ran out, caused the disk to thrash as Windows actively consumed and grew the page file. Watching the task manager, I could see a 1-2mb jump in memory usage with *every click*.
 ![yikes%5B6%5D.png](yikes%5B6%5D.png) I tore the page apart and was able to create a simple page to reproduce the problem and share. The above chart (generated with [Perfmon](http://adminfoo.net/2007/04/windows-perfmon-top-ten-counters.html)—a sweet tool on most windows machines) shows that simple page being executed over a period of about 3 minutes. You can see memory usage rose to about 90%, with the page file in tow. Each dropped quite suddenly when I terminated Internet Explorer.
 

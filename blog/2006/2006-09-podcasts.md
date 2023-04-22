@@ -13,7 +13,7 @@ title: Podcasts
 
 I have been really busy recently so I apologize for the two months of no updates. I hope to make up for that today. Get ready for massive updates...hopefully you find something interesting in here. I hop to write some funny stuff soon, too.
 
-I’ll start us off with...<strong>Podcasts</strong>
+I’ll start us off with...**Podcasts**
 
 ![PodcastLogo.png](PodcastLogo.png)I am ashamed to admit that I am about two years behind on this one. For those new to the term, a [Podcast](http://en.wikipedia.org/wiki/Podcast) is (usually) a subscription based mechanism to receive regular episodes of audio or video. These are generally free, weekly programs…think radio shows.
 

@@ -18,7 +18,7 @@ If you are passionate about anything, chances are you’ve found yourself wonder
 
 I used to find some of those moments very stressful. I’d be sitting there with lots of “evidence” and “research” to support my position, fuming about some *idiot who can’t use apostrophes correctly and is frickin’ ridiculous with his/her hyperbole and logical fallacies…*and get nowhere.
 
-I finally figured out a little exercise that helps me in those tense situations: <strong>I just consider that the other person probably sees me as just as insane as I see him/her</strong>. That other person is more or less like me (rational, thoughtful, educated, kind, etc.) but disagrees with me the same way I disagree with him/her. And that’s fine.
+I finally figured out a little exercise that helps me in those tense situations: **I just consider that the other person probably sees me as just as insane as I see him/her**. That other person is more or less like me (rational, thoughtful, educated, kind, etc.) but disagrees with me the same way I disagree with him/her. And that’s fine.
 
 “But *I’m* right!” you say.
 

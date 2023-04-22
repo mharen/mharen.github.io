@@ -52,7 +52,7 @@ To see who's already enabled, run this query:
 
 
 <blockquote>
-<pre>mysql&gt; <strong>select host, user from user;</strong>
+<pre>mysql&gt; **select host, user from user;**
 +--------------------+---------+
 | host               | user    |
 +--------------------+---------+
@@ -69,7 +69,7 @@ Now we need to add a new record. I'm interested in simply reading data from my r
 
 
 <blockquote>
-<pre>mysql&gt; <strong>grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';</strong>
+<pre>mysql&gt; **grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';**
 Query OK, 0 rows affected (0.00 sec)
 
 mysql&gt; <strong>flush privileges;

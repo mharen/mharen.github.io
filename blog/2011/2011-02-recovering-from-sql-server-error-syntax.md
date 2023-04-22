@@ -23,13 +23,13 @@ This occurred when I tried to script out a stored procedure so I could change it
 </blockquote>
 
 
-Nifty, right? But <strong>why did this happen</strong>? It seems SQL Server Management Studio or whatever it uses to script out objects objects to nested comments in the script header. This is what I had, which is a no-no:
+Nifty, right? But **why did this happen**? It seems SQL Server Management Studio or whatever it uses to script out objects objects to nested comments in the script header. This is what I had, which is a no-no:
 
 <blockquote>
   <pre class="csharpcode"><span class="rem">/*  example execution:</span>
 <span class="rem">EXEC procName</span>
-<span class="rem">  @intParm1=3 <strong><font style="background-color: #ffff00;">/*</font></strong>explanation<strong><font style="background-color: #ffff00;">*/</font></strong></span>  
-<span class="rem"> ,@intParm2=null <strong><font style="background-color: #ffff00;">/*</font></strong>explanation<strong><font style="background-color: #ffff00;">*/</font></strong></span>  
+<span class="rem">  @intParm1=3 **<font style="background-color: #ffff00;">/*</font>**explanation**<font style="background-color: #ffff00;">*/</font>**</span>  
+<span class="rem"> ,@intParm2=null **<font style="background-color: #ffff00;">/*</font>**explanation**<font style="background-color: #ffff00;">*/</font>**</span>  
 <span class="rem">*/</span>
 
 ALTER PROCEDURE [dbo].procName  
@@ -37,13 +37,13 @@ ALTER PROCEDURE [dbo].procName
 </blockquote>
 
 
-What I was trying to do was include a sample call to the procedure to aid future development.<strong> This was easily fixed by using the single-line comment syntax instead</strong>:
+What I was trying to do was include a sample call to the procedure to aid future development.** This was easily fixed by using the single-line comment syntax instead**:
 
 <blockquote>
   <pre class="csharpcode"><span class="rem">/*  example execution:</span>
 <span class="rem">EXEC procName</span>
-<span class="rem">  @intParm1=3 <strong><font style="background-color: #ffff00;">--</font></strong>explanation</span>  
-<span class="rem"> ,@intParm2=null <strong><font style="background-color: #ffff00;">--</font></strong>explanation</span>  
+<span class="rem">  @intParm1=3 **<font style="background-color: #ffff00;">--</font>**explanation</span>  
+<span class="rem"> ,@intParm2=null **<font style="background-color: #ffff00;">--</font>**explanation</span>  
 <span class="rem">*/</span>
 
 ALTER PROCEDURE [dbo].procName  

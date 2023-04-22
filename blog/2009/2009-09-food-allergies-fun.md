@@ -31,7 +31,7 @@ So as you might imagine, we’ve become quite good at reading food labels. We lo
 <font size="1">Ingredients: <u>Chicken Broth</u>, Sea Salt, Sugar, Autolyzed Yeast Extract, Carrot Puree, <u>Natural Flavor</u>, Salt, Chicken Powder, Chicken Fat*, Celery Juice Concentrate, Onion Powder, Chicken Meat, Carrot Juice Concentrate, <u>Spices</u>, Onion Juice Concentrate, Garlic Powder. [underlining added]</font>
 </blockquote>
 
-Oh, so the first ingredient in broth is…broth. That makes sense. So Sarah emailed and called Progresso to find out what exactly are: chicken broth, natural flavor, and spices. I’m wondering what chicken powder is, too, but that’s for another day. Their response: <strong>we don’t know</strong> (i.e. they don’t tell us so we can’t tell you). I called again and pressed further and was simply told to stop buying Progresso Broth if I was worried about it because they can’t tell me what’s in it.
+Oh, so the first ingredient in broth is…broth. That makes sense. So Sarah emailed and called Progresso to find out what exactly are: chicken broth, natural flavor, and spices. I’m wondering what chicken powder is, too, but that’s for another day. Their response: **we don’t know** (i.e. they don’t tell us so we can’t tell you). I called again and pressed further and was simply told to stop buying Progresso Broth if I was worried about it because they can’t tell me what’s in it.
 
 Well that was frustrating. This as a great example of a company failing to win a customer. There’s probably a dozen reasons not to tell us what’s behind those ingredients but I can’t think of one that really stands up to scrutiny. It’s not like we’re going to start making our own broth. Plus, if I was a real competitor, I would think more scientific approaches to figuring out what is in the box would be more fruitful. Instead of giving us a complete, uncensored list of ingredients like Superior Touch did for their [Better Than Bullion](http://www.superiortouch.com/retail/products/better-than-bouillon) product (they were awesome—completely answered our questions in a single phone call), they took our name and promised a call back. *Days *later, the callback was unhelpful. Weeks later, we received a package from General Mills, Progresso’s parent company. This contained a letter with the same unhelpful answer: we won’t tell you what’s in there, but thanks! 
 
@@ -41,7 +41,7 @@ As expected, they included some coupons for more broth (which we can’t use in 
 
 <font size="1">(Charlotte pictured, not Maya)</font>&#160;
 
-Maya <strong>loves</strong> them. So, Progresso, thanks for the coupons and the toys—I guess we’re even. I wish I could feed your product to my child, though!
+Maya **loves** them. So, Progresso, thanks for the coupons and the toys—I guess we’re even. I wish I could feed your product to my child, though!
 
 ---
 

@@ -43,4 +43,4 @@ I could probably knock out a dozen more but it’s getting pretty rough. OK, one
 
 
 
-<font size="1">Note: definitely <strong>*do not *</strong>search google images for “bing” without safe search on. Seriously. I warned you. It’s on you, not me. </font>
+<font size="1">Note: definitely ***do not ***search google images for “bing” without safe search on. Seriously. I warned you. It’s on you, not me. </font>

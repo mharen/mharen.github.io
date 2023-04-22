@@ -45,7 +45,7 @@ And his very prompt response:
 r @[mharen](http://twitter.com/mharen) our version is on Google Code, or you can dig through the fork-splosion on github and try to guess which version is &quot;best&quot; [7:33 PM Feb 8th](http://twitter.com/codinghorror/status/8832188858)
 </blockquote>
 
-In <strong>*three*</strong> minutes I had my answer from the top guy of the a product that’s used by bajillions (if not gajillions) of people. Even if he hadn’t answered, I was hoping that someone else might (this wasn’t a private query).  <h4>Example 3: Red Gate’s Neil Davidson</h4>
+In ***three*** minutes I had my answer from the top guy of the a product that’s used by bajillions (if not gajillions) of people. Even if he hadn’t answered, I was hoping that someone else might (this wasn’t a private query).  <h4>Example 3: Red Gate’s Neil Davidson</h4>
 
 Via Twitter, I discovered a neat little book on software pricing. I tweeted about it:
 <blockquote> 

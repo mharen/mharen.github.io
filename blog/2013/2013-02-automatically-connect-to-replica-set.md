@@ -15,7 +15,7 @@ title: Automatically Connect to the Replica Set Primary with Mongo Shell
 ---
 
 
-So you got your fancy MongoDB Replica Set running, did you, Mr. Fancypants? Before too long you might run into an issue: <strong>how do you connect to the primary node when the primary can change? </strong>
+So you got your fancy MongoDB Replica Set running, did you, Mr. Fancypants? Before too long you might run into an issue: **how do you connect to the primary node when the primary can change? **
 
 Luckily our applications don’t have this problem because their drivers are smart and automatically connect to the primary. The Mongo shell doesn’t do that, though.
 
@@ -75,7 +75,7 @@ loading file: prod.js
 Connecting to one-of-your-replica-set-nodes:27017/database-name as user:secret...
 <strong>You're not on master...
 </strong>Connecting to another-one-of-your-replica-set-nodes:27017/database-name as user:secret
-<strong>...or are you ;)</strong>
+**...or are you ;)**
 &gt;</pre>
 
 Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can [alias](http://tldp.org/LDP/abs/html/aliases.html) that command to something shorter, add the library to your [mongorc](http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file) file, or make Windows shortcut.

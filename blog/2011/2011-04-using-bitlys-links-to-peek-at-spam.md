@@ -24,6 +24,6 @@ Obviously I didn’t click the link. A bitly link. Hmmm. I use bitly for my [twi
 
 This usefully tells you where the link takes you (the “long link”)—a dating site—so you don’t have to go there to know. It also tells me how many people have actually hit the link and a bit about them. Here are some interesting stats:  <ul>   <li>190 clicks as of this writing</li>    <li>Most hits come for North America</li>    <li>Transmitted exclusively (or nearly so) through email</li> </ul>
 
-What have I learned? Even though I have no idea how many spam emails it took to get 190 hits, or what (if anything) those 190 clicks earned the sender, I’m disappointed to find at least that many people were curious enough, gullible enough, or foolish enough, to click the link. <strong>If the spam problem hadn’t been pretty much solved years ago, I’d be angry at you 190 people for supporting the industry.</strong>
+What have I learned? Even though I have no idea how many spam emails it took to get 190 hits, or what (if anything) those 190 clicks earned the sender, I’m disappointed to find at least that many people were curious enough, gullible enough, or foolish enough, to click the link. **If the spam problem hadn’t been pretty much solved years ago, I’d be angry at you 190 people for supporting the industry.**
 
 [Check it out](http://bit.ly/hIfeGP+) for yourself, or try adding “+” to any jmp/bitly link you come across for some occasionally interesting data ([like this one](http://bit.ly/hZvZiH)).

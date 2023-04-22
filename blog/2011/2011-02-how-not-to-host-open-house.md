@@ -40,7 +40,7 @@ Oh, and turn the heat up! I’m all about saving energy, especially in vacant ho
 
 Yeah, I get it. You want me to sign that stupid paper with that crappy pen that barely writes on the Granite Countertops you keep reminding me about. Why? So you can get my info and follow up with me to pressure me into buying a house or selling mine, and to show your client what a huge success your open house was. Unfortunately I don’t want any of that. It might be easier if you didn’t insist on so much information. Name? OK, sure I’ll initial your paper. Phone, email, agent, DOB, pant size, party affiliation and blood sample? No, thank you, my base-pairs are private if you know what I mean.
 
-This may be hard for some of you to hear but I think I need to be explicit here: <strong>I DO NOT WANT YOU TO CONTACT ME</strong>. If I’m interested in the house, *I’ll call you*. Oh, and your client doesn’t care how many people came to the open house—your client wants offers, not showings, so just keep telling them “it only takes one!” until they lower the price enough to get one.  <h2>4. Don’t follow me around</h2>
+This may be hard for some of you to hear but I think I need to be explicit here: **I DO NOT WANT YOU TO CONTACT ME**. If I’m interested in the house, *I’ll call you*. Oh, and your client doesn’t care how many people came to the open house—your client wants offers, not showings, so just keep telling them “it only takes one!” until they lower the price enough to get one.  <h2>4. Don’t follow me around</h2>
 
 I’m not a creep. I’m a normal guy. I wear glasses even though I have contacts. I’m a computer programmer. I drive a Honda Fit. I wore a tiara at lunch yesterday because my daughter asked me to. I’m carrying a baby. I’m about as non-threatening as you can get. What do you think I’m going to do? This place is empty, anyway (well, mostly; see above)!
 
@@ -82,7 +82,7 @@ Me (turns so only Wife can see me mouth words): WTF WTF WTF
 
 Realtor wandered away and that moment just floated there for a while as Wife and I kept glancing at each other with painful expressions of confusion and surprise.
 
-I’m sorry for your loss, but congratulations, now<strong> we can’t buy your house because you told me a story about murder in it</strong>. Good work.
+I’m sorry for your loss, but congratulations, now** we can’t buy your house because you told me a story about murder in it**. Good work.
 
 ---
 

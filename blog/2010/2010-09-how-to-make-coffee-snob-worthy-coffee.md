@@ -31,9 +31,9 @@ Here’s what you’ll need:  <ul>   <li>a coffee maker and filters – nothing 
 
 I’m the only coffee drinker in the house so any numbers I toss out below are for one person; adjust yours accordingly.  <h4>Your First Pot</h4>
 
-I usually put down two normal cups, which is equal to about four “Mr. Coffee” cups, so I fill the machine up to the “<strong>4 cups</strong>” line with water. 
+I usually put down two normal cups, which is equal to about four “Mr. Coffee” cups, so I fill the machine up to the “**4 cups**” line with water. 
 
-Next, put a filter on your scale and tare it to zero. Fill it with what you normally use and note the mass. If you’re new to this and have no idea how much to use, start with <strong>4 grams/cup</strong> (16 grams in this case).
+Next, put a filter on your scale and tare it to zero. Fill it with what you normally use and note the mass. If you’re new to this and have no idea how much to use, start with **4 grams/cup** (16 grams in this case).
 
 Brew your coffee (don’t steal a cup part way through—it only takes 3 minutes for crying out loud). 
 
@@ -51,25 +51,25 @@ After a few weeks you’ll run out of coffee. Buy a different variety next time 
 
 I honestly don’t know the first thing about any of that. My [resident hippie](http://footedjammies.blogspot.com/) buys coffee like a hippie so I guess I am passively endorsing some of those causes by drinking it, so there’s that. I suggest turning to Google for more info on those topics.  <h4>FAQ (i.e. Q&amp;As I Made Up)</h4>
 
-<strong>I have a fancy {coffee, coffee maker, beaker, flask, magical gem, etc.} and it makes *way* better coffee? </strong>
+**I have a fancy {coffee, coffee maker, beaker, flask, magical gem, etc.} and it makes *way* better coffee? **
 
 First off, that’s not a question—simply adding a question mark isn’t enough. Second, if that’s how you feel then *you* are actually a snob. This post’s title was meant to be a little bit of a joke because the only fancy thing I’m suggesting people do is buy a month’s worth of coffee for $8 instead of $5, and measure accurately so you can hone your product just to your liking. If you’ve moved up to the level where you can achieve satisfaction only with unnecessary gadgets and rare, expensive coffee, I grieve for you.
 
 On the other hand, if that really was a question, then the answer is “no.”
 
-<strong>What coffee pot do you really use?</strong>
+**What coffee pot do you really use?**
 
 A Mr. Coffee Drip Pot as pictured (that’s really mine, about to brew!). 
 
 ![IMAG0144_thumb%5B4%5D.jpg](IMAG0144_thumb%5B4%5D.jpg)
 
-<strong>What coffee do you really use?</strong>
+**What coffee do you really use?**
 
 My current bag is “Archer Farms, Organic, Fair Trade, Super Nice Guy, Hippie Approved, Single Origin, Save the Children (seriously!?) Tierra Del Sol”. It’s from Target and costs like $6-$8. It’s just coffee. When this bag is gone, I’ll get another of a similar roast but a different variety.
 
 ![IMAG0143%5B17%5D.jpg](IMAG0143%5B17%5D.jpg)</a>
 
-<strong>How do I get good coffee at work? </strong>
+**How do I get good coffee at work? **
 
 Yikes, I have no idea. This is where that damn “snob” word comes up again. It’s hard to avoid the label when bringing in your own coffee to share or worse, using a private coffee maker. I’m open to ideas (leave a comment). This is probably why so many people buy coffee on their way *into* work.
 
@@ -81,29 +81,29 @@ Yikes, I have no idea. This is where that damn “snob” word comes up again. I
 
 
 
-<strong>Do you really use a scale?</strong>
+**Do you really use a scale?**
 
 Yes, every single time. I’m an engineer by trade so this won’t surprise anyone who knows me. I have found it to be the easiest way to make a consistent cup day after day. This is especially important as you are first figuring out how much coffee to use as it provides for simple, but precise adjustments.
 
-<strong>What about those K-Cup Thingamajigs?</strong>
+**What about those K-Cup Thingamajigs?**
 
 I have mixed feelings on that. They’re pretty wasteful in terms of energy and packaging. As far as flavor goes, they’re ok. I’d say they are much better than the typical Folgers junk but a noticeable step below the coffee I pictured above and significantly more expensive. One key advantage to this method is that you can mix it up so easily by trying different cups each time.
 
-<strong>Why is coffee so gross?</strong>
+**Why is coffee so gross?**
 
 It’s an acquired taste for sure. Here’s my estimate of a typical hater’s reasons:
 
 ![chart%5B1%5D%5B7%5D.png](chart%5B1%5D%5B7%5D.png)
 
-<strong>I’m making coffee for an actual coffee snob, what do I do?</strong>
+**I’m making coffee for an actual coffee snob, what do I do?**
 
 That’s actually pretty simple—just ask them to make it; they won’t mind. Or, if your friend is nice, ask them for honest feedback. They will invariably say that it should be stronger, or at least that’s been my experience. Hat-tip to the [nicest coffee expert](http://picturingtheordinary.blogspot.com/) I know.
 
-<strong>Umm Starbucks is way better than Dunkin.</strong>
+**Umm Starbucks is way better than Dunkin.**
 
 That’s incorrect but more importantly, irrelevant!
 
-<strong>You’re totally drinking coffee right now, aren’t you?</strong>
+**You’re totally drinking coffee right now, aren’t you?**
 
 Yes.
 

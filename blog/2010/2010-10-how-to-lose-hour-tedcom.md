@@ -17,7 +17,7 @@ title: 'How to lose an hour: TED.com'
 [TED](http://www.ted.com/) [is](http://www.ted.com/pages/view/id/5):
 <blockquote> 
 
-… a small nonprofit devoted to Ideas Worth Spreading. It started out (in 1984) as a conference bringing together people from three worlds: <strong>Technology, Entertainment, Design.</strong>
+… a small nonprofit devoted to Ideas Worth Spreading. It started out (in 1984) as a conference bringing together people from three worlds: **Technology, Entertainment, Design.**
 </blockquote>
 
 If you like smart stuff you will love TED Talks. I have watched dozens of these over the last couple of years and have never been disappointed. I tend to focus on tech or UI related talks like anything from [Hans Rosling](http://www.ted.com/speakers/hans_rosling.html) (he is a fantastic presenter, too):

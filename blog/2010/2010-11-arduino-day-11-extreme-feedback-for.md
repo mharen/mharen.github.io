@@ -15,7 +15,7 @@ title: 'Arduino Day 11: Extreme Feedback for Hudson Builds (Includes Chuck Norri
   Cameo)'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
 Improving on yesterday’s build, I added in some actual network-sourced data. My little traffic lights now show the build status of one of my projects:  
 
@@ -35,7 +35,7 @@ But a motor cycle that launches missiles. Wow. That picture above, by the way, w
 
 [![Norrishuckabee%5B5%5D.jpg](Norrishuckabee%5B5%5D.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank)
 
-70. Chuck Norris is <strong>seventy</strong> years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/" target="_blank).  <h4>Build (Repeat)</h4>
+70. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/" target="_blank).  <h4>Build (Repeat)</h4>
 
 ![DSC_00113%5B2%5D.jpg](DSC_00113%5B2%5D.jpg)  <h4>Circuit (Repeat)</h4>
 

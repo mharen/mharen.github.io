@@ -23,7 +23,7 @@ I haven’t been working on this full time all year but damn near.
 
 The reason work is like a roller coaster is that the days surrounding a release are incredibly stressful, mostly because time is rarely on your side. Leading up to the release, things seem peachy. Then, 48 hours before a release, the customer has a habit of calling me late at night with a line like, “function x isn’t working…and hasn’t worked for a month, though we didn’t bother telling you earlier and we’re probably the ones that broke it. Fix it ASAP. Our company will catch fire if you don’t work on this right now. What’s the number for 911?!” My cell, apparently. So we have long stretches of everything working great mixed in with short, panicky periods of chaos.
 
-<strong>All that said, I do like my job. I enjoy the work I am doing. I really enjoy problem solving, too, so working in a high stress environment to fix bugs PDQ is usually enjoyable.</strong>
+**All that said, I do like my job. I enjoy the work I am doing. I really enjoy problem solving, too, so working in a high stress environment to fix bugs PDQ is usually enjoyable.**
 
 I have also been working on other projects besides this software job. Working on these other projects has taught me three things. First, I like working with other people from my company. Rovisys seems to hire good people so working with them is unsurprisingly, good. This is in contrast to working closely with a somewhat difficult customer for long periods of time.
 
@@ -31,7 +31,7 @@ Second, I like to write software. These other projects have *not* been software 
 
 Lastly, I don’t like to travel much. Traveling would probably be fun if I were single, but I’m not. When I leave for weeks at a time, I miss my wife and my dogs. I have a family brewing back home and it’s tough to fly away, work 12-16 hours/day and live out of a hotel room. About that travel…yes let’s make this an obscenely long complainer post. Best to get it all out at once, right?
 
-<strong>Travel</strong>
+**Travel**
 
 Last year I traveled 23% of business days. That’s slightly more than one day a week or one week a month. I talked to my mangers (plural) about this and received mixed feedback. My technical manager (according to the org chart) told me my travel was not unusual and to get used to it. Damn. My day to day manager (the one I actually do stuff for) told me he’d cut it down to a more reasonable level.
 

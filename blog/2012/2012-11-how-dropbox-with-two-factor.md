@@ -27,7 +27,7 @@ So when my phone’s document scanning app ([JotNot](https://itunes.apple.com/us
 I was surprised that I couldn’t find a way to do this so I turned to Google and [found this](http://blog.binaryfactory.ca/2012/08/dropbox-two-step-authentication/):
 <blockquote> 
 
-“The menu to create application specific passwords doesn’t seem to be directly available, but don’t worry, as soon as you will add a new app, <strong>Dropbox will detect the failure to login and email you the link to create an application specific password.</strong>”
+“The menu to create application specific passwords doesn’t seem to be directly available, but don’t worry, as soon as you will add a new app, **Dropbox will detect the failure to login and email you the link to create an application specific password.**”
 </blockquote>
 
 Oh. Alright, let’s try that! I opened up the app and entered my Dropbox login and it failed (expected) and received this in my email:
@@ -48,6 +48,6 @@ Cool, there is (at least before I sanitized it for this blog) a longish, random 
 
 Woot! Now I’m linked up and can continue scanning documents into my Dropbox.
 
-So how do Google and Dropbox compare in their approaches? <strong>I really, really like that Dropbox sends you an email when you need an application specific password.</strong> This is great because the app itself didn’t give me any useful indication that this was the issue (it just said my login was bad). This is a brilliant idea.
+So how do Google and Dropbox compare in their approaches? **I really, really like that Dropbox sends you an email when you need an application specific password.** This is great because the app itself didn’t give me any useful indication that this was the issue (it just said my login was bad). This is a brilliant idea.
 
 It would be nice if Dropbox allowed me to just go and add the new password without waiting on the email. Or they could at least add a note near their password settings in my profile explaining how this works (or maybe I missed it). Two-factor is a pain (without it, none of the above would have happened), but considering the benefits, and how smoothly it’s been implemented, I highly recommend it.

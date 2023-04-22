@@ -40,7 +40,7 @@ Sometimes, it’s a genuine fail, but needs a much, much shorter title (e.g. “
 
 
 
-The problem is that <strong>a true fail is self evident </strong>and most of these are not. Adding extra words to the caption should only carefully be done to add an extra punch. 
+The problem is that **a true fail is self evident **and most of these are not. Adding extra words to the caption should only carefully be done to add an extra punch. 
 
    <hr />
 
@@ -48,7 +48,7 @@ In the spirit of all things fail, here are a few pics I snapped on the way to wo
 
 &#160;![200909040745_131%5B5%5D.jpg](200909040745_131%5B5%5D.jpg)</a>    
 
-<font size="4"><strong>Fire Fighting FTW</strong></font>
+<font size="4">**Fire Fighting FTW**</font>
 
 
 

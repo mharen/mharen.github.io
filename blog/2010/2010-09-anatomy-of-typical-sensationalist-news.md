@@ -20,25 +20,25 @@ Yikes! Things start out pretty serious. After keeping our attention with a few r
 
 ![images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=](images?q=tbn:ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI&amp;t=1&amp;usg=__E6XhcvO81J4IA_iZuUmrXbcZPqs=)Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
 
-<strong>Headline: </strong>
+**Headline: **
 <blockquote> 
 
 Judge who overturned Proposition 8 to retire
 </blockquote>
 
-Ohhh Prop 8—that sounds serious; <strong>tell me more!</strong>
+Ohhh Prop 8—that sounds serious; **tell me more!**
 <blockquote> 
 
 Vaughn R. Walker, the federal judge who ruled that Proposition 8 was unconstitutional, will leave the bench at the end of the year for the private sector, the U.S. District Court in San Francisco announced Wednesday.
 </blockquote>
 
-Right there in the first sentence the headline is contradicted. Is he retiring or going into the private sector? Maybe he’s retiring *to *the private sector? <strong>I’m intrigued.</strong> Pray continue:
+Right there in the first sentence the headline is contradicted. Is he retiring or going into the private sector? Maybe he’s retiring *to *the private sector? **I’m intrigued.** Pray continue:
 <blockquote> 
 
 Walker presided over an unprecedented federal trial earlier this year that examined a wide array of questions about gays and lesbians, including whether sexual orientation can be changed and whether same-sex unions differ much from opposite-sex unions.
 </blockquote>
 
-Oh, right, that’s why this guy is famous. <strong>Random facts, please!</strong>
+Oh, right, that’s why this guy is famous. **Random facts, please!**
 <blockquote> 
 
 …  
@@ -48,7 +48,7 @@ Walker, 66, a Republican appointee considered a conservative with a libertarian 
 …
 </blockquote>
 
-Don’t forget to add a <strong>slight twist:</strong>
+Don’t forget to add a **slight twist:**
 <blockquote> 
 
 District chief judges are selected based on age, seniority and experience and may serve for a maximum of seven years.
@@ -62,7 +62,7 @@ Walker's term would have expired next August. The court said District Judge Jame
 
 What, what? So he was out of there next year anyway? When he leaves, he’ll have served about 90% of his term, which is just the final chapter of more than 20 years of service. 
 
-<strong>There’s no story here. </strong>Why was this on the front page?!
+**There’s no story here. **Why was this on the front page?!
 
 By the way, the Google Image results for [[Vaughn R. Walker](http://www.google.com/images?q=Vaughn+R.+Walker)]—the judge—are pretty hilarious:
 

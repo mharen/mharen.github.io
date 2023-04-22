@@ -27,11 +27,11 @@ Back to it: they did the safety thing and then, because I was in an exit row, I 
 
 And then a few minutes later, that nodding flight attendant came back and gave me not a drink, but instead free headphones for the XM, and a pair of those plastic wings normally reserved for children. I protested saying that I was just joking but she insisted and I accepted. It became apparent that I wasn’t actually all that special moments later when she offered free headphones to all nearby passengers (but only kids, me, and probably any adult who asked got the wings, so that’s something).
 
-<strong>My point </strong>with all this is simple: AirTran erased (for me) all the negative crap associated with air travel by spending a few extra seconds and $0.50. 
+**My point **with all this is simple: AirTran erased (for me) all the negative crap associated with air travel by spending a few extra seconds and $0.50. 
 
 This is a value-add for sure, and it shocks me that more airlines fail to do it effectively. AirTran seems to realize that all those bad things we hate about flying are constant across all carriers and as a result, they don’t have to fix those problems. Instead, they can distinguish themselves from their competition by much easier means: being slightly more human and slightly more comfortable.
 
-If I’m allowed two points in one post, <strong>my second point is this</strong>: the passion of a company’s employees is evident whether those employees are behind the scenes building awesomely polished web applications or right up front greeting passengers. Their passion shows and it matters. Better technology, cheaper rates, nicer benefits, more freebies, etc. can’t equally compensate for better employees (or coworkers, friends, etc.).
+If I’m allowed two points in one post, **my second point is this**: the passion of a company’s employees is evident whether those employees are behind the scenes building awesomely polished web applications or right up front greeting passengers. Their passion shows and it matters. Better technology, cheaper rates, nicer benefits, more freebies, etc. can’t equally compensate for better employees (or coworkers, friends, etc.).
 
 ---
 

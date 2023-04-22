@@ -27,7 +27,7 @@ It helped that I remembered to feed them.
 
 *“Look Daddy! A Christmas chicken!”*
 
-It’s not always so easy (we’re all cranky once in a while) but we’re having more and more good days as they get older and more independent. <strong>This is my message to new parents: it’s rough early on. But it gets better, easier, and so much more fun! Hang in there!</strong>
+It’s not always so easy (we’re all cranky once in a while) but we’re having more and more good days as they get older and more independent. **This is my message to new parents: it’s rough early on. But it gets better, easier, and so much more fun! Hang in there!**
 
 They start creating fun for themselves.
 

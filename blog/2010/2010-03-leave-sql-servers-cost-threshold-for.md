@@ -27,7 +27,7 @@ Then we started load testing. This was basically an integration test where we tu
 
 We had barely loaded the machine with concurrency and it was freaking out. It’d run in spurts of blazing glory, then fail to a grinding halt. After a lot of personal freaking out (we had a very, very tight schedule measured in minutes), I discovered the culprit: parallelism. 
 
-Normally you would think parallelism would be a good thing—many cores make light work (this machine had 16!). Unfortunately that’s just not so in all cases. <strong>The overhead to split a query into parallel chunks, execute the chunks, and join the results together is significant.</strong> It turns out it’s extremely significant for simple queries and increases the complexity/load required to execute them dramatically.
+Normally you would think parallelism would be a good thing—many cores make light work (this machine had 16!). Unfortunately that’s just not so in all cases. **The overhead to split a query into parallel chunks, execute the chunks, and join the results together is significant.** It turns out it’s extremely significant for simple queries and increases the complexity/load required to execute them dramatically.
 
 Fortunately, SQL Server knows all this and has a setting for it:
 
@@ -35,7 +35,7 @@ Fortunately, SQL Server knows all this and has a setting for it:
 
 The [cost threshold for parallelism](http://msdn.microsoft.com/en-us/library/aa196716(SQL.80).aspx). This value is in seconds. When SQL Server estimates a query will take longer than x seconds to be executed, the query is executed in *parallel*; otherwise *serial*.
 
-<strong>Do not set this to a very low value like my DBA apparently did. </strong>
+**Do not set this to a very low value like my DBA apparently did. **
 
 ---
 

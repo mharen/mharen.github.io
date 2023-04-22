@@ -14,7 +14,7 @@ time_to_read: 5
 title: 'Arduino Day 4: Fun With Sound'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
 I wired up a buzzer from Radio Shack for some endless fun with sound. After jumping in head-first, I was unable to make this thing beep so I turned to Google. I immediately found [this very insightful thread](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692) that clearly explained how this buzzer works and what I was doing wrong. Apparently I needed to oscillate the signal. Who knew?
 

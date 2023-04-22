@@ -59,7 +59,7 @@ So here’s the second fix: figure out what element is under your finger and fir
     }</pre>
 
 
-<strong>It works!</strong> But let’s not stop there. What about multi-touch? You’ll notice above that we have an array “event.touches” but we only use the first one (touches[0]). Let’s try handling them all!
+**It works!** But let’s not stop there. What about multi-touch? You’ll notice above that we have an array “event.touches” but we only use the first one (touches[0]). Let’s try handling them all!
 
 <pre class="csharpcode">   <span class="kwrd">function</span> touchHandler(<span class="kwrd">event</span>) {
       <span class="kwrd">var</span> touches = <span class="kwrd">event</span>.touches;
@@ -75,7 +75,7 @@ So here’s the second fix: figure out what element is under your finger and fir
           <span class="kwrd">var</span> elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
           elementUnderFinger.dispatchEvent(simulatedEvent);
           <span class="kwrd">event</span>.preventDefault();
-<strong>      }</strong>
+**      }**
    }</pre>
 
 

@@ -29,7 +29,7 @@ How about the good guys? Here’s an example of a site that has either rolled al
 
 Those are: the Dropbox file service itself, a help site, an RFQ form (prefilled with my info), a Wiki, a referral page (prefilled just for me), and a feature voting app. The Wiki engine is definitely a third-party application (it’s credited in the footer) but it makes no difference because it’s been so tightly integrated that the theme is flawless, and my account just works without logging in again. 
 
-The bad guys call attention to the breaks between services by requiring extra instructions, confusing us with glaring UI changes, and in general, eroding the user experience. Sometimes it seems like the bad guys do this on purpose as if to call attention to how cool and sophisticated their sites are. <strong>The good guys show how awesome they are by sanding down the transitions so smooth that they are invisible and no one notices them.</strong> 
+The bad guys call attention to the breaks between services by requiring extra instructions, confusing us with glaring UI changes, and in general, eroding the user experience. Sometimes it seems like the bad guys do this on purpose as if to call attention to how cool and sophisticated their sites are. **The good guys show how awesome they are by sanding down the transitions so smooth that they are invisible and no one notices them.** 
 
 If your users notice the cracks in your infrastructure, you’re doing it wrong.
 

@@ -47,7 +47,7 @@ Behold: The power of the swaddle!
 
 ![IMG_5487%5B15%5D.jpg](IMG_5487%5B15%5D.jpg)</a> 
 
-I can’t actually verify her real weight (thus this ridiculous contraption!) but my tests with the cans give me confidence that her weight is damn close to 2 x 3lb-2.65oz; or <strong>6 pounds 5 ounces</strong>.
+I can’t actually verify her real weight (thus this ridiculous contraption!) but my tests with the cans give me confidence that her weight is damn close to 2 x 3lb-2.65oz; or **6 pounds 5 ounces**.
 
 ---
 

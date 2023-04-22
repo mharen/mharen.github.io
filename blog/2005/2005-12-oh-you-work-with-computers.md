@@ -11,7 +11,7 @@ time_to_read: 5
 title: Oh, you work with computers?
 ---
 
-Believe it or not, I get asked to fix computers <strong>a lot</strong>.
+Believe it or not, I get asked to fix computers **a lot**.
 
 It turns out that in addition to a degree in computer engineering, messing with computers your entire life also gets you a lifelong position as the free tech support guy.
 
@@ -65,7 +65,7 @@ For the cheapskates out there like me, follow these steps to get you 12 months o
 
 Obviously you will have this problem again in 12 months...
 
-Now it's time to run Windows Update. If you already have windows xp sp2 and it is set to update automatically, you can probably skip this step. If not, <strong>this is the singly most important thing you can do.</strong> Using Internet Explorer, go to [WindowsUpdate.Microsoft.com](http://windowsupdate.microsoft.com)
+Now it's time to run Windows Update. If you already have windows xp sp2 and it is set to update automatically, you can probably skip this step. If not, **this is the singly most important thing you can do.** Using Internet Explorer, go to [WindowsUpdate.Microsoft.com](http://windowsupdate.microsoft.com)
 
 Install all the critical updates. If you don't have SP2, it will be listed here. Install that one all by itself. This will take awhile.
 

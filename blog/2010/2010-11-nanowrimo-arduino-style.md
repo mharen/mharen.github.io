@@ -12,7 +12,7 @@ time_to_read: 5
 title: 'Nanowrimo: Arduino Style'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;"><strong>Tip!</strong> This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
 
 Today marks the beginning of [National Novel Writing Month](http://www.nanowrimo.org/) (NaNoWriMo). Instead of writing a crappy novel (maybe next year), I decided to do one code-related project every day for 30 days. As it happens, the super sweet microcontroller I ordered, the Arduino, *arrived today*. And so, that’s what I’ll do: 30 days of Arduino.
 

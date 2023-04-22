@@ -22,7 +22,7 @@ Moving on. For this calculation, I’ve made the following assumptions:
 
 The addicted user will buy the following products:  <ul>   <li>A Mac every two years </li>    <li>A major non-laptop purchase every year </li>    <li>A “minor” purchase every year </li> </ul>
 
-The calculation will be run for the following user profiles:  <ul>   <li>The <strong>poser</strong> who buys the cheapest option of whatever new crap Steve presents </li>    <li>The <strong>functional elitist</strong> who buys mid-grade all the way because they actually use it (this would be me) </li>    <li>The <strong>hardcore fan boy </strong>who goes *top of *the top of the line every time </li> </ul>
+The calculation will be run for the following user profiles:  <ul>   <li>The **poser** who buys the cheapest option of whatever new crap Steve presents </li>    <li>The **functional elitist** who buys mid-grade all the way because they actually use it (this would be me) </li>    <li>The **hardcore fan boy **who goes *top of *the top of the line every time </li> </ul>
 
 The numbers*: 
 

@@ -38,7 +38,7 @@ After an embarassingly large amount of hunting in the wrong places, I eventually
 Tue Jul 17 2012 20:00:00 GMT-0400 (Eastern Daylight Time) </pre>
 
 
-OK, so that makes sense in Chrome—*the validation works in Chrome*. <strong>So I ran that in iOS and…it failed!</strong> Here’s my commit message after I figured this out:
+OK, so that makes sense in Chrome—*the validation works in Chrome*. **So I ran that in iOS and…it failed!** Here’s my commit message after I figured this out:
 
 <blockquote>
   <pre>// patch the validate &quot;date&quot; method to accomodate iOS-style ISO dates

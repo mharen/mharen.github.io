@@ -65,4 +65,4 @@ This doesn’t require any changes to the HTML/CSS—it uses existing attributes
 By applying incremental enhancements in this fashion, we can easily maintain decent support for less-capable browsers while keeping our code clean and elegant.
 
 
-You might notice, too, that this JS snippet is looking at a class (<code>help-link</code>), not an <code>id</code>. Since it infers everything it needs to show the dialog from the link itself, this snippet will work on <strong>any</strong> link in the page tagged with the <code>help-link</code> class. Nice, right?
+You might notice, too, that this JS snippet is looking at a class (<code>help-link</code>), not an <code>id</code>. Since it infers everything it needs to show the dialog from the link itself, this snippet will work on **any** link in the page tagged with the <code>help-link</code> class. Nice, right?

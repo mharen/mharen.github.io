@@ -13,11 +13,11 @@ title: Opt Out Means Opt Out
 ---
 
 
-I got an email from Best Buy just now informing me (with way more words than necessary) that I am now opted in to their marketing material, even though (as they acknowledge) <strong>I chose to opt out</strong>. Here’s the email (highlighting added):
+I got an email from Best Buy just now informing me (with way more words than necessary) that I am now opted in to their marketing material, even though (as they acknowledge) **I chose to opt out**. Here’s the email (highlighting added):
 
 ![SNAG-0017%5B7%5D.png](SNAG-0017%5B7%5D.png)
 
-<strong>I appreciate that they’re letting me know</strong>—I really do. What I don’t appreciate is that they’re changing my preferences in the first place. It’s a pretty silly thing to be irked by, for sure, but there’s just something about a company deliberately not doing the right thing that bugs me. (It would also help if the opt-out link they provided was actually up.)
+**I appreciate that they’re letting me know**—I really do. What I don’t appreciate is that they’re changing my preferences in the first place. It’s a pretty silly thing to be irked by, for sure, but there’s just something about a company deliberately not doing the right thing that bugs me. (It would also help if the opt-out link they provided was actually up.)
 
 This would have been far better if they had decided to lean the other direction and say, “You opted out of marketing so we’re going to honor that. If you still want your RZ emails, you’ll have to opt in to everything.” Of course if they were going to do that, they’d simply decide to do nothing because it’d be a loss for them!
 
@@ -33,7 +33,7 @@ Best Buy may also wish to review what happened when Yahoo did [something similar
 
 That bothered me. The SO creators, Jeff Atwood and Joel Spolsky are very well respected for being The Good Guys. Stackoverflow, after all, was built to be the antithesis of the evil “hyphen site”. They wanted to be better. And they are better!
 
-<strong>I’d bet lunch that this decision wasn’t reached without hesitation and that a tiny piece of whoever made it regrets it. </strong>
+**I’d bet lunch that this decision wasn’t reached without hesitation and that a tiny piece of whoever made it regrets it. **
 
 That’s a pretty stark contrast between how I perceive Best Buy and StackOverflow right there. I am a total unashamed SO fan boy. I believe in them and the cause. I believe they have uncommon things like *feelings*, and *consciences*. I don’t personify Best Buy with any of the same flattering characteristics.
 

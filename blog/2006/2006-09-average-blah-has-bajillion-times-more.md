@@ -19,7 +19,7 @@ Now we have a [mouse](http://www.lewispr.com/us/wire/index.php?news_id=1915) des
 
 <ul>
 
-	<li><strong>Here's an idea: clean your desk.</strong></li>
+	<li>**Here's an idea: clean your desk.**</li>
 
 </ul>
 

@@ -97,4 +97,4 @@ This script, pulled from [RedGate’s forums](http://bit.ly/plJNx2) (an awesome 
 </blockquote>
 
 
-This is handy to have in the toolbox when a data sync screws up a bunch of tables. In fact, that’s the primary reason I’m posting it here—so <strong>*I*</strong> can refer back to it in the future as needed.
+This is handy to have in the toolbox when a data sync screws up a bunch of tables. In fact, that’s the primary reason I’m posting it here—so ***I*** can refer back to it in the future as needed.

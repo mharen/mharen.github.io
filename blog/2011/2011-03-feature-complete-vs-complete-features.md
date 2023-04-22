@@ -14,7 +14,7 @@ title: Feature Complete vs. Complete Features
 ---
 
 
-I used to use a Windows Mobile 6 phone. It was very expensive and had every bell and whistle there was. Unfortunately, it was a terrible, horrible phone. Why? <strong>Because it was awful at everything/good at nothing. </strong>
+I used to use a Windows Mobile 6 phone. It was very expensive and had every bell and whistle there was. Unfortunately, it was a terrible, horrible phone. Why? **Because it was awful at everything/good at nothing. **
 
 On paper, it was pretty sweet—feature complete—but in reality it could barely make phone calls.
 
@@ -22,7 +22,7 @@ In contrast, the iPhone was a less capable device on paper, but a far superior c
 
 As a business software developer, I see how this can happen. When a project is under strain, there’s pressure to implement the bare minimum to meet the feature’s requirements and put off less tangible things like a good user experience for the next version.
 
-But of course that next version has its own pressure. <strong>If you don’t constantly apply pressure to improve usability—a difficult to measure, but critical feature—your product will falter</strong>. That is, you can increase a product’s feature set by throwing more and more into it to make it look better on matrix comparisons, but this will come at the expense of the actual product as a whole.
+But of course that next version has its own pressure. **If you don’t constantly apply pressure to improve usability—a difficult to measure, but critical feature—your product will falter**. That is, you can increase a product’s feature set by throwing more and more into it to make it look better on matrix comparisons, but this will come at the expense of the actual product as a whole.
 
 Think back to the original iPhone. Apple introduced it’s first phone into a stable market owned by big names like Windows, Palm and RIM/Blackberry. This first iPhone lacked a lot of features I bet most would have considered show stoppers:  <li>Copy/paste</li>  <li>Old network technology (Edge vs. 3g)</li>  <li>Poor battery life; non-replaceable battery</li>
 
@@ -36,12 +36,12 @@ Rather than cobble together crappy solutions to these limitations, Apple focused
 
 Apple captured the market with a holistically better device and waited to release non-core functionality like copy-paste until they could give it the attention it needed. With the possible exception of call quality, they have since addressed all the issues I listed above and brought awesome new things to the mobile world like the highly lucrative AppStore.
 
-I’ve come to develop a lot of respect for companies/projects/people that show restraint when building things instead of adding whatever random people ask for or what looks neat. This is why <strong>I now realize how important mission statements are</strong>—not just for a business but for a product. You need something to guide your decisions when relentless uncertainty arises.
+I’ve come to develop a lot of respect for companies/projects/people that show restraint when building things instead of adding whatever random people ask for or what looks neat. This is why **I now realize how important mission statements are**—not just for a business but for a product. You need something to guide your decisions when relentless uncertainty arises.
 
 At a recent internal product launch at Rovisys I was quoted in a presentation as having said “you can do anything with software.” I insisted that the slide be revised to include the rest of my sentence:
 <blockquote> 
 
-<strong>“You can do anything with software *but that doesn’t mean you should*.”</strong></blockquote>
+**“You can do anything with software *but that doesn’t mean you should*.”**</blockquote>
 
 ---
 

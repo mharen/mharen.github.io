@@ -25,6 +25,6 @@ At the end of the day, however, he really is a great dog. We just have to rememb
 
 So we've basically got a two yearold on our hands. He eats everything and only runs into places you don't want him to be :).
 
-On a final note...a cool thing about dogs is that no matter how long you are absent (even a few minutes), they go NUTS when they see you. They <strong>cannot wait</strong> to see you. That's a great feeling.
+On a final note...a cool thing about dogs is that no matter how long you are absent (even a few minutes), they go NUTS when they see you. They **cannot wait** to see you. That's a great feeling.
 
 Maybe later I will fill you in on his invisible fence...with holes. :(

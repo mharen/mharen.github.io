@@ -41,7 +41,7 @@ Yep, they’re a one-star award winner! It won’t go to their heads since they 
 Don’t let the adorable smiling pig fool you, that’s swine powder in a box. Interestingly enough it actually [looks like](http://www.amazon.com/Goya-Ham-Flavored-Concentrate-1-41/dp/B0002HAAOM) it might be pretty good:
 <blockquote> 
 
-<strong>Ingredients:</strong> Salt, Monosodium Glutamate, Artificial Ham Flavor, Hydrolyzed Vegetable Protein, Silica. 
+**Ingredients:** Salt, Monosodium Glutamate, Artificial Ham Flavor, Hydrolyzed Vegetable Protein, Silica. 
 </blockquote>
 
 Or so I thought until Sarah asked how they get “artificial ham flavor”. Good question. I asked Maya and this was her expression:

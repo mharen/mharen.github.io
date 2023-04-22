@@ -29,7 +29,7 @@ Ms. Talks-Too-Loud has *not *reached this state. Here are a few thoughts we over
 
 *It makes we want to pull my hair out. My hair’s not even real and I want to pull it out.*  
 
-*If I was poor and homeless <strong>again</strong> and had a baby, I’d totally sell my breast milk.*  
+*If I was poor and homeless **again** and had a baby, I’d totally sell my breast milk.*  
 
 *When was I homeless? (stalling) (stalling) (stalling) After my parents kicked me out.*  
 

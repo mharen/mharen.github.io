@@ -17,7 +17,7 @@ title: "Code Isn\u2019t Always the Best Tool"
 One of my favorite, routine questions I ask in interviews comes from Steve Yegge’s post on [phone screening](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions):
 <blockquote> 
 
-<strong>Many C/C++/Java candidates, even some with 10+ years of experience, would happily spend a week writing a 2,500-line program to do something you could do in 30 seconds with a simple Unix command.</strong>  
+**Many C/C++/Java candidates, even some with 10+ years of experience, would happily spend a week writing a 2,500-line program to do something you could do in 30 seconds with a simple Unix command.**  
 
 …Last year my team had to remove all the phone numbers from 50,000 Amazon web page templates, since many of the numbers were no longer in service, and we also wanted to route all customer contacts through a single page.  
 
@@ -34,7 +34,7 @@ I offer my own [Project Noodle](http://blog.wassupy.com/search/label/Project%20N
 
 ![DK_Hammer%5B2%5D.png](DK_Hammer%5B2%5D.png)It eventually became evident to me that the perfect tool already exists in Microsoft Excel. It turned out that the people I was designing a tool for were already using it very effectively. I could certainly improve things a bit and make the process a little smoother and prettier, but it simply isn’t worth it when a suitable tool is already in place.  
 
-<strong>I think choosing *not *to write a program in cases like this is obvious to non-programmers, but not for us software people. For us it’s a difficult realization.</strong> In the case of Project Noodle, I’ve invested considerable effort designing it already, but I must admit that it’s not the best solution for the problem. Luckily, I came to this awareness early in the process, saving me countless hours of wasted effort.  
+**I think choosing *not *to write a program in cases like this is obvious to non-programmers, but not for us software people. For us it’s a difficult realization.** In the case of Project Noodle, I’ve invested considerable effort designing it already, but I must admit that it’s not the best solution for the problem. Luckily, I came to this awareness early in the process, saving me countless hours of wasted effort.  
 
 Sometimes our favorite tool isn’t the best tool.  
 

@@ -19,7 +19,7 @@ In light of recent Google-bashing, I feel compelled to speak up. I’m an engine
 
 Building simple stuff is hard. Building complicated stuff is harder. Building complicated stuff that looks simple is the hardest of all.
 
-<strong>Google** is *insanely complicated *but it looks simple</strong>. This is why people are getting carried away with their disappointment in seeing some spam in their search results—Google makes it look easy. This is one big feature that is apparently hurting them a smidge now. It used to be that while other sites would make the act of running a search look really complicated so you’d be impressed Google *just worked*. And it was (is) crazy fast at the same time.
+**Google** is *insanely complicated *but it looks simple**. This is why people are getting carried away with their disappointment in seeing some spam in their search results—Google makes it look easy. This is one big feature that is apparently hurting them a smidge now. It used to be that while other sites would make the act of running a search look really complicated so you’d be impressed Google *just worked*. And it was (is) crazy fast at the same time.
 
 Features like simplicity and speed are not accidental and are definitely not cheap. The fact that when I enter a word or two into Google and get a highly relevant result most of the time still shocks me. Google builds a model about what I’m asking for and brings in far more context than I think most people realize. I touched on this a bit before when I demonstrated how Google uses your search history to improve your results. They also use your country and if known, your approximate location. 
 
@@ -30,7 +30,7 @@ And your history really does help, e.g. “java”. That’s a programming langu
 ![image%5B9%5D.png](image%5B9%5D.png)
 
 Google isn’t all showy or anything, it just gives me results.  
-But sometimes the results suck. <strong>Here are a few reasons to give Google a break:</strong>  <ol>   <li>The results only suck occasionally. I use Google a lot. If you do, too, check your [history](https://www.google.com/history/) to see just how much:       
+But sometimes the results suck. **Here are a few reasons to give Google a break:**  <ol>   <li>The results only suck occasionally. I use Google a lot. If you do, too, check your [history](https://www.google.com/history/) to see just how much:       
 
 ![choose-search%5B3%5D.jpg](choose-search%5B3%5D.jpg)</li>    <li>Google will take over the world and you better be on its good side when it does </li> </ol>
 

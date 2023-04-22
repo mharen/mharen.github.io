@@ -45,7 +45,7 @@ Next, enter this code under *Project1 &gt; Microsoft Office Outlook &gt; ThisOut
 <blockquote>   <pre class="csharpcode"><span class="kwrd">Option</span> Explicit
 
 <span class="kwrd">Public</span> <span class="kwrd">Sub</span> ArchiveSelectedItems()
-    MoveSelectedItemsToFolder <span class="str"><strong><font color="#ff0000">&quot;1_Archive&quot;</font></strong></span>
+    MoveSelectedItemsToFolder <span class="str">**<font color="#ff0000">&quot;1_Archive&quot;</font>**</span>
 <span class="kwrd">End</span> <span class="kwrd">Sub</span>
 
 <span class="rem">'http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/</span>

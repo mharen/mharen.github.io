@@ -18,7 +18,7 @@ Fortunately, no one is debating the right to build it as such rights are guarant
 
 Instead, some are saying that they have [a right that isn’t right](http://www.fox41.com/global/story.asp?s=12994884)—that they are being insensitive or cruel to survivors of terrorism. To me, that is just ridiculous. I will explain by talking to myself.  <h4 align="left">*Are Muslims terrorists?* </h4>  
 
-<strong>Of course not</strong>. That’s just as silly as asking if priests are child molesters and if blondes are dumb—each of these has endless counterexamples of non-molesting priests, non-priest molesters, brilliant blondes, and idiotic gingers.
+**Of course not**. That’s just as silly as asking if priests are child molesters and if blondes are dumb—each of these has endless counterexamples of non-molesting priests, non-priest molesters, brilliant blondes, and idiotic gingers.
 
 So if Muslims aren’t terrorists, what’s the problem?   <h4>*Well…some people think that Muslims are terrorists…*</h4>
 
@@ -44,8 +44,8 @@ They did so not because they didn’t have a right to live in that neighborhood.
 They did so because they knew what their ongoing presence in that neighborhood would mean to the little girl’s family.&#160; Nothing was ever going to bring their little girl back, but every time they saw the boy’s parents or the boy himself, it would be like re-living that awful day again and again.
 </blockquote>
 
-This story is certainly compelling—playing the “think of the children” card is usually a sure bet—but I think it misses the mark. In this analogy, the boy who accidentally kills the girl moves away to spare the girl’s parents ongoing agony. If this were an accurate analogy to the Mosque kerfuffle, <strong>all </strong>little boys would have moved away.  <h4>*Alright so I’m still pissed about this Mosque, so what now?! * </h4>
+This story is certainly compelling—playing the “think of the children” card is usually a sure bet—but I think it misses the mark. In this analogy, the boy who accidentally kills the girl moves away to spare the girl’s parents ongoing agony. If this were an accurate analogy to the Mosque kerfuffle, **all **little boys would have moved away.  <h4>*Alright so I’m still pissed about this Mosque, so what now?! * </h4>
 
-<strong>I totally get that some people’s initial, emotional reaction is negative</strong>. What I can’t understand is how, after consideration of the obvious facts, people can stick to their initial prejudices. On most issues like taxes, health care, war, etc. I can respectfully disagree with differing views, but I just can’t get there with this one. Put on your big boy underpants and grow up.
+**I totally get that some people’s initial, emotional reaction is negative**. What I can’t understand is how, after consideration of the obvious facts, people can stick to their initial prejudices. On most issues like taxes, health care, war, etc. I can respectfully disagree with differing views, but I just can’t get there with this one. Put on your big boy underpants and grow up.
 
 For more thoughts on this, Cracked has a nice, [common sense article](http://www.cracked.com/blog/3-reasons-the-ground-zero-mosque-debate-makes-no-sense/), too.

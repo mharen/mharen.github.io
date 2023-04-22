@@ -18,7 +18,7 @@ title: "SAP Connector: \u201CERROR service '?' unknown\u201D (SOLVED)"
 So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working great to connect your .NET application to SAP when suddenly you start getting this error:
 <blockquote> 
 
-<strong>ERROR service '?' unknown</strong>
+**ERROR service '?' unknown**
 </blockquote>
 
 You probably have some code like this (or you’re just trying to [login](http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/) or get your app to run):  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
@@ -33,7 +33,7 @@ So what happened? I’m guessing you have a new machine or recently removed some
 <ol>
   <li>Open Notepad as an administrator </li>
 
-  <li>Open this file: <code><strong>%windir%\system32\drivers\etc\services</strong></code> </li>
+  <li>Open this file: <code>**%windir%\system32\drivers\etc\services**</code> </li>
 
   <li>Look around for services starting with &quot;sap&quot; </li>
 

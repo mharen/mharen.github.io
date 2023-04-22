@@ -22,13 +22,13 @@ I wanted to enable dynamic http compression. I found the page to *enable* it but
 
 It turns out that installing it is very easy and didn’t require a reboot (for me, at least):
 
-<strong>Text only</strong>
+**Text only**
 
 Install it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS)</li>    <li>Role Services (scroll down) &gt; Add Role Services</li>    <li>Add desired role (Web Server &gt; Performance &gt; Dynamic Content Compression)</li>    <li>Next, Install, Wait…Done!</li> </ol>
 
 Enable it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager</li>    <li>Next pane: Sites &gt; Default Web Site &gt; Your Web Site</li>    <li>Main pane: IIS &gt; Compression</li> </ol>
 
-<strong>With perdy pictures</strong>
+**With perdy pictures**
 
 Install it:  <ol>   <li>Open server manager     
 

@@ -43,7 +43,7 @@ That “protected-1.2.js” file looks like what we’re after. After it’s loa
         <span class="kwrd">if</span>(!allow(str)){
             <span class="kwrd">return</span> str;
         }<span class="kwrd">else</span>{
-            <span class="kwrd">return</span> <span class="str">&quot;<strong>Complete lyrics: </strong>&quot;</span>+ document.location.href;
+            <span class="kwrd">return</span> <span class="str">&quot;**Complete lyrics: **&quot;</span>+ document.location.href;
         }
     }
 

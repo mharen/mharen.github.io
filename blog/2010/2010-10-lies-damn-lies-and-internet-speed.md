@@ -54,10 +54,10 @@ Time Warner (credit to TW for making this easy to find):
 
 Props to Wide Open West for providing that information in the initial graphic, though their recommendation that 15mbps is needed for gaming is silly.
 
-The sad fact is that even if you pay for ridiculous internet like Time Warner’s best offer, or the other vendors top choices, your upload is still far, far slower. <strong>This matters because sending content goes at the slower upload speed.</strong>
+The sad fact is that even if you pay for ridiculous internet like Time Warner’s best offer, or the other vendors top choices, your upload is still far, far slower. **This matters because sending content goes at the slower upload speed.**
 
-<strong>I would rather pay $10 to improve my upload speed from 1 to 2 mbps than improve my download speed from 6 to 12 mbps. </strong>  <h4>Final Thoughts</h4>
+**I would rather pay $10 to improve my upload speed from 1 to 2 mbps than improve my download speed from 6 to 12 mbps. **  <h4>Final Thoughts</h4>
 
-I appreciate that vendors are trying to make this stuff easier to buy—that’s great, this stuff is confusing. My objection is that for today’s internet, “Basic”, “Pro” or <strong>anything around 5mbps is far and away sufficient for most people</strong>. The average live Hulu stream is [under 1.5mbps](http://www.hulu.com/support/technical_faq#reqs). The average website is plenty fast on the smallest connection you can buy. <strong>Vendors are not doing a good job justifying the upsell with any honesty.</strong>
+I appreciate that vendors are trying to make this stuff easier to buy—that’s great, this stuff is confusing. My objection is that for today’s internet, “Basic”, “Pro” or **anything around 5mbps is far and away sufficient for most people**. The average live Hulu stream is [under 1.5mbps](http://www.hulu.com/support/technical_faq#reqs). The average website is plenty fast on the smallest connection you can buy. **Vendors are not doing a good job justifying the upsell with any honesty.**
 
 I personally have a 6mbps line and find it more than adequate. If I can surf, stream Hulu, and blog while Sarah uploads all [those pictures](http://footedjammies.blogspot.com/), I think six ought to be enough for most people.

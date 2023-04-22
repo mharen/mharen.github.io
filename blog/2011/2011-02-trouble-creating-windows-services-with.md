@@ -42,7 +42,7 @@ NOTE: The option name includes the equal sign.
 </blockquote>
 
 
-It unhelpfully just dumps the usage information without telling me what I did wrong. After screwing around with it for far too long, I finally figured it out. It says that each “option name includes the equal sign”, but <strong>it also includes the space after the equal sign</strong>.
+It unhelpfully just dumps the usage information without telling me what I did wrong. After screwing around with it for far too long, I finally figured it out. It says that each “option name includes the equal sign”, but **it also includes the space after the equal sign**.
 
 
 It turns out that a literal, precise interpretation of the command line arguments is needed:

@@ -42,7 +42,7 @@ Hmm. Initially I thought this was some sort of ASP.NET trick to [remember scroll
 This was easily confirmed by actually clicking on the magnifying glass on my page and seeing requests like this:
 
 <blockquote>
-  <pre class="csharpcode">/Search?s=blah&amp;x=<strong><font color="#ff0000">5</font></strong>&amp;y=<strong><font color="#ff0000">3</font></strong></pre>
+  <pre class="csharpcode">/Search?s=blah&amp;x=**<font color="#ff0000">5</font>**&amp;y=**<font color="#ff0000">3</font>**</pre>
 </blockquote>
 
 

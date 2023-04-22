@@ -21,7 +21,7 @@ I was invited to participate in part of this Winter’s planning conference, a r
 
 ![IMG_20110204_101102%5B7%5D.jpg](IMG_20110204_101102%5B7%5D.jpg)</a>
 
-I arrived at a lodge Friday morning after a 2.5 hour drive to the Allegheny National Forest in Pennsylvania. This place wasn’t in the middle of nowhere, but it was pretty remote with narrow, winding, hills and no cell service. I met up with my group of crashers and landed in the conference room with approximately 20 managers. We observed an all-business presentation that was wrapping up before arriving at our primary agenda item “<strong>Safety on the Mountain; Battle Briefing</strong>”, presented by the President.
+I arrived at a lodge Friday morning after a 2.5 hour drive to the Allegheny National Forest in Pennsylvania. This place wasn’t in the middle of nowhere, but it was pretty remote with narrow, winding, hills and no cell service. I met up with my group of crashers and landed in the conference room with approximately 20 managers. We observed an all-business presentation that was wrapping up before arriving at our primary agenda item “**Safety on the Mountain; Battle Briefing**”, presented by the President.
 
 I should mention what the equipment list looked like, which gave the only other hint as to the day’s activities:
 <blockquote> 
