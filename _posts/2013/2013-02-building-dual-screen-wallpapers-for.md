@@ -1,0 +1,56 @@
+---
+date: '2013-02-19T21:59:00.002-05:00'
+description: ''
+published: true
+slug: 2013-02-building-dual-screen-wallpapers-for
+categories:
+- PowerShell
+- Technology
+time_to_read: 5
+title: Building Dual-Screen Wallpapers for Windows 7 with PowerShell
+---
+
+If you have two monitors you have probably noticed that you can’t easily put a different wallpaper on each screen in Windows 7 (this works out of the box in Windows 8). This is annoying. Sure you can fix this with third party tools, but I want to go a different route.
+
+The key to getting this to work is to recognize that if you choose a background image that is exactly the same size of your combined monitor real estate, it will automatically be stretched between the two screens. For instance, I have two screens, each running at 1280x1024. If I pick a wallpaper that is twice that width, 2560x1024, Windows will do what I want.
+
+Of course the problem then is finding wallpapers that fit that size. Google can help with discovering sites that tailor specifically to this problem.
+
+<strong>
+
+</strong>**But what if you already have single-monitor wallpapers that you want to use? All you really need to do is combine them into a single image.**
+
+<strong>
+
+</strong>![blogger-image--1475083773.jpg](blogger-image--1475083773.jpg)</a>
+
+I did this recently to an [entire collection](http://www.reddit.com/r/pics/comments/qiir8/45_calvin_hobbes_wallpapers_optimized_for/) of Calvin and Hobbes wallpapers. I wanted to show a different comic on each screen, but not always the same two at a time—I wanted to mimic the Windows 8 strategy of seemingly random wallpapers on random screens. 
+
+I combined two images manually, side by side at 2560x1024 once to confirm it would work, and then wrote a few lines of PowerShell to generate every possible combination with the help of the amazing [ImageMagick](http://www.imagemagick.org/) library (specifically the [montage](http://www.imagemagick.org/script/montage.php) command). The idea being that if I just pre-generate all the options, they will appear to be randomly assembled as they cycle through.
+
+Run this script in the dirctory containing all your single wallpapers and it will combine them into the dual-screen variety.
+
+Obviously this is crude--add your own flow control, resume support for large batches, etc....
+
+<pre class="csharpcode">$imgs = Get-ChildItem * -include *.jpg,*.png -exclude dual*
+
+<span class="kwrd">for</span> ($i=0; $i -lt $imgs.Length; $i++){ 
+    <span class="kwrd">for</span> ($j=0; $j -lt $imgs.Length; $j++){ 
+        <span class="kwrd">if</span>($i -eq $j){ <span class="kwrd">continue</span>; }
+        $left = $imgs[$i].Name
+        $right = $imgs[$j].Name
+        $extension = <span class="str">"jpg"</span>
+
+        $destination = [<span class="kwrd">string</span>]::Format(<span class="str">"dual/dual-{0}-{1}.{2}"</span>, $i, $j, $extension)
+
+        <span class="kwrd">if</span>(Test-Path $destination){
+            echo <span class="str">"Skipping $destination"</span>
+        }
+        <span class="kwrd">else</span>{
+            echo <span class="str">"Running: montage -geometry 1280x1024 $left $right $destination"</span>
+            montage -geometry 1280x1024 $left $right $destination
+        }
+    }
+}</pre>
+
+Change that <code>-geometry</code> part to fit your system, obviously, and yeah... just loop over everything :). 
