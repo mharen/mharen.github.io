@@ -1,0 +1,16 @@
+---
+date: '2004-06-16T20:00:00.000-04:00'
+description: ''
+published: true
+slug: 2004-06-movin-on-up
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Random Updates
+- legacy-blogger
+time_to_read: 5
+title: Movin' on up..
+---
+
+New address for the summer:<br />1185 Rose Court<br />Kent, OH 44240
+
+There'll still be people around at my usual address but for anything directly to sarah or myself, use the kent address.

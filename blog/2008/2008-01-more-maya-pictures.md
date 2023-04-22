@@ -1,0 +1,14 @@
+---
+date: '2008-01-05T17:34:00.000-05:00'
+description: ''
+published: true
+slug: 2008-01-more-maya-pictures
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Family
+- legacy-blogger
+time_to_read: 5
+title: More Maya Pictures
+---
+
+Just a quick note: Sarah has uploaded a bunch of <a href="/gallery2/v/MayaGraceFirstDays/?g2_page=5">new</a> <a href="/gallery2/v/MayaGraceFirstDays/?g2_page=6">pictures</a> of everyone's favorite baby. And now for the most pathetic look you will ever see in your life:<br /><p align="center"><img alt="Pathetic Maya" src="http://www.wassupy.com/wp-content/uploads/2008/01/pathetic-maya.jpg" /></p><br /><p align="center"><img alt="Happy Maya" src="http://www.wassupy.com/wp-content/uploads/2008/01/happy-maya1.jpg" /></p>

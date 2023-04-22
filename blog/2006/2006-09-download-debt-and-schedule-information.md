@@ -1,0 +1,19 @@
+---
+date: '2006-09-21T08:04:00.000-04:00'
+description: ''
+published: true
+slug: 2006-09-download-debt-and-schedule-information
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Money
+- legacy-blogger
+time_to_read: 5
+title: Download Debt and Schedule Information
+---
+
+<img align="right" alt="Excel Icon" id="image507" src="http://www.wassupy.com/wp-content/uploads/2006/09/excel.gif" style="padding: 3px;" />I have added a feature to the <a href="/debt">Debt Manager</a> that allows you to download your accounts and payment schedule as a CSV or XML file for easy import into Excel or other applications. Since CSV files do not support multiple sheets, you will need to download the account information separately from the payment schedule information.<br />
+<div style="text-align: center;"><img alt="Export/Download Features" id="image512" src="http://www.wassupy.com/wp-content/uploads/2006/09/excelFeature.gif" style="padding: 3px;" /></div><br /><img align="right" alt="XML" id="image509" src="http://www.wassupy.com/wp-content/uploads/2006/09/xml.gif" style="padding: 3px;" />XML on the other hand, supports multiple classes within a single file. This means that if you click either XML download link, you will receive both your account information and your payment schedule information.
+
+A note to any XML purists out there: in the XML output I make heavy use of attributes where elements may be more appropriate. Relax, I don't want to hear about it.
+
+As usual, posts related to the Debt Manager can be found in the <a href="/?cat=14">Money category</a>.

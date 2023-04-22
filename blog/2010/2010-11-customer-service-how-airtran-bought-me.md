@@ -1,0 +1,24 @@
+---
+date: '2010-11-19T00:35:00.001-05:00'
+description: ''
+published: true
+slug: 2010-11-customer-service-how-airtran-bought-me
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Around Town
+- Marketing
+- legacy-blogger
+time_to_read: 5
+title: 'Customer Service: How AirTran Bought Me For $0.50'
+---
+
+<p><img align="right" alt="airtran" height="99" src="http://lh6.ggpht.com/_IKD9WtY5kxU/TOYMk7-gzjI/AAAAAAAABQ0/xF2n6HF_fXg/airtran%5B2%5D.png?imgmax=800" style="margin: 0px; display: inline; float: right;" title="airtran" width="300" />I recently flew with AirTran and the experience was very pleasant. It didn’t start that way, though:</p>  <ul>   <li>Was I happy paying for a decent seat or a checked bag? No.</li>    <li>Was I happy arriving two hours early for my flight and doing the TSA dance? No.</li>    <li>Was I happy paying for WiFi? No.</li>    <li>Was the gate agent friendly even a little? No.</li>    <li>Could the gate agent read our tickets? No.</li>    <li>Could the gate agent have been any more curt and uninterested in her job? No…what’s with this woman—she needs a vacation or something.</li> </ul>  <p>The thing is, though, none of that mattered once I got on the plane. The courteous and friendly flight crew completely changed my attitude about the whole trip, and it wasn’t by giving me an upgrade or free booze. Instead they merely:</p>  <ul>   <li>Greeted me with genuine enthusiasm</li>    <li>Joked with me while I “assisted” with the safety speech (more on that in a minute)</li>    <li>Offered free headphones to use with the XM which I value at $0.50</li> </ul>  <p>Of course we were served complimentary soda/snacks but most airlines do that. The flight crew (including the captain) set themselves apart by being present in their duties and being authentic. I was particularly swayed by one particular flight attendant. She asked me to hold her bag of safety stuff (seat belt, oxygen mask, etc.) while she demoed them. I said something like, “Of course, no problem, I’m pretty much an expert at this kind of stuff. Do I get (plastic) wings?”</p>  <p>She replied, very coyly, “I’ll get you something *wink/nod*”.</p>  <p>I must digress for a moment to put my delightful wife at ease: even though I was pretty sure she was going to buy me a drink, and I was looking particularly handsome in my “flight suit” this was not flirting and TWSS was completely inappropriate at all times. This (much older) flight attendant was just being nice, as was I.</p>  <p>Back to it: they did the safety thing and then, because I was in an exit row, I promised to rip the side off the plane and guide everyone to flame-free refuge (if necessary). </p>  <p>And then a few minutes later, that nodding flight attendant came back and gave me not a drink, but instead free headphones for the XM, and a pair of those plastic wings normally reserved for children. I protested saying that I was just joking but she insisted and I accepted. It became apparent that I wasn’t actually all that special moments later when she offered free headphones to all nearby passengers (but only kids, me, and probably any adult who asked got the wings, so that’s something).</p>  <p><strong>My point </strong>with all this is simple: AirTran erased (for me) all the negative crap associated with air travel by spending a few extra seconds and $0.50. </p>  <p>This is a value-add for sure, and it shocks me that more airlines fail to do it effectively. AirTran seems to realize that all those bad things we hate about flying are constant across all carriers and as a result, they don’t have to fix those problems. Instead, they can distinguish themselves from their competition by much easier means: being slightly more human and slightly more comfortable.</p>  <p>If I’m allowed two points in one post, <strong>my second point is this</strong>: the passion of a company’s employees is evident whether those employees are behind the scenes building awesomely polished web applications or right up front greeting passengers. Their passion shows and it matters. Better technology, cheaper rates, nicer benefits, more freebies, etc. can’t equally compensate for better employees (or coworkers, friends, etc.).</p>
+
+---
+
+## 1 comments captured from [original post](https://blog.wassupy.com/2010/11/customer-service-how-airtran-bought-me.html) on Blogger
+
+**Sarah said on 2010-11-19**
+
+Very good post, honey :)  And that trampy flight attendant better not try anything.  I'm just sayin.
+

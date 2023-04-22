@@ -1,0 +1,23 @@
+---
+date: '2006-03-23T11:08:00.000-05:00'
+description: ''
+published: true
+slug: 2006-03-prime-numbers
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- School
+- Technology
+- legacy-blogger
+time_to_read: 5
+title: Prime Numbers
+---
+
+I know there are few that appreciate numbers as much as me. If you're not one of them, stop reading now.
+
+Wikipedia is loaded with information on numbers. I have been focusing lately on prime numbers. Wikipedia lists <a href="http://en.wikipedia.org/wiki/List_of_prime_numbers">59 different "kinds"</a> of prime numbers. A prime fits into a specific category if it is prime and has some other special characteristic.
+
+For example, a prime (i) is a <a href="http://en.wikipedia.org/wiki/Twin_prime">twin prime</a> if (i-2) <em>or </em>(i+2) is also prime. That is, 5 and 7 are twin primes, but 13 and 17 are not.
+
+Another interesting class of primes is "<a href="http://en.wikipedia.org/wiki/Illegal_prime">Illegal Primes</a>". Illegal primes are numbers that are prime and also <em>illegal</em>. The web quotes only two numbers to be potentially illegal primes. The numbers could be considered illegal because their <a href="http://en.wikipedia.org/wiki/Binary_file" title="00010111101001010000101010100"><em>binary representation</em></a> could be deemed illegal.
+
+The example of this is the DVD decrypting program <a href="http://en.wikipedia.org/wiki/DeCSS">DeCSS</a>. That is, the DeCSS application could be archived (merely to allow for padding, I guess). It's binary code could then be converted to the decimal equivalent of a prime number, thus making the decimal number illegal. (by <em>decimal </em>i mean <a href="http://en.wikipedia.org/wiki/Base_10">base-10</a>, not a number with a decimal point.)

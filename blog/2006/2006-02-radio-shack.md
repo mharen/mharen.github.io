@@ -1,0 +1,16 @@
+---
+date: '2006-02-21T05:57:00.000-05:00'
+description: ''
+published: true
+slug: 2006-02-radio-shack
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- In the News
+- legacy-blogger
+time_to_read: 5
+title: Radio Shack
+---
+
+<img alt="Radio Shack Logo" src="http://rsk.imageg.net/images/rsk_header_logo.gif" style="float: right;" /><a href="http://ldopa.net/2006/02/21/radio-shack-announces-free-tv-downloads/">This</a> is hilariously clever.
+
+In other news, Radio Shack is <a href="http://www.forbes.com/technology/feeds/afx/2006/02/20/afx2539792.html">headed down the tubes</a>. Big shocker there...when's the last time you bought something at Radio Shack? 1996?

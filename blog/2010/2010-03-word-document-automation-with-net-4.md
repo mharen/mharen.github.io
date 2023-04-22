@@ -1,0 +1,54 @@
+---
+date: '2010-03-01T14:03:00.001-05:00'
+description: ''
+published: true
+slug: 2010-03-word-document-automation-with-net-4
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Work
+- Technology
+- legacy-blogger
+time_to_read: 5
+title: 'Word Document Automation with .NET 4: Attach Styles From a Template'
+---
+
+<p>I’ve been working with document generation a <a href="http://blog.wassupy.com/2010/02/word-document-automation-with-net-4.html">bit</a> <a href="http://blog.wassupy.com/2010/02/word-document-automation-with-net-4_27.html">lately</a>. The latest hurdle I’ve had to jump is related to styles. I’ve found that the technique I’m using to merge styles is nice and easy but has one undesired feature: each source doc brings its own styles with it, overwriting any existing styles that have already been imported as it goes. This is nice in a lot of ways, but not what I want at the moment.</p>  <p>After a lot of trial and error, I’ve come up with a super simple way to apply a single set of styles to the finished document:</p>  <pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> StyleDocument(Document document, <span class="kwrd">string</span> templateFile)
+{
+    document.CopyStylesFromTemplate(templateFile);
+}</pre>
+
+<p>That’s it! This will take all the styles from the given .dotx or .docx file and apply them to the given document object. If you only have a file path of the document that needs to be styled, you’ll need to open/close it, too, with this overload (in addition to the above method):</p>
+
+<pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> StyleDocument(<span class="kwrd">string</span> file, <span class="kwrd">string</span> templateFile)
+{
+    Application WordApp = <span class="kwrd">null</span>;
+
+    <span class="kwrd">try</span>
+    {
+        WordApp = <span class="kwrd">new</span> Application();
+        var Document = WordApp.Documents.Open(file);
+        StyleDocument(Document, templateFile);
+    }
+    <span class="kwrd">finally</span>
+    {
+        DisposeApp(WordApp);
+    }
+}</pre>
+
+<p>Where <code class="csharpcode">DisposeApp(…)</code> is just a helper to cleanup my mess:</p>
+
+<pre class="csharpcode"><span class="kwrd">private</span> <span class="kwrd">static</span> <span class="kwrd">void</span> DisposeApp(Application WordApp)
+{
+    <span class="kwrd">if</span> (WordApp != <span class="kwrd">null</span>)
+    {
+        <span class="kwrd">foreach</span> (var Doc <span class="kwrd">in</span> WordApp.Documents)
+        {
+            (Doc <span class="kwrd">as</span> _Document).Close();
+        }
+        (WordApp <span class="kwrd">as</span> _Application).Quit();
+
+        System.Runtime.InteropServices.Marshal.FinalReleaseComObject(WordApp);
+    }
+}</pre>
+
+<p>This technique is far, far nicer than working with the styles manually.</p>

@@ -1,0 +1,17 @@
+---
+date: '2006-06-19T08:21:00.000-04:00'
+description: ''
+published: true
+slug: 2006-06-game-7-canes-vs-oilers
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Work
+- Hockey
+- In the News
+- Random Updates
+- legacy-blogger
+time_to_read: 5
+title: 'Game 7: Canes vs. Oilers'
+---
+
+<div style="text-align: center;"><img src="http://www.wassupy.com/blog-images/caneslogo.gif" /></div><br />This just in: I am <em>going </em>to GAME 7 of the <a href="http://www.nhl.com/cup/index.html">Stanley Cup</a> tonight. Holy bejesus. This is reason #248 to work at <a href="http://www.rovisys.com/rovisys/About/news.asp">Rovisys</a>.It all comes down to this, folks.

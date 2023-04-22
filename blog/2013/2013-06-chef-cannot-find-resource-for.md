@@ -1,0 +1,41 @@
+---
+date: '2013-06-14T09:45:00.001-04:00'
+description: ''
+published: true
+slug: 2013-06-chef-cannot-find-resource-for
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Chef
+- Windows
+- Work
+- Code
+- Technology
+- legacy-blogger
+time_to_read: 5
+title: 'Chef: Cannot find a resource for powershell on windows version 6.1.7600 (solved)'
+---
+
+<p>While working on some deployment stuff I ran into this error:</p> <blockquote> <p><em>Cannot find a resource for powershell on windows version 6.1.7600</em></p></blockquote> <p>The <a href="http://community.opscode.com/chat/chef/2012-11-06#id-228600">solution</a> turned out to be pretty obvious, and easy: <strong>include the powershell cookbook</strong>. For some reason I assumed it came in as part of the windows cookbook, but no. So just include it in your metadata.rb file like so:</p> <blockquote><pre class="csharpcode">name             <span class="str">'...'</span>
+maintainer       <span class="str">'...'</span>
+maintainer_email <span class="str">'...'</span>
+description      <span class="str">'...'</span>
+long_description IO.read(File.join(File.dirname(__FILE__), <span class="str">'README.md'</span>))
+version          <span class="str">'0.1.0'</span>
+depends          <span class="str">'windows'</span>
+<strong><font style="background-color: #ffff00;">depends          <span class="str">'powershell'</span></font></strong></pre></blockquote>
+<p>Of course, if you’re using Chef Solo, you’ll want to download your dependent cookbooks, too.</p>
+
+---
+
+## 2 comments captured from [original post](https://blog.wassupy.com/2013/06/chef-cannot-find-resource-for.html) on Blogger
+
+**seema said on 2014-01-08**
+
+Hi,<br />I have facing the error<br />&quot;cannot find a resource for windows_package on windows version 6.1.7601&quot;<br />during executing cookbook.<br />Please give me the solution.
+
+**Unknown said on 2014-04-01**
+
+You have to add dependency in metadata.rb .<br />Add following lines at the end of file metadata.rb
+
+1.%w{ windows }.each do |dep|<br />2.        depends dep<br />3.end<br />
+

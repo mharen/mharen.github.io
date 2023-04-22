@@ -1,0 +1,18 @@
+---
+date: '2006-02-13T05:17:00.000-05:00'
+description: ''
+published: true
+slug: 2006-02-careful-there
+tags:
+- http://schemas.google.com/blogger/2008/kind#post
+- Technology
+- legacy-blogger
+time_to_read: 5
+title: Careful there...
+---
+
+For those of you that took my advice from the post "<a href="http://wassupy.com/?p=441">Oh, you work with computers?</a>" and installed Microsoft's AntiSpyware, you should be aware that a recent update could ruin your Norton Antivirus installation. At least that's what <a href="http://blog.washingtonpost.com/securityfix/2006/02/microsoft_antispyware_deleting_1.html">this article</a> claims.
+
+You will probably be fine if you wait and update your software in a few days. In any case, look through the items to be "cleaned" before you "clean" them!
+
+If it's too late, see if the support offerred in the article helps. If not, let me know.
