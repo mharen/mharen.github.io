@@ -8,39 +8,41 @@ title: Word Document Automation with .NET 4
 ---
 
 
-I’ve been toying around with some document generation lately and thought I’d share a bit of what I’ve learned. Here’s a method for extracting a list of custom properties in use in the document:  <pre class="csharpcode"><span class="rem">/// &lt;summary&gt;</span>
-<span class="rem">/// Retrieves custom properties from a given Word document</span>
-<span class="rem">/// &lt;/summary&gt;</span>
-<span class="rem">/// &lt;param name=&quot;file&quot;&gt;Full path to the Word document&lt;/param&gt;</span>
-<span class="rem">/// &lt;returns&gt;A dictionary representation of the document's custom properties&lt;/returns&gt;</span>
-<span class="kwrd">public</span> <span class="kwrd">static</span> Dictionary&lt;<span class="kwrd">string</span>, <span class="kwrd">string</span>&gt; GetDocProperties(<span class="kwrd">string</span> file)
+I’ve been toying around with some document generation lately and thought I’d share a bit of what I’ve learned. Here’s a method for extracting a list of custom properties in use in the document:  
+```cs
+/// <summary>
+/// Retrieves custom properties from a given Word document
+/// </summary>
+/// <param name="file">Full path to the Word document</param>
+/// <returns>A dictionary representation of the document's custom properties</returns>
+public static Dictionary<string, string> GetDocProperties(string file)
 {
-    Application WordApp = <span class="kwrd">null</span>;
-    var DocProperties = <span class="kwrd">new</span> Dictionary&lt;<span class="kwrd">string</span>, <span class="kwrd">string</span>&gt;();
+    Application WordApp = null;
+    var DocProperties = new Dictionary<string, string>();
 
-    <span class="kwrd">try</span>
+    try
     {
-        <span class="rem">// spin up a new WinWord.exe</span>
-        WordApp = <span class="kwrd">new</span> Application();
+        // spin up a new WinWord.exe
+        WordApp = new Application();
 
-        <span class="rem">// open the specified document</span>
+        // open the specified document
         WordApp.Documents.Open(file);
 
-        <span class="rem">// grab the custom properties container</span>
+        // grab the custom properties container
         dynamic CustomProps = WordApp.ActiveDocument.CustomDocumentProperties;
 
-        <span class="rem">// extract each property</span>
-        <span class="kwrd">foreach</span> (var Prop <span class="kwrd">in</span> CustomProps)
+        // extract each property
+        foreach (var Prop in CustomProps)
         {
             DocProperties.Add(Prop.Name, Prop.Value);
         }
     }
-    <span class="kwrd">finally</span>
+    finally
     {
-        <span class="rem">// close doc and shutdown word</span>
-        <span class="kwrd">if</span> (WordApp != <span class="kwrd">null</span>)
+        // close doc and shutdown word
+        if (WordApp != null)
         {
-            <span class="kwrd">if</span> (WordApp.ActiveDocument != <span class="kwrd">null</span>)
+            if (WordApp.ActiveDocument != null)
             {
                 WordApp.ActiveDocument.Close();
             }
@@ -48,9 +50,11 @@ I’ve been toying around with some document generation lately and thought I’d
         }
     }
 
-    <span class="rem">// return properties</span>
-    <span class="kwrd">return</span> DocProperties;
-}</pre>
+    // return properties
+    return DocProperties;
+}
+```
+
 
 
 This is so much easier and cleaner with .NET4’s new dynamic capabilities and how nice it plays with COM. To use this, add the following references to your project:

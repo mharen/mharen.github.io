@@ -20,5 +20,5 @@ Without my camera phone (Droid Incredible), I would not have captured any of the
 
 **Sarah said on 2010-09-30**
 
-Love this post &lt;3  But you knew that already :D
+Love this post <3  But you knew that already :D
 

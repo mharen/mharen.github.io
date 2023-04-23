@@ -32,18 +32,22 @@ First, we need to represent the game elements. We’ll start with something crud
 
 If JSON (Javascript object notation) is unfamiliar to you, check [it out](http://www.json.org/). It’s pretty important.
 
-The board looks like this in JSON:  <pre class="csharpcode"><span class="kwrd">var</span> board = [
-    <span class="rem">// ...</span>
-    { color: <span class="str">'Purple'</span> },
-    { color: <span class="str">'Yellow'</span>, bridgeTo: 45 },
-    { color: <span class="str">'Blue'</span> },
-    <span class="rem">// ...</span>
-    { color: <span class="str">'Green'</span> },
-    { color: <span class="str">'Red'</span>, loseTurn: <span class="kwrd">true</span> },
-    { color: <span class="str">'Purple'</span> },
-    { color: <span class="str">'Yellow'</span> }
-    <span class="rem">// ...</span>
-];</pre>
+The board looks like this in JSON:  
+```cs
+var board = [
+    // ...
+    { color: 'Purple' },
+    { color: 'Yellow', bridgeTo: 45 },
+    { color: 'Blue' },
+    // ...
+    { color: 'Green' },
+    { color: 'Red', loseTurn: true },
+    { color: 'Purple' },
+    { color: 'Yellow' }
+    // ...
+];
+```
+
 
 
 Here’s the [full board](http://jsfiddle.net/mharen/crgAX/3/). Basically we have an array of hashes. Each hash represents a square on the board and has the following properties:
@@ -59,37 +63,53 @@ Here’s the [full board](http://jsfiddle.net/mharen/crgAX/3/). Basically we hav
 
 Next we need the deck of cards:
 
-<pre class="csharpcode"><span class="kwrd">var</span> cards = [
-    <span class="str">'Red'</span>   , <span class="str">'Red'</span>   , <span class="str">'Red'</span>   , <span class="str">'Red'</span>   , <span class="str">'Red'</span>   , <span class="str">'Red'</span>   , <span class="str">'Red'</span>   , <span class="str">'Red'</span>   ,
-    <span class="str">'Purple'</span>, <span class="str">'Purple'</span>, <span class="str">'Purple'</span>, <span class="str">'Purple'</span>, <span class="str">'Purple'</span>, <span class="str">'Purple'</span>, <span class="str">'Purple'</span>, <span class="str">'Purple'</span>,
-    <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>, <span class="str">'Yellow'</span>,
-    <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  , <span class="str">'Blue'</span>  ,
-    <span class="str">'Orange'</span>, <span class="str">'Orange'</span>, <span class="str">'Orange'</span>, <span class="str">'Orange'</span>, <span class="str">'Orange'</span>, <span class="str">'Orange'</span>, <span class="str">'Orange'</span>, <span class="str">'Orange'</span>,
-    <span class="str">'Green'</span> , <span class="str">'Green'</span> , <span class="str">'Green'</span> , <span class="str">'Green'</span> , <span class="str">'Green'</span> , <span class="str">'Green'</span> , <span class="str">'Green'</span> , <span class="str">'Green'</span> ,
+
+```cs
+var cards = [
+    'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   ,
+    'Purple', 'Purple', 'Purple', 'Purple', 'Purple', 'Purple', 'Purple', 'Purple',
+    'Yellow', 'Yellow', 'Yellow', 'Yellow', 'Yellow', 'Yellow', 'Yellow', 'Yellow',
+    'Blue'  , 'Blue'  , 'Blue'  , 'Blue'  , 'Blue'  , 'Blue'  , 'Blue'  , 'Blue'  ,
+    'Orange', 'Orange', 'Orange', 'Orange', 'Orange', 'Orange', 'Orange', 'Orange',
+    'Green' , 'Green' , 'Green' , 'Green' , 'Green' , 'Green' , 'Green' , 'Green' ,
     
-    <span class="str">'2Red'</span>, <span class="str">'2Blue'</span>, <span class="str">'2Purple'</span>, <span class="str">'2Orange'</span>, <span class="str">'2Yellow'</span>, <span class="str">'2Green'</span>,
-    <span class="str">'2Red'</span>, <span class="str">'2Blue'</span>, <span class="str">'2Purple'</span>, <span class="str">'2Orange'</span>, <span class="str">'2Yellow'</span>, <span class="str">'2Green'</span> ,
+    '2Red', '2Blue', '2Purple', '2Orange', '2Yellow', '2Green',
+    '2Red', '2Blue', '2Purple', '2Orange', '2Yellow', '2Green' ,
     
-    <span class="str">'Gingerbread Man'</span>, <span class="str">'Candy Cane'</span>, <span class="str">'Gum Drop'</span>, <span class="str">'Peanut'</span>, <span class="str">'Lolly Pop'</span>, <span class="str">'Ice Cream Cone'</span>
-];</pre>
+    'Gingerbread Man', 'Candy Cane', 'Gum Drop', 'Peanut', 'Lolly Pop', 'Ice Cream Cone'
+];
+```
+
 
 
 With those in place, we can now do simple things like counting spaces:
 
-<pre class="csharpcode">alert(board.length);</pre>
+
+```cs
+alert(board.length);
+```
+
 
 
 Or counting cards:
 
-<pre class="csharpcode">alert(cards.length);</pre>
+
+```cs
+alert(cards.length);
+```
+
 
 
 Or peeking at a [random](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Math/random) card from the deck:
 
-<pre class="csharpcode"><span class="kwrd">var</span> cardCount = cards.length;
-<span class="kwrd">var</span> randomIndex = Math.floor(Math.random() * cardCount);
-<span class="kwrd">var</span> randomCard = cards[randomIndex];
-alert(randomCard);</pre>
+
+```cs
+var cardCount = cards.length;
+var randomIndex = Math.floor(Math.random() * cardCount);
+var randomCard = cards[randomIndex];
+alert(randomCard);
+```
+
 
 
 I haven’t decided how to simulate shuffling yet (shuffle first, or draw randomly)—we’ll talk about that and do it tomorrow.

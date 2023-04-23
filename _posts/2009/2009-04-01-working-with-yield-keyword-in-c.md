@@ -16,9 +16,9 @@ namespace WorkingWithYield
 {
  class Program
  {
-     static IEnumerable&lt;string&gt; GetIDs()
+     static IEnumerable<string> GetIDs()
      {
-         for (int i = 0; i &lt; 10; i++)
+         for (int i = 0; i < 10; i++)
          {
              Console.WriteLine("generating " + i);
              yield return i.ToString();
@@ -27,7 +27,7 @@ namespace WorkingWithYield
 
      static void Main(string[] args)
      {
-         IEnumerable&lt;string&gt; IDs = GetIDs();
+         IEnumerable<string> IDs = GetIDs();
 
          foreach (string ID in IDs)
              Console.WriteLine("printing   " + ID);
@@ -36,7 +36,9 @@ namespace WorkingWithYield
      }
  }
 }
-</pre>Output:
+
+```
+Output:
 <blockquote>generating 0
 printing   0
 generating 1

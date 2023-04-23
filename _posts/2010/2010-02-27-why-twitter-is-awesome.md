@@ -37,7 +37,7 @@ I was working on a project which is using a lot of the same libraries that Stack
 And his very prompt response:
 <blockquote> 
 
-r @[mharen](http://twitter.com/mharen) our version is on Google Code, or you can dig through the fork-splosion on github and try to guess which version is &quot;best&quot; [7:33 PM Feb 8th](http://twitter.com/codinghorror/status/8832188858)
+r @[mharen](http://twitter.com/mharen) our version is on Google Code, or you can dig through the fork-splosion on github and try to guess which version is "best" [7:33 PM Feb 8th](http://twitter.com/codinghorror/status/8832188858)
 </blockquote>
 
 In ***three*** minutes I had my answer from the top guy of the a product that’s used by bajillions (if not gajillions) of people. Even if he hadn’t answered, I was hoping that someone else might (this wasn’t a private query).  <h4>Example 3: Red Gate’s Neil Davidson</h4>
@@ -57,7 +57,7 @@ A half-hour later, I see this in my feed:
 It’s at this point that I realize who wrote the book: [Neil Davidson](http://www.neildavidson.com/), co-founder/joint CEO of [Red Gate Software](http://www.red-gate.com/), and founder&#160; of the [Business of Software conferences](http://blog.businessofsoftware.org/) among other things. A cool guy to get to know, no doubt. I finished the book and left a review as he asked and took the opportunity to ask about one of his products:
 <blockquote> 
 
-@[NeilDavidson](http://twitter.com/NeilDavidson) you bet; we use a lot of your products btw--thanks! What's up with Log Rescue not supporting SQL &gt;2000? Anything planned? [9:40 AM Nov 3rd, 2009](http://twitter.com/mharen/status/5392617100)
+@[NeilDavidson](http://twitter.com/NeilDavidson) you bet; we use a lot of your products btw--thanks! What's up with Log Rescue not supporting SQL >2000? Anything planned? [9:40 AM Nov 3rd, 2009](http://twitter.com/mharen/status/5392617100)
 </blockquote>
 
 To which I got a very simple and candid reply (the beauty of the 140 character limit!):

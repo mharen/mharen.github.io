@@ -75,7 +75,7 @@ Pretty sure that you meant your parenthetical:
 
 (I’m assuming that “64k” means 64 kilobits per minute.)
 
-... to read &quot;64 kilobytes per second&quot;
+... to read "64 kilobytes per second"
 
 Minor point, though, because the rest of your post, including the calculations, uses the correct units.
 

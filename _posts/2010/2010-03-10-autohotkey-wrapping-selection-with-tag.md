@@ -13,15 +13,17 @@ title: 'Autohotkey: Wrapping the selection with a tag'
 
 I’ve been blogging about software a lot and these posts are often heavy with terms or phrases that I wrap in <code>http://www.autohotkey.com/</code> tags. Unfortunately, my editor ([Live Writer](http://download.live.com/writer)), as awesome as it is, doesn’t support something like this. AutoHotKey to the rescue!
 
-Here’s the script:  <pre><code class="csharpcode">#c::                       <span class="rem">; fire on WIN+c</span>
-AutoTrim Off               <span class="rem">; Retain any leading and trailing whitespace on the clipboard.</span>
-ClipSaved := ClipboardAll  <span class="rem">; Save the entire clipboard so we can restore it when we're done</span>
-SendInput ^x               <span class="rem">; cut the selection to the clipboard</span>
-ClipWait                   <span class="rem">; wait for the clipboard to contain something</span>
-SendInput &lt;code&gt;%clipboard%&lt;/code&gt; <span class="rem">; Output what was selected, surrounded by &lt;code&gt; tags</span>
-Clipboard := ClipSaved     <span class="rem">; Restore the original clipboard</span>
-ClipSaved =                <span class="rem">; Free the memory in case the clipboard was very large.</span>
-return</code></pre>
+Here’s the script:  <pre><code class="csharpcode">#c::                       ; fire on WIN+c
+AutoTrim Off               ; Retain any leading and trailing whitespace on the clipboard.
+ClipSaved := ClipboardAll  ; Save the entire clipboard so we can restore it when we're done
+SendInput ^x               ; cut the selection to the clipboard
+ClipWait                   ; wait for the clipboard to contain something
+SendInput <code>%clipboard%</code> ; Output what was selected, surrounded by <code> tags
+Clipboard := ClipSaved     ; Restore the original clipboard
+ClipSaved =                ; Free the memory in case the clipboard was very large.
+return</code>
+```
 
 
-Load this into your AHK script, hit reload, and fire away. Select some text, hit <code>WIN+C</code>, and watch in amazement as it is surrounded by <code>&lt;code&gt;</code> tags.
+
+Load this into your AHK script, hit reload, and fire away. Select some text, hit <code>WIN+C</code>, and watch in amazement as it is surrounded by <code><code></code> tags.

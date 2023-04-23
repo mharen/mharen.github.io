@@ -13,73 +13,85 @@ Suppose you want to override some behavior in a NopCommerce service via a plugin
 
 The answer turns out to be pretty simple: **just add it to your constructor, and the dependency resolver will figure it out for you.** (You don’t need to worry about it.)
 
-Here’s an example. I want to override the PictureService. So I started with this:<pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> MyPictureService : PictureService
+Here’s an example. I want to override the PictureService. So I started with this:
+```cs
+    public class MyPictureService : PictureService
     {
-        <span class="rem">// constructor</span>
-        <span class="kwrd">public</span> MyPictureService(
-            IRepository&lt;Picture&gt; pictureRepository, 
-            IRepository&lt;ProductPicture&gt; productPictureRepository,
+        // constructor
+        public MyPictureService(
+            IRepository<Picture> pictureRepository, 
+            IRepository<ProductPicture> productPictureRepository,
             ISettingService settingService, 
             IWebHelper webHelper, 
             ILogger logger, 
             IEventPublisher eventPublisher, 
             MediaSettings mediaSettings,
-            : <span class="kwrd">base</span>(pictureRepository, productPictureRepository, settingService, 
+            : base(pictureRepository, productPictureRepository, settingService, 
                 webHelper, logger, eventPublisher, mediaSettings)
         {
         }
 
-        <span class="rem">// my overrides</span>
-    }</pre>
+        // my overrides
+    }
+```
 
-So you can see that we get a lot of stuff by default. If we want to use any of those services, we need to create class variables for them (the base class marks them private), like so:<pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> MyPictureService : PictureService
+
+So you can see that we get a lot of stuff by default. If we want to use any of those services, we need to create class variables for them (the base class marks them private), like so:
+```cs
+    public class MyPictureService : PictureService
     {
-        <span class="kwrd">protected</span> <span class="kwrd">readonly</span> ILoggerService Logger;
+        protected readonly ILoggerService Logger;
 
-        <span class="rem">// constructor</span>
-        <span class="kwrd">public</span> MyPictureService(
-            IRepository&lt;Picture&gt; pictureRepository, 
-            IRepository&lt;ProductPicture&gt; productPictureRepository,
+        // constructor
+        public MyPictureService(
+            IRepository<Picture> pictureRepository, 
+            IRepository<ProductPicture> productPictureRepository,
             ISettingService settingService, 
             IWebHelper webHelper, 
             ILogger logger, 
             IEventPublisher eventPublisher, 
             MediaSettings mediaSettings,
-            : <span class="kwrd">base</span>(pictureRepository, productPictureRepository, settingService, 
+            : base(pictureRepository, productPictureRepository, settingService, 
                 webHelper, logger, eventPublisher, mediaSettings)
         {
             Logger = logger;
         }
 
-        <span class="rem">// my overrides</span>
-    }</pre>
+        // my overrides
+    }
+```
 
-And if I want to add a service or repo that’s not there already? Just add it:<pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> MyPictureService : PictureService
+
+And if I want to add a service or repo that’s not there already? Just add it:
+```cs
+    public class MyPictureService : PictureService
     {
-        <span class="kwrd">protected</span> <span class="kwrd">readonly</span> ILoggerService Logger;
-        <span class="kwrd">protected</span> <span class="kwrd">readonly</span> ISpecificationAttributeService SpecificationAttributeService;
+        protected readonly ILoggerService Logger;
+        protected readonly ISpecificationAttributeService SpecificationAttributeService;
 
-        <span class="rem">// constructor</span>
-        <span class="kwrd">public</span> MyPictureService(
-            IRepository&lt;Picture&gt; pictureRepository, 
-            IRepository&lt;ProductPicture&gt; productPictureRepository,
+        // constructor
+        public MyPictureService(
+            IRepository<Picture> pictureRepository, 
+            IRepository<ProductPicture> productPictureRepository,
             ISettingService settingService, 
             IWebHelper webHelper, 
             ILogger logger, 
             IEventPublisher eventPublisher, 
             MediaSettings mediaSettings,
-            <span class="rem">// just add it to the constructor!</span>
+            // just add it to the constructor!
             ISpecificationAttributeService specificationAttributeService)
-            : <span class="kwrd">base</span>(pictureRepository, productPictureRepository, settingService, 
+            : base(pictureRepository, productPictureRepository, settingService, 
                 webHelper, logger, eventPublisher, mediaSettings)
         {
             Logger = logger;
 
-            <span class="rem">// and use it</span>
+            // and use it
             SpecificationAttributeService = specificationAttributeService;
         }
 
-        <span class="rem">// my overrides</span>
-    }</pre>
+        // my overrides
+    }
+```
+
 
 Have fun!

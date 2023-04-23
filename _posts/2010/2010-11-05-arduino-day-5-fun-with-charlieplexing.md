@@ -42,97 +42,99 @@ I don’t fully understand how thing thing works but it does. Let Google lead yo
 I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
 
 Today’s changes are in bold:
-<blockquote>   <pre class="csharpcode"><strong><span class="kwrd">int</span> Pins[] = { 2, 3, 4 };
-<span class="kwrd">int</span> Leds[6][2] = 
+<blockquote>   
+```cs
+<strong>int Pins[] = { 2, 3, 4 };
+int Leds[6][2] = 
 {
   { 0, 1 }, { 1, 0 },
   { 0, 2 }, { 2, 0 },
   { 1, 2 }, { 2, 1 } 
 };
 </strong>
-<span class="preproc">#define</span> PinCount (<span class="kwrd">sizeof</span>(Pins)/<span class="kwrd">sizeof</span>(<span class="kwrd">int</span>))
-<strong><span class="preproc">#define</span> LedCount (<span class="kwrd">sizeof</span>(Leds)/<span class="kwrd">sizeof</span>(<span class="kwrd">int</span>))
+#define PinCount (sizeof(Pins)/sizeof(int))
+<strong>#define LedCount (sizeof(Leds)/sizeof(int))
 </strong>
-<span class="rem">// notes adapted from http://www.phy.mtu.edu/~suits/notefreqs.html</span>
-<span class="rem">// with some help from Excel and my amazing, super talented wife</span>
-<span class="rem">// who is not completely tone deaf like me</span>
-<span class="preproc">#define</span> c0 164
-<span class="preproc">#define</span> c0s 173
-<span class="preproc">#define</span> d0 184
-<span class="preproc">#define</span> d0s 195
-<span class="preproc">#define</span> e0 206
-<span class="preproc">#define</span> f0 218
-<span class="preproc">#define</span> f0s 231
-<span class="preproc">#define</span> g0 245
-<span class="preproc">#define</span> g0s 260
-<span class="preproc">#define</span> a0 275
-<span class="preproc">#define</span> a0s 291
-<span class="preproc">#define</span> b0 309
-<span class="preproc">#define</span> c1 327
-<span class="preproc">#define</span> c1s 347
-<span class="preproc">#define</span> d1 367
-<span class="preproc">#define</span> d1s 389
-<span class="preproc">#define</span> e1 412
-<span class="preproc">#define</span> f1 437
-<span class="preproc">#define</span> f1s 463
-<span class="preproc">#define</span> g1 490
-<span class="preproc">#define</span> g1s 519
-<span class="preproc">#define</span> a1 550
-<span class="preproc">#define</span> a1s 583
-<span class="preproc">#define</span> b1 617
-<span class="preproc">#define</span> c2 654
-<span class="preproc">#define</span> c2s 693
-<span class="preproc">#define</span> d2 734
-<span class="preproc">#define</span> d2s 778
-<span class="preproc">#define</span> e2 824
-<span class="preproc">#define</span> f2 873
-<span class="preproc">#define</span> f2s 925
-<span class="preproc">#define</span> g2 980
-<span class="preproc">#define</span> g2s 1038
-<span class="preproc">#define</span> a2 1100
-<span class="preproc">#define</span> a2s 1165
-<span class="preproc">#define</span> b2 1235
-<span class="preproc">#define</span> c3 1308
-<span class="preproc">#define</span> c3s 1386
-<span class="preproc">#define</span> d3 1468
-<span class="preproc">#define</span> d3s 1556
-<span class="preproc">#define</span> e3 1648
-<span class="preproc">#define</span> f3 1746
-<span class="preproc">#define</span> f3s 1850
-<span class="preproc">#define</span> g3 1960
-<span class="preproc">#define</span> g3s 2077
-<span class="preproc">#define</span> a3 2200
-<span class="preproc">#define</span> a3s 2331
-<span class="preproc">#define</span> b3 2469
-<span class="preproc">#define</span> c4 2616
-<span class="preproc">#define</span> c4s 2772
-<span class="preproc">#define</span> d4 2937
-<span class="preproc">#define</span> d4s 3111
-<span class="preproc">#define</span> e4 3296
-<span class="preproc">#define</span> f4 3492
-<span class="preproc">#define</span> f4s 3700
-<span class="preproc">#define</span> g4 3920
-<span class="preproc">#define</span> g4s 4153
-<span class="preproc">#define</span> a4 4400
-<span class="preproc">#define</span> a4s 4662
-<span class="preproc">#define</span> b4 4939
-<span class="preproc">#define</span> c5 5233
-<span class="preproc">#define</span> c5s 5544
-<span class="preproc">#define</span> d5 5873
-<span class="preproc">#define</span> d5s 6223
-<span class="preproc">#define</span> e5 6593
-<span class="preproc">#define</span> f5 6985
-<span class="preproc">#define</span> f5s 7400
-<span class="preproc">#define</span> g5 7840
-<span class="preproc">#define</span> g5s 8306
-<span class="preproc">#define</span> a5 8800
-<span class="preproc">#define</span> a5s 9323
-<span class="preproc">#define</span> b5 9878
+// notes adapted from http://www.phy.mtu.edu/~suits/notefreqs.html
+// with some help from Excel and my amazing, super talented wife
+// who is not completely tone deaf like me
+#define c0 164
+#define c0s 173
+#define d0 184
+#define d0s 195
+#define e0 206
+#define f0 218
+#define f0s 231
+#define g0 245
+#define g0s 260
+#define a0 275
+#define a0s 291
+#define b0 309
+#define c1 327
+#define c1s 347
+#define d1 367
+#define d1s 389
+#define e1 412
+#define f1 437
+#define f1s 463
+#define g1 490
+#define g1s 519
+#define a1 550
+#define a1s 583
+#define b1 617
+#define c2 654
+#define c2s 693
+#define d2 734
+#define d2s 778
+#define e2 824
+#define f2 873
+#define f2s 925
+#define g2 980
+#define g2s 1038
+#define a2 1100
+#define a2s 1165
+#define b2 1235
+#define c3 1308
+#define c3s 1386
+#define d3 1468
+#define d3s 1556
+#define e3 1648
+#define f3 1746
+#define f3s 1850
+#define g3 1960
+#define g3s 2077
+#define a3 2200
+#define a3s 2331
+#define b3 2469
+#define c4 2616
+#define c4s 2772
+#define d4 2937
+#define d4s 3111
+#define e4 3296
+#define f4 3492
+#define f4s 3700
+#define g4 3920
+#define g4s 4153
+#define a4 4400
+#define a4s 4662
+#define b4 4939
+#define c5 5233
+#define c5s 5544
+#define d5 5873
+#define d5s 6223
+#define e5 6593
+#define f5 6985
+#define f5s 7400
+#define g5 7840
+#define g5s 8306
+#define a5 8800
+#define a5s 9323
+#define b5 9878
 
-<span class="rem">// adapted from http://www.rose-hulman.edu/class/me</span>
-<span class="rem">//             /HTML/ME430_0910_W_Olson/code/example%20buzzer.c</span>
+// adapted from http://www.rose-hulman.edu/class/me
+//             /HTML/ME430_0910_W_Olson/code/example%20buzzer.c
 
-<span class="kwrd">const</span> <span class="kwrd">int</span>
+const int
     song[] =   { e2, e2, e2, c2, e2, g2, g1, 
                  c2, g1, e1, a1, b1, a1s,a1,
                  g1, e2, g2, a2, f2, g2, e2, c2, d2, b1,
@@ -142,7 +144,7 @@ Today’s changes are in bold:
                  g2, f2s,f2, d2s,e2, c3, c3, c3,
                  g2, f2s,f2, d2s,e2, g1s,a1, c2, a1, c2, d2,
                  d2s,d2, c2 };
-<span class="kwrd">const</span> <span class="kwrd">float</span> 
+const float 
     length[] = { 1,  2,  1,  1,  2,  4,  4,  
                  2,  1,  2,  1,  1,  1,  2,
                  1.3,1.3,1.3,2,  1,  1,  1,  1,  1,  1,
@@ -152,7 +154,7 @@ Today’s changes are in bold:
                  1,  1,  1,  2,  1,  1,  1,  4,
                  1,  1,  1,  2,  1,  1,  1,  1,  1,  1,  1,
                  2,  1,  4 };
-<span class="kwrd">const</span> <span class="kwrd">int</span> 
+const int 
     rests[] =  { 0,  0,  1,  0,  0,  0,  0,  
                  1,  2,  1,  1,  1,  0,  0,
                  0,  0,  0,  0,  0,  1,  1,  0,  0,  2,
@@ -163,80 +165,82 @@ Today’s changes are in bold:
                  0,  0,  0,  0,  1,  0,  0,  1,  0,  0,  2,
                  1,  2,  4 };
 
-<span class="preproc">#define</span> x (<span class="kwrd">sizeof</span>(song)/<span class="kwrd">sizeof</span>(<span class="kwrd">int</span>))
-<span class="kwrd">const</span> <span class="kwrd">int</span> BuzzPin = 12;
-<span class="kwrd">const</span> <span class="kwrd">int</span> NoteDuration = 100; 
+#define x (sizeof(song)/sizeof(int))
+const int BuzzPin = 12;
+const int NoteDuration = 100; 
 
-<span class="kwrd">void</span> setup() {
+void setup() {
   pinMode(BuzzPin, OUTPUT);  
 }
 
-<span class="kwrd">void</span> loop() {
+void loop() {
   
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i&lt;x; i++){
-    <span class="rem">// play each note for the corresponding duration</span>
+  for(int i = 0; i<x; i++){
+    // play each note for the corresponding duration
     Buzz(song[i], NoteDuration*length[i]);
 
-    <span class="rem">// tiny break between notes</span>
+    // tiny break between notes
     delay(50); 
 
-    <span class="rem">// rest the corresponding duration (often 0)</span>
+    // rest the corresponding duration (often 0)
     delay(NoteDuration*rests[i]);
   }
   
-  delay(3000); <span class="rem">// pause a moment before starting over</span>
+  delay(3000); // pause a moment before starting over
 }
 
-<span class="kwrd">void</span> Buzz(<span class="kwrd">int</span> frequencyHz, <span class="kwrd">int</span> durationMillis){
-  <span class="rem">// e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low</span>
-  <span class="rem">// to create 50% duty cycle</span>
-  <span class="rem">// http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692</span>
-  <span class="kwrd">int</span> Osc = 1000000 / frequencyHz / 2; <span class="rem">// in microseconds</span>
+void Buzz(int frequencyHz, int durationMillis){
+  // e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low
+  // to create 50% duty cycle
+  // http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692
+  int Osc = 1000000 / frequencyHz / 2; // in microseconds
   
-  <span class="rem">// compute the number of iterations needed to hold</span>
-  <span class="rem">// the nfote the desired duration</span>
-  <span class="kwrd">int</span> Iterations = frequencyHz * ((<span class="kwrd">float</span>)durationMillis / 1000);
+  // compute the number of iterations needed to hold
+  // the nfote the desired duration
+  int Iterations = frequencyHz * ((float)durationMillis / 1000);
   
-<strong>  <span class="rem">// light on</span>
+<strong>  // light on
   Beep(frequencyHz);
-</strong>  <span class="kwrd">for</span> (<span class="kwrd">long</span> i = 0; i &lt; Iterations; i++ )
+</strong>  for (long i = 0; i < Iterations; i++ )
   {
-      <span class="rem">// beep!</span>
+      // beep!
       digitalWrite(BuzzPin, HIGH);
       delayMicroseconds(Osc);
       digitalWrite(BuzzPin, LOW);
       delayMicroseconds(Osc);
   }  
-<strong>  <span class="rem">// led off</span>
+<strong>  // led off
   Reset();
 </strong>}
 
-<strong><span class="kwrd">void</span> Reset(){
-  <span class="kwrd">for</span> (<span class="kwrd">int</span> i=0; i &lt; PinCount; i++){
+<strong>void Reset(){
+  for (int i=0; i < PinCount; i++){
     pinMode(Pins[i] , INPUT);
   }
 }</strong>
 
-<strong><span class="kwrd">void</span> Beep(<span class="kwrd">int</span> hz){
-  <span class="kwrd">if</span>      (hz &lt; 450)  { Burn(Leds[0]); }
-  <span class="kwrd">else</span> <span class="kwrd">if</span> (hz &lt; 600)  { Burn(Leds[1]); }
-  <span class="kwrd">else</span> <span class="kwrd">if</span> (hz &lt; 750)  { Burn(Leds[2]); }
-  <span class="kwrd">else</span> <span class="kwrd">if</span> (hz &lt; 900)  { Burn(Leds[3]); }
-  <span class="kwrd">else</span> <span class="kwrd">if</span> (hz &lt; 1050) { Burn(Leds[4]); }
-  <span class="kwrd">else</span>                { Burn(Leds[5]); }
+<strong>void Beep(int hz){
+  if      (hz < 450)  { Burn(Leds[0]); }
+  else if (hz < 600)  { Burn(Leds[1]); }
+  else if (hz < 750)  { Burn(Leds[2]); }
+  else if (hz < 900)  { Burn(Leds[3]); }
+  else if (hz < 1050) { Burn(Leds[4]); }
+  else                { Burn(Leds[5]); }
 }
 </strong>
-<strong><span class="kwrd">void</span> Burn(<span class="kwrd">int</span> led[2]){
+<strong>void Burn(int led[2]){
   Burn(led[0], led[1]); 
 }
 </strong>
-<strong><span class="kwrd">void</span> Burn(<span class="kwrd">int</span> highPin, <span class="kwrd">int</span> lowPin){
+<strong>void Burn(int highPin, int lowPin){
   pinMode(Pins[highPin], OUTPUT);
   pinMode(Pins[lowPin], OUTPUT);
 
   digitalWrite(Pins[highPin], HIGH);
   digitalWrite(Pins[lowPin], LOW);  
-}</strong></pre>
+}</strong>
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>

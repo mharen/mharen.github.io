@@ -44,5 +44,5 @@ ps: please wake up before Thing1 and Thing2 realize I’m on my own down here.
 
 My favorite post ever (maybe tied with Thing3's birth story :))
 
-Thank you! I love you &lt;3
+Thank you! I love you <3
 

@@ -10,13 +10,17 @@ title: Catching Unique Key Constraint Violations with Entity Framework and SQL S
 ---
 
 
-Suppose you want to submit a model to your database with Entity Framework. It might look something like this:  <pre class="csharpcode"><span class="kwrd">using</span>(var db = <span class="kwrd">new</span> DatabaseContext()){
-    <span class="rem">// add object to context that already exists in DB</span>
-    <span class="rem">// db.Whatever.AddObject(...)</span>
+Suppose you want to submit a model to your database with Entity Framework. It might look something like this:  
+```cs
+using(var db = new DatabaseContext()){
+    // add object to context that already exists in DB
+    // db.Whatever.AddObject(...)
     
-    <span class="rem">// save</span>
-    db.SaveChanges(); <span class="rem">// BOOM</span>
-}</pre>
+    // save
+    db.SaveChanges(); // BOOM
+}
+```
+
 
 
 Now suppose your database has a unique key constraint to prevent you from inserting duplicate data. If you do, your insert will bomb with an UpdateException:
@@ -45,11 +49,15 @@ Digging into the exception reveals that its inner exception is a SqlException, w
 
 The SqlErrorCollection is populated by the SQL Server itself. What could it contain? I’m glad you asked! This query can help:
 
-<pre class="csharpcode"><span class="kwrd">SELECT</span> error, description
-<span class="kwrd">FROM</span> master..sysmessages
-<span class="kwrd">WHERE</span> msglangid = 1033 /* eng */
-  <span class="kwrd">AND</span> description <span class="kwrd">LIKE</span> <span class="str">'%insert%duplicate%key%'</span>
-<span class="kwrd">ORDER</span> <span class="kwrd">BY</span> error</pre>
+
+```cs
+SELECT error, description
+FROM master..sysmessages
+WHERE msglangid = 1033 /* eng */
+  AND description LIKE '%insert%duplicate%key%'
+ORDER BY error
+```
+
 
 <table border="0" cellpadding="2" cellspacing="0"><tbody>
     <tr>
@@ -77,25 +85,29 @@ So those are just the errors we want to check for, and if you want to handle som
 
 Here’s how:
 
-<pre class="csharpcode"><span class="kwrd">try</span> {
-    <span class="kwrd">using</span>(var db = <span class="kwrd">new</span> DatabaseContext()){
-        <span class="rem">// save</span>
-        db.SaveChanges(); <span class="rem">// BOOM</span>
+
+```cs
+try {
+    using(var db = new DatabaseContext()){
+        // save
+        db.SaveChanges(); // BOOM
     }
 }
-<span class="kwrd">catch</span>(UpdateException ex) {
-    var sqlException = ex.InnerException <span class="kwrd">as</span> SqlException;
+catch(UpdateException ex) {
+    var sqlException = ex.InnerException as SqlException;
     
-    <span class="kwrd">if</span>(sqlException != <span class="kwrd">null</span> &amp;&amp; sqlException.Errors.OfType&lt;SqlError&gt;()
-        .Any(se=&gt;se.Number == 2601 || se.Number == 2627 <span class="rem">/* PK/UKC violation */</span>)) {
+    if(sqlException != null &amp;&amp; sqlException.Errors.OfType<SqlError>()
+        .Any(se=>se.Number == 2601 || se.Number == 2627 /* PK/UKC violation */)) {
         
-        <span class="rem">// it's a dupe... do something about it</span>
+        // it's a dupe... do something about it
     }
-    <span class="kwrd">else</span> {
-        <span class="rem">// it's something else...</span>
-        <span class="kwrd">throw</span>;
+    else {
+        // it's something else...
+        throw;
     }
-}</pre>
+}
+```
+
 
 
 First we make sure the inner exception is actually a SqlException, and then we confirm that it contains one the errors we want to handle.

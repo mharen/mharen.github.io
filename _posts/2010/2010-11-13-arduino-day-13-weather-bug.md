@@ -18,56 +18,60 @@ The app parses XML files from the Internet and extracts a temperature value. If 
 ![IMAG0774%5B4%5D.jpg](IMAG0774%5B4%5D.jpg)
 
 Build, circuit, schematic, and Arduino code are identical to my [previous project](../2010/2010-11-arduino-day-11-extreme-feedback-for.html" target="_blank).  <h4>C# (Updated)</h4>
-<blockquote>   <pre class="csharpcode"><span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+<blockquote>   
+```cs
+static void Main(string[] args)
 {
 
-    var SerialPort = <span class="kwrd">new</span> SerialPort()
+    var SerialPort = new SerialPort()
     {
-        PortName = <span class="str">&quot;COM7&quot;</span>,
+        PortName = "COM7",
         BaudRate = 9600
     };
 
-    <span class="kwrd">while</span> (<span class="kwrd">true</span>)
+    while (true)
     {
-        <span class="kwrd">try</span>
+        try
         {
             SerialPort.Open();
-            <span class="kwrd">string</span> SerialOutput = <span class="kwrd">null</span>;
+            string SerialOutput = null;
 
-            <span class="rem">// Miami, Florida</span>
-            <span class="rem">//var StatusXml = XDocument.Load(@&quot;http://www.weather.gov/xml/current_obs/display.php?stid=KTMB&quot;);</span>
+            // Miami, Florida
+            //var StatusXml = XDocument.Load(@"http://www.weather.gov/xml/current_obs/display.php?stid=KTMB");
 
-            <span class="rem">// Akron, Ohio</span>
-            var StatusXml = XDocument.Load(<span class="str">@&quot;http://www.weather.gov/xml/current_obs/KCAK.xml&quot;</span>);
+            // Akron, Ohio
+            var StatusXml = XDocument.Load(@"http://www.weather.gov/xml/current_obs/KCAK.xml");
 
-            <span class="rem">// Nome, Alaska</span>
-            <span class="rem">// var StatusXml = XDocument.Load(@&quot;http://www.weather.gov/xml/current_obs/PAOM.xml&quot;);</span>
+            // Nome, Alaska
+            // var StatusXml = XDocument.Load(@"http://www.weather.gov/xml/current_obs/PAOM.xml");
 
-            <span class="kwrd">float</span> Temperature = <span class="kwrd">float</span>.Parse(StatusXml.Root.Element(<span class="str">&quot;temp_f&quot;</span>).Value);
+            float Temperature = float.Parse(StatusXml.Root.Element("temp_f").Value);
 
-            <span class="kwrd">if</span> (Temperature &lt; 30 || Temperature &gt; 100)
+            if (Temperature < 30 || Temperature > 100)
             {
-                SerialOutput = <span class="str">&quot;2&quot;</span>; <span class="rem">// red</span>
+                SerialOutput = "2"; // red
             }
-            <span class="kwrd">else</span> <span class="kwrd">if</span> (Temperature &lt; 60 || Temperature &gt; 90)
+            else if (Temperature < 60 || Temperature > 90)
             {
-                SerialOutput = <span class="str">&quot;1&quot;</span>; <span class="rem">// yellow</span>
+                SerialOutput = "1"; // yellow
             }
-            <span class="kwrd">else</span>
+            else
             {
-                SerialOutput = <span class="str">&quot;0&quot;</span>; <span class="rem">// green</span>
+                SerialOutput = "0"; // green
             }
-            Console.WriteLine(<span class="str">&quot;Sending {0}&quot;</span>, SerialOutput);
+            Console.WriteLine("Sending {0}", SerialOutput);
             SerialPort.Write(SerialOutput);
 
             Thread.Sleep(TimeSpan.FromMinutes(1));
         }
-        <span class="kwrd">finally</span>
+        finally
         {
             SerialPort.Close();
         }
     }
-}</pre>
+}
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>

@@ -19,49 +19,61 @@ Or in words: users inside and outside of the company need access to a bunch of t
 This design offers many benefits which I won’t repeat here—head over to the original post to read up on them. Instead, this follow up serves to document how this design was implemented. In many ways it was easier than expected but we hit a few hurdles I didn’t expect.
 
 The first hurdle was expected: getting the reverse proxy working. A teammate tried to get this going with IIS7 for a while without success. I took a stab at it with [Apache](http://www.apache.org/)—something I’m much more comfortable with—and got things working pretty quickly. While IIS required explicit rewrite rules with URLs, tags, etc., Apache seems better suited to the job and has a nice, clean configuration:
-<blockquote>   <pre class="csharpcode">![image%5B62%5D.png](image%5B62%5D.png)ProxyPass /redmine/ http://rowlf/
+<blockquote>   
+```cs
+![image%5B62%5D.png](image%5B62%5D.png)ProxyPass /redmine/ http://rowlf/
 
-<span class="kwrd">&lt;</span><span class="html">Location</span> /<span class="attr">redmine</span><span class="kwrd">/&gt;</span>
+<Location /redmine/>
         ProxyPassReverse /redmine/
           Order Deny,Allow
           Allow from all
           Satisfy Any
-        <span class="kwrd">&lt;/</span><span class="html">Limit</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">Location</span><span class="kwrd">&gt;</span>
+        </Limit>
+</Location>
 
 ProxyPass /svn/ http://scooter/svn/
-<span class="kwrd">&lt;</span><span class="html">Location</span> /<span class="attr">svn</span>/ <span class="kwrd">&gt;</span>
+<Location /svn/ >
         ProxyPassReverse /svn/
-        <span class="kwrd">&lt;</span><span class="html">Limit</span> <span class="attr">OPTIONS</span> <span class="attr">PROPFIND</span> <span class="attr">GET</span> <span class="attr">REPORT</span> <span class="attr">MKACTIVITY</span> <span class="attr">PROPPATCH</span> <span class="attr">PUT</span> <span class="attr">CHECKOUT</span> <span class="attr">MKCOL</span> <span class="attr">MOVE</span> <span class="attr">COPY</span> <span class="attr">DELETE</span> <span class="attr">LOCK</span> <span class="attr">UNLOCK</span> <span class="attr">MERGE</span><span class="kwrd">&gt;</span>
+        <Limit OPTIONS PROPFIND GET REPORT MKACTIVITY PROPPATCH PUT CHECKOUT MKCOL MOVE COPY DELETE LOCK UNLOCK MERGE>
           Order Deny,Allow
           Allow from all
           Satisfy Any
-        <span class="kwrd">&lt;/</span><span class="html">Limit</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">Location</span><span class="kwrd">&gt;</span>
+        </Limit>
+</Location>
 
 ProxyPass /VaultService/ http://vincent/VaultService/
-<span class="kwrd">&lt;</span><span class="html">Location</span> /<span class="attr">VaultService</span>/ <span class="kwrd">&gt;</span>
+<Location /VaultService/ >
         ProxyPassReverse /VaultService/
           Order Deny,Allow
           Allow from all
           Satisfy Any
-        <span class="kwrd">&lt;/</span><span class="html">Limit</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">Location</span><span class="kwrd">&gt;</span></pre>
+        </Limit>
+</Location>
+```
+
 </blockquote>
 
 
 ![image%5B73%5D.png](image%5B73%5D.png)[Redmine](http://www.redmine.org/) was pretty easy to get going at first but had a path-root problem. It wasn’t liking that I was serving it out of a directory (/redmine) on kermit but was actually hosting it on a rwolf’s root (/). It complained by building resource links for things like css and js with an incorrect path. This was quickly remedied by adding this line to Redmine’s environment.rb file (it’s a Ruby on Rails app) as [noted here](http://stackoverflow.com/questions/470961/configuring-ruby-on-rails-app-in-a-subdirectory-under-apache/470973#470973):
 
 <blockquote>
-  <pre class="csharpcode"><span class="rem"># added to end of file C:\redmine\config\environment.rb</span>
-ActionController::AbstractRequest.relative_url_root = <span class="str">&quot;/redmine&quot;</span></pre>
+  
+```cs
+# added to end of file C:\redmine\config\environment.rb
+ActionController::AbstractRequest.relative_url_root = "/redmine"
+```
+
 </blockquote>
 
 
-![image%5B69%5D.png](image%5B69%5D.png) [SVN](http://www.open.collab.net/products/subversion/) also took a little extra effort to realize it needed the extra verbs [explicitly permitted](http://silmor.de/49) with a [&lt;Limit&gt;](http://httpd.apache.org/docs/2.0/mod/core.html#limit) directive:
+![image%5B69%5D.png](image%5B69%5D.png) [SVN](http://www.open.collab.net/products/subversion/) also took a little extra effort to realize it needed the extra verbs [explicitly permitted](http://silmor.de/49) with a [<Limit>](http://httpd.apache.org/docs/2.0/mod/core.html#limit) directive:
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">Limit</span> <span class="attr">OPTIONS</span> <span class="attr">PROPFIND</span> <span class="attr">GET</span> <span class="attr">REPORT</span> <span class="attr">MKACTIVITY</span> <span class="attr">PROPPATCH</span> <span class="attr">PUT</span> <span class="attr">CHECKOUT</span> <span class="attr">MKCOL</span> <span class="attr">MOVE</span> <span class="attr">COPY</span> <span class="attr">DELETE</span> <span class="attr">LOCK</span> <span class="attr">UNLOCK</span> <span class="attr">MERGE</span><span class="kwrd">&gt;</span> </pre>
+  
+```cs
+<Limit OPTIONS PROPFIND GET REPORT MKACTIVITY PROPPATCH PUT CHECKOUT MKCOL MOVE COPY DELETE LOCK UNLOCK MERGE> 
+```
+
 </blockquote>
 
 

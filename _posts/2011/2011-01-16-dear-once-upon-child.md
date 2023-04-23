@@ -46,7 +46,7 @@ Michael Haren
 
 **picturingtheordinary said on 2011-01-17**
 
-AWESOME!!!!!!! We had a similar incident at the said store and raced over to Bed Bath and Beyond. THEN, after we got in the car Isabella realized she lost the coveted toy of the day, so we ran BACK to Bed Bath and Beyond and then Once Upon a Child to find this very &quot;special&quot; toy. 
+AWESOME!!!!!!! We had a similar incident at the said store and raced over to Bed Bath and Beyond. THEN, after we got in the car Isabella realized she lost the coveted toy of the day, so we ran BACK to Bed Bath and Beyond and then Once Upon a Child to find this very "special" toy. 
 
 Are you sending this in because I totally think you should!
 

@@ -25,54 +25,58 @@ This process has worked wonders for me—really! So now my problem is this: I’
 First, create a certificate so you can sign the macro we’re about to create. Do this by following [these instructions](http://grok.lsu.edu/Article.aspx?articleId=593) (this is my abbreviated version):
 <blockquote> 
 
-Open *Start &gt; All Programs &gt; Microsoft Office &gt; MS Office Tools &gt; Digital Certificate for VBA Projects*
+Open *Start > All Programs > Microsoft Office > MS Office Tools > Digital Certificate for VBA Projects*
 </blockquote>
 
 Enter a name for the certificate and click *OK*:  
 
 ![image%5B46%5D.png](image%5B46%5D.png)&#160;
 
-Next, open up Outlook and go to *Tools &gt; Macro &gt; Visual Basic Editor*:  
+Next, open up Outlook and go to *Tools > Macro > Visual Basic Editor*:  
 
 &#160;![image%5B47%5D.png](image%5B47%5D.png) 
 
-Next, enter this code under *Project1 &gt; Microsoft Office Outlook &gt; ThisOutlookSession* (thanks to [Richard](http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/) for this code!):
-<blockquote>   <pre class="csharpcode"><span class="kwrd">Option</span> Explicit
+Next, enter this code under *Project1 > Microsoft Office Outlook > ThisOutlookSession* (thanks to [Richard](http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/) for this code!):
+<blockquote>   
+```cs
+Option Explicit
 
-<span class="kwrd">Public</span> <span class="kwrd">Sub</span> ArchiveSelectedItems()
-    MoveSelectedItemsToFolder <span class="str">**<font color="#ff0000">&quot;1_Archive&quot;</font>**</span>
-<span class="kwrd">End</span> <span class="kwrd">Sub</span>
+Public Sub ArchiveSelectedItems()
+    MoveSelectedItemsToFolder **<font color="#ff0000">"1_Archive"</font>**
+End Sub
 
-<span class="rem">'http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/</span>
-<span class="kwrd">Private</span> <span class="kwrd">Sub</span> MoveSelectedItemsToFolder(FolderName <span class="kwrd">As</span> <span class="kwrd">String</span>)
-    <span class="kwrd">On</span> <span class="kwrd">Error</span> <span class="kwrd">GoTo</span> ErrorHandler
+'http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/
+Private Sub MoveSelectedItemsToFolder(FolderName As String)
+    On Error GoTo ErrorHandler
 
-    <span class="kwrd">Dim</span> <span class="kwrd">Namespace</span> <span class="kwrd">As</span> Outlook.<span class="kwrd">Namespace</span>
-    <span class="kwrd">Set</span> <span class="kwrd">Namespace</span> = Application.GetNamespace(<span class="str">&quot;MAPI&quot;</span>)
+    Dim Namespace As Outlook.Namespace
+    Set Namespace = Application.GetNamespace("MAPI")
 
-    <span class="kwrd">Dim</span> Inbox <span class="kwrd">As</span> Outlook.MAPIFolder
-    <span class="kwrd">Set</span> Inbox = <span class="kwrd">Namespace</span>.GetDefaultFolder(olFolderInbox)
+    Dim Inbox As Outlook.MAPIFolder
+    Set Inbox = Namespace.GetDefaultFolder(olFolderInbox)
 
-    <span class="kwrd">Dim</span> Folder <span class="kwrd">As</span> Outlook.MAPIFolder
-    <span class="kwrd">Set</span> Folder = Inbox.Folders(FolderName)
+    Dim Folder As Outlook.MAPIFolder
+    Set Folder = Inbox.Folders(FolderName)
 
-    <span class="kwrd">If</span> Folder <span class="kwrd">Is</span> <span class="kwrd">Nothing</span> <span class="kwrd">Then</span>
-        MsgBox <span class="str">&quot;The '&quot;</span> &amp; FolderName &amp; <span class="str">&quot;' folder doesn't exist!&quot;</span>, _
-            vbOKOnly + vbExclamation, <span class="str">&quot;Invalid Folder&quot;</span>
-    <span class="kwrd">End</span> <span class="kwrd">If</span>
+    If Folder Is Nothing Then
+        MsgBox "The '" &amp; FolderName &amp; "' folder doesn't exist!", _
+            vbOKOnly + vbExclamation, "Invalid Folder"
+    End If
 
-    <span class="kwrd">Dim</span> Item <span class="kwrd">As</span> <span class="kwrd">Object</span>
-    <span class="kwrd">For</span> <span class="kwrd">Each</span> Item <span class="kwrd">In</span> Application.ActiveExplorer.Selection
-        <span class="kwrd">If</span> Item.UnRead <span class="kwrd">Then</span> Item.UnRead = <span class="kwrd">False</span>
+    Dim Item As Object
+    For Each Item In Application.ActiveExplorer.Selection
+        If Item.UnRead Then Item.UnRead = False
         Item.Move Folder
-    <span class="kwrd">Next</span>
+    Next
 
-    <span class="kwrd">Exit</span> <span class="kwrd">Sub</span>
+    Exit Sub
 
 ErrorHandler:
-    MsgBox <span class="kwrd">Error</span>(Err)
+    MsgBox Error(Err)
 
-<span class="kwrd">End</span> <span class="kwrd">Sub</span></pre>
+End Sub
+```
+
 </blockquote>
 
 
@@ -86,7 +90,7 @@ ErrorHandler:
 Create the folder in red (*1_Archive*) under your inbox or change the code to refer to your folder of choice.
 
 
-Sign the certificate by choosing *Tools &gt; Digital Signature &gt; Choose*:
+Sign the certificate by choosing *Tools > Digital Signature > Choose*:
 
 
 
@@ -100,7 +104,7 @@ Sign the certificate by choosing *Tools &gt; Digital Signature &gt; Choose*:
 Save and close the VBA window. Restart Outlook (choose *Yes *to save anything if prompted).
 
 
-Next, let’s create a button for our new Macro with *Tools &gt; Customize*:
+Next, let’s create a button for our new Macro with *Tools > Customize*:
 
 
 

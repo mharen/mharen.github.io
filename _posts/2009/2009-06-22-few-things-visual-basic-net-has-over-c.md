@@ -17,59 +17,83 @@ These are the versions of C# known about at the time of this writing:    <ul>   
 Now to the topic of the day: a few things that VB.NET has that C# lacks:  <h4>XML Literals</h4>
 
 XML Literals are definitely worth checking out if you do much with VB. Here's a snippet to give you an idea of what they look like:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">Function</span> ExportAsXml(<span class="kwrd">ByVal</span> invoices <span class="kwrd">As</span> List(Of Invoice)) _ <span class="kwrd">
-As</span> <span class="kwrd">String</span>
-  <span class="kwrd">Dim</span> XDoc <span class="kwrd">As</span> XElement = _
-      &lt;Invoices xmlns=<span class="str">"http://tempuri.org/Schema/…"</span>&gt;
-          &lt;%= From invoice <span class="kwrd">In</span> invoices <span class="kwrd">Select</span> _
-              &lt;Invoice ID  = &lt;%= invoice.ID %&gt;
-               DueDate     = &lt;%= invoice.DueDate %&gt;
-               Amount      = &lt;%= invoice.Amount %&gt;
-               Customer    = &lt;%= invoice.Customer %&gt;/&gt; %&gt;
-              &lt;/Invoices&gt;
-  <span class="kwrd">Return</span> XDoc.ToString
-<span class="kwrd">End</span> <span class="kwrd">Function</span></pre></blockquote>
+<blockquote>   
+```cs
+Function ExportAsXml(ByVal invoices As List(Of Invoice)) _ <span class="kwrd">
+As</span> String
+  Dim XDoc As XElement = _
+      <Invoices xmlns="http://tempuri.org/Schema/…">
+          <%= From invoice In invoices Select _
+              <Invoice ID  = <%= invoice.ID %>
+               DueDate     = <%= invoice.DueDate %>
+               Amount      = <%= invoice.Amount %>
+               Customer    = <%= invoice.Customer %>/> %>
+              </Invoices>
+  Return XDoc.ToString
+End Function
+```
+</blockquote>
 The effect is a little subtle at first—look closely and you’ll see something sweet: there is XML floating around in there without quotes. This feature won’t be coming to C# anytime soon, but [similar functionality](http://social.msdn.microsoft.com/forums/en-US/linqprojectgeneral/thread/ba2883c0-b66b-4d5a-a272-de4e86c70bbb/) can be achieved.<h4>Optional and Named Arguments</h4>
 Another nice feature of VB, optional and named arguments is coming to C# later this year in C#4. While optional arguments can be largely avoided with overloading (and are [not very popular](http://www.knowdotnet.com/articles/optionalparams.html) to begin with), named parameters are nice. They provide a lot of clarity to maintenance programmers by calling our what means what. For example:
-<blockquote><pre class="csharpcode">var Invoice = <span class="kwrd">new</span> Invoice(
-CustomerID, InvoiceTotal, <span class="kwrd">false</span>, <span class="kwrd">new</span> DateTime(2009,6,23));
+<blockquote>
+```cs
+var Invoice = new Invoice(
+CustomerID, InvoiceTotal, false, new DateTime(2009,6,23));
 
-var Invoice = <span class="kwrd">new</span> Invoice(
+var Invoice = new Invoice(
 customerID: CustomerID, total: InvoiceTotal,
-isCanceled: <span class="kwrd">false</span>, dueDate: <span class="kwrd">new</span> DateTime(2009,6,23));</pre></blockquote>
+isCanceled: false, dueDate: new DateTime(2009,6,23));
+```
+</blockquote>
 The second version is clearly more verbose but I think it provides some clear benefits. We can now immediately see what the boolean and date parameters were for without hovering or using variables just to get nice names.
 IsNumeric and DateDiff are among many common functions that are actually available in C# if you add a reference to Microsoft.VisualBasic. I avoid doing this because without optional argument support, they can be a little awkward to use. C# and .NET now also include other options like TryParse on most types and date arithmetic with TimeSpans.<h4>Overflow/Underflow Checking</h4>
-There are also a few semantic differences between the two languages. For example, VB checks mathematic operations for overflow and underflow whereas [C# does not](http://msdn.microsoft.com/en-us/library/74b4xzyw%28VS.71%29.aspx). C# allows you to control this very easily with checked/unchecked blocks:<blockquote><pre class="csharpcode"><span class="rem">// will raise a System.OverflowException exception</span>
-<span class="kwrd">int</span> input = <span class="kwrd">int</span>.MinValue;
-<span class="kwrd">checked</span> {
+There are also a few semantic differences between the two languages. For example, VB checks mathematic operations for overflow and underflow whereas [C# does not](http://msdn.microsoft.com/en-us/library/74b4xzyw%28VS.71%29.aspx). C# allows you to control this very easily with checked/unchecked blocks:<blockquote>
+```cs
+// will raise a System.OverflowException exception
+int input = int.MinValue;
+checked {
  input--;
 }
-<span class="kwrd">return</span> input;
+return input;
 
-<span class="rem">// will overflow/underflow silently</span>
-<span class="kwrd">int</span> input = <span class="kwrd">int</span>.MinValue;
-<span class="kwrd">unchecked</span> {
+// will overflow/underflow silently
+int input = int.MinValue;
+unchecked {
  input--;
 }
-<span class="kwrd">return</span> input;</pre></blockquote>
+return input;
+```
+</blockquote>
 As far as I can tell, VB doesn’t provide this level of control—it’s either on or off for the whole project.<h4>Automatically Implemented Properties</h4>
-Another feature exclusive to C# is automatically implemented properties. For example, here’s the old style:<blockquote><pre class="csharpcode"><span class="rem">// C#2</span>
-<span class="kwrd">private</span> <span class="kwrd">string</span> name;
-<span class="kwrd">public</span> <span class="kwrd">string</span> Name
+Another feature exclusive to C# is automatically implemented properties. For example, here’s the old style:<blockquote>
+```cs
+// C#2
+private string name;
+public string Name
 {
-  get { <span class="kwrd">return</span> <span class="kwrd">this</span>.name; }
-  set { <span class="kwrd">this</span>.name = <span class="kwrd">value</span>; }
-}</pre></blockquote>
+  get { return this.name; }
+  set { this.name = value; }
+}
+```
+</blockquote>
 and the new style available in C#3:
-<blockquote><pre class="csharpcode"><span class="rem">// C#3</span>
-<span class="kwrd">public</span> <span class="kwrd">string</span> Name { get; set; }
+<blockquote>
+```cs
+// C#3
+public string Name { get; set; }
 
-<span class="rem">// C#3: or, with narrower set scope</span>
-<span class="kwrd">public</span> <span class="kwrd">string</span> Name { get; <span class="kwrd">protected</span> set; }</pre></blockquote>
+// C#3: or, with narrower set scope
+public string Name { get; protected set; }
+```
+</blockquote>
 I love when I can reduce boilerplate/housekeeping code like this. [Less code is better code](http://www.codinghorror.com/blog/archives/000878.html).<h4>Coalesce </h4>
-C# also has VB beat with it’s coalesce operator, though admittedly I don’t use this very often:<blockquote><pre class="csharpcode"><span class="rem">// (C#3) returns the first non-null object </span>
-<span class="rem">// or null if each is null</span>
-<span class="kwrd">return</span> object1 ?? object2 ?? object3;</pre></blockquote>
+C# also has VB beat with it’s coalesce operator, though admittedly I don’t use this very often:<blockquote>
+```cs
+// (C#3) returns the first non-null object 
+// or null if each is null
+return object1 ?? object2 ?? object3;
+```
+</blockquote>
 
 
 

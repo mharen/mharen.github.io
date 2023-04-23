@@ -21,7 +21,7 @@ I really mean that last part: I don’t know what the ultimate solution should l
 After that, I railed a bit against our current system and posted references supporting my claim that we pay way to much for a system that is *not* the “best in the world”. This struck a chord with some readers. Paula Haren responded:
 <blockquote> 
 
-“Wow, pull a couple of various quotes and put them all together and your an expert! Considering I have spent lots of time as a nurse(&gt;10yr) and a patient and a wife of someone with cancer and considerable medical debt depite excellent insurance....I must respectful disagree. Sorry Mike, but its just not that simple. And yes, the US does have the best health care in regards to inovation...Spend as much time at Cleveland Clinic as I have and you will see all these people who's socialized medicine has under or miss served (or did not serve at all) their medical needs. I think you would have to put down The New York Times and get in the trenches to appreciate what I am saying.      
+“Wow, pull a couple of various quotes and put them all together and your an expert! Considering I have spent lots of time as a nurse(>10yr) and a patient and a wife of someone with cancer and considerable medical debt depite excellent insurance....I must respectful disagree. Sorry Mike, but its just not that simple. And yes, the US does have the best health care in regards to inovation...Spend as much time at Cleveland Clinic as I have and you will see all these people who's socialized medicine has under or miss served (or did not serve at all) their medical needs. I think you would have to put down The New York Times and get in the trenches to appreciate what I am saying.      
 
 Just wanted to add my 2 cents!”
 </blockquote>
@@ -35,7 +35,7 @@ With respect to Paula’s experience at the Cleveland Clinic, I’d say she prob
 In addition to anecdotal counterclaims like that, I’m also seeing a lot of fear. This comment from Miki Hempleman is representative of what I’ve heard from several people: 
 <blockquote> 
 
-“I totally understand your feelings Michael and were it all it is SAID to be, I might also swallow the &quot;magic pill&quot; ... but it's not. Read more in depth and you will see it is VERY scary a proposition and will NOT do what they say it will. And I for one am in no hurry to move into a system that will not work.  
+“I totally understand your feelings Michael and were it all it is SAID to be, I might also swallow the "magic pill" ... but it's not. Read more in depth and you will see it is VERY scary a proposition and will NOT do what they say it will. And I for one am in no hurry to move into a system that will not work.  
 
 …  
 

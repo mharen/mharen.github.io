@@ -24,7 +24,7 @@ For years, I have simply launched my Visual Studio instances from a “Run as Ad
 
 BUT—that eventually drove me crazy enough to try something better because:  <ul>   <li>I constantly see the UAC elevation dialog </li>    <li>Because the app is running elevated, files that would normally open in it won’t open when double-clicked (solution/sln files, particularly) </li> </ul>
 
-Today I finally got tired of it and spent eight minutes figuring out how to do this better. I followed [these instructions](http://cybernetnews.com/helpful-tip-disable-uac-prompt-for-an-application/) to add a compatibility fix to the app so that it always runs as the user invoking it, which is me, and I’m an admin. Here’s the gist (slight additions to the referenced instructions):  <ol>   <li>Download this thing: [Microsoft Application Compatibility Toolkit](http://www.microsoft.com/en-us/download/details.aspx?id=7352) </li>    <li>Run the 32-bit version of it (not 64-bit version—both are installed if you have a 64-bit machine) </li>    <li>Add the new &quot;application fix” to the custom database. Choose your app (devenv.exe for me) and give it the “run as invoker” fix </li>    <li>*Instead* of opening a command prompt and installing it, just go to **File &gt; Install** </li> </ol>
+Today I finally got tired of it and spent eight minutes figuring out how to do this better. I followed [these instructions](http://cybernetnews.com/helpful-tip-disable-uac-prompt-for-an-application/) to add a compatibility fix to the app so that it always runs as the user invoking it, which is me, and I’m an admin. Here’s the gist (slight additions to the referenced instructions):  <ol>   <li>Download this thing: [Microsoft Application Compatibility Toolkit](http://www.microsoft.com/en-us/download/details.aspx?id=7352) </li>    <li>Run the 32-bit version of it (not 64-bit version—both are installed if you have a 64-bit machine) </li>    <li>Add the new "application fix” to the custom database. Choose your app (devenv.exe for me) and give it the “run as invoker” fix </li>    <li>*Instead* of opening a command prompt and installing it, just go to **File > Install** </li> </ol>
 
 Then I removed the “Run as Administrator” changes I made years back and things work great; my complaints above are fixed.
 
@@ -40,5 +40,5 @@ You can customize those when you create the fix, but I’m sticking with the def
 
 **Unknown said on 2014-06-23**
 
-Instead of &quot;Run as Invoker&quot;, try using ForceAdminAccess and this fixed issue for me.
+Instead of "Run as Invoker", try using ForceAdminAccess and this fixed issue for me.
 

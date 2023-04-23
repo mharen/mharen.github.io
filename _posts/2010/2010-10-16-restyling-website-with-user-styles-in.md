@@ -76,7 +76,9 @@ The final piece is the actual site logo—the baby face. Sarah might put her own
 That is far, *far* too busy for my taste, but I think Sarah will like it. If I find some time, I might add a soft glow effect around the logo image to help it stand off from the background. To do that efficiently, though, I’ll probably need to update the structure of the page which I don’t want to do right now.
 
 My complete user style (includes many tweaks not captured above):
-<blockquote>   <pre class="csharpcode">body { 
+<blockquote>   
+```cs
+body { 
   background-image:url(http://lh6.ggpht.com/_IKD9WtY5kxU/TK8ysmokPoI/AAAAAAAABAc/MDUoIh2d0lE/AutumnLeaves2.jpg);
 }
 
@@ -122,7 +124,9 @@ div#buttons-containter {
 div#header2 {
   background-image: url(http://lh4.ggpht.com/_IKD9WtY5kxU/TLnv-tDoWeI/AAAAAAAABCY/3nINZ-3HykQ/Masthead-fall2010.jpg);
   height: 425px;
-}</pre>
+}
+```
+
 </blockquote>
 
 

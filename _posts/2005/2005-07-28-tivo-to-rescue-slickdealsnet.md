@@ -7,7 +7,7 @@ categories:
 title: TiVo to the Rescue, Slickdeals.net
 ---
 
-I just (finally) picked up a Tivo. I've wanted one for a long time but simply couldn't afford it. It wasn't even the initial cost--often they're available for &lt; $100--it was the monthly service fee of $12.95. 
+I just (finally) picked up a Tivo. I've wanted one for a long time but simply couldn't afford it. It wasn't even the initial cost--often they're available for < $100--it was the monthly service fee of $12.95. 
 
 Well I came across a deal I simply couldn't pass up. Thanks to [SlickDeals.net](http://www.slickdeals.net), I found a [Toshiba Tivo](http://www.tacp.toshiba.com/dvr/product.asp?model=rs-tx20) with 140 hour capacity and a DVD-R burner for $100. As an added bonus, the unit includes basic service for free. 
 

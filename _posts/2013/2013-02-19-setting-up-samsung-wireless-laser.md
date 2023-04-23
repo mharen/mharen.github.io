@@ -25,7 +25,7 @@ Once you're connected to the printer open the print app. We don't actually want 
 
 Note the IP address and head over to your web browser. Enter the IP address in the address bar to get to the printer's management console.
 
-Login with user "admin", password "sec00000". If that doesn't work, do a Google search for "default password &lt;your printer model&gt;" and try that.
+Login with user "admin", password "sec00000". If that doesn't work, do a Google search for "default password <your printer model>" and try that.
 
 Once you're logged in, go to the settings page and do the wireless setup. This will let you choose your WiFi network from a list. When complete, your printer (or at least its network) will reboot. Give it a minute.
 
@@ -47,5 +47,5 @@ Now go kill some trees!
 
 So only just now do I realize that you set this up without a computer.  Good work, babe! :)
 
-I'm pretty sure I used about half of a ream of paper tonight ~ because I &lt;3 the earth.
+I'm pretty sure I used about half of a ream of paper tonight ~ because I <3 the earth.
 

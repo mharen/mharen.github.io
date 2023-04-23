@@ -20,6 +20,6 @@ Let’s thing a moment about how a search engine works. At a ridiculously high l
 
 If Bing is doing this and it’s not targeted to Google (a *huge if*), this is so fantastically awesome. Of course it’s still unethical to literally plagiarize the text on Google’s results pages—the snippets and what have you—but if Bing’s only watching clicks to find pages to crawl itself, this is pretty cool.
 
-It’d be nice if they were more upfront about it, though. Recording every click users make and then waving around a privacy policy that certainly &lt;1% of users have read isn’t exactly being forthcoming.
+It’d be nice if they were more upfront about it, though. Recording every click users make and then waving around a privacy policy that certainly <1% of users have read isn’t exactly being forthcoming.
 
 Of course it’s also possible that Bing is doing this only to Google and totally ripping them off—that remains to be seen.

@@ -13,21 +13,25 @@ I built [this thing](http://blocky.apphb.com/) the other day while [playing arou
 
 The fix I settled on required two tricks combined together. First, I needed to translate the touch events into mouse events. Second, I needed to rework how the touch events work in the first place.
 
-I adapted a [snippet of code](http://ross.posterous.com/2008/08/19/iphone-touch-events-in-javascript/) to effectively catch the touchmove events and replay them as mousemove events like so:  <pre class="csharpcode">    <span class="rem">// don't just copy this code. It gets better farther down...</span>
-<span class="kwrd">    function</span> touchHandler(<span class="kwrd">event</span>) {
-        <span class="kwrd">var</span> touch = <span class="kwrd">event</span>.touches[0];
-        <span class="kwrd">var</span> simulatedEvent = document.createEvent(<span class="str">&quot;MouseEvent&quot;</span>);
+I adapted a [snippet of code](http://ross.posterous.com/2008/08/19/iphone-touch-events-in-javascript/) to effectively catch the touchmove events and replay them as mousemove events like so:  
+```cs
+    // don't just copy this code. It gets better farther down...
+    function touchHandler(event) {
+        var touch = event.touches[0];
+        var simulatedEvent = document.createEvent("MouseEvent");
 
-        simulatedEvent.initMouseEvent(<span class="str">&quot;mousemove&quot;</span>, <span class="kwrd">true</span>, <span class="kwrd">true</span>, window, 1,
+        simulatedEvent.initMouseEvent("mousemove", true, true, window, 1,
             touch.screenX, touch.screenY,
-            touch.clientX, touch.clientY, <span class="kwrd">false</span> <span class="rem">/*ctrl*/</span>, <span class="kwrd">false</span> <span class="rem">/*alt*/</span>,
-            <span class="kwrd">false</span> <span class="rem">/*shift*/</span>, <span class="kwrd">false</span> <span class="rem">/*meta*/</span>, 0 <span class="rem">/*left*/</span>, <span class="kwrd">null</span> <span class="rem">/*related target*/</span>);
+            touch.clientX, touch.clientY, false /*ctrl*/, false /*alt*/,
+            false /*shift*/, false /*meta*/, 0 /*left*/, null /*related target*/);
 
         touch.target.dispatchEvent(simulatedEvent);
-        <span class="kwrd">event</span>.preventDefault();
+        event.preventDefault();
     }
 
-    document.addEventListener(<span class="str">&quot;touchmove&quot;</span>, touchHandler, <span class="kwrd">true</span>);</pre>
+    document.addEventListener("touchmove", touchHandler, true);
+```
+
 
 
 This wasn’t enough to accommodate my needs, though. I really wanted the behavior of a mousemove event and this wasn’t doing it. The difference took too long for me to discover: the target of a mousemove event is the element underneath the mouse while the target of the touchmove event is the element that was under your finger when the dragging started.
@@ -38,40 +42,48 @@ That is, as you move across the screen, you will get a flurry of events. The mou
 
 So here’s the second fix: figure out what element is under your finger and fire the mousemove event with *that*. Luckily, there’s this handy function that can tell you what element is at a given x/y position: [elementFromPoint(x, y)](https://developer.mozilla.org/en-US/docs/DOM/document.elementFromPoint). Here’s what the updated version looks like:
 
-<pre class="csharpcode">    <span class="kwrd">function</span> touchHandler(<span class="kwrd">event</span>) {
-        <span class="kwrd">var</span> touches = <span class="kwrd">event</span>.touches;
-        <span class="kwrd">var</span> touch = touches[0];
-        <span class="kwrd">var</span> simulatedEvent = document.createEvent(<span class="str">&quot;MouseEvent&quot;</span>);
 
-        simulatedEvent.initMouseEvent(<span class="str">&quot;mousemove&quot;</span>, <span class="kwrd">true</span>, <span class="kwrd">true</span>, window, 1,
+```cs
+    function touchHandler(event) {
+        var touches = event.touches;
+        var touch = touches[0];
+        var simulatedEvent = document.createEvent("MouseEvent");
+
+        simulatedEvent.initMouseEvent("mousemove", true, true, window, 1,
             touch.screenX, touch.screenY,
-            touch.clientX, touch.clientY, <span class="kwrd">false</span> <span class="rem">/*ctrl*/</span>, <span class="kwrd">false</span> <span class="rem">/*alt*/</span>,
-            <span class="kwrd">false</span> <span class="rem">/*shift*/</span>, <span class="kwrd">false</span> <span class="rem">/*meta*/</span>, 0 <span class="rem">/*left*/</span>, <span class="kwrd">null</span> <span class="rem">/*related target*/</span>);
+            touch.clientX, touch.clientY, false /*ctrl*/, false /*alt*/,
+            false /*shift*/, false /*meta*/, 0 /*left*/, null /*related target*/);
 
-<strong>        <span class="kwrd">var</span> elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
+<strong>        var elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
         elementUnderFinger.dispatchEvent(simulatedEvent);
-</strong>        <span class="kwrd">event</span>.preventDefault();
-    }</pre>
+</strong>        event.preventDefault();
+    }
+```
+
 
 
 **It works!** But let’s not stop there. What about multi-touch? You’ll notice above that we have an array “event.touches” but we only use the first one (touches[0]). Let’s try handling them all!
 
-<pre class="csharpcode">   <span class="kwrd">function</span> touchHandler(<span class="kwrd">event</span>) {
-      <span class="kwrd">var</span> touches = <span class="kwrd">event</span>.touches;
-<strong>      <span class="kwrd">for</span> (<span class="kwrd">var</span> i = 0; i &lt; touches.length; ++i) {
-</strong>          <span class="kwrd">var</span> touch = touches[i];
-          <span class="kwrd">var</span> simulatedEvent = document.createEvent(<span class="str">&quot;MouseEvent&quot;</span>);
 
-          simulatedEvent.initMouseEvent(<span class="str">&quot;mousemove&quot;</span>, <span class="kwrd">true</span>, <span class="kwrd">true</span>, window, 1,
+```cs
+   function touchHandler(event) {
+      var touches = event.touches;
+<strong>      for (var i = 0; i < touches.length; ++i) {
+</strong>          var touch = touches[i];
+          var simulatedEvent = document.createEvent("MouseEvent");
+
+          simulatedEvent.initMouseEvent("mousemove", true, true, window, 1,
               touch.screenX, touch.screenY,
-              touch.clientX, touch.clientY, <span class="kwrd">false</span> <span class="rem">/*ctrl*/</span>, <span class="kwrd">false</span> <span class="rem">/*alt*/</span>,
-              <span class="kwrd">false</span> <span class="rem">/*shift*/</span>, <span class="kwrd">false</span> <span class="rem">/*meta*/</span>, 0 <span class="rem">/*left*/</span>, <span class="kwrd">null</span> <span class="rem">/*related target*/</span>);
+              touch.clientX, touch.clientY, false /*ctrl*/, false /*alt*/,
+              false /*shift*/, false /*meta*/, 0 /*left*/, null /*related target*/);
 
-          <span class="kwrd">var</span> elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
+          var elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
           elementUnderFinger.dispatchEvent(simulatedEvent);
-          <span class="kwrd">event</span>.preventDefault();
+          event.preventDefault();
 **      }**
-   }</pre>
+   }
+```
+
 
 
 I’m going to claim that this works (it does)…but depending on what you’re doing with the mousemove events that this creates, there may be unexpected behavior as what you will observe is mousemove events from two fingers intermixed together. If you visualized this as a mouse cursor, you’d see it skipping back and forth between each finger. That might be ok—it depends on what you do with it.
@@ -86,7 +98,11 @@ With this added to my SignalR sample, multi-touch iOS devices are now supported.
 
 Oh, and that “event.preventDefault()” part is there to stop the screen from moving when you drag it. If that’s all you wanted, you can do this [simpler version](http://stackoverflow.com/a/9251757/29):
 
-<pre class="csharpcode">    document.addEventListener(<span class="str">&quot;touchmove&quot;</span>, <span class="kwrd">function</span> (e) { e.preventDefault(); }, <span class="kwrd">true</span>);</pre>
+
+```cs
+    document.addEventListener("touchmove", function (e) { e.preventDefault(); }, true);
+```
+
 
 
 If that doesn’t seem to be doing it, you can try interrupting the touchstart and touchend events, too.

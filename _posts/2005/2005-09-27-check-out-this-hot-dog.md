@@ -32,14 +32,14 @@ My personal favorite has got to be Pirate. Just imagine the scenarios...
 
 
 
-<blockquote>&gt; "Oh he's so cute, what's his name!?"
+<blockquote>> "Oh he's so cute, what's his name!?"
 
-&lt; "Pirate."
+< "Pirate."
 
-&gt; "Oh...um...oh."
+> "Oh...um...oh."
 
-&gt; "Hi...pirate."
+> "Hi...pirate."
 
-&lt; "Yarrrr!"</blockquote>
+< "Yarrrr!"</blockquote>
 
 Feel free to submit any ideas as a comment--we are open to suggestions. We were pretty set on Charlie Brown but that was vetoed because we found it was used by another family member's dog.

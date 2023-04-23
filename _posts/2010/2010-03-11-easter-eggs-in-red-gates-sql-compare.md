@@ -28,13 +28,13 @@ Fun stuff!
 
 **Michael Haren said on 2010-03-15**
 
-BTW: You reach each of these by opening the Help&gt;About dialogs and waiting for about 1 minute.
+BTW: You reach each of these by opening the Help>About dialogs and waiting for about 1 minute.
 
 **Michael Haren said on 2011-08-04**
 
 Anonymous said...
 
-<i>Replacing following... &lt;snip&gt;
+<i>Replacing following... <snip>
 
 Makes the trial run forever!
 

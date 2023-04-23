@@ -28,7 +28,9 @@ The solution to item 2 however, was surprisingly difficult to uncover. Here’s 
 </strong>
 Host: ‘urmachine.domain.com’ is not allowed to connect to this MySQL server
 
-Connection to host lost.</pre>
+Connection to host lost.
+```
+
 </blockquote>
 When the connection *works* you get a handshake request, which fails unless you speak MySQL but the point is you *can *connect.
 
@@ -41,13 +43,15 @@ What you need to do is enable the host listed in the error message to connect as
 </strong>Enter password: <strong>************************
 </strong>Welcome to the....
 
-mysql&gt; </pre>
+mysql> 
+```
+
 </blockquote>
 To see who's already enabled, run this query:
 
 
 <blockquote>
-<pre>mysql&gt; **select host, user from user;**
+<pre>mysql> **select host, user from user;**
 +--------------------+---------+
 | host               | user    |
 +--------------------+---------+
@@ -56,7 +60,9 @@ To see who's already enabled, run this query:
 | localhost          | foobar  |
 | localhost          | root    |
 +--------------------+---------+
-4 rows in set (0.00 sec)</pre>
+4 rows in set (0.00 sec)
+```
+
 </blockquote>
 Now we need to add a new record. I'm interested in simply reading data from my remote host so I'm granting "select" privilges. If you need more, adjust the command accordingly, up to giving the host everything with the "all" keyword: 
 
@@ -64,17 +70,19 @@ Now we need to add a new record. I'm interested in simply reading data from my r
 
 
 <blockquote>
-<pre>mysql&gt; **grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';**
+<pre>mysql> **grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';**
 Query OK, 0 rows affected (0.00 sec)
 
-mysql&gt; <strong>flush privileges;
-</strong>Query OK, 0 rows affected (0.05 sec)</pre>
+mysql> <strong>flush privileges;
+</strong>Query OK, 0 rows affected (0.05 sec)
+```
+
 </blockquote>
 And now we're in the user list:
 
 
 <blockquote>
-<pre>mysql&gt; <strong>select host, user from user;
+<pre>mysql> <strong>select host, user from user;
 </strong>+-----------------------+---------+
 | host                  | user    |
 +-----------------------+---------+
@@ -84,7 +92,9 @@ And now we're in the user list:
 | localhost             | root    |
 | <span style="background-color: yellow;">urMachine.domain.com</span>  | <span style="background-color: yellow;">urUser</span>  |
 +-----------------------+---------+
-5 rows in set (0.00 sec)</pre>
+5 rows in set (0.00 sec)
+```
+
 </blockquote>
 The above applies to MySQL 5, and is probably adaptable to other nearby versions.
 

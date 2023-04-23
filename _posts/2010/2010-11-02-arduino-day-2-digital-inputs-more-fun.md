@@ -31,22 +31,24 @@ Build:
 
 ![IMAG0668%5B11%5D.jpg](IMAG0668%5B11%5D.jpg)
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Circuit (built with the amazing<span class="Apple-converted-space">&#160;</span>[Fritzing](http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;)):</span></span>
+<span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Circuit (built with the amazing<span class="Apple-converted-space">&#160;[Fritzing](http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;)):</span></span>
 
 ![day%20two%20-%20bb%5B6%5D.png](day%20two%20-%20bb%5B6%5D.png)
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Schematic (automatically built from the above image with the amazing<span class="Apple-converted-space">&#160;</span>[Fritzing](http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;)):</span></span>
+<span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Schematic (automatically built from the above image with the amazing<span class="Apple-converted-space">&#160;[Fritzing](http://fritzing.org/" style="color: rgb(30,96,225); text-decoration: none;)):</span></span>
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">![day%20two%20-%20schema%5B7%5D.png](day%20two%20-%20schema%5B7%5D.png)</span></span>
+<span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">![day%20two%20-%20schema%5B7%5D.png](day%20two%20-%20schema%5B7%5D.png)</span>
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Code:</span></span>
-<blockquote>   <pre class="csharpcode"><span class="kwrd">int</span> SwitchPin0 = 2;
-<span class="kwrd">int</span> SwitchPin1 = 4;
-<span class="kwrd">int</span> Leds[] = {3, 5, 6, 9, 10, 11};
-<span class="preproc">#define</span> LedCount (<span class="kwrd">sizeof</span>(Leds)/<span class="kwrd">sizeof</span>(<span class="kwrd">int</span>)) <span class="rem">//array size  </span>
+<span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Code:</span>
+<blockquote>   
+```cs
+int SwitchPin0 = 2;
+int SwitchPin1 = 4;
+int Leds[] = {3, 5, 6, 9, 10, 11};
+#define LedCount (sizeof(Leds)/sizeof(int)) //array size  
 
-<span class="kwrd">void</span> setup()  { 
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void setup()  { 
+  for(int i=0; i<LedCount; i++){
     pinMode(Leds[i], OUTPUT);
   }
   
@@ -54,61 +56,63 @@ Build:
   pinMode(SwitchPin1, INPUT);
 } 
 
-<span class="kwrd">void</span> loop()  { 
+void loop()  { 
   
-  <span class="kwrd">int</span> SwitchValue0 = digitalRead(SwitchPin0);
-  <span class="kwrd">int</span> SwitchValue1 = digitalRead(SwitchPin1);
+  int SwitchValue0 = digitalRead(SwitchPin0);
+  int SwitchValue1 = digitalRead(SwitchPin1);
   
-  <span class="kwrd">if</span>(SwitchValue0 == LOW &amp;&amp; SwitchValue1 == LOW){
+  if(SwitchValue0 == LOW &amp;&amp; SwitchValue1 == LOW){
     DoFlash();
   }
-  <span class="kwrd">else</span> <span class="kwrd">if</span>(SwitchValue0 == LOW &amp;&amp; SwitchValue1 == HIGH){
+  else if(SwitchValue0 == LOW &amp;&amp; SwitchValue1 == HIGH){
     DoRunway();
   }
-  <span class="kwrd">else</span> <span class="kwrd">if</span>(SwitchValue0 == HIGH &amp;&amp; SwitchValue1 == LOW){
+  else if(SwitchValue0 == HIGH &amp;&amp; SwitchValue1 == LOW){
     DoFlickerDigital();
   }
-  <span class="kwrd">else</span> {
+  else {
     DoFlickerAnalog();
   }
 }
 
-<span class="kwrd">void</span> SetAll(<span class="kwrd">int</span> <span class="kwrd">value</span>){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
-    analogWrite(Leds[i], <span class="kwrd">value</span>);
+void SetAll(int value){
+  for(int i=0; i<LedCount; i++){
+    analogWrite(Leds[i], value);
   }  
 }
 
-<span class="kwrd">void</span> DoRunway(){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoRunway(){
+  for(int i=0; i<LedCount; i++){
     analogWrite(Leds[i], 255);    
     analogWrite(Leds[(i + 1) % LedCount], 0);
     delay(100);
   }   
 }
 
-<span class="kwrd">void</span> DoFlickerDigital(){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoFlickerDigital(){
+  for(int i=0; i<LedCount; i++){
     analogWrite(Leds[i], random(1+1)*255);    
     delay(100);
   } 
 }
 
-<span class="kwrd">void</span> DoFlickerAnalog(){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoFlickerAnalog(){
+  for(int i=0; i<LedCount; i++){
     analogWrite(Leds[i], random(255+1));    
     delay(100);
   } 
 }
 
-<span class="kwrd">void</span> DoFlash(){
-  <span class="kwrd">int</span> State = 0;
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoFlash(){
+  int State = 0;
+  for(int i=0; i<LedCount; i++){
     SetAll(State * 255);
     State = (State + 1) % 2;  
     delay(100);
   } 
-}</pre>
+}
+```
+
 </blockquote>
 
 

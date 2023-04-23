@@ -16,11 +16,15 @@ So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working
 **ERROR service '?' unknown**
 </blockquote>
 
-You probably have some code like this (or you’re just trying to [login](http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/) or get your app to run):  <pre class="csharpcode">Server = RfcServerManager.GetServer(serverName, rfcHandlers);
+You probably have some code like this (or you’re just trying to [login](http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/) or get your app to run):  
+```cs
+Server = RfcServerManager.GetServer(serverName, rfcHandlers);
 
-<span class="rem">// other init...</span>
+// other init...
 
-Server.Start();</pre>
+Server.Start();
+```
+
 
 
 So what happened? I’m guessing you have a new machine or recently removed some SAP-related software. I’m also guessing that if you install the SAP Logon pad, this issue will go away. But you don’t have to go to all that trouble! In my experience, all you need to do is add some configuration to the system services file. Here’s how:
@@ -30,7 +34,7 @@ So what happened? I’m guessing you have a new machine or recently removed some
 
   <li>Open this file: <code>**%windir%\system32\drivers\etc\services**</code> </li>
 
-  <li>Look around for services starting with &quot;sap&quot; </li>
+  <li>Look around for services starting with "sap" </li>
 
   <li>Assuming you don't find much, add these lines to the end: 
     
@@ -236,7 +240,9 @@ sapgw95  3395/tcp
 sapgw96  3396/tcp
 sapgw97  3397/tcp
 sapgw98  3398/tcp
-sapgw99  3399/tcp</pre>
+sapgw99  3399/tcp
+```
+
   </li>
 
   <li>Save the file and restart your application (rebooting the machine shouldn't be required) </li>

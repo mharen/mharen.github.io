@@ -14,11 +14,15 @@ For example, suppose I have a “what’s this” help link beside some potentia
 
 
 
-Nothing fancy here—just a link with a _blank target ([source](http://jsbin.com/unuqo/3/edit), [demo](http://jsbin.com/unuqo/3)):  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">p</span><span class="kwrd">&gt;</span>Hello World 
-  <span class="kwrd">&lt;</span><span class="html">a</span> <span class="attr">href</span><span class="kwrd">=&quot;/help/tips&quot;</span>
-     <span class="attr">target</span><span class="kwrd">=&quot;_blank&quot;</span> 
-     <span class="attr">title</span><span class="kwrd">=&quot;Hello World Help&quot;</span>
-     <span class="attr">class</span><span class="kwrd">=&quot;help-link&quot;</span><span class="kwrd">&gt;</span>(what's this?)<span class="kwrd">&lt;/</span><span class="html">a</span><span class="kwrd">&gt;&lt;/</span><span class="html">p</span><span class="kwrd">&gt;</span></pre>
+Nothing fancy here—just a link with a _blank target ([source](http://jsbin.com/unuqo/3/edit), [demo](http://jsbin.com/unuqo/3)):  
+```cs
+<p>Hello World 
+  <a href="/help/tips"
+     target="_blank" 
+     title="Hello World Help"
+     class="help-link">(what's this?)</a></p>
+```
+
 
 
 It’s not very pretty but it gets the job done without any Javascript. Let’s make it sexy:
@@ -29,28 +33,32 @@ It’s not very pretty but it gets the job done without any Javascript. Let’s 
 
 Here we’ve augmented the help link with a nice [jQuery UI](http://jqueryui.com/home) [dialog](http://jqueryui.com/demos/dialog/) instead of a browser popup ([source](http://jsbin.com/unuqo/4/edit), [demo](http://jsbin.com/unuqo/4)):
 
-<pre class="csharpcode">$(<span class="kwrd">function</span>(){
+
+```cs
+$(function(){
   
-  $(<span class="str">'.help-link'</span>).click(<span class="kwrd">function</span>(){
+  $('.help-link').click(function(){
     
-    $(<span class="str">'&lt;div&gt;&lt;/div&gt;'</span>)
-      .attr(<span class="str">'title'</span>, <span class="kwrd">this</span>.title)
-      .load(<span class="kwrd">this</span>.href)
+    $('<div></div>')
+      .attr('title', this.title)
+      .load(this.href)
       .dialog({
-        modal: <span class="kwrd">true</span>,
+        modal: true,
         buttons: {
-          Ok: <span class="kwrd">function</span> () {
-            $(<span class="kwrd">this</span>).dialog(<span class="str">'close'</span>);
+          Ok: function () {
+            $(this).dialog('close');
           }
         },
         width: 600,
         height: 350    
       });
     
-    <span class="kwrd">return</span> <span class="kwrd">false</span>;
+    return false;
   });
   
-});​</pre>
+});​
+```
+
 
 
 This doesn’t require any changes to the HTML/CSS—it uses existing attributes like <code>href</code> and <code>title</code> to wire itself up to the link. And, if JS is disabled or broken, *the link will still work*. 

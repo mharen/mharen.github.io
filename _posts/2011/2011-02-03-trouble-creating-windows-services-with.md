@@ -12,28 +12,30 @@ title: "Trouble Creating Windows Services With \u201Csc.exe create\u201D"
 
 I was recently tasked with figuring out why a seemingly correct call to sc.exe wasn’t working. This turned into an exercise in frustration as I tried the command about 50 different ways. This is close, but not close enough:
 <blockquote>   <pre><strong>** Don’t do this—it doesn’t work (keep reading) **
-</strong>C:\&gt;sc.exe create ServiceName binpath=&quot;C:\Path\Service.exe -args&quot;
-                              depend=&quot;tcpip&quot;
-                              DisplayName=&quot;Service Name&quot;
+</strong>C:\>sc.exe create ServiceName binpath="C:\Path\Service.exe -args"
+                              depend="tcpip"
+                              DisplayName="Service Name"
 
 DESCRIPTION: Creates a service entry in the registry and Service Database.
-USAGE: sc &lt;server&gt; create [service name] [binPath= ] &lt;option1&gt; &lt;option2&gt;...
+USAGE: sc <server> create [service name] [binPath= ] <option1> <option2>...
 OPTIONS:
 NOTE: The option name includes the equal sign.
- type= &lt;own|share|interact|kernel|filesys|rec&gt;
+ type= <own|share|interact|kernel|filesys|rec>
        (default = own)
- start= &lt;boot|system|auto|demand|disabled&gt;
+ start= <boot|system|auto|demand|disabled>
        (default = demand)
- error= &lt;normal|severe|critical|ignore&gt;
+ error= <normal|severe|critical|ignore>
        (default = normal)
- binPath= &lt;BinaryPathName&gt;
- group= &lt;LoadOrderGroup&gt;
- tag= &lt;yes|no&gt;
- depend= &lt;Dependencies(separated by / (forward slash))&gt;
- obj= &lt;AccountName|ObjectName&gt;
+ binPath= <BinaryPathName>
+ group= <LoadOrderGroup>
+ tag= <yes|no>
+ depend= <Dependencies(separated by / (forward slash))>
+ obj= <AccountName|ObjectName>
        (default = LocalSystem)
- DisplayName= &lt;display name&gt;
- password= &lt;password&gt;</pre>
+ DisplayName= <display name>
+ password= <password>
+```
+
 </blockquote>
 
 
@@ -45,11 +47,13 @@ It turns out that a literal, precise interpretation of the command line argument
 <blockquote>
   <pre>
 
-C:\&gt;sc.exe create ServiceName binpath=<font style="background-color: #ffff00;"> </font>&quot;C:\Path\Service.exe -args&quot; 
-                              depend=<font style="background-color: #ffff00;"> </font>&quot;tcpip&quot; 
-                              DisplayName=<font style="background-color: #ffff00;"> </font>&quot;Service Name&quot;
+C:\>sc.exe create ServiceName binpath=<font style="background-color: #ffff00;"> </font>"C:\Path\Service.exe -args" 
+                              depend=<font style="background-color: #ffff00;"> </font>"tcpip" 
+                              DisplayName=<font style="background-color: #ffff00;"> </font>"Service Name"
 [SC] CreateService SUCCESS
-</pre>
+
+```
+
 </blockquote>
 
 
@@ -62,7 +66,9 @@ Interestingly, while preparing this post I learned that the help info *has been 
   <pre>NOTE: The option name includes 
       the equal sign.
       <strong>A space is required between 
-      the equal sign and the value.</strong></pre>
+      the equal sign and the value.</strong>
+```
+
 </blockquote>
 
 

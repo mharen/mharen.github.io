@@ -22,7 +22,7 @@ The festivities started out on an odd note when there was some confusion over wh
 
 “OK, but I only paid for one pumpkin, not two.”   
 
-“Right&quot;.  
+“Right".  
 
 “Right…? OK…so what are the tickets for?”  
 

@@ -55,9 +55,9 @@ That is all.
 
 **Sarah said on 2011-01-10**
 
-Love it :)  I do believe you got &quot;hands off child to spouse upon arrival and leaves&quot; from me ~ my signature move ;)
+Love it :)  I do believe you got "hands off child to spouse upon arrival and leaves" from me ~ my signature move ;)
 
 **picturingtheordinary said on 2011-01-10**
 
-My favorite is &quot;Parental Response&quot; to Level 4. Great post!
+My favorite is "Parental Response" to Level 4. Great post!
 

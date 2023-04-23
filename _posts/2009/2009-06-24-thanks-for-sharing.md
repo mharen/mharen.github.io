@@ -16,7 +16,7 @@ Overheard on Sunday:
 
 …coming from the kitchen while eating in the dining room at Arby’s. Actually, as my wife recalls, this employee had just returned from the bathroom. I’m not sure if that’s better or worse. Trying to reason about it just makes my head hurt and my stomach sad. 
 
-“…washing *them*…”? “…*hair* off.”?! &lt;Shudder&gt; Pardon my harsh letters<sup>*</sup>, but *WTF does that mean*? 
+“…washing *them*…”? “…*hair* off.”?! <Shudder> Pardon my harsh letters<sup>*</sup>, but *WTF does that mean*? 
 
 Not to let that ruin a perfectly mediocre meal, I went to refill my tasty beverage on the other side of the restaurant where I overheard another gem (from another employee):
 <blockquote> 

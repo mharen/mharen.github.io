@@ -56,7 +56,7 @@ Big help - Thanks
 
 **yohid said on 2014-02-03**
 
-&quot;Terima Kasih&quot; from me in Indonesia.
+"Terima Kasih" from me in Indonesia.
 
 **Fanny Adinda Syaf. said on 2014-02-14**
 

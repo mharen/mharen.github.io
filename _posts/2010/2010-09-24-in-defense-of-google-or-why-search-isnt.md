@@ -33,7 +33,7 @@ I’d also argue that Google focuses on far more useful features than other serv
 The article creates this example:
 <blockquote> 
 
-Let's try a search for Google Fast Flip. Punch in &quot;F&quot; to a Google search box, and loads of &quot;Facebook&quot; results now appear. By &quot;Fas,&quot; there are miles of links to &quot;fashion&quot; sites. The next moment, &quot;Fast&quot; brings up page after page for &quot;Fastenal,&quot; a leading supplier of industrial supplies. By &quot;Fast F&quot; users start seeing results for &quot;Fast Food.&quot; And only by &quot;Fast Fl&quot; do we arrive at the correct results.
+Let's try a search for Google Fast Flip. Punch in "F" to a Google search box, and loads of "Facebook" results now appear. By "Fas," there are miles of links to "fashion" sites. The next moment, "Fast" brings up page after page for "Fastenal," a leading supplier of industrial supplies. By "Fast F" users start seeing results for "Fast Food." And only by "Fast Fl" do we arrive at the correct results.
 </blockquote>
 
 That *would* be frustrating. But that’s not how people use computers. I don’t type one letter, then pause to see what happens, then type another. A more realistic scenario would be someone rapidly typing “fast flip” like this:

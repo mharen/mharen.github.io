@@ -21,7 +21,7 @@ One final tip: if you are using Outlook 2007 and hate that annoying "Click here 
 
 <ul>
 
-	<li>Tools &gt; Options &gt; Other &gt; Advanced Options</li>
+	<li>Tools > Options > Other > Advanced Options</li>
 
 	<li>Uncheck "Show prompts to enable lame InstantSearch"</li>
 

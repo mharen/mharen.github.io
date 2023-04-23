@@ -23,7 +23,7 @@ We used to open the bathroom for use and to try on clothing. We had so much thef
 
 I am a small independent business owner. My store is one of the smallest in the system. Both my husband and I do work and have a family and retail is always a risky business with high operating expenses. I apologize for your inconvenience with the bathroom and sincerely wish it was different. Theft loss became too high of an expense.  
 
-I am sometimes on shift, and work almost every night after close. I usually see most of the girls on a daily or every other day basis. We definitely had an issue with clothing over the summer that had been addressed. We had to make a list of &quot;NO's&quot; that was very specific.  
+I am sometimes on shift, and work almost every night after close. I usually see most of the girls on a daily or every other day basis. We definitely had an issue with clothing over the summer that had been addressed. We had to make a list of "NO's" that was very specific.  
 
 I am not sure when you were last in the store. We do have days that we get slap happy and discuss things and joke around. We are all close as a staff as many of my girls have worked for me for a very long time.  
 

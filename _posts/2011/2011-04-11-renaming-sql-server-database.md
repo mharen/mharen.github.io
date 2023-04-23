@@ -14,18 +14,26 @@ If a search brought you here, chance are that you can’t rename your database b
 Here’s how:  <ol>   <li>Take the database into single-user mode (i.e. you) </li>    <li>Rename it </li>    <li>Return the database back to multi-user mode </li> </ol>
 
 This script does just that for SQL Server 2000:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">ALTER</span> <span class="kwrd">DATABASE</span> orig_db_name <span class="kwrd">SET</span> SINGLE_USER WITH ROLLBACK IMMEDIATE
-<span class="kwrd">EXEC</span> sp_renamedb <span class="str">'orig_db_name'</span>, <span class="str">'new_db_name'</span>
-<span class="kwrd">ALTER</span> <span class="kwrd">DATABASE</span> new_db_name <span class="kwrd">SET</span> MULTI_USER</pre>
+<blockquote>   
+```cs
+ALTER DATABASE orig_db_name SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+EXEC sp_renamedb 'orig_db_name', 'new_db_name'
+ALTER DATABASE new_db_name SET MULTI_USER
+```
+
 </blockquote>
 
 
 SQL Server 2005+ should use this slightly different version:
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">ALTER</span> <span class="kwrd">DATABASE</span> orig_db_name <span class="kwrd">SET</span> SINGLE_USER WITH ROLLBACK IMMEDIATE
-<span class="kwrd">ALTER</span> <span class="kwrd">DATABASE</span> orig_db_name <span class="kwrd">MODIFY</span> NAME = new_db_name
-<span class="kwrd">ALTER</span> <span class="kwrd">DATABASE</span> new_db_name <span class="kwrd">SET</span> MULTI_USER</pre>
+  
+```cs
+ALTER DATABASE orig_db_name SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+ALTER DATABASE orig_db_name MODIFY NAME = new_db_name
+ALTER DATABASE new_db_name SET MULTI_USER
+```
+
 </blockquote>
 
 

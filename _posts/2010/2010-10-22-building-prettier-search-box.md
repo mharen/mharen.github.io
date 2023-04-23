@@ -18,11 +18,15 @@ Let's take a quick look at a typical search box:
 </blockquote>
 
 It's boring, plain, and takes up a lot of space. But, the code is about as simple as it gets:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">input</span> <span class="kwrd">/&gt;
+<blockquote>   
+```cs
+<input <span class="kwrd">/>
 
-&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">=&quot;submit&quot;</span> <span class="kwrd">/&gt;
+<</span>input type="submit" <span class="kwrd">/>
 
-</span></pre>
+</span>
+```
+
 </blockquote>
 
 
@@ -35,12 +39,16 @@ We can improve things a great deal by adding a shiny graphic:
 </blockquote>
 
 
-That's most easily accomplished by changing the input type from &quot;submit&quot; to &quot;image&quot; like so (this could be accomplished in CSS with a bit [more effort](http://stackoverflow.com/q/195632/29)): 
+That's most easily accomplished by changing the input type from "submit" to "image" like so (this could be accomplished in CSS with a bit [more effort](http://stackoverflow.com/q/195632/29)): 
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">input</span> <span class="kwrd">/&gt;
+  
+```cs
+<input <span class="kwrd">/>
 
-&lt;</span><span class="html">input</span> <span class="attr">src</span><span class="kwrd">=&quot;search.gif&quot;</span> <span class="attr">type</span><span class="kwrd">=&quot;image&quot;</span> <span class="kwrd">/&gt;</span></pre>
+<</span>input src="search.gif" type="image" />
+```
+
 </blockquote>
 
 
@@ -56,11 +64,15 @@ Now we're talking. Let's go a little further:
 Here we've overlaid the image with the box for a very clean effect. This uses the same HTML (I just added classes) but adds just a teenie bit of CSS:
 
 <blockquote>
-  <pre class="csharpcode"><span class="rem">/* overlay search button on the actual box */</span>
+  
+```cs
+/* overlay search button on the actual box */
 input.search-button { position:relative; left: -20px; top:1px } 
 
-<span class="rem">/* pad out the input so a user's search won't go under the search button */</span>
-input.search-box { padding-right:20px; }</pre>
+/* pad out the input so a user's search won't go under the search button */
+input.search-box { padding-right:20px; }
+```
+
 </blockquote>
 
 

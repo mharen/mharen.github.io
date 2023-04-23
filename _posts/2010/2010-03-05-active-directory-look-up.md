@@ -16,10 +16,14 @@ Now would be a good time for you to stop reading.  <hr />
 
 I’ve been working on an app that’s defers authentication to the company’s Active Directory. Rather than ask user’s to fill in profile info like a display name, I decided to pull this info out of the directory.
 
-This turned out to be ridiculously easy after adding a reference to <code>System.DirectoryServices.AccountManagement to the project</code>:  <pre class="csharpcode"><span class="kwrd">using</span> (var PC = <span class="kwrd">new</span> PrincipalContext(ContextType.Domain))
+This turned out to be ridiculously easy after adding a reference to <code>System.DirectoryServices.AccountManagement to the project</code>:  
+```cs
+using (var PC = new PrincipalContext(ContextType.Domain))
 {
     var UserPrincipal = Principal.FindByIdentity(PC, userName);
-}</pre>
+}
+```
+
 
 
 In this case, we’re passing along the user’s NT name, including the domain to help make it unique (e.g. “domain\user”) and getting back an object of type [System.DirectoryServices.AccountManagement.Principal](http://msdn.microsoft.com/en-us/library/system.directoryservices.accountmanagement.principal(v=VS.90).aspx), which has some [nice properties](http://msdn.microsoft.com/en-us/library/system.directoryservices.accountmanagement.principal_members(v=VS.90).aspx) like <code>DisplayName</code> and <code>Sid</code>.

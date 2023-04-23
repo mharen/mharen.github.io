@@ -48,7 +48,7 @@ Next I soldered the wire on, put the cover back on, and enjoyed some self congra
 
 **Sarah said on 2011-07-18**
 
-Love it :)  But, um, how is the dryer a &quot;hipster&quot;?  Is this where you said, &quot;oh, it used to be cool&quot;? ;)
+Love it :)  But, um, how is the dryer a "hipster"?  Is this where you said, "oh, it used to be cool"? ;)
 
 Also, you don't fold laundry.  Don't lie.  But I love you anyway :)
 

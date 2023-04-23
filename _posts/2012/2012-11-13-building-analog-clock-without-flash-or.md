@@ -23,7 +23,7 @@ Let’s start by defining where the clocks should go with some very basic layout
 
 
 
-Now we need some elements to hold the times. Let’s use that fancy new &lt;time&gt; tag:
+Now we need some elements to hold the times. Let’s use that fancy new <time> tag:
 
 
 

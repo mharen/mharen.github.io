@@ -44,7 +44,7 @@ Maya **loves** them. So, Progresso, thanks for the coupons and the toys—I gues
 
 **Jenny Stratton said on 2009-10-01**
 
-Often &quot;natural flavor&quot; means there is MSG in the product.  Just read that recently, can't remember where or would send you the link.
+Often "natural flavor" means there is MSG in the product.  Just read that recently, can't remember where or would send you the link.
 
 Friend of your Mom's
 

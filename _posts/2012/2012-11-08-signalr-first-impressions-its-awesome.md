@@ -42,5 +42,5 @@ The potential uses for this technology are numerous. I’m excited to experiment
 
 **Unknown said on 2012-11-09**
 
-Playing around with this demo gave me one of those &quot;everything I thought I knew about web apps must be wrong&quot; feelings. Amazing.
+Playing around with this demo gave me one of those "everything I thought I knew about web apps must be wrong" feelings. Amazing.
 

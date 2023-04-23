@@ -74,7 +74,7 @@ Amazing idea, Michael. Are you going to develop the app? There are so many compa
 
 **phixed said on 2011-12-08**
 
-That is an awesome idea.  As a fellow developer, I can certainly relate on the &quot;actual work to do&quot; part.  I too would be interested in hearing how serious you are about building something and wanting some help/collaboration.
+That is an awesome idea.  As a fellow developer, I can certainly relate on the "actual work to do" part.  I too would be interested in hearing how serious you are about building something and wanting some help/collaboration.
 
 **Michael Haren said on 2012-02-06**
 

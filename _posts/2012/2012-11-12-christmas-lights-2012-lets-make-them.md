@@ -34,7 +34,7 @@ Credits:  <ul>   <li>[Clip photo](http://www.christmaslightsetc.com/pages/Hangin
 
 **Sarah said on 2012-11-14**
 
-I &lt;3 our Christmas lights.  You are, in a word, awesome.
+I <3 our Christmas lights.  You are, in a word, awesome.
 
 **Susan said on 2012-12-12**
 

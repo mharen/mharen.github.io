@@ -18,9 +18,9 @@ It turns out that installing it is very easy and didn’t require a reboot (for 
 
 **Text only**
 
-Install it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS)</li>    <li>Role Services (scroll down) &gt; Add Role Services</li>    <li>Add desired role (Web Server &gt; Performance &gt; Dynamic Content Compression)</li>    <li>Next, Install, Wait…Done!</li> </ol>
+Install it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS)</li>    <li>Role Services (scroll down) > Add Role Services</li>    <li>Add desired role (Web Server > Performance > Dynamic Content Compression)</li>    <li>Next, Install, Wait…Done!</li> </ol>
 
-Enable it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager</li>    <li>Next pane: Sites &gt; Default Web Site &gt; Your Web Site</li>    <li>Main pane: IIS &gt; Compression</li> </ol>
+Enable it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS) > Internet Information Services (IIS) Manager</li>    <li>Next pane: Sites > Default Web Site > Your Web Site</li>    <li>Main pane: IIS > Compression</li> </ol>
 
 **With perdy pictures**
 
@@ -28,7 +28,7 @@ Install it:  <ol>   <li>Open server manager
 
 ![SNAG-0002%5B3%5D.png](SNAG-0002%5B3%5D.png)</a></li> </ol>
 
-Enable it:  <ol>   <li>Open server manager</li>    <li>Roles &gt; Web Server (IIS) &gt; Internet Information Services (IIS) Manager     
+Enable it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS) > Internet Information Services (IIS) Manager     
 
 ![SNAG-0005%5B3%5D.png](SNAG-0005%5B3%5D.png)</a> </li> </ol>
 
@@ -54,7 +54,7 @@ You might be wondering why you’d want to compress content in the first place. 
 
 @Anonymous(2): oh don't worry, it's riveting.
 
-@Patrick: Work and babies, I guess. And &quot;The Wire&quot;.
+@Patrick: Work and babies, I guess. And "The Wire".
 
 **Hetal said on 2010-01-05**
 
@@ -70,7 +70,7 @@ Thanks - helpful post sorted me out a treat!
 
 **Unknown said on 2011-01-03**
 
-or you can go to Add\Remove programs&gt;Turn windows features On or off&gt;IIS&gt;WWW Services&gt;Performance features
+or you can go to Add\Remove programs>Turn windows features On or off>IIS>WWW Services>Performance features
 
 **etymon technologies said on 2011-02-17**
 
@@ -86,7 +86,7 @@ Thanks for the help!
 
 “The dynamic content compression module is not installed.” 
 
-(but we won’t tell you how to install it) &lt;-- ahah i tought the same thing, pretty classic from Microsoft.
+(but we won’t tell you how to install it) <-- ahah i tought the same thing, pretty classic from Microsoft.
 
 **ahsar said on 2011-04-12**
 

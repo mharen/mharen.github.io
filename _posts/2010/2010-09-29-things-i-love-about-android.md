@@ -70,7 +70,7 @@ Plus, it looked like a good opportunity to get into a debate with an iFanBoy, wh
 
 **Michael Haren said on 2010-09-29**
 
-It's certainly no mistake that Apple confusingly went from &quot;3G&quot; (representing the network and the generation) to &quot;4&quot; which represents just the generation.
+It's certainly no mistake that Apple confusingly went from "3G" (representing the network and the generation) to "4" which represents just the generation.
 
 It is only exacerbated by Sprint who has an actual 4g phone (which actually only works on 4g in select markets...).
 

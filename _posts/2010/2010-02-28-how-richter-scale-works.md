@@ -78,11 +78,11 @@ b)What was the mortality in Haiti two days after the quake?  I feel like that wo
 
 @Patrick,
 
-&gt; a)Why so many blog posts, after two months of silence? I am confused.
+> a)Why so many blog posts, after two months of silence? I am confused.
 
 I write when I can. Sarah and the girls were out most of Saturday so I had time to finish off a bunch of posts and write some new ones.
 
-&gt; b)What was the mortality in Haiti two days after the quake? I feel like that would be a more fair comparison - it has been raising since then, and Chile's will raise too.
+> b)What was the mortality in Haiti two days after the quake? I feel like that would be a more fair comparison - it has been raising since then, and Chile's will raise too.
 
 I agree. In this case, Chile's won't grow nearly as fast as Haiti's but you're right--a time-corrected comparison would be best.
 

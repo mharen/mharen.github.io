@@ -38,40 +38,44 @@ Oh yeah, the build:
 Today’s code is very straight forward. It basically just increases the intensity of each color a random amount (0-5 of 255) every 25ms. Once the color exceeds 255, I flip it to –255 so it can start counting to zero. I only write the absolute value to the pin so the effect is an intensity value that ramps up and down.
 
 I was real nice this time and included comments, even though I usually hate comments (duplication at best, lies at worst).
-<blockquote>   <pre class="csharpcode"><span class="kwrd">int</span> RPin = 9;
-<span class="kwrd">int</span> BPin = 10;
-<span class="kwrd">int</span> GPin = 11;
+<blockquote>   
+```cs
+int RPin = 9;
+int BPin = 10;
+int GPin = 11;
 
-<span class="kwrd">int</span> Pins[] = { RPin, BPin, GPin };
-<span class="kwrd">int</span> Vals[3];
+int Pins[] = { RPin, BPin, GPin };
+int Vals[3];
 
-<span class="preproc">#define</span> PinsCount (<span class="kwrd">sizeof</span>(Pins) / <span class="kwrd">sizeof</span>(<span class="kwrd">int</span>))
+#define PinsCount (sizeof(Pins) / sizeof(int))
 
-<span class="kwrd">void</span> setup() {
-  <span class="rem">// put your setup code here, to run once:</span>
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i &lt; PinsCount; i++){
-    <span class="rem">// initialize output to random intensity</span>
+void setup() {
+  // put your setup code here, to run once:
+  for(int i = 0; i < PinsCount; i++){
+    // initialize output to random intensity
     pinMode(Pins[i], OUTPUT); 
     Vals[i] = 0;
   }
   
 }
 
-<span class="kwrd">void</span> loop() {
-  <span class="rem">// put your main code here, to run repeatedly: </span>
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i &lt; PinsCount; i++){
-    <span class="rem">// add/subtract a random amount of intensity, wrapping around if necessary</span>
+void loop() {
+  // put your main code here, to run repeatedly: 
+  for(int i = 0; i < PinsCount; i++){
+    // add/subtract a random amount of intensity, wrapping around if necessary
     Vals[i] = (Vals[i] + random(6));
     
-    <span class="rem">// start counting toward zero, because the above item always adds</span>
-    <span class="kwrd">if</span>(Vals[i] &gt; 255){ Vals[i] = -255; }
+    // start counting toward zero, because the above item always adds
+    if(Vals[i] > 255){ Vals[i] = -255; }
     
-    <span class="rem">// send the abs value since it could be [-255,255]</span>
+    // send the abs value since it could be [-255,255]
     analogWrite(Pins[i], abs(Vals[i]));
   }
   
   delay(25);
-}</pre>
+}
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>

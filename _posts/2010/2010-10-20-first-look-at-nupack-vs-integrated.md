@@ -9,20 +9,24 @@ title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 
 Couldn’t be easier:  <ul>   <li>![image2.png](image2.png)[<u><font color="#0066cc">http://nupack.codeplex.com/</font></u>](http://nupack.codeplex.com/) </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
 
-Fire up Visual Studio 2010 and open the Package Manager Console under View &gt; Other Windows &gt; Package Manager Console (or press C-W, C-Z):
+Fire up Visual Studio 2010 and open the Package Manager Console under View > Other Windows > Package Manager Console (or press C-W, C-Z):
 
 ![image23.png](image23.png)
 
 From here you get a nice, friendly command line window:
 <blockquote>   <pre><code>
-PM&gt;</code></pre>
+PM></code>
+```
+
 </blockquote>
 
 
 This is a PowerShell console so the standard pattern of commands is available with the “-package” suffix. For example, to see what’s available, try List-Package:
 
 <blockquote>
-  <pre>  <pre>PM&gt; **List-Package**</pre>
+  <pre>  <pre>PM> **List-Package**
+```
+
 Id Version Description 
 
 -- ------- ----------- 
@@ -35,15 +39,19 @@ AntiXSS          4.0.1 AntiXSS is an encoding library which uses...
 
 Antlr            3.1.1 ANother Tool for Language Recognition...
 
-Antlr            3.1.3 ANother Tool for Language Recognition... </pre>
+Antlr            3.1.3 ANother Tool for Language Recognition... 
+```
 
-  <pre>&lt;snip&gt; </pre>
+
+  <pre><snip> 
+```
+
 </blockquote>
 
 <blockquote>
 
 
-PM&gt; 
+PM> 
 </blockquote>
 
 
@@ -59,59 +67,71 @@ And throw together a simple MVC app:
 Model:
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">namespace</span> TechTalk7.Models
+  
+```cs
+namespace TechTalk7.Models
 {
-    <span class="kwrd">public</span> <span class="kwrd">class</span> Idea
+    public class Idea
     {
-        <span class="kwrd">public</span> <span class="kwrd">int</span> ID { get; set; }
-        <span class="kwrd">public</span> <span class="kwrd">string</span> Name { get; set; }
+        public int ID { get; set; }
+        public string Name { get; set; }
     }
-}</pre>
+}
+```
+
 </blockquote>
 
 
 Controller:
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">namespace</span> TechTalk7.Controllers
+  
+```cs
+namespace TechTalk7.Controllers
 {
 
-    <span class="kwrd">public</span> <span class="kwrd">partial</span> <span class="kwrd">class</span> IdeaController : Controller
+    public partial class IdeaController : Controller
     {
-        <span class="kwrd">private</span> <span class="kwrd">static</span> List&lt;Idea&gt; Ideas = <span class="kwrd">new</span> List&lt;Idea&gt;();
+        private static List<Idea> Ideas = new List<Idea>();
 
-        <span class="kwrd">public</span> IdeaController()
+        public IdeaController()
         {
-            Ideas = <span class="kwrd">new</span> List&lt;Idea&gt;() { 
-                <span class="kwrd">new</span> Idea() { ID = 1, Name = <span class="str">&quot;Brush your teeth&quot;</span> }, 
-                <span class="kwrd">new</span> Idea() { ID = 2, Name = <span class="str">&quot;Study hard&quot;</span> } 
+            Ideas = new List<Idea>() { 
+                new Idea() { ID = 1, Name = "Brush your teeth" }, 
+                new Idea() { ID = 2, Name = "Study hard" } 
             };
         }
 
-        <span class="kwrd">public</span> <span class="kwrd">virtual</span> ActionResult Index()
+        public virtual ActionResult Index()
         {
-            <span class="kwrd">return</span> View(Ideas);
+            return View(Ideas);
         }
     }
-}</pre>
+}
+```
+
 </blockquote>
 
 
 View:
 
 <blockquote>
-  <pre class="csharpcode">    &lt;h2&gt;Index&lt;/h2&gt;
-    &lt;ol&gt;
-    &lt;% <span class="kwrd">foreach</span> (TechTalk7.Models.Idea I <span class="kwrd">in</span> Model)
-       { %&gt;
+  
+```cs
+    <h2>Index</h2>
+    <ol>
+    <% foreach (TechTalk7.Models.Idea I in Model)
+       { %>
 
-       &lt;li&gt;
-        &lt;!--old way, without T4
-        &lt;%=Html.ActionLink(I.Name, <span class="str">&quot;Details&quot;</span>, <span class="kwrd">new</span> { ID = I.ID }) %&gt; --&gt;
-       &lt;/li&gt;
+       <li>
+        <!--old way, without T4
+        <%=Html.ActionLink(I.Name, "Details", new { ID = I.ID }) %> -->
+       </li>
 
-    &lt;%} %&gt;
-    &lt;/ol&gt;</pre>
+    <%} %>
+    </ol>
+```
+
 </blockquote>
 
 
@@ -125,12 +145,14 @@ It works! Now let’s improve that view code by trying out that fancy [T4MVC](ht
 
 <blockquote>
   <pre><code>
-PM&gt; **Add-Package t4mvc**     
+PM> **Add-Package t4mvc**     
 
 Successfully added 'T4MVC 2.6.30' to TechTalk7 
 
 
-PM&gt; </code></pre>
+PM> </code>
+```
+
 </blockquote>
 
 
@@ -144,20 +166,24 @@ That was easy. But what just happened? It looks like some files were added:
 Sweet! Now I have T4MVC all ready to go and can do neat things like this:
 
 <blockquote>
-  <pre class="csharpcode">    <span class="kwrd">&lt;</span><span class="html">ol</span><span class="kwrd">&gt;</span>
-    <span class="asp">&lt;%</span> <span class="kwrd">foreach</span> (TechTalk7.Models.Idea I <span class="kwrd">in</span> Model)
-       { <span class="asp">%&gt;</span>
+  
+```cs
+    <ol>
+    <% foreach (TechTalk7.Models.Idea I in Model)
+       { %>
 
-       <span class="kwrd">&lt;</span><span class="html">li</span><span class="kwrd">&gt;</span>
-        <span class="rem">&lt;!-- *old way*, without T4--&gt;</span>
-<strong>        <span class="asp">&lt;%</span>=Html.ActionLink(I.Name, <span class="str">&quot;Details&quot;</span>, <span class="kwrd">new</span> { ID = I.ID }) <span class="asp">%&gt;</span>
+       <li>
+        <!-- *old way*, without T4-->
+<strong>        <%=Html.ActionLink(I.Name, "Details", new { ID = I.ID }) %>
 </strong>
-        <span class="rem">&lt;!--new way, *with* T4--&gt;</span>
-**        <span class="asp">&lt;%</span>=Html.ActionLink(I.Name, MVC.Idea.Details(1)) <span class="asp">%&gt;</span>**
-       <span class="kwrd">&lt;/</span><span class="html">li</span><span class="kwrd">&gt;</span>
+        <!--new way, *with* T4-->
+**        <%=Html.ActionLink(I.Name, MVC.Idea.Details(1)) %>**
+       </li>
 
-    <span class="asp">&lt;%</span>} <span class="asp">%&gt;</span>
-    <span class="kwrd">&lt;/</span><span class="html">ol</span><span class="kwrd">&gt;</span></pre>
+    <%} %>
+    </ol>
+```
+
 </blockquote>
 
 
@@ -167,13 +193,17 @@ Better. No more typo-prone strings, clunky object initializers, and it’s even 
 Soon I’ll be checking out the Spark View Engine, too. With that, my code above could be replaced with something like this:
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">viewdata</span> <span class="attr">Ideas</span><span class="kwrd">=&quot;List[[TechTalk7.Models.Idea]]&quot;</span><span class="kwrd">/&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">h2</span><span class="kwrd">&gt;</span>Index<span class="kwrd">&lt;/</span><span class="html">h2</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">ol</span><span class="kwrd">&gt;</span>
-    <span class="kwrd">&lt;</span><span class="html">li</span> <span class="attr">each</span><span class="kwrd">=&quot;var I in Ideas&quot;</span><span class="kwrd">&gt;</span>
+  
+```cs
+<viewdata Ideas="List[[TechTalk7.Models.Idea]]"/>
+<h2>Index</h2>
+<ol>
+    <li each="var I in Ideas">
         ${Html.ActionLink(I.Name, MVC.Idea.Details(1))}
-    <span class="kwrd">&lt;/</span><span class="html">li</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">ol</span><span class="kwrd">&gt;</span></pre>
+    </li>
+</ol>
+```
+
 </blockquote>
 
 

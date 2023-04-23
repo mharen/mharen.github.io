@@ -29,25 +29,29 @@ Run this script in the dirctory containing all your single wallpapers and it wil
 
 Obviously this is crude--add your own flow control, resume support for large batches, etc....
 
-<pre class="csharpcode">$imgs = Get-ChildItem * -include *.jpg,*.png -exclude dual*
 
-<span class="kwrd">for</span> ($i=0; $i -lt $imgs.Length; $i++){ 
-    <span class="kwrd">for</span> ($j=0; $j -lt $imgs.Length; $j++){ 
-        <span class="kwrd">if</span>($i -eq $j){ <span class="kwrd">continue</span>; }
+```cs
+$imgs = Get-ChildItem * -include *.jpg,*.png -exclude dual*
+
+for ($i=0; $i -lt $imgs.Length; $i++){ 
+    for ($j=0; $j -lt $imgs.Length; $j++){ 
+        if($i -eq $j){ continue; }
         $left = $imgs[$i].Name
         $right = $imgs[$j].Name
-        $extension = <span class="str">"jpg"</span>
+        $extension = "jpg"
 
-        $destination = [<span class="kwrd">string</span>]::Format(<span class="str">"dual/dual-{0}-{1}.{2}"</span>, $i, $j, $extension)
+        $destination = [string]::Format("dual/dual-{0}-{1}.{2}", $i, $j, $extension)
 
-        <span class="kwrd">if</span>(Test-Path $destination){
-            echo <span class="str">"Skipping $destination"</span>
+        if(Test-Path $destination){
+            echo "Skipping $destination"
         }
-        <span class="kwrd">else</span>{
-            echo <span class="str">"Running: montage -geometry 1280x1024 $left $right $destination"</span>
+        else{
+            echo "Running: montage -geometry 1280x1024 $left $right $destination"
             montage -geometry 1280x1024 $left $right $destination
         }
     }
-}</pre>
+}
+```
+
 
 Change that <code>-geometry</code> part to fit your system, obviously, and yeah... just loop over everything :). 

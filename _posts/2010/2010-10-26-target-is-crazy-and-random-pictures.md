@@ -104,11 +104,11 @@ Also, I'm surprised there was no dirty joke in there about the alcohol infused w
 
 You should edit it to say:
 
-&quot;That's right, alcoholic whipped cream.  Ladies ;) (said by the Old Spice man)&quot;
+"That's right, alcoholic whipped cream.  Ladies ;) (said by the Old Spice man)"
 
 and:
 
-&quot;Oh, and it's sold with the apples.  If you know what I mean ;)&quot;
+"Oh, and it's sold with the apples.  If you know what I mean ;)"
 
 The winks are very important.
 

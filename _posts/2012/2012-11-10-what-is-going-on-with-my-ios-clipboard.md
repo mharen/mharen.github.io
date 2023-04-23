@@ -33,19 +33,23 @@ I’m assuming the weird selection behavior is triggered by a script so let’s 
 
 Bingo. 
 
-That “protected-1.2.js” file looks like what we’re after. After it’s loaded, a bunch of mouse/selection/copy related events are bound to the various parts of the page. Let’s open that up to see if that’s where the site is messing with my clipboard:  <pre class="csharpcode">    <span class="rem">//limit text</span>
-    <span class="kwrd">function</span> manageText(str){
-        <span class="kwrd">if</span>(!allow(str)){
-            <span class="kwrd">return</span> str;
-        }<span class="kwrd">else</span>{
-            <span class="kwrd">return</span> <span class="str">&quot;**Complete lyrics: **&quot;</span>+ document.location.href;
+That “protected-1.2.js” file looks like what we’re after. After it’s loaded, a bunch of mouse/selection/copy related events are bound to the various parts of the page. Let’s open that up to see if that’s where the site is messing with my clipboard:  
+```cs
+    //limit text
+    function manageText(str){
+        if(!allow(str)){
+            return str;
+        }else{
+            return "**Complete lyrics: **"+ document.location.href;
         }
     }
 
     copyEl.innerHTML = manageText(c.toString());
 
     document.body.insertBefore(copyEl, document.body.firstChild);
-    a.selectAllChildren(copyEl);</pre>
+    a.selectAllChildren(copyEl);
+```
+
 
 
 There’s a lot more to it, but those are the key pieces that manipulated my clipboard. It’s actually pretty simple: this is all within the “noCopy” routine that’s bound to the “copy” event. When the browser tries to copy anything, it just throws some text into an element and selects *that* with [selectAllChildren](https://developer.mozilla.org/en-US/docs/DOM/Selection/selectAllChildren) instead of whatever was highlighted.

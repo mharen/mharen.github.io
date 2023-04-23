@@ -15,7 +15,7 @@ Again, here’s where we’re headed:
 
 ![goal%5B2%5D.png](goal%5B2%5D.png)
 
-Let’s start with the basic layout again—just a section with an HTML5 &lt;time&gt; element within it:
+Let’s start with the basic layout again—just a section with an HTML5 <time> element within it:
 
 
 

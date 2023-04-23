@@ -43,14 +43,16 @@ It turns out there are lots of things you can enable that are not on by default.
 Later that day, it happened again. She sent me an email with the exact time the problem occurred with her IP address. I VPNed into the web server and pulled down copies of the recent log files to peek at (NB: never work with the actual log files—always make copies!).
 
 I honed in on the time she provided (making an adjustment for UTC, which reminds me—I’ve been meaning to do a post about time-zones which will be riveting, I’m sure), and found a bunch of activity from her IP address. Here’s what I found:
-<blockquote>   <pre class="csharpcode"><em>Query (normally all on one line):
-</em>C:\...&gt;LogParser.exe "
-<span class="kwrd">SELECT</span> EXTRACT_FILENAME(TO_LOWERCASE(cs-uri-stem)) <span class="kwrd">AS</span> Page
- ,<span class="kwrd">AVG</span>(<span class="kwrd">time</span>-taken) <span class="kwrd">AS</span> [Average <span class="kwrd">Time</span> Taken]
-<span class="kwrd">FROM</span> C:\001_Logs\Slowdown\ex090625.log
-<span class="kwrd">WHERE</span> c-ip=<span class="str">'10.0.0.2'</span>
-<span class="kwrd">GROUP</span> <span class="kwrd">BY</span> TO_LOWERCASE(cs-uri-stem)
-<span class="kwrd">ORDER</span> <span class="kwrd">BY</span> <span class="kwrd">AVG</span>(<span class="kwrd">time</span>-taken) DESC"
+<blockquote>   
+```cs
+<em>Query (normally all on one line):
+</em>C:\...>LogParser.exe "
+SELECT EXTRACT_FILENAME(TO_LOWERCASE(cs-uri-stem)) AS Page
+ ,AVG(time-taken) AS [Average Time Taken]
+FROM C:\001_Logs\Slowdown\ex090625.log
+WHERE c-ip='10.0.0.2'
+GROUP BY TO_LOWERCASE(cs-uri-stem)
+ORDER BY AVG(time-taken) DESC"
 
 *Results:*
 Page                          Average Time Taken
@@ -66,19 +68,23 @@ Statistics:
 -----------
 Elements processed: 7874
 Elements output:    6
-Execution time:     1.06 seconds</pre></blockquote>
+Execution time:     1.06 seconds
+```
+</blockquote>
 This handy query looks at all 7874 hits in the given log file, groups them by page, and averages the time taken. The user’s complaint focused on classifyevents.aspx and these results clearly show that it’s in the middle of the pack in terms of time—certainly not an outlier as her report would suggest. 
 These times are in milliseconds and while I’m not too happy about the top result taking nearly 1 second on average to reach the user, an average result of 282ms for the page in question is perfectly normal.
-But wait! What if most of the time the numbers are low, but sometimes they are really bad. OK, let’s just look at the top 20 worst hits to that page:<blockquote><pre class="csharpcode">*Query (normally all on one line): *
-C:\...&gt;LogParser.exe "
-<span class="kwrd">SELECT</span> <span class="kwrd">TOP</span> 20
-EXTRACT_FILENAME(TO_LOWERCASE(cs-uri-stem)) <span class="kwrd">AS</span> Page,
-<span class="kwrd">time</span>-taken <span class="kwrd">AS</span> [<span class="kwrd">Time</span> Taken]
-<span class="kwrd">FROM</span> C:\001_Logs\Slowdown\ex090625.log
-<span class="kwrd">WHERE</span> c-ip=<span class="str">'10.80.85.110'</span>
-<span class="kwrd">AND</span> EXTRACT_FILENAME(TO_LOWERCASE(cs-uri-stem))
-   = <span class="str">'classifyevents.aspx'</span>
-<span class="kwrd">ORDER</span> <span class="kwrd">BY</span> <span class="kwrd">time</span>-taken <span class="kwrd">DESC"</span>
+But wait! What if most of the time the numbers are low, but sometimes they are really bad. OK, let’s just look at the top 20 worst hits to that page:<blockquote>
+```cs
+*Query (normally all on one line): *
+C:\...>LogParser.exe "
+SELECT TOP 20
+EXTRACT_FILENAME(TO_LOWERCASE(cs-uri-stem)) AS Page,
+time-taken AS [Time Taken]
+FROM C:\001_Logs\Slowdown\ex090625.log
+WHERE c-ip='10.80.85.110'
+AND EXTRACT_FILENAME(TO_LOWERCASE(cs-uri-stem))
+   = 'classifyevents.aspx'
+ORDER BY time-taken DESC"
 
 *Results*
 Page                Time Taken
@@ -104,29 +110,37 @@ classifyevents.aspx 375
 classifyevents.aspx 375
 classifyevents.aspx 375
 
-<span class="kwrd">Statistics</span>:
+Statistics:
 -----------
 Elements processed: 7874
-Elements <span class="kwrd">output</span>:    20
-Execution <span class="kwrd">time</span>:     1.89 seconds</pre></blockquote>
+Elements output:    20
+Execution time:     1.89 seconds
+```
+</blockquote>
 So it looks like there are a couple slow hits to the page (2.4s, 1.9s) but that’s nothing like the 10-20s the user was seeing. This might be good news as I can now, for the most part, focus on the client—she’s getting the pages quickly, but for some reason things feel slow to her.
 All this time, I’ve been running under the assumption that it’s got to be something about this user or her computers that cause the problem. This is based on the fact that we have a couple thousand people use this system every day and surely they aren’t all so patient as to never complain.
 The fact that she was running IE6 bothered me a little bit. Everything is tested in IE6, 7, 8 but we don’t spend lots of time doing things over and over again as a single session so I thought that might have something to do with it. The biggest change we made in May that might make trouble with IE6 was the enabling of http compression.
-So I turned to my pal Google. and eventually [this page](http://sebduggan.com/posts/ie6-gzip-bug-solved-using-isapi-rewrite) jumped out at me. It’s a set of instructions for disabling http compression for IE6 clients. Interesting…but most of my users use IE6. Here’s the part that peaked my interest (in blue):<blockquote><pre class="csharpcode">RewriteEngine on
+So I turned to my pal Google. and eventually [this page](http://sebduggan.com/posts/ie6-gzip-bug-solved-using-isapi-rewrite) jumped out at me. It’s a set of instructions for disabling http compression for IE6 clients. Interesting…but most of my users use IE6. Here’s the part that peaked my interest (in blue):<blockquote>
+```cs
+RewriteEngine on
 RewriteCond %{HTTP:User-Agent} MSIE\ [56]
 <strong><span style="color: rgb(0, 0, 255);">RewriteCond %{HTTP:User-Agent} !SV1</span>
 </strong>RewriteCond %{REQUEST_URI} \.(css|js)$
-RewriteHeader Accept-Encoding: .* $1</pre></blockquote><blockquote>
+RewriteHeader Accept-Encoding: .* $1
+```
+</blockquote><blockquote>
 What this does is look at the <kbd>User-Agent</kbd> header of any incoming request. If it’s IE5 (just to be safe) or IE6, and the **<span style="color: rgb(0, 0, 255);">User-Agent doesn’t contain <kbd>SV1</kbd> (which indicates IE6 SP2)</span>**, and if the requested page is a .css or .js file, then we rewrite the <kbd>Accept-Encoding</kbd> header to a blank string (normally it would be <kbd>gzip/deflate</kbd>, which indicates that the browser can handle those compression methods).</blockquote>
 Aha! Maybe most of the clients are running IE6SP2, but she’s running IE6-sans-sp2! I checked the logs again and looked at her user agent string, hoping it’d be IE6-sans-SP2:<blockquote>
 Mozilla/4.0 (compatible; **MSIE 6.0**; Windows NT 5.0; .NET CLR 1.1.4322)</blockquote>
-Awesome—no “SV1” so now, let’s just make sure that there aren’t many people in the same boat (if there were and this was the problem, I’d have more reports of the slow down). I turned to LogParser again, this time extracting user-agent strings and a count of how many times they came up from 14 days of logs:<blockquote><pre class="csharpcode"><em>Query (normally all on one line):
-</em>C:\...&gt;LogParser.exe "
-<span class="kwrd">SELECT</span> [cs(<span class="kwrd">User</span>-Agent)],<span class="kwrd">Count</span>(*)
-<span class="kwrd">FROM</span> C:\001_Logs\ex090613\*.log
-<span class="kwrd">INTO</span> UserAgents.csv
-<span class="kwrd">GROUP</span> <span class="kwrd">BY</span> [cs(<span class="kwrd">User</span>-Agent)]
-<span class="kwrd">ORDER</span> <span class="kwrd">BY</span> <span class="kwrd">COUNT</span>(*) <span class="kwrd">DESC</span>" -i:IISW3C -o:csv
+Awesome—no “SV1” so now, let’s just make sure that there aren’t many people in the same boat (if there were and this was the problem, I’d have more reports of the slow down). I turned to LogParser again, this time extracting user-agent strings and a count of how many times they came up from 14 days of logs:<blockquote>
+```cs
+<em>Query (normally all on one line):
+</em>C:\...>LogParser.exe "
+SELECT [cs(User-Agent)],Count(*)
+FROM C:\001_Logs\ex090613\*.log
+INTO UserAgents.csv
+GROUP BY [cs(User-Agent)]
+ORDER BY COUNT(*) DESC" -i:IISW3C -o:csv
 
 *Results:*
 <strong>Count   User Agent (cleaned up with Excel)
@@ -226,7 +240,9 @@ Awesome—no “SV1” so now, let’s just make sure that there aren’t many p
 13      Windows XP 5.1 Java/1.5.0
 10      Gecko/2009060215 Firefox/3.0.11
 10      MSIE 6.0 Windows NT 5.1 SV1  MS-RTC LM 8
-9       MSIE 6.0 Windows NT 5.1 SV1  </pre></blockquote>
+9       MSIE 6.0 Windows NT 5.1 SV1  
+```
+</blockquote>
 Since there are so many different ways a client can report themselves, I dumped the results into excel and used some PivotTable magic to get this:
 <table border="0"><tbody><tr>
      <td>**Browser**</td>
@@ -265,27 +281,31 @@ Once I ignored those three items, it was obvious that the application itself had
 Being the computer person, I immediately saw why in the little hard drive light. Internet Explorer was leaking memory like crazy and eventually, when the system ran out, caused the disk to thrash as Windows actively consumed and grew the page file. Watching the task manager, I could see a 1-2mb jump in memory usage with *every click*.
 ![yikes%5B6%5D.png](yikes%5B6%5D.png) I tore the page apart and was able to create a simple page to reproduce the problem and share. The above chart (generated with [Perfmon](http://adminfoo.net/2007/04/windows-perfmon-top-ten-counters.html)—a sweet tool on most windows machines) shows that simple page being executed over a period of about 3 minutes. You can see memory usage rose to about 90%, with the page file in tow. Each dropped quite suddenly when I terminated Internet Explorer.
 
-Here’s the simple page that produces the above behavior in IE6SP1 (but not Opera 9.5, Firefox 3.5, Chrome 2, or Internet Explorer 8):<blockquote></blockquote><blockquote><pre class="csharpcode"><span class="kwrd">&lt;!</span><span class="html">DOCTYPE</span> <span class="attr">html</span> <span class="attr">PUBLIC</span> <span class="kwrd">"-//W3C//DTD XHTML 1.0 Transitional//EN"</span> <span class="kwrd">"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">html</span> <span class="attr">xmlns</span><span class="kwrd">="http://www.w3.org/1999/xhtml"</span> <span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">head</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">link</span> <span class="attr">type</span><span class="kwrd">="text/css"</span> <span class="attr">href</span><span class="kwrd">="jquery-ui-1.7.1.custom.css"</span> <span class="attr">rel</span><span class="kwrd">="stylesheet"</span> <span class="kwrd">/&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">script</span> <span class="attr">type</span><span class="kwrd">="text/javascript"</span> <span class="attr">src</span><span class="kwrd">="jquery-1.3.2.min.js"</span><span class="kwrd">&gt;&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span>
-&lt;script type=<span class="str">"text/javascript"</span> src=<span class="str">"jquery-ui-1.7.1.custom.min.js"</span>&gt;&lt;/script&gt;
-&lt;script type=<span class="str">"text/javascript"</span>&gt;
-   $(document).ready(<span class="kwrd">function</span>() {
-       $(<span class="str">'.DatePicker:enabled'</span>).datepicker();
-       setTimeout(<span class="str">"Form1.submit();"</span>, 500);
+Here’s the simple page that produces the above behavior in IE6SP1 (but not Opera 9.5, Firefox 3.5, Chrome 2, or Internet Explorer 8):<blockquote></blockquote><blockquote>
+```cs
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<link type="text/css" href="jquery-ui-1.7.1.custom.css" rel="stylesheet" />
+<script type="text/javascript" src="jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="jquery-ui-1.7.1.custom.min.js"></script>
+<script type="text/javascript">
+   $(document).ready(function() {
+       $('.DatePicker:enabled').datepicker();
+       setTimeout("Form1.submit();", 500);
    });
-<span class="kwrd">&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">head</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">body </span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;</span><span class="html">form</span> <span class="attr">id</span><span class="kwrd">='Form1'</span> <span class="attr">action</span><span class="kwrd">='LeakTest2.htm'</span><span class="kwrd">&gt;</span>
-   <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">class</span><span class="kwrd">='DatePicker'</span> <span class="kwrd">/&gt;</span>
-   <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">='button'</span> <span class="attr">value</span><span class="kwrd">='Refresh'
-         </span> <span class="attr">onclick</span><span class="kwrd">='Form1.submit();'</span> <span class="kwrd">/&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">form</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">body</span><span class="kwrd">&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">html</span><span class="kwrd">&gt;</span></pre></blockquote>
+</script>
+</head>
+<body >
+<form id='Form1' action='LeakTest2.htm'>
+   <input class='DatePicker' />
+   <input type='button' value<span class="kwrd">='Refresh'
+         </span> onclick='Form1.submit();' />
+</form>
+</body>
+</html>
+```
+</blockquote>
 The problem is jquery. It's not really jquery's fault--this is a [documented bug](http://support.microsoft.com/kb/929874) with IE that's being triggered by jQuery. I hopped onto Google and started looking for solutions to “[IE6 jquery memory leak](http://www.google.com/search?q=IE6+jquery+memory+leak)”. I made another bad assumption when I wagered that there’d be an easy fix for this problem. 
 After trying a bunch of things, I opened a [question on Stackoverflow](http://stackoverflow.com/questions/1051090/how-can-i-control-ie6jqueryjquery-ui-memory-leaks) and that’s where I stand now. My leads are currently:<ol><li>Keep googling for a solution </li><li>Wait for someone to answer my question on SO </li><li>Post on the jquery mailing list for help</li><li>Learn a lot more about IE6’s memory leaks and attempt to patch jQuery myself </li></ol>
 When I resolve this problem, I’ll post a follow up. Hopefully soon!

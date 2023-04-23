@@ -10,24 +10,36 @@ title: The Curious Behavior of HTML Image Inputs, Or Why "&x=0&y=0" Is Showing U
 
 
 While working on an internal tool I noticed that the search form was producing unexpected <code>get</code> requests. Here’s the form:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">form</span> <span class="attr">action</span><span class="kwrd">=&quot;/Search&quot;</span> <span class="attr">method</span><span class="kwrd">=&quot;get&quot;</span><span class="kwrd">&gt;</span>
-  <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">id</span><span class="kwrd">=&quot;s&quot;</span> <span class="attr">name</span><span class="kwrd">=&quot;s&quot;</span> <span class="attr">type</span><span class="kwrd">=&quot;text&quot;</span> <span class="attr">value</span><span class="kwrd">=&quot;&quot;</span> <span class="kwrd">/&gt;</span>
-  <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">=&quot;image&quot;</span> <span class="attr">src</span><span class="kwrd">=&quot;search.png&quot;</span> <span class="attr">value</span><span class="kwrd">=&quot;Search&quot;</span> <span class="kwrd">/&gt;</span>
-<span class="kwrd">&lt;/</span><span class="html">form</span><span class="kwrd">&gt;</span></pre>
+<blockquote>   
+```cs
+<form action="/Search" method="get">
+  <input id="s" name="s" type="text" value="" />
+  <input type="image" src="search.png" value="Search" />
+</form>
+```
+
 </blockquote>
 
 
 I expected this to create requests like 
 
 <blockquote>
-  <pre class="csharpcode">/Search?s=blah</pre>
+  
+```cs
+/Search?s=blah
+```
+
 </blockquote>
 
 
 but instead I got this:
 
 <blockquote>
-  <pre class="csharpcode">/Search?s=blah&amp;x=0&amp;y=0</pre>
+  
+```cs
+/Search?s=blah&amp;x=0&amp;y=0
+```
+
 </blockquote>
 
 
@@ -37,7 +49,11 @@ Hmm. Initially I thought this was some sort of ASP.NET trick to [remember scroll
 This was easily confirmed by actually clicking on the magnifying glass on my page and seeing requests like this:
 
 <blockquote>
-  <pre class="csharpcode">/Search?s=blah&amp;x=**<font color="#ff0000">5</font>**&amp;y=**<font color="#ff0000">3</font>**</pre>
+  
+```cs
+/Search?s=blah&amp;x=**<font color="#ff0000">5</font>**&amp;y=**<font color="#ff0000">3</font>**
+```
+
 </blockquote>
 
 
@@ -47,10 +63,14 @@ Ah, so yes, it is recording where I click. While I’m sure that’s really grea
 Here’s a tiny line of jQuery which solved the problem for me:
 
 <blockquote>
-  <pre class="csharpcode"><span class="rem">// disable the image submit buttons so the browser doesn't add &amp;x=&amp;y= to the qs</span>
-$(<span class="str">'form.strip-img-inputs-on-submit'</span>).submit(<span class="kwrd">function</span> (e) {
-    $(<span class="kwrd">this</span>).find(<span class="str">'input[type=image]'</span>).attr(<span class="str">'disabled'</span>, <span class="kwrd">true</span>);
-});</pre>
+  
+```cs
+// disable the image submit buttons so the browser doesn't add &amp;x=&amp;y= to the qs
+$('form.strip-img-inputs-on-submit').submit(function (e) {
+    $(this).find('input[type=image]').attr('disabled', true);
+});
+```
+
 </blockquote>
 
 

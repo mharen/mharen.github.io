@@ -9,7 +9,7 @@ title: Charlotte's Birth Story, and Why We Chose Homebirth (Written by Sarah)
 ---
 
 
-We were planning on a homebirth since before I was even pregnant with Charlotte, though this wasn't information we went around advertising. It was a very informed choice made after doing lots of research (not surprising, since Michael is very statistics-oriented), but it was also a personal choice and arguing with people who said things like &quot;but what about all those babies who DIED because they were born at home???&quot;* wasn't my idea of a good time, and I needed to be surrounded by positive influences during my pregnancy. If you are interested in learning more about homebirth, just ask! I'd be happy to share my experience and my research with you. In the meantime, I'll share the [link that convinced Michael to give homebirthing a shot](http://gentlebirth.org/format/myths.html), a link to the [documentary that changed my life](http://www.thebusinessofbeingborn.com/), and my story... 
+We were planning on a homebirth since before I was even pregnant with Charlotte, though this wasn't information we went around advertising. It was a very informed choice made after doing lots of research (not surprising, since Michael is very statistics-oriented), but it was also a personal choice and arguing with people who said things like "but what about all those babies who DIED because they were born at home???"* wasn't my idea of a good time, and I needed to be surrounded by positive influences during my pregnancy. If you are interested in learning more about homebirth, just ask! I'd be happy to share my experience and my research with you. In the meantime, I'll share the [link that convinced Michael to give homebirthing a shot](http://gentlebirth.org/format/myths.html), a link to the [documentary that changed my life](http://www.thebusinessofbeingborn.com/), and my story... 
 
 Stats:    
 
@@ -31,4 +31,4 @@ One last thing (since this is already really long!) ~ looking back, as much rese
 
 &#160;
 
-<span style="font-size: 85%;">*I've not heard of ONE baby who died because he or she was born at home...not one. Let alone &quot;all those babies&quot;. And I find it highly unlikely that the majority of people using that argument have, either. Yes, babies die at home. Babies die in the hospital, too. Studies show that outcomes for low risk moms and babies are the same or better at home as in the hospital.</span>
+<span style="font-size: 85%;">*I've not heard of ONE baby who died because he or she was born at home...not one. Let alone "all those babies". And I find it highly unlikely that the majority of people using that argument have, either. Yes, babies die at home. Babies die in the hospital, too. Studies show that outcomes for low risk moms and babies are the same or better at home as in the hospital.</span>

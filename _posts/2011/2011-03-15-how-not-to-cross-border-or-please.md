@@ -19,7 +19,7 @@ The second time I just answered a few questions and was on my way.
 
 Sunday was a different story. I was making fantastic time when I crossed the Ambassador bridge. The booth agent didn’t much care for my song and dance around the “w” word and sent me to immigration. The guy there wasn’t too happy to see me either. He asked for my documentation—letter of attestation, college diploma, resume and customer contract—and was disappointed that I wasn’t sure what he was talking about and couldn’t provide any of it. 
 
-I admitted that I had no idea what to do as I’d never provided anything before and asked for suggestions. He thought it’d be wise to call human resources and get a letter that shows that **&quot;there's no one else in Canada that can do what [I] do to work here as a non-Canadian.&quot;**
+I admitted that I had no idea what to do as I’d never provided anything before and asked for suggestions. He thought it’d be wise to call human resources and get a letter that shows that **"there's no one else in Canada that can do what [I] do to work here as a non-Canadian."**
 
 This was at 10pm on Sunday so that wasn’t going to happen (also, that was impossible—I’m awesome at what I do but not 100% unique, even in Canada). I asked if I was being turned away or if I could figure something out. He replied, “I’m legally required to give you a chance to produce documentation before I turn you away.” **Challenge accepted.**
 

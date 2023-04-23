@@ -28,48 +28,52 @@ Crazy simple circuit today:
 ![Sketch_schem%5B7%5D.png](Sketch_schem%5B7%5D.png)  <h4>Code</h4>
 
 Today’s coding was a very simple selection from previous exercises, so this should look familiar:
-<blockquote>   <pre class="csharpcode"><span class="preproc">#define</span> c2 654
-<span class="preproc">#define</span> c3 1308
+<blockquote>   
+```cs
+#define c2 654
+#define c3 1308
 
-<span class="kwrd">const</span> <span class="kwrd">int</span> BuzzPin = 4;
-<span class="kwrd">const</span> <span class="kwrd">int</span> NoteDuration = 100; 
+const int BuzzPin = 4;
+const int NoteDuration = 100; 
 
-<span class="kwrd">void</span> setup() {
+void setup() {
   pinMode(BuzzPin, OUTPUT);  
 }
 
-<span class="kwrd">void</span> loop() {
+void loop() {
 
-  <span class="kwrd">int</span> RedButton = digitalRead(2);  
-  <span class="kwrd">int</span> BlkButton = digitalRead(3);  
+  int RedButton = digitalRead(2);  
+  int BlkButton = digitalRead(3);  
   
-  <span class="kwrd">if</span>(RedButton){
+  if(RedButton){
     Buzz(c3, NoteDuration);
   }
-  <span class="kwrd">if</span>(BlkButton){
+  if(BlkButton){
     Buzz(c2, NoteDuration); 
   }
 }
 
-<span class="kwrd">void</span> Buzz(<span class="kwrd">int</span> frequencyHz, <span class="kwrd">int</span> durationMillis){
-  <span class="rem">// e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low</span>
-  <span class="rem">// to create 50% duty cycle</span>
-  <span class="rem">// http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692</span>
-  <span class="kwrd">int</span> Osc = 1000000 / frequencyHz / 2; <span class="rem">// in microseconds</span>
+void Buzz(int frequencyHz, int durationMillis){
+  // e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low
+  // to create 50% duty cycle
+  // http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692
+  int Osc = 1000000 / frequencyHz / 2; // in microseconds
   
-  <span class="rem">// compute the number of iterations needed to hold</span>
-  <span class="rem">// the nfote the desired duration</span>
-  <span class="kwrd">int</span> Iterations = frequencyHz * ((<span class="kwrd">float</span>)durationMillis / 1000);
+  // compute the number of iterations needed to hold
+  // the nfote the desired duration
+  int Iterations = frequencyHz * ((float)durationMillis / 1000);
   
-  <span class="kwrd">for</span> (<span class="kwrd">long</span> i = 0; i &lt; Iterations; i++ )
+  for (long i = 0; i < Iterations; i++ )
   {
-      <span class="rem">// beep!</span>
+      // beep!
       digitalWrite(BuzzPin, HIGH);
       delayMicroseconds(Osc);
       digitalWrite(BuzzPin, LOW);
       delayMicroseconds(Osc);
   }  
-}</pre>
+}
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>

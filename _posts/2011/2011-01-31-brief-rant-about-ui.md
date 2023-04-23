@@ -29,7 +29,7 @@ This really lets me focus on the content of the post which is important because 
 “Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. When instructions are absolutely necessary, cut them back to the bare minimum.”
 </blockquote>
 
-It’s less obvious how you’d find out what versions we’re looking at. That’s typically in “Help &gt; About” but none of these browsers have the typical “File Edit View Help” menu anymore.
+It’s less obvious how you’d find out what versions we’re looking at. That’s typically in “Help > About” but none of these browsers have the typical “File Edit View Help” menu anymore.
 
 Opera buries all of its secrets under the “File” menu as I think people call it, which is fine:
 

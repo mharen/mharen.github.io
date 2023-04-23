@@ -44,7 +44,7 @@ At a recent internal product launch at Rovisys I was quoted in a presentation as
 
 **Xander Dumaine said on 2011-03-17**
 
-I think this can apply to hardware as well as software, to an extent, and this is something that most &quot;anti-apple&quot; people don't quite understand. They gripe about certain specs, or lack thereof, restrained usability and customization, and high cost. While looking at features and specs of hardware and software is an important factor in determining  the value of a product, and if it meets your needs, it is also very valuable to look at the product holistically. Many people see the products for the little things they lack, and not the entire, mind bending experience of holding a (literally) notebook-thin device capable of composing documents, playing high definition movies, graphics-rich multiplayer games, and countless other things, in a user friendly, it-can-do-anything form factor. Great post.
+I think this can apply to hardware as well as software, to an extent, and this is something that most "anti-apple" people don't quite understand. They gripe about certain specs, or lack thereof, restrained usability and customization, and high cost. While looking at features and specs of hardware and software is an important factor in determining  the value of a product, and if it meets your needs, it is also very valuable to look at the product holistically. Many people see the products for the little things they lack, and not the entire, mind bending experience of holding a (literally) notebook-thin device capable of composing documents, playing high definition movies, graphics-rich multiplayer games, and countless other things, in a user friendly, it-can-do-anything form factor. Great post.
 
 **Sarah said on 2011-03-18**
 

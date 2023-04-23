@@ -22,9 +22,9 @@ Wide Open West:
 
 There are two problems with all this:  <ol>   <li>The recommendations are completely crap </li>    <li>They rarely give you information on what actually matters: your upstream—how fast you can [send stuff](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet): </li> </ol>  
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;"></span></span> <span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">     <h4><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">The Recommendations Are Completely Crap</span></span></h4>    
+<span class="Apple-style-span" style="line-height: 19px;"></span> <span class="Apple-style-span" style="line-height: 19px;">     <h4><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">The Recommendations Are Completely Crap</span></h4>    
 
-<span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;"></span></span>    
+<span class="Apple-style-span" style="line-height: 19px;"></span>    
 
 They suggest that if you are to have more than two people online at a time, play games, buy concert tickets, or watch videos you need a *15mbps connection*. That’s a load of c r a p. My office of 150 engineers (more bandwidth heavy than your average user, I’d guess) share a 15mbps connection and it’s plenty speedy.     
 

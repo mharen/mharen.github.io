@@ -39,58 +39,64 @@ But a motor cycle that launches missiles. Wow. That picture above, by the way, w
 ![Sketch_schem6%5B2%5D.png](Sketch_schem6%5B2%5D.png)  <h4>Code (Updated)</h4>  <h5>C#</h5>
 
 I started out today by doing all this in Powershell…but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
-<blockquote>   <pre class="csharpcode"><span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+<blockquote>   
+```cs
+static void Main(string[] args)
 {
 
-    var SerialPort = <span class="kwrd">new</span> SerialPort()
+    var SerialPort = new SerialPort()
     {
-        PortName = <span class="str">&quot;COM7&quot;</span>,
+        PortName = "COM7",
         BaudRate = 9600
     };
 
-    <span class="kwrd">try</span>
+    try
     {
         SerialPort.Open();
-        <span class="kwrd">string</span> SerialOutput = <span class="kwrd">null</span>;
+        string SerialOutput = null;
 
-        <span class="kwrd">for</span>(;;)
+        for(;;)
         {
-            var StatusXml = XDocument.Load(<span class="str">@&quot;http://nope/job/jobname/lastBuild/api/xml&quot;</span>);
+            var StatusXml = XDocument.Load(@"http://nope/job/jobname/lastBuild/api/xml");
 
-            <span class="kwrd">if</span> (StatusXml.Root.Element(<span class="str">&quot;building&quot;</span>).Value == <span class="str">&quot;true&quot;</span>)
+            if (StatusXml.Root.Element("building").Value == "true")
             {
-                SerialOutput = <span class="str">&quot;1&quot;</span>; <span class="rem">// yellow</span>
+                SerialOutput = "1"; // yellow
             }
-            <span class="kwrd">else</span> <span class="kwrd">if</span> (StatusXml.Root.Element(<span class="str">&quot;result&quot;</span>).Value == <span class="str">&quot;SUCCESS&quot;</span>)
+            else if (StatusXml.Root.Element("result").Value == "SUCCESS")
             {
-                SerialOutput = <span class="str">&quot;0&quot;</span>; <span class="rem">// green</span>
+                SerialOutput = "0"; // green
             }
-            <span class="kwrd">else</span>
+            else
             {
-                SerialOutput = <span class="str">&quot;2&quot;</span>; <span class="rem">// red</span>
+                SerialOutput = "2"; // red
             }
 
-            Console.WriteLine(<span class="str">&quot;Sending {0}&quot;</span>, SerialOutput);
+            Console.WriteLine("Sending {0}", SerialOutput);
             SerialPort.Write(SerialOutput);
             Thread.Sleep(1000);
         }
     }
-    <span class="kwrd">finally</span>
+    finally
     {
         SerialPort.Close();
     }
-}</pre>
+}
+```
+
 </blockquote>
 
 <h5>Arduino</h5>
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">const</span> <span class="kwrd">int</span> BuzzPin = 5;
-<span class="kwrd">const</span> <span class="kwrd">int</span> BuzzDuration = 100; 
-<span class="kwrd">const</span> <span class="kwrd">int</span> Tones[] = { 1000, 2000, 3000 };
-<span class="kwrd">const</span> <span class="kwrd">int</span> LedPins[] = { 9, 10, 11 };
+  
+```cs
+const int BuzzPin = 5;
+const int BuzzDuration = 100; 
+const int Tones[] = { 1000, 2000, 3000 };
+const int LedPins[] = { 9, 10, 11 };
 
-<span class="kwrd">void</span> setup() {
+void setup() {
   Serial.begin(9600);
 
   pinMode(LedPins[0], OUTPUT);    
@@ -99,18 +105,18 @@ I started out today by doing all this in Powershell…but ultimately flipped bac
   pinMode(BuzzPin, OUTPUT);
 }
 
-<span class="kwrd">int</span> ActiveLed = 0;
+int ActiveLed = 0;
 
-<span class="kwrd">void</span> loop() {
-  <span class="kwrd">if</span> (Serial.available() &gt; 0) {
-    <span class="rem">// read the incoming byte:</span>
-    <span class="kwrd">int</span> Byte = Serial.read();
+void loop() {
+  if (Serial.available() > 0) {
+    // read the incoming byte:
+    int Byte = Serial.read();
     
-    <span class="kwrd">int</span> Led = Byte - 48;
+    int Led = Byte - 48;
     
-    <span class="kwrd">if</span>(0 &lt;= Led &amp;&amp; Led &lt;= 2 &amp;&amp; ActiveLed != Led){
+    if(0 <= Led &amp;&amp; Led <= 2 &amp;&amp; ActiveLed != Led){
 
-      <span class="rem">// clear all pins to make debugging (i.e. messing up the state of the app) easier</span>
+      // clear all pins to make debugging (i.e. messing up the state of the app) easier
       digitalWrite(LedPins[ActiveLed], LOW);
       digitalWrite(LedPins[Led], HIGH);
       
@@ -120,25 +126,27 @@ I started out today by doing all this in Powershell…but ultimately flipped bac
   }
 }
 
-<span class="kwrd">void</span> Ding(<span class="kwrd">int</span> light){
-  <span class="rem">// e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low</span>
-  <span class="rem">// to create 50% duty cycle</span>
-  <span class="rem">// http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692</span>
-  <span class="kwrd">int</span> Osc = 1000000 / Tones[light] / 2; <span class="rem">// in microseconds</span>
+void Ding(int light){
+  // e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low
+  // to create 50% duty cycle
+  // http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692
+  int Osc = 1000000 / Tones[light] / 2; // in microseconds
   
-  <span class="rem">// compute the number of iterations needed to hold</span>
-  <span class="rem">// the nfote the desired duration</span>
-  <span class="kwrd">int</span> Iterations = Tones[light] * ((<span class="kwrd">float</span>)200 / 1000);
+  // compute the number of iterations needed to hold
+  // the nfote the desired duration
+  int Iterations = Tones[light] * ((float)200 / 1000);
   
-  <span class="rem">// play tone</span>
-  <span class="kwrd">for</span> (<span class="kwrd">long</span> i = 0; i &lt; Iterations; i++ )
+  // play tone
+  for (long i = 0; i < Iterations; i++ )
   {
       digitalWrite(BuzzPin, HIGH);
       delayMicroseconds(Osc);
       digitalWrite(BuzzPin, LOW);
       delayMicroseconds(Osc);
   }  
-}</pre>
+}
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>

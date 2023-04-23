@@ -21,23 +21,27 @@ The bigger issue is, of course, correctness. Who cares if your code expresses yo
 C# doesn’t really have pointers per se. Instead, it feels like every non-value type thing—object (e.g. List)—gets passed around kind of like you’re using pointers, you just don’t know it. This becomes really important when you start newing up objects in helper methods.
 
 For example, what do you suppose happens in this code?:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">void</span> Main()
+<blockquote>   
+```cs
+void Main()
 {
-    <span class="kwrd">string</span> A = <span class="str">&quot;aaa&quot;</span>;
-    <span class="kwrd">string</span> B = <span class="str">&quot;bbb&quot;</span>;
+    string A = "aaa";
+    string B = "bbb";
     
-    Console.WriteLine(<span class="str">&quot;Before Swap: A is '{0}', B is '{1}'&quot;</span>, A, B);
+    Console.WriteLine("Before Swap: A is '{0}', B is '{1}'", A, B);
     
     Swap(A, B);
     
-    Console.WriteLine(<span class="str">&quot;After Swap:  A is '{0}', B is '{1}'&quot;</span>, A, B);
+    Console.WriteLine("After Swap:  A is '{0}', B is '{1}'", A, B);
 }
 
-<span class="kwrd">void</span> Swap(<span class="kwrd">string</span> a, <span class="kwrd">string</span> b){
-    <span class="kwrd">string</span> tmp = a;
+void Swap(string a, string b){
+    string tmp = a;
     a = b;
     b = tmp;
-}</pre>
+}
+```
+
 </blockquote>
 
 
@@ -59,23 +63,27 @@ The reason this doesn’t work is that what we’re passing to the Swap function
 It seems nitpicky, but it really is important to understanding how this stuff works. Here’s the correct implementation:
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">void</span> Main()
+  
+```cs
+void Main()
 {
-    <span class="kwrd">string</span> A = <span class="str">&quot;aaa&quot;</span>;
-    <span class="kwrd">string</span> B = <span class="str">&quot;bbb&quot;</span>;
+    string A = "aaa";
+    string B = "bbb";
     
-    Console.WriteLine(<span class="str">&quot;Before Swap: A is '{0}', B is '{1}'&quot;</span>, A, B);
+    Console.WriteLine("Before Swap: A is '{0}', B is '{1}'", A, B);
     
-    Swap(<span class="kwrd">**ref**</span> A, <span class="kwrd">**ref**</span> B);
+    Swap(**ref** A, **ref** B);
     
-    Console.WriteLine(<span class="str">&quot;After Swap:  A is '{0}', B is '{1}'&quot;</span>, A, B);
+    Console.WriteLine("After Swap:  A is '{0}', B is '{1}'", A, B);
 }
 
-<span class="kwrd">void</span> Swap(<span class="kwrd">**ref**</span> <span class="kwrd">string</span> a, <span class="kwrd">**ref**</span> <span class="kwrd">string</span> b){
-    <span class="kwrd">string</span> tmp = a;
+void Swap(**ref** string a, **ref** string b){
+    string tmp = a;
     a = b;
     b = a;
-}</pre>
+}
+```
+
 </blockquote>
 
 
@@ -94,23 +102,27 @@ After Swap:&#160; A is 'bbb', B is 'bbb'
 The only difference is the “ref” keyword added to the method and its call. C# does a great thing for us by making this very explicit (probably because it’s rarely what you actually want).
 
 
-So back to the original question. “.Clear()” or “new” for a List&lt;T&gt;? As I’ve shown, once the style issue is resolved, it’s merely a matter of correctness. Suppose you had a method for refreshing a list. Which of these is best?:
+So back to the original question. “.Clear()” or “new” for a List<T>? As I’ve shown, once the style issue is resolved, it’s merely a matter of correctness. Suppose you had a method for refreshing a list. Which of these is best?:
 
 <blockquote>
-  <pre class="csharpcode"><span class="rem">// return { &quot;1&quot;, &quot;2&quot;, &quot;3&quot; }</span>
-<span class="kwrd">void</span> RefreshNew(List&lt;<span class="kwrd">string</span>&gt; list)
+  
+```cs
+// return { "1", "2", "3" }
+void RefreshNew(List<string> list)
 {
-    list = <span class="kwrd">new</span> List&lt;<span class="kwrd">string</span>&gt;() { <span class="str">&quot;1&quot;</span>, <span class="str">&quot;2&quot;</span>, <span class="str">&quot;3&quot;</span>};
+    list = new List<string>() { "1", "2", "3"};
 }
 
-<span class="rem">// return { &quot;1&quot;, &quot;2&quot;, &quot;3&quot; }</span>
-<span class="kwrd">void</span> RefreshClear(List&lt;<span class="kwrd">string</span>&gt; list)
+// return { "1", "2", "3" }
+void RefreshClear(List<string> list)
 {
     list.Clear();
-    list.Add(<span class="str">&quot;1&quot;</span>);
-    list.Add(<span class="str">&quot;2&quot;</span>);
-    list.Add(<span class="str">&quot;3&quot;</span>);
-}</pre>
+    list.Add("1");
+    list.Add("2");
+    list.Add("3");
+}
+```
+
 </blockquote>
 
 
@@ -119,21 +131,25 @@ Hopefully it’s starting to sink in at this point that the first one—RefreshN
 <blockquote></blockquote>
 
 <blockquote>
-  <pre class="csharpcode"><span class="kwrd">void</span> Main()
+  
+```cs
+void Main()
 {
-    List&lt;<span class="kwrd">string</span>&gt; Strings = <span class="kwrd">new</span> List&lt;<span class="kwrd">string</span>&gt;(){ <span class="str">&quot;a&quot;</span>, <span class="str">&quot;b&quot;</span>, <span class="str">&quot;c&quot;</span> };
+    List<string> Strings = new List<string>(){ "a", "b", "c" };
 
-    Console.Write(<span class="str">&quot;Before Refresh: &quot;</span>);
-    Strings.ForEach(x=&gt;Console.Write(x));
+    Console.Write("Before Refresh: ");
+    Strings.ForEach(x=>Console.Write(x));
     
     RefreshNew(Strings);
-    Console.Write(<span class="str">&quot;\nAfter Refresh New:   &quot;</span>);
-    Strings.ForEach(x=&gt;Console.Write(x));
+    Console.Write("\nAfter Refresh New:   ");
+    Strings.ForEach(x=>Console.Write(x));
 
     RefreshClear(Strings);
-    Console.Write(<span class="str">&quot;\nAfter Refresh Clear: &quot;</span>);
-    Strings.ForEach(x=&gt;Console.Write(x));
-}</pre>
+    Console.Write("\nAfter Refresh Clear: ");
+    Strings.ForEach(x=>Console.Write(x));
+}
+```
+
 </blockquote>
 
 
@@ -167,17 +183,21 @@ This is a topic that was incorrectly taught (or understood) to me in college, so
 There’s that tiny issue of Capacity that I hinted at before. Internally Lists are stored as arrays or whatever—it doesn’t really matter. For performance reasons, since arrays are immutable, they are allocated larger than necessary. This way, you can add elements to them without reallocating the entire thing. The system makes a trade off in avoiding allocating too much by doubling the size of the allocation every time it runs out of space. I suspect that clearing a list does not affect its capacity. Let’s see:
 
 <blockquote>
-  <pre class="csharpcode">var List = <span class="kwrd">new</span> List&lt;<span class="kwrd">int</span>&gt;();
+  
+```cs
+var List = new List<int>();
 
-Console.WriteLine(<span class="str">&quot;Building list...&quot;</span>);
-<span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i&lt;9; i++){
+Console.WriteLine("Building list...");
+for(int i = 0; i<9; i++){
     List.Add(i);
-    Console.WriteLine(<span class="str">&quot;List count: {0}, list capacity: {1}&quot;</span>, List.Count, List.Capacity);
+    Console.WriteLine("List count: {0}, list capacity: {1}", List.Count, List.Capacity);
 }
 
-Console.WriteLine(<span class="str">&quot;\nClearing list...&quot;</span>);
+Console.WriteLine("\nClearing list...");
 List.Clear();
-Console.WriteLine(<span class="str">&quot;List count: {0}, list capacity: {1}&quot;</span>, List.Count, List.Capacity);</pre>
+Console.WriteLine("List count: {0}, list capacity: {1}", List.Count, List.Capacity);
+```
+
 </blockquote>
 
 

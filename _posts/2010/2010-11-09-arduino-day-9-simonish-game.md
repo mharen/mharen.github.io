@@ -32,51 +32,53 @@ Special thanks to Wife’s awesome camera for giving me all that sweet, deliciou
 This program follows a typical “game loop” approach where the game is in one of a few states waiting for something to happen at any given time. The only thing close to a trick is how I maintain a sequence of tones. Rather than compute and store a known sequence, I just use the built in random number generator. Since I can seed the generator with whatever I want, I can replay the same sequence over and over again.
 
 It worked out very nicely, actually, and all I have to do to start a new game is reseed the generator to a random value.
-<blockquote>   <pre class="csharpcode"><span class="kwrd">const</span> <span class="kwrd">int</span> BuzzPin = 5;
-<span class="kwrd">const</span> <span class="kwrd">int</span> BuzzDuration = 100; 
+<blockquote>   
+```cs
+const int BuzzPin = 5;
+const int BuzzDuration = 100; 
 
-<span class="kwrd">int</span> ButtonPins[] = { 3, 7 };
-<span class="kwrd">int</span> Tones[] = { 2000, 3000, 1000 };
-<span class="kwrd">int</span> LedPins[] = { 4, 6, 5 };
+int ButtonPins[] = { 3, 7 };
+int Tones[] = { 2000, 3000, 1000 };
+int LedPins[] = { 4, 6, 5 };
 
-<span class="kwrd">void</span> setup() {
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i &lt; 3; i++){
+void setup() {
+  for(int i = 0; i < 3; i++){
     pinMode(LedPins[i], OUTPUT);    
-    Ding(i);  <span class="rem">// boot test</span>
+    Ding(i);  // boot test
   }
 }
 
-<span class="rem">// our main loop will look at the game state to </span>
-<span class="rem">// figure out what to do</span>
-<span class="kwrd">enum</span> GameState {
-  InsertCoin, <span class="rem">// waiting for player to start game</span>
-  Teach,      <span class="rem">// buzzing a random sequence, increasing by one element each time</span>
-  Test,       <span class="rem">// checking user-entered sequence</span>
-  Boo         <span class="rem">// you've lost</span>
+// our main loop will look at the game state to 
+// figure out what to do
+enum GameState {
+  InsertCoin, // waiting for player to start game
+  Teach,      // buzzing a random sequence, increasing by one element each time
+  Test,       // checking user-entered sequence
+  Boo         // you've lost
 };
 
-<span class="rem">// start in the finished state because that sets up some things for us</span>
+// start in the finished state because that sets up some things for us
 GameState State = InsertCoin;
 
-<span class="rem">// pick a seed value for the random number generator</span>
-<span class="rem">// we'll reuse this each time the sequence is played so we get the same sequence</span>
-<span class="kwrd">int</span> Seed;
+// pick a seed value for the random number generator
+// we'll reuse this each time the sequence is played so we get the same sequence
+int Seed;
 
-<span class="rem">// keeps track of how many tones there are in the sequence</span>
-<span class="kwrd">int</span> Taps;
+// keeps track of how many tones there are in the sequence
+int Taps;
 
-<span class="kwrd">void</span> loop() {
-  <span class="kwrd">switch</span>(State){
-    <span class="kwrd">case</span> InsertCoin:
-      <span class="rem">// light up both sides to suggest the user tap one to start</span>
+void loop() {
+  switch(State){
+    case InsertCoin:
+      // light up both sides to suggest the user tap one to start
       digitalWrite(LedPins[0], HIGH); 
       digitalWrite(LedPins[1], HIGH); 
       
       GetPress();
 
-      <span class="rem">// let's go!</span>
+      // let's go!
       Taps = 0;
-      Seed = analogRead(0); <span class="rem">// pick a new sequence seed</span>
+      Seed = analogRead(0); // pick a new sequence seed
 
       digitalWrite(LedPins[0], LOW); 
       digitalWrite(LedPins[1], LOW); 
@@ -84,81 +86,81 @@ GameState State = InsertCoin;
       State = Teach;
       delay(1000);
       
-      <span class="kwrd">break</span>;
+      break;
     
-    <span class="kwrd">case</span> Teach:
-      <span class="rem">// add one to the sequence and play what we have so far</span>
+    case Teach:
+      // add one to the sequence and play what we have so far
       Taps++;
 
       randomSeed(Seed);
-      <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i &lt; Taps; i++){
+      for(int i = 0; i < Taps; i++){
         Ding(random(0,2));
         delay(100);
       }
 
       State = Test;
-      <span class="kwrd">break</span>;
+      break;
       
-    <span class="kwrd">case</span> Test:
+    case Test:
       randomSeed(Seed);
-      <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i &lt; Taps; i++){
-        <span class="kwrd">int</span> Tap = GetPress();
-        <span class="kwrd">int</span> ExpectedTap = random(0,2);
-        <span class="kwrd">if</span>(Tap != ExpectedTap){
-          <span class="rem">// you fail</span>
+      for(int i = 0; i < Taps; i++){
+        int Tap = GetPress();
+        int ExpectedTap = random(0,2);
+        if(Tap != ExpectedTap){
+          // you fail
           State = Boo; 
-          <span class="kwrd">return</span>;
+          return;
         }
       }      
       
-      <span class="rem">// if we make it through the entire test, good job!</span>
-      <span class="rem">// add another note</span>
+      // if we make it through the entire test, good job!
+      // add another note
       State = Teach;
       delay(1000);
-      <span class="kwrd">break</span>;
+      break;
       
-    <span class="kwrd">case</span> Boo:
-      <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i&lt;5; i++){
+    case Boo:
+      for(int i = 0; i<5; i++){
         Ding(2);
       }
   
       State = InsertCoin;
       delay(1000);
-      <span class="kwrd">break</span>;
+      break;
   }
 }
 
-<span class="rem">// this function blocks until a button is pressed</span>
-<span class="kwrd">int</span> GetPress(){
-  <span class="kwrd">int</span> P1; <span class="kwrd">int</span> P2;
+// this function blocks until a button is pressed
+int GetPress(){
+  int P1; int P2;
   
-  <span class="kwrd">do</span> {
+  do {
     P1 = digitalRead(P1ButtonPin);
     P2 = digitalRead(P2ButtonPin);
 
-  } <span class="kwrd">while</span>(!(P1 || P2));
+  } while(!(P1 || P2));
   
-  <span class="kwrd">int</span> Key = P1? 0 : 1;
+  int Key = P1? 0 : 1;
   Ding(Key);
 
-  <span class="kwrd">return</span> Key;  
+  return Key;  
 }
 
-<span class="kwrd">void</span> Ding(<span class="kwrd">int</span> light){
-  <span class="rem">// e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low</span>
-  <span class="rem">// to create 50% duty cycle</span>
-  <span class="rem">// http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692</span>
-  <span class="kwrd">int</span> Osc = 1000000 / Tones[light] / 2; <span class="rem">// in microseconds</span>
+void Ding(int light){
+  // e.g. 1 / 2048Hz = 488uS, or 244uS high and 244uS low
+  // to create 50% duty cycle
+  // http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692
+  int Osc = 1000000 / Tones[light] / 2; // in microseconds
   
-  <span class="rem">// compute the number of iterations needed to hold</span>
-  <span class="rem">// the nfote the desired duration</span>
-  <span class="kwrd">int</span> Iterations = Tones[light] * ((<span class="kwrd">float</span>)200 / 1000);
+  // compute the number of iterations needed to hold
+  // the nfote the desired duration
+  int Iterations = Tones[light] * ((float)200 / 1000);
   
-  <span class="rem">// light on</span>
+  // light on
   digitalWrite(LedPins[light], HIGH);
   
-  <span class="rem">// play tone</span>
-  <span class="kwrd">for</span> (<span class="kwrd">long</span> i = 0; i &lt; Iterations; i++ )
+  // play tone
+  for (long i = 0; i < Iterations; i++ )
   {
       digitalWrite(BuzzPin, HIGH);
       delayMicroseconds(Osc);
@@ -166,9 +168,11 @@ GameState State = InsertCoin;
       delayMicroseconds(Osc);
   }  
   
-  <span class="rem">// light off</span>
+  // light off
   digitalWrite(LedPins[light], LOW);
-}</pre>
+}
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>
@@ -182,5 +186,5 @@ I’ll try to knock out another simple game tomorrow, and hopefully by Thursday 
 
 **Sarah said on 2010-11-09**
 
-Like. :)  I am very impressed that you used the term &quot;bokeh&quot; properly in a sentence!  And I think it is hilarious that you posted the stats of your photo :P
+Like. :)  I am very impressed that you used the term "bokeh" properly in a sentence!  And I think it is hilarious that you posted the stats of your photo :P
 

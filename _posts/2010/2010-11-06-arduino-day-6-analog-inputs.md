@@ -34,36 +34,40 @@ Since this build was a very minor addition to my previous circuits, I’m only s
 ![Sketch_schem%5B14%5D.png](Sketch_schem%5B14%5D.png)  <h4>Code</h4>
 
 The only changes today were in the Loop() routine:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">void</span> loop() {
-  <span class="kwrd">int</span> CdsReading;  
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i = 0; i&lt;x; i++){
+<blockquote>   
+```cs
+void loop() {
+  int CdsReading;  
+  for(int i = 0; i<x; i++){
 
-    <span class="rem">// wait until dark</span>
-    <span class="kwrd">while</span> ((CdsReading = analogRead(0)) &lt; 500){
-      <span class="rem">// check 10x/sec</span>
+    // wait until dark
+    while ((CdsReading = analogRead(0)) < 500){
+      // check 10x/sec
        delay(100);       
     }
 
-    <span class="rem">// get the pot value</span>
+    // get the pot value
     NoteDuration = analogRead(1);
-    Serial.print(<span class="str">&quot;Pot reading = &quot;</span>);
+    Serial.print("Pot reading = ");
     Serial.println(NoteDuration);
 
-    <span class="rem">// map the analog value [0,1023] to a reasonable speed value [25,250]</span>
+    // map the analog value [0,1023] to a reasonable speed value [25,250]
     NoteDuration = map(NoteDuration, 0, 1023, 25, 250);
 
-    <span class="rem">// play each note for the corresponding duration</span>
+    // play each note for the corresponding duration
     Buzz(song[i], NoteDuration*length[i]);
 
-    <span class="rem">// tiny break between notes</span>
+    // tiny break between notes
     delay(50); 
 
-    <span class="rem">// rest the corresponding duration (often 0)</span>
+    // rest the corresponding duration (often 0)
     delay(NoteDuration*rests[i]);
   }
   
-  delay(2000); <span class="rem">// pause a moment before starting over</span>
-}</pre>
+  delay(2000); // pause a moment before starting over
+}
+```
+
 </blockquote>
 
 <h4>Next Steps</h4>

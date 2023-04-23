@@ -41,11 +41,11 @@ Time for a quick program. I downloaded the [Arduino software](http://arduino.cc/
 
 ![image%5B2%5D.png](image%5B2%5D.png)
 
-A blank window. Interesting. A friend had previously shown me this neat trick: go to File &gt; Examples &gt; Whatever:
+A blank window. Interesting. A friend had previously shown me this neat trick: go to File > Examples > Whatever:
 
 ![image%5B5%5D.png](image%5B5%5D.png)
 
-Here are dozens of neat examples to start with. I chose Basics &gt; Fade to play around with the LEDs I had. The sample code just fades an LED on and off forever. After wiring up the board according to the [incredible directions](http://arduino.cc/en/Tutorial/Fade) on the site, it worked! Amazing.
+Here are dozens of neat examples to start with. I chose Basics > Fade to play around with the LEDs I had. The sample code just fades an LED on and off forever. After wiring up the board according to the [incredible directions](http://arduino.cc/en/Tutorial/Fade) on the site, it worked! Amazing.
 
 That was cool to start with but I wanted to explore more. I added five more LEDs (six total), and played around with some different loops. Here’s what I ended up with (it’s dark so you can see the lights):  <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d92f78f6-efc4-42af-ab09-ed4eb0405f94" style="padding-bottom: 0px; padding-left: 0px; width: 640px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px;">
 <div id="2649b3fc-913c-4411-b0b6-e7a0873571f7" style="margin: 0px; padding: 0px; display: inline;">
@@ -66,42 +66,44 @@ Schematic (automatically built from the above image with the amazing [Fritzing](
 ![day%20one%20-%20schema%5B7%5D.png](day%20one%20-%20schema%5B7%5D.png)
 
 Code:
-<blockquote>   <pre class="csharpcode"><span class="kwrd">int</span> Leds[] = {3, 5, 6, 9, 10, 11};
-<span class="preproc">#define</span> LedCount (<span class="kwrd">sizeof</span>(Leds)/<span class="kwrd">sizeof</span>(<span class="kwrd">int</span>)) <span class="rem">//array size  </span>
+<blockquote>   
+```cs
+int Leds[] = {3, 5, 6, 9, 10, 11};
+#define LedCount (sizeof(Leds)/sizeof(int)) //array size  
 
-<span class="kwrd">void</span> setup()  { 
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void setup()  { 
+  for(int i=0; i<LedCount; i++){
     pinMode(Leds[i], OUTPUT);
   }
 } 
 
-<span class="kwrd">void</span> loop()  { 
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;10; i++){
+void loop()  { 
+  for(int i=0; i<10; i++){
     DoRunway();
   }
   
   Reset();
   
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;10; i++){
+  for(int i=0; i<10; i++){
     DoFlickerDigital();
   }
   
   Reset();
 
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;10; i++){
+  for(int i=0; i<10; i++){
     DoFlickerAnalog();
   }
   
   Reset();
 
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;10; i++){
+  for(int i=0; i<10; i++){
     DoFlash();
   }
 
   Reset();
 }
 
-<span class="kwrd">void</span> Reset(){
+void Reset(){
   SetAll(0);
   delay(1000);
   SetAll(255);
@@ -110,42 +112,44 @@ Code:
   delay(1000);
 }
 
-<span class="kwrd">void</span> SetAll(<span class="kwrd">int</span> <span class="kwrd">value</span>){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
-    analogWrite(Leds[i], <span class="kwrd">value</span>);
+void SetAll(int value){
+  for(int i=0; i<LedCount; i++){
+    analogWrite(Leds[i], value);
   }  
 }
 
-<span class="kwrd">void</span> DoRunway(){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoRunway(){
+  for(int i=0; i<LedCount; i++){
     analogWrite(Leds[i], 255);    
     analogWrite(Leds[(i + 1) % LedCount], 0);
     delay(100);
   }   
 }
 
-<span class="kwrd">void</span> DoFlickerDigital(){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoFlickerDigital(){
+  for(int i=0; i<LedCount; i++){
     analogWrite(Leds[i], random(1+1)*255);    
     delay(100);
   } 
 }
 
-<span class="kwrd">void</span> DoFlickerAnalog(){
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoFlickerAnalog(){
+  for(int i=0; i<LedCount; i++){
     analogWrite(Leds[i], random(255+1));    
     delay(100);
   } 
 }
 
-<span class="kwrd">void</span> DoFlash(){
-  <span class="kwrd">int</span> State = 0;
-  <span class="kwrd">for</span>(<span class="kwrd">int</span> i=0; i&lt;LedCount; i++){
+void DoFlash(){
+  int State = 0;
+  for(int i=0; i<LedCount; i++){
     SetAll(State * 255);
     State = (State + 1) % 2;  
     delay(100);
   } 
-}</pre>
+}
+```
+
 </blockquote>
 
 

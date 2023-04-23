@@ -9,7 +9,7 @@ title: '"Private Practice" is a Really Great Show'
 
 ![bed%20pan%5B4%5D.jpg](bed%20pan%5B4%5D.jpg)
 
-One of Wife's indulgences is watching &quot;Private Practice&quot;. I don't watch it with her but I can't help but overhear it while I work on my own projects. Fortunately I was out of town a few days ago so I was unable to listen in.
+One of Wife's indulgences is watching "Private Practice". I don't watch it with her but I can't help but overhear it while I work on my own projects. Fortunately I was out of town a few days ago so I was unable to listen in.
 
 If you haven't seen the show, here's a pretty reasonable guess for what all the drama might be about at any given time:
 <blockquote> 

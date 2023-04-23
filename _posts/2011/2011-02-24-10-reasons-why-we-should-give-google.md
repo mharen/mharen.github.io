@@ -47,7 +47,7 @@ While your comments are interesting, I must confess that they make no sense to m
 
 http://i.imgur.com/ZWkiR.png
 
-  U R ===&gt;
+  U R ===>
 
   MO 
 

@@ -14,55 +14,65 @@ So you got your fancy MongoDB Replica Set running, did you, Mr. Fancypants? Befo
 
 Luckily our applications don’t have this problem because their drivers are smart and automatically connect to the primary. The Mongo shell doesn’t do that, though.
 
-Here’s a library to help with that. Throw this into a file called replicaSetConnector.js:<pre class="csharpcode"><span class="kwrd">var</span> ReplicaSetConnector = (<span class="kwrd">function</span>() { 
-    <span class="kwrd">var</span> RSC = <span class="kwrd">function</span>(options) {
+Here’s a library to help with that. Throw this into a file called replicaSetConnector.js:
+```cs
+var ReplicaSetConnector = (function() { 
+    var RSC = function(options) {
     
-        <span class="rem">// private method for handling the dirty work of connecting </span>
-        <span class="rem">// and authenticating to mongo</span>
-        <span class="kwrd">var</span> connectAndAuth = <span class="kwrd">function</span>(host) {
-            <span class="kwrd">if</span>(options.debug){
-                print(<span class="str">"Connecting to "</span> 
-                    + host + <span class="str">"/"</span> + options.database 
-                    + <span class="str">" as "</span> + options.username + <span class="str">":"</span> + options.password);
+        // private method for handling the dirty work of connecting 
+        // and authenticating to mongo
+        var connectAndAuth = function(host) {
+            if(options.debug){
+                print("Connecting to " 
+                    + host + "/" + options.database 
+                    + " as " + options.username + ":" + options.password);
             }
             
-            <span class="kwrd">var</span> connection = <span class="kwrd">new</span> Mongo(host);
-            <span class="kwrd">var</span> database = connection.getDB(options.database);
+            var connection = new Mongo(host);
+            var database = connection.getDB(options.database);
             database.auth(options.username, options.password);    
             
-            <span class="kwrd">return</span> database;    
+            return database;    
         };
         
-        <span class="kwrd">this</span>.connect = <span class="kwrd">function</span>() {
-            <span class="rem">// db needs to be a global variable for subsequent shell commands to work :)</span>
-            <span class="rem">// connect to the given host, which could be any node of the replica set</span>
+        this.connect = function() {
+            // db needs to be a global variable for subsequent shell commands to work :)
+            // connect to the given host, which could be any node of the replica set
             db = connectAndAuth(options.initialHost);
             
-            <span class="rem">// load some basic replica set information, which will tell us </span>
-            <span class="rem">// if we're on the primary, and if not where it is</span>
-            <span class="kwrd">var</span> rsInfo = db.isMaster();
+            // load some basic replica set information, which will tell us 
+            // if we're on the primary, and if not where it is
+            var rsInfo = db.isMaster();
 
-            <span class="rem">// if we're already on the primary, we're done. Otherwise, change our</span>
-            <span class="rem">// connection to the primary</span>
-            <span class="kwrd">if</span>(!rsInfo.ismaster){
-                <span class="kwrd">if</span>(options.debug) print(<span class="str">"You're not on master..."</span>);
+            // if we're already on the primary, we're done. Otherwise, change our
+            // connection to the primary
+            if(!rsInfo.ismaster){
+                if(options.debug) print("You're not on master...");
                 db = connectAndAuth(rsInfo.primary);
-                <span class="kwrd">if</span>(options.debug) print(<span class="str">"...or are you ;)"</span>);
+                if(options.debug) print("...or are you ;)");
             }
         };
     };
         
-    <span class="kwrd">return</span> RSC;
-})();</pre>
+    return RSC;
+})();
+```
 
-That’s a library we’ll reuse bunches of times. Now make another file for your environment, e.g. prod.js with this in it:<pre class="csharpcode">(<span class="kwrd">new</span> ReplicaSetConnector({ 
-    initialHost: <span class="str">'one-of-your-replica-set-nodes:27017'</span>, 
-    database: <span class="str">"database-name"</span>, 
-    username: <span class="str">"user"</span>, 
-    password: <span class="str">"secret..."</span>,
-    debug: <span class="kwrd">true</span>})).connect();</pre>
 
-And we’re finally read to connect with a mongo shell like so:<pre class="csharpcode">%&gt; mongo --shell --nodb replicaSetConnector.js prod.js
+That’s a library we’ll reuse bunches of times. Now make another file for your environment, e.g. prod.js with this in it:
+```cs
+(new ReplicaSetConnector({ 
+    initialHost: 'one-of-your-replica-set-nodes:27017', 
+    database: "database-name", 
+    username: "user", 
+    password: "secret...",
+    debug: true})).connect();
+```
+
+
+And we’re finally read to connect with a mongo shell like so:
+```cs
+%> mongo --shell --nodb replicaSetConnector.js prod.js
 MongoDB shell version: 2.2.2
 type "help" for help
 loading file: replicaSetConnector.js
@@ -71,7 +81,9 @@ Connecting to one-of-your-replica-set-nodes:27017/database-name as user:secret..
 <strong>You're not on master...
 </strong>Connecting to another-one-of-your-replica-set-nodes:27017/database-name as user:secret
 **...or are you ;)**
-&gt;</pre>
+>
+```
+
 
 Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can [alias](http://tldp.org/LDP/abs/html/aliases.html) that command to something shorter, add the library to your [mongorc](http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file) file, or make Windows shortcut.
 

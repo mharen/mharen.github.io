@@ -78,7 +78,7 @@ Seems pretty clear that this is not unintentional on their part...if you can't u
 
 **Michael Haren said on 2010-11-09**
 
-@Math unfortunately this is through my corporate email so I can't &quot;report spam&quot; like I can in GMail. I also don't really want to do that anyway because I *do* want the official messages, just not the marketing.
+@Math unfortunately this is through my corporate email so I can't "report spam" like I can in GMail. I also don't really want to do that anyway because I *do* want the official messages, just not the marketing.
 
-@Sarah that's possible, but then: &quot;Never attribute to malice that which is adequately explained by stupidity.&quot; -Hanlon's Razor
+@Sarah that's possible, but then: "Never attribute to malice that which is adequately explained by stupidity." -Hanlon's Razor
 

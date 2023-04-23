@@ -18,87 +18,107 @@ After wasting a half hour messing around with recursion, I was given a pretty ni
 
 I still failed miserably with my good old paper and pencil, but afterwards set out to do it in a more comfortable environment (C#).
 
-Here’s my basic node class (structs are for sissys):  <pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">class</span> Node
+Here’s my basic node class (structs are for sissys):  
+```cs
+    public class Node
     {
-        <span class="kwrd">public</span> Node(<span class="kwrd">int</span> <span class="kwrd">value</span>, Node left = <span class="kwrd">null</span>, Node right = <span class="kwrd">null</span>)
+        public Node(int value, Node left = null, Node right = null)
         {
-            Value = <span class="kwrd">value</span>; Left = left; Right = right;
+            Value = value; Left = left; Right = right;
         }
-        <span class="kwrd">public</span> <span class="kwrd">int</span> Value { get; set; }
-        <span class="kwrd">public</span> Node Left { get; set; }
-        <span class="kwrd">public</span> Node Right { get; set; }
-    }</pre>
+        public int Value { get; set; }
+        public Node Left { get; set; }
+        public Node Right { get; set; }
+    }
+```
+
 
 
 And my main program:
 
-<pre class="csharpcode">    <span class="kwrd">static</span> <span class="kwrd">void</span> Main(<span class="kwrd">string</span>[] args)
+
+```cs
+    static void Main(string[] args)
     {
-        Node n = <span class="kwrd">new</span> Node(3);
-        n.Left = <span class="kwrd">new</span> Node(1, <span class="kwrd">null</span>, <span class="kwrd">new</span> Node(2));
-        n.Right = <span class="kwrd">new</span> Node(6, <span class="kwrd">new</span> Node(5, <span class="kwrd">new</span> Node(4)), <span class="kwrd">new</span> Node(7));
+        Node n = new Node(3);
+        n.Left = new Node(1, null, new Node(2));
+        n.Right = new Node(6, new Node(5, new Node(4)), new Node(7));
 
         PrettyPrintByLevel(n);
         Console.ReadKey();
-    }</pre>
+    }
+```
+
 
 
 And the magic:
 
-<pre class="csharpcode">    <span class="kwrd">static</span> <span class="kwrd">void</span> PrettyPrintByLevel(Node n)
+
+```cs
+    static void PrettyPrintByLevel(Node n)
     {
-        Queue&lt;Node&gt; Nodes = <span class="kwrd">new</span> Queue&lt;Node&gt;();
+        Queue<Node> Nodes = new Queue<Node>();
         Nodes.Enqueue(n);
 
-        <span class="kwrd">do</span>
+        do
         {
             Node QNode = Nodes.Dequeue();
             Console.WriteLine(QNode.Value);
 
-            <span class="kwrd">if</span> (QNode.Left != <span class="kwrd">null</span>) Nodes.Enqueue(QNode.Left);
-            <span class="kwrd">if</span> (QNode.Right != <span class="kwrd">null</span>) Nodes.Enqueue(QNode.Right);
+            if (QNode.Left != null) Nodes.Enqueue(QNode.Left);
+            if (QNode.Right != null) Nodes.Enqueue(QNode.Right);
 
-        } <span class="kwrd">while</span> (Nodes.Count &gt; 0);
-    }</pre>
+        } while (Nodes.Count > 0);
+    }
+```
+
 
 
 A quick test reveals that it works:
 
 <blockquote>
-  <pre class="csharpcode">3 1 6 2 5 7 4</pre>
+  
+```cs
+3 1 6 2 5 7 4
+```
+
 </blockquote>
 Yay! So what did I learn today? I’m rusty on the basics and need to do some more [Project Euler problems](http://projecteuler.net/). 
 
 
 I’ve taken this opportunity to brush up on some Java. Here’s the same app in the similar, but different Java:
 
-<pre class="csharpcode">    <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> main(String[] args) {
-        <span class="rem">// build up a tree</span>
-        Node n = <span class="kwrd">new</span> Node(3, <span class="kwrd">null</span>, <span class="kwrd">null</span>);
-        n.Left = <span class="kwrd">new</span> Node(1, <span class="kwrd">null</span>, <span class="kwrd">new</span> Node(2, <span class="kwrd">null</span>, <span class="kwrd">null</span>));
-        n.Right = <span class="kwrd">new</span> Node(6, <span class="kwrd">new</span> Node(5, <span class="kwrd">new</span> Node(4, <span class="kwrd">null</span>, <span class="kwrd">null</span>), <span class="kwrd">null</span>), <span class="kwrd">new</span> Node(7, <span class="kwrd">null</span>, <span class="kwrd">null</span>));
 
-        <span class="rem">// print out the tree to the console</span>
+```cs
+    public static void main(String[] args) {
+        // build up a tree
+        Node n = new Node(3, null, null);
+        n.Left = new Node(1, null, new Node(2, null, null));
+        n.Right = new Node(6, new Node(5, new Node(4, null, null), null), new Node(7, null, null));
+
+        // print out the tree to the console
         PrettyPrintByLevel(n);
     }
 
-    <span class="kwrd">private</span> <span class="kwrd">static</span> <span class="kwrd">void</span> PrettyPrintByLevel(Node n) {
-        Queue&lt;Node&gt; Nodes = <span class="kwrd">new</span> LinkedList&lt;Node&gt;();
+    private static void PrettyPrintByLevel(Node n) {
+        Queue<Node> Nodes = new LinkedList<Node>();
         Nodes.add(n);
 
-        <span class="kwrd">do</span>
+        do
         {
             Node QNode = Nodes.remove();
-            System.<span class="kwrd">out</span>.println(QNode.Value);
+            System.out.println(QNode.Value);
 
-            <span class="kwrd">if</span> (QNode.Left != <span class="kwrd">null</span>) Nodes.add(QNode.Left);
-            <span class="kwrd">if</span> (QNode.Right != <span class="kwrd">null</span>) Nodes.add(QNode.Right);
+            if (QNode.Left != null) Nodes.add(QNode.Left);
+            if (QNode.Right != null) Nodes.add(QNode.Right);
 
-        } <span class="kwrd">while</span> (Nodes.peek() != <span class="kwrd">null</span>);        
-        <span class="rem">// process the queue until it's empty</span>
-        <span class="rem">// peeking for a null element is certainly faster (or as fast) as</span>
-        <span class="rem">// calling for the list's length over and over again</span>
-    }</pre>
+        } while (Nodes.peek() != null);        
+        // process the queue until it's empty
+        // peeking for a null element is certainly faster (or as fast) as
+        // calling for the list's length over and over again
+    }
+```
+
 
 
 It’s pretty much the same thing.

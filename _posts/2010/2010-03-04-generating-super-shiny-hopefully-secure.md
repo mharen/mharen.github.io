@@ -20,31 +20,35 @@ I was working on a little security related code today which required the generat
 
 But here I am, ready to fail.
 
-So like I said, I need to create a bunch of tokens—blocks of text or numbers. They can’t be easily guessed and need to be unique. Let’s see if I can’t screw this up.  <pre class="csharpcode">        <span class="rem">/// &lt;summary&gt;</span>
-        <span class="rem">/// Generate a decently long string o random characters, suitable for tokens</span>
-        <span class="rem">/// &lt;/summary&gt;</span>
-        <span class="rem">/// &lt;returns&gt;a string of gobbledygook&lt;/returns&gt;</span>
-        <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">string</span> GenerateKey()
+So like I said, I need to create a bunch of tokens—blocks of text or numbers. They can’t be easily guessed and need to be unique. Let’s see if I can’t screw this up.  
+```cs
+        /// <summary>
+        /// Generate a decently long string o random characters, suitable for tokens
+        /// </summary>
+        /// <returns>a string of gobbledygook</returns>
+        public static string GenerateKey()
         {
-            var RandomBytes = <span class="kwrd">new</span> <span class="kwrd">byte</span>[
-                6 * 10 <span class="rem">// use a multiple of 6 to get a full base64 output <a href="http://en.wikipedia.org/wiki/Base64">http://en.wikipedia.org/wiki/Base64</a></span>
-</a>                - 16 <span class="rem">// compensate for the 16-byte guid we're going to add in </span>
+            var RandomBytes = new byte[
+                6 * 10 // use a multiple of 6 to get a full base64 output <a href="http://en.wikipedia.org/wiki/Base64">http://en.wikipedia.org/wiki/Base64</a>
+</a>                - 16 // compensate for the 16-byte guid we're going to add in 
                 ];
 
-            <span class="rem">// fill the buffer with garbage (this is threadsafe)</span>
+            // fill the buffer with garbage (this is threadsafe)
             BetterRandom.GetBytes(RandomBytes);
 
-            <span class="rem">// get a guid, which will be unique enough for us</span>
+            // get a guid, which will be unique enough for us
             var UniqueBytes = Guid.NewGuid().ToByteArray();
 
-            <span class="rem">// encode the garbage as friendly, printable characters</span>
-            var AllBytes = <span class="kwrd">new</span> <span class="kwrd">byte</span>[RandomBytes.Length + UniqueBytes.Length];
+            // encode the garbage as friendly, printable characters
+            var AllBytes = new byte[RandomBytes.Length + UniqueBytes.Length];
             UniqueBytes.CopyTo(AllBytes, 0);
             RandomBytes.CopyTo(AllBytes, UniqueBytes.Length);
 
-            <span class="kwrd">return</span> Convert.ToBase64String(AllBytes);
+            return Convert.ToBase64String(AllBytes);
         }
-        <span class="kwrd">static</span> RandomNumberGenerator BetterRandom = <span class="kwrd">new</span> RNGCryptoServiceProvider();</pre>
+        static RandomNumberGenerator BetterRandom = new RNGCryptoServiceProvider();
+```
+
 
 
 Basically I take two components—a 16-bit [GUID](http://en.wikipedia.org/wiki/Globally_Unique_Identifier), and a 44-byte chunk of random bits. The GUID would [normally be enough](http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx) to satisfy me as they are pretty much unique (and the Win32 algorithm might even guarantee them to be unique when considering a single machine) *but*, I was afraid they might be predictable as they [aren’t actually all that random](http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx). 
