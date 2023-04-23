@@ -1,9 +1,7 @@
 ---
 layout: post
 date: '2015-03-24T09:16:00.001-04:00'
-categories:
-- work
-- technology
+categories: technology
 title: 'Fixing "500 : undefined" error in Swashbuckle/Swagger'
 ---
 
