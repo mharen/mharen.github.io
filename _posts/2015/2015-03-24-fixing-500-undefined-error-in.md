@@ -7,7 +7,9 @@ title: 'Fixing "500 : undefined" error in Swashbuckle/Swagger'
 
 Suppose you include XML docs to make your Swagger/[Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) docs even better via the option:
 
-    c.IncludeXmlComments(Path.Combine(HttpRuntime.BinDirectory, "Das Docs.xml"));
+```cs
+c.IncludeXmlComments(Path.Combine(HttpRuntime.BinDirectory, "Das Docs.xml"));
+```
 
 And things work great locally. But then you publish to a webserver, an Azure Website, etc. and you get an error like this:
 
@@ -15,4 +17,4 @@ And things work great locally. But then you publish to a webserver, an Azure Web
 
 You probably already enabled the generation of the XML documentation file, **but did you do it for the Release configuration**? Since you're here, probably not. Fix that and you'll be all set.
 
-![project dialog](project-dialog.png)
+![project dialog](/assets/2015/project-dialog.png)
