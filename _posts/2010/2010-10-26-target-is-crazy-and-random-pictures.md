@@ -94,7 +94,7 @@ That’s right, folks, alcoholic whipped cream.
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/10/target-is-crazy-and-random-pictures.html) on Blogger
+### 2 comments
 
 **Sarah said on 2010-10-26**
 

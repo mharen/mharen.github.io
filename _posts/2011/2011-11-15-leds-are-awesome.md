@@ -39,7 +39,7 @@ If you’ve been avoiding these things, I suggest you take another look. Here’
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/11/leds-are-awesome.html) on Blogger
+### 1 comment
 
 **Jared Forshey said on 2011-11-15**
 

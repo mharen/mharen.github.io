@@ -105,7 +105,7 @@ Hopefully Apple fixes this issue…
 
 ---
 
-## 5 comments captured from [original post](https://blog.wassupy.com/2012/07/patching-jquery-validation-for-ios-date.html) on Blogger
+### 5 comments
 
 **Kikoanis said on 2013-01-24**
 

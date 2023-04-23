@@ -120,7 +120,7 @@ Of course, this might be even prettier as an extension method that wraps the Sav
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/10/catching-unique-key-constraint.html) on Blogger
+### 1 comment
 
 **darichkid said on 2013-03-24**
 

@@ -88,7 +88,7 @@ I’ll put that on hold, though as I think I’ll be moving on to a new componen
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-3-psychedelic-more-fun-with.html) on Blogger
+### 3 comments
 
 **Unknown said on 2010-11-04**
 

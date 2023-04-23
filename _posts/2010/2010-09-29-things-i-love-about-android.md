@@ -52,7 +52,7 @@ It’s no coincidence that these are mostly just apps. That’s the real magic�
 
 ---
 
-## 7 comments captured from [original post](https://blog.wassupy.com/2010/09/things-i-love-about-android.html) on Blogger
+### 7 comments
 
 **Unknown said on 2010-09-29**
 

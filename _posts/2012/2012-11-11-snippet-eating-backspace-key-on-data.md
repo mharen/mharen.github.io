@@ -93,7 +93,7 @@ It’s the little things…
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2012/11/snippet-eating-backspace-key-on-data.html) on Blogger
+### 2 comments
 
 **infocyde said on 2012-12-04**
 

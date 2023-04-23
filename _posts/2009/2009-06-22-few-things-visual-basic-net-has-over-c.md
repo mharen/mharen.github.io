@@ -123,7 +123,7 @@ C# majorly trumps VB with iterator blocks using the yield keyword. I’ve been u
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2009/06/few-things-visual-basic-net-has-over-c.html) on Blogger
+### 2 comments
 
 **Math Zombie said on 2009-06-25**
 

@@ -156,7 +156,7 @@ I’ve got a busy weekend coming up so I’ll probably just spend a little time 
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-11-extreme-feedback-for.html) on Blogger
+### 2 comments
 
 **Sarah said on 2010-11-12**
 

@@ -34,7 +34,7 @@ The [cost threshold for parallelism](http://msdn.microsoft.com/en-us/library/aa1
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/03/leave-sql-servers-cost-threshold-for.html) on Blogger
+### 1 comment
 
 **Unknown said on 2013-12-16**
 

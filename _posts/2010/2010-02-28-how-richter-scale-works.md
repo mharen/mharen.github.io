@@ -66,7 +66,7 @@ Finally, for tons of info on Earthquakes, checkout the [USGS](http://earthquake.
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/02/how-richter-scale-works.html) on Blogger
+### 2 comments
 
 **Patrick said on 2010-03-01**
 

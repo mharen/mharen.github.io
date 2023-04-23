@@ -38,7 +38,7 @@ This is from a warmer day a week or so earlier, during the nice part of Fall.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/halloween-abroad.html) on Blogger
+### 1 comment
 
 **Sarah said on 2012-11-01**
 

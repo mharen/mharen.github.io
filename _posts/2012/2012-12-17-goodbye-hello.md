@@ -23,7 +23,7 @@ Thank you to everyone who helped me work through this difficult decision!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/12/goodbye-hello.html) on Blogger
+### 1 comment
 
 **Jeff said on 2012-12-18**
 

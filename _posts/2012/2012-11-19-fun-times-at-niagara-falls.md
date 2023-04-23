@@ -47,7 +47,7 @@ Happy Thanksgiving!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/fun-times-at-niagara-falls.html) on Blogger
+### 1 comment
 
 **Sarah said on 2012-11-23**
 

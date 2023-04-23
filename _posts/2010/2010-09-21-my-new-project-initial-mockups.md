@@ -32,7 +32,7 @@ These are the three key screens of the application. There are likely to be drama
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/09/my-new-project-initial-mockups.html) on Blogger
+### 2 comments
 
 **Math Zombie said on 2010-09-22**
 

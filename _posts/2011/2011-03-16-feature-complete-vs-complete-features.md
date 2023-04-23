@@ -40,7 +40,7 @@ At a recent internal product launch at Rovisys I was quoted in a presentation as
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2011/03/feature-complete-vs-complete-features.html) on Blogger
+### 3 comments
 
 **Xander Dumaine said on 2011-03-17**
 

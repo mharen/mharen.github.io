@@ -51,7 +51,7 @@ That is all.
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/01/presenting-parental-anger-scale.html) on Blogger
+### 2 comments
 
 **Sarah said on 2011-01-10**
 

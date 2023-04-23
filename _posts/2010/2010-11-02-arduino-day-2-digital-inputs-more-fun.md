@@ -129,7 +129,7 @@ Oh well. I got enough to keep me going a few more days so see you tomorrow!
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-2-digital-inputs-more-fun.html) on Blogger
+### 4 comments
 
 **Math Zombie said on 2010-11-02**
 

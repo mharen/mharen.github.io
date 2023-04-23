@@ -14,7 +14,7 @@ Pretty handy!
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/09/how-to-take-screenshots-from-android.html) on Blogger
+### 2 comments
 
 **Brad Griffith said on 2010-09-29**
 

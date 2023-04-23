@@ -312,7 +312,7 @@ When I resolve this problem, I’ll post a follow up. Hopefully soon!
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2009/06/troubleshooting-elusive-site-slow-down.html) on Blogger
+### 2 comments
 
 **Math Zombie said on 2009-06-28**
 

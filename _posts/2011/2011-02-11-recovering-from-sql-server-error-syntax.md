@@ -62,7 +62,7 @@ ALTER PROCEDURE [dbo].procName
 
 ---
 
-## 5 comments captured from [original post](https://blog.wassupy.com/2011/02/recovering-from-sql-server-error-syntax.html) on Blogger
+### 5 comments
 
 **Andrew Johns said on 2012-06-06**
 

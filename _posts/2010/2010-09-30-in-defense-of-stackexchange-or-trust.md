@@ -57,7 +57,7 @@ The reason I mentioned the stuff about decision making in the beginning is this:
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/09/in-defense-of-stackexchange-or-trust.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2010-09-30**
 

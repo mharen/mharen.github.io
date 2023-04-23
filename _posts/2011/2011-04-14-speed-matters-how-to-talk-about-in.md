@@ -60,7 +60,7 @@ If it’s not already obvious, the reason it’s so important that everyone be a
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/04/speed-matters-how-to-talk-about-in.html) on Blogger
+### 2 comments
 
 **Xander Dumaine said on 2011-06-09**
 

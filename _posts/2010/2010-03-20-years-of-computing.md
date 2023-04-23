@@ -44,7 +44,7 @@ Thanks to the Internet, I’ll end up back on some future incarnation of this pa
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/03/20-years-of-computing.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2010-03-08**
 

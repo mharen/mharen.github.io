@@ -57,7 +57,7 @@ How about that last one? Holy crap! In order to list all possibilities, you woul
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2008/01/pick-number-any-number.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2010-03-04**
 

@@ -129,7 +129,7 @@ Ultimately I want to drive this from a Hudson CI build feed so I’ll continue w
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-10-pc-input.html) on Blogger
+### 2 comments
 
 **Unknown said on 2013-04-29**
 

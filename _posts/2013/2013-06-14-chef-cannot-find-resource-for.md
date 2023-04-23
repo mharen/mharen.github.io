@@ -32,7 +32,7 @@ Of course, if you’re using Chef Solo, you’ll want to download your dependent
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2013/06/chef-cannot-find-resource-for.html) on Blogger
+### 2 comments
 
 **seema said on 2014-01-08**
 

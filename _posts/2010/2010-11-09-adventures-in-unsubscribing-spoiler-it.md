@@ -66,7 +66,7 @@ Microsoft, let me know where I can send [this](http://www.amazon.com/dp/03213447
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/11/adventures-in-unsubscribing-spoiler-it.html) on Blogger
+### 3 comments
 
 **Math Zombie said on 2010-11-09**
 

@@ -17,7 +17,7 @@ Although the results were disputed by those present, I’m sure you’ll agree w
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/02/does-tapping-can-prevent-massive-fizzy.html) on Blogger
+### 2 comments
 
 **Math Zombie said on 2011-02-26**
 

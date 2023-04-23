@@ -37,7 +37,7 @@ I’m not saying that I don’t want something better, just that I appreciate wh
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/02/10-reasons-why-we-should-give-google.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2011-02-25**
 

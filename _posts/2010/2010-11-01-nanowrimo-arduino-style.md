@@ -37,7 +37,7 @@ My first project will be up shortly.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/11/nanowrimo-arduino-style.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-11-01**
 

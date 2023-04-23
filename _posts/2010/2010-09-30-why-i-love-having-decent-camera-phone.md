@@ -16,7 +16,7 @@ Without my camera phone (Droid Incredible), I would not have captured any of the
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/09/why-i-love-having-decent-camera-phone.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-09-30**
 

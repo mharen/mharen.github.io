@@ -30,7 +30,7 @@ I’m a fan—I’m using it to write this post!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/06/publishing-code-to-blogger_2255.html) on Blogger
+### 1 comment
 
 **BloggerGeeze said on 2010-02-17**
 

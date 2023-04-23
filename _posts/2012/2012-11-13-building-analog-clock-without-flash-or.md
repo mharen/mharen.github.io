@@ -65,7 +65,7 @@ NB: I [tweeted](https://twitter.com/mharen/status/268426088076697600) a version 
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/building-analog-clock-without-flash-or.html) on Blogger
+### 1 comment
 
 **Sarah said on 2012-11-14**
 

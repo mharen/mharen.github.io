@@ -40,7 +40,7 @@ Maya **loves** them. So, Progresso, thanks for the coupons and the toys—I gues
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/09/food-allergies-fun.html) on Blogger
+### 1 comment
 
 **Jenny Stratton said on 2009-10-01**
 

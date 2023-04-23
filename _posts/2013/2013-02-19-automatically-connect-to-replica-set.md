@@ -89,7 +89,7 @@ Yes, now you are on master and the <code>db</code> object is set for you to begi
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2013/02/automatically-connect-to-replica-set.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2013-04-10**
 

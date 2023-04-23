@@ -49,7 +49,7 @@ PS: here’s a picture of one of my fans dressed up as a marsupial. It seemed re
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/02/hey-zoo-membership-dude-letter-from.html) on Blogger
+### 1 comment
 
 **Sarah said on 2011-02-21**
 

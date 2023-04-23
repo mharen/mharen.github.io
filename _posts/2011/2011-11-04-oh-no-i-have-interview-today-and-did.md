@@ -38,7 +38,7 @@ Remember, this is just last minute advice. Do yourself a favor and do some actua
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/11/oh-no-i-have-interview-today-and-did.html) on Blogger
+### 1 comment
 
 **Sarah said on 2011-11-08**
 

@@ -48,7 +48,7 @@ You might be wondering why you’d want to compress content in the first place. 
 
 ---
 
-## 11 comments captured from [original post](https://blog.wassupy.com/2009/08/enabling-dynamic-http-compression-in.html) on Blogger
+### 11 comments
 
 **Michael Haren said on 2009-08-22**
 

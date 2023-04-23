@@ -30,7 +30,7 @@ Credits:  <ul>   <li>[Clip photo](http://www.christmaslightsetc.com/pages/Hangin
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2012/11/christmas-lights-2012-lets-make-them.html) on Blogger
+### 2 comments
 
 **Sarah said on 2012-11-14**
 

@@ -22,7 +22,7 @@ Never try cooking bacon this way again.
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2011/07/how-to-cook-bacon-on-george-foreman.html) on Blogger
+### 3 comments
 
 **Katie said on 2011-07-18**
 

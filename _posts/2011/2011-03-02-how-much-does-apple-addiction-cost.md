@@ -29,7 +29,7 @@ In summary, an Apple addiction costs a surprisingly little $89-198 per month. Ma
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/03/how-much-does-apple-addiction-cost.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2011-03-03**
 

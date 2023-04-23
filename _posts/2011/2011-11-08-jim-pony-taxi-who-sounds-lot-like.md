@@ -52,7 +52,7 @@ Jim had achieved his ultimate goal of making his customers happy through modern 
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/11/jim-pony-taxi-who-sounds-lot-like.html) on Blogger
+### 2 comments
 
 **Xander Dumaine said on 2011-11-09**
 

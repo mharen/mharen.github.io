@@ -21,7 +21,7 @@ With this in place, the image on the left turns into the image on the right (sim
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/01/blurry-shapes-unleashing-bokeh.html) on Blogger
+### 1 comment
 
 **Sarah said on 2011-01-11**
 

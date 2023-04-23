@@ -160,7 +160,7 @@ Tomorrow I’ll try to dig up an input device or something to make this a little
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-1-unpacking-and-fun-with.html) on Blogger
+### 2 comments
 
 **Michael Haren said on 2010-11-02**
 

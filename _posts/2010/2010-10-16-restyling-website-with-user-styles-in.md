@@ -134,7 +134,7 @@ Now I wait for a list of changes from the Mrs. and start thinking about some mor
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/restyling-website-with-user-styles-in.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-10-16**
 

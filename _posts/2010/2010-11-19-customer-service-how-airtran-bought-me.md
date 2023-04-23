@@ -30,7 +30,7 @@ If I’m allowed two points in one post, **my second point is this**: the passio
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/11/customer-service-how-airtran-bought-me.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-11-19**
 

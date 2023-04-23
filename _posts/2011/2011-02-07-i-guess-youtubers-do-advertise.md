@@ -27,7 +27,7 @@ I think Marcel’s expression is appropriate.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/02/i-guess-youtubers-do-advertise.html) on Blogger
+### 1 comment
 
 **Sarah said on 2011-02-07**
 

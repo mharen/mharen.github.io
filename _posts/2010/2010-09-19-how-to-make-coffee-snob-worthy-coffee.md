@@ -106,7 +106,7 @@ Yes.
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2010/09/how-to-make-coffee-snob-worthy-coffee.html) on Blogger
+### 4 comments
 
 **Sarah said on 2010-09-19**
 

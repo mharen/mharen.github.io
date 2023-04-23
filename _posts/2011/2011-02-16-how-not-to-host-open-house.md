@@ -81,7 +81,7 @@ I’m sorry for your loss, but congratulations, now** we can’t buy your house 
 
 ---
 
-## 5 comments captured from [original post](https://blog.wassupy.com/2011/02/how-not-to-host-open-house.html) on Blogger
+### 5 comments
 
 **Math Zombie said on 2011-02-16**
 

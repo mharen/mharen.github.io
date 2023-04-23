@@ -156,7 +156,7 @@ I might try to build a Simon game tomorrow. Special thanks to [@corsae](http://t
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-8-reaction-game.html) on Blogger
+### 2 comments
 
 **Sarah said on 2010-11-08**
 

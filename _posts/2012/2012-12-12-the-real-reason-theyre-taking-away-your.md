@@ -22,7 +22,7 @@ And that sucks.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/12/the-real-reason-theyre-taking-away-your.html) on Blogger
+### 1 comment
 
 **Unknown said on 2012-12-13**
 

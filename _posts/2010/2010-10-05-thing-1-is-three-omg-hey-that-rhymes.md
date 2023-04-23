@@ -32,7 +32,7 @@ I love you, Peanut.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/thing-1-is-three-omg-hey-that-rhymes.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-10-05**
 

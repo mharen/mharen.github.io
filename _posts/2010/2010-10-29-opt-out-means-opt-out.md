@@ -34,7 +34,7 @@ That’s a pretty stark contrast between how I perceive Best Buy and StackOverfl
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/opt-out-means-opt-out.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-10-30**
 

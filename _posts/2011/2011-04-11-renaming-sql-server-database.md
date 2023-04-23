@@ -44,7 +44,7 @@ If you’re curious what <code>ROLLBACK IMMEDIATE</code> does, [this is a great 
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/04/renaming-sql-server-database.html) on Blogger
+### 1 comment
 
 **Unknown said on 2012-06-17**
 

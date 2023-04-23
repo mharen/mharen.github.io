@@ -24,7 +24,7 @@ You know what, Quicken Loans Arena (and pretty much any place that sells tickets
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/12/thatll-be-44tax-btw-tax-is-61.html) on Blogger
+### 1 comment
 
 **picturingtheordinary said on 2010-12-23**
 

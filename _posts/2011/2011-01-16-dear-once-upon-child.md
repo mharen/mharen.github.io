@@ -42,7 +42,7 @@ Michael Haren
 
 ---
 
-## 5 comments captured from [original post](https://blog.wassupy.com/2011/01/dear-once-upon-child.html) on Blogger
+### 5 comments
 
 **picturingtheordinary said on 2011-01-17**
 

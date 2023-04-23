@@ -38,7 +38,7 @@ ps: please wake up before Thing1 and Thing2 realize I’m on my own down here.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/05/happy-mothers-day.html) on Blogger
+### 1 comment
 
 **Sarah said on 2012-05-14**
 

@@ -47,7 +47,7 @@ Feel free to do a view-source, or look at the page in [edit mode](http://jsbin.c
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2009/06/amoeba-fever-problem.html) on Blogger
+### 2 comments
 
 **Math Zombie said on 2009-06-30**
 

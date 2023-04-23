@@ -27,7 +27,7 @@ I’ll knock out some preliminary database design next, and then I’ll be ready
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/10/project-update-name-and-sitemap.html) on Blogger
+### 3 comments
 
 **Sarah said on 2010-10-08**
 

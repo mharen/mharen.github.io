@@ -86,7 +86,7 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2012/11/how-buying-or-selling-house-in-single.html) on Blogger
+### 2 comments
 
 **Sarah said on 2012-11-14**
 

@@ -51,7 +51,7 @@ Like most campaigns, we avoided the issues, made fools of each other, and set th
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/11/campaigning-like-boss.html) on Blogger
+### 1 comment
 
 **stiff said on 2011-11-01**
 

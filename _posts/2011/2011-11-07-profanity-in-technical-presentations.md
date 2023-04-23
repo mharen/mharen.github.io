@@ -52,7 +52,7 @@ And *they were [ponies](http://twitpic.com/7bid0x) the whole time.*
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/11/profanity-in-technical-presentations.html) on Blogger
+### 1 comment
 
 **Sarah said on 2011-11-07**
 

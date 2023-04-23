@@ -37,7 +37,7 @@ But glitter is **banned** from my home. I’m not a fool.
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2010/12/life-lessons-about-glitter.html) on Blogger
+### 4 comments
 
 **Michael Haren said on 2010-12-21**
 

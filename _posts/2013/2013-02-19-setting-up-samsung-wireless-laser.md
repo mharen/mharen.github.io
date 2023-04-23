@@ -41,7 +41,7 @@ Now go kill some trees!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2013/02/setting-up-samsung-wireless-laser.html) on Blogger
+### 1 comment
 
 **Sarah said on 2013-02-19**
 

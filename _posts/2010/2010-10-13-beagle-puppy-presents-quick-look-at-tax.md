@@ -41,7 +41,7 @@ Did that help? Did I make it worse? Let me know!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/beagle-puppy-presents-quick-look-at-tax.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-10-13**
 

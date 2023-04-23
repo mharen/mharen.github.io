@@ -35,7 +35,7 @@ Michael Haren
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/03/dear-nasa-i-officially-request-one.html) on Blogger
+### 1 comment
 
 **Sarah said on 2011-03-09**
 

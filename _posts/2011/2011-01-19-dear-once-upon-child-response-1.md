@@ -48,7 +48,7 @@ When Thing1 masters this whole potty thing we will reconsider. Hopefully she doe
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/01/dear-once-upon-child-response-1.html) on Blogger
+### 2 comments
 
 **Annie's Ark said on 2011-04-25**
 

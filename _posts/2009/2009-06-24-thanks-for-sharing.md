@@ -34,7 +34,7 @@ On a barely related note, check out this [ad-vs-actual](http://www.mopo.ca/2007/
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/06/thanks-for-sharing.html) on Blogger
+### 1 comment
 
 **Sarah said on 2009-06-24**
 

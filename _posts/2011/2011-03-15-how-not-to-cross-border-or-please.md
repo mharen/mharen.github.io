@@ -73,7 +73,7 @@ Morals of this story:   <ul>   <li>Don’t go to Canada</li>    <li>If you must,
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/03/how-not-to-cross-border-or-please.html) on Blogger
+### 2 comments
 
 **Sarah said on 2011-03-15**
 

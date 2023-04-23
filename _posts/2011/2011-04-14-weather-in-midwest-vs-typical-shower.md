@@ -22,7 +22,7 @@ Actually, it rains pretty much all of spring. Damn.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/04/weather-in-midwest-vs-typical-shower.html) on Blogger
+### 1 comment
 
 **Xander Dumaine said on 2011-04-18**
 

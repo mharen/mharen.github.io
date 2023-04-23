@@ -61,7 +61,7 @@ Bill of Materials (total cost $43).  <ul>   <li>Used cabinet: $12</li>    <li>Pr
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2012/08/happy-first-birthday-thing-3.html) on Blogger
+### 2 comments
 
 **picturingtheordinary said on 2012-08-17**
 

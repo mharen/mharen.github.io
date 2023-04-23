@@ -44,7 +44,7 @@ Next I soldered the wire on, put the cover back on, and enjoyed some self congra
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2011/07/fixing-my-hipster-dryer.html) on Blogger
+### 3 comments
 
 **Sarah said on 2011-07-18**
 

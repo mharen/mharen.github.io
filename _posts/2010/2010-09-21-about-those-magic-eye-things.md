@@ -24,7 +24,7 @@ Since I’m into pie charts this week, here’s the breakdown of the ol’ magic
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/09/about-those-magic-eye-things.html) on Blogger
+### 3 comments
 
 **Sarah said on 2010-09-21**
 

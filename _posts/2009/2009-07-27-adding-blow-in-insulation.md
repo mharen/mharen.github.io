@@ -58,7 +58,7 @@ All told, I burned about 5 hours on the project, including two trips to Lowe’s
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/07/adding-blow-in-insulation.html) on Blogger
+### 1 comment
 
 **GBtG said on 2009-07-29**
 

@@ -66,7 +66,7 @@ Does this exist? Thoughts?
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2011/11/i-vote-to-close-this-meeting.html) on Blogger
+### 3 comments
 
 **Brad Griffith said on 2011-12-04**
 

@@ -35,7 +35,7 @@ I was pretty close, right? Oh, and my wife is awesome.
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/11/practice-is-really-great-show.html) on Blogger
+### 3 comments
 
 **Sarah said on 2010-11-17**
 

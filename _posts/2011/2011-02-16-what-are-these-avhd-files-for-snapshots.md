@@ -30,7 +30,7 @@ If your AVHD is big, this will take a long, long time. Fortunately, cleaning up 
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/02/what-are-these-avhd-files-for-snapshots.html) on Blogger
+### 1 comment
 
 **Math Zombie said on 2011-02-16**
 

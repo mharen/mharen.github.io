@@ -25,7 +25,7 @@ While you’re in there, you might as well choose a pretty font like Consolas, t
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/02/windows-improving-command-window-if.html) on Blogger
+### 1 comment
 
 **Xander Dumaine said on 2011-03-03**
 

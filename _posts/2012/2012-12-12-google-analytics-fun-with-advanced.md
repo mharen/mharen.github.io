@@ -56,7 +56,7 @@ I’m pleasantly surprised to see that 1280px+-wide monitors make up more than 8
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/12/google-analytics-fun-with-advanced.html) on Blogger
+### 1 comment
 
 **albina N muro said on 2013-04-13**
 

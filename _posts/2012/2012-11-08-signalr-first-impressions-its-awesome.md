@@ -38,7 +38,7 @@ The potential uses for this technology are numerous. I’m excited to experiment
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/signalr-first-impressions-its-awesome.html) on Blogger
+### 1 comment
 
 **Unknown said on 2012-11-09**
 

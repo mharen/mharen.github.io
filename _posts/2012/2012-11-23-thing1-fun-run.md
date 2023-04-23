@@ -27,7 +27,7 @@ Congrats, Peanut!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/thing1-fun-run.html) on Blogger
+### 1 comment
 
 **picturingtheordinary said on 2012-11-23**
 

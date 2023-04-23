@@ -30,7 +30,7 @@ The code name need not (and maybe ought not) have anything at all to do with the
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/09/my-new-project.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2010-09-27**
 

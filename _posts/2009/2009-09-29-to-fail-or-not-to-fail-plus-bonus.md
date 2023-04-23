@@ -90,7 +90,7 @@ Anyone remember Microsoft Bob? Here’s a kid’s version available today:
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/09/to-fail-or-not-to-fail-plus-bonus.html) on Blogger
+### 1 comment
 
 **Math Zombie said on 2009-09-29**
 

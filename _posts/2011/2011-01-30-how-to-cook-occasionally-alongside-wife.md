@@ -44,7 +44,7 @@ Oh, and I drink while I cook. Happy eating.
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2011/01/how-to-cook-occasionally-alongside-wife.html) on Blogger
+### 4 comments
 
 **Michael Haren said on 2011-01-30**
 

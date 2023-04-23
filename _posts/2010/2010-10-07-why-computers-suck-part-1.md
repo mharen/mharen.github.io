@@ -28,7 +28,7 @@ Oh, and in case you’re wondering why I have two RSA tokens in that second pict
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/10/why-computers-suck-part-1.html) on Blogger
+### 3 comments
 
 **Michael Haren said on 2010-10-07**
 

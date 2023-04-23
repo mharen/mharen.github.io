@@ -16,7 +16,7 @@ Feel free to post comment with questions, clarifications, etc. but please keep i
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/08/two-cents-on-healthcare.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2009-08-23**
 

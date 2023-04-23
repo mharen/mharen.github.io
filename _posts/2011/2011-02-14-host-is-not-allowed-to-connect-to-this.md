@@ -100,7 +100,7 @@ The above applies to MySQL 5, and is probably adaptable to other nearby versions
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2011/02/host-is-not-allowed-to-connect-to-this.html) on Blogger
+### 4 comments
 
 **Sourabh said on 2012-07-22**
 

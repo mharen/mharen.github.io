@@ -21,7 +21,7 @@ As I [just wrote](../2011/2011-03-code-isnt-always-best-tool.html), knowing when
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/03/project-noodle-terminated.html) on Blogger
+### 2 comments
 
 **Unknown said on 2011-03-06**
 

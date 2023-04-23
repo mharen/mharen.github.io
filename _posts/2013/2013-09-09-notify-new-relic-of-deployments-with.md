@@ -31,7 +31,7 @@ This was crazy simple to do, though it might be better implemented as a report h
 
 ---
 
-### 1 comments captured from original post on Blogger
+### 1 comment
 
 **Unknown said on 2014-11-20**
 

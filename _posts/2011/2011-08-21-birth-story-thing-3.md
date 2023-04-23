@@ -167,7 +167,7 @@ We are so fortunate to have you all.
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2011/08/birth-story-thing-3.html) on Blogger
+### 2 comments
 
 **Mandy said on 2011-08-21**
 

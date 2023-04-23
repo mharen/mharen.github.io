@@ -202,7 +202,7 @@ I’m thinking it’d be neat to add some LEDs for each tone or add buttons so s
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2010/11/arduino-day-4-fun-with-sound.html) on Blogger
+### 3 comments
 
 **Sarah said on 2010-11-05**
 

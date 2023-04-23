@@ -49,7 +49,7 @@ Some day I’ll remember to give you your Christmas present from last year.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/amazons-impressive-gift-wrap-service.html) on Blogger
+### 1 comment
 
 **Sarah said on 2012-11-24**
 

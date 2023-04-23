@@ -40,7 +40,7 @@ Just kidding--it's crazy fast and chock-full of intuitive awesomeness.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/09/things-android-could-do-better.html) on Blogger
+### 1 comment
 
 **Math Zombie said on 2010-09-30**
 

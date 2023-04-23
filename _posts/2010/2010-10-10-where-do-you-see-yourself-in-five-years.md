@@ -42,7 +42,7 @@ Also, I am so very fortunate to have the stability and flexibility to grapple wi
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/where-do-you-see-yourself-in-five-years.html) on Blogger
+### 1 comment
 
 **Math Zombie said on 2010-10-10**
 

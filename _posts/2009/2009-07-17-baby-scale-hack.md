@@ -46,7 +46,7 @@ I can’t actually verify her real weight (thus this ridiculous contraption!) bu
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2009/07/baby-scale-hack.html) on Blogger
+### 1 comment
 
 **GBtG said on 2009-07-20**
 

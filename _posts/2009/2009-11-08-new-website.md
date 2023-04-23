@@ -19,7 +19,7 @@ My super amazing wife has started her own blog.  It is phenomenal.  Some of the 
 
 ---
 
-## 3 comments captured from [original post](https://blog.wassupy.com/2009/11/new-website.html) on Blogger
+### 3 comments
 
 **Michael Haren said on 2009-11-08**
 

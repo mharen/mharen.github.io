@@ -256,7 +256,7 @@ So it’s as expected: clearing the list does not affect the list’s capacity. 
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/10/list-clear-vs-new-variable-passing-in-c.html) on Blogger
+### 2 comments
 
 **Xander Dumaine said on 2010-11-09**
 

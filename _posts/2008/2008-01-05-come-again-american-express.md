@@ -98,12 +98,3 @@ Here's what I've concluded from all this:
 </ul>
 
 If you're still with me, there you have it. The scariest part of all this is that I'm starting to understand their side of it. Ridiculous.
-
----
-
-## 1 comments captured from [original post](https://blog.wassupy.com/2008/01/come-again-american-express.html) on Blogger
-
-**Unknown said on 2014-11-28**
-
-The travel management industry has been expanded in a vast direction. It not only provides personalized traveling service to corporate travelers, but, also provides, [corporate travel service with the help of American Express](http://www.brickelltravel.com/businesstravelservices.php" rel="nofollow), which, in turn helps to minimize the cost of business trips.
-

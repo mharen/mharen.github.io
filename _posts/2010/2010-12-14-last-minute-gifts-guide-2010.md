@@ -56,7 +56,7 @@ Happy Christmas!
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/12/last-minute-gifts-guide-2010.html) on Blogger
+### 2 comments
 
 **Sarah said on 2010-12-14**
 

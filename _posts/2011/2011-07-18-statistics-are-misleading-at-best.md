@@ -26,7 +26,7 @@ Oh, and if you hate paying $3-4 dollars/gallon in the United States…[it could 
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/07/statistics-are-misleading-at-best.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2011-07-18**
 

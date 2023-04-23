@@ -74,7 +74,7 @@ It also has a unique ability to cut through the BS by forcing you to choose your
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/02/why-twitter-is-awesome.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-02-28**
 

@@ -24,7 +24,7 @@ Fun stuff!
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/03/easter-eggs-in-red-gates-sql-compare.html) on Blogger
+### 2 comments
 
 **Michael Haren said on 2010-03-15**
 

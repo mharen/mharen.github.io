@@ -28,7 +28,7 @@ That’s really just a long way to say that we need a new Chinese Food place in 
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/herein-lies-graphic-description-of.html) on Blogger
+### 1 comment
 
 **picturingtheordinary said on 2010-10-25**
 

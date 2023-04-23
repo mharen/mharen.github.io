@@ -42,7 +42,7 @@ In conclusion, I am now updating my antivirus position by recommending that all 
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/some-thoughts-on-antivirus-and-why-i.html) on Blogger
+### 1 comment
 
 **Unknown said on 2010-10-24**
 

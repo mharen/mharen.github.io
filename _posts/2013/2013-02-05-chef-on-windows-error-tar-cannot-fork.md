@@ -84,7 +84,7 @@ C:\Users\mharen\Code\chef-repo>
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2013/02/chef-on-windows-error-tar-cannot-fork.html) on Blogger
+### 1 comment
 
 **John said on 2013-07-16**
 

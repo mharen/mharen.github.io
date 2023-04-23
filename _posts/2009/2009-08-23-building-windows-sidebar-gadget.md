@@ -105,7 +105,7 @@ This is a feature-poor gadget, I admit. I plan to add the ability to order the p
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2009/08/building-windows-sidebar-gadget.html) on Blogger
+### 4 comments
 
 **GBtG said on 2009-08-23**
 

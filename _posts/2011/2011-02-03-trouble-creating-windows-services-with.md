@@ -76,7 +76,7 @@ So I guess *now it’s documented*, but still a usability fail.
 
 ---
 
-## 8 comments captured from [original post](https://blog.wassupy.com/2011/02/trouble-creating-windows-services-with.html) on Blogger
+### 8 comments
 
 **wolverine said on 2012-05-17**
 

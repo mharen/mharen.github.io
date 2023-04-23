@@ -26,7 +26,7 @@ BTW: I’m posting this [from a friggin airplane](http://twitter.com/mharen/stat
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/03/healthcare-musings-part-4-from-friggin.html) on Blogger
+### 2 comments
 
 **Sarah said on 2010-03-21**
 

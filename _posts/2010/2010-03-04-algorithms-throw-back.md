@@ -125,7 +125,7 @@ It’s pretty much the same thing.
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2010/03/algorithms-throw-back.html) on Blogger
+### 2 comments
 
 **Michael Haren said on 2010-03-04**
 

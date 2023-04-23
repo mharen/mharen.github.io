@@ -68,7 +68,7 @@ Now go forth and make a fool of yourself. *For science!*
 
 ---
 
-## 4 comments captured from [original post](https://blog.wassupy.com/2011/11/how-to-give-better-technical.html) on Blogger
+### 4 comments
 
 **Michael Haren said on 2011-11-07**
 

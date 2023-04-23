@@ -32,7 +32,7 @@ I must say, though, that I am surprised how rare this feature is invoked; it giv
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/10/you-need-to-stop-setting-email-priority.html) on Blogger
+### 1 comment
 
 **Sarah said on 2010-10-04**
 

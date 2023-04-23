@@ -63,7 +63,7 @@ So, Pandora mobile uses just under half a megabyte per minute, or ~28 MiB per ho
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2012/12/how-much-of-that-sweet-sweet-data-does.html) on Blogger
+### 2 comments
 
 **Charlotte Pritchard said on 2014-03-01**
 

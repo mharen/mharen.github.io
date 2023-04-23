@@ -32,7 +32,7 @@ But it’ll let you continue.
 
 ---
 
-## 11 comments captured from [original post](https://blog.wassupy.com/2012/11/sql-server-2012-saving-changes-is-not.html) on Blogger
+### 11 comments
 
 **Unknown said on 2013-06-11**
 

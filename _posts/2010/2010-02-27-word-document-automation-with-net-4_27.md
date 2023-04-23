@@ -97,7 +97,7 @@ It makes me cry a little to brute force every container I can think of this way.
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2010/02/word-document-automation-with-net-4_27.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2010-02-27**
 

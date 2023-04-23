@@ -46,7 +46,7 @@ Happy Thanksgiving from the Harens!
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/11/dear-children-you-are-awesome.html) on Blogger
+### 1 comment
 
 **Sarah said on 2012-11-22**
 

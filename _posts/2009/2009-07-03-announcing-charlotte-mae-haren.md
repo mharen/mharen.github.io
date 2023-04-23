@@ -18,7 +18,7 @@ Sarah delivered at home in a tub with the help of our awesome midwife Pam and fr
 
 ---
 
-## 2 comments captured from [original post](https://blog.wassupy.com/2009/07/announcing-charlotte-mae-haren.html) on Blogger
+### 2 comments
 
 **Liz said on 2009-07-04**
 

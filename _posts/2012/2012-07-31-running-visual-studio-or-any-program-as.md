@@ -36,7 +36,7 @@ You can customize those when you create the fix, but I’m sticking with the def
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2012/07/running-visual-studio-or-any-program-as.html) on Blogger
+### 1 comment
 
 **Unknown said on 2014-06-23**
 

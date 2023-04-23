@@ -85,7 +85,7 @@ Firefox</h3>
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2011/03/how-do-i-print-this-web-page.html) on Blogger
+### 1 comment
 
 **Michael Haren said on 2011-03-24**
 
