@@ -20,7 +20,7 @@ They’re offering me a $1 in MP3s to use the “slower” shipping speed. I’v
 
 Do they do this when they *need to*? That is, do they calculate that the nearby shipping center is near capacity and offer people these to help alleviate the pressure? Amazon’s very smart and they could definitely pull that off. It’d be a clever way to discretely ease the load if people actually go for it.
 
-I don’t think that’s it, though. I think they really do it just to promote their MP3 business. I have no data to support it, so I’ll just speculate: I bet conversions are higher for customers getting a free MP3 this way than when Amazon just [gives you one](http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000740381) for practically nothing. The way I figure it, you’re trading something valuable (2-day shipping, which at least feels expensive to you, but probably isn’t) for an MP3. That MP3 really only costs a dollar, but you *feel* like it’s worth more so you’re more likely to actually redeem it. And then you buy other MP3s. And suddenly you’re downloading (and paying for) more music. Damn you, Amazon! (And shipping MP3s is…very affordable.)
+I don’t think that’s it, though. I think they really do it just to promote their MP3 business. I have no data to support it, so I’ll just speculate: I bet conversions are higher for customers getting a free MP3 this way than when Amazon just [gives you one](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000740381) for practically nothing. The way I figure it, you’re trading something valuable (2-day shipping, which at least feels expensive to you, but probably isn’t) for an MP3. That MP3 really only costs a dollar, but you *feel* like it’s worth more so you’re more likely to actually redeem it. And then you buy other MP3s. And suddenly you’re downloading (and paying for) more music. Damn you, Amazon! (And shipping MP3s is…very affordable.)
 
 That’s all good stuff. 
 
@@ -28,7 +28,7 @@ That’s all good stuff.
 
 ![add-item%5B2%5D.jpg](add-item%5B2%5D.jpg)
 
-I first came across these when I tried to buy a [super cheap phone mount ](http://www.amazon.com/Wazes-Universal-Mount-your-Smartphone/dp/B004O7S7Z0)for my car. Amazon wouldn’t let me buy it unless it was part of a $25+ order. Even if I was willing to pay for shipping. Even [with Prime](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200876660#prime):
+I first came across these when I tried to buy a [super cheap phone mount ](http://www.amazon.com/Wazes-Universal-Mount-your-Smartphone/dp/B004O7S7Z0)for my car. Amazon wouldn’t let me buy it unless it was part of a $25+ order. Even if I was willing to pay for shipping. Even [with Prime](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200876660#prime):
 <blockquote> 
 
 When you add an Add-on Item to an Amazon Prime order of more than $25, your Add-on Item will also receive Prime shipping benefits, including FREE Two-Day Shipping. For example, if you ordered five $5 pacifiers, each of which was an Add-on Item, your order would receive FREE Two-Day Shipping.

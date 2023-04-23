@@ -31,7 +31,7 @@ That’s 7.5 tiny watts. At 10¢/KWH, running these for 7 hours a day will cost 
 
 ![image%5B2%5D.png](image%5B2%5D.png)</a>
 
-[0.5¢/day](https://www.google.com/search?q=7.5+watts+*+7+hours+*+%24.10%2FkWh&amp;oq=7.5+watts+*+7+hours+*+%24.10%2FkWh). Half a penny a day. Is that right?! Whoa.
+[0.5¢/day](https://www.google.com/search?q=7.5+watts+*+7+hours+*+%24.10%2FkWh&oq=7.5+watts+*+7+hours+*+%24.10%2FkWh). Half a penny a day. Is that right?! Whoa.
 
 That seems a bit lower than I expected. I just checked the box and all the lights together are rated at about 18 watts. So either that’s conservative or my meter isn’t working quite right… In any event, they are quite efficient!
 

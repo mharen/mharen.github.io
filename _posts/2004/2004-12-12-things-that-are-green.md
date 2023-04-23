@@ -17,7 +17,7 @@ I realize that this movie is well over ten years old, but I saw it for the first
 
 ### Dodgeball
 
-Another good one.  This movie was leaps and bounds below Zoolander, but funny nonetheless - there were definitely laugh out loud moments (read, the S&amp;M uniform scene).  Glad I didn't see it in the theatre, but worth the rental fee.
+Another good one.  This movie was leaps and bounds below Zoolander, but funny nonetheless - there were definitely laugh out loud moments (read, the S&M uniform scene).  Glad I didn't see it in the theatre, but worth the rental fee.
 
 ### Elf
 

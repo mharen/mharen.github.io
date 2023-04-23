@@ -266,7 +266,7 @@ Since there are so many different ways a client can report themselves, I dumped 
      <td>FF</td>
      <td>0.00</td>
    </tr></tbody></table>
-I dumped that into the [Google Charts API](http://code.google.com/apis/chart/) to get this:![chart?cht=p&amp;chs=400x275&amp;chd=s:9ZEDAA&amp;chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&amp;chtt=Browser%20Distribution](chart?cht=p&amp;chs=400x275&amp;chd=s:9ZEDAA&amp;chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&amp;chtt=Browser%20Distribution)
+I dumped that into the [Google Charts API](http://code.google.com/apis/chart/) to get this:![chart?cht=p&chs=400x275&chd=s:9ZEDAA&chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&chtt=Browser%20Distribution](chart?cht=p&chs=400x275&chd=s:9ZEDAA&chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&chtt=Browser%20Distribution)
 
 It’s not the overwhelming result I had hoped for with 27% of traffic over the last 2 weeks coming from the defunct browser I was trying to blame. Again, it seems unlikely that 27% of users are experiencing the same problem without reporting it.
 But what the hell, I turned off http compression on one of the web servers anyway. I had no other leads at this point so I might as well. As expected, though, the user reported that it didn’t help.

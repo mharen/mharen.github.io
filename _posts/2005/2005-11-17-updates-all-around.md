@@ -25,7 +25,7 @@ We took Pirate to the vet last week because we thought he was very, very sick. B
 
 We don't really know what was wrong, but he's fine now. As it turns out, Pirate was a pretty accurate name.
 
-I've also added some pictures to the [gallery](http://www.wassupy.com/gallery2/main.php?g2_view=core.ShowItem&amp;g2_itemId=3293&amp;g2_page=2):
+I've also added some pictures to the [gallery](http://www.wassupy.com/gallery2/main.php?g2_view=core.ShowItem&g2_itemId=3293&g2_page=2):
 
 ![Pirate3.jpg](Pirate3.jpg) 
 

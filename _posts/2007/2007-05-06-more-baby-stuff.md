@@ -29,7 +29,7 @@ Next weekend we are getting a 3-d ultrasound and I cannot wait!  I'll post some 
 
 Michael has started to read her books every night, and they've mostly been Dr. Suess.  That guy must have been on some crazy drugs - seriously.  Michael gets frustrated that there is no continuity between pages :)  We're going to start reading her Tal, which is a book that my dad read to my sisters and I when we were little - if you haven't read it you should - great book :)
 
-We have some names picked out and a list going - there is a [poll ](http://boards.babycenter.com/n/pfx/forum.aspx?tsn=1&amp;nav=messages&amp;webtag=bcus1180&amp;tid=9329)if you're interested in voting.
+We have some names picked out and a list going - there is a [poll ](http://boards.babycenter.com/n/pfx/forum.aspx?tsn=1&nav=messages&webtag=bcus1180&tid=9329)if you're interested in voting.
 
 That's all for now - I'll try to post more if anything interesting happens :)
 

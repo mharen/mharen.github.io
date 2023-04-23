@@ -28,7 +28,7 @@ We might pile some more on as we go, of course. Throughout the whole process, I 
 
 We’ll use Javascript as much as possible. Let’s get started.
 
-First, we need to represent the game elements. We’ll start with something crude and then adjust it as needed. I transcribed the board into a [Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AveyCDgGdW3edElxUnUtQS1rdUpaaWtaTFpZRnZNYVE&amp;hl=en_US#gid=0) (you can steal that if you like) and from that we’ll extract some JSON (that’s in the spreadsheet, too).
+First, we need to represent the game elements. We’ll start with something crude and then adjust it as needed. I transcribed the board into a [Google Doc](https://docs.google.com/spreadsheet/ccc?key=0AveyCDgGdW3edElxUnUtQS1rdUpaaWtaTFpZRnZNYVE&hl=en_US#gid=0) (you can steal that if you like) and from that we’ll extract some JSON (that’s in the spreadsheet, too).
 
 If JSON (Javascript object notation) is unfamiliar to you, check [it out](http://www.json.org/). It’s pretty important.
 

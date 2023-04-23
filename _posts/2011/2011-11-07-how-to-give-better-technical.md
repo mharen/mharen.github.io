@@ -8,7 +8,7 @@ categories:
 title: How To Give Better Technical Presentations
 ---
 
-<span style="background-color: transparent;">I give technical presentations at work occasionally and </span><i style="background-color: transparent;">I actually  enjoy it</i><span style="background-color: transparent;">. I’m talking about spending an hour talking to 15-20 coworkers about  something neat like the latest developments in databases, web technology, etc.,  with time included for Q&amp;A.</span>
+<span style="background-color: transparent;">I give technical presentations at work occasionally and </span><i style="background-color: transparent;">I actually  enjoy it</i><span style="background-color: transparent;">. I’m talking about spending an hour talking to 15-20 coworkers about  something neat like the latest developments in databases, web technology, etc.,  with time included for Q&A.</span>
 
 I get a lot of great feedback each time, which make it very rewarding.&nbsp;<span style="background-color: transparent;">I must be doing a good job if&nbsp;I've&nbsp;convinced people I’m an expert on any of  what I’ve presented (I rarely am but some seem to think so!). I think the real trick is just staying two pages  ahead of the audience in the proverbial textbook. I know what’s about to happen  on the screen; it’s loosely scripted. I’ve chosen to present the parts I like  (and understand). And most importantly, I’ve practiced the whole thing a dozen  times, and the hard parts (usually programming on the spot) a dozen </span><em style="background-color: transparent;">more  </em><span style="background-color: transparent;">times.</span>
 
@@ -60,9 +60,9 @@ In fact, when I first started doing tech talks **I flat out bribed people to ask
 
 But of course there are times where the crowd is just not into it and you find yourself with a lot of dead air to fill. **You need a backup plan for filling that dead air.** I always prepare an extra demo or exercise just in case this happens (or some other part of my presentation fails miserably). As I near the end of the talk, I just peek at the clock and decide if "I have time for one more thing" or if "it's time to wrap up and take some questions." Having this buffer is essential when you're just getting started or when presenting to an unfamiliar audience.
 
-<a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public">![feedback.png](feedback.png)</a>
+<a href="https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&mode=public">![feedback.png](feedback.png)</a>
 
-And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. [Take it and modify it](https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&amp;mode=public) to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word").
+And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. [Take it and modify it](https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&mode=public) to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word").
 
 Now go forth and make a fool of yourself. *For science!*
 

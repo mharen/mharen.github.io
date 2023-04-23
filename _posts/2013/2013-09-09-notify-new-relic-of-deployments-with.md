@@ -31,13 +31,13 @@ This was crazy simple to do, though it might be better implemented as a report h
 
 ---
 
-## 1 comments captured from [original post](https://blog.wassupy.com/2013/09/notify-new-relic-of-deployments-with.html) on Blogger
+### 1 comments captured from original post on Blogger
 
 **Unknown said on 2014-11-20**
 
 Thanks for this, but the "message" parameter no longer accepts a hash, and the New Relic API has changed to use the URL `https://api.newrelic.com/deployments.xml` and the format of the parameters has changed. So you need something like:
 
-    message "deployment[application_id]=#{app_id}&amp;deployment[revision]=#{sha}"
+    message "deployment[application_id]=#{app_id}&deployment[revision]=#{sha}"
 
 (I parse the Git SHA out of release_path, I'm sure there's a better way but Chef's sparse documentation bit me again)
 

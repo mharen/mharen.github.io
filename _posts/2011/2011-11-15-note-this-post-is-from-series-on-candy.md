@@ -131,7 +131,7 @@ function DoGameLoop(options, players, board, cards){
         
         // skip this player if they've won already
         // or made 10000 moves (that would be too many)
-        if(!player.isWinner &amp;&amp; player.moves < 10000){
+        if(!player.isWinner && player.moves < 10000){
             
             // do the actual move
             DoPlayerLoop(options, player, board, cards);
@@ -140,7 +140,7 @@ function DoGameLoop(options, players, board, cards){
             IsSomeoneStillPlaying |= !player.isWinner;
 
             // see if we should stop when just one player wins (configurable)
-            if(!options.doRunUntilEveryoneWins &amp;&amp; player.isWinner){
+            if(!options.doRunUntilEveryoneWins && player.isWinner){
                 return false;
             }
         }  
@@ -173,7 +173,7 @@ function DoPlayerLoop(options, player, board, cards){
     var currentSpace = DoMove(options, player, board, drawnCard);
     
     // if the player drew a double card, they move again  
-    if(drawnCard.isDouble &amp;&amp; !player.isWinner){
+    if(drawnCard.isDouble && !player.isWinner){
         DoMove(options, player, board, drawnCard ); // do it again!
     }
     
@@ -234,8 +234,8 @@ function DoMove(options, player, board, card){
         // or we win
         // or we iterate 10000 times (because something must be broken)
     }while(currentSpace 
-           &amp;&amp; currentSpace.color != card.color 
-           &amp;&amp; !player.isWinner &amp;&amp; ++iterations < 10000);
+           && currentSpace.color != card.color 
+           && !player.isWinner && ++iterations < 10000);
     
     return currentSpace;
 }

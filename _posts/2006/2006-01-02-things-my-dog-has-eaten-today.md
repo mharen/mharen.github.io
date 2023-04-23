@@ -5,7 +5,7 @@ categories: random-updates
 title: Things my dog has eaten today
 ---
 
-a peanut m&amp;m
+a peanut m&m
 
 half of a squeaker from a toy (subsequently coughed up)
 

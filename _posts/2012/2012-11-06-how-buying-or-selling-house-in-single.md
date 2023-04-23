@@ -82,7 +82,7 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 <sup id="foot2-20121106">[2](#sup2-20121106)</sup>$667/month would pay for a $140,000 house figuring a 30 year loan with 4% APR, excl. down payment, insurance, taxes, etc.     
 
-<sup id="foot3-20121106">[3](#sup3-20121106)</sup>or prearrange for financing with your bank.     <hr />Photo credits:    <ul>   <li>[Honda Odyssey](http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&amp;ModelName=Odyssey&amp;ModelYear=2013) </li>    <li>[Random house that costs $140k](http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1) </li> </ul>
+<sup id="foot3-20121106">[3](#sup3-20121106)</sup>or prearrange for financing with your bank.     <hr />Photo credits:    <ul>   <li>[Honda Odyssey](http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&ModelName=Odyssey&ModelYear=2013) </li>    <li>[Random house that costs $140k](http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1) </li> </ul>
 
 ---
 

@@ -22,7 +22,7 @@ It’s simple to eat that keyboard shortcut in Javascript. Here’s a snippet th
 ```cs
     $(document).keydown(function (e) {
         if (e.which == 8 /* backspace */
-            &amp;&amp; !$(e.target).is('input,textarea')) 
+            && !$(e.target).is('input,textarea')) 
         { 
             e.preventDefault(); 
         }
@@ -39,7 +39,7 @@ That is, if the keydown event fires and it’s backspace key and we’re not in 
         var doPrevent = false;
         if (event.keyCode === 8) {
             var d = event.srcElement || event.target;
-            if ((d.tagName.toUpperCase()==='INPUT' &amp;&amp; 
+            if ((d.tagName.toUpperCase()==='INPUT' && 
                     (d.type.toUpperCase()==='TEXT' || d.type.toUpperCase()==='PASSWORD')) 
                 || d.tagName.toUpperCase() === 'TEXTAREA') {
 
@@ -71,7 +71,7 @@ And if you don’t want to use any jQuery, [here’s](http://jsfiddle.net/JEKXH/
         }
         
         var d = event.srcElement || event.target;
-        if ((d.tagName.toUpperCase()==='INPUT' &amp;&amp; 
+        if ((d.tagName.toUpperCase()==='INPUT' && 
                 (d.type.toUpperCase()==='TEXT' || d.type.toUpperCase()==='PASSWORD')) 
             || d.tagName.toUpperCase() === 'TEXTAREA') {
 

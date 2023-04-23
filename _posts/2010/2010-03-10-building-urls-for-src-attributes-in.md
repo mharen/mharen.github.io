@@ -57,7 +57,7 @@ The trick is to call into <code>Url.Content</code> or <code>Url.Content</code> l
 
 
 
-This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between [<code>Url.Content</code>](http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&amp;changeSetId=23011#266520) and [<code>Url.Content</code>](http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx)? <code>ResolveUrl</code> has been around *forever* as part of <code>Url.Content</code>. On the other hand, <code>Url.Content</code> is relatively new and ships as part of <code>Url.Content</code>. Aside from that, I have no idea—if you do, [please share](http://stackoverflow.com/questions/2418050).
+This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between [<code>Url.Content</code>](http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&changeSetId=23011#266520) and [<code>Url.Content</code>](http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx)? <code>ResolveUrl</code> has been around *forever* as part of <code>Url.Content</code>. On the other hand, <code>Url.Content</code> is relatively new and ships as part of <code>Url.Content</code>. Aside from that, I have no idea—if you do, [please share](http://stackoverflow.com/questions/2418050).
 
 
 Note: these commands work pretty much everywhere—<code>imgs</code>, <code>Url.Content</code>, etc.

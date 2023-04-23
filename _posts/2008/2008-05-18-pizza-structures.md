@@ -67,7 +67,7 @@ What's the deal with all the Pizza [structure] places around here? We recently b
 
 <li id="xes-10">Pizza Condo</li>
 
-<li id="xes-10">[Casa la Pizza](http://www.google.com/search?ie=UTF-8&amp;oe=UTF-8&amp;sourceid=navclient&amp;gfns=1&amp;q=Casa+la+Pizza" id="u-jj" title="Casa la Pizza)</li>
+<li id="xes-10">[Casa la Pizza](http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&q=Casa+la+Pizza" id="u-jj" title="Casa la Pizza)</li>
 
 <li id="xes-10" style="text-align: left;">[Pizza Tower](http://www.towerpizza.com/" id="n2ec" title="Pizza Tower)</li>
 
@@ -77,7 +77,7 @@ What's the deal with all the Pizza [structure] places around here? We recently b
 
 <li id="xes-10">Pizza Bunker</li>
 
-<li id="xes-10">[Pizza Cave](http://www.menupages.com/restaurantdetails.asp?areaid=0&amp;restaurantid=6252&amp;neighborhoodid=0&amp;cuisineid=39" id="bmww" title="Pizza Cave)</li>
+<li id="xes-10">[Pizza Cave](http://www.menupages.com/restaurantdetails.asp?areaid=0&restaurantid=6252&neighborhoodid=0&cuisineid=39" id="bmww" title="Pizza Cave)</li>
 
 <li id="xes-10">Pizza Cavern</li>
 

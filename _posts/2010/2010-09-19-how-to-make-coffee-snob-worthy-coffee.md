@@ -44,7 +44,7 @@ If you follow the dilution method, I suggest switching to tea (pansy) or adding 
 
 After a few weeks you’ll run out of coffee. Buy a different variety next time to keep things interesting. Sarah always gets me something new, but nothing fancy, and the slight change every few weeks is great.  <h4>What About Organic/Fair Trade/Single Origin/Blah/Blah/Blah Coffee?</h4>
 
-I honestly don’t know the first thing about any of that. My [resident hippie](http://footedjammies.blogspot.com/) buys coffee like a hippie so I guess I am passively endorsing some of those causes by drinking it, so there’s that. I suggest turning to Google for more info on those topics.  <h4>FAQ (i.e. Q&amp;As I Made Up)</h4>
+I honestly don’t know the first thing about any of that. My [resident hippie](http://footedjammies.blogspot.com/) buys coffee like a hippie so I guess I am passively endorsing some of those causes by drinking it, so there’s that. I suggest turning to Google for more info on those topics.  <h4>FAQ (i.e. Q&As I Made Up)</h4>
 
 **I have a fancy {coffee, coffee maker, beaker, flask, magical gem, etc.} and it makes *way* better coffee? **
 

@@ -17,4 +17,4 @@ I am the proud owner of a brand spankin new iPod.  So far it has been wonderful.
 
 I'll keep you posted on any praises or complaints that I have.
 
--Sarah "[do not eat iPod shuffle](http://www.google.com/search?hl=en&amp;lr=&amp;q=ipod+shuffle+do+not+eat)" Haren
+-Sarah "[do not eat iPod shuffle](http://www.google.com/search?hl=en&lr=&q=ipod+shuffle+do+not+eat)" Haren

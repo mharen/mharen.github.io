@@ -30,10 +30,10 @@ I will also end with a smile :) this is just a friendly post. I look forward to 
 
 I appreciate the genuine friendliness with which Tif and Tim signed their comments though I predict that this will [deteriorate](http://www.createdebate.com/debate/show/But_No_Offense_Really) [soon](http://www.allegro.cc/forums/thread/456370/456498#target). I guess we’ll see how long it lasts!
 
-I completely agree with Tim. Our current system [isn’t the world class health care giant](http://www.photius.com/rankings/healthranks.html) we all like to believe it is even though we’re [paying through the nose](http://www.photius.com/rankings/total_health_expenditure_as_pecent_of_gdp_2000_to_2005.html) for it. While those numbers are dated, more [recent analysis](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse) is grim, too:
+I completely agree with Tim. Our current system [isn’t the world class health care giant](http://www.photius.com/rankings/healthranks.html) we all like to believe it is even though we’re [paying through the nose](http://www.photius.com/rankings/total_health_expenditure_as_pecent_of_gdp_2000_to_2005.html) for it. While those numbers are dated, more [recent analysis](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&scp=8&sq=REED%20ABELSON&st=cse) is grim, too:
 <blockquote> 
 
-[![image%5B6%5D.png](image%5B6%5D.png)](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&amp;scp=8&amp;sq=REED%20ABELSON&amp;st=cse) “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund.   
+[![image%5B6%5D.png](image%5B6%5D.png)](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&scp=8&sq=REED%20ABELSON&st=cse) “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund.   
 
 The study, which assesses the United States on 37 health care measures, finds little improvement since the last report, as the cost of health care continues to rise steadily and more people — even those with insurance — struggle to pay their medical bills.   
 

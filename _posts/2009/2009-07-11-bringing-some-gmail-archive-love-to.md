@@ -59,7 +59,7 @@ Private Sub MoveSelectedItemsToFolder(FolderName As String)
     Set Folder = Inbox.Folders(FolderName)
 
     If Folder Is Nothing Then
-        MsgBox "The '" &amp; FolderName &amp; "' folder doesn't exist!", _
+        MsgBox "The '" & FolderName & "' folder doesn't exist!", _
             vbOKOnly + vbExclamation, "Invalid Folder"
     End If
 
@@ -125,7 +125,7 @@ Then, with the customize window still open, right click on the button you just c
 ![image%5B54%5D.png](image%5B54%5D.png) 
 
 
-I named mine *&amp;Quick Archive*. The ampersand sets the hotkey to the letter that follows it (denoted by the underlined letter in the toolbar). In this case, it will be *Alt-Q*.
+I named mine *&Quick Archive*. The ampersand sets the hotkey to the letter that follows it (denoted by the underlined letter in the toolbar). In this case, it will be *Alt-Q*.
 
 
 

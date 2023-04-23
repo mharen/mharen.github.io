@@ -82,7 +82,7 @@ void loop() {
     
     int Led = Byte - 48;
     
-    if(0 <= Led &amp;&amp; Led <= 2){
+    if(0 <= Led && Led <= 2){
       Ding(Led);
       delay(50);
     }

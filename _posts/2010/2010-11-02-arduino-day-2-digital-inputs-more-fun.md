@@ -61,13 +61,13 @@ void loop()  {
   int SwitchValue0 = digitalRead(SwitchPin0);
   int SwitchValue1 = digitalRead(SwitchPin1);
   
-  if(SwitchValue0 == LOW &amp;&amp; SwitchValue1 == LOW){
+  if(SwitchValue0 == LOW && SwitchValue1 == LOW){
     DoFlash();
   }
-  else if(SwitchValue0 == LOW &amp;&amp; SwitchValue1 == HIGH){
+  else if(SwitchValue0 == LOW && SwitchValue1 == HIGH){
     DoRunway();
   }
-  else if(SwitchValue0 == HIGH &amp;&amp; SwitchValue1 == LOW){
+  else if(SwitchValue0 == HIGH && SwitchValue1 == LOW){
     DoFlickerDigital();
   }
   else {

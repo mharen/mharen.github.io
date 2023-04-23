@@ -56,7 +56,7 @@ void loop() {
   }
 
   // if both cells are covered...
-  if(CdsReads[0] &amp;&amp; CdsReads[1]){
+  if(CdsReads[0] && CdsReads[1]){
     Led = 1; 
   }  
   // if one cell is covered

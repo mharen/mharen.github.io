@@ -96,7 +96,7 @@ try {
 catch(UpdateException ex) {
     var sqlException = ex.InnerException as SqlException;
     
-    if(sqlException != null &amp;&amp; sqlException.Errors.OfType<SqlError>()
+    if(sqlException != null && sqlException.Errors.OfType<SqlError>()
         .Any(se=>se.Number == 2601 || se.Number == 2627 /* PK/UKC violation */)) {
         
         // it's a dupe... do something about it

@@ -8,7 +8,7 @@ title: "The Real Reason They\u2019re Taking Away Your Unlimited Data"
 ---
 
 
-When the wireless companies started cutting back on their unlimited data offerings last year, I was a little confused. AT&amp;T went first, then Verizon. 
+When the wireless companies started cutting back on their unlimited data offerings last year, I was a little confused. AT&T went first, then Verizon. 
 
 *Don’t worry*, they said—*hardly anyone goes over these new limits*. It seemed strange to me that they’d go out of their way to upset so many just to catch a few heavy users. 
 

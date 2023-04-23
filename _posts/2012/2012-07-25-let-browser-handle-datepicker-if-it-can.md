@@ -18,7 +18,7 @@ First, create an editor template to render DateTime properties:
 // in Views/Shared/EditorTemplates/DateTime.cshtml
 ﻿@model DateTime?
 @{ 
-     var value = (Model != null &amp;&amp; Model != DateTime.MinValue)
+     var value = (Model != null && Model != DateTime.MinValue)
         ? Model.Value.ToString("yyyy-MM-dd") 
         : ""; 
 }

@@ -70,7 +70,7 @@ Does this exist? Thoughts?
 
 **Brad Griffith said on 2011-12-04**
 
-Amazing idea, Michael. Are you going to develop the app? There are so many companies who could potentially invest or buy your technology. Let me know if you want a collaborator or a design &amp; development team.
+Amazing idea, Michael. Are you going to develop the app? There are so many companies who could potentially invest or buy your technology. Let me know if you want a collaborator or a design & development team.
 
 **phixed said on 2011-12-08**
 

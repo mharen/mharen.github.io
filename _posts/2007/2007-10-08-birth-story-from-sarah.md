@@ -23,7 +23,7 @@ title: Birth Story from Sarah
 
 7:00pm - my water breaks!
 
-7:30pm (because perinatal is SLOW) - they have checked to confirm my water breaking, moved me to L&amp;D, and started me on antibiotics for GBS; I am now 4cm dilated (yay!).  Contractions were very regular and pretty strong; I cried through some of them but DID NOT ask for drugs :)  I labored while walking around, in the bed, on the birthing ball, etc.  There was a point where I was becoming afraid of my contractions and as soon as they would start to decrease I would get scared of the next one.  I realized this and started to really concentrate on calming myself down.  I was also praying between them, which helped.
+7:30pm (because perinatal is SLOW) - they have checked to confirm my water breaking, moved me to L&D, and started me on antibiotics for GBS; I am now 4cm dilated (yay!).  Contractions were very regular and pretty strong; I cried through some of them but DID NOT ask for drugs :)  I labored while walking around, in the bed, on the birthing ball, etc.  There was a point where I was becoming afraid of my contractions and as soon as they would start to decrease I would get scared of the next one.  I realized this and started to really concentrate on calming myself down.  I was also praying between them, which helped.
 
 9:00pm - Midwife arrives (she had no idea I would be going so fast) and I'm dilated to 7cm!  I get in the tub and, while it was not easier at this point, I was able to relax a little bit.
 

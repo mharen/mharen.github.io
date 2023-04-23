@@ -114,7 +114,7 @@ void loop() {
     
     int Led = Byte - 48;
     
-    if(0 <= Led &amp;&amp; Led <= 2 &amp;&amp; ActiveLed != Led){
+    if(0 <= Led && Led <= 2 && ActiveLed != Led){
 
       // clear all pins to make debugging (i.e. messing up the state of the app) easier
       digitalWrite(LedPins[ActiveLed], LOW);

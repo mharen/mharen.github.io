@@ -11,7 +11,7 @@ I love comedy, who doesnâ€™t? Iâ€™ve been listening to a lot of comedy
 
 <h3>Mitch Hedberg</h3>
 
-Mitch is definitely my favorite comedian. Heâ€™s been on Letterman several times and has two CDâ€™s. His [first CD](http://www.amazon.com/exec/obidos/tg/detail/-/B0000YTOQM/qid=1122553318/sr=8-2/ref=pd_bbs_2/102-9141661-0839330?v=glance&amp;s=music&amp;n=507846) is now available in stores as is his [second CD](http://www.amazon.com/exec/obidos/tg/detail/-/B0000DZ3HR/qid=1122553318/sr=8-1/ref=pd_bbs_1/102-9141661-0839330?v=glance&amp;s=music&amp;n=507846), produced by Comedy Central. I highly recommend both discs. If you are new to Hedberg, though, go with the second disc.
+Mitch is definitely my favorite comedian. Heâ€™s been on Letterman several times and has two CDâ€™s. His [first CD](http://www.amazon.com/exec/obidos/tg/detail/-/B0000YTOQM/qid=1122553318/sr=8-2/ref=pd_bbs_2/102-9141661-0839330?v=glance&s=music&n=507846) is now available in stores as is his [second CD](http://www.amazon.com/exec/obidos/tg/detail/-/B0000DZ3HR/qid=1122553318/sr=8-1/ref=pd_bbs_1/102-9141661-0839330?v=glance&s=music&n=507846), produced by Comedy Central. I highly recommend both discs. If you are new to Hedberg, though, go with the second disc.
 
 I saw Mitch live last year and he was great. He had a lot of excellent new material and put on a great show. Unfortunately, he passed away last year. He will be missed. If you ever watch Comedy Centralâ€™s Comic Remix or Shorties Watching Shorties, youâ€™ve probably heard some of his jokes.
 

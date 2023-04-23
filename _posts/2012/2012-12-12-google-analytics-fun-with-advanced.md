@@ -12,7 +12,7 @@ The normal stats you get for your users are pretty nice:
 
 ![image%5B2%5D.png](image%5B2%5D.png)
 
-But this doesn’t show us how they’ve changed *over time*. For instance, how has Internet Explorer fared over the last two years? You can do this with [advanced segments](https://support.google.com/analytics/bin/answer.py?hl=en-GB&amp;answer=1033017&amp;topic=1032940&amp;rd=1).
+But this doesn’t show us how they’ve changed *over time*. For instance, how has Internet Explorer fared over the last two years? You can do this with [advanced segments](https://support.google.com/analytics/bin/answer.py?hl=en-GB&answer=1033017&topic=1032940&rd=1).
 
 Click the advanced segments button and add a few custom segments for the metric you’re interested in. In my case, I added one for browsers that look like IE, and browsers that don’t:
 

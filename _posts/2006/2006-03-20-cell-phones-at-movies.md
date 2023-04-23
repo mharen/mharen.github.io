@@ -12,7 +12,7 @@ I just saw yet another article about movie theaters wanting to jam cell phones. 
 
 Obviously there are problems with this. First, what if something bad happens? If there is an emergency and people cannot use their cell phones, try not to drown in the flood of lawsuits.
 
-That's probably why [jamming](http://www.cellantenna.com/CJAM/cjam.htm) [devices](http://www.globalgadgetuk.com/Personal.htm) are [illegal](http://wireless.fcc.gov/services/index.htm?job=operations_2&amp;id=cellular).
+That's probably why [jamming](http://www.cellantenna.com/CJAM/cjam.htm) [devices](http://www.globalgadgetuk.com/Personal.htm) are [illegal](http://wireless.fcc.gov/services/index.htm?job=operations_2&id=cellular).
 
 Other reasons apply to those that responsibly use their cell phones. When a phone is switched to silent, I don't care what you use it for. If you are texting away, checking email, playing [Nibbles](http://www.thepcmanwebsite.com/media/nibbles/) or whatever--if it isn't distracting from the movie, why should I care?
 

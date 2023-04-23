@@ -37,7 +37,7 @@ but instead I got this:
 <blockquote>
   
 ```cs
-/Search?s=blah&amp;x=0&amp;y=0
+/Search?s=blah&x=0&y=0
 ```
 
 </blockquote>
@@ -51,7 +51,7 @@ This was easily confirmed by actually clicking on the magnifying glass on my pag
 <blockquote>
   
 ```cs
-/Search?s=blah&amp;x=**<font color="#ff0000">5</font>**&amp;y=**<font color="#ff0000">3</font>**
+/Search?s=blah&x=**<font color="#ff0000">5</font>**&y=**<font color="#ff0000">3</font>**
 ```
 
 </blockquote>
@@ -65,7 +65,7 @@ Here’s a tiny line of jQuery which solved the problem for me:
 <blockquote>
   
 ```cs
-// disable the image submit buttons so the browser doesn't add &amp;x=&amp;y= to the qs
+// disable the image submit buttons so the browser doesn't add &x=&y= to the qs
 $('form.strip-img-inputs-on-submit').submit(function (e) {
     $(this).find('input[type=image]').attr('disabled', true);
 });

@@ -55,7 +55,7 @@ private static void UpdateAllFields(Document document)
 
     foreach (Shape S in document.Shapes)
     {
-        if (S.Type == Microsoft.Office.Core.MsoShapeType.msoTextBox &amp;&amp; S.TextFrame.HasText > 0)
+        if (S.Type == Microsoft.Office.Core.MsoShapeType.msoTextBox && S.TextFrame.HasText > 0)
         {
             S.TextFrame.TextRange.Fields.Update();
         }

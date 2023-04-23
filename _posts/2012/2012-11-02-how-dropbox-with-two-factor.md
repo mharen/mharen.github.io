@@ -9,7 +9,7 @@ title: How Dropbox with Two-Factor Authentication Neatly Handles Application Spe
 ---
 
 
-I am a long time fan of Dropbox and [two-factor authentication](http://support.google.com/accounts/bin/answer.py?hl=en&amp;answer=180744) (there’s a cool video there that explains what two-factor auth is if it’s news to you). When Dropbox added support for the “pain in the ass but worth it” way of making my data super (SUPER!) safe, I jumped on board.
+I am a long time fan of Dropbox and [two-factor authentication](http://support.google.com/accounts/bin/answer.py?hl=en&answer=180744) (there’s a cool video there that explains what two-factor auth is if it’s news to you). When Dropbox added support for the “pain in the ass but worth it” way of making my data super (SUPER!) safe, I jumped on board.
 
 It didn’t occur to me until today, though, how they handle application-specific passwords. That is, passwords for apps that aren’t aware of this two-factor business.
 
