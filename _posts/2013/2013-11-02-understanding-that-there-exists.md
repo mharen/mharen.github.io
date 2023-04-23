@@ -8,7 +8,6 @@ categories:
 title: Understanding (That There Exists) An Opposing View
 ---
 
-
 If you are passionate about anything, chances are you’ve found yourself wondering “how in the world could that person believe *x* about an issue?!”, where *x* is avoiding semicolons in javascript, using tabs instead of spaces, being pro-gun, anti-cupcake, etc.
 
 I used to find some of those moments very stressful. I’d be sitting there with lots of “evidence” and “research” to support my position, fuming about some *idiot who can’t use apostrophes correctly and is frickin’ ridiculous with his/her hyperbole and logical fallacies…*and get nowhere.

@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+hr {
+    width: 75%;
+    margin: auto;
+}
+hr + p {
+    margin-top: 15px;
+}

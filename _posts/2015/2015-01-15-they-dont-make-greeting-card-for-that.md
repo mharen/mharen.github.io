@@ -48,5 +48,5 @@ And we will cry some more.
 > *"You shouldn't get attached,"* people must think.
 
 > Maybe not. Attachment is best for him, even if it hurts us.
-> 
+
 And I hope. I hope we will work through our grief and forget how hard this is right now. I hope I forget how painful it is to type these words as I wipe my face after every sentence. Because then we can do it all over again for the next beautiful child that needs our home, if only for a little while.
