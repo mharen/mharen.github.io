@@ -35,4 +35,4 @@ Sometimes our favorite tool isn’t the best tool.
 
 I offer just one counterexample: educational coding. It’s absolutely ok to develop something that otherwise shouldn’t be written if the purpose in doing so is self-development.  
 
-(This should not be used as an argument against building new software—there’s a delicate balance between using off-the-shelf products and [rolling your own](../2011/2011-02-case-for-rolling-it-all-yourself.html).)
+(This should not be used as an argument against building new software—there’s a delicate balance between using off-the-shelf products and [rolling your own](../../2011/02/case-for-rolling-it-all-yourself.html).)

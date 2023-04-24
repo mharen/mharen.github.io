@@ -8,7 +8,7 @@ title: Two Cents on Healthcare, Part 2
 ---
 
 
-![image%5B12%5D.png](/assets/2009/image%5B12%5D.png) My friend Tiffany commented on [part 1](../2009/2009-08-two-cents-on-healthcare.html) of my healthcare posts on Facebook:
+![image%5B12%5D.png](/assets/2009/image%5B12%5D.png) My friend Tiffany commented on [part 1](../../2009/08/two-cents-on-healthcare.html) of my healthcare posts on Facebook:
 <blockquote> 
 
 Please address how and/or why the US will remain on the cutting edge of health care without dissolving into the bowels of mediocrity. And, what motivates our most outstanding physicians to continue practicing in this capitalist society? I look forward to your thoughts and will end with a smiley face in order to maintain lightheartedness. :) 

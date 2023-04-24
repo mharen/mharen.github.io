@@ -10,7 +10,7 @@ title: What I Miss From My Android as a New iPhone User
 ---
 
 
-If you’re just joining us, this is part two of my “OMG I just got an iPhone” series. You can read about what I love about the iPhone in the [previous post](../2011/2011-11-iphone-from-perspective-of-android.html). While preparing this post, I realized that I' put together a nice [overview of the awesomeness of Android](../2010/2010-09-things-i-love-about-android.html) 14 months ago. That post is still pretty valid and worth a read. I have a great chart over there that bears repeating:
+If you’re just joining us, this is part two of my “OMG I just got an iPhone” series. You can read about what I love about the iPhone in the [previous post](../../2011/11/iphone-from-perspective-of-android.html). While preparing this post, I realized that I' put together a nice [overview of the awesomeness of Android](../../2010/09/things-i-love-about-android.html) 14 months ago. That post is still pretty valid and worth a read. I have a great chart over there that bears repeating:
 
 ![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)
 
@@ -32,7 +32,7 @@ I think the next big thing in tech is going to be a ridiculously simple to use, 
 
 This is something that strikes me as a very “un-Apple” thing to do. The company that insists that two mouse buttons is too complicated doesn’t strike me as the company that ought to make updating my apps so hard. Actually, apps (optionally) update automatically on Android—I miss that.  <h5>![dinc%5B1%5D.jpg](/assets/2011/dinc%5B1%5D.jpg)A “Back” Button</h5>
 
-Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../2010/2010-09-things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
+Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../../2010/09/things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
 
 The comparable experience on iPhone is less than ideal. It goes like this:  <ul>   <li>While looking at some content, click a link or a notification </li>    <li>Something else opens, do whatever you want with it </li>    <li>To return to what you were doing before clicking the link or the notification: </li>    <li>Double-tap the home button and tap the app you *were *using </li> </ul>
 

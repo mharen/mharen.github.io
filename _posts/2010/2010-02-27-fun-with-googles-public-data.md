@@ -28,6 +28,6 @@ The total number of humans that have **ever lived</b> has been estimated at <b>1
 <b>Approximately 6% of all those people are alive today.**
 </blockquote>
 
-*Wow*. With the modern improvements to [life expectancy](http://www.google.com/publicdata?ds=wb-wdi&q=lifespan#met=sp_dyn_le00_in&tdim=true) and high rate of population growth ([10-15 years per billion](http://en.wikipedia.org/wiki/File:World_population_growth_-_time_between_each_billion-person_growth.jpg)), it might be a while before this 6% figure stabilizes (i.e. stops growing). 
+*Wow*. With the modern improvements to [life expectancy](http://www.google.com/publicdata?ds=wb-wdi&q=lifespan#met=sp_dyn_le00_in&tdim=true) and high rate of population growth ([15 years per billion](http://en.wikipedia.org/wiki/File:World_population_growth_-_time_between_each_billion-person_growth.jpg)), it might be a while before this 6% figure stabilizes (i.e. stops growing). 
 
 I’m not suggesting that this is a bad thing—not at all. I just find it interesting.

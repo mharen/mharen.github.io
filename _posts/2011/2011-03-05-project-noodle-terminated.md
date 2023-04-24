@@ -17,7 +17,7 @@ After working through some mockups and trying to define how we might measure a s
 
 The whole point of Project Noodle was to collect data with the goal of giving interviewers (e.g. *me*) feedback on how we’re doing. Since I can’t do that, I’ve decided to drop the project. 
 
-As I [just wrote](../2011/2011-03-code-isnt-always-best-tool.html), knowing when to do this is important but difficult.
+As I [just wrote](../../2011/03/code-isnt-always-best-tool.html), knowing when to do this is important but difficult.
 
 ---
 

@@ -9,7 +9,7 @@ title: Patching jQuery Validation for the iOS Date Picker
 ---
 
 
-If you’re trying to use [native datepickers](../2012/2012-07-let-browser-handle-datepicker-if-it-can.html) with <code><input type="date"/></code> in your app *and the jQuery Validate plugin for validation*, here's something you probably need to know.
+If you’re trying to use [native datepickers](../../2012/07/let-browser-handle-datepicker-if-it-can.html) with <code><input type="date"/></code> in your app *and the jQuery Validate plugin for validation*, here's something you probably need to know.
 
 I discovered, when testing my app on an iPhone, that the jQuery Validate plugin wasn’t working on my date inputs. It would always mark them invalid. Huh.
 

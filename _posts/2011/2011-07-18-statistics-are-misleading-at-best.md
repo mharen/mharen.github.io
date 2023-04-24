@@ -22,7 +22,7 @@ That’s a pretty different picture, isn’t it?
 
 I’m not posting this to indict or vindicate anyone. I’m not even going to guess at explanations for the dramatic changes in that chart. I only post this to encourage people to be skeptical of charts, and to be especially suspicious of sensationalism.
 
-Oh, and if you hate paying $3-4 dollars/gallon in the United States…[it could be worse](../2005/2005-09-gas-prices.html).
+Oh, and if you hate paying $3-4 dollars/gallon in the United States…[it could be worse](../../2005/09/gas-prices.html).
 
 ---
 

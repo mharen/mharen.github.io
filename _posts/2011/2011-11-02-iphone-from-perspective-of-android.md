@@ -22,7 +22,7 @@ My DINC, as the cool kids call the Droid Incredible, was good to me. I bought it
 
 I considered going with an iPhone 4 but at the time it wasn’t available on Verizon and lacked some features I really wanted (e.g. sane notifications and Google Voice integration). It was also not officially permitted by my company yet. Also, I’m a tinkerer and love the openness of the Android system and the community around it.
 
-Here we are, 15 months later and now I have an iPhone 4S. A lot of people who know my history with WinMo, Android, and now iPhone have asked about my thoughts on the matter. Here they come in two acts:  <ol>   <li>What I love about the iPhone as a former Android user (this post) </li>    <li>What I miss from my Android as a new iPhone user and final conclusions ([next post](../2011/2011-11-what-i-miss-from-my-android-as-new.html)) </li> </ol>
+Here we are, 15 months later and now I have an iPhone 4S. A lot of people who know my history with WinMo, Android, and now iPhone have asked about my thoughts on the matter. Here they come in two acts:  <ol>   <li>What I love about the iPhone as a former Android user (this post) </li>    <li>What I miss from my Android as a new iPhone user and final conclusions ([next post](../../2011/11/what-i-miss-from-my-android-as-new.html)) </li> </ol>
 
 Let’s go.  <h4>What I love about the iPhone as a former Android user</h4>  <h5>App quality</h5>
 
@@ -86,4 +86,4 @@ I don’t know how people are doing it better on iPhone, but they do.  <div alig
 
 I’m sure I’ll think of many more as soon as I post this…
 
-Now before you brush me off as a shameless, converted fan boy, check back for the next post wherein I detail the [things I miss from my Droid](../2011/2011-11-what-i-miss-from-my-android-as-new.html) and cry about the fact that I’ll never get them in the mean, closed world of iPhone.
+Now before you brush me off as a shameless, converted fan boy, check back for the next post wherein I detail the [things I miss from my Droid](../../2011/11/what-i-miss-from-my-android-as-new.html) and cry about the fact that I’ll never get them in the mean, closed world of iPhone.

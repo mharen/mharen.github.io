@@ -17,7 +17,7 @@ The app parses XML files from the Internet and extracts a temperature value. If 
 
 ![IMAG0774%5B4%5D.jpg](/assets/2010/IMAG0774%5B4%5D.jpg)
 
-Build, circuit, schematic, and Arduino code are identical to my [previous project](../2010/2010-11-arduino-day-11-extreme-feedback-for.html" target="_blank).  <h4>C# (Updated)</h4>
+Build, circuit, schematic, and Arduino code are identical to my [previous project](../../2010/11/arduino-day-11-extreme-feedback-for.html" target="_blank).  <h4>C# (Updated)</h4>
 <blockquote>   
 ```cs
 static void Main(string[] args)

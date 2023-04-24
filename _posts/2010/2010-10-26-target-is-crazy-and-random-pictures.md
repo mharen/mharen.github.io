@@ -80,7 +80,7 @@ We were in Cereal City so bizarre sites like this were common:
 
 ![image%5B30%5D.png](/assets/2010/image%5B30%5D.png)
 
-Antivirus [being helpful](../2010/2010-10-some-thoughts-on-antivirus-and-why-i.html) and totally not ruining the Weather Channel, though to be fair, it’s accuracy is about on par with the forecast (zing—[weather joke](http://instantrimshot.com/)!):
+Antivirus [being helpful](../../2010/10/some-thoughts-on-antivirus-and-why-i.html) and totally not ruining the Weather Channel, though to be fair, it’s accuracy is about on par with the forecast (zing—[weather joke](http://instantrimshot.com/)!):
 
 ![IMAG0375%5B4%5D.jpg](/assets/2010/IMAG0375%5B4%5D.jpg)
 

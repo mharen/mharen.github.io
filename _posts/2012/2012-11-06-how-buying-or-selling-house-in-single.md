@@ -9,28 +9,23 @@ categories:
 title: How Buying or Selling a House in a Single Day Could Work
 ---
 
+[Previously](../../2012/11/death-by-thousand-paper-cuts-way-we-buy.html) I discussed why I think the real estate transactions are handled is headed for major change:
 
-[Previously](../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html) I discussed why I think the real estate transactions are handled is headed for major change:
-<blockquote> 
-
-**The market is craving disruption (Zillow was just the beginning).** It is bloated with a surplus of homes and sellers everywhere are anxious…
-</blockquote>
+> **The market is craving disruption (Zillow was just the beginning).** It is bloated with a surplus of homes and sellers everywhere are anxious…
 
 And,
-<blockquote> 
 
-**…we’re talking about big money.** The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
-</blockquote>
+> **…we’re talking about big money.** The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
 
-Head [back there](../2012/2012-11-death-by-thousand-paper-cuts-way-we-buy.html) for a bit more explanation if you aren’t convinced the way we do this now is awful.
+Head [back there](../../2012/11/death-by-thousand-paper-cuts-way-we-buy.html) for a bit more explanation if you aren’t convinced the way we do this now is awful.
 
 But how could this all be different? I think it’s a lot simpler than you might imagine. Let’s consider another process for buying really expensive things: cars.
 
-(Or skip this part and [jump straight](#enough-already) to a story about how great house shopping could be.)
+(Or skip this part and [jump straight](#ok-enough-already-how-would-it-work) to a story about how great house shopping could be.)
 
 You can walk into a dealership and purchase a nice car or truck for $30,000-40,000. That’s a lot of money, and has a monthly payment<sup id="sup1-20121106">[1](#foot1-20121106)</sup> comparable to a house<sup id="sup2-20121106">[2](#foot2-20121106)</sup> worth about $140,000. And all it takes is a driver license and your afternoon (and probably good credit). Let’s examine how the car people do it.
 
-![house%20equals%20car.jpg](/assets/2012/house%20equals%20car.jpg)
+![house equals car.jpg](/assets/2012/house equals car.jpg)
 
 Even though it’s masked in mountains of paperwork, you really only need two things to convince a bank to loan you money: collateral that they can go after if you can’t pay them back and some assurance that you will make your payments. The car people have streamlined everything around these two things to make the process quick.
 
@@ -48,7 +43,9 @@ The same goes for the home inspection.
 
 Similarly, buyers could do much of their share of the work in advance, too. This is probably what was envisioned when people started getting preapproved, but there could be a lot more of the process completed in advance, before the property is chosen.
 
-The second way you could address some of the milestones is to provide those services on demand, rapidly. For instance, a “fast track” team could show up on demand with all the people, equipment, and documents needed to complete a transaction. They could charge a premium for the convenience, but as I discussed yesterday, there’s plenty of money to go around. This might be a successful approach, but I think the first strategy is better so I’ll describe a way it could play out.  <h3 id="enough-already">OK ENOUGH ALREADY! HOW WOULD IT WORK?</h3>
+The second way you could address some of the milestones is to provide those services on demand, rapidly. For instance, a “fast track” team could show up on demand with all the people, equipment, and documents needed to complete a transaction. They could charge a premium for the convenience, but as I discussed yesterday, there’s plenty of money to go around. This might be a successful approach, but I think the first strategy is better so I’ll describe a way it could play out.  
+
+### OK ENOUGH ALREADY! HOW WOULD IT WORK?
 
 **Suspend your disbelief and imagine the following scenario.** Suppose you are a “fast track” buyer looking to buy a “fast track” house. Further imagine that “fast track” is a thing that’s been around a while and is quite popular. In this fantasy, “fast track” means that a home or buyer has been certified by some group or company to carry the “fast track” logo, indicating that they’ve met some important criteria.
 
@@ -82,7 +79,14 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 <sup id="foot2-20121106">[2](#sup2-20121106)</sup>$667/month would pay for a $140,000 house figuring a 30 year loan with 4% APR, excl. down payment, insurance, taxes, etc.     
 
-<sup id="foot3-20121106">[3](#sup3-20121106)</sup>or prearrange for financing with your bank.     <hr />Photo credits:    <ul>   <li>[Honda Odyssey](http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&ModelName=Odyssey&ModelYear=2013) </li>    <li>[Random house that costs $140k](http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1) </li> </ul>
+<sup id="foot3-20121106">[3](#sup3-20121106)</sup>or prearrange for financing with your bank.    
+
+ <hr />
+ 
+ Photo credits:
+ 
+ * [Honda Odyssey](http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&ModelName=Odyssey&ModelYear=2013)
+ * [Random house that costs $140k](http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1)
 
 ---
 

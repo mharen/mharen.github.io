@@ -22,7 +22,7 @@ At this stage, I am really interested in two key things:  <ol>   <li>Does my sch
 
 And so, being the semi-disciplined person I am (or at least when I’m blogging about a recommendation), I will check these two things.   <h4>Does my schema cover everything?</h4>
 
-In another window I brought up the [mockups](../2010/2010-09-my-new-project-initial-mockups.html). Right off the bat, I’m finding a gap in what I need to capture and what my schema supports:  <ul>   <li>I don’t have anywhere to store why, when, or where a candidate is to be interviewed </li>    <li>I don’t have anywhere to store a candidates picture, or resume </li>    <li>I don’t have anywhere to store a candidates actual offer or hire status </li> </ul>
+In another window I brought up the [mockups](../../2010/09/my-new-project-initial-mockups.html). Right off the bat, I’m finding a gap in what I need to capture and what my schema supports:  <ul>   <li>I don’t have anywhere to store why, when, or where a candidate is to be interviewed </li>    <li>I don’t have anywhere to store a candidates picture, or resume </li>    <li>I don’t have anywhere to store a candidates actual offer or hire status </li> </ul>
 
 So let’s fix that together. It looks like I need something akin to an “interview master” table which will store the details of a block of interviews. This can’t really go in the candidates table since a single candidate could come in multiple times. 
 

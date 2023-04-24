@@ -11,7 +11,7 @@ title: Dear Michael (Response from Once Upon A Child)
 ---
 
 
-My [silly letter](../2011/2011-01-dear-once-upon-child.html" target="_blank) sent to the operator of my local Once Upon A Child received the following response:  <blockquote style="border-left: #b3bdff 2px solid; padding-left: 5px; font-size: 0.9em;"> 
+My [silly letter](../../2011/01/dear-once-upon-child.html" target="_blank) sent to the operator of my local Once Upon A Child received the following response:  <blockquote style="border-left: #b3bdff 2px solid; padding-left: 5px; font-size: 0.9em;"> 
 
 Dear Michael,  
 

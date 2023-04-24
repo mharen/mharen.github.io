@@ -7,14 +7,15 @@ categories:
 title: 'Amazon Prime: The Good, the Bad and the (Possibly) Ugly'
 ---
 
+![amazon prime logo](/assets/2012/prime-2.png)
 
-![prime%5B2%5D.png](/assets/2012/prime%5B2%5D.png)I’ve had Amazon Prime for a couple of years now and it’s awesome. The freedom to buy pretty much anything without worrying about a $25 minimum or when things will arrive is great. It’s insane that they are able to deliver service like this for so little. Since they have warehouses all over the place, the real trick is internal logistics, I think (not the shipping speed—most orders to me come from neighboring states). 
+I’ve had Amazon Prime for a couple of years now and it’s awesome. The freedom to buy pretty much anything without worrying about a $25 minimum or when things will arrive is great. It’s insane that they are able to deliver service like this for so little. Since they have warehouses all over the place, the real trick is internal logistics, I think (not the shipping speed—most orders to me come from neighboring states). 
 
 It’s still a big trick when you consider that I can order a carton of macaroni and cheese or a memory upgrade for my laptop pretty late into the evening and have it on my doorstep the next day for $4, or the day after for free (with a membership). Nutso.
 
 Recently I noticed this twist on the “[no rush](http://www.amazon.com/gp/help/customer/display.html/ref=hp_navbox_overview_norush?nodeId=200444160#norush)” option when checking out with Amazon Prime:
 
-![image2.png](/assets/2012/image2.png)</a>
+![amazon website showing options for different shipping speeds, including "free no-rush delivery" for a $1 credit to spend on mp3s](/assets/2012/no-rush.png)
 
 They’re offering me a $1 in MP3s to use the “slower” shipping speed. I’ve actually used the “no rush” option before when I wasn’t given anything for it just because I didn’t really care how long it took to get my next furnace filter or mega-pack of batteries. But sometimes they give me this incentive. I’m curious…
 
@@ -26,19 +27,15 @@ That’s all good stuff.
 
 **But there’s something bad **sweeping in under the name of “[add-on items](http://www.amazon.com/gp/help/customer/display.html?nodeId=200876660)”. 
 
-![add-item%5B2%5D.jpg](/assets/2012/add-item%5B2%5D.jpg)
+![an add-to-cart button that indicates the item ships only with a qualifying order over $25](/assets/2012/add-item-2.jpg)
 
 I first came across these when I tried to buy a [super cheap phone mount ](http://www.amazon.com/Wazes-Universal-Mount-your-Smartphone/dp/B004O7S7Z0)for my car. Amazon wouldn’t let me buy it unless it was part of a $25+ order. Even if I was willing to pay for shipping. Even [with Prime](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200876660#prime):
-<blockquote> 
 
-When you add an Add-on Item to an Amazon Prime order of more than $25, your Add-on Item will also receive Prime shipping benefits, including FREE Two-Day Shipping. For example, if you ordered five $5 pacifiers, each of which was an Add-on Item, your order would receive FREE Two-Day Shipping.
-</blockquote>
+> When you add an Add-on Item to an Amazon Prime order of more than $25, your Add-on Item will also receive Prime shipping benefits, including FREE Two-Day Shipping. For example, if you ordered five $5 pacifiers, each of which was an Add-on Item, your order would receive FREE Two-Day Shipping.
 
 I actually believe some of the explanation they’re giving for this: 
-<blockquote> 
 
-The new Add-on program allows Amazon to offer thousands of items at a low price point that would be cost-prohibitive to ship on their own.
-</blockquote>
+> The new Add-on program allows Amazon to offer thousands of items at a low price point that would be cost-prohibitive to ship on their own.
 
 But it doesn’t matter. **This is still aggravating in a bizarrely visceral way.** To me, the Amazon I love doesn’t play games like this. They ship all kinds of wacky stuff for free and we love them for it. They make bazillions of dollars because of their scale and we love them all the more for eating a couple of bucks here or there when we order a tube of toothpaste and nothing else. 
 
@@ -47,17 +44,13 @@ But now it feels like they’ve found a loophole. And it sucks. And I feel even 
 **This brings me to the ugly.**
 
 There are an increasingly large number of stories out there about the perils of working for huge retailers like Amazon. For instance, I recommend [this fascinating tale](http://www.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor) of what it’s like to work as a picker in a giant warehouse by Mac McClelland of MotherJones:
-<blockquote> 
 
-I'll admit that I did start crying a little. Not at work, thankfully, since that's evidently frowned upon, but later, when I explained to someone over Skype that it hurts, oh, how my body hurts after failing to make my goals despite speed-walking or flat-out jogging and pausing every 20 or 30 seconds to reach on my tiptoes or bend or drop to the floor for 10.5 hours, and isn't it awful that they fired Brian because he had a baby, and, in fact, when I was hired I signed off on something acknowledging that anyone who leaves without at least a week's notice—whether because they're a journalist who will just walk off or because they miss a day for having a baby and are terminated—has their hours paid out not at their hired rate but at the legal minimum. Which in this state, like in lots of states, is about $7 an hour. Thank God that I (unlike Brian, probably) didn't need to pay for opting into Amalgamated's "limited" health insurance program. Because in my 10.5-hour day I'll make about $60 after taxes.  
-
-"This is America?" my Skype pal asks, because often I'm abroad.
-</blockquote>
+> I'll admit that I did start crying a little. Not at work, thankfully, since that's evidently frowned upon, but later, when I explained to someone over Skype that it hurts, oh, how my body hurts after failing to make my goals despite speed-walking or flat-out jogging and pausing every 20 or 30 seconds to reach on my tiptoes or bend or drop to the floor for 10.5 hours, and isn't it awful that they fired Brian because he had a baby, and, in fact, when I was hired I signed off on something acknowledging that anyone who leaves without at least a week's notice—whether because they're a journalist who will just walk off or because they miss a day for having a baby and are terminated—has their hours paid out not at their hired rate but at the legal minimum. Which in this state, like in lots of states, is about $7 an hour. Thank God that I (unlike Brian, probably) didn't need to pay for opting into Amalgamated's "limited" health insurance program. Because in my 10.5-hour day I'll make about $60 after taxes.  
+>
+> "This is America?" my Skype pal asks, because often I'm abroad.
 
 The author never says she worked at Amazon and I’m not making that connection here. It’s tough to revere them quite so much when I read stories about the general business like that. Or stories [like this](http://www.mcall.com/news/local/amazon/mc-allentown-amazon-complaints-20110917,0,6503103.story), which *definitely *happened at Amazon:
-<blockquote> 
 
-Workers said they were forced to endure brutal heat inside the sprawling warehouse and were pushed to work at a pace many could not sustain. Employees were frequently reprimanded regarding their productivity and threatened with termination, workers said. The consequences of not meeting work expectations were regularly on display, as employees lost their jobs and got escorted out of the warehouse. Such sights encouraged some workers to conceal pain and push through injury lest they get fired as well, workers said.
-</blockquote>
+> Workers said they were forced to endure brutal heat inside the sprawling warehouse and were pushed to work at a pace many could not sustain. Employees were frequently reprimanded regarding their productivity and threatened with termination, workers said. The consequences of not meeting work expectations were regularly on display, as employees lost their jobs and got escorted out of the warehouse. Such sights encouraged some workers to conceal pain and push through injury lest they get fired as well, workers said.
 
 But maybe the big yellow-orange smile [is listening](http://theweek.com/article/index/230950/amazons-worker-education-program-a-sweatshop-cover-up)? I hope so.

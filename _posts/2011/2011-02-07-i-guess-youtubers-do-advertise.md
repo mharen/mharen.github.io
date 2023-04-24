@@ -9,7 +9,7 @@ title: "I Guess YouTuber's *Do* Advertise"
 ---
 
 
-In [my last post](../2011/2011-02-end-of-super-bowl-style-advertising.html" target="_blank) I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:
+In [my last post](../../2011/02/end-of-super-bowl-style-advertising.html" target="_blank) I declared an end to traditional comedic advertising on television and ended with a question about replacing it with YouTube:
 <blockquote> 
 
 But what about actual advertising?

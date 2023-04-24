@@ -10,7 +10,7 @@ title: Apache Reverse Proxy Implemented
 
 Note to off-site viewers: this post has pictures. If you don’t see them, come to the site for a better view!
 
-This is a follow-up on my [previous post](../2009/2009-07-structuring-our-developer-tools-with.html) about the server architecture I setup to support my company’s developers. This was the goal:
+This is a follow-up on my [previous post](../../2009/07/structuring-our-developer-tools-with.html) about the server architecture I setup to support my company’s developers. This was the goal:
 
 &#160; ![image%5B11%5D.png](/assets/2009/image%5B11%5D.png) 
 

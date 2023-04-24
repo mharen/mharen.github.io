@@ -31,7 +31,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Frequency: **occasional
 
-**Triggers:** child maintains persistent level 2 activity, performs are-you-kidding-me actions like [dumping glitter all over the place](../2010/2010-12-life-lessons-about-glitter.html" target="_blank), or perpetrates hitting/violence or outright malicious speech toward others
+**Triggers:** child maintains persistent level 2 activity, performs are-you-kidding-me actions like [dumping glitter all over the place](../../2010/12/life-lessons-about-glitter.html" target="_blank), or perpetrates hitting/violence or outright malicious speech toward others
 
 **Child’s Grievance:** who knows?
 

@@ -6,26 +6,25 @@ categories:
 - nablopomo 2012
 - code
 - technology
-title: "SQL Server 2012: \u201CSaving changes is not permitted\u2026\u201D"
+title: "SQL Server 2012: \"Saving changes is not permitted...\""
 ---
 
 Are you riding the new SQL Server 2012 HAWTNESS? Good for you. Did you try to make a table change in Management Studio that requires a table rebuild? Ouch. So you’ve seen this, then:
 
-![alter%5B2%5D.png](/assets/2012/alter%5B2%5D.png)
-<blockquote> 
+![alter.png](/assets/2012/alter.png)
 
-“Saving changes is not permitted. The changes you have made require the following tables to be dropped and re-created. You have either made changes to a table that can’t be re-created **or enabled the option Prevent saving changes that require the table to be re-created.**”
+> “Saving changes is not permitted. The changes you have made require the following tables to be dropped and re-created. You have either made changes to a table that can’t be re-created **or enabled the option Prevent saving changes that require the table to be re-created.**”
 </blockquote>
 
 So the answer’s right there, but it’s at the end of a really long blob of text so you are forgiven if you missed it. Before you close your table change designer (and lose those precious table changes), just go uncheck that box in the options:
 
-![change%20options%5B2%5D.png](/assets/2012/change%20options%5B2%5D.png)
+![change%20options.png](/assets/2012/change%20options.png)
 
 Now try saving again. Good to go? Cool.
 
 Now it will revert to the behavior it used in SSMS 2008 where it will still warn you if it thinks scary things might happen:
 
-![warning%5B2%5D.png](/assets/2012/warning%5B2%5D.png)
+![warning.png](/assets/2012/warning.png)
 
 But it’ll let you continue.
 
