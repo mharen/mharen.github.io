@@ -3,52 +3,32 @@ layout: post
 date: '2012-04-13T14:45:00.001-04:00'
 categories:
 - database
-
 - code
 - technology
 title: How To Restore a Database With Active Connections
 ---
 
-
 If you’ve ever tried to restore over top of an existing database in SQL Server, you may be familiar with messages like these:
-<blockquote> 
 
-Msg 5061, Level 16, State 1, Line 1 ALTER DATABASE failed because a lock could not be placed on database 'foo'. Try again later    <pre><code><font face="Trebuchet MS">Exclusive access could not be obtained because the database is in use.
+Msg 5061, Level 16, State 1, Line 1 ALTER DATABASE failed because a lock could not be placed on database 'foo'. Try again later    
 
-RESTORE DATABASE is terminating abnormally.</font></code>
+```
+Exclusive access could not be obtained because the database is in use.
+
+RESTORE DATABASE is terminating abnormally.
 ```
 
-</blockquote>
-
-<pre><font face="Trebuchet MS">What’s going on here is that you need exclusive access to the DB but someone’s already there. Here’s the simplest approach I know of to get in there and get busy:</font>
-```
-
-
-<pre><font face="Trebuchet MS">Figure out who should be kicked off the system:</font>
-```
-
-
-<blockquote>
+What’s going on here is that you need exclusive access to the DB but someone’s already there. Here’s the simplest approach I know of to get in there and get busy:
   
-```cs
+```sql
 EXEC sp_who2 
 ```
 
-</blockquote>
-
-<pre><font face="Trebuchet MS">![SNAG-00242.png](/assets/2012/SNAG-00242.png)</a></font>
-```
-
-
-
-Copy down all the SPIDs associated with the DB you want to overwrite. Obviously your DB will be there instead of “OMS”—that’s mine, get your own!
-
+Copy down all the SPIDs associated with the DB you want to overwrite. Obviously your DB will be there instead of `YourDb` mine, get your own!
 
 Then fill those numbers into this script:
-
-<blockquote>
   
-```cs
+```sql
 -- Lookup users on YourDb with ‘sp_who2’, then kill their SPIDs like this:
 KILL 51   
 KILL 52
@@ -64,9 +44,9 @@ GO
 -- TIP: you can generate this restore command from the "Restore" dialog!
 -- TIP: change "STATS = 10" to "STATS = 1" for more feedback on long restores
 RESTORE DATABASE YourDb FROM  
-    DISK = N'G:\MSSQL\MSSQL\BACKUP\Yourbackup.bak' WITH  FILE = 1,  
-    MOVE N'OMS_Data' TO N'G:\MSSQL\MSSQL\Data\Data.MDF',  
-    MOVE N'OMS_Log' TO N'G:\MSSQL\MSSQL\Data\Log.LDF',  
+    DISK = N'G:\MSSQL\MSSQL\BACKUP\YourDbbackup.bak' WITH  FILE = 1,  
+    MOVE N'YourDb_Data' TO N'G:\MSSQL\MSSQL\Data\Data.MDF',  
+    MOVE N'YourDb_Log' TO N'G:\MSSQL\MSSQL\Data\Log.LDF',  
     NOUNLOAD,  REPLACE,  STATS = 1
 GO
 
@@ -74,8 +54,5 @@ GO
 ALTER DATABASE YourDb SET Multi_User
 GO
 ```
-
-</blockquote>
-
 
 That should do it.
