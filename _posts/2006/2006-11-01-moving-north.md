@@ -14,7 +14,7 @@ I think we've made arrangements with all necessary persons (his-work, her-work, 
 
 **We are moving to Ohio!**
 
-<div style="text-align: center;">![moving.JPG](moving.JPG)I am transferring from the [Apex branch](http://maps.google.com/maps?f=q&hl=en&q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&ie=UTF8&z=15&om=1&iwloc=addr) to the [main office](http://maps.google.com/maps?f=q&hl=en&q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&ie=UTF8&z=15&om=1&iwloc=addr) in Aurora and Sarah will be hunting for new and exciting work in the area.
+<div style="text-align: center;">![moving.JPG](/assets/2006/moving.JPG)I am transferring from the [Apex branch](http://maps.google.com/maps?f=q&hl=en&q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&ie=UTF8&z=15&om=1&iwloc=addr) to the [main office](http://maps.google.com/maps?f=q&hl=en&q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&ie=UTF8&z=15&om=1&iwloc=addr) in Aurora and Sarah will be hunting for new and exciting work in the area.
 
 We're planning to move in January or February.
 

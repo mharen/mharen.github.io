@@ -26,7 +26,7 @@ I have a Linux box running at home (which happens to run this website). Here's h
 </ol>
 
 
-![ssh-tunnel.png](ssh-tunnel.png)That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a [Gentoo-Linux](http://www.gentoo.org/main/en/about.xml) machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
+![ssh-tunnel.png](/assets/2008/ssh-tunnel.png)That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a [Gentoo-Linux](http://www.gentoo.org/main/en/about.xml) machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
 
 **Setup a server at home to accept SSH connections**
 
@@ -56,13 +56,13 @@ This part's a piece of cake so long as you keep the referencing straight. Since 
 
 
 
- ![proxy.png](proxy.png)**Configure SSH client's tunnel **
+ ![proxy.png](/assets/2008/proxy.png)**Configure SSH client's tunnel **
 
 Now that the server and client are configured, all we need to do is bridge them together. Inside Putty, create a tunnel like so:
 
 
 
-![putty-cfg.png](putty-cfg.png)**Benefits, Issues and Alternatives **
+![putty-cfg.png](/assets/2008/putty-cfg.png)**Benefits, Issues and Alternatives **
 
 This works well but won't be a walk in the park to configure if you're new to networking or Linux--I skipped a lot of steps. There are also some speed issues as this is routing in/out of my home broadband connection which isn't very fast and in the cases of others, might be firewalled at the ISP level.
 

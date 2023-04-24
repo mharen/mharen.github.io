@@ -15,9 +15,9 @@ Today’s build was a fun one for Thing 1. It’s basically just two CdS light s
 
   <h4>Build</h4>
 
-![IMAG0800%5B7%5D.jpg](IMAG0800%5B7%5D.jpg)</a>
+![IMAG0800%5B7%5D.jpg](/assets/2010/IMAG0800%5B7%5D.jpg)</a>
 
-![IMAG0803%5B5%5D.jpg](IMAG0803%5B5%5D.jpg)</a>  <h4>Code</h4>
+![IMAG0803%5B5%5D.jpg](/assets/2010/IMAG0803%5B5%5D.jpg)</a>  <h4>Code</h4>
 
 There’s nothing too fancy going on here. The only real trick (if you can call it that) is to read in the ambient analog values at startup so you can compare against them later. This is much more effective than hard-coding a threshold.
 <blockquote>   

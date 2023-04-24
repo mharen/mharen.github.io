@@ -17,7 +17,7 @@ Anyway, after playing around with beeps, I wired up Mary Had a Little Lamb and p
 
 It seems that I am completely tone deaf. Not only did I have the scale in the wrong order (high vs. low), I had all kinds of wrong notes in there. Lucky for me, I’m married to a musical wonder who helped me out. She set me straight with a proper set of notes and then helped me read music from the Internet. At several points, she even corrected the music we found (and her corrections *always *sounded better). Incredible. 
 
-![privatepractice%5B7%5D.jpg](privatepractice%5B7%5D.jpg)Speaking of Incredible, did you guys see “The Incredibles”? That movie was awesome. You know what’s not awesome? “Private Practice”. It’s like they took the worst parts of Grey’s Anatomy, crapped it down a toilet, and after traveling down the coastal sewer system (gathering steam along the way), it emerged as the ridonkulous show we have today. The worst of it is that I can’t figure out why Grey’s still exists—it has no good parts left.
+![privatepractice%5B7%5D.jpg](/assets/2010/privatepractice%5B7%5D.jpg)Speaking of Incredible, did you guys see “The Incredibles”? That movie was awesome. You know what’s not awesome? “Private Practice”. It’s like they took the worst parts of Grey’s Anatomy, crapped it down a toilet, and after traveling down the coastal sewer system (gathering steam along the way), it emerged as the ridonkulous show we have today. The worst of it is that I can’t figure out why Grey’s still exists—it has no good parts left.
 
 These shows are simply absurd in every way. Crazy stuff happens on “House MD”, too, but at least they worked it into the story by saying that House is this genius doctor who only takes crazy cases. Private Practice is about a crummy, nearly bankrupt group of doctors with debilitating personal issues who somehow find themselves in the most controversial, insane situations *every day*. If I had one wish, world peace, ending poverty or hunger or whatever would probably win, but ending this show and erasing all memory of it would be up there.
 
@@ -27,11 +27,11 @@ These shows are simply absurd in every way. Crazy stuff happens on “House MD�
 
 Today’s build was very easy. Most of my time was spent working on code and learning about music notes.
 
-![IMAG0682%5B8%5D.jpg](IMAG0682%5B8%5D.jpg)  <h4>Circuit</h4>
+![IMAG0682%5B8%5D.jpg](/assets/2010/IMAG0682%5B8%5D.jpg)  <h4>Circuit</h4>
 
-![Day%204%20-%20bb%5B6%5D.png](Day%204%20-%20bb%5B6%5D.png)  <h4>Schematic</h4>
+![Day%204%20-%20bb%5B6%5D.png](/assets/2010/Day%204%20-%20bb%5B6%5D.png)  <h4>Schematic</h4>
 
-![Day%204%20-%20Schematic%5B6%5D.png](Day%204%20-%20Schematic%5B6%5D.png)  <h4>Code</h4>
+![Day%204%20-%20Schematic%5B6%5D.png](/assets/2010/Day%204%20-%20Schematic%5B6%5D.png)  <h4>Code</h4>
 
 Today’s code was ultimately very simple…it just took a while to prune it down to the essentials listed below. As I mentioned, Sarah put the list of notes together and helped translate the song’s music into the encoded note, length, and rest values.
 

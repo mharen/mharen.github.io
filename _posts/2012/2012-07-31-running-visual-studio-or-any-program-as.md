@@ -3,7 +3,7 @@ layout: post
 date: '2012-07-31T09:54:00.001-04:00'
 categories:
 - windows
-- work
+
 - technology
 title: Running Visual Studio (or Any Program) As An Administrator Without Prompting
   for Elevation
@@ -18,7 +18,7 @@ As a developer, I often find myself doing things that only administrators can do
 
 For years, I have simply launched my Visual Studio instances from a “Run as Administrator”-decorated short cut on my task bar like this:
 
-![SNAG-0051%5B4%5D.png](SNAG-0051%5B4%5D.png)</a>  
+![SNAG-0051%5B4%5D.png](/assets/2012/SNAG-0051%5B4%5D.png)</a>  
 
 **<font color="#ff0000">Keep reading—there’s a better way than this for frequently used programs!</font>**
 
@@ -30,7 +30,7 @@ Then I removed the “Run as Administrator” changes I made years back and thin
 
 Careful users will note that this fix will probably break if the program is changed since many of the executable’s attributes are used to identify the program for fixing:
 
-![SNAG-0052%5B2%5D.png](SNAG-0052%5B2%5D.png)</a>
+![SNAG-0052%5B2%5D.png](/assets/2012/SNAG-0052%5B2%5D.png)</a>
 
 You can customize those when you create the fix, but I’m sticking with the defaults, which seem very narrow. I prefer to update the rule if the executable changes than have a new executable automatically receive the special treatment available through the compatibility fix.
 

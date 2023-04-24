@@ -25,13 +25,13 @@ Today’s build is another extension on the sound thing I’ve been working on. 
 
   <h4>Build</h4>
 
-![IMAG0707%5B8%5D.jpg](IMAG0707%5B8%5D.jpg)  <h4>Circuit</h4>
+![IMAG0707%5B8%5D.jpg](/assets/2010/IMAG0707%5B8%5D.jpg)  <h4>Circuit</h4>
 
 Since this build was a very minor addition to my previous circuits, I’m only showing the simple changes here:
 
-![Sketch_bb%5B6%5D.png](Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
+![Sketch_bb%5B6%5D.png](/assets/2010/Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
 
-![Sketch_schem%5B14%5D.png](Sketch_schem%5B14%5D.png)  <h4>Code</h4>
+![Sketch_schem%5B14%5D.png](/assets/2010/Sketch_schem%5B14%5D.png)  <h4>Code</h4>
 
 The only changes today were in the Loop() routine:
 <blockquote>   

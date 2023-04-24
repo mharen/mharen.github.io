@@ -10,7 +10,7 @@ title: Check Out This Hot Dog
 If all goes smoothly, this may be our new friend!:
 
 
-<div style="text-align: center;">![carl.jpg](carl.jpg)He is a four-month old beagle/basset hound. We've spent a fair amount of time with him at the [SPCA](http://www.spcawake.org) and really like him. If our application comes through and the timing works out, we will be all set.
+<div style="text-align: center;">![carl.jpg](/assets/2005/carl.jpg)He is a four-month old beagle/basset hound. We've spent a fair amount of time with him at the [SPCA](http://www.spcawake.org) and really like him. If our application comes through and the timing works out, we will be all set.
 
 Now all we need is a name! We have several ideas, including:<ul>
 

@@ -2,7 +2,7 @@
 layout: post
 date: '2012-07-25T20:57:00.001-04:00'
 categories:
-- work
+
 - code
 - technology
 title: Patching jQuery Validation for the iOS Date Picker

@@ -10,7 +10,7 @@ title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 
 A colleague asked me a C# question on [Twitter](http://twitter.com/#!/XOver9000/status/29231958731):  
 
-![image%5B1%5D.png](image%5B1%5D.png)
+![image%5B1%5D.png](/assets/2010/image%5B1%5D.png)
 
 I had some trouble responding in 140 characters, so I replied with [a](http://twitter.com/#!/mharen/status/29232621954) [few](http://twitter.com/#!/mharen/status/29232755840) [tweets](http://twitter.com/#!/mharen/status/29232755840) that really didn’t do the question justice. There are a few issues at hand: style and correctness. 
 

@@ -2,7 +2,6 @@
 layout: post
 date: '2012-12-11T10:18:00.001-05:00'
 categories:
-- work
 - code
 - technology
 - sap

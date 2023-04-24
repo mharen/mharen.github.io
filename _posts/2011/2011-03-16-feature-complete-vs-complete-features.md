@@ -25,7 +25,7 @@ And plenty of other significant problems:  <li>No keypad</li>  <li>Very expensiv
 
 Rather than cobble together crappy solutions to these limitations, Apple focused on nailing its key features: a killer UI and a full blown web browser. People went crazy for it and they kept coming back year after year:
 
-![image%5B2%5D.png](image%5B2%5D.png)  
+![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)  
 
 <font size="1">(I know they sell other stuff, too)</font>
 

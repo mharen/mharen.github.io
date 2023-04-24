@@ -7,6 +7,6 @@ title: We Call Her Bugsy
 
 After watching [<span style="font-style: italic;">Bedtime Stories</span>](http://www.imdb.com/title/tt0960731/) with Maya on Saturday night, we have been calling Charlotte "Bugsy".  Here is why:
 
-![bugsy.jpg](bugsy.jpg)</a>
+![bugsy.jpg](/assets/2009/bugsy.jpg)</a>
 
-![IMG_5461.JPG](IMG_5461.JPG)</a>
+![IMG_5461.JPG](/assets/2009/IMG_5461.JPG)</a>

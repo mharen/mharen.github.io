@@ -11,4 +11,4 @@ On a personal note, I have some updates for you. We have (finally) sold our hous
 
 
 
-![135675458_511cf1aeeb_o.jpg](135675458_511cf1aeeb_o.jpg)
+![135675458_511cf1aeeb_o.jpg](/assets/2007/135675458_511cf1aeeb_o.jpg)

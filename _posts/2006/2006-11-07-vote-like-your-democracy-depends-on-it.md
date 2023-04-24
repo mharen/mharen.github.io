@@ -12,7 +12,7 @@ I built up the courage to stand in line for 3 hours and have my vote counted (ma
 
 
 
-![vote-pedro.jpg](vote-pedro.jpg)(not me, randomly snatched from Google)
+![vote-pedro.jpg](/assets/2006/vote-pedro.jpg)(not me, randomly snatched from Google)
 
 What an easy (too easy?) experience. I encourage everyone to vote, but only if you know who you are voting for. Yeah, I said it: if you don't know who you are voting for, don't vote...what would be the point?! Spend 10 minutes before you leave doing a little research. I'd encourage you to not fill this 10 minutes with looking for colorful yard signs and voting for whichever sign you like best. Instead, consider resources like these, that I found particularly useful (seeing as I live in North Carolina and all):
 

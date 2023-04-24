@@ -15,55 +15,55 @@ Today is my first day with the Arduino, and the first day I’ve touched a micro
 
 Since I don’t really have anything except random LEDs, that’s what I’ll get started with. But first, let’s unpack the board:
 
-![IMAG0651%5B8%5D.jpg](IMAG0651%5B8%5D.jpg)
+![IMAG0651%5B8%5D.jpg](/assets/2010/IMAG0651%5B8%5D.jpg)
 
 Oooo a neat red box! What’s inside?
 
-![IMAG0653%5B4%5D.jpg](IMAG0653%5B4%5D.jpg)
+![IMAG0653%5B4%5D.jpg](/assets/2010/IMAG0653%5B4%5D.jpg)
 
-![IMAG0654%5B4%5D.jpg](IMAG0654%5B4%5D.jpg)
+![IMAG0654%5B4%5D.jpg](/assets/2010/IMAG0654%5B4%5D.jpg)
 
 I don’t really care about Madagascar, but I did watch those movies and apparantly just helped to protect some forest there so…I guess what I’m trying to say is, “you’re welcome, Madagascar”. Actually, no, you’re not welcome, Madagascar, you suck. Whenever I play Risk, you just sit there off the coast of Africa demanding an unreasonable number of troops to protect and I’m sick of it. 
 
 OK, back to the present. Here we are:
 
-![IMAG0655%5B3%5D.jpg](IMAG0655%5B3%5D.jpg)
+![IMAG0655%5B3%5D.jpg](/assets/2010/IMAG0655%5B3%5D.jpg)
 
 This thing didn’t come with any directions so let’s just plug it in and see what happens:  
 
-![device%20ready%5B2%5D.png](device%20ready%5B2%5D.png)
+![device%20ready%5B2%5D.png](/assets/2010/device%20ready%5B2%5D.png)
 
-![IMAG0659%5B8%5D.jpg](IMAG0659%5B8%5D.jpg)
+![IMAG0659%5B8%5D.jpg](/assets/2010/IMAG0659%5B8%5D.jpg)
 
 Excellent (see the yellow light in the middle?), and we didn’t let the smoke out yet! This board will take power from USB (or a DC plug), which is awfully convenient since I always have USB handy.
 
 Time for a quick program. I downloaded the [Arduino software](http://arduino.cc/en/Main/Software), unzipped it, and fired it up (no install). 
 
-![image%5B2%5D.png](image%5B2%5D.png)
+![image%5B2%5D.png](/assets/2010/image%5B2%5D.png)
 
 A blank window. Interesting. A friend had previously shown me this neat trick: go to File > Examples > Whatever:
 
-![image%5B5%5D.png](image%5B5%5D.png)
+![image%5B5%5D.png](/assets/2010/image%5B5%5D.png)
 
 Here are dozens of neat examples to start with. I chose Basics > Fade to play around with the LEDs I had. The sample code just fades an LED on and off forever. After wiring up the board according to the [incredible directions](http://arduino.cc/en/Tutorial/Fade) on the site, it worked! Amazing.
 
 That was cool to start with but I wanted to explore more. I added five more LEDs (six total), and played around with some different loops. Here’s what I ended up with (it’s dark so you can see the lights):  <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d92f78f6-efc4-42af-ab09-ed4eb0405f94" style="padding-bottom: 0px; padding-left: 0px; width: 640px; padding-right: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-top: 0px;">
 <div id="2649b3fc-913c-4411-b0b6-e7a0873571f7" style="margin: 0px; padding: 0px; display: inline;">
-<div>[![videoc251df61edef%5B6%5D.jpg](videoc251df61edef%5B6%5D.jpg)](http://www.youtube.com/watch?v=VbIfvKNeQZU" target="_new)</div></div></div>
+<div>[![videoc251df61edef%5B6%5D.jpg](/assets/2010/videoc251df61edef%5B6%5D.jpg)](http://www.youtube.com/watch?v=VbIfvKNeQZU" target="_new)</div></div></div>
 
 It’s a much better experience in person—my camera’s frame rate isn’t quite high enough and it had trouble focusing. But trust me, it was awesome. What you see is the program cycling through a bunch of different patterns:  <ul>   <li>Runway - like an airstrip </li>    <li>Flicker Digital – randomly flash the LEDs on/off </li>    <li>Flicker Analog – randomly change the intensity of the LEDs </li>    <li>Flash – flash all the LEDs on/off at the same time </li> </ul>
 
 Build:
 
-![IMAG0661%5B7%5D.jpg](IMAG0661%5B7%5D.jpg)
+![IMAG0661%5B7%5D.jpg](/assets/2010/IMAG0661%5B7%5D.jpg)
 
 Circuit (built with the amazing [Fritzing](http://fritzing.org/)):
 
-![day%20one%20-%20bb%5B6%5D.png](day%20one%20-%20bb%5B6%5D.png)
+![day%20one%20-%20bb%5B6%5D.png](/assets/2010/day%20one%20-%20bb%5B6%5D.png)
 
 Schematic (automatically built from the above image with the amazing [Fritzing](http://fritzing.org/)):
 
-![day%20one%20-%20schema%5B7%5D.png](day%20one%20-%20schema%5B7%5D.png)
+![day%20one%20-%20schema%5B7%5D.png](/assets/2010/day%20one%20-%20schema%5B7%5D.png)
 
 Code:
 <blockquote>   

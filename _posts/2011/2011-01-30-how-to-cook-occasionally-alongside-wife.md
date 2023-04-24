@@ -12,7 +12,7 @@ The responsibility of cooking rarely rests with me. For the sake of my family’
 
 That’s probably my greatest weakness: meal planning. Wife once told me in college that a meal *must include a side*. Up to that point, when I’d say I was “making hamburgers” this is what you’d get on your plate:
 
-![image%5B2%5D.png](image%5B2%5D.png)
+![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)
 
 Aside from a short, tired menu of only simple entrées (easily solved by making whatever Wife tells me to make), another weakness is meal execution (i.e. the actual cooking). I’m great at following recipes so long as I don’t have to deviate from the instructions or make substitutions. Actually, a few substitutions are OK—I can look things up on the ol’ internet or check covers of the cookbooks. I can’t handle some of Wife’s mental recipes, though.
 
@@ -34,7 +34,7 @@ This is the completely overkill part that I’m most proud of. By making a timel
 
 Suppose we’re having steak and baked potatoes. This is a cake walk for most people but here’s what I actually did last time I made this meal:  <ol>   <li>Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx" target="_blank)</li>    <li>Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/" target="_blank)</li>    <li>Make sure we have everything. Check!</li>    <li>Make a timeline like this (working backwards from Go Time):     
 
-![image%5B5%5D.png](image%5B5%5D.png)</li>    <li>Execute timeline</li> </ol>
+![image%5B5%5D.png](/assets/2011/image%5B5%5D.png)</li>    <li>Execute timeline</li> </ol>
 
 This approach yields one other awesome benefit aside from helping dinner hit the table on-time and at the right temperature: it’s stress free. I just follow my timeline and don’t worry about what I might be missing. When I finish a task, I just set a timer to go off for when I need to start the next step so I can safely zone out on something else (e.g. after “set table”, set timer for “7:40”).
 

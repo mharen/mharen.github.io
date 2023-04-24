@@ -5,8 +5,8 @@ categories: money
 title: Download Debt and Schedule Information
 ---
 
-![debt](debt)
-<div style="text-align: center;">![xml.gif](xml.gif)XML on the other hand, supports multiple classes within a single file. This means that if you click either XML download link, you will receive both your account information and your payment schedule information.
+![debt](/assets/2006/debt)
+<div style="text-align: center;">![xml.gif](/assets/2006/xml.gif)XML on the other hand, supports multiple classes within a single file. This means that if you click either XML download link, you will receive both your account information and your payment schedule information.
 
 A note to any XML purists out there: in the XML output I make heavy use of attributes where elements may be more appropriate. Relax, I don't want to hear about it.
 

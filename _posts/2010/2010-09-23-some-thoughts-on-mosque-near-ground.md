@@ -6,7 +6,7 @@ title: Some Thoughts on the Mosque Near Ground Zero
 ---
 
 
-[![ShiranianPuppy1205thru0206024.JPG](ShiranianPuppy1205thru0206024.JPG)](http://www.dogbreedinfo.com/puppydog/puppiesphoto.htm)The proposed Islamic Community Center in New York (better known as the Mosque near [Ground Zero](http://en.wikipedia.org/wiki/World_Trade_Center_site)) has been on a lot of minds lately and I’d like to share a few thoughts on it. If this stresses you out, let the crazy adorable puppy console you.
+[![ShiranianPuppy1205thru0206024.JPG](/assets/2010/ShiranianPuppy1205thru0206024.JPG)](http://www.dogbreedinfo.com/puppydog/puppiesphoto.htm)The proposed Islamic Community Center in New York (better known as the Mosque near [Ground Zero](http://en.wikipedia.org/wiki/World_Trade_Center_site)) has been on a lot of minds lately and I’d like to share a few thoughts on it. If this stresses you out, let the crazy adorable puppy console you.
 
 Fortunately, no one is debating the right to build it as such rights are guaranteed under the law and the US Constitution.
 
@@ -22,7 +22,7 @@ But they’re not! Timothy McVeigh killed 168 people in the Oklahoma City bombin
 
 Here’s a good rule of thumb that covers the [top world religions](http://www.adherents.com/Religions_By_Adherents.html): if a group distorts their religion to the point of terrorism, that group is no longer operating within, or on behalf of their religion. It’s probably worth pointing out, too, that Islam is the world’s [number two religion](http://en.wikipedia.org/wiki/Major_religious_groups#Largest_religions_or_belief_systems_by_number_of_adherents), covering more than a billion and a half people. That’s a billion with a “b”. That’s 10 freaking digits. Like 1,570,000,000 people are totally into Islam. Here’s a [nice info graphic](http://technipol.tumblr.com/post/1009682375/ok-remember-that-chart-from-a-couple-hours-ago) that illustrates this pretty well:
 
-![tumblr_l7py0hxcyx1qblt18o1_1280.jpg](tumblr_l7py0hxcyx1qblt18o1_1280.jpg)
+![tumblr_l7py0hxcyx1qblt18o1_1280.jpg](/assets/2010/tumblr_l7py0hxcyx1qblt18o1_1280.jpg)
 
 I’ve really been struggling to understand the outrage on this so I did some digging and found [this interesting analogy](http://www.redstate.com/jazzycmk/2010/08/28/an-exceptional-ground-zero-mosque-analogy/):
 <blockquote> 

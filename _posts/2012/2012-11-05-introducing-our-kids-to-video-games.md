@@ -11,7 +11,7 @@ title: Introducing Our Kids to Video Games
 
 Our kiddos have been sharing an iPod we won in a random drawing a while back and they are rocking it. It’s a real testament to the usability of the device. Both the 3- and 5-year old can use it with virtually no help from us (aside from us pre-installing a bunch of age-appropriate apps, of which there are many!).
 
-![2012-11-04%2021.54.13%5B3%5D.png](2012-11-04%2021.54.13%5B3%5D.png)
+![2012-11-04%2021.54.13%5B3%5D.png](/assets/2012/2012-11-04%2021.54.13%5B3%5D.png)
 
 They only really use it in the car on special occasions and are scarily good about taking turns with it.
 
@@ -19,13 +19,13 @@ They only really use it in the car on special occasions and are scarily good abo
 
 After Thing1 expressed interest in my [Letterpress](https://itunes.apple.com/us/app/letterpress-word-game/id526619424?mt=8) games, I decided to put that on there, too. **Yes, I play against my 5-yo in LetterPress.** She gets to practice her words and I get to feel good about myself by crushing an opponent for a change. How awesome is that?
 
-![mario%5B12%5D.png](mario%5B12%5D.png)Perhaps all of our success with iOS gaming left me unprepared for what happened when we dusted off the Wii and fired up Super Mario Bros. 3&#160; (via the virtual console). (We do a weekly “movie night” and Wife had the idea that we could do swap in “Wii night” every once and a while.)
+![mario%5B12%5D.png](/assets/2012/mario%5B12%5D.png)Perhaps all of our success with iOS gaming left me unprepared for what happened when we dusted off the Wii and fired up Super Mario Bros. 3&#160; (via the virtual console). (We do a weekly “movie night” and Wife had the idea that we could do swap in “Wii night” every once and a while.)
 
 Before yesterday, my kids have never played a video game that wasn’t on an iOS device, a basic LeapPad, or an absurdly simple story book game on a library computer.
 
 My first surprise was that they didn’t have the slightest inkling of how to hold the Wiimote. This revealed to me that the controllers are only intuitive in “Wii” mode. If you’re holding them sideways (e.g. for classic Mario Bros.), it is not obvious at all what you’re supposed to do, or even where to put your hands or fingers.
 
-![wiimote%5B2%5D.jpg](wiimote%5B2%5D.jpg)
+![wiimote%5B2%5D.jpg](/assets/2012/wiimote%5B2%5D.jpg)
 
 The next surprise was seeing how hard it is to learn to coordinate button presses on a remote in your lap to actions on a screen across the room. They would look down and hit a button, then look up to see what happened. But most of the time, the thing that happened had stopped happening and they were confused. Because they were constantly looking up and down, the game didn’t feel interactive or responsive to them. This made learning very difficult. 
 
@@ -37,7 +37,7 @@ Wii Bowling was another failure. I hoped that the fluid motion of actually prete
 
 **Finally, in frustration, we tried World Of Goo.** Wife and I bought it years ago and beat every level. Did you ever build things with toothpicks and mini-marshmallows? It’s a puzzle game like that but you build structures that reach from one place to another. It’s crazy fun, and very easy to pick up. 
 
-![goo%5B2%5D.jpg](goo%5B2%5D.jpg)
+![goo%5B2%5D.jpg](/assets/2012/goo%5B2%5D.jpg)
 
 This trailer makes it look a lot more fast paced than it really is. There’s no clock—remember, it’s more like toothpicks and marshmallows.  
 

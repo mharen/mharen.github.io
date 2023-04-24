@@ -3,7 +3,7 @@ layout: post
 date: '2012-04-13T14:45:00.001-04:00'
 categories:
 - database
-- work
+
 - code
 - technology
 title: How To Restore a Database With Active Connections
@@ -36,7 +36,7 @@ EXEC sp_who2
 
 </blockquote>
 
-<pre><font face="Trebuchet MS">![SNAG-00242.png](SNAG-00242.png)</a></font>
+<pre><font face="Trebuchet MS">![SNAG-00242.png](/assets/2012/SNAG-00242.png)</a></font>
 ```
 
 

@@ -7,4 +7,4 @@ title: Yes, I'm Still Alive
 
 
 
-![map.gif](map.gif)</a>
+![map.gif](/assets/2006/map.gif)</a>

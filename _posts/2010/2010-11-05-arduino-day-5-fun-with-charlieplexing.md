@@ -25,11 +25,11 @@ Here we go:
 
   <h4>Build</h4>
 
-![IMAG0694%5B8%5D.jpg](IMAG0694%5B8%5D.jpg)  <h4>Circuit</h4>
+![IMAG0694%5B8%5D.jpg](/assets/2010/IMAG0694%5B8%5D.jpg)  <h4>Circuit</h4>
 
 This doesn’t well represent the circuit:
 
-![day%205_bb%5B7%5D.png](day%205_bb%5B7%5D.png)
+![day%205_bb%5B7%5D.png](/assets/2010/day%205_bb%5B7%5D.png)
 
 It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.
 
@@ -37,14 +37,14 @@ If you look closely in the build shot above you can see that I used four rows, a
 
 I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:
 
-![day%205_schem%5B8%5D.png](day%205_schem%5B8%5D.png)  <h4>Code</h4>
+![day%205_schem%5B8%5D.png](/assets/2010/day%205_schem%5B8%5D.png)  <h4>Code</h4>
 
 I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
 
 Today’s changes are in bold:
 <blockquote>   
 ```cs
-<strong>int Pins[] = { 2, 3, 4 };
+int Pins[] = { 2, 3, 4 };
 int Leds[6][2] = 
 {
   { 0, 1 }, { 1, 0 },
@@ -53,7 +53,7 @@ int Leds[6][2] =
 };
 </strong>
 #define PinCount (sizeof(Pins)/sizeof(int))
-<strong>#define LedCount (sizeof(Leds)/sizeof(int))
+#define LedCount (sizeof(Leds)/sizeof(int))
 </strong>
 // notes adapted from http://www.phy.mtu.edu/~suits/notefreqs.html
 // with some help from Excel and my amazing, super talented wife
@@ -199,7 +199,7 @@ void Buzz(int frequencyHz, int durationMillis){
   // the nfote the desired duration
   int Iterations = frequencyHz * ((float)durationMillis / 1000);
   
-<strong>  // light on
+  // light on
   Beep(frequencyHz);
 </strong>  for (long i = 0; i < Iterations; i++ )
   {
@@ -209,17 +209,17 @@ void Buzz(int frequencyHz, int durationMillis){
       digitalWrite(BuzzPin, LOW);
       delayMicroseconds(Osc);
   }  
-<strong>  // led off
+  // led off
   Reset();
 </strong>}
 
-<strong>void Reset(){
+void Reset(){
   for (int i=0; i < PinCount; i++){
     pinMode(Pins[i] , INPUT);
   }
 }</strong>
 
-<strong>void Beep(int hz){
+void Beep(int hz){
   if      (hz < 450)  { Burn(Leds[0]); }
   else if (hz < 600)  { Burn(Leds[1]); }
   else if (hz < 750)  { Burn(Leds[2]); }
@@ -228,11 +228,11 @@ void Buzz(int frequencyHz, int durationMillis){
   else                { Burn(Leds[5]); }
 }
 </strong>
-<strong>void Burn(int led[2]){
+void Burn(int led[2]){
   Burn(led[0], led[1]); 
 }
 </strong>
-<strong>void Burn(int highPin, int lowPin){
+void Burn(int highPin, int lowPin){
   pinMode(Pins[highPin], OUTPUT);
   pinMode(Pins[lowPin], OUTPUT);
 
@@ -249,7 +249,7 @@ void Buzz(int frequencyHz, int durationMillis){
 I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:
 
 
-![IMAG0704%5B5%5D.jpg](IMAG0704%5B5%5D.jpg)
+![IMAG0704%5B5%5D.jpg](/assets/2010/IMAG0704%5B5%5D.jpg)
 
 
 (The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)

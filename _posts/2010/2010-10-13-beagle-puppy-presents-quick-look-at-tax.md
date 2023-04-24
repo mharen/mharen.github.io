@@ -9,7 +9,7 @@ title: 'Beagle Puppy Presents: A Quick Look at Tax Brackets (Dull, I know, but B
 
 Just to get you warmed up:
 
-![beagle-puppy.jpg](beagle-puppy.jpg)
+![beagle-puppy.jpg](/assets/2010/beagle-puppy.jpg)
 
 Most of you probably know how these things work already, but I’ve heard it described poorly in the news so many times recently that I feel compelled to bring it up…just in case.
 
@@ -17,15 +17,15 @@ When someone talks about tax brackets, what they’re really referring to are ma
 
 In the tax world, marginal refers to additional dollars earned. So the marginal tax rate affects dollars earned past a specific threshold. Hmmm, that’s not helping. Here’s an illustration of what a tax bracket is *not*: 
 
-![image%5B2%5D.png](image%5B2%5D.png)
+![image%5B2%5D.png](/assets/2010/image%5B2%5D.png)
 
 This shows that when you move into the next bracket that *all *of your income is taxed at a higher rate. That’s not true. It’s only the income that is inside the new bracket that is taxed, like this:
 
-![image%5B8%5D.png](image%5B8%5D.png)
+![image%5B8%5D.png](/assets/2010/image%5B8%5D.png)
 
 That is, a tiny slice is taxed at 10%, a larger slice is taxed at 15%, and a final slice is taxed at 25%. Let’s try a new way to visualize this. Imagine your money as water filling up cups from left to right, until it runs out (insert liquidity joke and [click here](http://instantrimshot.com/); good job):
 
-![image%5B11%5D.png](image%5B11%5D.png)
+![image%5B11%5D.png](/assets/2010/image%5B11%5D.png)
 
 I’ve attempted to draw this somewhat to scale—notice that the brackets (cups) are not of equal size. What this means is that your first $16,750 of income fills up the first cup and is reduced by 10% in taxes. Your next cup fills up with $51,250 *additional *income and you part with 15% of it. Assuming you’re doing quite well, your next $69,300 of additional income is taxed at 25%. In my illustration the third cup isn’t quite full so the next few bucks you make will be taxed at 25%, eventually entering the 28% bracket (not shown) once you cross $137,300 in *total *income.
 

@@ -11,7 +11,7 @@ I have been traveling a quite bit lately for work and at my office we don't use 
 
 
 
-![amex_gold_card_full.jpg](amex_gold_card_full.jpg)<blockquote>Customer Service,
+![amex_gold_card_full.jpg](/assets/2008/amex_gold_card_full.jpg)<blockquote>Customer Service,
 
 I am writing to bring a recent incident to your attention. I signed up for an American Express Gold card with no preset spending limit in October. I had several business trips planned and had intended to use this business card for all of them.
 

@@ -14,6 +14,6 @@ Using a few signs as my [Rosetta Stone](http://en.wikipedia.org/wiki/Rosetta_sto
 Let's start with an easy one:
 
 
-<div class="compare">![DSCF1244.jpg](DSCF1244.jpg)
-<div class="compare">![>	<li value=](>	<li value=)
-<div class="compare">![>	<li value=](>	<li value=)Awesome, now I have a fluent vocabulary of 17 words. My next challenge is to communicate with others using only these words.  Feel free to submit your suggested sentences as a comment.
+<div class="compare">![DSCF1244.jpg](/assets/2005/DSCF1244.jpg)
+<div class="compare">![>	<li value=](/assets/2005/>	<li value=)
+<div class="compare">![>	<li value=](/assets/2005/>	<li value=)Awesome, now I have a fluent vocabulary of 17 words. My next challenge is to communicate with others using only these words.  Feel free to submit your suggested sentences as a comment.

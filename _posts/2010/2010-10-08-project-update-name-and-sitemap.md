@@ -13,11 +13,11 @@ After about 12 seconds of deliberation, I’ve decided to call my interview trac
 
 I’ve refined the sitemap a bit:  
 
-![image%5B10%5D.png](image%5B10%5D.png)
+![image%5B10%5D.png](/assets/2010/image%5B10%5D.png)
 
 I have decided to employ a little discipline by working out the models, views, and controllers—the essential elements to an ASP.NET MVC application—*before *I begin coding. Here’s what I have so far:  
 
-![image%5B32%5D.png](image%5B32%5D.png)
+![image%5B32%5D.png](/assets/2010/image%5B32%5D.png)
 
 That’s a little messy; let me explain. The <code>URL</code> that would be in your browser is the label on the arrows in the first column, e.g. “/candidate-123-john-doe”. When you go to that <code>URL</code>, my application will route it through the <code>Candidate</code> controller, build a <code>CandidateDetailsModel</code>, and present it to you with the <code>CandidateDetails</code> view. This detail-heavy image simply attempts to enumerate all the pages—user interfaces—in the application.
 

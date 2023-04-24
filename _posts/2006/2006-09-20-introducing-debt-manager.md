@@ -10,7 +10,7 @@ I’ve been working on a small web application for a little while now. I think i
 <a href="/debt" title="Debt Manager">
 
 
-<div style="text-align: center;"><a href="/debt" title="Debt Manager">![AccountManager.jpg](AccountManager.jpg)Jiggawha? At the *most basic level*, you just enter in all your loans and this puppy will give you a payoff schedule.
+<div style="text-align: center;"><a href="/debt" title="Debt Manager">![AccountManager.jpg](/assets/2006/AccountManager.jpg)Jiggawha? At the *most basic level*, you just enter in all your loans and this puppy will give you a payoff schedule.
 
 **Yeah, yeah, I can do that in Excel**
 

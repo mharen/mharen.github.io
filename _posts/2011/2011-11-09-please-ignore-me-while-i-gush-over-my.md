@@ -53,12 +53,12 @@ Regarding the keyboard, I'm sure few will share this complaint, but I miss my co
 While I do like having proper** page up/down** buttons, the layout is weird. My intuition has me hitting the wrong one, thinking that they should be reversed. Or really, they should be somewhere else. I wish I could order this thing with a standard arrow/nav arrangement instead of the 10-key. *That'd be awesome.*
 
 <div class="separator" style="clear: both; text-align: center;">
-[![have.png](have.png)](http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;)</div>
+[![have.png](/assets/2011/have.png)](http://3.bp.blogspot.com/-IZmHvJAeUCo/Trs_zFxPYDI/AAAAAAAAEFY/xOcqXamObs4/s1600/have.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 
 <div class="separator" style="clear: both; text-align: center;">
-[![want.png](want.png)](http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;)</div>
+[![want.png](/assets/2011/want.png)](http://3.bp.blogspot.com/-UfOJvYEUb1o/Trs_ztJ0N1I/AAAAAAAAEFg/ro4zeSXWia8/s1600/want.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 
@@ -72,14 +72,14 @@ I am overwhelmingly thrilled with this thing. It's fast and reliable. It seems t
 I don't know how meaningful these things are but I've become quite obsessed with my Windows Experience Index scores. Here's my old machine, just before I moved its hard drive over.:
 
 <div class="separator" style="clear: both; text-align: center;">
-[![d520+wei.png](d520+wei.png)](http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;)</div>
+[![d520+wei.png](/assets/2011/d520+wei.png)](http://3.bp.blogspot.com/-KtR2-MfN-IM/TrtBcD6JoVI/AAAAAAAAEFo/gESfbCFRrik/s1600/d520+wei.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 
 And my new one:
 
 <div class="separator" style="clear: both; text-align: center;">
-[![e6520+wei.png](e6520+wei.png)](http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;)</div>
+[![e6520+wei.png](/assets/2011/e6520+wei.png)](http://4.bp.blogspot.com/-wvnapmKKbNs/TrtBjiBKcGI/AAAAAAAAEFw/7XVLxhzWP8g/s1600/e6520+wei.png" style="margin-left: 1em; margin-right: 1em;)</div>
 
 
 

@@ -9,7 +9,7 @@ title: 'Presenting: The Parental Anger Scale'
 ---
 
 
-![IMG_20110107_164257%5B26%5D.jpg](IMG_20110107_164257%5B26%5D.jpg)Parenting is usually a lovely, rewarding profession. This post is not about those parts. Instead, this is about the frustrating moments anyone who is in close company to children has certainly experienced. There’s just something about the persistent “whys” of a three-year-old, or the I’ll-just-dump-this-yogurt-on-the-floor dining technique that triggers weak parenting.
+![IMG_20110107_164257%5B26%5D.jpg](/assets/2011/IMG_20110107_164257%5B26%5D.jpg)Parenting is usually a lovely, rewarding profession. This post is not about those parts. Instead, this is about the frustrating moments anyone who is in close company to children has certainly experienced. There’s just something about the persistent “whys” of a three-year-old, or the I’ll-just-dump-this-yogurt-on-the-floor dining technique that triggers weak parenting.
 
 These things affect us to different degrees as I’ll attempt to describe via the **Parental Anger Scale**:  <h3>Level 1: Amused Parent</h3>
 

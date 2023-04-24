@@ -4,7 +4,7 @@ date: '2010-09-24T22:42:00.001-04:00'
 categories:
 - in the news
 - technology
-title: "In Defense of Google, or Why Search Isn\u2019t About Bells and Whistles"
+title: "In Defense of Google, or Why Search Isn't About Bells and Whistles"
 ---
 
 
@@ -16,11 +16,11 @@ I used to wonder why Google remained so simple and basic while others like Ask.c
 
 While Bing fills your screen with beautiful images overlaid with elegant, animated menus, Google takes a different approach:  
 
-![image%5B13%5D.png](image%5B13%5D.png)
+![image%5B13%5D.png](/assets/2010/image%5B13%5D.png)
 
 Sure, Bing is gorgeous here. However, that’s not what’s important to me. When I hit the search engine, I want to find stuff and I don’t want to wait. This is Bing’s greatest weakness: speed. As I type this, Bing repeatedly takes 8-10 seconds to load from an empty cache. Google takes 1-2 seconds. Actually, the difference is worse than that—I just measured with the always awesome [Fiddler](http://www.fiddler2.com/fiddler2/):  
 
-![image%5B31%5D.png](image%5B31%5D.png)
+![image%5B31%5D.png](/assets/2010/image%5B31%5D.png)
 
 **Bing:** 8.18 seconds per load; **Google: **0.75 seconds per load. Admittedly, this is hardly scientific. I’m doing this test from a single laptop, in a single location, tethered through a cell phone. And yet this directly agrees with my experience each time I try Bing (this is not an isolated issue for me). My point is that Google is freaky fast and it’s a worthwhile feature.
 
@@ -28,7 +28,7 @@ I’d also argue that Google focuses on far more useful features than other serv
 
 (Beware: Sweeping generalizations ahead.) Let’s be honest here, the elderly aren’t looking at the screen when they type anyway, and if they are, Google Instant isn’t going to even be active on their pokey dial up connection. But if it is and they don’t like it, they can turn it off:
 
-![image%5B34%5D.png](image%5B34%5D.png)
+![image%5B34%5D.png](/assets/2010/image%5B34%5D.png)
 
 The article creates this example:
 <blockquote> 
@@ -38,7 +38,7 @@ Let's try a search for Google Fast Flip. Punch in "F" to a Google search box, an
 
 That *would* be frustrating. But that’s not how people use computers. I don’t type one letter, then pause to see what happens, then type another. A more realistic scenario would be someone rapidly typing “fast flip” like this:
 
-![image%5B40%5D.png](image%5B40%5D.png)
+![image%5B40%5D.png](/assets/2010/image%5B40%5D.png)
 
 In this case, the whole point of Instant Search is that after the query is typed, the results are immediately displayed, as well as a few extra hints in case the user wants to further hone the results by adding “api”, “iphone”, etc. **That’s pretty useful. **
 

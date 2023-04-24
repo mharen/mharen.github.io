@@ -19,7 +19,7 @@ Today, I’ll walk you through an actual process of this as I restyle Sarah’s 
 
 Here’s what the blog looks like today:
 
-![image%5B5%5D.png](image%5B5%5D.png)
+![image%5B5%5D.png](/assets/2010/image%5B5%5D.png)
 
 Today’s refresh will be pretty light. I’ll update the graphics and colors but leave the layout almost entirely alone. We’re repainting—not moving any walls or furniture.
 
@@ -27,51 +27,51 @@ My browser of choice is Google Chrome, because it’s friggin’ amazing as you 
 
 I’m going for a fall theme so I did an image search for leaves. I want a repeating pattern for the background image so I added a size constraint, guessing that whoever made a repeating leaves pattern would do so at a standard dimension of 512px square (or some other multiple of 128). Success:
 
-![image%5B9%5D.png](image%5B9%5D.png)
+![image%5B9%5D.png](/assets/2010/image%5B9%5D.png)
 
 So then I just need to know what element of the existing site to apply this to. It is probably the body tag but let’s check. In Chrome, I bring up the site and hit Control-Shift-I to open up the debugger. If you work on websites and have not used this before, you are welcome. This thing will change your life.
 
-![image%5B18%5D.png](image%5B18%5D.png)
+![image%5B18%5D.png](/assets/2010/image%5B18%5D.png)
 
 Here we see the structure of the page on the left and the selected element’s styles on the right. And there we see the background-image property. That’s what I will override in my user style via the Chrome Extension [Stylish](https://chrome.google.com/extensions/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe):
 
-![image%5B17%5D.png](image%5B17%5D.png)
+![image%5B17%5D.png](/assets/2010/image%5B17%5D.png)
 
 Once I hit save, the other window is immediately updated (no refresh required):
 
-![image%5B23%5D.png](image%5B23%5D.png)  <h4>Masthead Flowers</h4>
+![image%5B23%5D.png](/assets/2010/image%5B23%5D.png)  <h4>Masthead Flowers</h4>
 
 Next, the two flowers on each side of the masthead. I need to identify them in code so I can refer to them in my user style. Do this by clicking the magnifying glass and then the flower to tell Chrome to show me the code for the flower:
 
-![image%5B28%5D.png](image%5B28%5D.png)
+![image%5B28%5D.png](/assets/2010/image%5B28%5D.png)
 
 Let’s override that CSS, and the second flower as well:
 
-![image%5B45%5D.png](image%5B45%5D.png)    
+![image%5B45%5D.png](/assets/2010/image%5B45%5D.png)    
 
 Pow:
 
-![image%5B50%5D.png](image%5B50%5D.png)  <h4>Colors</h4>
+![image%5B50%5D.png](/assets/2010/image%5B50%5D.png)  <h4>Colors</h4>
 
 I’ll tweak the header color (purple) and image border color (pink) next.
 
-![image%5B54%5D.png](image%5B54%5D.png)    
+![image%5B54%5D.png](/assets/2010/image%5B54%5D.png)    
 
 Bam:
 
-![image%5B59%5D.png](image%5B59%5D.png)  <h4>Navigation Bar</h4>
+![image%5B59%5D.png](/assets/2010/image%5B59%5D.png)  <h4>Navigation Bar</h4>
 
 We’re almost done. Next I’ll replace those tiny flowers across the top of the window (I realize container is spelled wrong, but it’s coded so I can’t fix it now).
 
-![image%5B68%5D.png](image%5B68%5D.png)
+![image%5B68%5D.png](/assets/2010/image%5B68%5D.png)
 
 Result:
 
-![image%5B64%5D.png](image%5B64%5D.png)    <h4>Masthead</h4>
+![image%5B64%5D.png](/assets/2010/image%5B64%5D.png)    <h4>Masthead</h4>
 
 The final piece is the actual site logo—the baby face. Sarah might put her own together, but until then I’ll use this:
 
-![image%5B73%5D.png](image%5B73%5D.png)
+![image%5B73%5D.png](/assets/2010/image%5B73%5D.png)
 
 That is far, *far* too busy for my taste, but I think Sarah will like it. If I find some time, I might add a soft glow effect around the logo image to help it stand off from the background. To do that efficiently, though, I’ll probably need to update the structure of the page which I don’t want to do right now.
 

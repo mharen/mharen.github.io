@@ -18,11 +18,11 @@ Over the last few years, this has led to the collection of a few tools in partic
 
 There are many, many other tools that we use but that’s the short list of software everyone on every project I run becomes fluent in. And that’s why we’re putting so much effort in the infrastructure behind them. Here’s where our server architecture was headed:
 
-&#160;![image%5B19%5D.png](image%5B19%5D.png)
+&#160;![image%5B19%5D.png](/assets/2009/image%5B19%5D.png)
 
 That’s ok for now, but it’s short-sighted and could be improved. With the magic of virtualization and a reverse proxy, we will very soon have these tools available through a common address with improved reliability and scalability. This is where we’re headed now:  
 
-![image%5B9%5D.png](image%5B9%5D.png)<font size="1">(those weird names are the server names; detect a theme?)</font>
+![image%5B9%5D.png](/assets/2009/image%5B9%5D.png)<font size="1">(those weird names are the server names; detect a theme?)</font>
 
 
 
@@ -36,7 +36,7 @@ Another bonus: the new tool might not be new at all—it might already exist som
 
 Here’s where we might be in a few months:
 
-![image%5B22%5D.png](image%5B22%5D.png) 
+![image%5B22%5D.png](/assets/2009/image%5B22%5D.png) 
 
 Here I’ve easily and correctly added in our Hudson server (which is already humming along nicely) and a customer project (which was improperly hidden alongside other tools since I had no way to do it properly). 
 

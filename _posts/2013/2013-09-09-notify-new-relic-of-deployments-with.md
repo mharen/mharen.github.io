@@ -24,7 +24,6 @@ http_request "notify_new_relic" do
 end
 ```
 
-
 I’m loading the key and application id from attributes. And it works
 
 This was crazy simple to do, though it might be better implemented as a report handler. If you go that route please share.

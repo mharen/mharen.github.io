@@ -5,6 +5,6 @@ categories: random-updates
 title: Holy Crap, That's Hot
 ---
 
-![hothothot.jpg](hothothot.jpg)
+![hothothot.jpg](/assets/2006/hothothot.jpg)
 
 In Raleigh, at least. I will be getting my AC charged pronto--with temperatures like this, I could probably make a health insuance claim for it.

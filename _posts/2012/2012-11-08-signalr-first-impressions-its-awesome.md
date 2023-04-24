@@ -3,11 +3,10 @@ layout: post
 date: '2012-11-08T23:59:00.000-05:00'
 categories:
 - nablopomo 2012
-- work
 - code
 - signalr
 - technology
-title: "SignalR: First Impressions (It\u2019s Awesome)"
+title: "SignalR: First Impressions (It's Awesome)"
 ---
 
 

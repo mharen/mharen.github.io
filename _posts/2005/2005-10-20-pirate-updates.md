@@ -9,7 +9,7 @@ I have posted a bunch of new pictures of our puppy in [the gallery](http://www.w
 
 In related news...my website was down for about half a day because of what turned out to be "wiring trouble".
 
-![PirateWires01.jpg](PirateWires01.jpg)&nbsp;
+![PirateWires01.jpg](/assets/2005/PirateWires01.jpg)&nbsp;
 
 I found that extremely interesting and decided to interrogate my dog. He came clean and confessed to disecting my Tivo ethernet cable, too. That's great--my webserver goes down AND my Tivo is about to run out of programming. Damn dog!
 

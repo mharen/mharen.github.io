@@ -2,7 +2,7 @@
 layout: post
 date: '2010-03-02T13:36:00.001-05:00'
 categories:
-title: "Leave SQL Server\u2019s Cost Threshold for Parallelism Alone"
+title: "Leave SQL Server's Cost Threshold for Parallelism Alone"
 ---
 
 
@@ -14,11 +14,11 @@ I’ve been told that these programming posts are not interesting or funny. For 
 
 Now would be a good time for you to stop reading.  <hr />
 
-[![125981194793.png](125981194793.png)](http://www.urbandictionary.com/define.php?term=sad+panda)A while back I was performance-testing a new SQL Server cluster. This machine was years-better than the system it was replacing and the perf-test was showing it. Everything I threw at it was flying—this thing was screaming fast.
+[![125981194793.png](/assets/2010/125981194793.png)](http://www.urbandictionary.com/define.php?term=sad+panda)A while back I was performance-testing a new SQL Server cluster. This machine was years-better than the system it was replacing and the perf-test was showing it. Everything I threw at it was flying—this thing was screaming fast.
 
 Then we started load testing. This was basically an integration test where we turned on everything at once and [cranked it to 11](http://en.wikipedia.org/wiki/Up_to_eleven). Only we didn’t get to 11 because our server fell over at 2, making me a sad panda. The server started throwing strange and never-before-seen (by me) errors about problems with memory, threads, timeouts, etc. It looked like this:
 
-![image%5B5%5D.png](image%5B5%5D.png) 
+![image%5B5%5D.png](/assets/2010/image%5B5%5D.png) 
 
 We had barely loaded the machine with concurrency and it was freaking out. It’d run in spurts of blazing glory, then fail to a grinding halt. After a lot of personal freaking out (we had a very, very tight schedule measured in minutes), I discovered the culprit: parallelism. 
 
@@ -26,7 +26,7 @@ Normally you would think parallelism would be a good thing—many cores make lig
 
 Fortunately, SQL Server knows all this and has a setting for it:
 
-![image%5B2%5D.png](image%5B2%5D.png) 
+![image%5B2%5D.png](/assets/2010/image%5B2%5D.png) 
 
 The [cost threshold for parallelism](http://msdn.microsoft.com/en-us/library/aa196716(SQL.80).aspx). This value is in seconds. When SQL Server estimates a query will take longer than x seconds to be executed, the query is executed in *parallel*; otherwise *serial*.
 

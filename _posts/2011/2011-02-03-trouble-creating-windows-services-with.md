@@ -57,7 +57,7 @@ C:\>sc.exe create ServiceName binpath=<font style="background-color: #ffff00;"> 
 </blockquote>
 
 
-![image%5B3%5D.png](image%5B3%5D.png)Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.
+![image%5B3%5D.png](/assets/2011/image%5B3%5D.png)Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.
 
 
 Interestingly, while preparing this post I learned that the help info *has been improved* in Windows 7 and Windows Server 2008:

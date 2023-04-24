@@ -14,7 +14,7 @@ This winter was the longest in recorded history (by my account). But suddenly la
 
 I know it’s heresy to complain about nice weather so close to winter, sorry. We have this awful thing called humidity which makes our weather a lot like this:
 
-[![funny-graphs-the-shower-faucet%5B7%5D.png](funny-graphs-the-shower-faucet%5B7%5D.png)](http://graphjam.memebase.com/2011/02/22/funny-graphs-lukewarm-i-am-your-water/)
+[![funny-graphs-the-shower-faucet%5B7%5D.png](/assets/2011/funny-graphs-the-shower-faucet%5B7%5D.png)](http://graphjam.memebase.com/2011/02/22/funny-graphs-lukewarm-i-am-your-water/)
 
 The winters are long and cold as a bunch of four letter words chained together, the summers are short and blistering, and spring and fall are absolutely wonderful, but terribly short. 
 

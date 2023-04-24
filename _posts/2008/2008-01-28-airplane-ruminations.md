@@ -19,7 +19,7 @@ I've been flying a fair bit lately and that got me ruminating. If you know the a
 
 
 
-![maybeimashark.jpg](maybeimashark.jpg)
+![maybeimashark.jpg](/assets/2008/maybeimashark.jpg)
 
 <ul>
 
@@ -37,7 +37,7 @@ I've been flying a fair bit lately and that got me ruminating. If you know the a
 
 
 
-![engines-on-fire.jpg](engines-on-fire.jpg)
+![engines-on-fire.jpg](/assets/2008/engines-on-fire.jpg)
 
 <ul>
 

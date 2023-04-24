@@ -91,4 +91,4 @@ What's the deal with all the Pizza [structure] places around here? We recently b
 
 </ol>
 
-![graph2.png](graph2.png)For those keeping score at home, that's a 53% hit rate. Considering some of the ridiculous names on there, I'd say that's not bad. Let's branch out a little, ok?
+![graph2.png](/assets/2008/graph2.png)For those keeping score at home, that's a 53% hit rate. Considering some of the ridiculous names on there, I'd say that's not bad. Let's branch out a little, ok?

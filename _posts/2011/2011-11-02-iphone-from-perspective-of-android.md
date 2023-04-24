@@ -28,13 +28,13 @@ Let’s go.  <h4>What I love about the iPhone as a former Android user</h4>  <h5
 
 I have many of the same apps on my iPhone that I previously enjoyed on my Droid. In many cases, however, the iPhone versions are better. Apps like Angry Birds and Words with Friends feel more mature. Their navigation is more intuitive and they *don’t crash regularly*. 
 
-Apps which stream media (e.g. NPR and YouTube) are *much *better.  <h5>![IMG_0494%5B1%5D.png](IMG_0494%5B1%5D.png)Push notifications</h5>
+Apps which stream media (e.g. NPR and YouTube) are *much *better.  <h5>![IMG_0494%5B1%5D.png](/assets/2011/IMG_0494%5B1%5D.png)Push notifications</h5>
 
 iPhone is miles ahead when it comes to push notifications. The idea behind push is that you don’t want an app polling for updates because polling is slower and takes up power and system resources. Whatever Android is doing must be broken because hardly any apps support it there. On iPhone, though, *everything *does. It just works and it’s awesome. 
 
 They even give you a centralized location for managing what apps can notify you and what those notifications look like. For example, you can choose to have popups for texts, banners for emails, and nothing for individual games.
 
-This all plays in nicely with the new Notification Center. That’s a feature that Android has had forever, and was one of the reasons I waited until iOS5 to try out iPhone.  <h5 style="clear: both;">![IMG_0496%5B1%5D.png](IMG_0496%5B1%5D.png)App permissions</h5>
+This all plays in nicely with the new Notification Center. That’s a feature that Android has had forever, and was one of the reasons I waited until iOS5 to try out iPhone.  <h5 style="clear: both;">![IMG_0496%5B1%5D.png](/assets/2011/IMG_0496%5B1%5D.png)App permissions</h5>
 
 The way Android does app permissions is a little broken. When you go to install an app, you blindly acknowledge the stuff an app can do (you can’t deny certain permissions—if the app asks for it, you have to grant it to install the app). 
 
@@ -50,7 +50,7 @@ In general, things are more polished which makes for a nice, clean experience.
 
 One of the things Android has that iPhone lacks is home screen customizations, including widgets. *But*, I don’t miss those at all; iPhone is right to forbid them. The less time I waste managing the home screen (which is insanity on Android), the better.  <h5>Content management (iTunes)</h5>
 
-I know this isn’t a popular position, but I like iTunes. I’ve used it since version 3. I like having a single desktop app that syncs everything up for me. On Android you’re on your own. There are lots of individual apps that help you connect to cloud services (Google Music, Amazon MP3), but managing your own media—files you have in hand—is tricky with Android. On iPhone, it just works.  <h5>![IMG_0495%5B1%5D.png](IMG_0495%5B1%5D.png)Backups/iCloud</h5>
+I know this isn’t a popular position, but I like iTunes. I’ve used it since version 3. I like having a single desktop app that syncs everything up for me. On Android you’re on your own. There are lots of individual apps that help you connect to cloud services (Google Music, Amazon MP3), but managing your own media—files you have in hand—is tricky with Android. On iPhone, it just works.  <h5>![IMG_0495%5B1%5D.png](/assets/2011/IMG_0495%5B1%5D.png)Backups/iCloud</h5>
 
 I love that iPhone does daily backups automatically, without a computer. Every night when I plug my phone in the for the night, it backs itself up to Apple. Incidentally, I had an issue with a corrupt picture breaking all kinds of things and had the chance to test the restore process. It works great.
 
@@ -76,13 +76,13 @@ It’s all smooth sailing on iPhone. I confidently use email and calendaring lik
 
 Some apps worked well with the lock screen music controls on my Droid but others didn’t. So far it’s been a very pleasant experience on iPhone. The lock screen controls (left image) and the app-switcher pane controls (right image) are intuitive and consistent.  
 
-![IMG_0492%5B1%5D.png](IMG_0492%5B1%5D.png)  <h5>Native screenshot support</h5>
+![IMG_0492%5B1%5D.png](/assets/2011/IMG_0492%5B1%5D.png)  <h5>Native screenshot support</h5>
 
 I have often complained that Android provides no built-in support for taking screenshots. In the past two weeks, I’ve taken several on my iPhone. It’s easy, convenient, and useful. (It certainly made writing this post easier!)  <h5>Safari</h5>
 
 This one isn’t really props to Apple or Safari directly. Instead, it seems that more sites have been tested against iOS than against Android. For example, most sites that have video seem to work great on iPhone. My Droid however, would often choke on sites that relied on Flash to deliver video or other non HTML content. If the Flash player embedded in the site wasn’t mobile friendly (many are not), the experience of trying to use a tiny video play that’s not designed to be used from a touch interface was not much fun.
 
-I don’t know how people are doing it better on iPhone, but they do.  <div align="center">![div>  <div align=](div>  <div align=)</div>
+I don’t know how people are doing it better on iPhone, but they do.  <div align="center">![div>  <div align=](/assets/2011/div>  <div align=)</div>
 
 I’m sure I’ll think of many more as soon as I post this…
 

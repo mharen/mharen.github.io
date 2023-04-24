@@ -5,7 +5,7 @@ categories:
 - work
 - technology
 - project noodle
-title: "Code Isn\u2019t Always the Best Tool"
+title: "Code Isn't Always the Best Tool"
 ---
 
 
@@ -27,7 +27,7 @@ As a software engineer, I have an awesome toolbox loaded up with great technolog
 
 I offer my own [Project Noodle](http://blog.wassupy.com/search/label/Project%20Noodle) as another example. Project Noodle was my software idea to track candidates through the interview process. My goal was to improve recruiting through analysis of better-captured data. After reviewing my project ideas with the actual people who would use this system, they were all very excited. They showed me how they track things now and what data they are looking to track in the future.   
 
-![DK_Hammer%5B2%5D.png](DK_Hammer%5B2%5D.png)It eventually became evident to me that the perfect tool already exists in Microsoft Excel. It turned out that the people I was designing a tool for were already using it very effectively. I could certainly improve things a bit and make the process a little smoother and prettier, but it simply isn’t worth it when a suitable tool is already in place.  
+![DK_Hammer%5B2%5D.png](/assets/2011/DK_Hammer%5B2%5D.png)It eventually became evident to me that the perfect tool already exists in Microsoft Excel. It turned out that the people I was designing a tool for were already using it very effectively. I could certainly improve things a bit and make the process a little smoother and prettier, but it simply isn’t worth it when a suitable tool is already in place.  
 
 **I think choosing *not *to write a program in cases like this is obvious to non-programmers, but not for us software people. For us it’s a difficult realization.** In the case of Project Noodle, I’ve invested considerable effort designing it already, but I must admit that it’s not the best solution for the problem. Luckily, I came to this awareness early in the process, saving me countless hours of wasted effort.  
 

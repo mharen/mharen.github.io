@@ -26,11 +26,11 @@ Enable it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS) 
 
 Install it:  <ol>   <li>Open server manager     
 
-![SNAG-0002%5B3%5D.png](SNAG-0002%5B3%5D.png)</a></li> </ol>
+![SNAG-0002%5B3%5D.png](/assets/2009/SNAG-0002%5B3%5D.png)</a></li> </ol>
 
 Enable it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS) > Internet Information Services (IIS) Manager     
 
-![SNAG-0005%5B3%5D.png](SNAG-0005%5B3%5D.png)</a> </li> </ol>
+![SNAG-0005%5B3%5D.png](/assets/2009/SNAG-0005%5B3%5D.png)</a> </li> </ol>
 
 
 

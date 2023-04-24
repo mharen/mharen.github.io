@@ -15,11 +15,11 @@ I’m starting to lay the groundwork for a larger project that will be driven fr
 
   <h4>Build</h4>
 
-![DSC_0011%5B3%5D.jpg](DSC_0011%5B3%5D.jpg)  <h4>Circuit</h4>
+![DSC_0011%5B3%5D.jpg](/assets/2010/DSC_0011%5B3%5D.jpg)  <h4>Circuit</h4>
 
-![Sketch_bb%5B6%5D.png](Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
+![Sketch_bb%5B6%5D.png](/assets/2010/Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
 
-![Sketch_schem%5B6%5D.png](Sketch_schem%5B6%5D.png)  <h4>Code</h4>  <h5>C#</h5>
+![Sketch_schem%5B6%5D.png](/assets/2010/Sketch_schem%5B6%5D.png)  <h4>Code</h4>  <h5>C#</h5>
 <blockquote>   
 ```cs
 using System;

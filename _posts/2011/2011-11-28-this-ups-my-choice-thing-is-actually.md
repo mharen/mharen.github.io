@@ -21,19 +21,19 @@ I scoffed at the notion that I’d have to pay some annual fee to get trivial fu
 
 Then, a couple weeks later I got this in my email:
 
-![image%5B5%5D.png](image%5B5%5D.png)</a> 
+![image%5B5%5D.png](/assets/2011/image%5B5%5D.png)</a> 
 
 It took me a couple seconds to realize what had happened. I apparently wasn’t paying attention to the sign up process because what UPS is doing is notifying me (automatically) whenever *anyone *ships me a package. It matches packages by address and name (multiple names allowed) and lets me know when they’re on their way, if they are delayed, and when they’ve arrived.
 
 This is more than I expected and **it turns out to be pretty much exactly what I want**. In the weeks since, the emails keep coming:
 
-![image%5B2%5D.png](image%5B2%5D.png)</a>
+![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)</a>
 
 These emails take you to the UPS version of “My eBay”, which does exactly what you’d hope. 
 
 They still offer completely unhelpful delivery windows, like this:
 
-![image%5B8%5D.png](image%5B8%5D.png)</a>
+![image%5B8%5D.png](/assets/2011/image%5B8%5D.png)</a>
 
 Which means it’ll get here sometime between 7:30 am and 7:30 pm. Or later. Maybe.
 

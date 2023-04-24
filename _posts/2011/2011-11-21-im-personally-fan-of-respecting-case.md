@@ -20,7 +20,7 @@ So after playing fast and loose with case sensitivity, it’s easy to treat the 
 
 Unfortunately, I can’t find a reference that documents this at the moment, but I can confirm it works that way from personal experience. Here’s one of my recent commits:
 
-![image%5B2%5D.png](image%5B2%5D.png)</a>![image_thumb%5B1%5D.png](image_thumb%5B1%5D.png) 
+![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)</a>![image_thumb%5B1%5D.png](/assets/2011/image_thumb%5B1%5D.png) 
 
 And a flood of Google results from others affected confirms it’s not a fluke affecting just me.
 

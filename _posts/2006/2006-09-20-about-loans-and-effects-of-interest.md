@@ -19,7 +19,7 @@ The idea is to eliminate debt. The fastest way to do this is to pay a lot toward
 
 
 
-<a class="imagelink" href="/wp-content/uploads/2006/09/Loan0-big.jpg" title="Normal Loan Payoff">![Loan0-small.jpg](Loan0-small.jpg)</a>This shows the amount of money paid for a $150,000 mortgage at 6%, broken down into principal (blue) and interest (red). Remember, principal payments actually reduce the amount you owe, while interest payments do *nothing* for you. It isn’t until 18.5 years into the loan that you actually pay more to principal than interest.
+<a class="imagelink" href="/wp-content/uploads/2006/09/Loan0-big.jpg" title="Normal Loan Payoff">![Loan0-small.jpg](/assets/2006/Loan0-small.jpg)</a>This shows the amount of money paid for a $150,000 mortgage at 6%, broken down into principal (blue) and interest (red). Remember, principal payments actually reduce the amount you owe, while interest payments do *nothing* for you. It isn’t until 18.5 years into the loan that you actually pay more to principal than interest.
 
 If this loan runs its course, you will have paid $173,757.28 to interest--more than you paid for the house!
 
@@ -27,7 +27,7 @@ Now suppose you have an extra $500 each month that you can apply to this loan. T
 
 
 
-<a class="imagelink" href="/wp-content/uploads/2006/09/Loan1-big.jpg" title="Loans Compared">![Loan1-small.jpg](Loan1-small.jpg)</a>That’s a little crazy so let me explain. The three hollow lines that go only to month 150 or so are the accelerated amounts. This means that if you pay your normal payment each month, plus tack on an extra $500 to the principal, you will own your house in *13 years* instead of 30.
+<a class="imagelink" href="/wp-content/uploads/2006/09/Loan1-big.jpg" title="Loans Compared">![Loan1-small.jpg](/assets/2006/Loan1-small.jpg)</a>That’s a little crazy so let me explain. The three hollow lines that go only to month 150 or so are the accelerated amounts. This means that if you pay your normal payment each month, plus tack on an extra $500 to the principal, you will own your house in *13 years* instead of 30.
 
 With this method, you will pay an extra $78,000 extra over those 13 years (13*12*500), but will save $108,000 when compared to the 30 year payoff schedule.
 

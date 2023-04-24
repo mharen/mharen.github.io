@@ -9,7 +9,7 @@ title: Patriot Games
 
 No, not that Clancy [novel](http://www.amazon.com/gp/product/0425109720/002-6807866-8988029) or [movie](http://www.amazon.com/gp/product/B00008LDYV/002-6807866-8988029)...introducing, "[The Patriot Act Game](http://www.graphix4change.com/portfolio_PA_game.html)".
 
-![PatriotActGame.jpg](PatriotActGame.jpg)
+![PatriotActGame.jpg](/assets/2006/PatriotActGame.jpg)
 
 Eat your heart out, [John Ashcroft](http://www.whitehouse.gov/government/ashcroft-bio.html).
 

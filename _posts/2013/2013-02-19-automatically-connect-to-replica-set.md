@@ -4,18 +4,17 @@ date: '2013-02-19T18:36:00.000-05:00'
 categories:
 - database
 - mongodb
-- work
 - code
 title: Automatically Connect to the Replica Set Primary with Mongo Shell
 ---
-
 
 So you got your fancy MongoDB Replica Set running, did you, Mr. Fancypants? Before too long you might run into an issue: **how do you connect to the primary node when the primary can change? **
 
 Luckily our applications don’t have this problem because their drivers are smart and automatically connect to the primary. The Mongo shell doesn’t do that, though.
 
-Here’s a library to help with that. Throw this into a file called replicaSetConnector.js:
-```cs
+Here’s a library to help with that. Throw this into a file called `replicaSetConnector.js`:
+
+```js
 var ReplicaSetConnector = (function() { 
     var RSC = function(options) {
     
@@ -58,9 +57,9 @@ var ReplicaSetConnector = (function() {
 })();
 ```
 
-
 That’s a library we’ll reuse bunches of times. Now make another file for your environment, e.g. prod.js with this in it:
-```cs
+
+```js
 (new ReplicaSetConnector({ 
     initialHost: 'one-of-your-replica-set-nodes:27017', 
     database: "database-name", 
@@ -69,29 +68,19 @@ That’s a library we’ll reuse bunches of times. Now make another file for you
     debug: true})).connect();
 ```
 
+And we’re finally ready to connect with a mongo shell like so:
 
-And we’re finally read to connect with a mongo shell like so:
-```cs
+```shell
 %> mongo --shell --nodb replicaSetConnector.js prod.js
 MongoDB shell version: 2.2.2
 type "help" for help
 loading file: replicaSetConnector.js
 loading file: prod.js
 Connecting to one-of-your-replica-set-nodes:27017/database-name as user:secret...
-<strong>You're not on master...
-</strong>Connecting to another-one-of-your-replica-set-nodes:27017/database-name as user:secret
+You're not on master...
+Connecting to another-one-of-your-replica-set-nodes:27017/database-name as user:secret
 **...or are you ;)**
 >
 ```
 
-
-Yes, now you are on master and the <code>db</code> object is set for you to begin executing commands. If you want to be extra terse on the command line, you can [alias](http://tldp.org/LDP/abs/html/aliases.html) that command to something shorter, add the library to your [mongorc](http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file) file, or make Windows shortcut.
-
----
-
-### 1 comment
-
-**Michael Haren said on 2013-04-10**
-
-I don't know you could do that... :). I'll give it a try.
-
+Yes, now you are on master and the `db` object is set for you to begin executing commands. If you want to be extra terse on the command line, you can [alias](http://tldp.org/LDP/abs/html/aliases.html) that command to something shorter, add the library to your [mongorc](http://docs.mongodb.org/manual/reference/mongo/#mongo-mongorc-file) file, or make Windows shortcut.

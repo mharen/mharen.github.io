@@ -24,7 +24,7 @@ The solution to item 2 however, was surprisingly difficult to uncover. Here’s 
 
 
 <blockquote>
-<pre>$ <strong>telnet mysql_server 3306
+<pre>$ telnet mysql_server 3306
 </strong>
 Host: ‘urmachine.domain.com’ is not allowed to connect to this MySQL server
 
@@ -39,8 +39,8 @@ What you need to do is enable the host listed in the error message to connect as
 
 
 <blockquote>
-<pre>$ <strong>mysql -uroot -p
-</strong>Enter password: <strong>************************
+<pre>$ mysql -uroot -p
+</strong>Enter password: ************************
 </strong>Welcome to the....
 
 mysql> 
@@ -73,7 +73,7 @@ Now we need to add a new record. I'm interested in simply reading data from my r
 <pre>mysql> **grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';**
 Query OK, 0 rows affected (0.00 sec)
 
-mysql> <strong>flush privileges;
+mysql> flush privileges;
 </strong>Query OK, 0 rows affected (0.05 sec)
 ```
 
@@ -82,7 +82,7 @@ And now we're in the user list:
 
 
 <blockquote>
-<pre>mysql> <strong>select host, user from user;
+<pre>mysql> select host, user from user;
 </strong>+-----------------------+---------+
 | host                  | user    |
 +-----------------------+---------+

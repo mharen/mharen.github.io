@@ -13,13 +13,9 @@ The key to getting this to work is to recognize that if you choose a background 
 
 Of course the problem then is finding wallpapers that fit that size. Google can help with discovering sites that tailor specifically to this problem.
 
-<strong>
+**But what if you already have single-monitor wallpapers that you want to use? All you really need to do is combine them into a single image.**
 
-</strong>**But what if you already have single-monitor wallpapers that you want to use? All you really need to do is combine them into a single image.**
-
-<strong>
-
-</strong>![blogger-image--1475083773.jpg](blogger-image--1475083773.jpg)</a>
+![dual displays diagram](/assets/2013/blogger-image--1475083773.jpg)</a>
 
 I did this recently to an [entire collection](http://www.reddit.com/r/pics/comments/qiir8/45_calvin_hobbes_wallpapers_optimized_for/) of Calvin and Hobbes wallpapers. I wanted to show a different comic on each screen, but not always the same two at a time—I wanted to mimic the Windows 8 strategy of seemingly random wallpapers on random screens. 
 
@@ -29,8 +25,7 @@ Run this script in the dirctory containing all your single wallpapers and it wil
 
 Obviously this is crude--add your own flow control, resume support for large batches, etc....
 
-
-```cs
+```powershell
 $imgs = Get-ChildItem * -include *.jpg,*.png -exclude dual*
 
 for ($i=0; $i -lt $imgs.Length; $i++){ 
@@ -53,5 +48,4 @@ for ($i=0; $i -lt $imgs.Length; $i++){
 }
 ```
 
-
-Change that <code>-geometry</code> part to fit your system, obviously, and yeah... just loop over everything :). 
+Change that `-geometry` part to fit your system, obviously, and yeah... just loop over everything :). 

@@ -8,7 +8,7 @@ title: Thing2 Explodes, Laundry Ensues
 ---
 
 
-![IMG_20110124_123322%5B13%5D.jpg](IMG_20110124_123322%5B13%5D.jpg)Poor Thing2 came down with some sort of stomach bug on Sunday. How do I know? Well I’m no doctor, but when my precious little toddler starts losing her breakfast a red flag goes up. 
+![IMG_20110124_123322%5B13%5D.jpg](/assets/2011/IMG_20110124_123322%5B13%5D.jpg)Poor Thing2 came down with some sort of stomach bug on Sunday. How do I know? Well I’m no doctor, but when my precious little toddler starts losing her breakfast a red flag goes up. 
 
 We first knew something was wrong when kids were coloring and Sister reported that Thing2 had “spit up”. Thing2 *never *spits up. Head cocked to one side I investigated and discovered slimy oatmeal where oatmeal isn’t supposed to be (everywhere).
 
@@ -30,7 +30,7 @@ Now we were getting a little concerned about dehydration (Thing2’s tiny and ca
 **Result: **more laundry (clothes, blanket)
 </blockquote>
 
-**![IMG_20110123_173436%5B11%5D.jpg](IMG_20110123_173436%5B11%5D.jpg)**We cleaned up Thing2 and got her back to sleep while Wife dealt with the concentrated evil that was soaking in to her clothes. After some work, she went down for a nice nap. Until she did the most obvious thing ever: threw up again. 
+**![IMG_20110123_173436%5B11%5D.jpg](/assets/2011/IMG_20110123_173436%5B11%5D.jpg)**We cleaned up Thing2 and got her back to sleep while Wife dealt with the concentrated evil that was soaking in to her clothes. After some work, she went down for a nice nap. Until she did the most obvious thing ever: threw up again. 
 <blockquote> 
 
 **Result:** more laundry (clothes, blanket)
@@ -54,6 +54,6 @@ Fortunately, though, vomit was no more. She was apparently keeping down her food
 
 It’s now been more than 24 hours since the last incident and we’re almost caught up on laundry. She’s pretty much back to normal and I’m rejoicing as she rests beside me:  
 
-![shot_1295925990794%5B3%5D.jpg](shot_1295925990794%5B3%5D.jpg)
+![shot_1295925990794%5B3%5D.jpg](/assets/2011/shot_1295925990794%5B3%5D.jpg)
 
 Parenting: the happiest you’ll ever be, even as you pretend not to notice vomit running down your arms or (OMG)-puke-breath.

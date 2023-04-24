@@ -9,4 +9,4 @@ categories:
 title: 'Game 7: Canes vs. Oilers'
 ---
 
-<div style="text-align: center;">![caneslogo.gif](caneslogo.gif)This just in: I am *going *to GAME 7 of the [Stanley Cup](http://www.nhl.com/cup/index.html) tonight. Holy bejesus. This is reason #248 to work at [Rovisys](http://www.rovisys.com/rovisys/About/news.asp).It all comes down to this, folks.
+<div style="text-align: center;">![caneslogo.gif](/assets/2006/caneslogo.gif)This just in: I am *going *to GAME 7 of the [Stanley Cup](http://www.nhl.com/cup/index.html) tonight. Holy bejesus. This is reason #248 to work at [Rovisys](http://www.rovisys.com/rovisys/About/news.asp).It all comes down to this, folks.

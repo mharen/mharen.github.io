@@ -2,7 +2,7 @@
 layout: post
 date: '2012-07-25T20:16:00.001-04:00'
 categories:
-- work
+
 - code
 - technology
 title: Let the Browser Handle the Datepicker (if it can)
@@ -35,5 +35,5 @@ if (!Modernizr.inputtypes.date) {
 ```
 
 The theory here is that now when a browser adds support for native datepickers, the site will automatically *stop adding the jQuery datepicker*. Slick.
-Here’s an example. If you try this in Chrome (added sometime on or before version 20…?), the second input should be a native datepicker (![SNAG-0045%5B3%5D.png](SNAG-0045%5B3%5D.png)</a>
+Here’s an example. If you try this in Chrome (added sometime on or before version 20…?), the second input should be a native datepicker (![SNAG-0045%5B3%5D.png](/assets/2012/SNAG-0045%5B3%5D.png)</a>
 Oh, and by the way, this is especially great for mobile devices—this is supported on iOS but [not much else](http://caniuse.com/#feat=input-datetime) (yet).

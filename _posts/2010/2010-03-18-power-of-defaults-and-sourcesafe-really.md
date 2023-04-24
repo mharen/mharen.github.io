@@ -6,7 +6,7 @@ title: 'The Power of Defaults, and: SourceSafe Really is That Bad'
 ---
 
 
-![15f677e1-ba0e-4c79-b347-98130ff041ee.png](15f677e1-ba0e-4c79-b347-98130ff041ee.png)Think about the last gadget you bought—a computer, car, GPS, phone—whatever. Chance are that it came with a million settings, each preconfigured to *something*. Most of us change the simple stuff to suit us (e.g. a ring tone or wallpaper), and ignore the rest.
+![15f677e1-ba0e-4c79-b347-98130ff041ee.png](/assets/2010/15f677e1-ba0e-4c79-b347-98130ff041ee.png)Think about the last gadget you bought—a computer, car, GPS, phone—whatever. Chance are that it came with a million settings, each preconfigured to *something*. Most of us change the simple stuff to suit us (e.g. a ring tone or wallpaper), and ignore the rest.
 
 It’s the default settings of all the non-trivial things that we ignore that can be so powerful, and often terrible. Consider Microsoft Visual Source Safe. Visual Source Safe was a version control system that shipped with Visual Basic 6, and possibly a rev or two after that. Since everyone already had it, it was the obvious thing to turn to when small VB shops moved up to version control. 
 

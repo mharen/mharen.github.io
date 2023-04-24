@@ -54,7 +54,7 @@ So here’s the second fix: figure out what element is under your finger and fir
             touch.clientX, touch.clientY, false /*ctrl*/, false /*alt*/,
             false /*shift*/, false /*meta*/, 0 /*left*/, null /*related target*/);
 
-<strong>        var elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
+        var elementUnderFinger = document.elementFromPoint(touch.clientX, touch.clientY);
         elementUnderFinger.dispatchEvent(simulatedEvent);
 </strong>        event.preventDefault();
     }
@@ -68,7 +68,7 @@ So here’s the second fix: figure out what element is under your finger and fir
 ```cs
    function touchHandler(event) {
       var touches = event.touches;
-<strong>      for (var i = 0; i < touches.length; ++i) {
+      for (var i = 0; i < touches.length; ++i) {
 </strong>          var touch = touches[i];
           var simulatedEvent = document.createEvent("MouseEvent");
 

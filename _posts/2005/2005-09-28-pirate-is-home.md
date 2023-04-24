@@ -8,5 +8,5 @@ title: Pirate is Home!
 Our new friend, Pirate, has just come home :). You can see plenty of pictures in the [gallery](http://www.wassupy.com/gallery2/main.php?g2_view=core.ShowItem&g2_itemId=3293&g2_page=1).  He's getting well aquainted, sniffing and digging EVERYWHERE.
 
 
-<div style="text-align: center;">![DSCF1283-1.jpg](DSCF1283-1.jpg)
-<div style="text-align: center;">![DSCF1275-1.jpg](DSCF1275-1.jpg)</div>
+<div style="text-align: center;">![DSCF1283-1.jpg](/assets/2005/DSCF1283-1.jpg)
+<div style="text-align: center;">![DSCF1275-1.jpg](/assets/2005/DSCF1275-1.jpg)</div>

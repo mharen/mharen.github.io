@@ -10,12 +10,12 @@ title: SD Cards are Remarkably Resilient
 
 Two Januarys ago, we lost a newish 2gb SD card. I turned the living room over looking for it. Then Sarah found it yesterday in our back yard (19 months later):  
 
-![IMG_5418%5B3%5D.jpg](IMG_5418%5B3%5D.jpg)</a> 
+![IMG_5418%5B3%5D.jpg](/assets/2009/IMG_5418%5B3%5D.jpg)</a> 
 
 It seems a puppy stole it and buried it in a shallow grave outside. This is one of the downsides of having a dog door, I guess—your pups can take things outside without your knowledge.
 
 Any how I washed it off and with the exception of a little bite mark and some dirt only visible in macro mode, it looked new:
 
-![IMG_5428%5B6%5D.jpg](IMG_5428%5B6%5D.jpg)</a> 
+![IMG_5428%5B6%5D.jpg](/assets/2009/IMG_5428%5B6%5D.jpg)</a> 
 
 And it works! Woohoo for resilient technology. So that got me thinking…what else could this little card stand up to? More experiments to come (intentionally this time!)…

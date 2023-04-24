@@ -3,7 +3,6 @@ layout: post
 date: '2012-10-30T16:14:00.001-04:00'
 categories:
 - database
-- work
 - code
 - technology
 title: Catching Unique Key Constraint Violations with Entity Framework and SQL Server

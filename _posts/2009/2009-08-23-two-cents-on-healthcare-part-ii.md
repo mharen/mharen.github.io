@@ -8,7 +8,7 @@ title: Two Cents on Healthcare, Part 2
 ---
 
 
-![image%5B12%5D.png](image%5B12%5D.png) My friend Tiffany commented on [part 1](../2009/2009-08-two-cents-on-healthcare.html) of my healthcare posts on Facebook:
+![image%5B12%5D.png](/assets/2009/image%5B12%5D.png) My friend Tiffany commented on [part 1](../2009/2009-08-two-cents-on-healthcare.html) of my healthcare posts on Facebook:
 <blockquote> 
 
 Please address how and/or why the US will remain on the cutting edge of health care without dissolving into the bowels of mediocrity. And, what motivates our most outstanding physicians to continue practicing in this capitalist society? I look forward to your thoughts and will end with a smiley face in order to maintain lightheartedness. :) 
@@ -33,7 +33,7 @@ I appreciate the genuine friendliness with which Tif and Tim signed their commen
 I completely agree with Tim. Our current system [isn’t the world class health care giant](http://www.photius.com/rankings/healthranks.html) we all like to believe it is even though we’re [paying through the nose](http://www.photius.com/rankings/total_health_expenditure_as_pecent_of_gdp_2000_to_2005.html) for it. While those numbers are dated, more [recent analysis](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&scp=8&sq=REED%20ABELSON&st=cse) is grim, too:
 <blockquote> 
 
-[![image%5B6%5D.png](image%5B6%5D.png)](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&scp=8&sq=REED%20ABELSON&st=cse) “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund.   
+[![image%5B6%5D.png](/assets/2009/image%5B6%5D.png)](http://www.nytimes.com/2008/07/17/business/17health.html?_r=1&scp=8&sq=REED%20ABELSON&st=cse) “It’s harder to keep deluding yourself or be complacent that we don’t have areas that need improvement,” said Karen Davis, president of the Commonwealth Fund.   
 
 The study, which assesses the United States on 37 health care measures, finds little improvement since the last report, as the cost of health care continues to rise steadily and more people — even those with insurance — struggle to pay their medical bills.   
 

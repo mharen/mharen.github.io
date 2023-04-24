@@ -9,4 +9,4 @@ Just a quick note: Sarah has uploaded a bunch of [new](/gallery2/v/MayaGraceFirs
 
 
 
-![happy-maya1.jpg](happy-maya1.jpg)
+![happy-maya1.jpg](/assets/2008/happy-maya1.jpg)

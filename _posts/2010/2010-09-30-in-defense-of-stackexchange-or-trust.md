@@ -15,9 +15,9 @@ As an avid Stack Exchange supporter I think he’s wrong. If it does fail, it wo
 First, he was bothered by the wiki nature of the site:
 <blockquote> 
 
-![ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg](ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg)<span class="Apple-style-span" style="text-align: left; line-height: 15px; font-size: 12px;">Execuse my french – but what the fuck are all these “enlightened” people doing editing my answers? If I wanted people editing my words, looking down at me, and deciding to change stuff, I’d start a wiki. as is, my answers are my own, and they reflect my mood, and my typos. and if they want me ot fix them they should ask me.</span>          The site makes no secret that it’s really just a giant wiki. It’s nothing new, either; it was founded with this as a core feature. Further, all new visitors see this when they first hit any page on the site:</blockquote>
+![ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg](/assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg)<span class="Apple-style-span" style="text-align: left; line-height: 15px; font-size: 12px;">Execuse my french – but what the fuck are all these “enlightened” people doing editing my answers? If I wanted people editing my words, looking down at me, and deciding to change stuff, I’d start a wiki. as is, my answers are my own, and they reflect my mood, and my typos. and if they want me ot fix them they should ask me.</span>          The site makes no secret that it’s really just a giant wiki. It’s nothing new, either; it was founded with this as a core feature. Further, all new visitors see this when they first hit any page on the site:</blockquote>
 
-![>    <br class=](>    <br class=)It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you to give a quick look-see. And if you do, there’s a great—though a little long—explanation of how the site works, including this nice tidbit:
+![>    <br class=](/assets/2010/>    <br class=)It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you to give a quick look-see. And if you do, there’s a great—though a little long—explanation of how the site works, including this nice tidbit:
 <blockquote> 
 
 **Other people can edit my stuff?!**  
@@ -27,14 +27,14 @@ Like Wikipedia, this site is collaboratively edited, and all edits are tracked. 
 
 There’s also a slightly less obvious “about” link just under the yellow bar which offers this excellent graphic on the first screen:
 
-![venn-diagram.png](venn-diagram.png)
+![venn-diagram.png](/assets/2010/venn-diagram.png)
 
 Sure, I don’t expect people to read the directions. But, if you don’t read the directions, it’s not really fair to cry fowl about the others that did. And in any case, the edits he’s probably all in a tizzy about are [good, positive edits](http://meta.stackoverflow.com/posts/65452/revisions).
 
 Next, Roy complains that the Stack Exchange overlords wield their iron fist of power abusively and inconsistently as they cherry pick good proposals to support, kill or merge. Or in his rambling words:
 <blockquote> 
 
-![Baby%20Frown_small.jpg](Baby%20Frown_small.jpg)so control freaks as they are – they made a great platform and started selling it to create mini sites for questions. But they didn’t like it – they decided that “for the good of the community” it will be better if people couldn’t “buy” their own stack overflow sites, but instead [the community would have to vote on them](http://area51.stackexchange.com/faq) – controlfreak move #1 – WE decide for YOU that OTHERS will decide for YOU if your idea is good or not.
+![Baby%20Frown_small.jpg](/assets/2010/Baby%20Frown_small.jpg)so control freaks as they are – they made a great platform and started selling it to create mini sites for questions. But they didn’t like it – they decided that “for the good of the community” it will be better if people couldn’t “buy” their own stack overflow sites, but instead [the community would have to vote on them](http://area51.stackexchange.com/faq) – controlfreak move #1 – WE decide for YOU that OTHERS will decide for YOU if your idea is good or not.
 </blockquote>
 
 First, there was clear evidence that the original for-hire model of StackExchange was a failure. They were very open about that and in retrospect it seems obvious why it failed: most sites lacked community. They figured out that the special sauce was to launch the site with a huge group of committed people. And so, they produced a very impressive mechanism for building up a community for any arbitrary topic *before launching a site*—Area 51. And it seems to be working pretty well. 
@@ -42,7 +42,7 @@ First, there was clear evidence that the original for-hire model of StackExchang
 Roy continues:
 <blockquote> 
 
-![ANd9GcTJUm7Y8dQ8StpjfhOfkO7ecAxoler87cdbckjZcqyDC6SFQK8.jpg](ANd9GcTJUm7Y8dQ8StpjfhOfkO7ecAxoler87cdbckjZcqyDC6SFQK8.jpg)[so up goes a suggestion for a unit testing site (dev testing) [to area51].](http://area51.stackexchange.com/proposals/8494/unit-testing) It’s supposed to go through all the confirmation channels, get a specific number of supporters to get to being “live” and then joel and jeff will make it into a real site.   
+![ANd9GcTJUm7Y8dQ8StpjfhOfkO7ecAxoler87cdbckjZcqyDC6SFQK8.jpg](/assets/2010/ANd9GcTJUm7Y8dQ8StpjfhOfkO7ecAxoler87cdbckjZcqyDC6SFQK8.jpg)[so up goes a suggestion for a unit testing site (dev testing) [to area51].](http://area51.stackexchange.com/proposals/8494/unit-testing) It’s supposed to go through all the confirmation channels, get a specific number of supporters to get to being “live” and then joel and jeff will make it into a real site.   
 
 right. only the controlfreak nature won’t let go. the unit testing site is ALMOST up to being a legit site, with people from all over the community wanting to be part of it. after following all the rules that joel and jeff put up themselves, they suddenly drop this bomb - “[hey – why don’t we merge this unit testing thing with another site – it will make more sense that way!”](http://meta.stackoverflow.com/questions/65439/should-developer-testing-be-folded-into-a-more-general-programmers-site/65452#65452)
 </blockquote>

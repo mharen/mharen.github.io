@@ -21,7 +21,7 @@ Arduino is an open-source electronics prototyping platform based on flexible, ea
 
 That is, it’s a little board with circuits and chips and stuff that you can wire things up to. Then, you write programs to control it and neat things happen. Here’s what it looks like:  
 
-![Duemilanove_3.jpg](Duemilanove_3.jpg)
+![Duemilanove_3.jpg](/assets/2010/Duemilanove_3.jpg)
 
 It’s about half the size of a fancy smart phone—it easily fits in your hand. Even small hands!
 
@@ -29,7 +29,7 @@ Oh, and it’s $25—$30 shipped.
 
 The coolest thing about Arduino, besides it's capabilities and awesome price, is it’s popularity. Being open source, a lot of different people make it, and it comes in a lot of [different sizes](http://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=148). For small projects, you can get something like this:
 
-![tiny%20arduino%5B7%5D.jpg](tiny%20arduino%5B7%5D.jpg)
+![tiny%20arduino%5B7%5D.jpg](/assets/2010/tiny%20arduino%5B7%5D.jpg)
 
 It’s widely available, and being crazy popular, there’s a lot of people posting tutorials, examples, and accessories for it. The community support behind this thing is incredible. This is good, because I’m going to need all the help I can get.
 

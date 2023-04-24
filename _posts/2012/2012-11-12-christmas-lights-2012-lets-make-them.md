@@ -4,7 +4,7 @@ date: '2012-11-12T23:52:00.001-05:00'
 categories:
 - household
 - nablopomo 2012
-title: "Christmas Lights 2012: \u201CLet\u2019s Make Them Nice This Time\u201D"
+title: "Christmas Lights 2012: \u201CLet's Make Them Nice This Time\u201D"
 ---
 
 
@@ -16,11 +16,11 @@ The issue we had last year was that the wind would knock the lights all over the
 
 Of course I&#160; used clips last year, too, but only directly on the wires and spaced them pretty far apart (every six feet or so). This year we used the clips we bought on clearance late last December (foresight FTW) and used over 200 of them. They work essentially like this (not our actual lights or clips—this is just an example):
 
-![all-in-one-christmas-light-clips-IMG_8583.jpg](all-in-one-christmas-light-clips-IMG_8583.jpg)
+![all-in-one-christmas-light-clips-IMG_8583.jpg](/assets/2012/all-in-one-christmas-light-clips-IMG_8583.jpg)
 
 They’re easy, but it takes a lot longer. Wife and I are very, very pleased with the results so far. 
 
-![DSC_0039%5B3%5D.jpg](DSC_0039%5B3%5D.jpg)
+![DSC_0039%5B3%5D.jpg](/assets/2012/DSC_0039%5B3%5D.jpg)
 
 I should probably get a tripod and a remote, but considering that these were taken in near-total darkness we’re lucky we can see anything at all.
 

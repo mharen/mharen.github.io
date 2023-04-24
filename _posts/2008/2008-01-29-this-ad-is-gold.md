@@ -7,4 +7,4 @@ title: This Ad is Gold
 
 If you're listening out there, Geico, I just saved you a bunch of money on your...marketing?
 
-![switchedtogeico.jpg](switchedtogeico.jpg)</a>
+![switchedtogeico.jpg](/assets/2008/switchedtogeico.jpg)</a>

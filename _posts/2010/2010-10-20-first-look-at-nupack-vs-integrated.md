@@ -7,11 +7,11 @@ title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 
 <h4>Installation</h4>
 
-Couldn’t be easier:  <ul>   <li>![image2.png](image2.png)[<u><font color="#0066cc">http://nupack.codeplex.com/</font></u>](http://nupack.codeplex.com/) </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
+Couldn’t be easier:  <ul>   <li>![image2.png](/assets/2010/image2.png)[<u><font color="#0066cc">http://nupack.codeplex.com/</font></u>](http://nupack.codeplex.com/) </li>    <li>Download </li>    <li>Go </li> </ul>  <h4>First Run</h4>
 
 Fire up Visual Studio 2010 and open the Package Manager Console under View > Other Windows > Package Manager Console (or press C-W, C-Z):
 
-![image23.png](image23.png)
+![image23.png](/assets/2010/image23.png)
 
 From here you get a nice, friendly command line window:
 <blockquote>   <pre><code>
@@ -58,7 +58,7 @@ PM>
 Nice! OK, Let’s open up a new ASP.NET MVC App:
 
 
-![image22.png](image22.png)
+![image22.png](/assets/2010/image22.png)
 
 
 And throw together a simple MVC app:
@@ -138,7 +138,7 @@ View:
 Output:
 
 
-![image26.png](image26.png)
+![image26.png](/assets/2010/image26.png)
 
 
 It works! Now let’s improve that view code by trying out that fancy [T4MVC](http://mvccontrib.codeplex.com/wikipage?title=T4MVC) stuff I’ve [heard](http://channel9.msdn.com/blogs/jongalloway/jon-takes-five-with-david-ebbo-on-t4mvc) so much about:
@@ -160,7 +160,7 @@ That was easy. But what just happened? It looks like some files were added:
 
 
 
-![image13.png](image13.png)
+![image13.png](/assets/2010/image13.png)
 
 
 Sweet! Now I have T4MVC all ready to go and can do neat things like this:

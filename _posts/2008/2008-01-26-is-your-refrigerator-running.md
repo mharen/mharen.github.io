@@ -11,13 +11,13 @@ I have had a string of some pretty bad luck recently. One link in the chain was 
 
 
 
-![logo_ahs.gif](logo_ahs.gif)<span style="font-weight: bold;">Friday 5pm:</span> The service guys don't call, but Fred starts cooling again. Being naive optimists, we take this as a good sign and decide to wait until Monday to raise a ruckus.
+![logo_ahs.gif](/assets/2008/logo_ahs.gif)<span style="font-weight: bold;">Friday 5pm:</span> The service guys don't call, but Fred starts cooling again. Being naive optimists, we take this as a good sign and decide to wait until Monday to raise a ruckus.
 
 <span style="font-weight: bold;">Saturday 2pm:</span> Fred is dead again. Water is everywhere. I curse myself for leaving the ice maker on. Sarah cries. I call AHShole again and am told my claim has been escalated and I should have a technician call me back within the hour. This guy, Jim, is incredibly nice. For a second there, I actually expect someone to call me back.
 
 
 
-![suckyoufridge.jpg](suckyoufridge.jpg)<span style="font-weight: bold;">Saturday 3pm:</span> Fred continues to drip what I can only guess is some sort of refrigerator embalming fluid. No one calls. I call AHShole back and am told that my claim is going through the system again and that I should hear back by 5pm. Seriously.
+![suckyoufridge.jpg](/assets/2008/suckyoufridge.jpg)<span style="font-weight: bold;">Saturday 3pm:</span> Fred continues to drip what I can only guess is some sort of refrigerator embalming fluid. No one calls. I call AHShole back and am told that my claim is going through the system again and that I should hear back by 5pm. Seriously.
 
 <span style="font-weight: bold;">Saturday 6pm:</span> No one called. I ask why no one called and the unhelpful answer is that "the contractor isn't picking up." Then it sounds like you need to call a different contractor. I am now told that I should use "outside authorization." She explains that I can call anyone I want for a diagnosis but AHShole needs to approve any repairs before they are performed. Luckily for me, since AHShole stalled all damn day, it's not 6pm on a Saturday and no one within 50 miles is picking up.
 
@@ -27,7 +27,7 @@ I have had a string of some pretty bad luck recently. One link in the chain was 
 
 
 
- ![tummy-fridge.jpg](tummy-fridge.jpg)<span style="font-weight: bold;">Monday 3pm:</span> I call Ruple to ask what's going on. He says that he needs the money for the parts up front and that he can spin by to pick it up and order the part on Tuesday. I ask if he's kidding, if he really expects me to prepay *cash* and just hope for the best. He wasn't kidding. I tell him to forget about it.
+ ![tummy-fridge.jpg](/assets/2008/tummy-fridge.jpg)<span style="font-weight: bold;">Monday 3pm:</span> I call Ruple to ask what's going on. He says that he needs the money for the parts up front and that he can spin by to pick it up and order the part on Tuesday. I ask if he's kidding, if he really expects me to prepay *cash* and just hope for the best. He wasn't kidding. I tell him to forget about it.
 
 <span style="font-weight: bold;">Monday 9pm:</span> I call AHShole and ask that they send someone else since the guy I called didn't work out. They explain that since they'd already paid for a diagnosis they would not send anyone else out and Ruples is the only guy who can do the work. I tell them that I think he is trying to scam me and that I don't trust his diagnosis. Further, they didn't pay him, I did. Further still, I don't want reimbursement of my $35, I just want someone to come out and fix Fred.
 

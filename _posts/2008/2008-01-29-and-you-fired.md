@@ -5,4 +5,4 @@ categories: family
 title: And You're Fired!
 ---
 
-![firedpuppy.jpg](firedpuppy.jpg)</a>
+![firedpuppy.jpg](/assets/2008/firedpuppy.jpg)</a>

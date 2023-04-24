@@ -12,7 +12,7 @@ A while back I got the worst haircut I’ve ever gotten. I could tell because wh
 
 I could see the flurry of familiar questions each horrified/amused onlooker mentally dismissed when they first met me after the cut…did he cut his own hair? Is that a wig? Did he pay for that? Then I’d invariably see their eyes trace a circle around my head as they imagined the bowl that must have been used as a cutting template. It came out something like this:
 
-![image%5B7%5D.png](image%5B7%5D.png)
+![image%5B7%5D.png](/assets/2009/image%5B7%5D.png)
 
 Maybe I got what I deserved by going to a place called Fantastic Sams and paying a mere $11.
 
@@ -52,7 +52,7 @@ Hmmm so no training required at all…awesome. So she’s cutting my hair and do
 
 So I was done and had what I guess was just a hack job that resembled something like this:  
 
-![bad-hair-day.jpg](bad-hair-day.jpg)([artist](http://www.flickr.com/photos/fordbuchanan/3263291855/) rendering)
+![bad-hair-day.jpg](/assets/2009/bad-hair-day.jpg)([artist](http://www.flickr.com/photos/fordbuchanan/3263291855/) rendering)
 
 Then I’m not sure how this happened, but Sarah (who only rarely gets her hair cut), decided to get a trim and got the same person! I swear I didn’t know, babe—honest!
 

@@ -7,11 +7,11 @@ categories:
 title: Sarah's Teaching Job
 ---
 
-![slhs.gif](slhs.gif)Sarah started teaching biology a couple weeks ago at [Southern Lee High School](http://www.lee.k12.nc.us/schools/slhs/index.html) in Sanford, North Carolina. She has three regular bio classes and is crazy busy. She leaves the house around 6am and returns around 6pm. Then she writes lesson plans and tests until midnight or later. She is finally catching up to the point where she is working a few days in advance and can occasionally get 5 hours of sleep.
+![slhs.gif](/assets/2006/slhs.gif)Sarah started teaching biology a couple weeks ago at [Southern Lee High School](http://www.lee.k12.nc.us/schools/slhs/index.html) in Sanford, North Carolina. She has three regular bio classes and is crazy busy. She leaves the house around 6am and returns around 6pm. Then she writes lesson plans and tests until midnight or later. She is finally catching up to the point where she is working a few days in advance and can occasionally get 5 hours of sleep.
 
 I am not joking here. She is working her freaking tail off for those little punks. Oh yeah, about her students...
 
-![apple.thumbnail.jpg](apple.thumbnail.jpg)This is a regular bio class—not enriched or college-prep or anything. The ability to read is apparently not a prerequisite. I took her first test and got a 98 on it—I haven’t seen any bio crap in more than 6 years and I missed one question. After giving the same test to 75 students, she had less than five As.
+![apple.thumbnail.jpg](/assets/2006/apple.thumbnail.jpg)This is a regular bio class—not enriched or college-prep or anything. The ability to read is apparently not a prerequisite. I took her first test and got a 98 on it—I haven’t seen any bio crap in more than 6 years and I missed one question. After giving the same test to 75 students, she had less than five As.
 
 This is easy stuff. For example, a question on lab safety: “True/False It is good practice to taste unknown liquids to identify the chemical present.” What?! Even my dog knows not to do that and he’ll eat *anything*.
 

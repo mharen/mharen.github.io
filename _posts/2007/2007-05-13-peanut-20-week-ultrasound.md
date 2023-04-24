@@ -9,7 +9,7 @@ My parents gave us a 3D ultrasound for Easter and it was great!
 
 
 
-![pics_39.JPG](pics_39.JPG)We got lots of [awesome shots](http://wassupy.com/gallery2/v/Peanut/" title="Peanut at 20 weeks) of her and a [neat video](http://www.youtube.com/watch?v=pLG61gP3yvc).
+![pics_39.JPG](/assets/2007/pics_39.JPG)We got lots of [awesome shots](http://wassupy.com/gallery2/v/Peanut/" title="Peanut at 20 weeks) of her and a [neat video](http://www.youtube.com/watch?v=pLG61gP3yvc).
 
 
 

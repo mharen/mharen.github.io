@@ -4,13 +4,13 @@ date: '2009-06-29T14:06:00.002-04:00'
 categories:
 - windows
 - technology
-title: "Diagnosis II: Why Can\u2019t LiveWriter Post from Work?"
+title: "Diagnosis II: Why Can't LiveWriter Post from Work?"
 ---
 
 
 The remote server returned an error: (403) Forbidden.I’m at working trying to toss up blog post here and there and things are coasting along smoothly with Windows Live Writer when I see this when I hit *publish* (bonk):  
 
-![image8.png](image8.png)   
+![image8.png](/assets/2009/image8.png)   
 
 It seems that even none of the blogger/blogspot domains are blocked here, blogger ships its images to [http://picasaweb.google.com/](http://picasaweb.google.com/), which *is *blocked. No matter, I asked our friendly IT admin to unblock it. Now I can publish. But did it work?  
 

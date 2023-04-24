@@ -14,7 +14,7 @@ First off: this will change as I go.
 
 Here’s my first pass at the database tables for Project Noodle:
 
-![image%5B12%5D.png](image%5B12%5D.png)
+![image%5B12%5D.png](/assets/2010/image%5B12%5D.png)
 
 It’s definitely not fully normalized (e.g. <code>Interviews.{CriterionValue1,2,3}</code>)—some of that’s intentional. Database design is always a balance.
 
@@ -30,7 +30,7 @@ On the other hand, since HR will likely want to schedule interviews in advance, 
 
 Having been down this road before, I’m opting for a master table. I’ve found that it helps solve a lot of problems that may not be obvious just yet and it’s probably The Right Thing To Do. Here we go:
 
-![image%5B16%5D.png](image%5B16%5D.png)
+![image%5B16%5D.png](/assets/2010/image%5B16%5D.png)
 
 A more enterprisey solution would probably break out the ratings from the <code>Interviews</code> table, move the photo and resume columns from <code>Candidates</code> into a full blown files table, add a <code>Locations</code> table to hold conference rooms, and a <code>CandidateTypes</code> table for values like “SW Coop”. 
 

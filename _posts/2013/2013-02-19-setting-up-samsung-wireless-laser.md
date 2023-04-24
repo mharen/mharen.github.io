@@ -2,9 +2,7 @@
 layout: post
 date: '2013-02-19T21:20:00.001-05:00'
 categories: technology
-title: 'Setting up a Samsung Wireless Laser Printer with a Phone or Tablet
-
-  (i.e. Without a Computer)'
+title: Setting up a Samsung Wireless Laser Printer with a Phone or Tablet (i.e. Without a Computer)
 ---
 
 We have finally ditched our money pit inkjet printer in favor of a slightly more economical laser printer. We opted for a very cheap, but capable Samsung ML-2165W. It's monochrome, fast, and supports wireless connectivity. 
@@ -35,9 +33,9 @@ Launch that printer app again and go to print something else. This should allow 
 
 Now go kill some trees! 
 
-<div class="separator" style="clear: both; text-align: center;">[![blogger-image-855070614.jpg](blogger-image-855070614.jpg)](https://lh3.googleusercontent.com/-zhKBuMUGGrk/USQy0wjnCUI/AAAAAAAAFiE/gQCkcyhTjjk/s640/blogger-image-855070614.jpg" style="margin-left: 1em; margin-right: 1em;)</div> 
+![blogger-image-855070614.jpg](/assets/2013/blogger-image-855070614.jpg)
 
-<div class="separator" style="clear: both; text-align: center;">[![blogger-image-519166345.jpg](blogger-image-519166345.jpg)](https://lh4.googleusercontent.com/-SgC8NNFR37M/USQy2F7rA4I/AAAAAAAAFiM/KNZs8Z1CLPE/s640/blogger-image-519166345.jpg" style="margin-left: 1em; margin-right: 1em;)</div>
+![blogger-image-519166345.jpg](/assets/2013/blogger-image-519166345.jpg)
 
 ---
 

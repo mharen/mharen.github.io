@@ -7,7 +7,7 @@ title: 'The average blah has a bajillion times more bacteria than the average
   toilet seat'
 ---
 
-![mouse.jpg](mouse.jpg)I have heard this phrase [over](http://www.realtechnews.com/posts/2933) and [over](http://www.lifehack.org/articles/lifehack/average-desk-harbors-400-times-more-bacteria-than-average-toilet-seat.html) and [over](http://www.theregister.co.uk/2004/08/13/toilet_filthy/) and [over](http://www.wellnessjunction.com/athome/disease_prevention/gerba.htm) again. [Mythbusters](http://en.wikipedia.org/wiki/MythBusters_%28season_1%29#Toothbrush_Surprise) even did a show slightly related to this.
+![mouse.jpg](/assets/2006/mouse.jpg)I have heard this phrase [over](http://www.realtechnews.com/posts/2933) and [over](http://www.lifehack.org/articles/lifehack/average-desk-harbors-400-times-more-bacteria-than-average-toilet-seat.html) and [over](http://www.theregister.co.uk/2004/08/13/toilet_filthy/) and [over](http://www.wellnessjunction.com/athome/disease_prevention/gerba.htm) again. [Mythbusters](http://en.wikipedia.org/wiki/MythBusters_%28season_1%29#Toothbrush_Surprise) even did a show slightly related to this.
 
 Now we have a [mouse](http://www.lewispr.com/us/wire/index.php?news_id=1915) designed to tackle this "problem". Work with me here...if you clean your bathroom regularly (or even occasionally!), but rarely clean your desk, which do you expect to be cleaner?
 

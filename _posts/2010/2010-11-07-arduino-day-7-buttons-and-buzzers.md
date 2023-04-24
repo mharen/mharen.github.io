@@ -19,13 +19,13 @@ Here we go:
 
   <h4>Build</h4>
 
-![IMAG0719%5B8%5D.jpg](IMAG0719%5B8%5D.jpg)  <h4>Circuit</h4>
+![IMAG0719%5B8%5D.jpg](/assets/2010/IMAG0719%5B8%5D.jpg)  <h4>Circuit</h4>
 
 Crazy simple circuit today:
 
-![Sketch_bb%5B7%5D.png](Sketch_bb%5B7%5D.png)  <h4>Schematic</h4>
+![Sketch_bb%5B7%5D.png](/assets/2010/Sketch_bb%5B7%5D.png)  <h4>Schematic</h4>
 
-![Sketch_schem%5B7%5D.png](Sketch_schem%5B7%5D.png)  <h4>Code</h4>
+![Sketch_schem%5B7%5D.png](/assets/2010/Sketch_schem%5B7%5D.png)  <h4>Code</h4>
 
 Today’s coding was a very simple selection from previous exercises, so this should look familiar:
 <blockquote>   

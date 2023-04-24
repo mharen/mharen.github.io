@@ -15,19 +15,19 @@ First, as a realtor showing a home, you should…care. At least a tiny bit. You 
 
 There’s really no reason why vacant houses should have random piles of junk sitting around. There might be someone out there who’s only interested in a three bedroom, two bath house with full drum set and mystery room of junk that wasn’t valuable enough to take, but I bet that’s a niche market.
 
-![IMG_20110213_145455%5B5%5D.jpg](IMG_20110213_145455%5B5%5D.jpg)
+![IMG_20110213_145455%5B5%5D.jpg](/assets/2011/IMG_20110213_145455%5B5%5D.jpg)
 
 If you’re into recreational “chemistry”, take your hobby with you.
 
-![IMG_20110213_145200%5B13%5D.jpg](IMG_20110213_145200%5B13%5D.jpg)
+![IMG_20110213_145200%5B13%5D.jpg](/assets/2011/IMG_20110213_145200%5B13%5D.jpg)
 
 I appreciate that you had the home winterized—really—but is it really necessary to have toilet parts and water meters sitting around? I mean, once the water’s out, your good, right?
 
-![IMG_20110213_150908%5B13%5D.jpg](IMG_20110213_150908%5B13%5D.jpg)
+![IMG_20110213_150908%5B13%5D.jpg](/assets/2011/IMG_20110213_150908%5B13%5D.jpg)
 
 If the house is totally empty except for one can of Raid, what image do you think I’ll form in my mind when I find it? Of all the things I will need in this house, it’s a can of lightning-bolt-bug-killer? Ewww, no thanks. Now that I think about it though, killing flying insects with lightning is pretty bad-ass. +1 to you, Raid-bottle-designer-guy.
 
-![IMG_20110213_150644%5B15%5D.jpg](IMG_20110213_150644%5B15%5D.jpg)
+![IMG_20110213_150644%5B15%5D.jpg](/assets/2011/IMG_20110213_150644%5B15%5D.jpg)
 
 Also, if you’re going to go to all the effort of hanging around a house for three hours, you might as well arrange for the walk up to the house to be shoveled free of snow and ice. In the very least, put down some salt so we don’t break our nosy bums poking around other people’s houses.
 

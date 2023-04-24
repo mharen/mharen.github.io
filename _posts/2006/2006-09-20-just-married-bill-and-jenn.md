@@ -11,4 +11,4 @@ A couple days ago Sarah got a birthday gift from the new couple and included in 
 
 
 
-![BillJenn.jpg](BillJenn.jpg)
+![BillJenn.jpg](/assets/2006/BillJenn.jpg)

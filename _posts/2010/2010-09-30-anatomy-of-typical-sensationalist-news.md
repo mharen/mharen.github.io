@@ -8,11 +8,11 @@ title: Anatomy of a Typical Sensationalist News Story
 
 In our highly charged media, it’s exceedingly common (and frustrating) to see a ridiculous news headline which is not supported by the story within. Here’s what I mean; level of alarm is on the y-axis and piece of the story is on the x-axis:
 
-![image%5B3%5D.png](image%5B3%5D.png)
+![image%5B3%5D.png](/assets/2010/image%5B3%5D.png)
 
 Yikes! Things start out pretty serious. After keeping our attention with a few random facts, the story is finally killed by its own lame ties to reality.
 
-![ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI.jpg](ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI.jpg)Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
+![ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI.jpg](/assets/2010/ANd9GcTku1TaBkGO35bPzfdoNsVfxvlAUV2mwWl5rU8yTLU8mqL4abI.jpg)Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
 
 **Headline: **
 <blockquote> 
@@ -60,6 +60,6 @@ What, what? So he was out of there next year anyway? When he leaves, he’ll hav
 
 By the way, the Google Image results for [[Vaughn R. Walker](http://www.google.com/images?q=Vaughn+R.+Walker)]—the judge—are pretty hilarious:
 
-![image%5B12%5D.png](image%5B12%5D.png)  
+![image%5B12%5D.png](/assets/2010/image%5B12%5D.png)  
 
 Assuming he’s the old guy in a suit, hitting slots 1-3 is pretty good. After that it falls apart, though.

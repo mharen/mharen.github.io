@@ -22,21 +22,21 @@ Whenever the build status changes (any of “success”, “building” or “fa
 
 In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/" target="_blank) to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
 
-![chuck-norris-delta-force.jpg](chuck-norris-delta-force.jpg)
+![chuck-norris-delta-force.jpg](/assets/2010/chuck-norris-delta-force.jpg)
 
 You might imagine how politically correct and culturally sensitive a 1986 movie about terrorism, with the subtitle “They don't negotiate with terrorists... they blow them away!” is. It’s like *24* with less talk and more explosions.
 
 But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
 
-[![Norrishuckabee%5B5%5D.jpg](Norrishuckabee%5B5%5D.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank)
+[![Norrishuckabee%5B5%5D.jpg](/assets/2010/Norrishuckabee%5B5%5D.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank)
 
 70. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/" target="_blank).  <h4>Build (Repeat)</h4>
 
-![DSC_00113%5B2%5D.jpg](DSC_00113%5B2%5D.jpg)  <h4>Circuit (Repeat)</h4>
+![DSC_00113%5B2%5D.jpg](/assets/2010/DSC_00113%5B2%5D.jpg)  <h4>Circuit (Repeat)</h4>
 
-![Sketch_bb6%5B2%5D.png](Sketch_bb6%5B2%5D.png)  <h4>Schematic (Repeat)</h4>
+![Sketch_bb6%5B2%5D.png](/assets/2010/Sketch_bb6%5B2%5D.png)  <h4>Schematic (Repeat)</h4>
 
-![Sketch_schem6%5B2%5D.png](Sketch_schem6%5B2%5D.png)  <h4>Code (Updated)</h4>  <h5>C#</h5>
+![Sketch_schem6%5B2%5D.png](/assets/2010/Sketch_schem6%5B2%5D.png)  <h4>Code (Updated)</h4>  <h5>C#</h5>
 
 I started out today by doing all this in Powershell…but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
 <blockquote>   

@@ -11,11 +11,11 @@ title: Moving List Items Between Lists
 
 I often apply a push-pull pattern when working with business/data interfaces. I’m talking about something like this:
 
-![image%5B2%5D.png](image%5B2%5D.png) 
+![image%5B2%5D.png](/assets/2010/image%5B2%5D.png) 
 
 I don’t much like these so I came up with something similar that works well for small datasets which I’ll describe here. Here it is [in action](http://jsbin.com/ucoqi):
 
-[![image%5B6%5D.png](image%5B6%5D.png)](http://jsbin.com/ucoqi) and here’s how to [build it](http://jsbin.com/ucoqi/edit). First, the basic layout:  
+[![image%5B6%5D.png](/assets/2010/image%5B6%5D.png)](http://jsbin.com/ucoqi) and here’s how to [build it](http://jsbin.com/ucoqi/edit). First, the basic layout:  
 ```cs
 <body>
   <ul id='list1'>

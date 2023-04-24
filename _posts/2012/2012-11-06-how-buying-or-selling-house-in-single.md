@@ -30,7 +30,7 @@ But how could this all be different? I think it’s a lot simpler than you might
 
 You can walk into a dealership and purchase a nice car or truck for $30,000-40,000. That’s a lot of money, and has a monthly payment<sup id="sup1-20121106">[1](#foot1-20121106)</sup> comparable to a house<sup id="sup2-20121106">[2](#foot2-20121106)</sup> worth about $140,000. And all it takes is a driver license and your afternoon (and probably good credit). Let’s examine how the car people do it.
 
-![house%20equals%20car.jpg](house%20equals%20car.jpg)
+![house%20equals%20car.jpg](/assets/2012/house%20equals%20car.jpg)
 
 Even though it’s masked in mountains of paperwork, you really only need two things to convince a bank to loan you money: collateral that they can go after if you can’t pay them back and some assurance that you will make your payments. The car people have streamlined everything around these two things to make the process quick.
 

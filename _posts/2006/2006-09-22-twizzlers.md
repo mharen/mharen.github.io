@@ -9,4 +9,4 @@ I know you're not supposed to get into Heaven just by merit, but whoever invente
 
 
 
-![twizzlers.gif](twizzlers.gif)
+![twizzlers.gif](/assets/2006/twizzlers.gif)
