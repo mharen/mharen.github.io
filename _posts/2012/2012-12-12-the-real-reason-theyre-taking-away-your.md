@@ -4,9 +4,8 @@ date: '2012-12-12T20:33:00.001-05:00'
 categories:
 - wireless
 - technology
-title: "The Real Reason They're Taking Away Your Unlimited Data"
+title: The Real Reason They're Taking Away Your Unlimited Data
 ---
-
 
 When the wireless companies started cutting back on their unlimited data offerings last year, I was a little confused. AT&T went first, then Verizon. 
 

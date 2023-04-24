@@ -9,7 +9,6 @@ categories:
 title: "SQL Server 2012: \u201CSaving changes is not permitted\u2026\u201D"
 ---
 
-
 Are you riding the new SQL Server 2012 HAWTNESS? Good for you. Did you try to make a table change in Management Studio that requires a table rebuild? Ouch. So you’ve seen this, then:
 
 ![alter%5B2%5D.png](/assets/2012/alter%5B2%5D.png)

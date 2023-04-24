@@ -5,17 +5,15 @@ categories:
 - code
 - technology
 - sap
-title: "SAP Connector: \u201CERROR service '?' unknown\u201D (SOLVED)"
+title: "SAP Connector: \"ERROR service '?' unknown\" (SOLVED)"
 ---
 
-
 So you’ve been using the SAP .NET Connector 3.0 for a while and it’s working great to connect your .NET application to SAP when suddenly you start getting this error:
-<blockquote> 
 
-**ERROR service '?' unknown**
-</blockquote>
+> `**ERROR service '?' unknown**`
 
 You probably have some code like this (or you’re just trying to [login](http://www.sapgeek.net/2010/02/sapgui-error-errorservice-unknown/) or get your app to run):  
+
 ```cs
 Server = RfcServerManager.GetServer(serverName, rfcHandlers);
 
@@ -24,23 +22,14 @@ Server = RfcServerManager.GetServer(serverName, rfcHandlers);
 Server.Start();
 ```
 
-
-
 So what happened? I’m guessing you have a new machine or recently removed some SAP-related software. I’m also guessing that if you install the SAP Logon pad, this issue will go away. But you don’t have to go to all that trouble! In my experience, all you need to do is add some configuration to the system services file. Here’s how:
 
-<ol>
-  <li>Open Notepad as an administrator </li>
-
-  <li>Open this file: <code>**%windir%\system32\drivers\etc\services**</code> </li>
-
-  <li>Look around for services starting with "sap" </li>
-
-  <li>Assuming you don't find much, add these lines to the end: 
-    
-
-
-
-    <pre>sapdp00  3200/tcp
+  * Open Notepad as an administrator 
+  * Open this file: `%windir%\system32\drivers\etc\services`
+  * Look around for services starting with "sap" 
+  * Assuming you don't find much, add these lines to the end: 
+```ini
+sapdp00  3200/tcp
 sapdp01  3201/tcp
 sapdp02  3202/tcp
 sapdp03  3203/tcp
@@ -241,19 +230,12 @@ sapgw97  3397/tcp
 sapgw98  3398/tcp
 sapgw99  3399/tcp
 ```
-
-  </li>
-
-  <li>Save the file and restart your application (rebooting the machine shouldn't be required) </li>
-</ol>
-
+  * Save the file and restart your application (rebooting the machine shouldn't be required)
 
 Strictly speaking, you should only really one or two of these—the one that corresponds to your SAP system—but I don’t think it hurts anything to have them all in there.
 
-<h3>Other Things To Try</h3>
-
+### Other Things To Try
 
 If that doesn’t fix it, you might also make sure you’re [using a hostname](http://scn.sap.com/message/7362628) (not an IP address) and that you are using the [right connection](http://scn.sap.com/message/10615183#10615183) for your situation (ashost/application server host vs. message server host else there is).
-
 
 I also stumbled across a user [reporting an issue with tabs vs. spaces](http://social.technet.microsoft.com/Forums/en-US/identitylifecyclemanager/thread/6b0c21e2-3f10-47df-be92-f9b682805dd9/). I’ve not had any trouble with spaces but your mileage may vary.
