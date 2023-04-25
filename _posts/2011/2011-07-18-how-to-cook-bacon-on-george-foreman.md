@@ -8,11 +8,11 @@ title: How to Cook Bacon on a George Foreman Grill
 
 Place strips of bacon on hot grill:
 
-![IMG_20110131_194415[4].jpg](/assets/2011/IMG_20110131_194415[4].jpg)
+![IMG_20110131_194415.jpg](/assets/2011/IMG_20110131_194415.jpg)
 
 Burn grill marks into bacon, without cooking evenly.
 
-![IMG_20110131_194319[4].jpg](/assets/2011/IMG_20110131_194319[4].jpg)
+![IMG_20110131_194319.jpg](/assets/2011/IMG_20110131_194319.jpg)
 
 Eat bacon anyway.
 
@@ -26,15 +26,6 @@ Never try cooking bacon this way again.
 
 **Katie said on 2011-07-18**
 
-You forgot to mention to make sure not to burn your foot on the grill like Micheal Scott- 
+You forgot to mention to make sure not to burn your foot on the grill like Michael Scott- 
 
 "I enjoy having breakfast in bed. I like waking up to the smell of bacon- sue me- and since I don''t have a butler, I have to do it myself. So most nights before I go to bed I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill. I go back to sleep again. Then I wake up to the smell of crackling bacon. It is delicious. It''s good for me. It's the perfect way to start the day. Today I got up, I stepped onto the grill and it clamped down on my foot. That''s it. I don't see what's so hard to believe about that"
-
-**Katie said on 2011-07-18**
-
-oh and I have never been able to spell Michael correctly - sorry
-
-**Michael Haren said on 2011-07-18**
-
-Good advice, and no worries on the spelling.
-

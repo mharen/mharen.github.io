@@ -9,22 +9,19 @@ categories:
 title: Reseeding *All* Identity Values in a Database
 ---
 
-
 *(This post was written against SQL Server 2000. The concepts apply to more recent versions, but the batch script may not work on them.)*
 
 If you work intimately with databases for very long, you might run into an issue where you can’t insert a record because of some weird duplicate primary key error:
-<blockquote> 
 
-<font color="#ff0000">Msg 2627, Level 14, State 1, Line whatever        
-
-Violation of PRIMARY KEY constraint 'PK'. Cannot insert duplicate key in object '<table>'.</font>       
-
+```
+Msg 2627, Level 14, State 1, Line whatever        
+Violation of PRIMARY KEY constraint 'PK'. Cannot insert duplicate key in object '<table>'.
 The statement has been terminated.
-</blockquote>
+```
 
 “That’s strange,” you’ll say, because it’s failing on an identity column, which is supposed to auto-increment. Here’s a test case that demonstrates this behavior, and the fix:
-<blockquote>   
-```cs
+
+```sql
 CREATE TABLE IdentityTest (ID INT IDENTITY PRIMARY KEY)
 
 -- insert auto-incrementing values
@@ -51,25 +48,16 @@ SELECT * FROM IdentityTest -- 1, 2, 3, -2, -1, 0, 4
 DROP TABLE IdentityTest
 ```
 
-</blockquote>
-
-
 The easiest way to fix this is to reset (“reseed”) the table’s identity value:
 
-<blockquote>
   
-```cs
+```sql
 DBCC CHECKIDENT (IdentityTest, RESEED) -- fix!
 ```
 
-</blockquote>
-
-
 This script, pulled from [RedGate’s forums](http://bit.ly/plJNx2) (an awesome company, by the way), resets those identity values for every table in the database:
 
-<blockquote>
-  
-```cs
+```sql
 -- courtesy of RedGate forums http://bit.ly/plJNx2
 DECLARE @table NVARCHAR(4000), @column NVARCHAR(4000)
 
@@ -100,8 +88,5 @@ END
 CLOSE row
 DEALLOCATE row
 ```
-
-</blockquote>
-
 
 This is handy to have in the toolbox when a data sync screws up a bunch of tables. In fact, that’s the primary reason I’m posting it here—so ***I*** can refer back to it in the future as needed.

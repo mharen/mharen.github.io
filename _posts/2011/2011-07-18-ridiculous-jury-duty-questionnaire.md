@@ -7,39 +7,38 @@ categories:
 title: A Ridiculous Jury Duty Questionnaire
 ---
 
-
 A while back I got a jury duty notice. A couple weeks before I was due to appear I received a huge questionnaire in the mail. This thing was more comprehensive than everything Wife and I did for premarital counseling. Over 100 questions.
 
 After I sent this in, but before I had to appear the case was continued so I never appeared. With that in mind, and because no one told me not to, I’d like to share some select answers.
 
 Before you think I’m just cherry-picking questions, I’m not. This thing was personal:
 
-![IMG_20110302_191038[4].jpg](/assets/2011/IMG_20110302_191038[4].jpg)
+![IMG_20110302_191038.jpg](/assets/2011/IMG_20110302_191038.jpg)
 
 That covered my detailed family history, religion, politics, career, salary, parenting, education, etc. Yikes!
 
 Here are some of my favorite answers:  
 
-![IMG_20110302_191429[8].jpg](/assets/2011/IMG_20110302_191429[8].jpg)
+![IMG_20110302_191429.jpg](/assets/2011/IMG_20110302_191429.jpg)
 
-![IMG_20110302_191835[7].jpg](/assets/2011/IMG_20110302_191835[7].jpg)
+![IMG_20110302_191835.jpg](/assets/2011/IMG_20110302_191835.jpg)
 
 Once I even did computer stuff *at *a pizza place.
 
-![IMG_20110302_192155[3].jpg](/assets/2011/IMG_20110302_192155[3].jpg)
+![IMG_20110302_192155.jpg](/assets/2011/IMG_20110302_192155.jpg)
 
 Wife compelled me to *not attach *a list describing her job.
 
-![IMG_20110302_195136[3].jpg](/assets/2011/IMG_20110302_195136[3].jpg)
+![IMG_20110302_195136.jpg](/assets/2011/IMG_20110302_195136.jpg)
 
 (Before you assume I hate authority, check out questions 96-98 farther down.)
 
-![IMG_20110302_195104[4].jpg](/assets/2011/IMG_20110302_195104[4].jpg)
+![IMG_20110302_195104.jpg](/assets/2011/IMG_20110302_195104.jpg)
 
 And finally, after nearly eight years, the secret to my lasting marriage is revealed in question 102.
 
-![IMG_20110302_195122[4].jpg](/assets/2011/IMG_20110302_195122[4].jpg)
+![IMG_20110302_195122.jpg](/assets/2011/IMG_20110302_195122.jpg)
 
-As a genuinely curious person, with a strong sense of civic duty, I was sincerely disappointed that this fizzled out as quickly as it did. I’ve seen *12 Angry Men *and tons of *Law and Order *so I’m basically an expert.
+As a genuinely curious person, with a strong sense of civic duty, I was sincerely disappointed that this fizzled out as quickly as it did. I’ve seen *12 Angry Men* and tons of *Law and Order* so I’m basically an expert.
 
 (Apologies for any damage my handheld “scanner” causes to your eyes.)
