@@ -14,7 +14,7 @@ I. Hate. Them. They don’t work for me and it’s so frustrating. This is how I
 
 I know it’s silly and a little crazy, but damn it if it isn’t frustrating. Anyway, so something happened the other day. I was sitting in the chair at the dentist making mental notes of the ridiculous things that my oral hygienist was saying so I could tweet about them later (she was pretty nuts) when I noticed a giant magic eye on the wall in front of me. I tried my best to ignore this evil invention, which was certainly placed there only to torment me. Unfortunately, the nearby TV was blaring some Fox News capital-C-crazy babbling so my mind, and my eyes wandered to the poster. 
 
-Without paying much attention, this sinister picture of what I assumed to be be Skittles-vomit revealed a 3D dinosaur (obviously not what’s pictured above, unless it coincidentally contains a dinosaur, too). It worked…and I was startled. In 15 years, I have never seen the image within and then suddenly, there it was. I must admit, it left a bit to be desired.
+Without paying much attention, this sinister picture of what I assumed to be be Skittles-vomit revealed a 3D dinosaur (obviously not what’s pictured above, unless it coincidentally contains a dinosaur, too). It worked...and I was startled. In 15 years, I have never seen the image within and then suddenly, there it was. I must admit, it left a bit to be desired.
 
 The worst of it is that it hasn’t worked since. Figures. 
 

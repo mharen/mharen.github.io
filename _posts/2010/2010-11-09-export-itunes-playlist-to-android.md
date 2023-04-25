@@ -10,7 +10,7 @@ title: Export an iTunes Playlist to Android
 
 After hunting around the iTunes menus, I was unable to find a convenient way to export an entire playlist to a folder that I could drop onto my Android phone.
 
-Then I tried drag and drop…and it worked!
+Then I tried drag and drop...and it worked!
 
 First, connect your phone to your PC. On the phone, pull down the notifications/ongoing bar and tap the USB item. It will probably say “Charge only”. Change this to “Disk drive” and tap “Done”  
 
@@ -26,7 +26,7 @@ Drag those songs into the MP3 folder:
 
 ![image[9].png](/assets/2010/image[9].png)
 
-Wait…
+Wait...
 
 ![image[2].png](/assets/2010/image[2].png)
 

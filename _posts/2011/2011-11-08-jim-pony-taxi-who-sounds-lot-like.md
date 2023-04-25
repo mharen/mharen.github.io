@@ -10,13 +10,13 @@ title: Jim, The Pony Taxi, Who Sounds A Lot Like an Engineer
 
 [By request](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X), 600 words on ponies.
 
-![t.png](/assets/2011/t.png)here once was a clever pony named Jim. He was a [fine steed](http://twitpic.com/7bid0x) who loved solving the world's transportation problems, one trip at a time. When asked what he did for a living, Jim would often answer&nbsp;succinctly, "I make traveling easier."
+<img src="/assets/2011/t.png" class="initial-capital" />here once was a clever pony named Jim. He was a [fine steed](/assets/2011/ponies.jpg "a pony wearing a plush antler hat") who loved solving the world's transportation problems, one trip at a time. When asked what he did for a living, Jim would often answer succinctly, "I make traveling easier."
 
-And so Jim went about his days improving trip performance and finding new ways to help his customers. All the while though, a particular calling bubbled to the surface: more than anything, he *really* wanted his riders to be happy. Unfortunately, like most ponies, Jim wasn't just directed to&nbsp;*wherever*&nbsp;his customers wanted to go, but also *how *to get there.
+And so Jim went about his days improving trip performance and finding new ways to help his customers. All the while though, a particular calling bubbled to the surface: more than anything, he *really* wanted his riders to be happy. Unfortunately, like most ponies, Jim wasn't just directed to *wherever* his customers wanted to go, but also *how *to get there.
 
 The problem, Jim realized, was that he often knew how to better serve his customers than they did. It wasn't that he didn't respect his customers--certainly their destinations were important. But he felt that his years of experience in the shipping business (as the ponies refer to it) made him better qualified to plan the route.
 
-Initially Jim marketed this idea to much interest. "Of course!" his customers exclaimed, "why should we bother ourselves with such trivial matters when we can just let the horse handle it?" Sensing their&nbsp;condescension, Jim didn't begin his next trip with much&nbsp;optimism. As he set out from Point A to Point B with a carefully planned route in mind, optimized for not just for speed but also for safety and general passenger comfort he felt confident but guarded.
+Initially Jim marketed this idea to much interest. "Of course!" his customers exclaimed, "why should we bother ourselves with such trivial matters when we can just let the horse handle it?" Sensing their condescension, Jim didn't begin his next trip with much optimism. As he set out from Point A to Point B with a carefully planned route in mind, optimized for not just for speed but also for safety and general passenger comfort he felt confident but guarded.
 
 His intuition was proved correct as he went left at the fork where others often went right. "Whoa there, buddy, what's going on? Let's keep with what we've always done, ok?"
 
@@ -32,7 +32,7 @@ It wasn't long before the streets became crowded. "Why are we slowing down?" the
 
 "The new bypass I wanted to use is much quicker and smoother," he mumbled to no one in particular.
 
-After a&nbsp;stressful&nbsp;maneuver down the old path, Jim had completed the trip. His customer thanked him and went on his way. While refreshing himself at a local gathering place of other like-minded ponies, Jim struck up a conversation with a pleasant man.
+After a stressful maneuver down the old path, Jim had completed the trip. His customer thanked him and went on his way. While refreshing himself at a local gathering place of other like-minded ponies, Jim struck up a conversation with a pleasant man.
 
 "I need to get up to Point A quick," the man said.
 
@@ -46,7 +46,7 @@ Filled with a new sense of purpose and respect, Jim carefully merged onto the by
 
 "Thanks for the lift," the customer said, stepping down. "I haven't taken that route before--I liked it! Very scenic! And fast!"
 
-"My&nbsp;pleasure," Jim beamed, casually passing his card, "give me a call the next time I can help."
+"My pleasure," Jim beamed, casually passing his card, "give me a call the next time I can help."
 
 Jim had achieved his ultimate goal of making his customers happy through modern travel. With an extra bounce in his step, exuding confidence and skill, Jim couldn't go two paces without running into a new fare. It was looking to be a busy day.
 

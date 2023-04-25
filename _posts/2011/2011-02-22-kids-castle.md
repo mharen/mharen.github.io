@@ -15,7 +15,8 @@ The Stow-Kent Fitworks was terrible almost all the time. They had *one* person t
 
 So that’s what we were coming from when we went to the Natatorium in Cuyahoga Falls. The “Nat” is a massive structure with fantastic facilities. Beyond its friendly staff, fancy equipment and ginormous pool, it has one killer feature that we haven’t seen anywhere else: an amazing child care center. 
 
-What follows is my letter to their child care center, the “[Kids’ Castle](http://cfo.cityofcf.com/web/parks-and-recreation/natatorium/kids-castle)”.  <hr />
+What follows is my letter to their child care center, the “[Kids’ Castle](http://cfo.cityofcf.com/web/parks-and-recreation/natatorium/kids-castle)”.  
+***
 
 The Natatorium Health and Fitness Center   
 

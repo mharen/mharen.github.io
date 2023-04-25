@@ -11,7 +11,11 @@ title: Renaming a SQL Server Database
 
 If a search brought you here, chance are that you can’t rename your database because SQL Server threw up an error about it being locked or active. This makes sense—obviously you can’t rename it if it’s being used by another user or application. But what if you want to rename it anyway?
 
-Here’s how:  <ol>   <li>Take the database into single-user mode (i.e. you) </li>    <li>Rename it </li>    <li>Return the database back to multi-user mode </li> </ol>
+Here’s how:  
+
+1. Take the database into single-user mode (i.e. you)
+2. Rename it
+3. Return the database back to multi-user mode
 
 This script does just that for SQL Server 2000:
 <blockquote>   

@@ -8,7 +8,7 @@ categories:
 title: 'Snippet: Eating The Backspace Key on Data Entry Screens (Or, How I Became A Secret Hero)'
 ---
 
-Have you ever been filling out a form on the web and accidentally navigated away from the form…and lost your work? Ouch. There’re few things as frustrating as *retyping *something into a computer.
+Have you ever been filling out a form on the web and accidentally navigated away from the form...and lost your work? Ouch. There’re few things as frustrating as *retyping *something into a computer.
 
 In addition to the typical things that a good web programmer does to help prevent data loss (e.g. use simple forms, prompt before leaving a dirty form, don’t break the forward/back buttons, background-save frequent drafts, etc.), here’s a technique I’ve used in a few projects that has silently saved people from some suffering: 
 
@@ -79,7 +79,7 @@ document.onkeydown = function (event) {
 };​
 ```
 
-It’s the little things…
+It’s the little things...
 
 ---
 

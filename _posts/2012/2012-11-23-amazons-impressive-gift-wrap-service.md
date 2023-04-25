@@ -7,7 +7,7 @@ categories:
 title: How I Discovered Amazon's Impressive Gift Wrap Service Via a Generous Friend
 ---
 
-I received an unexpected package today from Amazon. Hmmm…
+I received an unexpected package today from Amazon. Hmmm...
 
 ![2012-11-23 11.12.53.jpg](/assets/2012/2012-11-23 11.12.53.jpg)
 

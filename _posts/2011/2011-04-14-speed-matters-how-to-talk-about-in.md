@@ -27,11 +27,11 @@ Suppose those messages were loaded from a database and the customer wanted new m
 
 “A while.”  
 
-“A while…is that an hour? A minute? A second…?”  
+“A while...is that an hour? A minute? A second...?”  
 
 “Instantly.”  
 
-“Instantly is really hard (i.e. expensive)…how about ten seconds?”  
+“Instantly is really hard (i.e. expensive)...how about ten seconds?”  
 
 “Exactly—instantly.”
 </blockquote>
@@ -40,7 +40,7 @@ To the customer, “instantly” is a vague term that is approximately equal to 
 
 I think we need a new scale for talking about such things. I present to you:
 
-<font size="6">**The Four Degrees of Speed**:</font>  <ol style="font-size: 20px; font-weight: bold;">   <li>Google </li>    <li>Text Message </li>    <li>Email </li>    <li>Everything Else </li> </ol>
+<font size="6">**The Four Degrees of Speed**:</font>  <ol style="font-size: 20px; font-weight: bold;">   * Google     * Text Message     * Email     * Everything Else  </ol>
 
 **I. At Google speed, things happen immediately.** The feedback cycle is so fast it’s comparable to typing on a keyboard—your actions are reflected on the screen without delay. Some sites work very hard to achieve this speed. Facebook is close, but the only one that is consistently fast as all hell (like Google) is [StackOverflow](http://stackoverflow.com/) and its network of [StackExchange sites](http://stackexchange.com/). (NB: I originally called this level “instant message speed”, but that’s actually not consistently fast enough to earn the top spot.)
 

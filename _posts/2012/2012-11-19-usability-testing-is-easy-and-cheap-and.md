@@ -20,13 +20,13 @@ But there could be fundamental issues with how the app works vs. how users try t
 
 ![2012-09-20 22.38.11.png](/assets/2012/2012-09-20 22.38.11.png)  
 
-(I can see Siri getting some people in trouble here…“WHO IS SHE!?”)
+(I can see Siri getting some people in trouble here...“WHO IS SHE!?”)
 
 Sometimes though, there’s little you can do to catch certain issues. For instance, what is happening in this picture!?
 
 ![2012-10-10 23.22.37.png](/assets/2012/2012-10-10 23.22.37.png)
 
-Ohhhh…
+Ohhhh...
 
 ![2012-10-10 23.22.44.png](/assets/2012/2012-10-10 23.22.44.png)  
 

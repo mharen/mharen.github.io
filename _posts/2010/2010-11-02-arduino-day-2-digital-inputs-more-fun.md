@@ -17,7 +17,7 @@ I’m still familiarizing myself with everything Arduino so this next project is
 
 It’s really pretty simple. For switches 0 and 1, I have the hot line coming through an LED, through the switch, and then split between a resistor to ground and a digital input on the board. I’m not certain I have this right, but it works and my board hasn’t melted so it’s good enough for me.
 
-In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On…off…that reminds me of the [Karate Kid](http://www.imdb.com/title/tt0087538/). 
+In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On...off...that reminds me of the [Karate Kid](http://www.imdb.com/title/tt0087538/). 
 
 ![image[2].png](/assets/2010/image[2].png)In the Karate Kid, this old guy befriends a teenager after beating a bunch of bullies senseless. Through couldn’t-work-in-a-million-years training, Mr. Miyagi (the old guy) eventually leads the annoying kid (Daniel-san) to victory at the local Karate championship, and thereby winning the heart of Captain-Bully-Bag-Of-Many-Douches’s ex-girlfriend. 
 

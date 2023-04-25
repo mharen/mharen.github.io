@@ -26,13 +26,14 @@ The risk of answering too quickly is that you might give a terrible answer and t
 
 If you’ve done preparation in advance, you should already have a few great questions that are targeted specifically to the company--these are excellent and really set you apart because almost no one does this.    
 
-If you’ve done no preparation (for shame!) generic questions are absolutely fine. One of my favorites is, “what’s a typical work day for someone in my position like?” This question helps you in several ways:  <ul>   <li>It gives you a break</li>    <li>If lets the interviewer hear him/herself talk (which we like)</li>    <li>You get good information (maybe you actually don’t want this job!)</li> </ul>
+If you’ve done no preparation (for shame!) generic questions are absolutely fine. One of my favorites is, “what’s a typical work day for someone in my position like?” This question helps you in several ways:     * It gives you a break    * If lets the interviewer hear him/herself talk (which we like)    * You get good information (maybe you actually don’t want this job!) 
+
 
 **4. Take notes**, but only on two things: the names/emails of the people you talk to, and anything you need to do after the interview (i.e. specific questions you couldn’t answer on the spot like your exact start date, salary info, favorite color, etc). Luckily these two go well together because when you write a personalized thank-you note to each of the people you talked to (including reception, HR, etc.), you can include your answers.
 
 If you miss a person’s name, just ask. If you forget to ask before the interviewer leaves, ask the next person you talk to who that last person was. I get this a lot and I’m happy to help you with this information.
 
-   <hr />
+***
 
 Remember, this is just last minute advice. Do yourself a favor and do some actual preparation. Learn about the company. Practice selling yourself. Figure out what you want and go get it!
 

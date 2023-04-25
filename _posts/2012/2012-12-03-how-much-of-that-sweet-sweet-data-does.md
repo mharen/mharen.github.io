@@ -28,7 +28,7 @@ That is: lots of email, browsing, and navigation requires well under a gigabyte 
 
 So adding 2 hours of streaming a day blows up the data big time:
 
-Ouch. Let’s hope you don’t want to watch a 30 minute video every day…
+Ouch. Let’s hope you don’t want to watch a 30 minute video every day...
 
 **But are these numbers accurate?** They are estimates, certainly, so I can only compare against my usage, which isn’t really fair, but it’s all I have.
 
@@ -50,11 +50,11 @@ How does this align with what Pandora’s [documentation](http://help.pandora.co
 
 OK, so let’s get that 64k stream into the units we like: MB/minute. (I’m assuming that “64k” means 64 kilobits per minute.)
 
-So 0.47 MiB/minute. Nice. If I convert my above figures into MiB from MB, I get 0.54 MiB/minute. That’s still more than Pandora claims, but we’re in the ballpark so I’ll take their word for it<sup>1</sup> (maybe I got some emails in the background during those 15 minutes…).
+So 0.47 MiB/minute. Nice. If I convert my above figures into MiB from MB, I get 0.54 MiB/minute. That’s still more than Pandora claims, but we’re in the ballpark so I’ll take their word for it<sup>1</sup> (maybe I got some emails in the background during those 15 minutes...).
 
 So, Pandora mobile uses just under half a megabyte per minute, or ~28 MiB per hour. **The Verizon data estimator over estimates Pandora usage by over 100%**. To their credit, they indicated what figures they used, and certainly other sites or services may stream music at a higher bitrate. But if you just use Pandora, this is good news.
 
-<sup>1</sup>Huh. Now that I’ve simply confirmed Pandora’s claimed usage this whole experiement seems a bit ridiculous…
+<sup>1</sup>Huh. Now that I’ve simply confirmed Pandora’s claimed usage this whole experiement seems a bit ridiculous...
 
 ---
 

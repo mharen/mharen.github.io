@@ -14,7 +14,8 @@ Running on some innate desire to improve our trade, a few of my coworkers and I 
 
 The downside is that by the nature of experimentation, some tools are duds and I sometimes feel like some half-wit software evangelist who promotes change for the sake of change. This is obviously not my intent. Let me be clear on that: my goal is to improve my trade. If something’s not working, I’m among the first to drop it.
 
-Over the last few years, this has led to the collection of a few tools in particular that many of us at Rovisys use daily:  <ul>   <li>Source control: Subversion or Vault (svn’s on the way in, Vault’s on the way out) </li>    <li>Issue tracker: Redmine </li>    <li>Continuous Integration: Hudson CI </li>    <li>Collaboration: Redmine’s Wiki and Microsoft OneNote </li> </ul>
+Over the last few years, this has led to the collection of a few tools in particular that many of us at Rovisys use daily:     * Source control: Subversion or Vault (svn’s on the way in, Vault’s on the way out)     * Issue tracker: Redmine     * Continuous Integration: Hudson CI     * Collaboration: Redmine’s Wiki and Microsoft OneNote  
+
 
 There are many, many other tools that we use but that’s the short list of software everyone on every project I run becomes fluent in. And that’s why we’re putting so much effort in the infrastructure behind them. Here’s where our server architecture was headed:
 
@@ -42,4 +43,4 @@ Here I’ve easily and correctly added in our Hudson server (which is already hu
 
 Some other benefits: SSL is easy, too, since we take care of that at the reverse-proxy. All the individual services get the added security of SSL for free, without even knowing about it. Also, we can move the individual services onto different hardware if needed with very little effort and *zero impact on users.*
 
-Sure this is tough at first because the whole reverse-proxy thing I’m told is a pain to setup (yea for teamwork!) and splitting combined services onto isolated machines is a chore, but in the long run we’ve got something that’s sustainable and will make us all more productive. Or let’s hope and see…
+Sure this is tough at first because the whole reverse-proxy thing I’m told is a pain to setup (yea for teamwork!) and splitting combined services onto isolated machines is a chore, but in the long run we’ve got something that’s sustainable and will make us all more productive. Or let’s hope and see...

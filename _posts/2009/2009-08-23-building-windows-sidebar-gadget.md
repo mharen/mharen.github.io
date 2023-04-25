@@ -38,7 +38,8 @@ Here’s what the main page looks like:
 </head>
 <body>
 <g:background src="images/bg.png">
-    <ul id="jobs"></ul>
+    <ul id="jobs">
+
 </g:background>
 </body>
 </html>
@@ -47,7 +48,7 @@ Here’s what the main page looks like:
 </blockquote>
 
 
-The HTML really boils down to a single element: <ul>. The real magic happens within main.js. Here’s the relevant section:
+The HTML really boils down to a single element: . The real magic happens within main.js. Here’s the relevant section:
 
 <blockquote>
   
@@ -91,11 +92,12 @@ function FillMainCallback(data) {
 
 I won’t talk about that too much except to say jQuery makes all of this so much easier:
 
-<ul>
-  <li>$.getJSON(): contacts the Hudson build server and retrieves a terse list of build statuses. Hudson provides a straightforward, albeit limited API at http://hudson-url/api. </li>
 
-  <li>$.each(): iterates over each Hudson project returned by the server; for each one, adds it to the list (#jobs) as a new list item </li>
-</ul>
+  * $.getJSON(): contacts the Hudson build server and retrieves a terse list of build statuses. Hudson provides a straightforward, albeit limited API at http://hudson-url/api. 
+
+  * $.each(): iterates over each Hudson project returned by the server; for each one, adds it to the list (#jobs) as a new list item 
+
+
 
 
 With the data flowing nicely, all that was needed was a little light graphics work and some CSS and I called it a day. I borrows the pretty background image with the curvy, aero border from the Outlook gadget but replaced the Outlook icon with a Hudson logo.

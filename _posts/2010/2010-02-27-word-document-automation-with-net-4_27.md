@@ -16,7 +16,8 @@ I’ve been told that these programming posts are not interesting or funny. For 
 I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two two. I would say "Sweet." And then people would say, "Mitch, how do I get a hold of you?" I'd say, "Just press two for a while. And when I answer, you will know you have pressed two enough." ([more classics](http://en.wikiquote.org/wiki/Mitch_Hedberg) from the late and invariably hilarious Mitch Hedberg)
 </blockquote>
 
-Now would be a good time for you to stop reading.   <hr />
+Now would be a good time for you to stop reading.   
+***
 
 On with the show! This handy method will attempt to update all the fields in the document passed to it:  
 ```cs
@@ -85,15 +86,16 @@ private static void UpdateAllFields(Document document)
 
 To use this, add the following references to your project:
 
-    <ul>
-      <li>Microsoft.Office.Interop.Word, v12</li>
+    
+      * Microsoft.Office.Interop.Word, v12
 
-      <li>Office, v12</li>
-    </ul>
+      * Office, v12
+    
+
   </span></span>
 
 
-It makes me cry a little to brute force every container I can think of this way. Surely there’s a better way. Maybe I could just traverse the documents DOM an update anything that looks like a field castable to a Field…I’ll think about that. Until then, this seems to work…
+It makes me cry a little to brute force every container I can think of this way. Surely there’s a better way. Maybe I could just traverse the documents DOM an update anything that looks like a field castable to a Field...I’ll think about that. Until then, this seems to work...
 
 ---
 

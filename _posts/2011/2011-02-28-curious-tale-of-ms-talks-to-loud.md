@@ -10,7 +10,7 @@ Like my good pal Dane Cook, I dislike exaggerations:
 
 
 
-Exaggerations bug me more than they should. What’s worse, though, is someone who’s made up stories pour out in an effort to impress those unfortunate enough to be stuck nearby (i.e. coworkers and patrons). I’ll explain…
+Exaggerations bug me more than they should. What’s worse, though, is someone who’s made up stories pour out in an effort to impress those unfortunate enough to be stuck nearby (i.e. coworkers and patrons). I’ll explain...
 
 On Saturday Wife and I took ventured out alone while my amazing sister watched Thing1 and Thing2. We didn’t have a lot of time so we did what every super hip, sexy couple does: went to Panara and played cards.
 
@@ -37,7 +37,7 @@ Ms. Talks-Too-Loud has *not *reached this state. Here are a few thoughts we over
 This garbage just kept pouring out. She wasn’t even rationing it like most people—sprinkling it into normal conversation—it was just an unrelenting stream of word vomit. The highlight of the evening came when Ms. Talks-Too-Loud was serving a customer, Mr. Full-Of-Crap-Too:
 <blockquote> 
 
-<font color="#9e7c7c">Ms: I was in my prime when I was 17-20…getting drunk all the time.</font>  
+<font color="#9e7c7c">Ms: I was in my prime when I was 17-20...getting drunk all the time.</font>  
 
 <font color="#9e7c7c">Mr: When I was 21 I was getting drunk 5x/week! It was awesome.</font>  
 
@@ -48,4 +48,4 @@ This garbage just kept pouring out. She wasn’t even rationing it like most peo
 
 To help distinguish between Ms. and Mr. above, I color coded their lines to match their artificial tans (for the unaware, it’s February in northeast Ohio and we haven’t seen the sun in a few months; most of us Caucasians look like vampires).    
 
-Let me just close with a few reminders before anyone complains that I’m just a grumpy old man:   <ul>   <li>I’m not old</li>    <li>This person was talking way too loud and we had no choice but to listen.</li>    <li>Absolutely everything she said (at least what we could hear) was like the above. For 30 minutes.</li>    <li>I hate it when people brag about sucking at life and I hope you do, too.</li> </ul>
+Let me just close with a few reminders before anyone complains that I’m just a grumpy old man:      * I’m not old    * This person was talking way too loud and we had no choice but to listen.    * Absolutely everything she said (at least what we could hear) was like the above. For 30 minutes.    * I hate it when people brag about sucking at life and I hope you do, too. 

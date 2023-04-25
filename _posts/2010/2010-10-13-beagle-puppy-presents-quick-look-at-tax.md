@@ -11,7 +11,7 @@ Just to get you warmed up:
 
 ![beagle-puppy.jpg](/assets/2010/beagle-puppy.jpg)
 
-Most of you probably know how these things work already, but I’ve heard it described poorly in the news so many times recently that I feel compelled to bring it up…just in case.
+Most of you probably know how these things work already, but I’ve heard it described poorly in the news so many times recently that I feel compelled to bring it up...just in case.
 
 When someone talks about tax brackets, what they’re really referring to are marginal tax rates. That word “marginal” in economic terms means something like “one more”. For example, the cost of making donuts might be $10,000 for all the equipment. But once I’ve spent all that, I can make a single donut for the marginal cost of $0.10—just a bit of ingredients, heat, and labor. Once my costs are covered, every cent I sell donuts for over $0.10 is profit (simplifying a bit here, cut me some slack).
 

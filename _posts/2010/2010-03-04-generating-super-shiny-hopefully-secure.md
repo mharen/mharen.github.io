@@ -14,7 +14,8 @@ I’ve been told that these programming posts are not interesting or funny. For 
 “My friend had a burrito. The next day he said, ‘That burrito did not agree with me.’ I was like, ‘Was the disagreement over whether or not you’d have diarrhea? Let me guess who won.’” –[Demetri Martin](http://www.demetrimartin.com/) ([via](http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/))
 </blockquote>
 
-Now would be a good time for you to stop reading.  <hr />
+Now would be a good time for you to stop reading.  
+***
 
 I was working on a little security related code today which required the generation of unique and random tokens. I’m always nervous working with crypto because it’s so easy to fail. 
 
@@ -48,9 +49,7 @@ So like I said, I need to create a bunch of tokens—blocks of text or numbers. 
         }
         static RandomNumberGenerator BetterRandom = new RNGCryptoServiceProvider();
 ```
-
-
-
+ 
 Basically I take two components—a 16-bit [GUID](http://en.wikipedia.org/wiki/Globally_Unique_Identifier), and a 44-byte chunk of random bits. The GUID would [normally be enough](http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx) to satisfy me as they are pretty much unique (and the Win32 algorithm might even guarantee them to be unique when considering a single machine) *but*, I was afraid they might be predictable as they [aren’t actually all that random](http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx). 
 
 

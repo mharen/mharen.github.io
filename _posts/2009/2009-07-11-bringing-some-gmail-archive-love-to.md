@@ -10,7 +10,12 @@ title: Bringing some Gmail-Archive Love to Outlook
 ---
 
 
-I love Gmail's archive feature. It frees me from organizing my mail by depending on search instead. If you’re unfamiliar, here’s the Google approach to mail:  <ol>   <li>New mail shows up in your inbox</li>    <li>When you’re done with an email, you “archive” it, which basically moves it into a giant folder</li>    <li>When you need to find an old message again, you *search* for it by keyword, sender, date, etc. You *do not *organize mail by folder (though you can if you must)</li> </ol>
+I love Gmail's archive feature. It frees me from organizing my mail by depending on search instead. If you’re unfamiliar, here’s the Google approach to mail:  
+
+  1. New mail shows up in your inbox    
+  2. When you’re done with an email, you “archive” it, which basically moves it into a giant folder    
+  3. When you need to find an old message again, you *search
+  4. for it by keyword, sender, date, etc. You *do not *organize mail by folder (though you can if you must)
 
 I’ve been using a similar approach in Outlook at work for a long time. Encouraged by a [GTD idea](http://getitdone.quickanddirtytips.com/inbox-zero.aspx) (cool podcast, btw), I created this structure:  
 
@@ -149,7 +154,7 @@ I named mine *&Quick Archive*. The ampersand sets the hotkey to the letter that 
 
 
 
-Now all I need to do is click this button or press *Alt-Q* and whatever messages are highlighted will be archived. The first time you do it, you should get a warning about using macros. I suggest you instruct outlook to always trust macros signed by you to avoid the nagging prompts in the future. You could also skip the whole signing step and enable unsigned macros…but I wouldn’t.
+Now all I need to do is click this button or press *Alt-Q* and whatever messages are highlighted will be archived. The first time you do it, you should get a warning about using macros. I suggest you instruct outlook to always trust macros signed by you to avoid the nagging prompts in the future. You could also skip the whole signing step and enable unsigned macros...but I wouldn’t.
 
 
 All set!

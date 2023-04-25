@@ -18,7 +18,7 @@ Even though she wasn’t actually very upset we consoled her anyway and cleaned 
 **Result:** laundry (clothes)
 </blockquote>
 
-While a tad apprehensive with Thing2’s request, Wife agreed to nurse her. The reasoning was something along the lines of this: maybe it was a fluke, maybe some miracle food will calm her stomach, and certainly nourishment is needed. Before nursing could commence, but immediately after someone said something regrettable like “we should probably put down the waterproof pad on the bed before…” exactly what you’d expect to happen at this point happened. All over the bed.
+While a tad apprehensive with Thing2’s request, Wife agreed to nurse her. The reasoning was something along the lines of this: maybe it was a fluke, maybe some miracle food will calm her stomach, and certainly nourishment is needed. Before nursing could commence, but immediately after someone said something regrettable like “we should probably put down the waterproof pad on the bed before...” exactly what you’d expect to happen at this point happened. All over the bed.
 <blockquote> 
 
 **Result:** more laundry (clothes, blanket, comforter, mattress cover)
@@ -44,7 +44,7 @@ We cleaned her up again and she fell back asleep. I was still holding her a whil
 
 We rinsed her mouth out again and changed her diaper for the fifteenth time and our stinky day began to improve. Thing2 managed to keep her food down and, manifested her sickness mostly by being especially cuddly and passive – traits I’m sure she inherited from me.
 
-We were feeling a bit worn out so we indulged in a family nap. It was an epic three hours of amazing sleep for all of us. We were waking up gradually with the kiddos. They tumbled around playfully when we realized that Thing2 was smelly in a new way. She has filled her diaper with something sinister and it hadn’t been…contained.
+We were feeling a bit worn out so we indulged in a family nap. It was an epic three hours of amazing sleep for all of us. We were waking up gradually with the kiddos. They tumbled around playfully when we realized that Thing2 was smelly in a new way. She has filled her diaper with something sinister and it hadn’t been...contained.
 <blockquote> 
 
 **Result:** more laundry (comforter #2, sheets, clothes)

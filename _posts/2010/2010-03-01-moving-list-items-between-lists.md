@@ -19,23 +19,23 @@ I don’t much like these so I came up with something similar that works well fo
 ```cs
 <body>
   <ul id='list1'>
-    <li>Item 1 <img class='icon move' src='blank.png'/></li>
-    <li>Item 2 <img class='icon move' src='blank.png'/></li>
-    <li>Item 3 <img class='icon move' src='blank.png'/></li>
-    <li>Item 4 <img class='icon move' src='blank.png'/></li>
-  </ul>
+    * Item 1 <img class='icon move' src='blank.png'/>
+    * Item 2 <img class='icon move' src='blank.png'/>
+    * Item 3 <img class='icon move' src='blank.png'/>
+    * Item 4 <img class='icon move' src='blank.png'/>
+  
+
   <ul id='list2'>
-    <li>Item 5 <img class='icon move' src='blank.png'/></li>
-    <li>Item 6 <img class='icon move' src='blank.png'/></li>
-    <li>Item 7 <img class='icon move' src='blank.png'/></li>
-    <li>Item 8 <img class='icon move' src='blank.png'/></li>
-  </ul>
+    * Item 5 <img class='icon move' src='blank.png'/>
+    * Item 6 <img class='icon move' src='blank.png'/>
+    * Item 7 <img class='icon move' src='blank.png'/>
+    * Item 8 <img class='icon move' src='blank.png'/>
+  
+
   </body>
 </html>​
 ```
-
-
-
+ 
 What I want to do is have each <code>li</code> hop to the opposing list when its move button is clicked. It’s very simple with jQuery’s live event binding ([demo](http://jsbin.com/ucoqi/1), [source](http://jsbin.com/ucoqi/1/edit)):
 
 
@@ -50,9 +50,7 @@ What I want to do is have each <code>li</code> hop to the opposing list when its
     });
   });
 ```
-
-
-
+ 
 
 
 
@@ -75,9 +73,7 @@ It’s also really easy to add animation ([demo](http://jsbin.com/ucoqi/3), [sou
     });
   });
 ```
-
-
-
+ 
 Now we’re getting to the point where some refactoring might be appropriate ([demo](http://jsbin.com/ucoqi/5), [source](http://jsbin.com/ucoqi/5/edit)):
 
 
@@ -98,9 +94,7 @@ Now we’re getting to the point where some refactoring might be appropriate ([d
     });
   });
 ```
-
-
-
+ 
 It’s not really any less code, but we’ve moved the messy animation pieces out into a chainable function. I could have moved the <code>.closest()</code> pieces into the function, too, but that would make the <code>pushTo()</code> method a little too specific to this task for my taste. Since we have the animation isolated to one line, we can easily change it to slide the items in and out ([demo](http://jsbin.com/ucoqi/7), [source](http://jsbin.com/ucoqi/7/edit)):
 
 
@@ -112,7 +106,5 @@ It’s not really any less code, but we’ve moved the messy animation pieces ou
     return $this;
   };
 ```
-
-
-
+ 
 Finally, if you use something like this in a real app, use ‘fast’ for the animation speed. I’m using ‘slow’ here to make it obvious. In practice, though, it’d be very annoying. 

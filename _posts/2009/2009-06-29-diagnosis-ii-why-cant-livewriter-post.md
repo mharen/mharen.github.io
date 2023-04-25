@@ -14,4 +14,4 @@ The remote server returned an error: (403) Forbidden.I’m at working trying to 
 
 It seems that even none of the blogger/blogspot domains are blocked here, blogger ships its images to [http://picasaweb.google.com/](http://picasaweb.google.com/), which *is *blocked. No matter, I asked our friendly IT admin to unblock it. Now I can publish. But did it work?  
 
-Sort of. The publish worked but the image wasn’t coming through. It seems that the img src is actually on another domain. e.g. http://**lh3**.ggpht.com/…. In my case, lh3 is blocked but lh5 isn’t. So I switched the images to lh5 and they all work just fine from within my corporate firewall (for now).
+Sort of. The publish worked but the image wasn’t coming through. It seems that the img src is actually on another domain. e.g. http://**lh3**.ggpht.com/.... In my case, lh3 is blocked but lh5 isn’t. So I switched the images to lh5 and they all work just fine from within my corporate firewall (for now).

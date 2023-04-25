@@ -19,9 +19,9 @@ As a business software developer, I see how this can happen. When a project is u
 
 But of course that next version has its own pressure. **If you don’t constantly apply pressure to improve usability—a difficult to measure, but critical feature—your product will falter**. That is, you can increase a product’s feature set by throwing more and more into it to make it look better on matrix comparisons, but this will come at the expense of the actual product as a whole.
 
-Think back to the original iPhone. Apple introduced it’s first phone into a stable market owned by big names like Windows, Palm and RIM/Blackberry. This first iPhone lacked a lot of features I bet most would have considered show stoppers:  <li>Copy/paste</li>  <li>Old network technology (Edge vs. 3g)</li>  <li>Poor battery life; non-replaceable battery</li>
+Think back to the original iPhone. Apple introduced it’s first phone into a stable market owned by big names like Windows, Palm and RIM/Blackberry. This first iPhone lacked a lot of features I bet most would have considered show stoppers:  * Copy/paste  * Old network technology (Edge vs. 3g)  * Poor battery life; non-replaceable battery
 
-And plenty of other significant problems:  <li>No keypad</li>  <li>Very expensive ($400-$600+)</li>  <li>Legendarily poor call quality</li>  <li>Weak specs (processor/memory/camera)</li>
+And plenty of other significant problems:  * No keypad  * Very expensive ($400-$600+)  * Legendarily poor call quality  * Weak specs (processor/memory/camera)
 
 Rather than cobble together crappy solutions to these limitations, Apple focused on nailing its key features: a killer UI and a full blown web browser. People went crazy for it and they kept coming back year after year:
 

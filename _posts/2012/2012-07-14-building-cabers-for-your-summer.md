@@ -17,9 +17,9 @@ Here’s how I made ours.
 
 Bill of materials:  
 
-* 42 pool noodles (I bought a mostly whole box from my local dollar store for …$42)
+* 42 pool noodles (I bought a mostly whole box from my local dollar store for ...$42)
 * Lots of duct tape (I used 2-20yd rolls from Target for $7)
-* Uh… that’s all
+* Uh... that’s all
 
 The above materials yield 2-12’ cabers. Your mileage may vary as I’ve learned that the length of a pool noodle is not consistent from place to place or box to box.
 
@@ -39,7 +39,7 @@ I found a single rubber band to be very helpful while taping each joint:
 
 ![IMG_3170.jpg](/assets/2012/IMG_3170.jpg)
 
-OK, I’m probably over explaining this…it’s really pretty obvious when you do it.                
+OK, I’m probably over explaining this...it’s really pretty obvious when you do it.                
 
 I found that the tape didn’t stick all that well to the foam. This is nice if you want to undo some taping, but not so super for strength. I think doing three rings at each joint, though, should hold up well. Just make sure you have plenty of overlap onto the tape itself so it doesn’t unravel.
 
@@ -61,6 +61,6 @@ And they’re ready:
 
 We had originally considered putting a wood dowel down the middle for rigidity. Ultimately I decided to forgo any additional structure. These are stiff enough to toss, but bendy enough to make it interesting or funny to watch people try. Plus they are light and safer this way.
 
-Now I just need to figure out how to actually get them to the office…
+Now I just need to figure out how to actually get them to the office...
 
 If you’re overwhelmed with curiosity about what an office Olympics might be like, check out photos from previous years ([2008](http://www.rovisys.com/staticContent/Pictures/RovOlympics2008/index.html), [2010](http://www.rovisys.com/staticContent/Pictures/WinterOlympics2010/index.html)). Pictures from this year’s games will be up a few weeks after the event.

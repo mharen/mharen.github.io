@@ -16,13 +16,14 @@ I built up the courage to stand in line for 3 hours and have my vote counted (ma
 
 What an easy (too easy?) experience. I encourage everyone to vote, but only if you know who you are voting for. Yeah, I said it: if you don't know who you are voting for, don't vote...what would be the point?! Spend 10 minutes before you leave doing a little research. I'd encourage you to not fill this 10 minutes with looking for colorful yard signs and voting for whichever sign you like best. Instead, consider resources like these, that I found particularly useful (seeing as I live in North Carolina and all):
 
-<ul>
 
-	<li>[North Carolina 2006 Voters Guide](http://www.ncfamily.org/voterguide2006/) by the Family Policy Council. This organization sends surveys to all the candidates and posts the results. That's it. No analysis or funny talk--just scans of what the candidates wrote. I found most of the questions to be good and many of the responses to be very helpful in shaping my vote.</li>
 
-	<li>[North Carolina Board of Elections](http://www.sboe.state.nc.us/votersearch/seimsvot.htm). Of course knowing who you can vote for in the local races is useful, too. This will tell you where to vote and who you will be voting for.</li>
+	* [North Carolina 2006 Voters Guide](http://www.ncfamily.org/voterguide2006/) by the Family Policy Council. This organization sends surveys to all the candidates and posts the results. That's it. No analysis or funny talk--just scans of what the candidates wrote. I found most of the questions to be good and many of the responses to be very helpful in shaping my vote.
 
-</ul>
+	* [North Carolina Board of Elections](http://www.sboe.state.nc.us/votersearch/seimsvot.htm). Of course knowing who you can vote for in the local races is useful, too. This will tell you where to vote and who you will be voting for.
+
+
+
 
 You can probably find similar sites for your state by [searching accordingly](http://www.wassupy.com/voter guide my_state_here).
 

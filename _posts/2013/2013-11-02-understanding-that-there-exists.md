@@ -9,7 +9,7 @@ title: Understanding (That There Exists) An Opposing View
 
 If you are passionate about anything, chances are you’ve found yourself wondering “how in the world could that person believe *x* about an issue?!”, where *x* is avoiding semicolons in javascript, using tabs instead of spaces, being pro-gun, anti-cupcake, etc.
 
-I used to find some of those moments very stressful. I’d be sitting there with lots of “evidence” and “research” to support my position, fuming about some *idiot who can’t use apostrophes correctly and is frickin’ ridiculous with his/her hyperbole and logical fallacies…*and get nowhere.
+I used to find some of those moments very stressful. I’d be sitting there with lots of “evidence” and “research” to support my position, fuming about some *idiot who can’t use apostrophes correctly and is frickin’ ridiculous with his/her hyperbole and logical fallacies...*and get nowhere.
 
 I finally figured out a little exercise that helps me in those tense situations: **I just consider that the other person probably sees me as just as insane as I see him/her**. That other person is more or less like me (rational, thoughtful, educated, kind, etc.) but disagrees with me the same way I disagree with him/her. And that’s fine.
 
@@ -17,7 +17,7 @@ I finally figured out a little exercise that helps me in those tense situations:
 
 Maybe you are. So what? Go tweet about it with loud, emphatic language! What good is that going to do? It makes you look like an ass when you’re right, and an ass when you’re wrong. Save your energy and hope that your noncombativeness will be reciprocated. To quote Dale Carnegie (more from him in a minute), “You can't win an argument. You can't because if you lose it, you lose it; and if you win it, you lose it.”
 
-A baby step on the way to figuring all this out was more or less the development of a coping mechanism. I made a decision to not engage in fruitless debate. I noticed that many arguments I was having on Twitter and Facebook *were fruitless*…so I just stopped enabling myself to get all worked up over things 140 characters at a time.
+A baby step on the way to figuring all this out was more or less the development of a coping mechanism. I made a decision to not engage in fruitless debate. I noticed that many arguments I was having on Twitter and Facebook *were fruitless*...so I just stopped enabling myself to get all worked up over things 140 characters at a time.
 
 Later, I had a realization when a friend help a position I found to be indefensible. As friends often do, we had an easy, dispassionate conversation. Neither of us won over the other person and that wasn’t the goal—we were just friends talking. That is when the real trick I described above sunk in: me and that other dude are *similar*.
 

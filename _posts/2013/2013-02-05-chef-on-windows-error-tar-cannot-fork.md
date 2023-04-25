@@ -9,7 +9,7 @@ categories:
 title: 'Chef on Windows Error: tar: Cannot fork: Function not implemented (Solved)'
 ---
 
-I’m [diving into](http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows) the fun world of [Chef](http://www.opscode.com/chef/). But I’m doing it on Windows, which has been…not smooth. Here’s my latest error:
+I’m [diving into](http://wiki.opscode.com/display/chef/Workstation+Setup+for+Windows) the fun world of [Chef](http://www.opscode.com/chef/). But I’m doing it on Windows, which has been...not smooth. Here’s my latest error:
 
 ```
 C:\Users\mharen\Code\chef-repo>knife cookbook site install getting-started

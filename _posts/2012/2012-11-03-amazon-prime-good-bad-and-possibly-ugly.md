@@ -17,11 +17,11 @@ Recently I noticed this twist on the “[no rush](http://www.amazon.com/gp/help/
 
 ![amazon website showing options for different shipping speeds, including "free no-rush delivery" for a $1 credit to spend on mp3s](/assets/2012/no-rush.png)
 
-They’re offering me a $1 in MP3s to use the “slower” shipping speed. I’ve actually used the “no rush” option before when I wasn’t given anything for it just because I didn’t really care how long it took to get my next furnace filter or mega-pack of batteries. But sometimes they give me this incentive. I’m curious…
+They’re offering me a $1 in MP3s to use the “slower” shipping speed. I’ve actually used the “no rush” option before when I wasn’t given anything for it just because I didn’t really care how long it took to get my next furnace filter or mega-pack of batteries. But sometimes they give me this incentive. I’m curious...
 
 Do they do this when they *need to*? That is, do they calculate that the nearby shipping center is near capacity and offer people these to help alleviate the pressure? Amazon’s very smart and they could definitely pull that off. It’d be a clever way to discretely ease the load if people actually go for it.
 
-I don’t think that’s it, though. I think they really do it just to promote their MP3 business. I have no data to support it, so I’ll just speculate: I bet conversions are higher for customers getting a free MP3 this way than when Amazon just [gives you one](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000740381) for practically nothing. The way I figure it, you’re trading something valuable (2-day shipping, which at least feels expensive to you, but probably isn’t) for an MP3. That MP3 really only costs a dollar, but you *feel* like it’s worth more so you’re more likely to actually redeem it. And then you buy other MP3s. And suddenly you’re downloading (and paying for) more music. Damn you, Amazon! (And shipping MP3s is…very affordable.)
+I don’t think that’s it, though. I think they really do it just to promote their MP3 business. I have no data to support it, so I’ll just speculate: I bet conversions are higher for customers getting a free MP3 this way than when Amazon just [gives you one](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000740381) for practically nothing. The way I figure it, you’re trading something valuable (2-day shipping, which at least feels expensive to you, but probably isn’t) for an MP3. That MP3 really only costs a dollar, but you *feel* like it’s worth more so you’re more likely to actually redeem it. And then you buy other MP3s. And suddenly you’re downloading (and paying for) more music. Damn you, Amazon! (And shipping MP3s is...very affordable.)
 
 That’s all good stuff. 
 

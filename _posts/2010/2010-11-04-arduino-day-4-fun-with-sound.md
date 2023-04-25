@@ -21,7 +21,7 @@ It seems that I am completely tone deaf. Not only did I have the scale in the wr
 
 These shows are simply absurd in every way. Crazy stuff happens on “House MD”, too, but at least they worked it into the story by saying that House is this genius doctor who only takes crazy cases. Private Practice is about a crummy, nearly bankrupt group of doctors with debilitating personal issues who somehow find themselves in the most controversial, insane situations *every day*. If I had one wish, world peace, ending poverty or hunger or whatever would probably win, but ending this show and erasing all memory of it would be up there.
 
-10…9…8…7…ok I’m feeling better now. So here’s what we ended up with:  
+10...9...8...7...ok I’m feeling better now. So here’s what we ended up with:  
 
   <h4>Build</h4>
 
@@ -33,7 +33,7 @@ Today’s build was very easy. Most of my time was spent working on code and lea
 
 ![Day 4 - Schematic[6].png](/assets/2010/Day 4 - Schematic[6].png)  <h4>Code</h4>
 
-Today’s code was ultimately very simple…it just took a while to prune it down to the essentials listed below. As I mentioned, Sarah put the list of notes together and helped translate the song’s music into the encoded note, length, and rest values.
+Today’s code was ultimately very simple...it just took a while to prune it down to the essentials listed below. As I mentioned, Sarah put the list of notes together and helped translate the song’s music into the encoded note, length, and rest values.
 
 I realize I don’t need so many notes but we did a batch job through Excel so I left them all in here for future use.
 <blockquote>   

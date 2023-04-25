@@ -25,7 +25,7 @@ With respect your code of conduct ([http://investor.google.com/conduct.html](htt
 
 Having recently read of your acquisitions of popular services like YouTube, DoubleClick, FeedBurner, and GrandCentral, and your recent installation of a solar power generation array capable of meeting 30% of your energy needs ([http://www.google.com/corporate/solarpanels/](http://www.google.com/corporate/solarpanels/)), I’m growing quite concerned.
 
-As the popular fortune cookie postscript goes, “…in bed,” so must Google-related news be followed with, “…and their plan for world domination continues.”
+As the popular fortune cookie postscript goes, “...in bed,” so must Google-related news be followed with, “...and their plan for world domination continues.”
 
 I urge you, Google, be mindful of this incredible power you are building.
 

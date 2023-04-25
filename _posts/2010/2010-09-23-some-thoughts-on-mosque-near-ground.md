@@ -14,7 +14,7 @@ Instead, some are saying that they have [a right that isn’t right](http://www.
 
 **Of course not**. That’s just as silly as asking if priests are child molesters and if blondes are dumb—each of these has endless counterexamples of non-molesting priests, non-priest molesters, brilliant blondes, and idiotic gingers.
 
-So if Muslims aren’t terrorists, what’s the problem?   <h4>*Well…some people think that Muslims are terrorists…*</h4>
+So if Muslims aren’t terrorists, what’s the problem?   <h4>*Well...some people think that Muslims are terrorists...*</h4>
 
 OK, so we should oppose it because some people are idiots?   <h4>*OK, I mean, I know that all Muslims aren’t terrorists but all terrorists are Muslims!* </h4>
 

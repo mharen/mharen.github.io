@@ -28,7 +28,7 @@ Now pop it open already!
 
 ![IMG_20110709_160758[4].jpg](/assets/2011/IMG_20110709_160758[4].jpg)
 
-OK… hey, what’s that? A burned up wire?
+OK... hey, what’s that? A burned up wire?
 
 ![IMG_20110709_160840[4].jpg](/assets/2011/IMG_20110709_160840[4].jpg)
 

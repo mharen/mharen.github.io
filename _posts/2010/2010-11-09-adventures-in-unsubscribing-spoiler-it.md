@@ -22,13 +22,13 @@ OK, so I click the link for “Microsoft Privacy Statement” even though that�
 
 ![image[16].png](/assets/2010/image[16].png)
 
-There are SEVEN different sets of preferences I need to check to unsubscribe from everything (I added the highlights). SEVEN! This is a software company…can’t you guys write some *software* to do this for me?!
+There are SEVEN different sets of preferences I need to check to unsubscribe from everything (I added the highlights). SEVEN! This is a software company...can’t you guys write some *software* to do this for me?!
 
 I followed a partner email link to get here so after reading way, way too much, I see that I need the fourth link, which takes me to another site where I’m supposed to click “Manage Your Account” *(after logging in!)*:
 
 ![image[20].png](/assets/2010/image[20].png)
 
-Are you kidding me?! Not only is this not an unsubscribe page, there’s no link called “Manage Your Account”. Let’s do “View…” instead:
+Are you kidding me?! Not only is this not an unsubscribe page, there’s no link called “Manage Your Account”. Let’s do “View...” instead:
 
 ![image[23].png](/assets/2010/image[23].png)
 
@@ -36,7 +36,7 @@ Nice! The site is totally broken in Chrome. I’ll continue to the “Membership
 
 ![image[31].png](/assets/2010/image[31].png)      
 
-Umm…MS, Imma Let you finish but 1995 has the best browser war messages of all time. ALL TIME! You’re telling me that I have to use IE for this thing? I’m not a browser zealot, but this is ridiculous. I’ll proceed anyway and weather the “rendering issues”:
+Umm...MS, Imma Let you finish but 1995 has the best browser war messages of all time. ALL TIME! You’re telling me that I have to use IE for this thing? I’m not a browser zealot, but this is ridiculous. I’ll proceed anyway and weather the “rendering issues”:
 
 ![image[30].png](/assets/2010/image[30].png)
 
@@ -48,7 +48,7 @@ After digging through the menus, I finally found “Manage Program E-Mails”. L
 
 ![image[39].png](/assets/2010/image[39].png)
 
-YES! Finally! Or…wait. That’s not what I want at all! I want to keep those notifications. I don’t want the marketing stuff. Where’s the marketing preferences?!
+YES! Finally! Or...wait. That’s not what I want at all! I want to keep those notifications. I don’t want the marketing stuff. Where’s the marketing preferences?!
 
 I give up. Grrrrr.
 

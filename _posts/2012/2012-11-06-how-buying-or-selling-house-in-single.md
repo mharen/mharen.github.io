@@ -11,11 +11,11 @@ title: How Buying or Selling a House in a Single Day Could Work
 
 [Previously](../../2012/11/death-by-thousand-paper-cuts-way-we-buy.html) I discussed why I think the real estate transactions are handled is headed for major change:
 
-> **The market is craving disruption (Zillow was just the beginning).** It is bloated with a surplus of homes and sellers everywhere are anxious…
+> **The market is craving disruption (Zillow was just the beginning).** It is bloated with a surplus of homes and sellers everywhere are anxious...
 
 And,
 
-> **…we’re talking about big money.** The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
+> **...we’re talking about big money.** The cost to sell/buy a house is outrageously expensive by almost any measure and I am (wildly) asserting that there’s a lot of margin in the transaction.
 
 Head [back there](../../2012/11/death-by-thousand-paper-cuts-way-we-buy.html) for a bit more explanation if you aren’t convinced the way we do this now is awful.
 
@@ -73,7 +73,8 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 (Of course the above scenario could be modified to include common contingencies like date of possession, chattel, repairs, a cooling off period, etc.)
 
-**It will take a lot of baby steps to get there, but get there we will and it’ll happen sooner than you think. (And some organizations will make a killing *while bringing down the transaction costs of real estate for everyone*.)**  <hr />
+**It will take a lot of baby steps to get there, but get there we will and it’ll happen sooner than you think. (And some organizations will make a killing *while bringing down the transaction costs of real estate for everyone*.)**  
+***
 
 <sup id="foot1-20121106">[1](#sup1-20121106)</sup>$667/month would pay for a 40,000 figuring a 60 month loan with 0% APR (a popular thing now), excl. insurance, taxes, maintenance, etc.     
 
@@ -81,10 +82,10 @@ And you’re done. (I wish buying a *car *was this easy!)
 
 <sup id="foot3-20121106">[3](#sup3-20121106)</sup>or prearrange for financing with your bank.    
 
- <hr />
+ ***
  
  Photo credits:
- 
+
  * [Honda Odyssey](http://automobiles.honda.com/tools/build-price/trims.aspx?ModelID=&ModelName=Odyssey&ModelYear=2013)
  * [Random house that costs $140k](http://www.zillow.com/homedetails/519-Fairchild-Ave-Kent-OH-44240/35156720_zpid/#1)
 

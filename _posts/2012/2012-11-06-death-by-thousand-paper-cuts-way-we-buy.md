@@ -51,9 +51,9 @@ on an opportunity and make a killing.
 
 I hope it happens soon.
 
-I have some [rough ideas](../../2012/11/how-buying-or-selling-house-in-single.html) for how it could work, too…
+I have some [rough ideas](../../2012/11/how-buying-or-selling-house-in-single.html) for how it could work, too...
 
-<hr />
+***
 
 Photo credits:
 * [For sale](http://www.bryantanalysts.com/2012/03/30/treasury-secretary-geithner-says-gses-should-consider-principal-reduction/)

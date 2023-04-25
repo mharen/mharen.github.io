@@ -25,9 +25,10 @@ And your history really does help, e.g. “java”. That’s a programming langu
 ![image[9].png](/assets/2011/image[9].png)
 
 Google isn’t all showy or anything, it just gives me results.  
-But sometimes the results suck. **Here are a few reasons to give Google a break:**  <ol>   <li>The results only suck occasionally. I use Google a lot. If you do, too, check your [history](https://www.google.com/history/) to see just how much:       
+But sometimes the results suck. **Here are a few reasons to give Google a break:**  
 
-![choose-search[3].jpg](/assets/2011/choose-search[3].jpg)</li>    <li>Google will take over the world and you better be on its good side when it does </li> </ol>
+1. The results only suck occasionally. I use Google a lot. If you do, too, check your [history](https://www.google.com/history/) to see just how much: ![choose-search[3].jpg](/assets/2011/choose-search[3].jpg)
+2. Google will take over the world and you better be on its good side when it does
 
 I’m not saying that I don’t want something better, just that I appreciate what we have.
 

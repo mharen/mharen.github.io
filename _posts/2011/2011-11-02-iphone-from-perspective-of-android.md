@@ -22,7 +22,10 @@ My DINC, as the cool kids call the Droid Incredible, was good to me. I bought it
 
 I considered going with an iPhone 4 but at the time it wasn’t available on Verizon and lacked some features I really wanted (e.g. sane notifications and Google Voice integration). It was also not officially permitted by my company yet. Also, I’m a tinkerer and love the openness of the Android system and the community around it.
 
-Here we are, 15 months later and now I have an iPhone 4S. A lot of people who know my history with WinMo, Android, and now iPhone have asked about my thoughts on the matter. Here they come in two acts:  <ol>   <li>What I love about the iPhone as a former Android user (this post) </li>    <li>What I miss from my Android as a new iPhone user and final conclusions ([next post](../../2011/11/what-i-miss-from-my-android-as-new.html)) </li> </ol>
+Here we are, 15 months later and now I have an iPhone 4S. A lot of people who know my history with WinMo, Android, and now iPhone have asked about my thoughts on the matter. Here they come in two acts:  
+
+1. What I love about the iPhone as a former Android user (this post)
+2.  What I miss from my Android as a new iPhone user and final conclusions ([next post](../../2011/11/what-i-miss-from-my-android-as-new.html))
 
 Let’s go.  <h4>What I love about the iPhone as a former Android user</h4>  <h5>App quality</h5>
 
@@ -38,7 +41,7 @@ This all plays in nicely with the new Notification Center. That’s a feature th
 
 The way Android does app permissions is a little broken. When you go to install an app, you blindly acknowledge the stuff an app can do (you can’t deny certain permissions—if the app asks for it, you have to grant it to install the app). 
 
-iPhone seems to be a little different. There’s no permissions screen when installing apps (presumably apps are relatively safe…?) but if an app needs to do something extra concerning, like check your location, it has to ask you when it wants to do it. 
+iPhone seems to be a little different. There’s no permissions screen when installing apps (presumably apps are relatively safe...?) but if an app needs to do something extra concerning, like check your location, it has to ask you when it wants to do it. 
 
 This is better for two reasons. First, I am barely qualified to meaningfully review a list of cryptic permissions when installing an app. I don’t know what most of them mean and I won’t remember what I granted ten seconds (or ten months) later when using the app. Second, I don’t really care. The only thing that I actually do care about is location, and isn’t the best time to ask if you can use my location when you need it? At least then the app can make a case for it *and you can actually say “no”*.  <h5>User interface</h5>
 
@@ -84,6 +87,6 @@ This one isn’t really props to Apple or Safari directly. Instead, it seems tha
 
 I don’t know how people are doing it better on iPhone, but they do.  <div align="center">![div>  <div align=](/assets/2011/div>  <div align=)</div>
 
-I’m sure I’ll think of many more as soon as I post this…
+I’m sure I’ll think of many more as soon as I post this...
 
 Now before you brush me off as a shameless, converted fan boy, check back for the next post wherein I detail the [things I miss from my Droid](../../2011/11/what-i-miss-from-my-android-as-new.html) and cry about the fact that I’ll never get them in the mean, closed world of iPhone.

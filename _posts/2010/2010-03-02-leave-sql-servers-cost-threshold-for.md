@@ -12,7 +12,8 @@ I’ve been told that these programming posts are not interesting or funny. For 
 “I like fruit baskets because it gives you the ability to mail someone a piece of fruit without appearing insane. Like, if someone just mailed you an apple you’d be like ‘Huh? What the hell is this?’, but if it’s in a fruit basket you’re like ‘This is *nice!*.’” –[Demetri Martin](http://www.demetrimartin.com/) ([via](http://captainpinhead.wordpress.com/2006/10/01/demetri-martin-quotes/))
 </blockquote>
 
-Now would be a good time for you to stop reading.  <hr />
+Now would be a good time for you to stop reading.  
+***
 
 [![125981194793.png](/assets/2010/125981194793.png)](http://www.urbandictionary.com/define.php?term=sad+panda)A while back I was performance-testing a new SQL Server cluster. This machine was years-better than the system it was replacing and the perf-test was showing it. Everything I threw at it was flying—this thing was screaming fast.
 

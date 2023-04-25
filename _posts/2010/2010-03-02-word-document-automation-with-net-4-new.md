@@ -17,7 +17,5 @@ WordApp = new Application();
 // open the template as a new doc
 var Doc = WordApp.Documents.Add(**PathToTemplateFile**);
 ```
-
-
-
+ 
 Easy does it.

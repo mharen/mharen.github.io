@@ -32,9 +32,7 @@ public class MyPictureService : PictureService
     // my overrides
 }
 ```
-
-
-So you can see that we get a lot of stuff by default. If we want to use any of those services, we need to create class variables for them (the base class marks them private), like so:
+ So you can see that we get a lot of stuff by default. If we want to use any of those services, we need to create class variables for them (the base class marks them private), like so:
 
 ```cs
 public class MyPictureService : PictureService
@@ -90,6 +88,4 @@ public class MyPictureService : PictureService
     // my overrides
 }
 ```
-
-
-Have fun!
+ Have fun!

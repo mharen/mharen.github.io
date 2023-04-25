@@ -21,7 +21,7 @@ Then we went to Giant Eagle for their in-store trick-or-treat. I know it sounds 
 
 It was more difficult than you might imagine to get three costumed kids to sit still and near each other for more than 0.5 seconds.
 
-And lastly, Sarah found a public, kid-friendly Halloween party at a community nearby where I was working (and we were staying) in Ontario. They had music, activities, and ended the event with a march around the park led by a float (I guess it was technically a parade…but we were all in it).
+And lastly, Sarah found a public, kid-friendly Halloween party at a community nearby where I was working (and we were staying) in Ontario. They had music, activities, and ended the event with a march around the park led by a float (I guess it was technically a parade...but we were all in it).
 
 ![2012-10-27 18.12.01.jpg](/assets/2012/2012-10-27 18.12.01.jpg)
 

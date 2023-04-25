@@ -15,7 +15,7 @@ In keeping with the traffic light theme of the past few days, I built a ridiculo
 
 
 
-Yes, that’s Thing 1’s leftovers from lunch (or maybe Thing 2…). Her sandwich bread is somewhat conductive (yellow), but the ham inside is very conductive (green), as is the apple sauce.
+Yes, that’s Thing 1’s leftovers from lunch (or maybe Thing 2...). Her sandwich bread is somewhat conductive (yellow), but the ham inside is very conductive (green), as is the apple sauce.
 
 Why is the applesauce dark red? Good Question. It’s homemade, and the best we can figure, the apples just turned brown as they normally do when cut.  <h4>Build</h4>
 
@@ -101,4 +101,4 @@ void Ding(int light){
 <h4>Next Steps</h4>
 
 
-I’ve got a lot of travel this week so doing projects will be very challenging…but we’ll see!
+I’ve got a lot of travel this week so doing projects will be very challenging...but we’ll see!

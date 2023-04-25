@@ -7,10 +7,25 @@ hr {
     width: 75%;
     margin: auto;
 }
+
 hr + p {
     margin-top: 15px;
 }
 
 td {
     vertical-align: top;
+}
+
+p:has(> img) {
+    padding: 0 15px;
+}
+
+p:has(> img.initial-capital) {
+    padding: 0;
+}
+
+// jim-pony-taxi-who-sounds-lot-like.html
+img.initial-capital {
+    float: left;
+    padding: 0 10px 0 0;
 }

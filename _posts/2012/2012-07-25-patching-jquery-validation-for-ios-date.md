@@ -80,7 +80,7 @@ Quite simply, this just runs both of the date checkers and returns true if eithe
 
 In addition to not having to actually change any of my HTML, this code sits outside the library itself (it’s in my [global.js](https://github.com/mharen/service-tracker/blob/1bac669089a4b2c6c4c472a6c972073353726954/service-tracker-mvc/Scripts/script.js#L20) file) so I can still update my plugins or load them from CDNs without fear. Oh, and if a user enters a date in the usual MM/dd/yyyy format in a browser that doesn’t support the native datepicker, the validation will still pass.
 
-Hopefully Apple fixes this issue…
+Hopefully Apple fixes this issue...
 
 ---
 

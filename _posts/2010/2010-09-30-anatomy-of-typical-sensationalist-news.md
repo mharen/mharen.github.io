@@ -35,11 +35,11 @@ Walker presided over an unprecedented federal trial earlier this year that exami
 Oh, right, that’s why this guy is famous. **Random facts, please!**
 <blockquote> 
 
-…  
+...  
 
 Walker, 66, a Republican appointee considered a conservative with a libertarian bent, has served as a federal district judge for nearly 21 years and as chief judge of the San Francisco-based court since 2004.  
 
-…
+...
 </blockquote>
 
 Don’t forget to add a **slight twist:**
@@ -48,7 +48,7 @@ Don’t forget to add a **slight twist:**
 District chief judges are selected based on age, seniority and experience and may serve for a maximum of seven years.
 </blockquote>
 
-OK…relevance?
+OK...relevance?
 <blockquote> 
 
 Walker's term would have expired next August. The court said District Judge James Ware will become chief judge in January.

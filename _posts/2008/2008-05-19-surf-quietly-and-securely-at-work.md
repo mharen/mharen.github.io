@@ -11,20 +11,11 @@ This is what I did to get around it.
 
 I have a Linux box running at home (which happens to run this website). Here's how this works from a high level:
 
-<ol>
-
-	<li>Setup a server at home to accept SSH connections (like secure telnet)</li>
-
-	<li>I setup a proxy on my home server to accept connections only from local addresses (not from the internet)</li>
-
-	<li>I configure my laptop to connect to my home computer over SSH (a secure connection)</li>
-
-	<li>I configure my laptop's browser to use a localhost proxy on some random, high port (like 31234)</li>
-
-	<li>I bridge my laptop and my home network via an SSH tunnel so that connections to 127.0.0.1:31234 on my laptop are handled by my home server at 127.0.0.1:31234 (the proxy)</li>
-
-</ol>
-
+	1. Setup a server at home to accept SSH connections (like secure telnet)
+	2. I setup a proxy on my home server to accept connections only from local addresses (not from the internet)
+	3. I configure my laptop to connect to my home computer over SSH (a secure connection)
+	4. I configure my laptop's browser to use a localhost proxy on some random, high port (like 31234)
+	5. I bridge my laptop and my home network via an SSH tunnel so that connections to 127.0.0.1:31234 on my laptop are handled by my home server at 127.0.0.1:31234 (the proxy)
 
 ![ssh-tunnel.png](/assets/2008/ssh-tunnel.png)That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a [Gentoo-Linux](http://www.gentoo.org/main/en/about.xml) machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
 
@@ -42,11 +33,12 @@ Once you are able to connect to your Linux machine from inside your network, you
 
 I used TinyProxy as my proxy software because it is lightweight and easy to configure. Since I'm running Gentoo, this is as easy as:
 
-<ul>
 
-	<li>emerge -vat tinyproxy</li>
 
-</ul>
+	* emerge -vat tinyproxy
+
+
+
 
 The configuration file is pretty self explanatory so dig in and read the man pages. Don't forget to add it to the start up services with rc-update!
 

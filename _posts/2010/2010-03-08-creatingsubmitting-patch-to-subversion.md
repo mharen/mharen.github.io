@@ -18,7 +18,8 @@ I’ve been told that these programming posts are not interesting or funny. For 
 –[Daniel Tosh](http://www.danieltosh.com/) ([via](http://en.wikiquote.org/wiki/Daniel_Tosh))
 </blockquote>
 
-Now would be a good time for you to stop reading.  <hr />
+Now would be a good time for you to stop reading.  
+***
 
 I use Subversion as my primary version control system. It’s awesome. I have a few users that have read-only rights to this repo and only occasionally make changes themselves. In these cases, I can’t provide commit rights to the repo so what are we to do? Patches.
 

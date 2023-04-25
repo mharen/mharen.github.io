@@ -13,7 +13,7 @@ Thing 1’s first class field trip brought us to nearby Rufener Hilltop Farms in
 
 That is, I had them for four hours and *only* forgot to feed one of them both meals. In my defense, I was advised against feeding Thing 2 in the car, we made it to the farm on time, and you’ll never find me waking up someone (much less a baby) to eat lunch.
 
-The festivities started out on an odd note when there was some confusion over what tickets we were supposed to be given. I was reminded that some people are not comfortable with things like numbers or counting or…tickets. After some extensive detective work, it was determined that the three of us (one adult, one child, one child with pumpkin) should have five wrist bands (three pink and two green) and four tickets (three yellow and one blue). The following conversation took place:
+The festivities started out on an odd note when there was some confusion over what tickets we were supposed to be given. I was reminded that some people are not comfortable with things like numbers or counting or...tickets. After some extensive detective work, it was determined that the three of us (one adult, one child, one child with pumpkin) should have five wrist bands (three pink and two green) and four tickets (three yellow and one blue). The following conversation took place:
 <blockquote> 
 
 “Why five bands? There’s only three of us.”   
@@ -24,14 +24,14 @@ The festivities started out on an odd note when there was some confusion over wh
 
 “Right".  
 
-“Right…? OK…so what are the tickets for?”  
+“Right...? OK...so what are the tickets for?”  
 
 “The hayride and the pumpkins”  
 
-“Oh. But…uh…ok, thanks!”
+“Oh. But...uh...ok, thanks!”
 </blockquote>
 
-After freaking out on the giant tractor (photo unavailable), the kids found their new favorite thing in the whole wide world…: an enormous bean pit, with a slide. A sign indicated that entering the barn with the bean pit (among other things) was $2. I asked a worker if this is what the wrist bands were for and my confusion was mirrored right back so I decided not to pursue it and assumed we were good.  
+After freaking out on the giant tractor (photo unavailable), the kids found their new favorite thing in the whole wide world...: an enormous bean pit, with a slide. A sign indicated that entering the barn with the bean pit (among other things) was $2. I asked a worker if this is what the wrist bands were for and my confusion was mirrored right back so I decided not to pursue it and assumed we were good.  
 
 ![DSC_0061[7].jpg](/assets/2010/DSC_0061[7].jpg)</a>
 

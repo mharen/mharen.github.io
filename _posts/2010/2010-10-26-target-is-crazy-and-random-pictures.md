@@ -50,7 +50,7 @@ Changing venues:
 
 ![IMAG0200[7].jpg](/assets/2010/IMAG0200[7].jpg)  
 
-Um, yeah this is pretty gross to look at. Now imagine what problem they were trying to solve with all that caulk…
+Um, yeah this is pretty gross to look at. Now imagine what problem they were trying to solve with all that caulk...
 
 My hotel was very nice but I admit that this was a little creepy:
 

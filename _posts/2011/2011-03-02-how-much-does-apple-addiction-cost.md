@@ -11,19 +11,22 @@ title: How Much Does an Apple Addiction Cost?
 
 Apple’s iPad2 will be released on March 11. It looks awesome, no doubt—just like the first one, released only 11 months ago. That got me thinking: how much would it really cost to feed an Apple addiction?
 
-Before you label me a fan boy, let me offer the following facts in my defense:  <ul>   <li>I don’t have a mac (Wife has a two or three year old MacBook) </li>    <li>I have a pretty dated 30gb iPod (pre-Touch days) </li>    <li>My love of Apple is actually much bigger than Apple—I love *all technology *</li> </ul>
+Before you label me a fan boy, let me offer the following facts in my defense:     * I don’t have a mac (Wife has a two or three year old MacBook)     * I have a pretty dated 30gb iPod (pre-Touch days)     * My love of Apple is actually much bigger than Apple—I love *all technology * 
+
 
 Moving on. For this calculation, I’ve made the following assumptions:
 
-The addicted user will buy the following products:  <ul>   <li>A Mac every two years </li>    <li>A major non-laptop purchase every year </li>    <li>A “minor” purchase every year </li> </ul>
+The addicted user will buy the following products:     * A Mac every two years     * A major non-laptop purchase every year     * A “minor” purchase every year  
 
-The calculation will be run for the following user profiles:  <ul>   <li>The **poser** who buys the cheapest option of whatever new crap Steve presents </li>    <li>The **functional elitist** who buys mid-grade all the way because they actually use it (this would be me) </li>    <li>The **hardcore fan boy **who goes *top of *the top of the line every time </li> </ul>
+
+The calculation will be run for the following user profiles:     * The **poser** who buys the cheapest option of whatever new crap Steve presents     * The **functional elitist** who buys mid-grade all the way because they actually use it (this would be me)     * The **hardcore fan boy **who goes *top of *the top of the line every time  
+
 
 The numbers*: 
 
 
 
-In summary, an Apple addiction costs a surprisingly little $89-198 per month. Maybe it’s just me but that’s much less than I’d have guessed it would cost to be swimming in shiny new Apple gear *all the time*. Hmmmm…
+In summary, an Apple addiction costs a surprisingly little $89-198 per month. Maybe it’s just me but that’s much less than I’d have guessed it would cost to be swimming in shiny new Apple gear *all the time*. Hmmmm...
 
 <font size="1">*Numbers do not include potentially substantial things like taxes, monthly cell charges, App Store purchases, the shakes, etc.</font>
 

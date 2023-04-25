@@ -7,17 +7,18 @@ title: More Baby Stuff...
 
 It's a girl!  We are thrilled - I can't wait to go SHOPPING but we have to wait until we have a house in which to put the things we buy :)  So far, Peanut has:
 
-<ul>
 
-	<li>2 pairs of socks</li>
 
-	<li>1 fleece snowsuit</li>
+	* 2 pairs of socks
 
-	<li>1 yellow creeper with ducks on it</li>
+	* 1 fleece snowsuit
 
-	<li>1 fleece jacket/pants combo with a hood with bear ears on it</li>
+	* 1 yellow creeper with ducks on it
 
-</ul>
+	* 1 fleece jacket/pants combo with a hood with bear ears on it
+
+
+
 
 So she has enough clothes to get her through 1 day :)  I'll get some pictures up when I get the energy :P  I swear Peanut is going through a growth spurt because I am exhausted!
 

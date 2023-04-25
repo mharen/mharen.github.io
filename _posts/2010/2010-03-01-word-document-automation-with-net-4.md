@@ -17,9 +17,7 @@ public static void StyleDocument(Document document, string templateFile)
     document.CopyStylesFromTemplate(templateFile);
 }
 ```
-
-
-
+ 
 That’s it! This will take all the styles from the given .dotx or .docx file and apply them to the given document object. If you only have a file path of the document that needs to be styled, you’ll need to open/close it, too, with this overload (in addition to the above method):
 
 
@@ -40,10 +38,8 @@ public static void StyleDocument(string file, string templateFile)
     }
 }
 ```
-
-
-
-Where <code class="csharpcode">DisposeApp(…)</code> is just a helper to cleanup my mess:
+ 
+Where <code class="csharpcode">DisposeApp(...)</code> is just a helper to cleanup my mess:
 
 
 ```cs
@@ -61,7 +57,5 @@ private static void DisposeApp(Application WordApp)
     }
 }
 ```
-
-
-
+ 
 This technique is far, far nicer than working with the styles manually.

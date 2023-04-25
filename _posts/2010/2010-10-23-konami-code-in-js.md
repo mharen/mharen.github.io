@@ -133,9 +133,7 @@ That leverages this function, defined elsewhere:
         );
     }
 ```
-
-
-
+ 
 Of course you could just give it a try on my site. (By the way, if you’re using a weaker browser like IE7, this might look awful.)
 
 

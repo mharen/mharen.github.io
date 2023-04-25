@@ -39,19 +39,20 @@ Don't dumb it down. **Unless you are giving a beginner's guide to whatever, aim 
 Don't be afraid to **let others help you.** If you are supposed to record something or teleconference the talk, ask a trusted coworker or friend to oversee that stuff. You don't want to be worrying about it if you can help it. This works for simple stuff, too. You can ask someone to keep an eye out for questions in the chat room or let you know if you went too quickly through something. 
 
 
-<hr />
+***
 "Great tips, but **how do I actually put one of these together?**" you ask? Unfortunately, it's a lot of work, but the more work you do to prepare, the easier the actual presentation will be. Don't skimp on preparation (your audience can tell)!
 
 I think most presentations are terrible because the presenter wasn't honest with himself regarding what needed to be done. There’s a lot more to presenting than many realize:
 
 
-<ul>
-<li>Pick a topic</li>
-<li>Identify what you want to cover in the topic</li>
-<li>Make an interesting outline of everything you want to cover</li>
-<li>Practice it, **cutting out stuff **until you’re at about 40 minutes (throwing away content is the hardest part)</li>
-<li><span style="background-color: transparent;">At this point you should be very satisfied with what you’ll cover. Now you  can build your assets (code, slides, etc.).</span></li>
-</ul>
+
+* Pick a topic
+* Identify what you want to cover in the topic
+* Make an interesting outline of everything you want to cover
+* Practice it, **cutting out stuff **until you’re at about 40 minutes (throwing away content is the hardest part)
+* <span style="background-color: transparent;">At this point you should be very satisfied with what you’ll cover. Now you  can build your assets (code, slides, etc.).</span>
+
+
 Practice, speaking out loud, everything you think you need to say and do. Leave awkward pauses where you plan to take questions and actually go through the coding exercises you plan to do.  Oddly enough, I feel more ridiculous speaking aloud my talk by myself or in front of my wife than I do to a real audience. How do you know when you have 40 minutes of content? You won’t until you  practice!
 
 If you're like me, you'll find that you move much faster in front of a crowd (it's probably just all the preparation kicking in!). This presents a significant problem. If you prepare 40 minutes of material, and present it in 30, what are you supposed to do for the remaining time? In practice, a lively audience will double that 30 minutes into 60 by asking questions. Unfortunately, it's difficult to encourage a lively audience. This is where I think humor helps a lot. If you make the room feel small and comfortable, people will chip in to the conversation when you ask for questions.

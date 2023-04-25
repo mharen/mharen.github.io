@@ -9,11 +9,15 @@ categories:
 title: 'A Candy Land Simulator: The Game Engine, Implemented'
 ---
 
+**Note:** this post is from a series on Candy Land:
 
-*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy Land Simulator)*.*
+1. [Overview and Data Representations](candy-land-simulator-overview-and-data)
+2. [The Game Engine](candy-land-simulator-game-engine)
+3. The Game Engine, Implemented (you are here)
 
-We’re back again. We still have our board and cards (these are old hat now, right?):  
-```cs
+We’re back again. We still have our board and cards (these are old hat now, right?):
+
+```js
 var board = [
     { color: 'Red' },
     { color: 'Orange', bridgeTo: 59 }
@@ -21,35 +25,27 @@ var board = [
 ];
 
 var cards = [
-    'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'   , 'Red'
+    'Red', 'Red', 'Red', 'Red', 'Red', 'Red', 'Red', 'Red'
     // ...
 ];
 ```
 
-
-
 And we just added some players:
 
-
-```cs
+```js
 var players = [
     { name: 'Michael', isLosingATurn: false, position: -1, isWinner: false, moves = 0 },
     { name: 'Thing 1', isLosingATurn: false, position: -1, isWinner: false, moves = 0 }
 ];
 ```
 
-
-
 So let’s get down to implementing some of the game engine we spec'd out yesterday. First, here’s the test harness:
 
-
-![image[3].png](/assets/2011/image[3].png)
-
+![test-harness.png](/assets/2011/test-harness.png)
 
 I decided to add an option of letting players stop the game as soon as one player wins (like normal people), or to play through until everyone “wins” like my kids play. This is the main function that we run when we click the button to start the game. It loads up that option from a checkbox, and the players:
 
-
-```cs
+```js
 // for stats
 var gamesPlayed = 0;
 var totalMoves = 0;
@@ -91,15 +87,11 @@ $('#run').click(function(){
 });
 ```
 
-
-
 As you’ll see, I’ve taken a few other liberties during the implementation that deviate slightly from the original design. That’s normal. 
-
 
 So when we actually call “DoGame()”, this is called:
 
-
-```cs
+```js
 function DoGame(options, players){
     // initialize the board
     var board = MakeBoard();
@@ -113,12 +105,9 @@ function DoGame(options, players){
 }
 ```
 
-
-
 Which calls “DoGameLoop” repeatedly until it signals that the game is over:
 
-
-```cs
+```js
 // return false when the game is over
 function DoGameLoop(options, players, board, cards){
     
@@ -151,12 +140,9 @@ function DoGameLoop(options, players, board, cards){
 }
 ```
 
-
-
 That just calls “DoPlayerLoop” for each player:
 
-
-```cs
+```js
 function DoPlayerLoop(options, player, board, cards){
     // if we are losing a turn, turn off the "isLosingATurn" 
     // property and we're done (exit now)
@@ -197,12 +183,9 @@ function DoPlayerLoop(options, player, board, cards){
 }
 ```
 
-
-
 The real workhorse in there is the call to DoMove, which actually advances the game token along the board:
 
-
-```cs
+```js
 function DoMove(options, player, board, card){
     // we'll cycle through the board. 
     // if we have a regular color card (or double), we'll go 
@@ -240,13 +223,9 @@ function DoMove(options, player, board, card){
     return currentSpace;
 }
 ```
-
-
-
+ 
 All this, including the source to the utility functions (e.g. DrawACard) is available [in the fiddle](http://jsfiddle.net/mharen/crgAX/35/). Here’s the working version:
 
-
-
-
+<iframe width="100%" height="300" src="//jsfiddle.net/mharen/crgAX/35/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 In the next post I’ll do some additional testing and verification. A brief, casual comparison to other papers online reveals that my results are reasonable. I’m not saying they are correct, but I’m at least in the ball park for finding the length of an average game (around 45-50 cards).

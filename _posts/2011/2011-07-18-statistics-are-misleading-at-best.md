@@ -14,7 +14,7 @@ Back in April, I somehow came across [this site](http://disruptthenarrative.word
 
 The implication is that since the moment Obama took office, gas prices have gone crazy. My god! 
 
-Wait wait wait…why the steep decline at the end of 2008? Let’s uncrop a bit (I downloaded some public data from an energy gov site, dropped it into Excel, and annotated it with SnagIt):
+Wait wait wait...why the steep decline at the end of 2008? Let’s uncrop a bit (I downloaded some public data from an energy gov site, dropped it into Excel, and annotated it with SnagIt):
 
 ![fuel prices[2].png](/assets/2011/fuel prices[2].png)
 
@@ -22,7 +22,7 @@ That’s a pretty different picture, isn’t it?
 
 I’m not posting this to indict or vindicate anyone. I’m not even going to guess at explanations for the dramatic changes in that chart. I only post this to encourage people to be skeptical of charts, and to be especially suspicious of sensationalism.
 
-Oh, and if you hate paying $3-4 dollars/gallon in the United States…[it could be worse](../../2005/09/gas-prices.html).
+Oh, and if you hate paying $3-4 dollars/gallon in the United States...[it could be worse](../../2005/09/gas-prices.html).
 
 ---
 

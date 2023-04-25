@@ -59,7 +59,7 @@ Err. Ew. That doesn't work because the effect is applied before the rotation. Th
 
 <iframe style="height: 300px; width: 100%" src="https://jsfiddle.net/Q3hjZ/10/embedded/result,html,css,js" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Next time I’ll build a digital clock widget…but don’t get your hopes up—it will be simpler.
+Next time I’ll build a digital clock widget...but don’t get your hopes up—it will be simpler.
 
 NB: I [tweeted](https://twitter.com/mharen/status/268426088076697600) a version of this clock before writing the post and my pal [Xander](http://xdumaine.com/) wired up the clock’s state to a view model with [Knockout](http://knockoutjs.com/) and animated it. [Spiffy](http://jsfiddle.net/frCyn/4/).
 

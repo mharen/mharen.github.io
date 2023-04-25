@@ -8,11 +8,13 @@ title: Troubleshooting an Elusive Site Slow Down
 ---
 
 
-What follows is a long chronological account of a recent problem I ran into at work and how I diagnosed it (but have yet to solve!). I’m posting it here for many reasons:  <ul>   <li>to offer some insight into the mind of an engineer as a problem is dissected and diagnosed </li>    <li>to reiterate the importance of the fundamentals of problem solving </li>    <li>to show that [everybody lies](http://everybody-lies.info/) (even us, to ourselves) and it really does get in the way of problem solving </li>    <li>to show that supporting legacy browsers is a major pain </li>    <li>as a reminder to my future self how to do some of the things documented herein </li> </ul>
+What follows is a long chronological account of a recent problem I ran into at work and how I diagnosed it (but have yet to solve!). I’m posting it here for many reasons:     * to offer some insight into the mind of an engineer as a problem is dissected and diagnosed     * to reiterate the importance of the fundamentals of problem solving     * to show that [everybody lies](http://everybody-lies.info/) (even us, to ourselves) and it really does get in the way of problem solving     * to show that supporting legacy browsers is a major pain     * as a reminder to my future self how to do some of the things documented herein  
 
-Now onto the story.  <hr />
 
-One of the projects I maintain is a corporate website used internally to track all sorts of things. It’s pretty much a web-based data entry system implemented in ASP.NET 3.5 (upgraded from 1.1, 2.0…it’s an oldie).
+Now onto the story.  
+***
+
+One of the projects I maintain is a corporate website used internally to track all sorts of things. It’s pretty much a web-based data entry system implemented in ASP.NET 3.5 (upgraded from 1.1, 2.0...it’s an oldie).
 
 Recently a user started reporting some odd behavior. She reports that after five minutes of work, one page (out of 10-20) starts slowing down to the point where she can’t use it any longer.
 
@@ -120,7 +122,7 @@ Execution time:     1.89 seconds
 So it looks like there are a couple slow hits to the page (2.4s, 1.9s) but that’s nothing like the 10-20s the user was seeing. This might be good news as I can now, for the most part, focus on the client—she’s getting the pages quickly, but for some reason things feel slow to her.
 All this time, I’ve been running under the assumption that it’s got to be something about this user or her computers that cause the problem. This is based on the fact that we have a couple thousand people use this system every day and surely they aren’t all so patient as to never complain.
 The fact that she was running IE6 bothered me a little bit. Everything is tested in IE6, 7, 8 but we don’t spend lots of time doing things over and over again as a single session so I thought that might have something to do with it. The biggest change we made in May that might make trouble with IE6 was the enabling of http compression.
-So I turned to my pal Google. and eventually [this page](http://sebduggan.com/posts/ie6-gzip-bug-solved-using-isapi-rewrite) jumped out at me. It’s a set of instructions for disabling http compression for IE6 clients. Interesting…but most of my users use IE6. Here’s the part that peaked my interest (in blue):<blockquote>
+So I turned to my pal Google. and eventually [this page](http://sebduggan.com/posts/ie6-gzip-bug-solved-using-isapi-rewrite) jumped out at me. It’s a set of instructions for disabling http compression for IE6 clients. Interesting...but most of my users use IE6. Here’s the part that peaked my interest (in blue):<blockquote>
 ```cs
 RewriteEngine on
 RewriteCond %{HTTP:User-Agent} MSIE\ [56]
@@ -271,9 +273,15 @@ I dumped that into the [Google Charts API](http://code.google.com/apis/chart/) t
 It’s not the overwhelming result I had hoped for with 27% of traffic over the last 2 weeks coming from the defunct browser I was trying to blame. Again, it seems unlikely that 27% of users are experiencing the same problem without reporting it.
 But what the hell, I turned off http compression on one of the web servers anyway. I had no other leads at this point so I might as well. As expected, though, the user reported that it didn’t help.
 It’d still be nice to narrow this down to a browser so I’ve asked the user to see if they can get a hold of another machine with IE7. If things work well on that machine at least I’ll know it’s either her machine or possibly her machine plus her browser.
-It’s also very possible it’s something *she’s* doing. Maybe she clicks things just the wrong way or performs some operation that others don’t.<hr />
+It’s also very possible it’s something *she’s* doing. Maybe she clicks things just the wrong way or performs some operation that others don’t.
+***
 It’s at this point where I started gathering all my notes together and reviewing everything to see what I missed. And I missed something huge.
-I took the user’s comments at face value and coupled them with a very strong assumption. Here are the predicates that led me *away *from the diagnosis:<ol><li>User: the problem only affects one page </li>  <li>User: when the problem occurs on said page, other pages are fine </li>  <li>Me: if all users on similar machines were having this problem, too, there’d be more people complaining about it. </li></ol>
+I took the user’s comments at face value and coupled them with a very strong assumption. Here are the predicates that led me *away *from the diagnosis:
+
+  1. User: the problem only affects one page   
+  2. User: when the problem occurs on said page, other pages are fine
+  3. Me: if all users on similar machines were having this problem, too, there’d be more people complaining about it.
+
 I might be counting my chickens a little early yet but I’m pretty sure I have this problem figured out, and each of those three “facts” are wrong.
 After talking with the user, she revealed that other areas of the site *do* slow down, just “not as bad”. Number 1 and 2 gone.
 When reviewing her computer (Windows 2000, IE6, tiny amount of memory), and recalling the amount of patience users have with this product (a lot), I realized that assumption 3 isn’t very solid either.
@@ -307,7 +315,14 @@ Here’s the simple page that produces the above behavior in IE6SP1 (but not Ope
 ```
 </blockquote>
 The problem is jquery. It's not really jquery's fault--this is a [documented bug](http://support.microsoft.com/kb/929874) with IE that's being triggered by jQuery. I hopped onto Google and started looking for solutions to “[IE6 jquery memory leak](http://www.google.com/search?q=IE6+jquery+memory+leak)”. I made another bad assumption when I wagered that there’d be an easy fix for this problem. 
-After trying a bunch of things, I opened a [question on Stackoverflow](http://stackoverflow.com/questions/1051090/how-can-i-control-ie6jqueryjquery-ui-memory-leaks) and that’s where I stand now. My leads are currently:<ol><li>Keep googling for a solution </li><li>Wait for someone to answer my question on SO </li><li>Post on the jquery mailing list for help</li><li>Learn a lot more about IE6’s memory leaks and attempt to patch jQuery myself </li></ol>
+After trying a bunch of things, I opened a [question on Stackoverflow](http://stackoverflow.com/questions/1051090/how-can-i-control-ie6jqueryjquery-ui-memory-leaks) and that’s where I stand now. My leads are currently:
+
+
+  1. Keep googling for a solution 
+  2. Wait for someone to answer my question on SO 
+  3. Post on the jquery mailing list for help
+  4. Learn a lot more about IE6’s memory leaks and attempt to patch jQuery myself
+
 When I resolve this problem, I’ll post a follow up. Hopefully soon!
 
 ---

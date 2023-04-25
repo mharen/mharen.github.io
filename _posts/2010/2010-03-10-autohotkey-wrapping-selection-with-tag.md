@@ -23,7 +23,5 @@ Clipboard := ClipSaved     ; Restore the original clipboard
 ClipSaved =                ; Free the memory in case the clipboard was very large.
 return</code>
 ```
-
-
-
+ 
 Load this into your AHK script, hit reload, and fire away. Select some text, hit <code>WIN+C</code>, and watch in amazement as it is surrounded by <code><code></code> tags.

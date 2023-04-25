@@ -33,7 +33,7 @@ What you’ve done is set the bar high for other device manufacturers. That’s 
 Since you started this mess, I expect you to fix it. I see only one satisfactory solution: free iPhones for all. I thought about this a great deal and decided that anything over $200 would be too much while anything less than $200 would be too irresistibly close to “free” for the marketing guys to resist. Thus, I propose that beginning this fall, iPhones be given away.
 
 
-While I’m at it, let’s talk about the cost of service plans, too. A standard entry-level plan will run you about $60/month. This is slightly cheaper than it was a few years ago, plus you get a lot more for the same dollar now (more data, web, etc.). But still, $60/month…forever? I don’t think so.
+While I’m at it, let’s talk about the cost of service plans, too. A standard entry-level plan will run you about $60/month. This is slightly cheaper than it was a few years ago, plus you get a lot more for the same dollar now (more data, web, etc.). But still, $60/month...forever? I don’t think so.
 
 
 Let’s not kid ourselves with the $60 sticker price. If you manage to stay under all the limits, it’s really more like $75 including taxes. At this rate, mobile service can run you $900/year. Hypothetically, if you applied that $75 to a $150,000 30-year fixed mortgage at 7%, you’d knock almost *6 years* off the payments. I’d like to see the $40 basic tier move to $25 and the $60 data plans slashed to $35. While I’m making up prices, let’s go ahead and cut the cost to add a line down from $20-40 to $10 flat fee—all plans, just $10 (and no trying to charge extra for data or messaging for the extra lines!).

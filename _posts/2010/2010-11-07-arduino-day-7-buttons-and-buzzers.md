@@ -11,7 +11,7 @@ title: 'Arduino Day 7: Buttons and Buzzers'
 
 <div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
-I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind…
+I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind...
 
 A big benefit to the simple build, though, was that Thing1 was actually interested enough to help from start to finish (*five *minutes). She helped me with wires and button placement and played with the buttons while I coded it up, and then played with the buttons again once they did something.
 

@@ -43,7 +43,8 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Child’s Grievance:** the world (if for only a moment) doesn’t seem to revolve around her, left unsupervised for 12 seconds while parent goes to the bathroom, or most treasured toy wasn’t in hand while parent is strapping child into safety seat
 
-**Parental Response:** most treasured toy is thrown from car window at highway speed by parent, hands off child to spouse upon arrival and leaves, or locks self away in bathroom to cry  <hr />
+**Parental Response:** most treasured toy is thrown from car window at highway speed by parent, hands off child to spouse upon arrival and leaves, or locks self away in bathroom to cry  
+***
 
 Of course most of the things that lead to parental anger start as child anger. They get a scale, too:  <h3>Level 1: The world is over</h3>
 

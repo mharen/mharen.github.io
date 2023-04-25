@@ -14,10 +14,14 @@ Anyway, the question today was: given a base class “Animal” and a derived cl
 
 I haven’t touched C++ for a long time but after thinking about it for a few seconds, this is what would make sense to me:
 
-new Dog():   <ol>   <li>Animal()</li>    <li>Dog()</li> </ol>
+new Dog():   
+  1. Animal()    
+  2. Dog()
 
-delete Dog():  <ol>   <li>Dog()</li>    <li>Animal()</li> </ol>
+delete Dog():  
+  1. Dog()    
+  2. Animal()
 
 The constructor part is the [same in C#](http://www.yoda.arachsys.com/csharp/constructors.html) (my current language of choice) so that was obvious, but we don’t really have destructors in C# (we have IDisposable) so i had to think about that logically a bit. 
 
-The gist is: **constructors are executed top down, and destructors are executed bottom up**. I like digging into the details and the nuances of these things…
+The gist is: **constructors are executed top down, and destructors are executed bottom up**. I like digging into the details and the nuances of these things...

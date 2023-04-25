@@ -48,7 +48,7 @@ So I guess the news people are applying this to the log scale with a *base of 31
 31.6<sup>8.8</sup>/31.7<sup>7</sup> = 501
 </blockquote>
 
-Hooray! I honestly didn’t know that would work until I got to this point and calculated it (phew!). So this makes me wonder how effective a scale is when it’s not…intuitive at all. Certainly a simple, scientific number is helpful, but I’m not sure this is the right number to use in casual conversation. 
+Hooray! I honestly didn’t know that would work until I got to this point and calculated it (phew!). So this makes me wonder how effective a scale is when it’s not...intuitive at all. Certainly a simple, scientific number is helpful, but I’m not sure this is the right number to use in casual conversation. 
 
 Instead, numbers related to life lost, people displaced, or damage are probably more relevant and appropriate to compare. For example, the [current mortality estimates](http://online.wsj.com/article/SB10001424052748704089904575094013194396670.html?mod=WSJ-World-LeadStory) are: Chile 700, Haiti 220,000:
 <blockquote> 

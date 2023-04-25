@@ -32,7 +32,17 @@ Here’s a rough mockup of what WindowsBing™ might look like (made with the ev
 
 ![WindowsBing[13].png](/assets/2009/WindowsBing[13].png) 
 
-![image[14].png](/assets/2009/image[14].png)Ignoring any actual, thought provoking analysis of market trends, etc., I decided to just come up with a list of editions. MS is famous for releasing ridiculously large numbers of editions of their software. Windows7 will come in six flavors (plus six more without IE for the European Union!). The [unnecessary complexity](http://en.wikipedia.org/wiki/Windows_7_editions#Comparison_chart) is maddening. I came up with nine:  <ol>   <li>WindowsBing™ Free Edition (for losers) - (-$50...wtf? MS will make it up in volume!) </li>    <li>WindowsBing™ Home Basic (for 386s) - $99 </li>    <li>WindowsBing™ Home Premium (the real version) - $199 </li>    <li>WindowsBing™ Business (more expensive than home premium, with fewer features - $299 </li>    <li>WindowsBing™ Ultimate (home premium with a better screen saver) - $399 </li>    <li>WindowsBing™ Enterprise NoActivation!!1 - (home premium for [warez'ers](http://en.wikipedia.org/wiki/Warez)) - fa-reee! (Bundled with bittorrent, may spontaneously corrupt your user-profile, ruin life) </li>    <li>WindowsBing™ StarterEdition (Free edition for poor people)&#160; - ($0...poor people don't have computers) </li>    <li>WindowsBing™ EU edition (browser based OS with...[no bundled browser](http://news.bbc.co.uk/2/hi/business/7834792.stm)) - €199 </li>    <li>WindowsBing™ J/K edition (Windows7 [Mojave experiment](http://en.wikipedia.org/wiki/The_Mojave_Experiment) derivative) - $199 </li> </ol>
+![image[14].png](/assets/2009/image[14].png)Ignoring any actual, thought provoking analysis of market trends, etc., I decided to just come up with a list of editions. MS is famous for releasing ridiculously large numbers of editions of their software. Windows7 will come in six flavors (plus six more without IE for the European Union!). The [unnecessary complexity](http://en.wikipedia.org/wiki/Windows_7_editions#Comparison_chart) is maddening. I came up with nine:  
+
+  1. WindowsBing™ Free Edition (for losers) - (-$50...wtf? MS will make it up in volume!)
+  2. WindowsBing™ Home Basic (for 386s) - $99
+  3. WindowsBing™ Home Premium (the real version) - $199
+  4. WindowsBing™ Business (more expensive than home premium, with fewer features - $299
+  5. WindowsBing™ Ultimate (home premium with a better screen saver) - $399
+  6. WindowsBing™ Enterprise NoActivation!!1 - (home premium for [warez'ers](http://en.wikipedia.org/wiki/Warez)) - fa-reee! (Bundled with bittorrent, may spontaneously corrupt your user-profile, ruin life)
+  7. WindowsBing™ StarterEdition (Free edition for poor people)&#160; - ($0...poor people don't have computers)
+  8. WindowsBing™ EU edition (browser based OS with...[no bundled browser](http://news.bbc.co.uk/2/hi/business/7834792.stm)) - €199
+  9. WindowsBing™ J/K edition (Windows7 [Mojave experiment](http://en.wikipedia.org/wiki/The_Mojave_Experiment) derivative) - $199
 
 I could probably knock out a dozen more but it’s getting pretty rough. OK, one more thanks to Jeromie: WindowsBing™ [Awesome Edition](http://www.codinghorror.com/blog/archives/001283.html).
 

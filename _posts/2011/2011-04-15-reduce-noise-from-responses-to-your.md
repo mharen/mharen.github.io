@@ -22,6 +22,7 @@ Here’s what I came up with instead:
 
 This is a mail rule catches messages that look like meeting request responses and moves them directly to my archive *unless *they contain any text in the body. This has been working quite well for months as any boilerplate reply goes straight to my archive while anything with a custom response still shows up in my inbox.
 
-This could almost certainly be improved, e.g.:  <ul>   <li>There’s probably a built-in way of detecting meeting responses besides searching the subject</li>    <li>There’s probably a built-in way of detecting if the user has edited the response besides checking the body for any vowel</li>    <li>There’s possibly a built-in way to do this whole thing, hiding as an elusive checkbox eight layers deep in the options somewhere</li> </ul>
+This could almost certainly be improved, e.g.:     * There’s probably a built-in way of detecting meeting responses besides searching the subject    * There’s probably a built-in way of detecting if the user has edited the response besides checking the body for any vowel    * There’s possibly a built-in way to do this whole thing, hiding as an elusive checkbox eight layers deep in the options somewhere 
+
 
 I couldn’t find solutions to those in the five minutes I spent making this hack. If you have a better way of doing this, please share in the comments!

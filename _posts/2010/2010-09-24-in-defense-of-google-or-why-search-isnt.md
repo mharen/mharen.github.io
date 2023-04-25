@@ -8,7 +8,10 @@ title: "In Defense of Google, or Why Search Isn't About Bells and Whistles"
 ---
 
 
-I read a [tiring article](http://www.fastcompany.com/1687702/how-microsoft-bing-should-respond-to-google-instant-search) wherein Google was accused of being a Bing copy-cat, and that Microsoft should sit still if they want to usurp Google. The post suggests two key Google weaknesses:  <ol>   <li>It has fewer features than Bing </li>    <li>Its new Instant Search is traumatic to the elderly </li> </ol>
+I read a [tiring article](http://www.fastcompany.com/1687702/how-microsoft-bing-should-respond-to-google-instant-search) wherein Google was accused of being a Bing copy-cat, and that Microsoft should sit still if they want to usurp Google. The post suggests two key Google weaknesses:  
+
+  1. It has fewer features than Bing
+  2. Its new Instant Search is traumatic to the elderly
 
 I’d like to offer a few counterpoints.  <h4>It has fewer features than Bing</h4>
 

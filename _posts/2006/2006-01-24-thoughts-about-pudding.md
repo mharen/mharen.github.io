@@ -5,20 +5,21 @@ categories: random-updates
 title: Thoughts About Pudding
 ---
 
-<ul><li>I think pudding is capable of ending all wars and conflicts.</li>
+* I think pudding is capable of ending all wars and conflicts.
 
-<li>I think it is weird that I can buy both refrigerated and non-refrigerated pudding.</li>
+* I think it is weird that I can buy both refrigerated and non-refrigerated pudding.
 
-<li>Cafeteria pudding usually sucks. That's because it's not real pudding.</li>
+* Cafeteria pudding usually sucks. That's because it's not real pudding.
 
-<li>Low-cal pudding isn't very good either, but it will doâ€”when it comes to pudding, take what you can get.</li>
+* Low-cal pudding isn't very good either, but it will doâ€”when it comes to pudding, take what you can get.
 
-<li>You can eat pudding with a spoon *or* fork. It's so versatile!</li></ul>
+* You can eat pudding with a spoon *or* fork. It's so versatile!
+
 
 And one final random though (not related to pudding)...
 
-<ul>
 
-	<li>Why is it that it takes hours and hours to freeze a slice of lasagna but I can reheat the same frozen block in only 90 seconds? Come on!</li>
 
-</ul>
+	* Why is it that it takes hours and hours to freeze a slice of lasagna but I can reheat the same frozen block in only 90 seconds? Come on!
+
+

@@ -31,9 +31,7 @@ Here’s my basic node class (structs are for sissys):
         public Node Right { get; set; }
     }
 ```
-
-
-
+ 
 And my main program:
 
 
@@ -48,9 +46,7 @@ And my main program:
         Console.ReadKey();
     }
 ```
-
-
-
+ 
 And the magic:
 
 
@@ -71,9 +67,7 @@ And the magic:
         } while (Nodes.Count > 0);
     }
 ```
-
-
-
+ 
 A quick test reveals that it works:
 
 <blockquote>
@@ -118,9 +112,7 @@ I’ve taken this opportunity to brush up on some Java. Here’s the same app in
         // calling for the list's length over and over again
     }
 ```
-
-
-
+ 
 It’s pretty much the same thing.
 
 ---

@@ -25,7 +25,7 @@ Today’s build was super easy once I wrapped my head around how this thing’s 
 
 ![ANd9GcTYyj15MzFtgQ9H9cedX1F2NB3ODuRq15FicCAeoJ2.jpg](/assets/2010/ANd9GcTYyj15MzFtgQ9H9cedX1F2NB3ODuRq15FicCAeoJ2.jpg)Speaking of super easy, has anyone played this game “Candyland”? It’s a bunch of crap. That game is like sooooo easy. It has one problem, though: you have to play it with three year olds who cheat. Oh, and it’s so boring. To pass the time, I try to imagine what it would be like to navigate that crazy candy world in real life. As I stack the deck with doubles, I picture Bruce Willis or pre-crazy Tom Cruise climbing up the side of a giant sugar crystal volcano or something. With some luck, Thing 1 “accidentally” lands on that go-to-the-end square and the torment is over.
 
-On a brighter note, Thing 1 has almost grasped Go Fish, which is pretty magical to see unfold. For now. In a couple weeks…I don't know. It’s become clear to me why we were moved onto playing more sophisticated games as early as possible.
+On a brighter note, Thing 1 has almost grasped Go Fish, which is pretty magical to see unfold. For now. In a couple weeks...I don't know. It’s become clear to me why we were moved onto playing more sophisticated games as early as possible.
 
 Oh yeah, the build:
 
@@ -81,7 +81,7 @@ void loop() {
 <h4>Next Steps</h4>
 
 
-This could turn into a neat toy if I just wire the LED to three potentiometers. Then kids could mix colors themselves. Hmmm…
+This could turn into a neat toy if I just wire the LED to three potentiometers. Then kids could mix colors themselves. Hmmm...
 
 
 I’ll put that on hold, though as I think I’ll be moving on to a new component. Maybe a buzzer?

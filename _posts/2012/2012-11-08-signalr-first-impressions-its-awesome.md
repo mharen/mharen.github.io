@@ -27,7 +27,7 @@ After seeing [Hanselman](http://www.hanselman.com/blog/AsynchronousScalableWebAp
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cUY6p5CumXI" title="SignalR syncing drag events between iPad and Desktop Chrome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-That app’s actually [live right now](http://blocky.apphb.com/) and the [source is on GitHub](https://github.com/mharen/devour/tree/master/devour). Check it out! (Note: if you’re not on a solid internet connection, or my host is under load, it’s not going to look great…it’s not been optimized all that much—use some imagination!)
+That app’s actually [live right now](http://blocky.apphb.com/) and the [source is on GitHub](https://github.com/mharen/devour/tree/master/devour). Check it out! (Note: if you’re not on a solid internet connection, or my host is under load, it’s not going to look great...it’s not been optimized all that much—use some imagination!)
 
 Oh, and it works on mobile.
 

@@ -9,7 +9,8 @@ title: C# and VB.NET Compared
 C# (and .NET) has come a long, long way since the early days of .NET 1.1. Let me start by clearing up some confusion about version numbers, [quoting](http://stackoverflow.com/questions/247621/what-are-the-correct-version-numbers-for-c/247623#247623):
 <blockquote> 
 
-These are the versions of C# known about at the time of this writing:    <ul>     <li>C# 1.0; released with .NET 1.0 and VS2002 (in 2002)</li>      <li>C# 1.2 (bizarrely enough); released with .NET 1.1 and VS2003 (in 2003). First version to call Dispose on IEnumerators which implemented IDisposable. A few other small features.</li>      <li>C# 2.0; released with .NET 2.0 and VS2005 (November 2005). Major new features: generics, anonymous methods, nullable types, iterator blocks</li>      <li>C# 3.0; released with .NET 3.5 and VS2008 (November 2007). Major new features: lambda expressions, extension methods, expression trees, anonymous types, implicit typing (var), query expressions</li>      <li>C# 4.0; to be released with .NET 4.0 and VS2010 (release date unknown). Major new proposed features: late binding (dynamic), delegate and interface generic variance, more COM support, named and optional parameters</li>      <li>C# 5.0; unknown time frame. Major new speculated features: metaprogramming</li>   </ul>  
+These are the versions of C# known about at the time of this writing:         * C# 1.0; released with .NET 1.0 and VS2002 (in 2002)      * C# 1.2 (bizarrely enough); released with .NET 1.1 and VS2003 (in 2003). First version to call Dispose on IEnumerators which implemented IDisposable. A few other small features.      * C# 2.0; released with .NET 2.0 and VS2005 (November 2005). Major new features: generics, anonymous methods, nullable types, iterator blocks      * C# 3.0; released with .NET 3.5 and VS2008 (November 2007). Major new features: lambda expressions, extension methods, expression trees, anonymous types, implicit typing (var), query expressions      * C# 4.0; to be released with .NET 4.0 and VS2010 (release date unknown). Major new proposed features: late binding (dynamic), delegate and interface generic variance, more COM support, named and optional parameters      * C# 5.0; unknown time frame. Major new speculated features: metaprogramming   
+  
 
 **There is no such thing as C# 3.5** - the cause of confusion here is that the C# 3.0 is present in .NET 3.5. The language and framework are versioned independently, however - as is the CLR, which is still (at the time of .NET 3.5) at version 2.0, service packs notwithstanding.
 </blockquote>
@@ -22,7 +23,7 @@ XML Literals are definitely worth checking out if you do much with VB. Here's a 
 Function ExportAsXml(ByVal invoices As List(Of Invoice)) _ <span class="kwrd">
 As</span> String
   Dim XDoc As XElement = _
-      <Invoices xmlns="http://tempuri.org/Schema/…">
+      <Invoices xmlns="http://tempuri.org/Schema/...">
           <%= From invoice In invoices Select _
               <Invoice ID  = <%= invoice.ID %>
                DueDate     = <%= invoice.DueDate %>

@@ -10,13 +10,14 @@ title: Where Do You See Yourself in Five Years? (Blue Pill or Red Pill?)
 
 ![image8.png](/assets/2010/image8.png)
 
-Until recently, this has always been an easy question for me.   <ul>   <li>In middle school I wanted to be in computers so I obsessed over computers. </li>    <li>In high school I wanted to formally study computers so I pursued engineering at OSU. </li>    <li>In college I wanted a job in computers so I graduated and pursued a career in computers. </li>    <li>In my career in computers I wanted to advance my career to level two. </li>    <li>In my career at level two, I wanted to advance to level three. </li>    <li>There is no level four (at my current employer) </li> </ul>
+Until recently, this has always been an easy question for me.      * In middle school I wanted to be in computers so I obsessed over computers.     * In high school I wanted to formally study computers so I pursued engineering at OSU.     * In college I wanted a job in computers so I graduated and pursued a career in computers.     * In my career in computers I wanted to advance my career to level two.     * In my career at level two, I wanted to advance to level three.     * There is no level four (at my current employer)  
+
 
 I’ve always considered myself very lucky to know what I wanted to do with my life—to have a simple, easy plan. And over the last 14 years, that’s the plan I followed, getting slightly more focused and specialized with each step, as represented in the image above.
 
 But now I’m faced with a decision that I suddenly don’t have an easy answer for: I’ve reached the top of the technical ladder and have to choose my next step.
 
-Quite simply, I need to decide if I want to move into management (i.e. manage projects and occasionally design software, but stop coding) or stay technical (i.e. design software and write code, but stop advancing). To code or not to code…  <h4>![magic8ball1.jpg](/assets/2010/magic8ball1.jpg)Option 1: The Default Path Into Management and Sales</h4>
+Quite simply, I need to decide if I want to move into management (i.e. manage projects and occasionally design software, but stop coding) or stay technical (i.e. design software and write code, but stop advancing). To code or not to code...  <h4>![magic8ball1.jpg](/assets/2010/magic8ball1.jpg)Option 1: The Default Path Into Management and Sales</h4>
 
 The path of least external resistance is definitely to follow the management route at my current company. That’s what everyone expects me to do. It’s probably where the money is and provides new growth opportunities. Over time I’d have to give up coding and learn more about project management, people management, and sales—areas that don’t excite me terribly. This is the [blue pill](http://en.wikipedia.org/wiki/Bluepill) option.  <h4>Option 2: The Terminal Path of Staying Technical</h4>
 

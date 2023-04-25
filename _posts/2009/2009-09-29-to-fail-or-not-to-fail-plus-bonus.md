@@ -22,11 +22,11 @@ But you already know this. Why would I spend so much time defining a fail? Becau
 
 What’s the fail? Are they not girls? Is one of them not yours?
 
-![image[34].png](/assets/2009/image[34].png) But they *do* match. You don’t get how this works…
+![image[34].png](/assets/2009/image[34].png) But they *do* match. You don’t get how this works...
 
 ![image[33].png](/assets/2009/image[33].png)
 
-Is it because the kid isn’t smiling at your song? Or is this a song lyric grammar fail? Sigh…
+Is it because the kid isn’t smiling at your song? Or is this a song lyric grammar fail? Sigh...
 
 Sometimes, it’s a genuine fail, but needs a much, much shorter title (e.g. “Fail”):
 
@@ -36,7 +36,8 @@ Sometimes, it’s a genuine fail, but needs a much, much shorter title (e.g. “
 
 The problem is that **a true fail is self evident **and most of these are not. Adding extra words to the caption should only carefully be done to add an extra punch. 
 
-   <hr />
+   
+***
 
 In the spirit of all things fail, here are a few pics I snapped on the way to work recently:  
 
@@ -78,7 +79,8 @@ On to more serious matters: getting busy. Here’s family prevention section at 
 
 ![200909051417_137[4].jpg](/assets/2009/200909051417_137[4].jpg)</a>
 
-A few observations:  <ul>   <li>The top two shelves are only necessary if something from a lower self has let you down or wasn’t in use</li>    <li>A purchase from the lower shelves is probably always done with a smile (thus the cool product names)</li>    <li>Purchases from the top shelves, however, are undoubtedly nervous buys (even if you’re *trying *to become pregnant), and thus the professional product names (peeing on a stick never looked so…idk)</li>    <li>This could be a nice (i.e. hilarious) way to bring up the pregnancy topic with your significant other. Simply peruse the aisle and instead of reaching in for some family prevention, pick up some family detection</li> </ul>
+A few observations:     * The top two shelves are only necessary if something from a lower self has let you down or wasn’t in use    * A purchase from the lower shelves is probably always done with a smile (thus the cool product names)    * Purchases from the top shelves, however, are undoubtedly nervous buys (even if you’re *trying *to become pregnant), and thus the professional product names (peeing on a stick never looked so...idk)    * This could be a nice (i.e. hilarious) way to bring up the pregnancy topic with your significant other. Simply peruse the aisle and instead of reaching in for some family prevention, pick up some family detection 
+
 
 Anyone remember Microsoft Bob? Here’s a kid’s version available today:
 

@@ -55,9 +55,7 @@ function touchHandler(event) {
     event.preventDefault();
 }
 ```
-
-
-**It works!** But let’s not stop there. What about multi-touch? You’ll notice above that we have an array `event.touches` but we only use the first one (`touches[0]`). Let’s try handling them all!
+ **It works!** But let’s not stop there. What about multi-touch? You’ll notice above that we have an array `event.touches` but we only use the first one (`touches[0]`). Let’s try handling them all!
 
 ```js
 function touchHandler(event) {
@@ -78,7 +76,7 @@ function touchHandler(event) {
 }
 ```
 
-I’m going to claim that this works (it does)…but depending on what you’re doing with the mousemove events that this creates, there may be unexpected behavior as what you will observe is mousemove events from two fingers intermixed together. If you visualized this as a mouse cursor, you’d see it skipping back and forth between each finger. That might be ok—it depends on what you do with it.
+I’m going to claim that this works (it does)...but depending on what you’re doing with the mousemove events that this creates, there may be unexpected behavior as what you will observe is mousemove events from two fingers intermixed together. If you visualized this as a mouse cursor, you’d see it skipping back and forth between each finger. That might be ok—it depends on what you do with it.
 
 With this added to my SignalR sample, multi-touch iOS devices are now supported. Woot!
 
@@ -94,6 +92,6 @@ If that doesn’t seem to be doing it, you can try interrupting the touchstart a
 
 NB: [this iOS Developer Library Article](http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html) was useful in helping me understand how all the touch events work together. There’s a note in there about how some events only fire on “clickable” elements. That refers to the click and mouse-related events, not the touch events, so don’t worry about it.
 
-<hr />
+***
 
 Music credit: “[Opening para Songo 21](http://freemusicarchive.org/music/SONGO_21/SONGO_21_-_Studio_sessions_2003/01_-_Opening_para_Songo_21)” (by [SONGO 21](http://freemusicarchive.org/music/SONGO_21/))

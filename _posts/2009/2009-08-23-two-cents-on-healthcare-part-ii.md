@@ -39,7 +39,7 @@ The study, which assesses the United States on 37 health care measures, finds li
 
 “**The central finding is that access has deteriorated**,” Ms. Davis said.   
 
-…the United States, for example, has reduced the number of preventable deaths for people under the age of 75 to 110 deaths for every 100,000 people, compared with 115 deaths five years earlier, but other countries have made greater strides. **As a result, the United States now ranks last in preventable mortality.**
+...the United States, for example, has reduced the number of preventable deaths for people under the age of 75 to 110 deaths for every 100,000 people, compared with 115 deaths five years earlier, but other countries have made greater strides. **As a result, the United States now ranks last in preventable mortality.**
 </blockquote>
 
 I really think we can simplify and sidestep most of the controversy with a little logical deduction. 
@@ -51,7 +51,7 @@ This is a fact today. If uninsured deadbeat Joe Shmoe (no offense, Joe) comes do
 
 **Today’s financial impact:** We all hope he *can *pay but with the cost of an extended hospital visit (easily in the six figures), let’s not count on it. So Joe declares bankruptcy and society absorbs the cost of Joe’s treatment through higher health care costs. Everyone loses.  
 
-Consider the same scenario but now with Joe being a mostly responsible guy. Suppose instead of being a deadbeat, he had saved away $100,000 for retirement…but neglected to carry health insurance. We’re a little better off because he can apply $100k towards his medical bills, but Joe’s seriously screwed. He’s probably still looking at bankruptcy and his life savings has just vanished. Sure it’s his fault for letting his insurance lapse but it still seems unfair, especially when compared to the deadbeat version.  
+Consider the same scenario but now with Joe being a mostly responsible guy. Suppose instead of being a deadbeat, he had saved away $100,000 for retirement...but neglected to carry health insurance. We’re a little better off because he can apply $100k towards his medical bills, but Joe’s seriously screwed. He’s probably still looking at bankruptcy and his life savings has just vanished. Sure it’s his fault for letting his insurance lapse but it still seems unfair, especially when compared to the deadbeat version.  
 
 **Proposed financial impact: **we cover Joe and everyone else with universal health care (not necessarily free, but mandated, just like car insurance in Ohio and elsewhere). He gets sick and the system pays, just like before. Only now, we’re accounting for it properly and Joe’s finances are not left in ruins. The cost to you and me is the same either way. 
 </blockquote>

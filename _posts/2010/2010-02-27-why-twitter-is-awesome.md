@@ -64,7 +64,8 @@ To which I got a very simple and candid reply (the beauty of the 140 character l
 <blockquote> 
 
 @[mharen](http://twitter.com/mharen) We're not going to do any more work on SQL Log Rescue. Lots of people used it, but nobody bought, and SQL 2000 work would be huge [9:42 AM Nov 3rd, 2009](http://twitter.com/NeilDavidson/status/5392660455)
-</blockquote>  <hr />
+</blockquote>  
+***
 
 It’s so cool that this simple medium enables and promotes these types of quick conversations. In 2/3 of these cases, I wasn’t even trying to initiate communication—others were listening for certain things and *they found me*. 
 

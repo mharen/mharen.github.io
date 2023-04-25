@@ -17,7 +17,8 @@ My favorite book ever isn’t a book. It’s a Kindle.
 
 I came to this party late and unwilling, like I do to most social occasions. Except I’m usually awkwardly early to social occasions. I received my Kindle 3 Wi-Fi as a Christmas gift (thanks, Mom) and knocked out my first book in just a few days. 
 
-[![image[8].png](/assets/2011/image[8].png)](http://twitter.com/mharen/statuses/20875533868859394" target="_blank)After two weeks, I’d read three books. In the weeks since, I’ve read three more:  <ul>   <li>*The Confession* by John Grisham</li>    <li>*The Girl with the Dragon Tattoo* by Stieg Larrsson</li>    <li>*The Girl Who Played with Fire* by Stieg Larrsson</li>    <li>*The Girl Who Kicked the Hornets’ Nest* by Stieg Larrsson</li>    <li>*The Help *by Kathryn Stockett</li>    <li>*The Hunger Games* by Suzanne Collins</li> </ul>
+[![image[8].png](/assets/2011/image[8].png)](http://twitter.com/mharen/statuses/20875533868859394" target="_blank)After two weeks, I’d read three books. In the weeks since, I’ve read three more:     * *The Confession* by John Grisham    * *The Girl with the Dragon Tattoo* by Stieg Larrsson    * *The Girl Who Played with Fire* by Stieg Larrsson    * *The Girl Who Kicked the Hornets’ Nest* by Stieg Larrsson    * *The Help *by Kathryn Stockett    * *The Hunger Games* by Suzanne Collins 
+
 
 I voraciously tore through and enjoyed each one. 
 

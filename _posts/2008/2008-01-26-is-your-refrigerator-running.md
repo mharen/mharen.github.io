@@ -39,18 +39,19 @@ I wish I had some orange juice in my mouth when he said that so I could spit it 
 
 <span style="font-weight: bold;">In conclusion:</span>
 
-<ul>
 
-	<li>Fred was dead for six days</li>
 
-	<li>No one in refrigeration or appliance repair works on weekends</li>
+	* Fred was dead for six days
 
-	<li>ASH is no better than the oft-hated, stereotypical home warranty company</li>
+	* No one in refrigeration or appliance repair works on weekends
 
-	<li>By calling in a second technician, I saved the insurance company a few hundred dollars (you're welcome, Annette)</li>
+	* ASH is no better than the oft-hated, stereotypical home warranty company
 
-	<li>I could have fixed the relay myself. I wouldn't even have needed my soldering iron.</li>
+	* By calling in a second technician, I saved the insurance company a few hundred dollars (you're welcome, Annette)
 
-</ul>
+	* I could have fixed the relay myself. I wouldn't even have needed my soldering iron.
+
+
+
 
 So there you have it. If we have another appliance failure or two, this home warranty thing might actually pay off. Obviously, I don't recommend getting them--in our case, it came with the house.

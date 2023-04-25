@@ -28,7 +28,7 @@ Now let’s look at what human resources might see in the <font face="Courier Ne
 
 Whatever HR needs to make a decision regarding an additional interview, hire, or no-hire should be available on this screen. This screen will also be expanded to track their decision (not pictured).
 
-These are the three key screens of the application. There are likely to be dramatic changes to them as the flow of the application is better defined. Stay tuned for more…in a week or so.
+These are the three key screens of the application. There are likely to be dramatic changes to them as the flow of the application is better defined. Stay tuned for more...in a week or so.
 
 ---
 

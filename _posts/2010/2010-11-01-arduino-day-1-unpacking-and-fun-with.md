@@ -23,7 +23,7 @@ Oooo a neat red box! What’s inside?
 
 ![IMAG0654[4].jpg](/assets/2010/IMAG0654[4].jpg)
 
-I don’t really care about Madagascar, but I did watch those movies and apparantly just helped to protect some forest there so…I guess what I’m trying to say is, “you’re welcome, Madagascar”. Actually, no, you’re not welcome, Madagascar, you suck. Whenever I play Risk, you just sit there off the coast of Africa demanding an unreasonable number of troops to protect and I’m sick of it. 
+I don’t really care about Madagascar, but I did watch those movies and apparantly just helped to protect some forest there so...I guess what I’m trying to say is, “you’re welcome, Madagascar”. Actually, no, you’re not welcome, Madagascar, you suck. Whenever I play Risk, you just sit there off the coast of Africa demanding an unreasonable number of troops to protect and I’m sick of it. 
 
 OK, back to the present. Here we are:
 
@@ -51,7 +51,8 @@ That was cool to start with but I wanted to explore more. I added five more LEDs
 <div id="2649b3fc-913c-4411-b0b6-e7a0873571f7" style="margin: 0px; padding: 0px; display: inline;">
 <div>[![videoc251df61edef[6].jpg](/assets/2010/videoc251df61edef[6].jpg)](http://www.youtube.com/watch?v=VbIfvKNeQZU" target="_new)</div></div></div>
 
-It’s a much better experience in person—my camera’s frame rate isn’t quite high enough and it had trouble focusing. But trust me, it was awesome. What you see is the program cycling through a bunch of different patterns:  <ul>   <li>Runway - like an airstrip </li>    <li>Flicker Digital – randomly flash the LEDs on/off </li>    <li>Flicker Analog – randomly change the intensity of the LEDs </li>    <li>Flash – flash all the LEDs on/off at the same time </li> </ul>
+It’s a much better experience in person—my camera’s frame rate isn’t quite high enough and it had trouble focusing. But trust me, it was awesome. What you see is the program cycling through a bunch of different patterns:     * Runway - like an airstrip     * Flicker Digital – randomly flash the LEDs on/off     * Flicker Analog – randomly change the intensity of the LEDs     * Flash – flash all the LEDs on/off at the same time  
+
 
 Build:
 

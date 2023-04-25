@@ -19,7 +19,7 @@ Fortunately, they had a laptop handy, and unlike the first couple of days they w
 
 If you or someone you know hasn't yet experienced the hilarity of user submitted content, please, do not fear. You are welcome here. It's a safe-ish place.
 
-Now where was I? Oh yes…
+Now where was I? Oh yes...
 
 Today’s build is another extension on the sound thing I’ve been working on. I took the Mario playing board and added in a light-trigger so it only plays when it’s dark. I also used the potentiometer to control the tempo of the song. Let me show you:  
 

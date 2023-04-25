@@ -8,4 +8,4 @@ categories:
 title: Items on the horizon
 ---
 
-Updates very soon:<ul><li>hockey (preview: it was sweet!)</li><li>perl - every coder's resume's friend</li><li>poker updates - hi/low? who knows!</li><li>potentially others...</li></ul>
+Updates very soon:* hockey (preview: it was sweet!)* perl - every coder's resume's friend* poker updates - hi/low? who knows!* potentially others...

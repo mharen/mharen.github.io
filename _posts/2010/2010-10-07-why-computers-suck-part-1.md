@@ -8,13 +8,19 @@ title: Why Computers Suck, Part 1
 
 I work with a lot of remote machines and this usually involves some fairly unpolished VPN software. Today’s experience definitely takes the cake. 
 
-When *you* login to your computer, here’s what probably happens:  <ol>   <li>Turn on computer </li>    <li>Possibly enter username/password </li> </ol>
+When *you* login to your computer, here’s what probably happens:  
+
+  1. Turn on computer     
+  2. Possibly enter username/password  </ol>
 
 Done.
 
-Here’s how *I* login:  <ol>   <li>Turn on my computer </li>    <li>Enter username/password </li>    <li>Launch Internet Explorer and go to specific address </li>    <li>Skip an SSL warning by clicking “Continue to this website (not recommended)”      
+Here’s how *I* login:  
 
-      
+  1. Turn on my computer
+  2. Enter username/password     
+  3. Launch Internet Explorer and go to specific address
+  4. Skip an SSL warning by clicking “Continue to this website (not recommended)”      
 
 ![image[37].png](/assets/2010/image[37].png)</li> </ol>
 

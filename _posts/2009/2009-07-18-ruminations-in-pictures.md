@@ -107,6 +107,6 @@ Why yes, that’s a huge picnic table humping a moving truck.
 
  ![IMG_2932[3].jpg](/assets/2009/IMG_2932[3].jpg)</a>   
 
-Maybe my Garmin feared the giant table and decided to get us the hell out of dodge? But how?! That’s little blue triangle in the middle is me…  
+Maybe my Garmin feared the giant table and decided to get us the hell out of dodge? But how?! That’s little blue triangle in the middle is me...  
 
 That’s all, folks!

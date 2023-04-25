@@ -40,7 +40,7 @@ It’s awesome.  <h4>6. Bag of Snow</h4>
 
 Nothing captures the spirit of Christmas like a bag of Christmas snow. What makes it Christmas snow? Easy: it came from the North Pole *wink*. If it melts before the recipient opens it, you have yourself a perfect lead in to a pun filled guilt trip.  <h4>7. Expired Gift Card![IMG_20101214_171618[4].jpg](/assets/2010/IMG_20101214_171618[4].jpg)</h4>
 
-Those expired or used up gift cards are no good to you…except as wonderful gifts! Dig out that new Sharpie you bought with your now defunct gift card and proudly write whatever value suits you directly on the card. This one’s great because you can just blame those damned computers if your recipient is ever so taboo as to bring up the matter later. Plus no one needs more lotion anyway.  <h4>8. Incomplete Decks of Cards</h4>
+Those expired or used up gift cards are no good to you...except as wonderful gifts! Dig out that new Sharpie you bought with your now defunct gift card and proudly write whatever value suits you directly on the card. This one’s great because you can just blame those damned computers if your recipient is ever so taboo as to bring up the matter later. Plus no one needs more lotion anyway.  <h4>8. Incomplete Decks of Cards</h4>
 
 ![IMG_20101214_165434[3].jpg](/assets/2010/IMG_20101214_165434[3].jpg)
 

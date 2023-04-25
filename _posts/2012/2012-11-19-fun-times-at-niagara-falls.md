@@ -8,13 +8,13 @@ categories:
 title: Fun Times at Niagara Falls With the Kiddos
 ---
 
-Wife and I first visited Niagara falls as something of a last little vacation before Thing1 was born. We’d never been and were curious what all the fuss was about. It gave us a fun story actually…
+Wife and I first visited Niagara falls as something of a last little vacation before Thing1 was born. We’d never been and were curious what all the fuss was about. It gave us a fun story actually...
 
 > The car broke down on the way out. We were determined, though. We were towed to a shop where we left it to be fixed and took a rental to the rest of the way. We had a great overnight trip, saw the falls, laughed, etc., and then returned to God-forsaken Youngstown to pick up the car.
 
 Good times. Anyway, we happened to find ourselves in Canada again last month. I had an appointment at the border crossing at Niagara Falls to interview for my Nexus trusted traveler card so we had a perfect opportunity to visit again.
 
-But now we have a gaggle of children…so it’s even better :)
+But now we have a gaggle of children...so it’s even better :)
 
 ![2012-10-26 15.37.28.jpg](/assets/2012/2012-10-26 15.37.28.jpg)
 
@@ -40,7 +40,7 @@ Thank God for this woman. Whenever you see my kids behaving or being cute, it’
 
 ![2012-10-27 08.27.27.jpg](/assets/2012/2012-10-27 08.27.27.jpg)
 
-I don’t remember what exactly was going on here…but they’re all in one place so I probably thought that was significant enough to document it with a photo.  
+I don’t remember what exactly was going on here...but they’re all in one place so I probably thought that was significant enough to document it with a photo.  
 
 ![2012-10-27 08.26.26.jpg](/assets/2012/2012-10-27 08.26.26.jpg)
 

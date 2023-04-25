@@ -20,7 +20,10 @@ Wide Open West:
 
 ![image22.png](/assets/2010/image22.png)
 
-There are two problems with all this:  <ol>   <li>The recommendations are completely crap </li>    <li>They rarely give you information on what actually matters: your upstream—how fast you can [send stuff](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet): </li> </ol>  
+There are two problems with all this: 
+ 
+  1. The recommendations are completely crap     1. 
+  2. They rarely give you information on what actually matters: your upstream—how fast you can [send stuff](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet):
 
 <span class="Apple-style-span" style="line-height: 19px;"></span> <span class="Apple-style-span" style="line-height: 19px;">     <h4><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">The Recommendations Are Completely Crap</span></h4>    
 
@@ -32,7 +35,7 @@ In fact, Sarah and I are dangerously addicted to tech, including streaming telev
 
 In the old days, I used to play Doom with friends across a 0.014mbps connection (a 14.4kbps modem).    
 
-The real issue here is that we don’t have much use for speeds in excess of 10mb. There are certainly services on the horizon that would benefit from faster speeds, but they aren’t on those charts. Plus, faster services would need something else, too, which brings me to…      <h4>What Really Matters Is Upstream</h4>    
+The real issue here is that we don’t have much use for speeds in excess of 10mb. There are certainly services on the horizon that would benefit from faster speeds, but they aren’t on those charts. Plus, faster services would need something else, too, which brings me to...      <h4>What Really Matters Is Upstream</h4>    
 
 The most frustrating speed-related problem on the Internet today (for home users) is uploading files. Sending large pictures, uploading videos, posting to blogs, video chatting, etc. all require you to *send* a lot of data through a very small pipe.    
 

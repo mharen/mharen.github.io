@@ -20,16 +20,15 @@ I’ve been told that these programming posts are not interesting or funny. For 
 
 Now would be a good time for you to stop reading. 
 
-   <hr />
+   
+***
 
 Dive into ASP.NET MVC and it won’t be long before you do this in a master page:  
 ```cs
     <link type="text/css" rel="Stylesheet" href="~/Content/all-src.min.css" />
     <script type="text/javascript" src="~/Scripts/all-src.min.js"></script>
 ```
-
-
-
+ 
 This of course includes a couple global files—one for styles and one for scripts. Here’s the rub: it doesn’t work at all. It’ll seem like it works at first, because you’ll have nice styles and some of your scripts might even work, but it will be a short-lived experience.
 
 
@@ -42,9 +41,7 @@ Now the funny business is that ASP.NET will rewrite the link tag *automatically*
 ```cs
     <script type="text/javascript" src="../../Scripts/all-src.min.js"></script>
 ```
-
-
-
+ 
 Sorry, that doesn’t cut it. The “<code>../../</code>” will only work properly if the content page (which uses the master page) is nested 2-levels deep, which is not likely to be true very often.
 
 
@@ -54,9 +51,7 @@ The trick is to call into <code>Url.Content</code> or <code>Url.Content</code> l
 ```cs
     <script type="text/javascript" src="<%=**Url.Content**("~/Scripts/all-src.min.js")%>"></script>
 ```
-
-
-
+ 
 This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between [<code>Url.Content</code>](http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&changeSetId=23011#266520) and [<code>Url.Content</code>](http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx)? <code>ResolveUrl</code> has been around *forever* as part of <code>Url.Content</code>. On the other hand, <code>Url.Content</code> is relatively new and ships as part of <code>Url.Content</code>. Aside from that, I have no idea—if you do, [please share](http://stackoverflow.com/questions/2418050).
 
 

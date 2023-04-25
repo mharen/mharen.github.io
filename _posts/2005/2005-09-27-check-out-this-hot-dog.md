@@ -12,21 +12,22 @@ If all goes smoothly, this may be our new friend!:
 
 <div style="text-align: center;">![carl.jpg](/assets/2005/carl.jpg)He is a four-month old beagle/basset hound. We've spent a fair amount of time with him at the [SPCA](http://www.spcawake.org) and really like him. If our application comes through and the timing works out, we will be all set.
 
-Now all we need is a name! We have several ideas, including:<ul>
+Now all we need is a name! We have several ideas, including:
 
-	<li>Carl</li>
+	* Carl
 
-	<li>Hendrix</li>
+	* Hendrix
 
-	<li>Gordon</li>
+	* Gordon
 
-	<li>Sam</li>
+	* Sam
 
-	<li>Pirate</li>
+	* Pirate
 
-	<li>Napoleon</li>
+	* Napoleon
 
-</ul>
+
+
 
 My personal favorite has got to be Pirate. Just imagine the scenarios...
 

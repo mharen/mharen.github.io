@@ -25,7 +25,7 @@ At the office though, I get 4.5mb of symmetrical bandwidth (i.e. I get 4.5mb up 
 
 So that’s all well and good but a glance at the traffic charts for my office (and I’d guess most) showed that we hardly use any of our outgoing pipe—maybe 10-20%. 
 
-Ok, so if we’re not paying $3000 for more bandwidth, then surely it’s for quality? Maybe. I’m sure we have a service level agreement of some kind and some super-high-priority tech support service. I know this because our lines used to go down pretty often and people would come out to fix them right away. The quick service at the office is nice when compared to my experiences at home with Time Warner and AT&T where outages often ran for days. The service still goes down often enough, though…
+Ok, so if we’re not paying $3000 for more bandwidth, then surely it’s for quality? Maybe. I’m sure we have a service level agreement of some kind and some super-high-priority tech support service. I know this because our lines used to go down pretty often and people would come out to fix them right away. The quick service at the office is nice when compared to my experiences at home with Time Warner and AT&T where outages often ran for days. The service still goes down often enough, though...
 
 So is a paying a very stiff premium for a symmetrical pipe and better repair service (though not increased reliability!) worth it? Perhaps, though the real problem I suspect is simply the fact that businesses are businesses. *They don’t have the option of the home plan.* If we did, I’m sure it’d be tempting to toss it in along side a reduced set of T1s—then we’d get the cheap speed with an emergency T1 backup.
 

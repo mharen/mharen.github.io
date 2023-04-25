@@ -11,7 +11,7 @@ title: How Not To Host an Open House
 
 Wife, kids and I went to a few open houses over the weekend and gathered a fresh batch of tips for how *not *to host an open house.  <h2>1. Care, if only a little</h2>
 
-First, as a realtor showing a home, you should…care. At least a tiny bit. You should be prepared to answer basic questions about the property. For example, acceptable answers to the question “where is the property line?” do not include guesses, assumptions, or “probablys”. You’re also not doing a stellar job if you refer me to the county’s website, especially if you tell me the wrong county.  <h2>2. Clean up Inside and Out</h2>
+First, as a realtor showing a home, you should...care. At least a tiny bit. You should be prepared to answer basic questions about the property. For example, acceptable answers to the question “where is the property line?” do not include guesses, assumptions, or “probablys”. You’re also not doing a stellar job if you refer me to the county’s website, especially if you tell me the wrong county.  <h2>2. Clean up Inside and Out</h2>
 
 There’s really no reason why vacant houses should have random piles of junk sitting around. There might be someone out there who’s only interested in a three bedroom, two bath house with full drum set and mystery room of junk that wasn’t valuable enough to take, but I bet that’s a niche market.
 
@@ -52,13 +52,13 @@ Realtor: “I see that you were hesitant to sign the guest book.”
 Stop.
 <blockquote> 
 
-Realtor: “Ever since the terrible tragedy at our office…”
+Realtor: “Ever since the terrible tragedy at our office...”
 </blockquote>
 
-Please stop. Wait…*what?* Did you have a data breach or something? You thought I didn’t want to sign because you’d lose my info into the wild…? Huh?
+Please stop. Wait...*what?* Did you have a data breach or something? You thought I didn’t want to sign because you’d lose my info into the wild...? Huh?
 <blockquote> 
 
-Me: “Oh? What…‘terrible…tragedy’…?”
+Me: “Oh? What...‘terrible...tragedy’...?”
 </blockquote>
 <blockquote> 
 
@@ -66,7 +66,7 @@ Realtor (dramatically hushed): “We’re still very upset about our agent that 
 </blockquote>
 <blockquote> 
 
-…  
+...  
 
 Me: “Oh, I hadn’t heard about that”
 </blockquote>

@@ -23,7 +23,8 @@ I admitted that I had no idea what to do as I’d never provided anything before
 
 This was at 10pm on Sunday so that wasn’t going to happen (also, that was impossible—I’m awesome at what I do but not 100% unique, even in Canada). I asked if I was being turned away or if I could figure something out. He replied, “I’m legally required to give you a chance to produce documentation before I turn you away.” **Challenge accepted.**
 
-I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents:  <ul>   <li>customer contract from my company’s VPN</li>    <li>my college diploma from Dropbox ([referral](http://db.tt/BqdZp7x)!)</li>    <li>my resume from [Stackoverflow Careers](http://careers.stackoverflow.com/haren)</li> </ul>
+I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents:     * customer contract from my company’s VPN    * my college diploma from Dropbox ([referral](http://db.tt/BqdZp7x)!)    * my resume from [Stackoverflow Careers](http://careers.stackoverflow.com/haren) 
+
 
 I also wrote a letter of attestation according to the NAFTA documents the agent gave me. Yeah, NAFTA, as in the treaty. I asked the guy if I could write this letter myself, seeing as how no one would be present at my office. He was surprised and said no one had ever done it themselves on the spot before. He couldn’t see why not so that’s what I did. 
 
@@ -69,7 +70,8 @@ Oh that’s weird, I thought. Then, quite suddenly, I realized this meant **I wa
 
 I pulled a u-ey on the bridge. Even in my tiny car it was a three-point turn but I was quick and there wasn’t any traffic. I pulled up to the Canada-booth again and whimpered, “you’re not going to believe this but I was just cleared through immigration and I made a wrong turn.” He glanced at his computer and waved me through (phew!). I quickly got onto the highway (the right one) and eventually arrived (very late) to my hotel.
 
-Morals of this story:   <ul>   <li>Don’t go to Canada</li>    <li>If you must, print out your documents first</li>    <li>The internet is awesome, as is my phone (DINC) for connecting me to it</li> </ul>
+Morals of this story:      * Don’t go to Canada    * If you must, print out your documents first    * The internet is awesome, as is my phone (DINC) for connecting me to it 
+
 
 ---
 

@@ -22,9 +22,7 @@ Nothing fancy here—just a link with a _blank target ([source](http://jsbin.com
      title="Hello World Help"
      class="help-link">(what's this?)</a></p>
 ```
-
-
-
+ 
 It’s not very pretty but it gets the job done without any Javascript. Let’s make it sexy:
 
 
@@ -58,9 +56,7 @@ $(function(){
   
 });​
 ```
-
-
-
+ 
 This doesn’t require any changes to the HTML/CSS—it uses existing attributes like <code>href</code> and <code>title</code> to wire itself up to the link. And, if JS is disabled or broken, *the link will still work*. 
 
 

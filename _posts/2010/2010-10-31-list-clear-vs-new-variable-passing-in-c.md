@@ -177,7 +177,7 @@ If that’s just crazy and not making any sense to you, I suggest checking out s
 
 This is a topic that was incorrectly taught (or understood) to me in college, so don’t be surprised if you learn something new as I did.
 
-<hr />
+***
 
 
 There’s that tiny issue of Capacity that I hinted at before. Internally Lists are stored as arrays or whatever—it doesn’t really matter. For performance reasons, since arrays are immutable, they are allocated larger than necessary. This way, you can add elements to them without reallocating the entire thing. The system makes a trade off in avoiding allocating too much by doubling the size of the allocation every time it runs out of space. I suspect that clearing a list does not affect its capacity. Let’s see:

@@ -8,13 +8,13 @@ title: First Look at Windows 7
 ---
 
 
-When Windows 7 hit MSDN late last week, I took the plunge…and I’m loving it.
+When Windows 7 hit MSDN late last week, I took the plunge...and I’m loving it.
 
 ![image[25].png](/assets/2009/image[25].png) 
 
 I’m not one to participate in the religious wars that operating systems seem to cultivate—I have three machines, each perfectly suited to its task: a Windows machine, a Mac, and a Linux box. I’d say I’m pretty well rounded. Interestingly, I have almost zero experience with Vista. I’ve used Server 2008 a bit and liked it but for many reasons was stuck on XP until just recently.
 
-I don’t really believe the anti-hype that Vista is awful just like I don’t think MS is evil or Google is taking over the world (…or are they?). Instead, I think MS is just a popular company to hate, which is something Google has been extremely careful to avoid so far.
+I don’t really believe the anti-hype that Vista is awful just like I don’t think MS is evil or Google is taking over the world (...or are they?). Instead, I think MS is just a popular company to hate, which is something Google has been extremely careful to avoid so far.
 
 Anyway, back to Windows 7. It’s awesome. Compared to XP, it is elegant, quick and intuitive. They might have gone overboard just a bit with the transparency or dialog animation but I am thrilled. So much so that I think I worried Sarah a little when I raved about how much I liked it upon installation.
 

@@ -25,33 +25,35 @@ What if we had the ability to generate a number that is pretty much guaranteed t
 
 OK, some explanation is probably needed. What I'm talking about is called a universally unique identifier (UUID) or globally unique identifier (GUID). In spite of my terrible examples, these things are actually pretty useful, and actually really easy to create. A GUID (pronounced Gwid, rhymes with squid) is just a 128 bit string, generally represented in hexadecimal. Jigawha? Without getting into the ugly details of bits, binary, strings, hex, etc. I'll simplify a bit (har-har!) here. Think of a guid as a long row of letters (a-f) and numbers (0-9), 32 characters long. For example, these are GUIDs (the dashes are simply convention):
 
-<ul>
 
-	<li>15f197e0-546d-4074-bfb9-368fd2aae06a</li>
 
-	<li>d7a6a3e9-8e90-4422-9a86-6e84ba0d1575</li>
+	* 15f197e0-546d-4074-bfb9-368fd2aae06a
 
-	<li>6662a8b9-22b3-47ba-89d6-08700b431fe0</li>
+	* d7a6a3e9-8e90-4422-9a86-6e84ba0d1575
 
-	<li>0a249bf8-9c03-4794-a327-66e9b9c90d37</li>
+	* 6662a8b9-22b3-47ba-89d6-08700b431fe0
 
-	<li>1908a5ad-5812-48ee-9fbf-4b1d357c7ff2</li>
+	* 0a249bf8-9c03-4794-a327-66e9b9c90d37
 
-</ul>
+	* 1908a5ad-5812-48ee-9fbf-4b1d357c7ff2
+
+
+
 
 Not such a big deal, right? Not convinced that these are practically guaranteed to be random? Think about the lotto. The odds of winning a pick 5 mega millions lotto odds of winning the jackpot are 1 in 175,711,536. The odds of generating the same GUID twice are 1 in 2<sup>128</sup>. Now I realize that 2<sup>128</sup> doesn't seem that big so let me try to illustrate (again, borrowing from Wikipedia here):
 
-<ul>
 
-	<li>1 in 2<sup>128</sup></li>
 
-	<li>1 in 340 undecillion (don't worry, undecillion is not on the quiz)</li>
+	* 1 in 2<sup>128</sup>
 
-	<li>1 in 3.4 × 10<sup>38</sup></li>
+	* 1 in 340 undecillion (don't worry, undecillion is not on the quiz)
 
-	<li>1 in 340,000,000,000,000,000,000,000,000,000,000,000,000</li>
+	* 1 in 3.4 × 10<sup>38</sup>
 
-</ul>
+	* 1 in 340,000,000,000,000,000,000,000,000,000,000,000,000
+
+
+
 
 How about that last one? Holy crap! In order to list all possibilities, you would have to generate a trillion GUIDs every *nano*second for ten billion years.
 

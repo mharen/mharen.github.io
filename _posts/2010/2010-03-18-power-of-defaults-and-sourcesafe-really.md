@@ -14,7 +14,7 @@ Great for VSS. Terrible for humans.
 
 The trouble was that VSS is a terrible product. **It is Microsoft’s worst product, ever** (they [don’t](http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#Microsoft_in-house_use) even use it themselves). Here’s why:
 
-**It actively fails where it matters most.** Version control systems have one mandate above all others—protect your data. If you put code in there, it should be really, really safe. It’s in the product name for crying out loud. Unfortunately, VSS doesn’t do this. Some examples…
+**It actively fails where it matters most.** Version control systems have one mandate above all others—protect your data. If you put code in there, it should be really, really safe. It’s in the product name for crying out loud. Unfortunately, VSS doesn’t do this. Some examples...
 
 **It has virtually no mechanism for taking backups**. If your database exceeds 2gb, the standard UI won’t work. It’s actually much worse than that—it’ll claim it worked, but actually produce corrupted backup. That’s evil.
 
@@ -22,7 +22,7 @@ Then, if you actually get a valid backup, **you won’t be able to restore it **
 
 **It becomes corrupted far too easily.** Every 30 days, it’ll suggest that you run a consistency checker to detect and fix problems. Unfortunately, the documentation warns that the consistency checker, while important, can also corrupt your databases. Say whaaaa? There other maintenance utilities are equally dangerous.
 
-**It is hostile to developers**, the only ones that actually care about it. It supports multiple checkouts and merging so poorly that no sane team would use anything but exclusive checkouts (of course no sane team would use this product…). It’s so ridiculously slow to “get latest” on a tree of trivial size (minutes, not seconds) that this becomes a dreaded activity.
+**It is hostile to developers**, the only ones that actually care about it. It supports multiple checkouts and merging so poorly that no sane team would use anything but exclusive checkouts (of course no sane team would use this product...). It’s so ridiculously slow to “get latest” on a tree of trivial size (minutes, not seconds) that this becomes a dreaded activity.
 
 If I had to guess, I’d say that a bunch of interns cranked this thing out as a brute force, fun summer project called “let’s make a POS VCS.” They had no intention of shipping an obviously malicious product, and are just as shocked (ashamed?) as the rest of us when it was [sold to Microsoft](http://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe#History).
 

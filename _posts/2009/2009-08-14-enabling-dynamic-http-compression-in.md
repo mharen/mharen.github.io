@@ -18,17 +18,31 @@ It turns out that installing it is very easy and didn’t require a reboot (for 
 
 **Text only**
 
-Install it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS)</li>    <li>Role Services (scroll down) > Add Role Services</li>    <li>Add desired role (Web Server > Performance > Dynamic Content Compression)</li>    <li>Next, Install, Wait…Done!</li> </ol>
+Install it:  
 
-Enable it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS) > Internet Information Services (IIS) Manager</li>    <li>Next pane: Sites > Default Web Site > Your Web Site</li>    <li>Main pane: IIS > Compression</li> </ol>
+  1. Open server manager    
+  2. Roles > Web Server (IIS)    
+  3. Role Services (scroll down) > Add Role Services    
+  4. Add desired role (Web Server > Performance > Dynamic Content Compression)    
+  5. Next, Install, Wait...Done! </ol>
+
+Enable it:  
+
+  1. Open server manager
+  2. Roles > Web Server (IIS) > Internet Information Services (IIS) Manager    
+  3. Next pane: Sites > Default Web Site > Your Web Site    
+  4. Main pane: IIS > Compression </ol>
 
 **With perdy pictures**
 
-Install it:  <ol>   <li>Open server manager     
+Install it:  
+  1. Open server manager     
 
 ![SNAG-0002[3].png](/assets/2009/SNAG-0002[3].png)</a></li> </ol>
 
-Enable it:  <ol>   <li>Open server manager</li>    <li>Roles > Web Server (IIS) > Internet Information Services (IIS) Manager     
+Enable it:  
+  1. Open server manager    
+  2. Roles > Web Server (IIS) > Internet Information Services (IIS) Manager     
 
 ![SNAG-0005[3].png](/assets/2009/SNAG-0005[3].png)</a> </li> </ol>
 

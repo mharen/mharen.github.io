@@ -8,7 +8,10 @@ title: Some Thoughts on Antivirus and Why I Now Use It
 ---
 
 
-In my experience, antivirus software has been a near-total waste of time and resources for most people, especially in IT. I have two major issues with it:  <ol>   <li>It doesn’t work well </li>    <li>It spreads FUD </li> </ol>
+In my experience, antivirus software has been a near-total waste of time and resources for most people, especially in IT. I have two major issues with it:
+
+1. It doesn’t work well
+2. It spreads FUD
 
 When I’ve seen it detect malware, it often couldn’t do anything about it, and most of the time it’s just nagging users with false positives or completely inappropriately technical messages. 
 
@@ -18,7 +21,13 @@ Although, it used to be very important. There once was a time where our poor Win
 
 You’d be in better shape if you had a hardware router since it probably acted as a firewall, too, but those without and most dialup users would be very vulnerable while online.
 
-But today, we have automatic updates, multiple firewalls, and better security all around. With the infrastructure improvements, the attack surface for most people narrowed considerably. That is, your computer could contract a virus through the following means:  <ol>   <li>Physical access (e.g. infected USB stick)</li>    <li>Network access</li>    <li>Web browser</li>    <li>Downloading crap off the Internet</li>    <li>Opening random email attachments</li> </ol>
+But today, we have automatic updates, multiple firewalls, and better security all around. With the infrastructure improvements, the attack surface for most people narrowed considerably. That is, your computer could contract a virus through the following means:  
+
+1. Physical access (e.g. infected USB stick)  
+2. Network access  
+3. Web browser  
+4. Downloading crap off the Internet  
+5. Opening random email attachments
 
 Vector one, physical access, is pretty easy to neutralize by refusing to share thumb drives. 
 

@@ -34,7 +34,8 @@ This is something that strikes me as a very “un-Apple” thing to do. The comp
 
 Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../../2010/09/things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
 
-The comparable experience on iPhone is less than ideal. It goes like this:  <ul>   <li>While looking at some content, click a link or a notification </li>    <li>Something else opens, do whatever you want with it </li>    <li>To return to what you were doing before clicking the link or the notification: </li>    <li>Double-tap the home button and tap the app you *were *using </li> </ul>
+The comparable experience on iPhone is less than ideal. It goes like this:     * While looking at some content, click a link or a notification     * Something else opens, do whatever you want with it     * To return to what you were doing before clicking the link or the notification:     * Double-tap the home button and tap the app you *were *using  
+
 
 It’s not a huge deal, but it’s three taps and a tiny bit of extra mental energy to do something that’s just one brainless tap on Android. I can’t imagine how annoying this must have been on iPhone before the multitasking stuff was released.  <h5 style="clear: both;">Google Voice Integration</h5>
 
@@ -75,7 +76,7 @@ Android was very compatible with my tinkerer-inclined mind. I could dig around i
 
 While I do love the solid, versatile dock connector, I don’t love that everything that plugs into it costs $25. And if you *do* consider cheap chargers and cables, you have to wade through hundreds of one-star reviews about how a $6 piece of wire caused someone’s house to burn down and his dog to run away.
 
-Luckily I don’t have to buy these but once! That is, unless Apple decides to change the beloved dock in such a way that all my old accessories stop working with newer devices…again :(.
+Luckily I don’t have to buy these but once! That is, unless Apple decides to change the beloved dock in such a way that all my old accessories stop working with newer devices...again :(.
 
 Most Droids simply use a micro USB connection. This was great as it meant Wife and I could share chargers for our phones, Kindles, and Bluetooth headsets. And the chargers and cables were dirt cheap.   <h5 style="clear: both;">![alternate-routes.jpg](/assets/2011/alternate-routes.jpg)Navigation</h5>
 
@@ -83,7 +84,7 @@ One of the unsung heroes of the Android OS has got to be navigation. Yes, Maps i
 
 It’s fully integrated with Google Voice Actions, too (kind of like iPhone’s Siri) so I would routinely say things like this while driving, “navigate to Target/BestBuy/Dunkin Donuts/Natatorium in Some City” and it just works.
 
-It is beautiful, fast, intuitive, and very effective. (It does kill the phone’s battery, though…)   <h5 style="clear: both;">![go home.png](/assets/2011/go home.png)Shortcuts</h5>
+It is beautiful, fast, intuitive, and very effective. (It does kill the phone’s battery, though...)   <h5 style="clear: both;">![go home.png](/assets/2011/go home.png)Shortcuts</h5>
 
 Shortcuts are one of the things I bet almost nobody uses, but they are great. You can add shortcuts to you home screen for apps, sure (Android normally keeps apps in a drawer, not on the home screen), but also for common actions like [navigating to a specific address](http://www.howtogeek.com/howto/25707/create-a-%E2%80%9Cgo-home%E2%80%9D-shortcut-for-your-android-phone%E2%80%99s-google-maps-navigation/) (home, work, etc.), calling someone, or playing a song. Having single-tap access to common actions is pretty great.  <h5 style="clear: both;">Conclusion</h5>
 

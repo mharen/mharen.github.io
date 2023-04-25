@@ -13,10 +13,9 @@ Depending on your setup, MySql may be locked down pretty tight. This is good. Ho
 The issue is that MySql, when properly configured, only allows connections from a very limited set of hosts. Often this is simply “localhost”, which satisfies the very common case of apps/db all on one machine. If you need to access the system from another machine you need to do two things:
 
 
-<ol>
-<li>Enable MySql to listen on an address (typically TCP/IP port 3306) </li>
-<li>Enable a remote user/host to connect with some privileges </li>
-</ol>
+1. Enable MySql to listen on an address (typically TCP/IP port 3306) 
+2. Enable a remote user/host to connect with some privileges 
+
 Item 1 is covered elsewhere in depth, and in my case is configurable through the MySQL Server Instance Config Wizard. Done.
 
 

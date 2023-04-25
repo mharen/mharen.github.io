@@ -12,11 +12,11 @@ I received some pretty [serious alerts this morning](http://twitter.com/mharen/s
 
 ![image[2].png](/assets/2010/image[2].png) 
 
-That’s a tad higher than usual…just 100x bigger than it should be (yikes)! Allow me to illustrate how I imagine the last few months going for this gargantuan file:
+That’s a tad higher than usual...just 100x bigger than it should be (yikes)! Allow me to illustrate how I imagine the last few months going for this gargantuan file:
 
 ![db-growth[5].png](/assets/2010/db-growth[5].png) 
 
-The problem turned out to be that several of the replication SQL jobs were disabled (since…months ago). The pertinent job is probably this one, the distribution clean up job:
+The problem turned out to be that several of the replication SQL jobs were disabled (since...months ago). The pertinent job is probably this one, the distribution clean up job:
 
 ![image[5].png](/assets/2010/image[5].png) 
 

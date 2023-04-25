@@ -8,7 +8,7 @@ categories:
 title: Running Visual Studio (or Any Program) As An Administrator Without Prompting for Elevation
 ---
 
-> **Update:** this fix hasn’t been as comprehensively effective as I hoped. Some things work well, but I’m still running into escalation issues. *Sigh…*
+> **Update:** this fix hasn’t been as comprehensively effective as I hoped. Some things work well, but I’m still running into escalation issues. *Sigh...*
 
 As a developer, I often find myself doing things that only administrators can do. This is especially true since I work primarily with web applications within IIS, since related activities require elevation.
 

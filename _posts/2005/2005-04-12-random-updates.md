@@ -13,7 +13,8 @@ title: random updates
 
 This is lengthy...
 
-In this edition:<ul><li>school</li><li>rovisys and UNC</li><li>hockey game 1</li><li>hockey game 2</li><li>disease transmission - food for thought...err [updated]</li><li>Six Feet Under</li><li>Movie:Resident Evil (hint: what?!)</li></ul><h3>School</h3>School is going pretty well, I guess. I've got a couple tough classes but I'm pretty sure I'll pass all of them :). I'm taking ECE320 (ridiculous circuits), Phil 215 (Asian religions), CSE694Z (datamining), math 566 (i'm not sure what this is), and ice skating. THe classes are all pretty interesting and not too tough. I particularly like ice skating ;). Man, i am just out of witty banter. Normally I'd have funny stuff to say....
+In this edition:* school* rovisys and UNC* hockey game 1* hockey game 2* disease transmission - food for thought...err [updated]* Six Feet Under* Movie:Resident Evil (hint: what?!)
+<h3>School</h3>School is going pretty well, I guess. I've got a couple tough classes but I'm pretty sure I'll pass all of them :). I'm taking ECE320 (ridiculous circuits), Phil 215 (Asian religions), CSE694Z (datamining), math 566 (i'm not sure what this is), and ice skating. THe classes are all pretty interesting and not too tough. I particularly like ice skating ;). Man, i am just out of witty banter. Normally I'd have funny stuff to say....
 
 <h3>RoviSys and UNC</h3>I accepted the RoviSys job in NC. Since we have the apartment, the job, and the grad school (for sarah - she finally got her "congrats" letter!), all we need are diplomas and we'll be all set! I'm very excited for the move. It will be a lot of fun to be completely on our own (without roommates and families so close by).
 

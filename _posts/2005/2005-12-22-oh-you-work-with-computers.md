@@ -25,15 +25,9 @@ Whether you have SP2 or not, go on, we'll get it later if you need it.
 
 Download and install these now.
 
-<ol>
-
-	<li>[Firefox](http://www.mozilla.com/firefox/) (web browser)</li>
-
-	<li>[Thunderbird](http://www.mozilla.com/thunderbird/) (email, if you don't use only web-based email)</li>
-
-	<li>[Microsoft AntiSpyware](http://www.microsoft.com/athome/security/spyware/software/default.mspx) (free, for now)</li>
-
-</ol>
+	1. [Firefox](http://www.mozilla.com/firefox/) (web browser)
+	2. [Thunderbird](http://www.mozilla.com/thunderbird/) (email, if you don't use only web-based email)
+	3. [Microsoft AntiSpyware](http://www.microsoft.com/athome/security/spyware/software/default.mspx) (free, for now)
 
 The above titles are FREE and of very high quality. I suggest installing them and setting them to update automatically. Then, use them in place of Internet Explorer and Outlook Express. Now's the part where you have options...
 
@@ -41,21 +35,12 @@ If you have a virus scanner installed, update it now. Then, set it to update aut
 
 For the cheapskates out there like me, follow these steps to get you 12 months of free virus scanning:
 
-<ol>
-
-	<li>Uninstall that McAfee crap that came with your machine.</li>
-
-	<li>Then, open up that red shield in your task bar--the one warning you about a lack of virus protection.</li>
-
-	<li>Click on Recommendations</li>
-
-	<li>Where it says, "Get another antivirus program." click "How?"</li>
-
-	<li>Follow onscreen instructions. Note that the CA antivirus comes with 12-months free.</li>
-
-	<li>Let the install actually scan your computer--it takes forever but it is well worth it!</li>
-
-</ol>
+	1. Uninstall that McAfee crap that came with your machine.
+	2. Then, open up that red shield in your task bar--the one warning you about a lack of virus protection.
+	3. Click on Recommendations
+	4. Where it says, "Get another antivirus program." click "How?"
+	5. Follow onscreen instructions. Note that the CA antivirus comes with 12-months free.
+	6. Let the install actually scan your computer--it takes forever but it is well worth it!
 
 Obviously you will have this problem again in 12 months...
 

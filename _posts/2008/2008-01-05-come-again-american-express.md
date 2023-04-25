@@ -81,20 +81,21 @@ Well played, Mr. Nigam. Not to be outdone, I actually followed his advice. The w
 
 Here's what I've concluded from all this:
 
-<ul>
 
-	<li>The "no pre-set spending limit" claim is apparently substantiated by increasing (or decreasing?) your limit each month</li>
 
-	<li>It's fairly tricky to get someone to tell you what your actual limit is</li>
+	* The "no pre-set spending limit" claim is apparently substantiated by increasing (or decreasing?) your limit each month
 
-	<li>Amex customer service reps have been well trained on how to handle callers like me who are confused about this limit business</li>
+	* It's fairly tricky to get someone to tell you what your actual limit is
 
-	<li>Amex customer service reps are unbelieveably nice. I have spoken to them on three separate occasions and have exchanged a few emails. In all cases I was blown away with how great their service was (except of course for dancing around this bizarre corporate policy)</li>
+	* Amex customer service reps have been well trained on how to handle callers like me who are confused about this limit business
 
-	<li>It's all harder than it needs to be</li>
+	* Amex customer service reps are unbelieveably nice. I have spoken to them on three separate occasions and have exchanged a few emails. In all cases I was blown away with how great their service was (except of course for dancing around this bizarre corporate policy)
 
-	<li>This isn't much different than any other credit card</li>
+	* It's all harder than it needs to be
 
-</ul>
+	* This isn't much different than any other credit card
+
+
+
 
 If you're still with me, there you have it. The scariest part of all this is that I'm starting to understand their side of it. Ridiculous.

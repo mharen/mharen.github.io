@@ -12,7 +12,7 @@ I [made a joke](https://twitter.com/mharen/status/267293420354154496) earlier th
 
 ![2012-11-10 11.31.27.png](/assets/2012/2012-11-10 11.31.27.png)
 
-Errr…what? I went back and tried copying again. Same thing. Weird.
+Errr...what? I went back and tried copying again. Same thing. Weird.
 
 So I loaded the same site on my desktop and immediately noticed strange behavior around text selection:  
 
@@ -28,7 +28,7 @@ I’m assuming the weird selection behavior is triggered by a script so let’s 
 
 ![image-14.png](/assets/2012/image-14.png)
 
-(I find it amusing that the site attributes the lyrics to Sony but still puts in all this effort to “protecting” them…)
+(I find it amusing that the site attributes the lyrics to Sony but still puts in all this effort to “protecting” them...)
 
 Bingo. 
 
@@ -58,7 +58,7 @@ Mean. Let’s fix it with the developer tools (control-shift-I or F12):
 
 Obviously I didn’t actually go to all this trouble to copy that one line. I was just curious how things were working under the covers :).
 
-<hr />
+***
 
 ### Credits/thanks: 
 

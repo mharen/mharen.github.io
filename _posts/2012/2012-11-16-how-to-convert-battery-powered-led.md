@@ -25,7 +25,7 @@ So instead of doing any circuit work, I’ll just keep the circuit it came with.
 
 ![2012-11-16 22.03.57.jpg](/assets/2012/2012-11-16 22.03.57.jpg)
 
-This would be a good time to look up common color codes or whatever to identify the power lines. Nah, let’s just guess. Red and black? Matches my multi-tester…
+This would be a good time to look up common color codes or whatever to identify the power lines. Nah, let’s just guess. Red and black? Matches my multi-tester...
 
 ![2012-11-16 22.05.41.jpg](/assets/2012/2012-11-16 22.05.41.jpg)
 
@@ -35,7 +35,7 @@ Yup. 5 volts. OK, let’s unsolder the the battery pack leads from the board:
 
 They’re labeled B- and B+. Handy.
 
-It turns out I lopped the USB cable too short so I added some jumper wires between the plug and the board (don’t judge my ugly soldering…):
+It turns out I lopped the USB cable too short so I added some jumper wires between the plug and the board (don’t judge my ugly soldering...):
 
 ![2012-11-16 22.15.59.jpg](/assets/2012/2012-11-16 22.15.59.jpg)
 
@@ -63,6 +63,6 @@ I recommend something other than tape. It looks awful.
 
 ![2012-11-17 11.42.26.jpg](/assets/2012/2012-11-17 11.42.26.jpg)
 
-That’s just a bunch of Duplo blocks with the lights wound around their nubs. I dabbed a little super glue on the end wraps to help hold the wires on. The entire block is held on with that blue sticky tack mounting putty. Time will tell if it will stay in place…
+That’s just a bunch of Duplo blocks with the lights wound around their nubs. I dabbed a little super glue on the end wraps to help hold the wires on. The entire block is held on with that blue sticky tack mounting putty. Time will tell if it will stay in place...
 
 Merry Christmas :)

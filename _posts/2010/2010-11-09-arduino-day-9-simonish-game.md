@@ -15,7 +15,7 @@ I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day
 
 
 
-The first time Wife tried this (she pretends to be interested, which I’m pretty sure is love) she shocked me by playing for six minutes straight, successfully knocking out a 27 bit sequence. Random chance would put that at 1 in 134217728 (0.0000007%)…it’s probably legit.
+The first time Wife tried this (she pretends to be interested, which I’m pretty sure is love) she shocked me by playing for six minutes straight, successfully knocking out a 27 bit sequence. Random chance would put that at 1 in 134217728 (0.0000007%)...it’s probably legit.
 
 ![image[3].png](/assets/2010/image[3].png)Speaking of 007, did anyone see those last two Bond movies? Daniel Craig is way, way more badass than Pierce Brosnan. Nothing personal, P, but Daniel Craig could go on a hunger strike, float around on the international space station for 6 months (where he will lose considerable muscle and bone mass), return to relax peacefully among nature (squirrels and birds and whatnot), and still break your hand (and possibly arm) with his face when you sucker punch him in it. And only then would he go get something to eat like a taco or burger or something.
 
@@ -178,7 +178,7 @@ void Ding(int light){
 <h4>Next Steps</h4>
 
 
-I’ll try to knock out another simple game tomorrow, and hopefully by Thursday I’ll have another component or two to play with. If not, I might be cracking open some household electronics for parts…
+I’ll try to knock out another simple game tomorrow, and hopefully by Thursday I’ll have another component or two to play with. If not, I might be cracking open some household electronics for parts...
 
 ---
 

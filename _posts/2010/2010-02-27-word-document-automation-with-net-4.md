@@ -54,13 +54,11 @@ public static Dictionary<string, string> GetDocProperties(string file)
     return DocProperties;
 }
 ```
-
-
-
+ 
 This is so much easier and cleaner with .NET4’s new dynamic capabilities and how nice it plays with COM. To use this, add the following references to your project:
 
-<ul>
-  <li>Microsoft.Office.Interop.Word, v12 </li>
 
-  <li>Office, v12 </li>
-</ul>
+  * Microsoft.Office.Interop.Word, v12 
+
+  * Office, v12 
+

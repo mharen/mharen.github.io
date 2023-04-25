@@ -38,7 +38,7 @@ But a motor cycle that launches missiles. Wow. That picture above, by the way, w
 
 ![Sketch_schem6[2].png](/assets/2010/Sketch_schem6[2].png)  <h4>Code (Updated)</h4>  <h5>C#</h5>
 
-I started out today by doing all this in Powershell…but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
+I started out today by doing all this in Powershell...but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
 <blockquote>   
 ```cs
 static void Main(string[] args)

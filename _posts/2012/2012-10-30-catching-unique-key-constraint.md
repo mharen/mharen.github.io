@@ -77,6 +77,6 @@ catch(UpdateException ex) {
 
 First we make sure the inner exception is actually a SqlException, and then we confirm that it contains one the errors we want to handle.
 
-Of course, this might be even prettier as an extension method that wraps the SaveChanges call (or a generic Func()) with all the ugly exception checking code…
+Of course, this might be even prettier as an extension method that wraps the SaveChanges call (or a generic Func()) with all the ugly exception checking code...
 
 **Note:** if you would prefer to actually check for duplicates before sending the insert, you can, but make sure you check atomically to avoid a concurrency issue. If you don’t, another transaction could insert a record which conflicts with yours between the command that checks for the duplicate and the command that inserts the row. 
