@@ -25,17 +25,9 @@ Most people are too polite or non-confrontational to do anything so we need some
 Imagine everyone sitting around the conference room table with their tablets blathering on. Now suppose everyone had an app running with the following features:
 
 - the meeting agenda
-
-
 - a place for minutes/action items
-
-
 - a timer showing how much time is left
-
-
 - a timer indicating how much money has been spent (labor) since the meeting began
-
-
 - a reminder tone very 25% of the duration of the meeting
 
 Those are all highly collaborative with shared workspaces, etc. But these features are really just an excuse to deploy this:
@@ -46,23 +38,14 @@ Maybe votes only activate something if two people vote...not sure. (It's really 
 
 Reasons are simple things like:
 
-
 - off topic
-
-
 - not relevant to the group (i.e. you two go figure it out later and report back)
-
-
 - conclusion needed (i.e. what's the action item from this thread of discussion)
-
-
 - other voices needed (i.e. share the podium, pal)
 
 Does this exist? Thoughts?
 
 (Apologies for any formatting issues or typos...I'm posting this from my phone.)
-
-
 
 ---
 

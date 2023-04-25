@@ -47,7 +47,7 @@ You can be proactive, too and fail intentionally to see how your app handles it.
 
 I’m using live writer to write this and I must say I’m continuous impressed with it. Here’s the latest reason: it almost-crashes often, but handles these crashes very well. The entire app has never crashed on me and I’ve yet to lose any work—here’s what I mean: the app occasionally pops up the dreaded error window when I do certain things (usually with plugins):  
 
-![error%5B4%5D.gif](/assets/2009/error%5B4%5D.gif)(similar error) 
+![error[4].gif](/assets/2009/error[4].gif)(similar error) 
 
 Much to my surprise, after I clicked “Send Error Report” I was left looking at my document. WLW managed to catch the error before it could affect other parts of the program. Nice!
 

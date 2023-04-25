@@ -10,7 +10,7 @@ title: 'A Candy Land Simulator: The Game Engine, Implemented'
 ---
 
 
-*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy%20Land%20Simulator)*.*
+*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy Land Simulator)*.*
 
 We’re back again. We still have our board and cards (these are old hat now, right?):  
 ```cs
@@ -43,7 +43,7 @@ var players = [
 So let’s get down to implementing some of the game engine we spec'd out yesterday. First, here’s the test harness:
 
 
-![image%5B3%5D.png](/assets/2011/image%5B3%5D.png)
+![image[3].png](/assets/2011/image[3].png)
 
 
 I decided to add an option of letting players stop the game as soon as one player wins (like normal people), or to play through until everyone “wins” like my kids play. This is the main function that we run when we click the button to start the game. It loads up that option from a checkbox, and the players:

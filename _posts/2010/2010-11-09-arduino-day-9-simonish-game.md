@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 9: Simon(ish) Game'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
 I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day-8-reaction-game.html" target="_blank). I think you’ll probably recognize it:  
 
@@ -17,17 +17,17 @@ I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day
 
 The first time Wife tried this (she pretends to be interested, which I’m pretty sure is love) she shocked me by playing for six minutes straight, successfully knocking out a 27 bit sequence. Random chance would put that at 1 in 134217728 (0.0000007%)…it’s probably legit.
 
-![image%5B3%5D.png](/assets/2010/image%5B3%5D.png)Speaking of 007, did anyone see those last two Bond movies? Daniel Craig is way, way more badass than Pierce Brosnan. Nothing personal, P, but Daniel Craig could go on a hunger strike, float around on the international space station for 6 months (where he will lose considerable muscle and bone mass), return to relax peacefully among nature (squirrels and birds and whatnot), and still break your hand (and possibly arm) with his face when you sucker punch him in it. And only then would he go get something to eat like a taco or burger or something.
+![image[3].png](/assets/2010/image[3].png)Speaking of 007, did anyone see those last two Bond movies? Daniel Craig is way, way more badass than Pierce Brosnan. Nothing personal, P, but Daniel Craig could go on a hunger strike, float around on the international space station for 6 months (where he will lose considerable muscle and bone mass), return to relax peacefully among nature (squirrels and birds and whatnot), and still break your hand (and possibly arm) with his face when you sucker punch him in it. And only then would he go get something to eat like a taco or burger or something.
 
 I know the above to be true when compared to Roger Moore, also, because I saw his “performance” in Moonraker and it was lame. I admit that I haven’t recently seen any of the other Bonds.   <h4>Build</h4>
 
-![DSC_0013%5B3%5D.jpg](/assets/2010/DSC_0013%5B3%5D.jpg)
+![DSC_0013[3].jpg](/assets/2010/DSC_0013[3].jpg)
 
 Special thanks to Wife’s awesome camera for giving me all that sweet, delicious bokeh you see above. <small>Apparently I’m required by law to list this info, too: 116mm 1/50 f/4.8 ISO200</small>.  <h4>Circuit</h4>
 
-![Sketch_bb%5B6%5D.png](/assets/2010/Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
+![Sketch_bb[6].png](/assets/2010/Sketch_bb[6].png)  <h4>Schematic</h4>
 
-![Sketch_schem%5B7%5D.png](/assets/2010/Sketch_schem%5B7%5D.png)  <h4>Code</h4>
+![Sketch_schem[7].png](/assets/2010/Sketch_schem[7].png)  <h4>Code</h4>
 
 This program follows a typical “game loop” approach where the game is in one of a few states waiting for something to happen at any given time. The only thing close to a trick is how I maintain a sequence of tones. Rather than compute and store a known sequence, I just use the built in random number generator. Since I can seed the generator with whatever I want, I can replay the same sequence over and over again.
 

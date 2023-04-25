@@ -34,7 +34,7 @@ Option 3—something else entirely—has some significant issues. While it is ex
 
 That leaves me with option 1. The wildcard within option 1 is that I might be able to sneak some of option 3 into it. My manager and I have discussed my product manager goals and concluded that it’s a remote possibility. That basically means that I need to get very lucky—a successful product needs to emerge from the organization (something that very rarely happens, as it’s not our primary business), *and* I need to be worked into the foundation of it. But if the product management stuff doesn’t work out, I’ll still be in good shape. I’ve done a fair bit of technical sales and have actually found parts of it that I enjoy so there might be a future there.
 
-So that’s what I’m going to do: option 1, management and sales, with an eye out for product management opportunities. This of course means I’ll be more motivated than ever to do side projects like [Noodle](http://blog.wassupy.com/search/label/Project%20Noodle) to scratch my coder itch and stay sharp.  <h4>Final Conclusions</h4>
+So that’s what I’m going to do: option 1, management and sales, with an eye out for product management opportunities. This of course means I’ll be more motivated than ever to do side projects like [Noodle](http://blog.wassupy.com/search/label/Project Noodle) to scratch my coder itch and stay sharp.  <h4>Final Conclusions</h4>
 
 Of course this is the *five-year* plan so who knows what’ll happen? 
 

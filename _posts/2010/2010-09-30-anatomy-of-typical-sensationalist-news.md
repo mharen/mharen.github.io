@@ -8,7 +8,7 @@ title: Anatomy of a Typical Sensationalist News Story
 
 In our highly charged media, it’s exceedingly common (and frustrating) to see a ridiculous news headline which is not supported by the story within. Here’s what I mean; level of alarm is on the y-axis and piece of the story is on the x-axis:
 
-![image%5B3%5D.png](/assets/2010/image%5B3%5D.png)
+![image[3].png](/assets/2010/image[3].png)
 
 Yikes! Things start out pretty serious. After keeping our attention with a few random facts, the story is finally killed by its own lame ties to reality.
 
@@ -60,6 +60,6 @@ What, what? So he was out of there next year anyway? When he leaves, he’ll hav
 
 By the way, the Google Image results for [[Vaughn R. Walker](http://www.google.com/images?q=Vaughn+R.+Walker)]—the judge—are pretty hilarious:
 
-![image%5B12%5D.png](/assets/2010/image%5B12%5D.png)  
+![image[12].png](/assets/2010/image[12].png)  
 
 Assuming he’s the old guy in a suit, hitting slots 1-3 is pretty good. After that it falls apart, though.

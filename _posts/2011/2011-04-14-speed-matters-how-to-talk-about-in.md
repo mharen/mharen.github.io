@@ -8,7 +8,7 @@ title: 'Speed Matters: How to Talk About It'
 
 I spend a lot of time discussing software with all kinds of people who are not software people (that’s why they hire me!). Some things are easy to describe with a mockup or a formula. For example, screens like these:  
 
-![image%5B8%5D.png](/assets/2011/image%5B8%5D.png)
+![image[8].png](/assets/2011/image[8].png)
 
 Such screens don’t require all that much explanation as the pictures communicate things so well. Let’s look at the second screen—with the table. 
 
@@ -52,7 +52,7 @@ It’s important to note that many people who have underpowered, spyware-infeste
 
 **IV.** Finally, there’s **everything else speed**. This includes daily builds or overnight batch jobs. These are things like newsletters that go out once a day or physical things you put in mailboxes. It could also be a large file download. If it takes more than a few minutes, it might as well take a few hours or days.
 
-![image%5B17%5D.png](/assets/2011/image%5B17%5D.png)
+![image[17].png](/assets/2011/image[17].png)
 
 This has a lovely logarithmic quality about it, doesn’t it?
 

@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 14: Simple Conductivity Sensor'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
 In keeping with the traffic light theme of the past few days, I built a ridiculously simple conductivity sensor with an analog input. Place something between the two leads to determine if it is highly conductive, somewhat conductive, or barely or not at all conductive. Like this:  
 
@@ -21,7 +21,7 @@ Why is the applesauce dark red? Good Question. It’s homemade, and the best we 
 
 The build is identical to the previous few days with a simple analog input added the same way as the CdS cell in [another build](../../2010/11/arduino-day-6-analog-inputs.html" target="_blank) (I used a 10kΩ resistor instead of 470Ω, though).
 
-![IMAG0782%5B3%5D.jpg](/assets/2010/IMAG0782%5B3%5D.jpg)  <h4>Code</h4>
+![IMAG0782[3].jpg](/assets/2010/IMAG0782[3].jpg)  <h4>Code</h4>
 <blockquote>   
 ```cs
 const int BuzzPin = 5;

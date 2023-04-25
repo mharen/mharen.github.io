@@ -10,7 +10,7 @@ title: 'A Candy Land Simulator: Overview and Data Representations'
 ---
 
 
-*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy%20Land%20Simulator)*.*
+*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy Land Simulator)*.*
 
 As I was playing Candy Land with Thing 1, it occurred to me how much I dislike the game. As I blindly turned card after card I wondered what the typical number of moves looks like. And then I wondered what the distribution looks like. Really my brain just wanted to know how long it would be suffering, and how confident it should be about that answer.
 

@@ -15,11 +15,11 @@ But on Windows, cmd.exe just isn’t enough. Recent versions have brought tab co
 
 One breakthrough I discovered today helps a lot, though: you can make your window *wider than 80 characters.* I’m embarrassed that I didn’t discover this years ago. This is for the poor saps like myself who didn’t know:  
 
-![image%5B10%5D.png](/assets/2011/image%5B10%5D.png)
+![image[10].png](/assets/2011/image[10].png)
 
 And there you go:
 
-![image%5B11%5D.png](/assets/2011/image%5B11%5D.png)
+![image[11].png](/assets/2011/image[11].png)
 
 While you’re in there, you might as well choose a pretty font like Consolas, too.
 

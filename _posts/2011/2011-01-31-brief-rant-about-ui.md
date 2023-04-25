@@ -13,15 +13,15 @@ I love beautiful user interfaces. I tend to like interfaces that match these des
 
 My blog editor, Windows Live Writer, is pretty good:  
 
-![image%5B31%5D.png](/assets/2011/image%5B31%5D.png)
+![image[31].png](/assets/2011/image[31].png)
 
 Nice and simple. Even with the ribbon extended, it’s pretty clean:
 
-![image%5B32%5D.png](/assets/2011/image%5B32%5D.png)
+![image[32].png](/assets/2011/image[32].png)
 
 This really lets me focus on the content of the post which is important because I have a hard time focusing on anything. Browsers have certainly underscored this notion, though Google’s Chrome seems to stand out of from the pack here as it does in most areas:
 
-![image%5B13%5D.png](/assets/2011/image%5B13%5D.png)
+![image[13].png](/assets/2011/image[13].png)
 
 **If I had to pick one thing a UI should be to make it good, I think it should be *obvious*.** The UI should be painfully clear about how to do things. For example, in the above image it’s pretty clear how you open a new tab or how you go forwards/backwards when browsing. This goal is supported by Steve Krug’s excellent book *Don’t Make Me Think*:
 <blockquote> 
@@ -33,25 +33,25 @@ It’s less obvious how you’d find out what versions we’re looking at. That�
 
 Opera buries all of its secrets under the “File” menu as I think people call it, which is fine:
 
-![image%5B20%5D.png](/assets/2011/image%5B20%5D.png)
+![image[20].png](/assets/2011/image[20].png)
 
 Firefox does something similar but they introduce a new style of dropdown which is a little confusing:
 
-![image%5B21%5D.png](/assets/2011/image%5B21%5D.png)
+![image[21].png](/assets/2011/image[21].png)
 
 vs.
 
-![image%5B25%5D.png](/assets/2011/image%5B25%5D.png)
+![image[25].png](/assets/2011/image[25].png)
 
 I like where they’re going but they’re not quite there yet. Office 2007 handles this better by showing you more options under the dropdown when you hover anywhere on the button:
 
-![image%5B29%5D.png](/assets/2011/image%5B29%5D.png)
+![image[29].png](/assets/2011/image[29].png)
 
 IE8 and Chrome handle this well by hiding things behind the Help bubble and the wrench, though they drift into waters I don’t like: inventing your own controls. What I mean is, inventing a new way of doing something in the UI when well-understood, perfectly acceptable solutions already exist. If you decide to invent something, it better be good, because it’s coming at a user cost of potential confusion. 
 
 Let me tell you a story about a control I invented for a project a while back. I had a requirement that users be able to enter an unlimited number of attributes under several different categories. Like this (Foos and Bars are unlimited):
 
-![image%5B38%5D.png](/assets/2011/image%5B38%5D.png)
+![image[38].png](/assets/2011/image[38].png)
 
 This was part of a large complicated form and there were several sections like “Foo and “Bar” above that could have an unlimited number of items entered. My super clever idea was to have the form automatically add empty boxes as users filled things in. In this way, there’d always be at least one empty box and the user wouldn’t have to bother with annoying insert/edit/delete buttons.
 
@@ -65,6 +65,6 @@ I thought I was being so clever by letting users “just type away as quickly as
 
 Here’s what I’d try given the chance. I’d add the familiar (+), (-) buttons to add new rows and remove existing rows. I’d keep the auto-append behavior exactly the same, but I’d add the buttons to help guide the user’s thinking about what’s going on, and to give them something familiar to fall back on if needed. I’d also shade the empty input just slightly to acknowledge that it’s empty. Like this:  
 
-![image%5B44%5D.png](/assets/2011/image%5B44%5D.png)
+![image[44].png](/assets/2011/image[44].png)
 
 Then I’d conduct a real usability test with someone who hasn’t seen any part of this to see what they think and **iterate** until it stopped confusing people.

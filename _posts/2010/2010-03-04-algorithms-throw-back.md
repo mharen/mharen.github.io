@@ -10,7 +10,7 @@ I was given a question today that really took me back. Here’s a hint: it had t
 
 I haven’t touched a BST in six years so it took some priming to get me going.  
 
-![image%5B2%5D.png](/assets/2010/image%5B2%5D.png)([BST builder](http://people.ksp.sk/~kuko/bak/index.html))
+![image[2].png](/assets/2010/image[2].png)([BST builder](http://people.ksp.sk/~kuko/bak/index.html))
 
 The task was to print this tree level by level. So the output should be 3, 1, 6, 2, 5, 7, 4. If you’re a programmer, I encourage you to solve this problem as an exercise before looking at my solution. It was humbling for me.
 

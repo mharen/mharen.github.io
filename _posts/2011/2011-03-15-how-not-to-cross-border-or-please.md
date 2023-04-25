@@ -15,7 +15,7 @@ Before Sunday, I’ve been redirected to immigration twice. The first time, a ve
 
 The second time I just answered a few questions and was on my way.
 
-[![348516764_f4eb021893_b%5B4%5D.jpg](/assets/2011/348516764_f4eb021893_b%5B4%5D.jpg)](http://www.flickr.com/photos/thomashawk/5366984244/)
+[![348516764_f4eb021893_b[4].jpg](/assets/2011/348516764_f4eb021893_b[4].jpg)](http://www.flickr.com/photos/thomashawk/5366984244/)
 
 Sunday was a different story. I was making fantastic time when I crossed the Ambassador bridge. The booth agent didn’t much care for my song and dance around the “w” word and sent me to immigration. The guy there wasn’t too happy to see me either. He asked for my documentation—letter of attestation, college diploma, resume and customer contract—and was disappointed that I wasn’t sure what he was talking about and couldn’t provide any of it. 
 

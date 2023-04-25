@@ -26,29 +26,29 @@ A patch is basically a change set wrapped up into a single tidy file. The patch 
 
 First, you should update your working directory if possible with “SVN Update”:
 
-![image%5B2%5D.png](/assets/2010/image%5B2%5D.png) 
+![image[2].png](/assets/2010/image[2].png) 
 
 Normally you would go to the Commit screen to apply your changes. Since you don’t have commit access, this won’t work, so instead right-click and go to “TortoiseSVN” > “Create Patch”:
 
-![image%5B5%5D.png](/assets/2010/image%5B5%5D.png) 
+![image[5].png](/assets/2010/image[5].png) 
 
 A dialog will show you all the changes it has detected; you can double click each file to diff it. Choose the changes you want included in the patch and click “OK”:
 
-![image%5B8%5D.png](/assets/2010/image%5B8%5D.png) 
+![image[8].png](/assets/2010/image[8].png) 
 
 Save the patch somewhere handy:
 
-![image%5B11%5D.png](/assets/2010/image%5B11%5D.png) 
+![image[11].png](/assets/2010/image[11].png) 
 
 Send the patch file off to your committer and you’re done! Go ahead and open it up in a text editor if you want to see how these work. It’s basically a snippet of each of the pieces of code you changed, all bundled up into a nice text file.  <h3>Applying a Patch to a Subversion Repo</h3>
 
 Of course the process of applying patches is simple, too. Right-click on the patch file and choose “TortoiseSVN” > “Apply Patch”:
 
-![image%5B14%5D.png](/assets/2010/image%5B14%5D.png) 
+![image[14].png](/assets/2010/image[14].png) 
 
 Choose the SVN working directory to which the patch should be applied:
 
-![image%5B17%5D.png](/assets/2010/image%5B17%5D.png) 
+![image[17].png](/assets/2010/image[17].png) 
 
 
 
@@ -58,12 +58,12 @@ Choose the SVN working directory to which the patch should be applied:
 
 You’ll see a list of the patched files and have the opportunity to review each change:
 
-![image%5B20%5D.png](/assets/2010/image%5B20%5D.png) 
+![image[20].png](/assets/2010/image[20].png) 
 
 Then right click to apply some or all of the changes into the working directory you chose.
 
 The patch has now been applied to your working directory—now would be a good time to commit it via normal means (right-click >&#160; “SVN Commit”):
 
-![image%5B23%5D.png](/assets/2010/image%5B23%5D.png) 
+![image[23].png](/assets/2010/image[23].png) 
 
 It might seem a little complicated at first, but after you do it once or twice it’ll click as a convenient and effective way to share change sets.

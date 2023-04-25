@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 5: Fun With Charlieplexing'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
 Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from [yesterday’s fun](../../2010/11/arduino-day-4-fun-with-sound.html). In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. 
 
@@ -25,11 +25,11 @@ Here we go:
 
   <h4>Build</h4>
 
-![IMAG0694%5B8%5D.jpg](/assets/2010/IMAG0694%5B8%5D.jpg)  <h4>Circuit</h4>
+![IMAG0694[8].jpg](/assets/2010/IMAG0694[8].jpg)  <h4>Circuit</h4>
 
 This doesn’t well represent the circuit:
 
-![day%205_bb%5B7%5D.png](/assets/2010/day%205_bb%5B7%5D.png)
+![day 5_bb[7].png](/assets/2010/day 5_bb[7].png)
 
 It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.
 
@@ -37,7 +37,7 @@ If you look closely in the build shot above you can see that I used four rows, a
 
 I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:
 
-![day%205_schem%5B8%5D.png](/assets/2010/day%205_schem%5B8%5D.png)  <h4>Code</h4>
+![day 5_schem[8].png](/assets/2010/day 5_schem[8].png)  <h4>Code</h4>
 
 I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
 
@@ -132,7 +132,7 @@ int Leds[6][2] =
 #define b5 9878
 
 // adapted from http://www.rose-hulman.edu/class/me
-//             /HTML/ME430_0910_W_Olson/code/example%20buzzer.c
+//             /HTML/ME430_0910_W_Olson/code/example buzzer.c
 
 const int
     song[] =   { e2, e2, e2, c2, e2, g2, g1, 
@@ -249,7 +249,7 @@ void Burn(int highPin, int lowPin){
 I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:
 
 
-![IMAG0704%5B5%5D.jpg](/assets/2010/IMAG0704%5B5%5D.jpg)
+![IMAG0704[5].jpg](/assets/2010/IMAG0704[5].jpg)
 
 
 (The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)

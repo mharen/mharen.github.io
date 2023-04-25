@@ -10,7 +10,7 @@ title: 'A Candy Land Simulator: The Game Engine'
 ---
 
 
-*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy%20Land%20Simulator)*.*
+*Note: this post is from a *[*series on Candy Land*](http://blog.wassupy.com/search/label/Candy Land Simulator)*.*
 
 Last time we captured the board and the card deck into Javascript objects that look like this:  
 ```cs
@@ -28,7 +28,7 @@ var cards = [
 
 
 
-[![players%5B7%5D.jpg](/assets/2011/players%5B7%5D.jpg)](http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/)
+[![players[7].jpg](/assets/2011/players[7].jpg)](http://claimyourjourney.com/2011/08/blog-7-running-and-candy-land/)
 
 
 Now we need to simply draw cards and keep track of a player through the game. I guess we should come up with some simple way to track that. Players will have a name and a position on the board. We also need to know if the player is losing a turn because they stepped on a licorice space. This should do it:

@@ -11,7 +11,7 @@ title: The End Of Super Bowl-Style Advertising
 
 I’m sure I’m late to this party but here it goes for those just arriving with me: the era of the big Super Bowl commercial is over. I’d like to enter into evidence exhibit A, a tweet from my coworker:  
 
-![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)
+![image[2].png](/assets/2011/image[2].png)
 
 He nailed it. When I have access to unlimited amusing clips (usually with no ulterior motive), watching a three hour football game is hardly an efficient delivery mechanism for untested, untargeted clips designed to manipulate me.
 

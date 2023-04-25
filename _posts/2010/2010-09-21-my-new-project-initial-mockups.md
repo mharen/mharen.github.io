@@ -10,21 +10,21 @@ title: 'My New Project: Initial Mockups'
 
 This app is going to be pretty simple with only a handful of areas, each with a set of pretty basic screens:
 
-![image%5B5%5D.png](/assets/2010/image%5B5%5D.png)
+![image[5].png](/assets/2010/image[5].png)
 
 Let’s pretend you’re an interviewer and I’ll walk you through what I’ve mocked up so far. Immediately after you do an interview, you open up the app and look for the person you just interviewed on the <font face="Courier New">/Interview/Recent</font> screen:
 
-![image%5B8%5D.png](/assets/2010/image%5B8%5D.png)
+![image[8].png](/assets/2010/image[8].png)
 
 You click on Rivers and see this:
 
-![image%5B14%5D.png](/assets/2010/image%5B14%5D.png)
+![image[14].png](/assets/2010/image[14].png)
 
 Once you enter your feedback, you’re part is complete.
 
 Now let’s look at what human resources might see in the <font face="Courier New">/Candidate/Details</font> after a few kind folks like yourselves have entered some feedback:
 
-![image%5B20%5D.png](/assets/2010/image%5B20%5D.png)
+![image[20].png](/assets/2010/image[20].png)
 
 Whatever HR needs to make a decision regarding an additional interview, hire, or no-hire should be available on this screen. This screen will also be expanded to track their decision (not pictured).
 

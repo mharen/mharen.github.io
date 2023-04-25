@@ -8,17 +8,17 @@ title: "Fun with Google's Public Data"
 
 I was going to do a post about our world’s exploding population growth and stumbled upon Google’s awesome [public data service](http://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&q=world+population#met=sp_pop_totl&idim=country:USA:GBR:JPN:DEU:CAN:MEX:RUS:VNM) with my first research query:
 
-[![image%5B13%5D.png](/assets/2010/image%5B13%5D.png)](http://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&q=world+population#met=sp_pop_totl&idim=country:USA:GBR:JPN:DEU:CAN:MEX:RUS:VNM) 
+[![image[13].png](/assets/2010/image[13].png)](http://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&q=world+population#met=sp_pop_totl&idim=country:USA:GBR:JPN:DEU:CAN:MEX:RUS:VNM) 
 
 I haven’t been able to uncover an index for what types of things you can show here but a little [searching](http://www.google.com/search?q=site:http://www.google.com/publicdata+co2) will get you other things.
 
 Anyway, so this is what I was looking for initially ([data source](http://www.vaughns-1-pagers.com/history/world-population-growth.htm)):
 
-![image%5B23%5D.png](/assets/2010/image%5B23%5D.png)&#160;
+![image[23].png](/assets/2010/image[23].png)&#160;
 
 And since the last 200 years:
 
-![image%5B27%5D.png](/assets/2010/image%5B27%5D.png) 
+![image[27].png](/assets/2010/image[27].png) 
 
 Clearly my source data could be more complete. Even with the gaps, though, the exploding trend is obvious. It comes with this neat, mind-blowing factoid, too:
 <blockquote> 

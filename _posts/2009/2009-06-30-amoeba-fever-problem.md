@@ -19,17 +19,17 @@ I initially threw out a guess of “slightly more than 25%”. I figured that th
 
 I was up a bit with Maya and thought about this some more and revised my guess to somewhere between 25% and 33%. My reasoning was looking more professional (but not actually any more accurate, as we’ll discuss). I reasoned that the change of an amoeba population die out after n iterations is   
 
-![clip_image002%5B3%5D.gif](/assets/2009/clip_image002%5B3%5D.gif)
+![clip_image002[3].gif](/assets/2009/clip_image002[3].gif)
 
 So the chance of the first 3 iterations leading to die out would be something like:  
 
-![clip_image002%5B4%5D%5B2%5D.gif](/assets/2009/clip_image002%5B4%5D%5B2%5D.gif)
+![clip_image002[4][2].gif](/assets/2009/clip_image002[4][2].gif)
 
 
 
 Or more generally:  
 
-![clip_image002%5B6%5D%5B2%5D.gif](/assets/2009/clip_image002%5B6%5D%5B2%5D.gif)
+![clip_image002[6][2].gif](/assets/2009/clip_image002[6][2].gif)
 
 
 

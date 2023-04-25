@@ -10,7 +10,7 @@ title: 'List<T>: .Clear() vs. new; Variable Passing in C#'
 
 A colleague asked me a C# question on [Twitter](http://twitter.com/#!/XOver9000/status/29231958731):  
 
-![image%5B1%5D.png](/assets/2010/image%5B1%5D.png)
+![image[1].png](/assets/2010/image[1].png)
 
 I had some trouble responding in 140 characters, so I replied with [a](http://twitter.com/#!/mharen/status/29232621954) [few](http://twitter.com/#!/mharen/status/29232755840) [tweets](http://twitter.com/#!/mharen/status/29232755840) that really didn’t do the question justice. There are a few issues at hand: style and correctness. 
 
@@ -172,7 +172,7 @@ After Refresh Clear: 123
 Again we see that repointing references that were **passed by value** does not have the desired effect. We could update the first implementation to pass its list as a ref parameter but I discourage that. I like the .Clear approach instead. The reason .Clear/.Add works is that you are working with the right object by the time you start manipulating it. You could also sidestep the whole problem by changing the method name to “Rebuild” and have it *return *a new list.
 
 
-If that’s just crazy and not making any sense to you, I suggest checking out some of the [textbook diagrams](http://www.google.com/images?q=variable%20passing%20reference) that explain this, or read this [excellent post](http://www.yoda.arachsys.com/csharp/parameters.html) by Jon Skeet on the same topic. Both do a far better job at this than me.
+If that’s just crazy and not making any sense to you, I suggest checking out some of the [textbook diagrams](http://www.google.com/images?q=variable passing reference) that explain this, or read this [excellent post](http://www.yoda.arachsys.com/csharp/parameters.html) by Jon Skeet on the same topic. Both do a far better job at this than me.
 
 
 This is a topic that was incorrectly taught (or understood) to me in college, so don’t be surprised if you learn something new as I did.

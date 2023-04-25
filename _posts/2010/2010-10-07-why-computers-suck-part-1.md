@@ -16,7 +16,7 @@ Here’s how *I* login:  <ol>   <li>Turn on my computer </li>    <li>Enter usern
 
       
 
-![image%5B37%5D.png](/assets/2010/image%5B37%5D.png)</li> </ol>
+![image[37].png](/assets/2010/image[37].png)</li> </ol>
 
 Wait for what? Apparently I took too long doing all of the above and need to start again. Yikes!
 

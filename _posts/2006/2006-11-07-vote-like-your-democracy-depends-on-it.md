@@ -24,6 +24,6 @@ What an easy (too easy?) experience. I encourage everyone to vote, but only if y
 
 </ul>
 
-You can probably find similar sites for your state by [searching accordingly](http://www.wassupy.com/voter%20guide%20my_state_here).
+You can probably find similar sites for your state by [searching accordingly](http://www.wassupy.com/voter guide my_state_here).
 
 I am almost disappointed that I didn't get use an electronic voting machine. I was curious how they worked as I have never actually used one. Then again, I like the fact that my vote is not [surrounded in controversy](http://www.eff.org/Activism/E-voting/) by floating on some USB drive or flash card or whatever.

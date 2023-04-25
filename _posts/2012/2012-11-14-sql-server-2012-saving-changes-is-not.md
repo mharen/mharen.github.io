@@ -18,7 +18,7 @@ Are you riding the new SQL Server 2012 HAWTNESS? Good for you. Did you try to ma
 
 So the answer’s right there, but it’s at the end of a really long blob of text so you are forgiven if you missed it. Before you close your table change designer (and lose those precious table changes), just go uncheck that box in the options:
 
-![change%20options.png](/assets/2012/change%20options.png)
+![change options.png](/assets/2012/change options.png)
 
 Now try saving again. Good to go? Cool.
 

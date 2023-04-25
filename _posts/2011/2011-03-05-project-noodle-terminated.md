@@ -9,7 +9,7 @@ title: 'Project Noodle: Terminated'
 ---
 
 
-It is with surprisingly little regret that I announce the termination of [Project Noodle](http://blog.wassupy.com/search/label/Project%20Noodle). Those not directly involved can stop reading now as this is completely unrelated to anything I’ve written about recently.
+It is with surprisingly little regret that I announce the termination of [Project Noodle](http://blog.wassupy.com/search/label/Project Noodle). Those not directly involved can stop reading now as this is completely unrelated to anything I’ve written about recently.
 
 Project Noodle was conceived with the goal of improving the recruitment process at my company. We don’t have trouble getting candidates but we don’t have easy access to data on how successful interviewers are—that’s what I wanted to fix.
 

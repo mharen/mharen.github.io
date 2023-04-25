@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 6: Analog Inputs'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
 I used up the last of my components today: a light sensor (CdS/photoresistor) and a knob-driven variable resistor (potentiometer). This probably means my days of “the basics” are about over!
 
@@ -25,13 +25,13 @@ Today’s build is another extension on the sound thing I’ve been working on. 
 
   <h4>Build</h4>
 
-![IMAG0707%5B8%5D.jpg](/assets/2010/IMAG0707%5B8%5D.jpg)  <h4>Circuit</h4>
+![IMAG0707[8].jpg](/assets/2010/IMAG0707[8].jpg)  <h4>Circuit</h4>
 
 Since this build was a very minor addition to my previous circuits, I’m only showing the simple changes here:
 
-![Sketch_bb%5B6%5D.png](/assets/2010/Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
+![Sketch_bb[6].png](/assets/2010/Sketch_bb[6].png)  <h4>Schematic</h4>
 
-![Sketch_schem%5B14%5D.png](/assets/2010/Sketch_schem%5B14%5D.png)  <h4>Code</h4>
+![Sketch_schem[14].png](/assets/2010/Sketch_schem[14].png)  <h4>Code</h4>
 
 The only changes today were in the Loop() routine:
 <blockquote>   

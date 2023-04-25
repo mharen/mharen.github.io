@@ -7,7 +7,7 @@ categories:
 title: 'Arduino Day 12: Seeking Inspiration'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
 I’ve quite suddenly begun struggling to come up with project ideas that are both possible to implement with my limited components and time, and also interesting (to me at least, if not you). 
 
@@ -15,6 +15,6 @@ A [friend](http://twitter.com/#!/corsae/status/1655470213300224" target="_blank)
 
 So, yeah, most of these are waiting on parts (which I ordered two weeks ago…).
 
-![bacon%5B5%5D.png](/assets/2010/bacon%5B5%5D.png)I’ll be back with some actual circuits as soon as things quiet down here on the home front!
+![bacon[5].png](/assets/2010/bacon[5].png)I’ll be back with some actual circuits as soon as things quiet down here on the home front!
 
 If none of that interests you or you have a few minutes to kill, check out this recipe for [preparing bacon](http://www.foodnetwork.com/recipes/rachael-ray/late-night-bacon-recipe/reviews/index.html" target="_blank) (more importantly, [the comments](http://www.foodnetwork.com/recipes/rachael-ray/late-night-bacon-recipe/reviews/index.html" target="_blank)). 

@@ -14,7 +14,7 @@ I love Gmail's archive feature. It frees me from organizing my mail by depending
 
 I’ve been using a similar approach in Outlook at work for a long time. Encouraged by a [GTD idea](http://getitdone.quickanddirtytips.com/inbox-zero.aspx) (cool podcast, btw), I created this structure:  
 
-![image%5B55%5D.png](/assets/2009/image%5B55%5D.png) 
+![image[55].png](/assets/2009/image[55].png) 
 
 
 
@@ -30,11 +30,11 @@ Open *Start > All Programs > Microsoft Office > MS Office Tools > Digital Certif
 
 Enter a name for the certificate and click *OK*:  
 
-![image%5B46%5D.png](/assets/2009/image%5B46%5D.png)&#160;
+![image[46].png](/assets/2009/image[46].png)&#160;
 
 Next, open up Outlook and go to *Tools > Macro > Visual Basic Editor*:  
 
-&#160;![image%5B47%5D.png](/assets/2009/image%5B47%5D.png) 
+&#160;![image[47].png](/assets/2009/image[47].png) 
 
 Next, enter this code under *Project1 > Microsoft Office Outlook > ThisOutlookSession* (thanks to [Richard](http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/) for this code!):
 <blockquote>   
@@ -81,7 +81,7 @@ End Sub
 
 
 
-![image%5B49%5D.png](/assets/2009/image%5B49%5D.png)</a> 
+![image[49].png](/assets/2009/image[49].png)</a> 
 
 
 
@@ -94,11 +94,11 @@ Sign the certificate by choosing *Tools > Digital Signature > Choose*:
 
 
 
-![image%5B50%5D.png](/assets/2009/image%5B50%5D.png) 
+![image[50].png](/assets/2009/image[50].png) 
 
 
 
-![image%5B51%5D.png](/assets/2009/image%5B51%5D.png) 
+![image[51].png](/assets/2009/image[51].png) 
 
 
 Save and close the VBA window. Restart Outlook (choose *Yes *to save anything if prompted).
@@ -108,21 +108,21 @@ Next, let’s create a button for our new Macro with *Tools > Customize*:
 
 
 
-![image%5B52%5D.png](/assets/2009/image%5B52%5D.png) 
+![image[52].png](/assets/2009/image[52].png) 
 
 
 Choose the *Macros *category and drag the Archive macro to your toolbar:
 
 
 
-![image%5B53%5D.png](/assets/2009/image%5B53%5D.png) 
+![image[53].png](/assets/2009/image[53].png) 
 
 
 Then, with the customize window still open, right click on the button you just created and give it a better name and set it to *Text Only*:
 
 
 
-![image%5B54%5D.png](/assets/2009/image%5B54%5D.png) 
+![image[54].png](/assets/2009/image[54].png) 
 
 
 I named mine *&Quick Archive*. The ampersand sets the hotkey to the letter that follows it (denoted by the underlined letter in the toolbar). In this case, it will be *Alt-Q*.

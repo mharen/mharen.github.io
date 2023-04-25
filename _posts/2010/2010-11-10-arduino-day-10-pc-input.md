@@ -9,17 +9,17 @@ categories:
 title: 'Arduino Day 10: PC Input'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30%20Days%20Of%20Arduino) on my adventures with Arduino</div>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
 
 I’m starting to lay the groundwork for a larger project that will be driven from network data. I don’t have an Ethernet shield so I’ll drive this from USB. Today’s exercise is simply to verify that I can write data to the board from a higher level program on my computer. In this case, I’m using C#.  
 
   <h4>Build</h4>
 
-![DSC_0011%5B3%5D.jpg](/assets/2010/DSC_0011%5B3%5D.jpg)  <h4>Circuit</h4>
+![DSC_0011[3].jpg](/assets/2010/DSC_0011[3].jpg)  <h4>Circuit</h4>
 
-![Sketch_bb%5B6%5D.png](/assets/2010/Sketch_bb%5B6%5D.png)  <h4>Schematic</h4>
+![Sketch_bb[6].png](/assets/2010/Sketch_bb[6].png)  <h4>Schematic</h4>
 
-![Sketch_schem%5B6%5D.png](/assets/2010/Sketch_schem%5B6%5D.png)  <h4>Code</h4>  <h5>C#</h5>
+![Sketch_schem[6].png](/assets/2010/Sketch_schem[6].png)  <h4>Code</h4>  <h5>C#</h5>
 <blockquote>   
 ```cs
 using System;

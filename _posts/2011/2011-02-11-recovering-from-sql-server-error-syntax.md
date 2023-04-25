@@ -10,7 +10,7 @@ title: "Recovering from SQL Server Error: \u201CSyntax Error in TextHeader\u201D
 
 After years of working with SQL Server, I thought I’d seen it all. Here’s a humbling reminder that I haven’t:
 
-![image%5B5%5D.png](/assets/2011/image%5B5%5D.png)
+![image[5].png](/assets/2011/image[5].png)
 
 This occurred when I tried to script out a stored procedure so I could change it. Not a good sign. Fortunately I can fallback to good old <code>sp_helptext</code> to recover the procedure:
 <blockquote>   

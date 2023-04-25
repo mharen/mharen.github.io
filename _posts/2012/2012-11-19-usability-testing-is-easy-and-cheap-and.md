@@ -32,7 +32,7 @@ Ohhhh…
 
 Those are fairly minor. There can be big, huge issues, too, though. For instance, when I tried to sign up for Angie’s List, I opted to sign up with my Google account:
 
-![join[2].png](/assets/2012/join%5B2%5D.png)
+![join](/assets/2012/join-2.png)
 
 Guess how that experience went :/. I have never had so much trouble giving someone my money. (To their credit, this appears to be fixed now.)
 

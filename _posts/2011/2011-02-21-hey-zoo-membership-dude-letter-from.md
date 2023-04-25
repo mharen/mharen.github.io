@@ -27,7 +27,7 @@ You see, according to this Seth guy, you’re supposed to be “treating (your) 
 
 These guys, we’ll call them the Harens (Sarah and Michael). They love the zoo and visit all the time. They have these two adorable little girls who find me absolutely enchanting. I’m not even exaggerating—I dropped a carrot and they went crazy. I scratched my tail and I thought they might be having seizures they were giggling so much.
 
-![DSC_0109%5B5%5D.jpg](/assets/2011/DSC_0109%5B5%5D.jpg)</a>
+![DSC_0109[5].jpg](/assets/2011/DSC_0109[5].jpg)</a>
 
 The problem is that they can’t come so often anymore because you changed the rules on their membership. They hang out with my pals over at Akron, too, and this past year got a companion-plus membership there. They’ve been using that 100% reciprocity thing to visit me until recently when that policy suddenly changed. Now only two-thirds of their membership is covered at 50%. 
 
@@ -45,7 +45,7 @@ Tammy the Tamarin
 
 PS: here’s a picture of one of my fans dressed up as a marsupial. It seemed relevant since I’m a animal.
 
-![DSC_0104%5B3%5D.jpg](/assets/2011/DSC_0104%5B3%5D.jpg)
+![DSC_0104[3].jpg](/assets/2011/DSC_0104[3].jpg)
 
 ---
 

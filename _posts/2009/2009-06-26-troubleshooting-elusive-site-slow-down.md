@@ -266,7 +266,7 @@ Since there are so many different ways a client can report themselves, I dumped 
      <td>FF</td>
      <td>0.00</td>
    </tr></tbody></table>
-I dumped that into the [Google Charts API](http://code.google.com/apis/chart/) to get this:![chart?cht=p&chs=400x275&chd=s:9ZEDAA&chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&chtt=Browser%20Distribution](/assets/2009/chart?cht=p&chs=400x275&chd=s:9ZEDAA&chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&chtt=Browser%20Distribution)
+I dumped that into the [Google Charts API](http://code.google.com/apis/chart/) to get this:![chart?cht=p&chs=400x275&chd=s:9ZEDAA&chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&chtt=Browser Distribution](/assets/2009/chart?cht=p&chs=400x275&chd=s:9ZEDAA&chl=IE6SP2%7CIE6%7CIE7%7CJAVA%7CUnknown%7CFF&chtt=Browser Distribution)
 
 It’s not the overwhelming result I had hoped for with 27% of traffic over the last 2 weeks coming from the defunct browser I was trying to blame. Again, it seems unlikely that 27% of users are experiencing the same problem without reporting it.
 But what the hell, I turned off http compression on one of the web servers anyway. I had no other leads at this point so I might as well. As expected, though, the user reported that it didn’t help.
@@ -279,7 +279,7 @@ After talking with the user, she revealed that other areas of the site *do* slow
 When reviewing her computer (Windows 2000, IE6, tiny amount of memory), and recalling the amount of patience users have with this product (a lot), I realized that assumption 3 isn’t very solid either.
 Once I ignored those three items, it was obvious that the application itself had a problem that could likely be reproduced by me, in house. So that’s what I did—**something I should have tried in the very beginning.** I dug out an ancient laptop with Windows 2000 and IE6SP1 and started running the app. Much to my surprise (though I guess I should have expected it by this point), after 10 minutes, the app started to crawl. Badly.
 Being the computer person, I immediately saw why in the little hard drive light. Internet Explorer was leaking memory like crazy and eventually, when the system ran out, caused the disk to thrash as Windows actively consumed and grew the page file. Watching the task manager, I could see a 1-2mb jump in memory usage with *every click*.
-![yikes%5B6%5D.png](/assets/2009/yikes%5B6%5D.png) I tore the page apart and was able to create a simple page to reproduce the problem and share. The above chart (generated with [Perfmon](http://adminfoo.net/2007/04/windows-perfmon-top-ten-counters.html)—a sweet tool on most windows machines) shows that simple page being executed over a period of about 3 minutes. You can see memory usage rose to about 90%, with the page file in tow. Each dropped quite suddenly when I terminated Internet Explorer.
+![yikes[6].png](/assets/2009/yikes[6].png) I tore the page apart and was able to create a simple page to reproduce the problem and share. The above chart (generated with [Perfmon](http://adminfoo.net/2007/04/windows-perfmon-top-ten-counters.html)—a sweet tool on most windows machines) shows that simple page being executed over a period of about 3 minutes. You can see memory usage rose to about 90%, with the page file in tow. Each dropped quite suddenly when I terminated Internet Explorer.
 
 Here’s the simple page that produces the above behavior in IE6SP1 (but not Opera 9.5, Firefox 3.5, Chrome 2, or Internet Explorer 8):<blockquote></blockquote><blockquote>
 ```cs

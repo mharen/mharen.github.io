@@ -40,11 +40,11 @@ The reason this is a problem is that the speeds normally advertised are asynchro
 
 U-Verse (I couldn’t find this anywhere except [Wikipedia](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet)):    
 
-![image%5B3%5D.png](/assets/2010/image%5B3%5D.png)    
+![image[3].png](/assets/2010/image[3].png)    
 
 Time Warner (credit to TW for making this easy to find):    
 
-![image6%5B1%5D.png](/assets/2010/image6%5B1%5D.png)   </span></span>
+![image6[1].png](/assets/2010/image6[1].png)   </span></span>
 
 Props to Wide Open West for providing that information in the initial graphic, though their recommendation that 15mbps is needed for gaming is silly.
 

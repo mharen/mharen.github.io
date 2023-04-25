@@ -12,7 +12,7 @@ title: What I Miss From My Android as a New iPhone User
 
 If you’re just joining us, this is part two of my “OMG I just got an iPhone” series. You can read about what I love about the iPhone in the [previous post](../../2011/11/iphone-from-perspective-of-android.html). While preparing this post, I realized that I' put together a nice [overview of the awesomeness of Android](../../2010/09/things-i-love-about-android.html) 14 months ago. That post is still pretty valid and worth a read. I have a great chart over there that bears repeating:
 
-![image%5B2%5D.png](/assets/2011/image%5B2%5D.png)
+![image[2].png](/assets/2011/image[2].png)
 
 That is, whether you go with Android or iPhone or whatever, these are overwhelming amazing devices. Any critique herein is admittedly just nitpicky. We are living in a very exciting time.
 
@@ -28,9 +28,9 @@ Typing passwords is really a big part of it. I feel like I have to type my login
 
 I think the next big thing in tech is going to be a ridiculously simple to use, and comprehensive approach to identity and its related attributes. The burden is just growing to be too much to put it off much longer. You hear that Microsoft? Google? Facebook? Apple? Get on it!  <h5 style="clear: both;">Fewer Password Prompts</h5>
 
-![Automatic_Updates_inline%5B1%5D.png](/assets/2011/Automatic_Updates_inline%5B1%5D.png)A tad more on this, because it’s really annoying. Why do I have to enter my password to install apps? Why when I update apps? Feel free to ask for a pin or password when money’s involved, but otherwise I feel like I’m authenticating myself waaaay too much.
+![Automatic_Updates_inline[1].png](/assets/2011/Automatic_Updates_inline[1].png)A tad more on this, because it’s really annoying. Why do I have to enter my password to install apps? Why when I update apps? Feel free to ask for a pin or password when money’s involved, but otherwise I feel like I’m authenticating myself waaaay too much.
 
-This is something that strikes me as a very “un-Apple” thing to do. The company that insists that two mouse buttons is too complicated doesn’t strike me as the company that ought to make updating my apps so hard. Actually, apps (optionally) update automatically on Android—I miss that.  <h5>![dinc%5B1%5D.jpg](/assets/2011/dinc%5B1%5D.jpg)A “Back” Button</h5>
+This is something that strikes me as a very “un-Apple” thing to do. The company that insists that two mouse buttons is too complicated doesn’t strike me as the company that ought to make updating my apps so hard. Actually, apps (optionally) update automatically on Android—I miss that.  <h5>![dinc[1].jpg](/assets/2011/dinc[1].jpg)A “Back” Button</h5>
 
 Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../../2010/09/things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
 
@@ -83,7 +83,7 @@ One of the unsung heroes of the Android OS has got to be navigation. Yes, Maps i
 
 It’s fully integrated with Google Voice Actions, too (kind of like iPhone’s Siri) so I would routinely say things like this while driving, “navigate to Target/BestBuy/Dunkin Donuts/Natatorium in Some City” and it just works.
 
-It is beautiful, fast, intuitive, and very effective. (It does kill the phone’s battery, though…)   <h5 style="clear: both;">![go%20home.png](/assets/2011/go%20home.png)Shortcuts</h5>
+It is beautiful, fast, intuitive, and very effective. (It does kill the phone’s battery, though…)   <h5 style="clear: both;">![go home.png](/assets/2011/go home.png)Shortcuts</h5>
 
 Shortcuts are one of the things I bet almost nobody uses, but they are great. You can add shortcuts to you home screen for apps, sure (Android normally keeps apps in a drawer, not on the home screen), but also for common actions like [navigating to a specific address](http://www.howtogeek.com/howto/25707/create-a-%E2%80%9Cgo-home%E2%80%9D-shortcut-for-your-android-phone%E2%80%99s-google-maps-navigation/) (home, work, etc.), calling someone, or playing a song. Having single-tap access to common actions is pretty great.  <h5 style="clear: both;">Conclusion</h5>
 
