@@ -9,14 +9,13 @@ categories:
 title: Moving A Hard Drive with Windows 7 to a New Machine
 ---
 
-
 I just got a shiny new laptop (yay, thanks, Work!). In the old days (with Windows XP), I’d start fresh and clean on the new machine, slowly moving my old files over. That process would take a couple of days and I’d be back to full strength within a week. 
 
 I think Windows 7 is the first Windows OS that ages nicely enough that I don’t have to start from scratch every few years. So instead of spending 18 hours installing stuff, I physically moved my hard drive from my old machine to my new one. Here’s how:
 
-[![image[6].png](/assets/2011/image[6].png)](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html)
+[![transfer.png](/assets/2011/transfer.png)](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html)
 
-**Yes, I really moved my drive from one machine to another *without reinstalling anything *(except drivers). And you can, too! **Don’t listen to the naysayers (but do make backups just in case).
+**Yes,** I really moved my drive from one machine to another *without reinstalling anything* (except drivers). And you can, too! **Don’t** listen to the naysayers (but do make backups just in case).
 
 I followed “Method One” in [that guide](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html) which basically does the following:  
 
@@ -37,12 +36,12 @@ I’m happy to report that I’m typing this post on my awesomely fast new lapto
 
 On a related note, I don’t understand why hardly anyone shares their WEI numbers. Here are my before/after numbers (Dell Latitude D520 vs. E6520) in case anyone is curious:
 
-![image7[1].png](/assets/2011/image7[1].png)
+![d520 wei.png](/assets/2011/d520 wei.png)
 
-![image10[1].png](/assets/2011/image10[1].png)
+![e6520 wei.png](/assets/2011/e6520 wei.png)
 
 And side-by-side:
 
-![image34[1].png](/assets/2011/image34[1].png)
+![side-by-side.png](/assets/2011/side-by-side.png)
 
 I’ll be getting a memory upgrade in a week or so (on order) but I don’t expect that to have much affect on these numbers. I will, however, finally reap some x64 benefits...

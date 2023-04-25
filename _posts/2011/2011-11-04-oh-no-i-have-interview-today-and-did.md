@@ -7,7 +7,6 @@ categories:
 title: Oh no! I have an interview today and did absolutely nothing to prepare!
 ---
 
-
 My company hires a fair bit and involves its engineers in the process. When you interview with us, you’re likely to speak to 5-7 different people for 20-30 minutes each. It’s grueling.
 
 With the experience of interviewing about 60 people under my belt, these are the tips I share with friends and family foolish enough to call me as they drive to their interviews.

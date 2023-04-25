@@ -8,7 +8,6 @@ categories:
 title: 'Birth Story: Thing 3'
 ---
 
-
 Thing 3 was born Wednesday, August 17th at 12:10 pm. He was 7.56 lbs. and 20.5” long. His future will be chronicled mostly on [Wife’s blog](http://footedjammies.blogspot.com/). This post is about the eventful hours leading up to, and immediately following his birth.
 
 This is all from my perspective, and is meant to complement whatever Wife may write about her experience.
