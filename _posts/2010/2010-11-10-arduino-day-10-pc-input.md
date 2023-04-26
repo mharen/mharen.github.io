@@ -20,8 +20,7 @@ I’m starting to lay the groundwork for a larger project that will be driven fr
 ![Sketch_bb[6].png](/assets/2010/Sketch_bb[6].png)  <h4>Schematic</h4>
 
 ![Sketch_schem[6].png](/assets/2010/Sketch_schem[6].png)  <h4>Code</h4>  <h5>C#</h5>
-<blockquote>   
-```cs
+```c
 using System;
 using System.IO.Ports;
 using System.Threading;
@@ -54,7 +53,7 @@ namespace ArduinoDay10
 }
 ```
 
-</blockquote>
+
 
 <h5>Arduino</h5>
 
@@ -116,7 +115,7 @@ void Ding(int light){
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

@@ -38,8 +38,7 @@ Oh yeah, the build:
 Today’s code is very straight forward. It basically just increases the intensity of each color a random amount (0-5 of 255) every 25ms. Once the color exceeds 255, I flip it to –255 so it can start counting to zero. I only write the absolute value to the pin so the effect is an intensity value that ramps up and down.
 
 I was real nice this time and included comments, even though I usually hate comments (duplication at best, lies at worst).
-<blockquote>   
-```cs
+```c
 int RPin = 9;
 int BPin = 10;
 int GPin = 11;
@@ -76,7 +75,7 @@ void loop() {
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

@@ -22,8 +22,7 @@ Why is the applesauce dark red? Good Question. It’s homemade, and the best we 
 The build is identical to the previous few days with a simple analog input added the same way as the CdS cell in [another build](../../2010/11/arduino-day-6-analog-inputs.html) (I used a 10kΩ resistor instead of 470Ω, though).
 
 ![IMAG0782[3].jpg](/assets/2010/IMAG0782[3].jpg)  <h4>Code</h4>
-<blockquote>   
-```cs
+```c
 const int BuzzPin = 5;
 const int BuzzDuration = 50; 
 const int Tones[] = { 1000, 2000, 3000 };
@@ -96,7 +95,7 @@ void Ding(int light){
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

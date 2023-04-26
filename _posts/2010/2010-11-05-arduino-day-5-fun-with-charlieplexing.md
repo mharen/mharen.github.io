@@ -42,8 +42,7 @@ I don’t fully understand how thing thing works but it does. Let Google lead yo
 I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
 
 Today’s changes are in bold:
-<blockquote>   
-```cs
+```c
 int Pins[] = { 2, 3, 4 };
 int Leds[6][2] = 
 {
@@ -241,7 +240,7 @@ void Burn(int highPin, int lowPin){
 }</strong>
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

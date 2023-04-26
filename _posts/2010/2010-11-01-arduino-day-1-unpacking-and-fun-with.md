@@ -71,8 +71,7 @@ Schematic (automatically built from the above image with the amazing [Fritzing](
 ![day one - schema[7].png](/assets/2010/day one - schema[7].png)
 
 Code:
-<blockquote>   
-```cs
+```c
 int Leds[] = {3, 5, 6, 9, 10, 11};
 #define LedCount (sizeof(Leds)/sizeof(int)) //array size  
 
@@ -155,7 +154,7 @@ void DoFlash(){
 }
 ```
 
-</blockquote>
+
 
 
 This isn’t meant to be an example of fantastic code, obviously. ;)

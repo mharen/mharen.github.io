@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 9: Simon(ish) Game'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day-8-reaction-game.html). I think you’ll probably recognize it:  
 
@@ -32,8 +32,7 @@ Special thanks to Wife’s awesome camera for giving me all that sweet, deliciou
 This program follows a typical “game loop” approach where the game is in one of a few states waiting for something to happen at any given time. The only thing close to a trick is how I maintain a sequence of tones. Rather than compute and store a known sequence, I just use the built in random number generator. Since I can seed the generator with whatever I want, I can replay the same sequence over and over again.
 
 It worked out very nicely, actually, and all I have to do to start a new game is reseed the generator to a random value.
-<blockquote>   
-```cs
+```c
 const int BuzzPin = 5;
 const int BuzzDuration = 100; 
 
@@ -173,7 +172,7 @@ void Ding(int light){
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

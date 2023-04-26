@@ -17,7 +17,7 @@ I’ll briefly describe what an Arduino is for those that have no idea what I’
 <blockquote> 
 
 Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. It's intended for artists, designers, hobbyists, and anyone interested in creating interactive objects or environments.
-</blockquote>
+
 
 That is, it’s a little board with circuits and chips and stuff that you can wire things up to. Then, you write programs to control it and neat things happen. Here’s what it looks like:  
 

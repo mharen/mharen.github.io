@@ -36,8 +36,7 @@ Today’s build was very easy. Most of my time was spent working on code and lea
 Today’s code was ultimately very simple...it just took a while to prune it down to the essentials listed below. As I mentioned, Sarah put the list of notes together and helped translate the song’s music into the encoded note, length, and rest values.
 
 I realize I don’t need so many notes but we did a batch job through Excel so I left them all in here for future use.
-<blockquote>   
-```cs
+```c
 // notes adapted from http://www.phy.mtu.edu/~suits/notefreqs.html
 // with some help from Excel and my amazing, super talented wife
 // who is not completely tone deaf like me
@@ -193,7 +192,7 @@ void Buzz(int frequencyHz, int durationMillis){
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

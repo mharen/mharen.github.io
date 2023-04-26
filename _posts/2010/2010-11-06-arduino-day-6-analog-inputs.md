@@ -34,8 +34,7 @@ Since this build was a very minor addition to my previous circuits, I’m only s
 ![Sketch_schem[14].png](/assets/2010/Sketch_schem[14].png)  <h4>Code</h4>
 
 The only changes today were in the Loop() routine:
-<blockquote>   
-```cs
+```c
 void loop() {
   int CdsReading;  
   for(int i = 0; i<x; i++){
@@ -68,7 +67,7 @@ void loop() {
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

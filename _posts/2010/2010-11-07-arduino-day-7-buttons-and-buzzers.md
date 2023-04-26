@@ -28,8 +28,7 @@ Crazy simple circuit today:
 ![Sketch_schem[7].png](/assets/2010/Sketch_schem[7].png)  <h4>Code</h4>
 
 Today’s coding was a very simple selection from previous exercises, so this should look familiar:
-<blockquote>   
-```cs
+```c
 #define c2 654
 #define c3 1308
 
@@ -74,7 +73,7 @@ void Buzz(int frequencyHz, int durationMillis){
 }
 ```
 
-</blockquote>
+
 
 <h4>Next Steps</h4>
 

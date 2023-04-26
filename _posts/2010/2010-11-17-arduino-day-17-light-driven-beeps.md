@@ -9,7 +9,19 @@ categories:
 title: 'Arduino Day 17: Light Driven Beeps'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of a series on my adventures with Arduino
+
+{% 
+    assign arduinoPosts = site.posts 
+    | sort:"date" 
+    | where_exp: "item", "item.categories contains '30 days of arduino'" 
+%}
+<ul>
+{% for item in arduinoPosts %}
+  <li><a class="u-url" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+
 
 Today’s build was a fun one for Thing 1. It’s basically just two CdS light sensors tied to a set of LEDs and a buzzer. If you cover either of the sensors (or both), a different tone plays and an LED lights. Like so:  
 
@@ -20,8 +32,7 @@ Today’s build was a fun one for Thing 1. It’s basically just two CdS light s
 ![IMAG0803[5].jpg](/assets/2010/IMAG0803[5].jpg)</a>  <h4>Code</h4>
 
 There’s nothing too fancy going on here. The only real trick (if you can call it that) is to read in the ambient analog values at startup so you can compare against them later. This is much more effective than hard-coding a threshold.
-<blockquote>   
-```cs
+```c
 const int BuzzPin = 5;
 const int BuzzDuration = 50; 
 const int Tones[] = { 800, 1000, 1200 };
@@ -105,4 +116,3 @@ void Ding(int light){
   }  
 }
 ```
-</blockquote>

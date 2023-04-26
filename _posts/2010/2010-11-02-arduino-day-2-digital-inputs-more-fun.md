@@ -40,8 +40,7 @@ Build:
 <span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">![day two - schema[7].png](/assets/2010/day two - schema[7].png)</span>
 
 <span class="Apple-style-span" style="line-height: 18px; font-family: 'Trebuchet MS', trebuchet, sans-serif; font-size: 13px;">Code:</span>
-<blockquote>   
-```cs
+```c
 int SwitchPin0 = 2;
 int SwitchPin1 = 4;
 int Leds[] = {3, 5, 6, 9, 10, 11};
@@ -113,7 +112,7 @@ void DoFlash(){
 }
 ```
 
-</blockquote>
+
 
 
 Next plans
