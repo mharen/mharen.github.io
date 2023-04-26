@@ -25,6 +25,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:year/:month/:title.html"
+category_path: tag
 
 twitter_username: mharen
 mastadon_username: "@mharen@hachyderm.io"
@@ -34,6 +35,8 @@ github_username:  mharen
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-category-pages
+
 
 
 # Exclude from processing.
