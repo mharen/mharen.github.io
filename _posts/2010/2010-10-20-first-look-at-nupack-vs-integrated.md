@@ -7,7 +7,10 @@ title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 
 <h4>Installation</h4>
 
-Couldn’t be easier:     * ![image2.png](/assets/2010/image2.png)[<u><font color="#0066cc">http://nupack.codeplex.com/</font></u>](http://nupack.codeplex.com/)     * Download     * Go  
+Couldn’t be easier: 
+* ![image2.png](/assets/2010/image2.png)[<u><font color="#0066cc">http://nupack.codeplex.com/</font></u>](http://nupack.codeplex.com/) 
+* Download 
+* Go  
   <h4>First Run</h4>
 
 Fire up Visual Studio 2010 and open the Package Manager Console under View > Other Windows > Package Manager Console (or press C-W, C-Z):

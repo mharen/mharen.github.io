@@ -21,7 +21,7 @@ Here’s the finished project:
 
 
 
-I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris" target="_blank). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar" target="_blank) type of humor probably more your style.  <h4>Build</h4>
+I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris"). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar") type of humor probably more your style.  <h4>Build</h4>
 
 ![Sketch_schem[7].png](/assets/2010/Sketch_schem[7].png) <h4>Code</h4>
 ```cs

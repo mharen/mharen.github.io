@@ -32,27 +32,27 @@ Dive into ASP.NET MVC and it won’t be long before you do this in a master page
 This of course includes a couple global files—one for styles and one for scripts. Here’s the rub: it doesn’t work at all. It’ll seem like it works at first, because you’ll have nice styles and some of your scripts might even work, but it will be a short-lived experience.
 
 
-Unfortunately something funny is going on here. Those URLs are not valid—they’re more than relative (relative URLs are fine), they’re relative from an application root, denoted by the tilde (<code>~</code>). That tilde means nothing to the browser. 
+Unfortunately something funny is going on here. Those URLs are not valid—they’re more than relative (relative URLs are fine), they’re relative from an application root, denoted by the tilde (`~`). That tilde means nothing to the browser. 
 
 
-Now the funny business is that ASP.NET will rewrite the link tag *automatically* to include the correct relative URL by replacing the “<code>~</code>” with the appropriate path. It *does not *do that with script tags. So you try to be clever and use a web-friendly relative URL syntax like this:
+Now the funny business is that ASP.NET will rewrite the link tag *automatically* to include the correct relative URL by replacing the “`~`” with the appropriate path. It *does not *do that with script tags. So you try to be clever and use a web-friendly relative URL syntax like this:
 
 
 ```cs
     <script type="text/javascript" src="../../Scripts/all-src.min.js"></script>
 ```
  
-Sorry, that doesn’t cut it. The “<code>../../</code>” will only work properly if the content page (which uses the master page) is nested 2-levels deep, which is not likely to be true very often.
+Sorry, that doesn’t cut it. The “`../../`” will only work properly if the content page (which uses the master page) is nested 2-levels deep, which is not likely to be true very often.
 
 
-The trick is to call into <code>Url.Content</code> or <code>Url.Content</code> like so:
+The trick is to call into `Url.Content` or `Url.Content` like so:
 
 
 ```cs
     <script type="text/javascript" src="<%=**Url.Content**("~/Scripts/all-src.min.js")%>"></script>
 ```
  
-This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between [<code>Url.Content</code>](http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&changeSetId=23011#266520) and [<code>Url.Content</code>](http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx)? <code>ResolveUrl</code> has been around *forever* as part of <code>Url.Content</code>. On the other hand, <code>Url.Content</code> is relatively new and ships as part of <code>Url.Content</code>. Aside from that, I have no idea—if you do, [please share](http://stackoverflow.com/questions/2418050).
+This extra step will give me a nice URL, regardless of the page’s depth in my tree. So what’s the difference between [`Url.Content`](http://aspnet.codeplex.com/sourcecontrol/network/Show?projectName=aspnet&changeSetId=23011#266520) and [`Url.Content`](http://msdn.microsoft.com/en-us/library/system.web.ui.control.resolveurl.aspx)? `ResolveUrl` has been around *forever* as part of `Url.Content`. On the other hand, `Url.Content` is relatively new and ships as part of `Url.Content`. Aside from that, I have no idea—if you do, [please share](http://stackoverflow.com/questions/2418050).
 
 
-Note: these commands work pretty much everywhere—<code>imgs</code>, <code>Url.Content</code>, etc.
+Note: these commands work pretty much everywhere—`imgs`, `Url.Content`, etc.

@@ -7,87 +7,42 @@ categories:
 title: How Do I Print [this web page]!?
 ---
 
-<div class="dialog">
-<div>
-<h2>
-TL;DR:</h2>
-</div>
-<div>
-Press "<code>ctrl-p</code>" (in every browser ever made).
-</div>
-<div>
-<h2>
-But But But...</h2>
-</div>
-<div>
-Where's my "print" link? Print links are about a million years old in Internet years. 
- They were needed back in the day when technology couldn't easily produce 
- "printer-friendly versions" of pages without doing server-side voodoo magic. 
- Things have been different&nbsp;*for years*, though, and separate print 
- pages are no longer necessary.&nbsp;
-</div>
-<div>
-<h2>
-But I still want one!</h2>
-</div>
-<div>
+### TL;DR:
+
+Press `ctrl-p` (in every browser ever made).
+
+### But But But...
+
+Where's my "print" link? Print links are about a million years old in Internet years. They were needed back in the day when technology couldn't easily produce "printer-friendly versions" of pages without doing server-side voodoo magic. Things have been different *for years*, though, and separate print pages are no longer necessary. 
+
+### But I still want one!
+
 No.
-</div>
-<div>
-<h2>
-But this other, cooler site has one!</h2>
-</div>
-<div>
-Odds are, their "print" button just calls "window.print()" which is 
- just short hand code for, "you're an idiot and shouldn't be trusted 
- with electricity".
-</div>
-<div>
+
+### But this other, cooler site has one!
+
+Odds are, their "print" button just calls "window.print()" which is just short hand code for, "you're an idiot and shouldn't be trusted with electricity".
+
 Hey, don't get upset with me, I'm just translating.
-</div>
-<div>
-<h2>
-Alternate Methods</h2>
-</div>
-<div>
-<h3>
-Internet Explorer</h3>
-</div>
-<div>
+
+### Alternate Methods
+
+#### Internet Explorer
+
 ![ie-file-print.png](/assets/2011/ie-file-print.png)
-</div>
-<div>
+
 or
-</div>
-<div>
+
 ![ie-right-click.png](/assets/2011/ie-right-click.png)
-</div>
-<div>
-<h3>
-Chrome:</h3>
-</div>
-<div>
+
+#### Chrome:
+
 ![chrome-file-print.png](/assets/2011/chrome-file-print.png)
-</div>
-<div>
-or</div>
-<div>
+
+or
+
 ![chrome-right-click.png](/assets/2011/chrome-right-click.png)
-</div>
-<div>
-<h3>
-Firefox</h3>
-</div>
-<div>
+
+#### Firefox
+
 ![firefox-file-print.png](/assets/2011/firefox-file-print.png)
-</div>
-</div>
-
----
-
-### 1 comment
-
-**Michael Haren said on 2011-03-24**
-
-Yes, this has come up often enough lately that I felt compelled to write a page about it, and buy a [domain to redirect here](http://www.howdoiprint.com" rel="nofollow).
-

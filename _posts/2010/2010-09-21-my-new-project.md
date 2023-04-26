@@ -7,6 +7,14 @@ categories:
 title: My New Project
 ---
 
+1. My New Project (you are here)
+2. [My New Project: Initial Mockups](../../2010/09/my-new-project-initial-mockups)
+3. [My New Project Update: Name and Sitemap](../../2010/10/project-update-name-and-sitemap)
+4. [Project Noodle: Initial Database Design](../../2010/10/project-noodle-initial-database-design)
+5. [Code Isn't Always the Best Tool](../../2011/03/code-isnt-always-best-tool)
+6. [Project Noodle: Terminated](../../2011/03/project-noodle-terminated)
+
+***
 
 I’m kicking off a new project today and am taking you along for the ride. While the subject matter could hardly be less interesting (as you’ll soon find), I hope the process to be worthwhile. Stick with me to the end for your assignment and an opportunity to win fabulously small, worthless prizes.  <h4>The Project</h4>
 

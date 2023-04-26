@@ -9,9 +9,9 @@ title: Automating Minitab with C#
 ---
 
 
-My job takes me a lot of different places and I work with a lot of different technologies along the way. Recently my team and I were tasked with a sort of [ETL](http://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank)/reporting project involving some bizarrely formatted flat files, an Oracle database, and a couple Minitab macros. It was actually very straight forward except for one piece: automating Minitab.
+My job takes me a lot of different places and I work with a lot of different technologies along the way. Recently my team and I were tasked with a sort of [ETL](http://en.wikipedia.org/wiki/Extract,_transform,_load")/reporting project involving some bizarrely formatted flat files, an Oracle database, and a couple Minitab macros. It was actually very straight forward except for one piece: automating Minitab.
 
-I’m sharing the core piece of our development below in hopes that this will save a future dev some grief. I know that this looks very simple, and it is. Getting down to these few lines was not, I assure you, easy. A shout out to [@xover9000](http://www.twitter.com/xover9000" target="_blank) for doing pretty much all of this:
+I’m sharing the core piece of our development below in hopes that this will save a future dev some grief. I know that this looks very simple, and it is. Getting down to these few lines was not, I assure you, easy. A shout out to [@xover9000](http://www.twitter.com/xover9000") for doing pretty much all of this:
 <blockquote>   
 ```cs
 // the basic pieces

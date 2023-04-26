@@ -14,7 +14,7 @@ Our latest family addition arrived last night at 9:30 pm. Sarah did an amazing j
 
 Sarah delivered at home in a tub with the help of our awesome midwife Pam and friend Sierra (also Awesome). I’ll leave it to Sarah to elaborate as desired on the birth experience. Thanks to all for your support!  
 
-[![IMG_5250-1_thumb[6].jpg](/assets/2009/IMG_5250-1_thumb[6].jpg)](http://lh5.ggpht.com/_IKD9WtY5kxU/Sk6UmHbak1I/AAAAAAAAAOY/ANELFuIgOVg/s1600-h/IMG_5252-1[28].jpg" target="_blank)
+[![IMG_5250-1_thumb[6].jpg](/assets/2009/IMG_5250-1_thumb[6].jpg)](http://lh5.ggpht.com/_IKD9WtY5kxU/Sk6UmHbak1I/AAAAAAAAAOY/ANELFuIgOVg/s1600-h/IMG_5252-1[28].jpg")
 
 ---
 

@@ -79,7 +79,7 @@ input.search-box { padding-right:20px; }
 Clean and simple. 
 
 
-It has one minor drawback in that it doesn't support CSS sprites. If you want that, you'll need to use one of the <code>background-image</code> tricks at the [link](http://stackoverflow.com/q/195632/29) I mentioned earlier.
+It has one minor drawback in that it doesn't support CSS sprites. If you want that, you'll need to use one of the `background-image` tricks at the [link](http://stackoverflow.com/q/195632/29) I mentioned earlier.
 
 
 Of course once Google's Instant Search sweeps the web this will all be a cow's opinion: moo.

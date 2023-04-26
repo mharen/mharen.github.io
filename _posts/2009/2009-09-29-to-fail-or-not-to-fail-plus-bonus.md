@@ -79,7 +79,11 @@ On to more serious matters: getting busy. Here’s family prevention section at 
 
 ![200909051417_137[4].jpg](/assets/2009/200909051417_137[4].jpg)</a>
 
-A few observations:     * The top two shelves are only necessary if something from a lower self has let you down or wasn’t in use    * A purchase from the lower shelves is probably always done with a smile (thus the cool product names)    * Purchases from the top shelves, however, are undoubtedly nervous buys (even if you’re *trying *to become pregnant), and thus the professional product names (peeing on a stick never looked so...idk)    * This could be a nice (i.e. hilarious) way to bring up the pregnancy topic with your significant other. Simply peruse the aisle and instead of reaching in for some family prevention, pick up some family detection 
+A few observations: 
+* The top two shelves are only necessary if something from a lower self has let you down or wasn’t in use
+* A purchase from the lower shelves is probably always done with a smile (thus the cool product names)
+* Purchases from the top shelves, however, are undoubtedly nervous buys (even if you’re *trying *to become pregnant), and thus the professional product names (peeing on a stick never looked so...idk)
+* This could be a nice (i.e. hilarious) way to bring up the pregnancy topic with your significant other. Simply peruse the aisle and instead of reaching in for some family prevention, pick up some family detection 
 
 
 Anyone remember Microsoft Bob? Here’s a kid’s version available today:

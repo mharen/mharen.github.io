@@ -5,7 +5,7 @@ categories: family
 title: Funny Shirts, Baby Stuff
 ---
 
-Don't be too surprised if you see Michael wearing [this ](http://images.cafepress.com/product/64018299v4_240x240_Front.jpg" target="_blank)shirt in the not too distant future.  Maybe I'll get brave and wear [this ](http://www.cafepress.com/buy/pregnancy/-/pv_design_details/pg_3/id_11805952/opt_/fpt_/c_360/" target="_blank)one...who knows...pregnancy does strange things to you :)
+Don't be too surprised if you see Michael wearing [this ](http://images.cafepress.com/product/64018299v4_240x240_Front.jpg")shirt in the not too distant future.  Maybe I'll get brave and wear [this ](http://www.cafepress.com/buy/pregnancy/-/pv_design_details/pg_3/id_11805952/opt_/fpt_/c_360/")one...who knows...pregnancy does strange things to you :)
 
 This site has some pretty great shirts...I have a feeling Peanut's wardrobe may include some of them.
 

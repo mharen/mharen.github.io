@@ -5,9 +5,8 @@ categories:
 - around town
 - work
 - random updates
-title: "How Not to Cross the Border, Or \u201CPlease Proceed to Immigration\u201D"
+title: How Not to Cross the Border, Or "Please Proceed to Immigration"
 ---
-
 
 I travel a fair bit for my job and it occasionally takes me up north to America Junior. I’ve been to Ontario dozens of times and before Sunday never once been hassled for more than five minutes. I carefully go through the motions of avoiding the dangerous “w” word and normally cruise right through.
 
@@ -15,7 +14,7 @@ Before Sunday, I’ve been redirected to immigration twice. The first time, a ve
 
 The second time I just answered a few questions and was on my way.
 
-[![348516764_f4eb021893_b[4].jpg](/assets/2011/348516764_f4eb021893_b[4].jpg)](http://www.flickr.com/photos/thomashawk/5366984244/)
+[![348516764_f4eb021893_b.jpg](/assets/2011/348516764_f4eb021893_b.jpg)](http://www.flickr.com/photos/thomashawk/5366984244/)
 
 Sunday was a different story. I was making fantastic time when I crossed the Ambassador bridge. The booth agent didn’t much care for my song and dance around the “w” word and sent me to immigration. The guy there wasn’t too happy to see me either. He asked for my documentation—letter of attestation, college diploma, resume and customer contract—and was disappointed that I wasn’t sure what he was talking about and couldn’t provide any of it. 
 
@@ -23,30 +22,31 @@ I admitted that I had no idea what to do as I’d never provided anything before
 
 This was at 10pm on Sunday so that wasn’t going to happen (also, that was impossible—I’m awesome at what I do but not 100% unique, even in Canada). I asked if I was being turned away or if I could figure something out. He replied, “I’m legally required to give you a chance to produce documentation before I turn you away.” **Challenge accepted.**
 
-I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents:     * customer contract from my company’s VPN    * my college diploma from Dropbox ([referral](http://db.tt/BqdZp7x)!)    * my resume from [Stackoverflow Careers](http://careers.stackoverflow.com/haren) 
+I grabbed my laptop and tethered it to the crappiest, weakest, most pathetic signal my phone as ever intermittently clung to. I then impressed myself by leveraging my scan-and-organize-everything compulsion by obtaining the following documents: 
 
+* customer contract from my company’s VPN
+* my college diploma from Dropbox
+* my resume from Stackoverflow Careers
 
 I also wrote a letter of attestation according to the NAFTA documents the agent gave me. Yeah, NAFTA, as in the treaty. I asked the guy if I could write this letter myself, seeing as how no one would be present at my office. He was surprised and said no one had ever done it themselves on the spot before. He couldn’t see why not so that’s what I did. 
 
 NAFTA explained that as a professional, I could enter the country as a business visitor without proving that I’m 100% unique. It was weird writing a letter by, about, and for myself. Considering my battery had started to flash when I started, I think I did pretty good:
-<blockquote> 
 
-(downloaded letterhead)     
-
-Michael Haren  
-
-March 13, 2011  
-
-Dear Canada,  
-
-This letter serves to identify Michael Haren as a senior engineer at The Rovisys Company. Michael is working closely with (redacted) for a project of international scope, based in (redacted), United States. His brief presence is required in meetings with (redacted) IT department to support this effort.  
-
-As proof of his professional status, I have attached his diploma and resume. As further evidence, he has been employed by Rovisys for more than five years.  
-
-Thank you,     
-
-Michael Haren
-</blockquote>
+> (downloaded letterhead)     
+> 
+> Michael Haren  
+> 
+> March 13, 2011  
+> 
+> Dear Canada,  
+> 
+> This letter serves to identify Michael Haren as a senior engineer at The Rovisys Company. Michael is working closely with (redacted) for a project of international scope, based in (redacted), United States. His brief presence is required in meetings with (redacted) IT department to support this effort.  
+> 
+> As proof of his professional status, I have attached his diploma and resume. As further evidence, he has been employed by Rovisys for more than five years.  
+> 
+> Thank you,     
+> 
+> Michael Haren
 
 I ran into a problem. I had gathered everything I needed but not in hard copy. As my lappy was dying I desperately tried to use an internet fax tool to deliver everything to them but I was really struggling with my podunk connection. In the last few moments, I transferred all the files to my phone and from there sent the files to Wife as a backup. 
 
@@ -66,11 +66,15 @@ Apparently she didn’t realize I had just gathered/written them minutes before.
 
 [![Ambassador.jpg](/assets/2011/Ambassador.jpg)](http://www.metroscap.com/detroit/533/the-ambassador-bridge.php)
 
-Oh that’s weird, I thought. Then, quite suddenly, I realized this meant **I was headed back into the United States **and shouted a four letter word. I had a decision to make. I could go through customs two more times (and pay the bridge toll twice again, too), or do something very dumb. **I was tired and irritable so I did the latter. **
+Oh that’s weird, I thought. Then, quite suddenly, I realized this meant **I was headed back into the United States** and shouted a four letter word. I had a decision to make. I could go through customs two more times (and pay the bridge toll twice again, too), or do something very dumb. **I was tired and irritable so I did the latter.**
 
 I pulled a u-ey on the bridge. Even in my tiny car it was a three-point turn but I was quick and there wasn’t any traffic. I pulled up to the Canada-booth again and whimpered, “you’re not going to believe this but I was just cleared through immigration and I made a wrong turn.” He glanced at his computer and waved me through (phew!). I quickly got onto the highway (the right one) and eventually arrived (very late) to my hotel.
 
-Morals of this story:      * Don’t go to Canada    * If you must, print out your documents first    * The internet is awesome, as is my phone (DINC) for connecting me to it 
+Morals of this story:  
+
+* Don’t go to Canada
+* If you must, print out your documents first
+* The internet is awesome, as is my phone (DINC) for connecting me to it 
 
 
 ---
@@ -84,4 +88,3 @@ Too bad we didn't go with you ~ the border patrolman wouldn't have been able to 
 **Mary said on 2011-03-24**
 
 hilarious :-)
-

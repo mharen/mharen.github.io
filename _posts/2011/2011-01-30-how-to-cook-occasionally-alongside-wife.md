@@ -34,8 +34,8 @@ This is the completely overkill part that I’m most proud of. By making a timel
 
 Suppose we’re having steak and baked potatoes. This is a cake walk for most people but here’s what I actually did last time I made this meal:  
 
-1. Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx" target="_blank)
-2. Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/" target="_blank)
+1. Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx")
+2. Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/")
 3. Make sure we have everything. Check!
 4. Make a timeline like this (working backwards from Go Time): ![image[5].png](/assets/2011/image[5].png)</li>    
 5. Execute timeline

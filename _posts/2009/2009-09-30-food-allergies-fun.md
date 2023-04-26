@@ -8,10 +8,16 @@ title: Food Allergies != Fun
 
 Sarah and I grew up without allergies and in allergy-free homes with allergy-free extended families and mostly allergy-free friends. That’s why it’s so strange to us that Maya has unpleasant sensitivities to so many different foods. 
 
-The confirmed list of banned foods includes:     * Tomatoes    * Pineapple    * Blueberries    * Dairy 
+The confirmed list of banned foods includes: 
+* Tomatoes
+* Pineapple
+* Blueberries
+* Dairy 
 
 
-And some recent probable foods:     * Soy    * Corn 
+And some recent probable foods: 
+* Soy
+* Corn 
 
 
 In case you haven’t checked a food label recently, that means she can’t eat anything. No cheese, ice cream, ketchup, fruit salad, anything sweetened with corn syrup (e.g. almost everything), anything with soybeans or soybean oil (everything else), or anything with butter in it.

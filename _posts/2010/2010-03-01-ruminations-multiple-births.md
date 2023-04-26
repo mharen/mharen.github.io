@@ -13,7 +13,8 @@ title: 'Ruminations: Multiple Births; Congratulations'
 
 I am afraid if I ever have twins or triplets that I would try to carry too many at one time and drop one, both, all, etc. Oops!
 
-And that's my segway into my congratulations to B+T on their new double-dose of parenthood. Here's a list of things to keep you occupied during your downtime (infants are boring):     * N/A  
+And that's my segway into my congratulations to B+T on their new double-dose of parenthood. Here's a list of things to keep you occupied during your downtime (infants are boring): 
+* N/A  
 
 
 ...you won't be having any of that. Sorry. Now let's [extrapolate your family](http://xkcd.com/605/):

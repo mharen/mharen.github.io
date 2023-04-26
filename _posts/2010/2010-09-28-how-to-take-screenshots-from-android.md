@@ -8,7 +8,8 @@ title: How to Take Screenshots from an Android Phone
 ---
 
 
-![screenshot_2[4].png](/assets/2010/screenshot_2[4].png)</li>    * Shake your phone </ol>
+![screenshot_2[4].png](/assets/2010/screenshot_2[4].png)</li>
+* Shake your phone </ol>
 
 Pretty handy!
 

@@ -45,7 +45,11 @@ This is something that strikes me as a very “un-Apple” thing to do. The comp
 
 Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../../2010/09/things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
 
-The comparable experience on iPhone is less than ideal. It goes like this:     * While looking at some content, click a link or a notification     * Something else opens, do whatever you want with it     * To return to what you were doing before clicking the link or the notification:     * Double-tap the home button and tap the app you *were *using  
+The comparable experience on iPhone is less than ideal. It goes like this: 
+* While looking at some content, click a link or a notification 
+* Something else opens, do whatever you want with it 
+* To return to what you were doing before clicking the link or the notification: 
+* Double-tap the home button and tap the app you *were *using  
 
 It’s not a huge deal, but it’s three taps and a tiny bit of extra mental energy to do something that’s just one brainless tap on Android. I can’t imagine how annoying this must have been on iPhone before the multitasking stuff was released.  
 

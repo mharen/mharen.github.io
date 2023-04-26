@@ -19,24 +19,32 @@ I don’t much like these so I came up with something similar that works well fo
 ```cs
 <body>
   <ul id='list1'>
-    * Item 1 <img class='icon move' src='blank.png'/>
-    * Item 2 <img class='icon move' src='blank.png'/>
-    * Item 3 <img class='icon move' src='blank.png'/>
-    * Item 4 <img class='icon move' src='blank.png'/>
+
+* Item 1 <img class='icon move' src='blank.png'/>
+
+* Item 2 <img class='icon move' src='blank.png'/>
+
+* Item 3 <img class='icon move' src='blank.png'/>
+
+* Item 4 <img class='icon move' src='blank.png'/>
   
 
   <ul id='list2'>
-    * Item 5 <img class='icon move' src='blank.png'/>
-    * Item 6 <img class='icon move' src='blank.png'/>
-    * Item 7 <img class='icon move' src='blank.png'/>
-    * Item 8 <img class='icon move' src='blank.png'/>
+
+* Item 5 <img class='icon move' src='blank.png'/>
+
+* Item 6 <img class='icon move' src='blank.png'/>
+
+* Item 7 <img class='icon move' src='blank.png'/>
+
+* Item 8 <img class='icon move' src='blank.png'/>
   
 
   </body>
 </html>​
 ```
  
-What I want to do is have each <code>li</code> hop to the opposing list when its move button is clicked. It’s very simple with jQuery’s live event binding ([demo](http://jsbin.com/ucoqi/1), [source](http://jsbin.com/ucoqi/1/edit)):
+What I want to do is have each `li` hop to the opposing list when its move button is clicked. It’s very simple with jQuery’s live event binding ([demo](http://jsbin.com/ucoqi/1), [source](http://jsbin.com/ucoqi/1/edit)):
 
 
 ```cs
@@ -54,7 +62,7 @@ What I want to do is have each <code>li</code> hop to the opposing list when its
 
 
 
-These events aren’t bound to the items themselves. Rather they sit higher up the DOM and, through some event delegation magic, are handled by any <code>li</code> matching the selector (including elements appended in the future). So when an <code>li</code>’s <code>move</code> icon is clicked, the event handler walks up the DOM until it finds the <code>li</code> element, and moves it to the other list via a call to <code>appendTo()</code>. This technique can be combined with [jQuery UI’s sortable component](http://jqueryui.com/demos/sortable/), too, for drag/drop and reorder support, too.
+These events aren’t bound to the items themselves. Rather they sit higher up the DOM and, through some event delegation magic, are handled by any `li` matching the selector (including elements appended in the future). So when an `li`’s `move` icon is clicked, the event handler walks up the DOM until it finds the `li` element, and moves it to the other list via a call to `appendTo()`. This technique can be combined with [jQuery UI’s sortable component](http://jqueryui.com/demos/sortable/), too, for drag/drop and reorder support, too.
 
 
 It’s also really easy to add animation ([demo](http://jsbin.com/ucoqi/3), [source](http://jsbin.com/ucoqi/3/edit)):
@@ -95,7 +103,7 @@ Now we’re getting to the point where some refactoring might be appropriate ([d
   });
 ```
  
-It’s not really any less code, but we’ve moved the messy animation pieces out into a chainable function. I could have moved the <code>.closest()</code> pieces into the function, too, but that would make the <code>pushTo()</code> method a little too specific to this task for my taste. Since we have the animation isolated to one line, we can easily change it to slide the items in and out ([demo](http://jsbin.com/ucoqi/7), [source](http://jsbin.com/ucoqi/7/edit)):
+It’s not really any less code, but we’ve moved the messy animation pieces out into a chainable function. I could have moved the `.closest()` pieces into the function, too, but that would make the `pushTo()` method a little too specific to this task for my taste. Since we have the animation isolated to one line, we can easily change it to slide the items in and out ([demo](http://jsbin.com/ucoqi/7), [source](http://jsbin.com/ucoqi/7/edit)):
 
 
 ```cs

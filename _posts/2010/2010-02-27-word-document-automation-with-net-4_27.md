@@ -87,9 +87,11 @@ private static void UpdateAllFields(Document document)
 To use this, add the following references to your project:
 
     
-      * Microsoft.Office.Interop.Word, v12
+  
+* Microsoft.Office.Interop.Word, v12
 
-      * Office, v12
+  
+* Office, v12
     
 
   </span></span>

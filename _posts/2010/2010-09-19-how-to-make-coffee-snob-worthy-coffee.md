@@ -22,7 +22,10 @@ Notably absent from my reasons is caffeine. That difficult to spell compound has
 
 First off, you need good coffee. Coffee has a limited shelf life so don’t buy too much. Check the label carefully for the words “Folgers” and “Maxwell House”—these are indications of poor quality coffee. Buy it in a bag, too, not a can. For true connoisseurs, read up on [Alton Brown’s advice](http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html) and try to catch his *Good Eats* on the topic. I think most of his thoughts are pretty extreme, though, so I’ll present a much simplified version. 
 
-Here’s what you’ll need:     * a coffee maker and filters – nothing fancy; I use a simple $15 Mr. Coffee drip machine     * coffee – again, nothing too fancy; I like pretty much any mild/medium roast and usually pay $6-8 per 12oz bag     * kitchen scale – something with good precision (grams or hundredths of an ounce)  
+Here’s what you’ll need: 
+* a coffee maker and filters – nothing fancy; I use a simple $15 Mr. Coffee drip machine 
+* coffee – again, nothing too fancy; I like pretty much any mild/medium roast and usually pay $6-8 per 12oz bag 
+* kitchen scale – something with good precision (grams or hundredths of an ounce)  
 
 
 I’m the only coffee drinker in the house so any numbers I toss out below are for one person; adjust yours accordingly.  <h4>Your First Pot</h4>

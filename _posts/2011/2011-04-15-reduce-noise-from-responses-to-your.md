@@ -7,10 +7,9 @@ categories:
 title: Reduce Noise from Responses To Your Outlook Meeting Requests
 ---
 
-
 I give tech talks to my company’s developers about every other month and each time I send out a meeting request to a large group of people. The few days that follow my meeting request are filled with uninteresting responses—RSVPs from those that can/cannot attend. Like this:
 
-![image[5].png](/assets/2011/image[5].png)
+![](/assets/2011/2011-04-15-5.png)
 
 Of course I could mark the request as “no response requested” but I really do need to know how many people are planning to attend so I can have enough space/food available.
 
@@ -18,11 +17,14 @@ There’s a setting in Outlook to automatically process meeting requests and suc
 
 Here’s what I came up with instead:
 
-![image[2].png](/assets/2011/image[2].png)
+![](/assets/2011/2011-04-15-2.png)
 
 This is a mail rule catches messages that look like meeting request responses and moves them directly to my archive *unless *they contain any text in the body. This has been working quite well for months as any boilerplate reply goes straight to my archive while anything with a custom response still shows up in my inbox.
 
-This could almost certainly be improved, e.g.:     * There’s probably a built-in way of detecting meeting responses besides searching the subject    * There’s probably a built-in way of detecting if the user has edited the response besides checking the body for any vowel    * There’s possibly a built-in way to do this whole thing, hiding as an elusive checkbox eight layers deep in the options somewhere 
+This could almost certainly be improved, e.g.: 
 
+* There’s probably a built-in way of detecting meeting responses besides searching the subject
+* There’s probably a built-in way of detecting if the user has edited the response besides checking the body for any vowel
+* There’s possibly a built-in way to do this whole thing, hiding as an elusive checkbox eight layers deep in the options somewhere 
 
 I couldn’t find solutions to those in the five minutes I spent making this hack. If you have a better way of doing this, please share in the comments!

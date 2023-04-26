@@ -22,7 +22,7 @@ Everybody likes peanut butter. Plus, those that are allergic to it can just re-g
 
 The key to this one is to work on your “surprise face”. When your gift recipient opens the box, you need to act as confused and stunned as they are. Ask what they expected the gift to be and then just tell them that’s what it was until your alligator (allegedly) stole it. This idea works even better if you mail your gifts.
 
-Depending on your relationship to the recipient, this gift has [other variations](http://www.youtube.com/watch?v=WhwbxEfy7fg" target="_blank).  <h4>4. Old College Textbook</h4>
+Depending on your relationship to the recipient, this gift has [other variations](http://www.youtube.com/watch?v=WhwbxEfy7fg").  <h4>4. Old College Textbook</h4>
 
 ![IMG_20101214_163951[4].jpg](/assets/2010/IMG_20101214_163951[4].jpg)
 
@@ -48,7 +48,7 @@ Go green this year by reusing your “vintage” playing cards as gifts! No need
 
 ![IMG_20101213_200120[4].jpg](/assets/2010/IMG_20101213_200120[4].jpg)
 
-[Recent research](http://www.livescience.com/health/imagining-food-to-eat-less-101209.html" target="_blank) has discovered that simply imagining the act of eating helps you eat less. Get ready for a big “thank you” from your gift recipient after you explain as they open their beautifully illustrated card.  <h4>10.</h4>
+[Recent research](http://www.livescience.com/health/imagining-food-to-eat-less-101209.html") has discovered that simply imagining the act of eating helps you eat less. Get ready for a big “thank you” from your gift recipient after you explain as they open their beautifully illustrated card.  <h4>10.</h4>
 
 I’m out of ideas.
 

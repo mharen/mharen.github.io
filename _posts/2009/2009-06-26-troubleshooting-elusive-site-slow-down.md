@@ -8,7 +8,12 @@ title: Troubleshooting an Elusive Site Slow Down
 ---
 
 
-What follows is a long chronological account of a recent problem I ran into at work and how I diagnosed it (but have yet to solve!). I’m posting it here for many reasons:     * to offer some insight into the mind of an engineer as a problem is dissected and diagnosed     * to reiterate the importance of the fundamentals of problem solving     * to show that [everybody lies](http://everybody-lies.info/) (even us, to ourselves) and it really does get in the way of problem solving     * to show that supporting legacy browsers is a major pain     * as a reminder to my future self how to do some of the things documented herein  
+What follows is a long chronological account of a recent problem I ran into at work and how I diagnosed it (but have yet to solve!). I’m posting it here for many reasons: 
+* to offer some insight into the mind of an engineer as a problem is dissected and diagnosed 
+* to reiterate the importance of the fundamentals of problem solving 
+* to show that [everybody lies](http://everybody-lies.info/) (even us, to ourselves) and it really does get in the way of problem solving 
+* to show that supporting legacy browsers is a major pain 
+* as a reminder to my future self how to do some of the things documented herein  
 
 
 Now onto the story.  

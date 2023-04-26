@@ -7,56 +7,44 @@ categories:
 title: "Recovering from SQL Server Error: \u201CSyntax Error in TextHeader\u201D"
 ---
 
-
 After years of working with SQL Server, I thought I’d seen it all. Here’s a humbling reminder that I haven’t:
 
-![image[5].png](/assets/2011/image[5].png)
+![sql-error-text-header.png](/assets/2011/sql-error-text-header.png)
 
-This occurred when I tried to script out a stored procedure so I could change it. Not a good sign. Fortunately I can fallback to good old <code>sp_helptext</code> to recover the procedure:
-<blockquote>   
-```cs
+This occurred when I tried to script out a stored procedure so I could change it. Not a good sign. Fortunately I can fallback to good old `sp_helptext` to recover the procedure:
+   
+```sql
 sp_helptext 'procname'
 -- Results in the procedure’s code
 ```
 
-</blockquote>
-
-
 Nifty, right? But **why did this happen**? It seems SQL Server Management Studio or whatever it uses to script out objects objects to nested comments in the script header. This is what I had, which is a no-no:
-
-<blockquote>
   
-```cs
+```sql
 /*  example execution:
 EXEC procName
-  @intParm1=3 **<font style="background-color: #ffff00;">/*</font>**explanation**<font style="background-color: #ffff00;">*/</font>**  
- ,@intParm2=null **<font style="background-color: #ffff00;">/*</font>**explanation**<font style="background-color: #ffff00;">*/</font>**  
+  @intParm1=3 explanation  
+ ,@intParm2=null explanation  
 */
 
 ALTER PROCEDURE [dbo].procName  
 /* proc definition*/
 ```
-
-</blockquote>
-
 
 What I was trying to do was include a sample call to the procedure to aid future development.** This was easily fixed by using the single-line comment syntax instead**:
 
-<blockquote>
+
   
-```cs
+```sql
 /*  example execution:
 EXEC procName
-  @intParm1=3 **<font style="background-color: #ffff00;">--</font>**explanation  
- ,@intParm2=null **<font style="background-color: #ffff00;">--</font>**explanation  
+  @intParm1=3 explanation  
+ ,@intParm2=null explanation  
 */
 
 ALTER PROCEDURE [dbo].procName  
 /* proc definition*/
 ```
-
-</blockquote>
-
 
 (Hopefully it’s obvious that I don’t normally write procedures with obscure names and parameters like I have above.)
 

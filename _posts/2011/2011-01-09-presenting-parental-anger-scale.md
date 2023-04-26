@@ -31,7 +31,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Frequency: **occasional
 
-**Triggers:** child maintains persistent level 2 activity, performs are-you-kidding-me actions like [dumping glitter all over the place](../../2010/12/life-lessons-about-glitter.html" target="_blank), or perpetrates hitting/violence or outright malicious speech toward others
+**Triggers:** child maintains persistent level 2 activity, performs are-you-kidding-me actions like [dumping glitter all over the place](../../2010/12/life-lessons-about-glitter.html"), or perpetrates hitting/violence or outright malicious speech toward others
 
 **Child’s Grievance:** who knows?
 
@@ -39,7 +39,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Frequency:** rare
 
-**Triggers:** child maintains persistent level 3 activity which is preceded by parent’s sleepless night, commits truly dumbfounding errors like [painting the dog](http://www.shitmykidsruined.com/2010/05/14/acrylic-paint/" target="_blank) in the house and thereby causing thousands of dollars of damage
+**Triggers:** child maintains persistent level 3 activity which is preceded by parent’s sleepless night, commits truly dumbfounding errors like [painting the dog](http://www.shitmykidsruined.com/2010/05/14/acrylic-paint/") in the house and thereby causing thousands of dollars of damage
 
 **Child’s Grievance:** the world (if for only a moment) doesn’t seem to revolve around her, left unsupervised for 12 seconds while parent goes to the bathroom, or most treasured toy wasn’t in hand while parent is strapping child into safety seat
 

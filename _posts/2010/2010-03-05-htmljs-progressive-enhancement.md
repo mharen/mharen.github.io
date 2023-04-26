@@ -57,10 +57,10 @@ $(function(){
 });​
 ```
  
-This doesn’t require any changes to the HTML/CSS—it uses existing attributes like <code>href</code> and <code>title</code> to wire itself up to the link. And, if JS is disabled or broken, *the link will still work*. 
+This doesn’t require any changes to the HTML/CSS—it uses existing attributes like `href` and `title` to wire itself up to the link. And, if JS is disabled or broken, *the link will still work*. 
 
 
 By applying incremental enhancements in this fashion, we can easily maintain decent support for less-capable browsers while keeping our code clean and elegant.
 
 
-You might notice, too, that this JS snippet is looking at a class (<code>help-link</code>), not an <code>id</code>. Since it infers everything it needs to show the dialog from the link itself, this snippet will work on **any** link in the page tagged with the <code>help-link</code> class. Nice, right?
+You might notice, too, that this JS snippet is looking at a class (`help-link`), not an `id`. Since it infers everything it needs to show the dialog from the link itself, this snippet will work on **any** link in the page tagged with the `help-link` class. Nice, right?

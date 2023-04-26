@@ -10,7 +10,13 @@ title: Where Do You See Yourself in Five Years? (Blue Pill or Red Pill?)
 
 ![image8.png](/assets/2010/image8.png)
 
-Until recently, this has always been an easy question for me.      * In middle school I wanted to be in computers so I obsessed over computers.     * In high school I wanted to formally study computers so I pursued engineering at OSU.     * In college I wanted a job in computers so I graduated and pursued a career in computers.     * In my career in computers I wanted to advance my career to level two.     * In my career at level two, I wanted to advance to level three.     * There is no level four (at my current employer)  
+Until recently, this has always been an easy question for me.  
+* In middle school I wanted to be in computers so I obsessed over computers. 
+* In high school I wanted to formally study computers so I pursued engineering at OSU. 
+* In college I wanted a job in computers so I graduated and pursued a career in computers. 
+* In my career in computers I wanted to advance my career to level two. 
+* In my career at level two, I wanted to advance to level three. 
+* There is no level four (at my current employer)  
 
 
 I’ve always considered myself very lucky to know what I wanted to do with my life—to have a simple, easy plan. And over the last 14 years, that’s the plan I followed, getting slightly more focused and specialized with each step, as represented in the image above.

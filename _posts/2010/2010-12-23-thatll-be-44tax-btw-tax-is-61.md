@@ -16,7 +16,10 @@ Take, for example, the following invoice for four tickets to Toy Story on Ice (I
 
 ![ticket racket[2].png](/assets/2010/ticket racket[2].png)
 
-That’s $44 for the tickets, and $26.75 for...I don’t know what for. They are literally charging 61% extra. These are electronic tickets so they aren’t even *trying to hide the evil* with these fees. You don’t have bags to haul around like an airline—we’re talking about electrons here.     * “Handling fee”? This is 100% electronic—what are you “handling”?     * “Convenience fee”? What the hell is that? I’m buying these online, which saves **you** money on printing, shipping, logistics, etc. Charging me extra for the privilege of saving you money is just absurd. Can you imagine buying any other product and paying more to download it than having it shipped to you?    * “Facility fee”? Isn’t that what I bought the tickets for? Or did you forget to book the stadium when you booked Disney and now you’re short $200,000? 
+That’s $44 for the tickets, and $26.75 for...I don’t know what for. They are literally charging 61% extra. These are electronic tickets so they aren’t even *trying to hide the evil* with these fees. You don’t have bags to haul around like an airline—we’re talking about electrons here. 
+* “Handling fee”? This is 100% electronic—what are you “handling”? 
+* “Convenience fee”? What the hell is that? I’m buying these online, which saves **you** money on printing, shipping, logistics, etc. Charging me extra for the privilege of saving you money is just absurd. Can you imagine buying any other product and paying more to download it than having it shipped to you?
+* “Facility fee”? Isn’t that what I bought the tickets for? Or did you forget to book the stadium when you booked Disney and now you’re short $200,000? 
 
 
 What about tax? That’s one that I **wouldn’t **shy from but you **don’t **have that there. Odd.

@@ -8,10 +8,19 @@ title: 'Customer Service: How AirTran Bought Me For $0.50'
 ---
 
 
-![airtran[2].png](/assets/2010/airtran[2].png)I recently flew with AirTran and the experience was very pleasant. It didn’t start that way, though:     * Was I happy paying for a decent seat or a checked bag? No.    * Was I happy arriving two hours early for my flight and doing the TSA dance? No.    * Was I happy paying for WiFi? No.    * Was the gate agent friendly even a little? No.    * Could the gate agent read our tickets? No.    * Could the gate agent have been any more curt and uninterested in her job? No...what’s with this woman—she needs a vacation or something. 
+![airtran[2].png](/assets/2010/airtran[2].png)I recently flew with AirTran and the experience was very pleasant. It didn’t start that way, though: 
+* Was I happy paying for a decent seat or a checked bag? No.
+* Was I happy arriving two hours early for my flight and doing the TSA dance? No.
+* Was I happy paying for WiFi? No.
+* Was the gate agent friendly even a little? No.
+* Could the gate agent read our tickets? No.
+* Could the gate agent have been any more curt and uninterested in her job? No...what’s with this woman—she needs a vacation or something. 
 
 
-The thing is, though, none of that mattered once I got on the plane. The courteous and friendly flight crew completely changed my attitude about the whole trip, and it wasn’t by giving me an upgrade or free booze. Instead they merely:     * Greeted me with genuine enthusiasm    * Joked with me while I “assisted” with the safety speech (more on that in a minute)    * Offered free headphones to use with the XM which I value at $0.50 
+The thing is, though, none of that mattered once I got on the plane. The courteous and friendly flight crew completely changed my attitude about the whole trip, and it wasn’t by giving me an upgrade or free booze. Instead they merely: 
+* Greeted me with genuine enthusiasm
+* Joked with me while I “assisted” with the safety speech (more on that in a minute)
+* Offered free headphones to use with the XM which I value at $0.50 
 
 
 Of course we were served complimentary soda/snacks but most airlines do that. The flight crew (including the captain) set themselves apart by being present in their duties and being authentic. I was particularly swayed by one particular flight attendant. She asked me to hold her bag of safety stuff (seat belt, oxygen mask, etc.) while she demoed them. I said something like, “Of course, no problem, I’m pretty much an expert at this kind of stuff. Do I get (plastic) wings?”

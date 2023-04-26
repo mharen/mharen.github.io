@@ -9,7 +9,13 @@ title: Well, we live in Ohio.
 ---
 
 
-The fam and I just got back from an impressive fireworks display in our hometown, Kent. I’d like to share a few highlights from the evening, ruminations if you will.     * Maya’s attention span isn’t long enough for her to watch the empty sky between blasts of fireworks.     * Without the ability to anticipate when/where fireworks will erupt, I guess they’re pretty damn scary.     * Charlotte is an angel when full of milk. Sarah will be sure to have two jugs of milk with her and the baby at all times. She slept through the whole event.     * We parked on a bridge in Kent’s main drag. It provided a great view. At one point a pickup trunk flew by going way, way too fast blaring obscenities, middle fingers, and waving a huge Confederate flag. What’s with that? Are they saying: “screw you America and your independence...and those who celebrate it...even though it’s an occasion we Confederates share too...and has nothing to do with the civil war...?”     * In researching why a bunch of US citizens less than 140 years old would brandish a Confederate flag and act like such idiots, I learned that the Confederate flag as I knew it is actually the [Battle Flag](http://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America#The_Battle_Flag) of the Confederacy. The [actual Confederate flag](http://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America#National_flags) is much less iconic (at least I didn’t recognize it). Although later versions of the official Confederate flag do include the battle flag.     * In an unrelated conversation, on our drive home I realized that Independence Day is definitely the most dangerous national holiday there is. Halloween is scary, too (ha!—see what I did there?) but a distant second to drunks with explosives. Anyway, tonight the streets were full of people and a lot of kids had sparklers and bottle rockets and other stuff I loved as a minor and our conversation went like this:  
+The fam and I just got back from an impressive fireworks display in our hometown, Kent. I’d like to share a few highlights from the evening, ruminations if you will. 
+* Maya’s attention span isn’t long enough for her to watch the empty sky between blasts of fireworks. 
+* Without the ability to anticipate when/where fireworks will erupt, I guess they’re pretty damn scary. 
+* Charlotte is an angel when full of milk. Sarah will be sure to have two jugs of milk with her and the baby at all times. She slept through the whole event. 
+* We parked on a bridge in Kent’s main drag. It provided a great view. At one point a pickup trunk flew by going way, way too fast blaring obscenities, middle fingers, and waving a huge Confederate flag. What’s with that? Are they saying: “screw you America and your independence...and those who celebrate it...even though it’s an occasion we Confederates share too...and has nothing to do with the civil war...?” 
+* In researching why a bunch of US citizens less than 140 years old would brandish a Confederate flag and act like such idiots, I learned that the Confederate flag as I knew it is actually the [Battle Flag](http://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America#The_Battle_Flag) of the Confederacy. The [actual Confederate flag](http://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America#National_flags) is much less iconic (at least I didn’t recognize it). Although later versions of the official Confederate flag do include the battle flag. 
+* In an unrelated conversation, on our drive home I realized that Independence Day is definitely the most dangerous national holiday there is. Halloween is scary, too (ha!—see what I did there?) but a distant second to drunks with explosives. Anyway, tonight the streets were full of people and a lot of kids had sparklers and bottle rockets and other stuff I loved as a minor and our conversation went like this:  
 
 <blockquote> 
 <blockquote>   
@@ -23,7 +29,8 @@ Me: ?? (she clarified later that she was talking about hippie college kids and t
 Me: Well...we live in Ohio.     
 
 Sarah: Yeah, I guess that’s it.   </blockquote>
-</blockquote>     * It’s incredible to me how rosy Sarah’s outlook is (or how easily she overlooks recent challenges). Here are some examples, just from the last 3 hours:  
+</blockquote> 
+* It’s incredible to me how rosy Sarah’s outlook is (or how easily she overlooks recent challenges). Here are some examples, just from the last 3 hours:  
 
 <blockquote> 
 <blockquote>   

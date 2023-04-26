@@ -20,7 +20,7 @@ In case you don’t know what any of that was, let me try to explain. At work I 
 
 Whenever the build status changes (any of “success”, “building” or “failed”), the board beeps and lights up the appropriate LED (green, yellow or red).
 
-In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/" target="_blank) to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
+In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/") to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
 
 ![chuck-norris-delta-force.jpg](/assets/2010/chuck-norris-delta-force.jpg)
 
@@ -28,9 +28,9 @@ You might imagine how politically correct and culturally sensitive a 1986 movie 
 
 But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
 
-[![Norrishuckabee[5].jpg](/assets/2010/Norrishuckabee[5].jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG" target="_blank)
+[![Norrishuckabee[5].jpg](/assets/2010/Norrishuckabee[5].jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG")
 
-70. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/" target="_blank).  <h4>Build (Repeat)</h4>
+70. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/").  <h4>Build (Repeat)</h4>
 
 ![DSC_00113[2].jpg](/assets/2010/DSC_00113[2].jpg)  <h4>Circuit (Repeat)</h4>
 

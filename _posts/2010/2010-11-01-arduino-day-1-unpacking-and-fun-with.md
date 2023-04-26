@@ -51,7 +51,11 @@ That was cool to start with but I wanted to explore more. I added five more LEDs
 <div id="2649b3fc-913c-4411-b0b6-e7a0873571f7" style="margin: 0px; padding: 0px; display: inline;">
 <div>[![videoc251df61edef[6].jpg](/assets/2010/videoc251df61edef[6].jpg)](http://www.youtube.com/watch?v=VbIfvKNeQZU" target="_new)</div></div></div>
 
-It’s a much better experience in person—my camera’s frame rate isn’t quite high enough and it had trouble focusing. But trust me, it was awesome. What you see is the program cycling through a bunch of different patterns:     * Runway - like an airstrip     * Flicker Digital – randomly flash the LEDs on/off     * Flicker Analog – randomly change the intensity of the LEDs     * Flash – flash all the LEDs on/off at the same time  
+It’s a much better experience in person—my camera’s frame rate isn’t quite high enough and it had trouble focusing. But trust me, it was awesome. What you see is the program cycling through a bunch of different patterns: 
+* Runway - like an airstrip 
+* Flicker Digital – randomly flash the LEDs on/off 
+* Flicker Analog – randomly change the intensity of the LEDs 
+* Flash – flash all the LEDs on/off at the same time  
 
 
 Build:

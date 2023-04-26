@@ -4,53 +4,42 @@ date: '2011-02-14T12:09:00.001-05:00'
 categories:
 - database
 - technology
-title: "\u201CHost is not allowed to connect to this mysql server\u201D [Solved]"
+title: "\"Host is not allowed to connect to this mysql server\" (Solved)"
 ---
 
 Depending on your setup, MySql may be locked down pretty tight. This is good. However, today I needed to connect to a database from another host. Googling eventually yielded the appropriate commands but to document the solution for my future self, I’m logging them here.
 
-
 The issue is that MySql, when properly configured, only allows connections from a very limited set of hosts. Often this is simply “localhost”, which satisfies the very common case of apps/db all on one machine. If you need to access the system from another machine you need to do two things:
-
 
 1. Enable MySql to listen on an address (typically TCP/IP port 3306) 
 2. Enable a remote user/host to connect with some privileges 
 
 Item 1 is covered elsewhere in depth, and in my case is configurable through the MySQL Server Instance Config Wizard. Done.
 
-
 The solution to item 2 however, was surprisingly difficult to uncover. Here’s the error that probably brought you here:
 
-
-<blockquote>
-<pre>$ telnet mysql_server 3306
-</strong>
+```sh
+$ telnet mysql_server 3306
 Host: ‘urmachine.domain.com’ is not allowed to connect to this MySQL server
-
 Connection to host lost.
 ```
 
-</blockquote>
-When the connection *works* you get a handshake request, which fails unless you speak MySQL but the point is you *can *connect.
-
+When the connection *works* you get a handshake request, which fails unless you speak MySQL but the point is you *can* connect.
 
 What you need to do is enable the host listed in the error message to connect as a particular user. Login to your MySQL server and open a local connection:
 
-
-<blockquote>
-<pre>$ mysql -uroot -p
-</strong>Enter password: ************************
-</strong>Welcome to the....
+```sh
+$ mysql -uroot -p
+Enter password: ************************
+Welcome to the....
 
 mysql> 
 ```
 
-</blockquote>
 To see who's already enabled, run this query:
 
-
-<blockquote>
-<pre>mysql> **select host, user from user;**
+```sh
+mysql> select host, user from user;
 +--------------------+---------+
 | host               | user    |
 +--------------------+---------+
@@ -62,26 +51,21 @@ To see who's already enabled, run this query:
 4 rows in set (0.00 sec)
 ```
 
-</blockquote>
 Now we need to add a new record. I'm interested in simply reading data from my remote host so I'm granting "select" privilges. If you need more, adjust the command accordingly, up to giving the host everything with the "all" keyword: 
 
 
-
-
-<blockquote>
-<pre>mysql> **grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';**
+```sh
+mysql> grant select on urDatabase.* to urUser@'urMachine.domain.com' identified by 'urPassword';
 Query OK, 0 rows affected (0.00 sec)
 
 mysql> flush privileges;
 </strong>Query OK, 0 rows affected (0.05 sec)
 ```
 
-</blockquote>
 And now we're in the user list:
 
-
-<blockquote>
-<pre>mysql> select host, user from user;
+```sh
+mysql> select host, user from user;
 </strong>+-----------------------+---------+
 | host                  | user    |
 +-----------------------+---------+
@@ -89,12 +73,11 @@ And now we're in the user list:
 | localhost             |         |
 | localhost             | redmine |
 | localhost             | root    |
-| <span style="background-color: yellow;">urMachine.domain.com</span>  | <span style="background-color: yellow;">urUser</span>  |
+| urMachine.domain.com  | urUser  |
 +-----------------------+---------+
 5 rows in set (0.00 sec)
 ```
 
-</blockquote>
 The above applies to MySQL 5, and is probably adaptable to other nearby versions.
 
 ---
