@@ -2,10 +2,10 @@
 layout: post
 date: '2009-08-23T01:34:00.001-04:00'
 categories:
-- around town
+- around-town
 - ruminations
-- in the news
-- random updates
+- in-the-news
+- random-updates
 title: Ruminations in Pictures (Briefly)
 ---
 

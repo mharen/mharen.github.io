@@ -3,7 +3,7 @@ layout: post
 date: '2005-02-23T19:00:00.000-05:00'
 categories:
 - poker
-- random updates
+- random-updates
 title: business quote
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 date: '2011-03-15T22:09:00.001-04:00'
 categories:
-- around town
+- around-town
 - work
-- random updates
+- random-updates
 title: How Not to Cross the Border, Or "Please Proceed to Immigration"
 ---
 

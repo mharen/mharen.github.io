@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-10T12:43:00.001-05:00'
 categories:
-- nablopomo 2012
+- nablopomo-2012
 - code
 - technology
 title: What is going on with my iOS clipboard in Safari?!

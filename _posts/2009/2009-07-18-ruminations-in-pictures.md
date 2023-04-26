@@ -2,9 +2,9 @@
 layout: post
 date: '2009-07-18T01:31:00.001-04:00'
 categories:
-- around town
+- around-town
 - ruminations
-- random updates
+- random-updates
 title: Ruminations in Pictures
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-08T23:59:00.000-05:00'
 categories:
-- nablopomo 2012
+- nablopomo-2012
 - code
 - signalr
 - technology

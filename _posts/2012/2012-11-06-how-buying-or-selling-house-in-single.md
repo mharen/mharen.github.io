@@ -4,8 +4,8 @@ date: '2012-11-06T22:49:00.001-05:00'
 categories:
 - household
 - money
-- nablopomo 2012
-- real estate
+- nablopomo-2012
+- real-estate
 title: How Buying or Selling a House in a Single Day Could Work
 ---
 

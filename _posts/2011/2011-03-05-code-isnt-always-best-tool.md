@@ -4,7 +4,7 @@ date: '2011-03-05T22:43:00.001-05:00'
 categories:
 - work
 - technology
-- project noodle
+- project-noodle
 title: "Code Isn't Always the Best Tool"
 ---
 

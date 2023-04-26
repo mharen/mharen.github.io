@@ -3,7 +3,7 @@ layout: post
 date: '2010-10-10T00:35:00.001-04:00'
 categories:
 - work
-- random updates
+- random-updates
 title: Where Do You See Yourself in Five Years? (Blue Pill or Red Pill?)
 ---
 

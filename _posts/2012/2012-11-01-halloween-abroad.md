@@ -3,7 +3,7 @@ layout: post
 date: '2012-11-01T22:51:00.001-04:00'
 categories:
 - family
-- nablopomo 2012
+- nablopomo-2012
 - baby
 - parenting
 title: Halloween Abroad

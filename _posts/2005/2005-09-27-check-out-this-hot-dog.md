@@ -3,7 +3,7 @@ layout: post
 date: '2005-09-27T19:21:00.000-04:00'
 categories:
 - relaxing
-- random updates
+- random-updates
 title: Check Out This Hot Dog
 ---
 

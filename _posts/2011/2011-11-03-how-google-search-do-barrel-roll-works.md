@@ -2,10 +2,10 @@
 layout: post
 date: '2011-11-03T14:55:00.001-04:00'
 categories:
-- easter eggs
-- in the news
-- random updates
-- nablopomo 2011
+- easter-eggs
+- in-the-news
+- random-updates
+- nablopomo-2011
 - technology
 title: "How the Google Search \u201CDo a barrel roll\u201D Works"
 ---

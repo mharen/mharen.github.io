@@ -3,7 +3,7 @@ layout: post
 date: '2010-10-08T14:58:00.001-04:00'
 categories:
 - technology
-- project noodle
+- project-noodle
 title: 'My New Project Update: Name and Sitemap'
 ---
 

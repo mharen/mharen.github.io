@@ -4,7 +4,7 @@ date: '2009-07-14T23:20:00.001-04:00'
 categories:
 - windows
 - work
-- in the news
+- in-the-news
 - technology
 title: "Microsoft's Response to Google's Chrome OS"
 ---

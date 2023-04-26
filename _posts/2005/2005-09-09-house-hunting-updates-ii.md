@@ -2,8 +2,8 @@
 layout: post
 date: '2005-09-09T17:55:00.000-04:00'
 categories:
-- around town
-- random updates
+- around-town
+- random-updates
 title: House Hunting Updates (II)
 ---
 

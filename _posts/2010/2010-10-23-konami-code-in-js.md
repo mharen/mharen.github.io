@@ -2,7 +2,7 @@
 layout: post
 date: '2010-10-23T23:24:00.001-04:00'
 categories:
-- easter eggs
+- easter-eggs
 - code
 - technology
 title: The Konami Code In JS

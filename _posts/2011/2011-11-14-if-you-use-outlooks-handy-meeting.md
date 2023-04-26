@@ -3,7 +3,7 @@ layout: post
 date: '2011-11-14T23:00:00.001-05:00'
 categories:
 - work
-- nablopomo 2011
+- nablopomo-2011
 - technology
 title: 'Outlook Tip: Automatically Archive Annoying Meeting Invitation Responses'
 ---

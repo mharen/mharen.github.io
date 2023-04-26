@@ -5,7 +5,7 @@ categories:
 - sarah
 - family
 - baby
-- random updates
+- random-updates
 title: Why I love Having a Decent Camera Phone
 ---
 

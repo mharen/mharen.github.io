@@ -3,7 +3,7 @@ layout: post
 date: '2010-09-21T23:29:00.001-04:00'
 categories:
 - technology
-- project noodle
+- project-noodle
 title: My New Project
 ---
 

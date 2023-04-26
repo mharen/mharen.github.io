@@ -3,7 +3,7 @@ layout: post
 date: '2010-03-18T21:45:00.001-04:00'
 categories:
 - healthcare
-- in the news
+- in-the-news
 title: Healthcare Musings Part 4 (From a Friggin Airplane)
 ---
 

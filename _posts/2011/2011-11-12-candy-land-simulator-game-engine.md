@@ -2,8 +2,8 @@
 layout: post
 date: '2011-11-12T12:04:00.001-05:00'
 categories:
-- candy land simulator
-- nablopomo 2011
+- candy-land-simulator
+- nablopomo-2011
 - code
 - technology
 title: 'A Candy Land Simulator: The Game Engine'

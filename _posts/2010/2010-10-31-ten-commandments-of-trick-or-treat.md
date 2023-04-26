@@ -3,7 +3,7 @@ layout: post
 date: '2010-10-31T17:54:00.001-04:00'
 categories:
 - family
-- in the news
+- in-the-news
 title: Ten Commandments of Trick or Treat
 ---
 

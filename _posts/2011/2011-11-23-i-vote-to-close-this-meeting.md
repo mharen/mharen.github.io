@@ -3,7 +3,7 @@ layout: post
 date: '2011-11-23T11:54:00.001-05:00'
 categories:
 - work
-- nablopomo 2011
+- nablopomo-2011
 - technology
 title: I Vote To Close This Meeting
 ---

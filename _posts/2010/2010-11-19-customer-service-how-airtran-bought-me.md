@@ -2,7 +2,7 @@
 layout: post
 date: '2010-11-19T00:35:00.001-05:00'
 categories:
-- around town
+- around-town
 - marketing
 title: 'Customer Service: How AirTran Bought Me For $0.50'
 ---

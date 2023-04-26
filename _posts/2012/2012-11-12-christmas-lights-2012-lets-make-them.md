@@ -3,7 +3,7 @@ layout: post
 date: '2012-11-12T23:52:00.001-05:00'
 categories:
 - household
-- nablopomo 2012
+- nablopomo-2012
 title: "Christmas Lights 2012: \u201CLet's Make Them Nice This Time\u201D"
 ---
 

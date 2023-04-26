@@ -4,8 +4,8 @@ date: '2006-06-19T08:21:00.000-04:00'
 categories:
 - work
 - hockey
-- in the news
-- random updates
+- in-the-news
+- random-updates
 title: 'Game 7: Canes vs. Oilers'
 ---
 

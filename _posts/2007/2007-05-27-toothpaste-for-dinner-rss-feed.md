@@ -2,7 +2,7 @@
 layout: post
 date: '2007-05-27T17:35:00.000-04:00'
 categories:
-- random updates
+- random-updates
 - technology
 title: Toothpaste For Dinner RSS Feed
 ---

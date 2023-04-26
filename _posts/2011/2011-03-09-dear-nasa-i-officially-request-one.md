@@ -3,8 +3,8 @@ layout: post
 date: '2011-03-09T09:45:00.001-05:00'
 categories:
 - letters
-- in the news
-- random updates
+- in-the-news
+- random-updates
 title: Dear NASA, I Officially Request One Space Shuttle
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 date: '2010-10-04T12:45:00.001-04:00'
 categories:
-- in the news
-- random updates
+- in-the-news
+- random-updates
 - technology
 title: 'How to lose an hour: TED.com'
 ---

@@ -2,7 +2,7 @@
 layout: post
 date: '2011-11-03T23:09:00.000-04:00'
 categories:
-- nablopomo 2011
+- nablopomo-2011
 - android
 - technology
 - iphone

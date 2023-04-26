@@ -2,8 +2,8 @@
 layout: post
 date: '2011-04-14T19:58:00.001-04:00'
 categories:
-- around town
-- random updates
+- around-town
+- random-updates
 title: Weather in the Midwest vs. A Typical Shower Faucet
 ---
 

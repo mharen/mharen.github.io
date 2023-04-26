@@ -4,7 +4,7 @@ date: '2012-11-05T14:47:00.000-05:00'
 categories:
 - experiments
 - family
-- nablopomo 2012
+- nablopomo-2012
 title: Introducing Our Kids to Video Games
 ---
 

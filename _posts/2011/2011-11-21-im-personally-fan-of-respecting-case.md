@@ -2,7 +2,7 @@
 layout: post
 date: '2011-11-21T13:51:00.001-05:00'
 categories:
-- nablopomo 2011
+- nablopomo-2011
 - code
 - technology
 title: Case Sensitivity in ASP.NET

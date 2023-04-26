@@ -2,7 +2,7 @@
 layout: post
 date: '2011-02-22T23:56:00.001-05:00'
 categories:
-- around town
+- around-town
 - letters
 - parenting
 title: "The Kids' Castle"

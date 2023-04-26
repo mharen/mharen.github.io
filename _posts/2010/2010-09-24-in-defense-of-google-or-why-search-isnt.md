@@ -2,7 +2,7 @@
 layout: post
 date: '2010-09-24T22:42:00.001-04:00'
 categories:
-- in the news
+- in-the-news
 - technology
 title: "In Defense of Google, or Why Search Isn't About Bells and Whistles"
 ---

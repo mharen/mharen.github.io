@@ -3,7 +3,7 @@ layout: post
 date: '2011-11-09T23:05:00.001-05:00'
 categories:
 - work
-- nablopomo 2011
+- nablopomo-2011
 - technology
 title: Please Ignore Me While I Gush Over My New Laptop
 ---

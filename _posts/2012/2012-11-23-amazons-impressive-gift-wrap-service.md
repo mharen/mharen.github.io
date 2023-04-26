@@ -2,8 +2,8 @@
 layout: post
 date: '2012-11-23T13:49:00.001-05:00'
 categories:
-- nablopomo 2012
-- random updates
+- nablopomo-2012
+- random-updates
 title: How I Discovered Amazon's Impressive Gift Wrap Service Via a Generous Friend
 ---
 

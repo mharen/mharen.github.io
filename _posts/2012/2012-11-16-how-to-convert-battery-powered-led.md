@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-16T23:59:00.001-05:00'
 categories:
-- nablopomo 2012
+- nablopomo-2012
 - technology
 title: How to Convert Battery-Powered LED Christmas Lights to USB
 ---

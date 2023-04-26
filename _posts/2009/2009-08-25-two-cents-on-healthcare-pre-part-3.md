@@ -3,7 +3,7 @@ layout: post
 date: '2009-08-25T23:28:00.001-04:00'
 categories:
 - healthcare
-- in the news
+- in-the-news
 title: Two Cents on Healthcare, Pre-Part 3
 ---
 

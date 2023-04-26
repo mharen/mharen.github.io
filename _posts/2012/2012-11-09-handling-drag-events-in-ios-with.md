@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-09T23:52:00.001-05:00'
 categories:
-- nablopomo 2012
+- nablopomo-2012
 - code
 - technology
 title: Handling Drag Events in iOS with Javascript

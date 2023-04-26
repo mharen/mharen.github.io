@@ -2,7 +2,7 @@
 layout: post
 date: '2009-07-11T07:44:00.001-04:00'
 categories:
-- random updates
+- random-updates
 - technology
 title: SD Cards are Remarkably Resilient
 ---

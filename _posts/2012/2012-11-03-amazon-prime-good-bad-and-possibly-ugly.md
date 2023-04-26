@@ -2,8 +2,8 @@
 layout: post
 date: '2012-11-03T22:34:00.001-04:00'
 categories:
-- nablopomo 2012
-- in the news
+- nablopomo-2012
+- in-the-news
 title: 'Amazon Prime: The Good, the Bad and the (Possibly) Ugly'
 ---
 

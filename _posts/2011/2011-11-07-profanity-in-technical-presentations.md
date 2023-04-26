@@ -3,7 +3,7 @@ layout: post
 date: '2011-11-07T00:13:00.001-05:00'
 categories:
 - work
-- nablopomo 2011
+- nablopomo-2011
 title: Profanity in Technical Presentations and Business
 ---
 

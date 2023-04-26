@@ -3,8 +3,8 @@ layout: post
 date: '2011-11-15T22:12:00.001-05:00'
 categories:
 - household
-- around town
-- nablopomo 2011
+- around-town
+- nablopomo-2011
 - technology
 title: LEDs Have Arrived!
 ---

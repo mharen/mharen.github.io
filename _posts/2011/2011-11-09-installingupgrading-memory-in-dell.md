@@ -2,7 +2,7 @@
 layout: post
 date: '2011-11-09T21:18:00.002-05:00'
 categories:
-- nablopomo 2011
+- nablopomo-2011
 - technology
 title: Installing/Upgrading Memory in a Dell Latitude 6520 (aka MOAR GBs!)
 ---

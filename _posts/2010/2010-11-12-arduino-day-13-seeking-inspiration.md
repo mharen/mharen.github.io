@@ -2,7 +2,7 @@
 layout: post
 date: '2010-11-12T23:59:00.000-05:00'
 categories:
-- 30 days of arduino
+- 30-days-of-arduino
 - arduino
 title: 'Arduino Day 12: Seeking Inspiration'
 ---

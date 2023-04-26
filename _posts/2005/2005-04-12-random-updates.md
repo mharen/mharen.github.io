@@ -7,7 +7,7 @@ categories:
 - work
 - hockey
 - movies
-- random updates
+- random-updates
 title: random updates
 ---
 

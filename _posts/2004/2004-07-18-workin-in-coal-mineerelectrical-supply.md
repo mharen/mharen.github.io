@@ -4,7 +4,7 @@ date: '2004-07-18T20:00:00.000-04:00'
 categories:
 - relaxing
 - work
-- random updates
+- random-updates
 title: workin' in a coal mine...er...electrical supply company
 ---
 

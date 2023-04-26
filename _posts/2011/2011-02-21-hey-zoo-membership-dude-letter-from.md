@@ -2,7 +2,7 @@
 layout: post
 date: '2011-02-21T23:20:00.001-05:00'
 categories:
-- around town
+- around-town
 - letters
 - family
 title: 'Hey Zoo Membership Dude: A Letter from Tammy the Tamarin'
