@@ -7,12 +7,11 @@ categories:
 title: How To Cook Occasionally Alongside a Wife Who Cooks Often
 ---
 
-
 The responsibility of cooking rarely rests with me. For the sake of my family’s health, this is a good thing. It’s not that I am unwilling to help and more that I don’t bring a lot to the table. If meal prep were left to me, I’d dig out my third grade lunch calendar and we’d have the same ten awful meals in rotation. Soy burgers, tots, and “salad”! Yum! 
 
 That’s probably my greatest weakness: meal planning. Wife once told me in college that a meal *must include a side*. Up to that point, when I’d say I was “making hamburgers” this is what you’d get on your plate:
 
-![image[2].png](/assets/2011/image[2].png)
+![](/assets/2011/cook-2.png)
 
 Aside from a short, tired menu of only simple entrées (easily solved by making whatever Wife tells me to make), another weakness is meal execution (i.e. the actual cooking). I’m great at following recipes so long as I don’t have to deviate from the instructions or make substitutions. Actually, a few substitutions are OK—I can look things up on the ol’ internet or check covers of the cookbooks. I can’t handle some of Wife’s mental recipes, though.
 
@@ -34,15 +33,15 @@ This is the completely overkill part that I’m most proud of. By making a timel
 
 Suppose we’re having steak and baked potatoes. This is a cake walk for most people but here’s what I actually did last time I made this meal:  
 
-1. Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx")
-2. Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/")
+1. Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx)
+2. Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/)
 3. Make sure we have everything. Check!
-4. Make a timeline like this (working backwards from Go Time): ![image[5].png](/assets/2011/image[5].png)</li>    
+4. Make a timeline like this (working backwards from Go Time): ![](/assets/2011/cook-5.png) 
 5. Execute timeline
 
 This approach yields one other awesome benefit aside from helping dinner hit the table on-time and at the right temperature: it’s stress free. I just follow my timeline and don’t worry about what I might be missing. When I finish a task, I just set a timer to go off for when I need to start the next step so I can safely zone out on something else (e.g. after “set table”, set timer for “7:40”).
 
-**In summary: plan, portion, plan, execute. **
+**In summary: plan, portion, plan, execute.**
 
 Oh, and I drink while I cook. Happy eating.
 

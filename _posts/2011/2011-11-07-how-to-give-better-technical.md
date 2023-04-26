@@ -21,7 +21,7 @@ I also benefit from experience, but you have to start somewhere. Here are a few 
 
 First of all, and trust me on this: **it’s easier than it looks**. If you have a topic you are deeply interested in, speaking on it is easy if you do the right preparation. The hard part is finding the time to actually do all that preparation.
 
-If this is all very new to you or you're having trouble visualizing what a cool presentation might look like, my advice to you is to go watch a few stellar examples. Jump on [channel 9](http://channel9.msdn.com/") and poke around. Look at anything by [Hanselman](http://channel9.msdn.com/Events/MIX/MIX11/FRM02"). Check out this [neat thing](http://channel9.msdn.com/Events/MIX/MIX11/FRM02") from Steve Sanderson. If your presentation is less technical, and short, check out pretty much anything on [TED](http://www.ted.com/talks).
+If this is all very new to you or you're having trouble visualizing what a cool presentation might look like, my advice to you is to go watch a few stellar examples. Jump on [channel 9](http://channel9.msdn.com/) and poke around. Look at anything by [Hanselman](http://channel9.msdn.com/Events/MIX/MIX11/FRM02). Check out this [neat thing](http://channel9.msdn.com/Events/MIX/MIX11/FRM02) from Steve Sanderson. If your presentation is less technical, and short, check out pretty much anything on [TED](http://www.ted.com/talks).
 
 Then face the facts: you are not going to be as awesome as these guys. They are pros. But **aspire to greatness! **
 
@@ -60,9 +60,9 @@ In fact, when I first started doing tech talks **I flat out bribed people to ask
 
 But of course there are times where the crowd is just not into it and you find yourself with a lot of dead air to fill. **You need a backup plan for filling that dead air.** I always prepare an extra demo or exercise just in case this happens (or some other part of my presentation fails miserably). As I near the end of the talk, I just peek at the clock and decide if "I have time for one more thing" or if "it's time to wrap up and take some questions." Having this buffer is essential when you're just getting started or when presenting to an unfamiliar audience.
 
-[![feedback.png](/assets/2011/feedback.png)](https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&mode=public)
+[![feedback.png](/assets/2011/feedback.png)]()
 
-And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. [Take it and modify it](https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&mode=public) to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word").
+And finally, solicit feedback. If you want to get better at this you need to know how you're doing now. The feedback form I pass out at the beginning of the talk has evolved to something that's blissfully easy for people to complete, while still providing me the key information I need to make a better talk. [Take it and modify it](https://docs.google.com/previewtemplate?id=15In8GvuycvtVflqLd6lf5VBuB40SOLb4ggHBVZbLg4s&mode=public) to suit your needs (don't complain about the formatting...I imported it from some legacy word processing program called "Word).
 
 Now go forth and make a fool of yourself. *For science!*
 
@@ -87,3 +87,4 @@ Great Post! I can honestly say your preparation is always evident in your presen
 What topics have you covered in some of your presentations? I would like to see one of your presentations, too. Maybe you could stream one for Sarah and me. 
 
 At Buckeye Interactive, we have been giving presentations on web development, analytics, social media, online advertising, etc. It has been a great experiment, and we have landed a few projects because of it. I also have found, as you mentioned, that we are looked to as an expert on most of the topics because of our presentations and workshops.
+

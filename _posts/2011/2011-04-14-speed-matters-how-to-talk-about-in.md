@@ -67,5 +67,5 @@ What application did you use to make these mockups? Balsamiq?
 
 **Michael Haren said on 2011-06-09**
 
-[Yes, sir.](http://balsamiq.com/products/mockups")
+[Yes, sir.](http://balsamiq.com/products/mockups)
 

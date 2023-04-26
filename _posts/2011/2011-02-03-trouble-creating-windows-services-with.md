@@ -11,8 +11,11 @@ title: "Trouble Creating Windows Services With \u201Csc.exe create\u201D"
 
 
 I was recently tasked with figuring out why a seemingly correct call to sc.exe wasn’t working. This turned into an exercise in frustration as I tried the command about 50 different ways. This is close, but not close enough:
-<blockquote>   <pre><strong>** Don’t do this—it doesn’t work (keep reading) **
-</strong>C:\>sc.exe create ServiceName binpath="C:\Path\Service.exe -args"
+
+```batch
+REM Don’t do this—it doesn’t work (keep reading) **
+
+sc.exe create ServiceName binpath="C:\Path\Service.exe -args"
                               depend="tcpip"
                               DisplayName="Service Name"
 
@@ -36,41 +39,22 @@ NOTE: The option name includes the equal sign.
  password= <password>
 ```
 
-</blockquote>
-
-
 It unhelpfully just dumps the usage information without telling me what I did wrong. After screwing around with it for far too long, I finally figured it out. It says that each “option name includes the equal sign”, but **it also includes the space after the equal sign**.
-
 
 It turns out that a literal, precise interpretation of the command line arguments is needed:
 
-<blockquote>
-  <pre>
-
-C:\>sc.exe create ServiceName binpath=<font style="background-color: #ffff00;"> </font>"C:\Path\Service.exe -args" 
-                              depend=<font style="background-color: #ffff00;"> </font>"tcpip" 
-                              DisplayName=<font style="background-color: #ffff00;"> </font>"Service Name"
+C:\>sc.exe create ServiceName binpath= "C:\Path\Service.exe -args" 
+                              depend= "tcpip" 
+                              DisplayName= "Service Name"
 [SC] CreateService SUCCESS
-
 ```
 
-</blockquote>
-
-
-![image[3].png](/assets/2011/image[3].png)Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.
-
+Obvious, right? :/ I’m sure the devs have their reasons for this unusual parsing requirement but it’s definitely a big usability fail.
 
 Interestingly, while preparing this post I learned that the help info *has been improved* in Windows 7 and Windows Server 2008:
 
-<blockquote>
-  <pre>NOTE: The option name includes 
-      the equal sign.
-      <strong>A space is required between 
-      the equal sign and the value.</strong>
-```
 
-</blockquote>
-
+> NOTE: The option name includes the equal sign. **A space is required between the equal sign and the value.**
 
 So I guess *now it’s documented*, but still a usability fail.
 
@@ -89,8 +73,6 @@ Gracias me ayudado demasiado.
 **Zafar Iqbal said on 2013-02-23**
 
 Thanks dear  its working 
-
-
 
 **Unknown said on 2013-04-01**
 
@@ -117,4 +99,3 @@ Best regards,
 **Kaziu said on 2015-01-28**
 
 It seems to be fixed now, doesn't it? I didn't put the spaces and it works fine.
-

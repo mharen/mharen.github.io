@@ -7,15 +7,15 @@ categories:
 title: 'Idea: Blackmail Yourself to Health'
 ---
 
-<div style="float: right;">![after[3].jpg](/assets/2011/after[3].jpg)</div>
+![](/assets/2011/after-health.jpg)
 
-It’s no secret that [most of us](http://www.wolframalpha.com/input/?i=median+US+BMI") are overweight. I don’t think I’m going out on a limb by suggesting that *motivation *to eat better and work out more is the biggest issue. I just had a potentially evil idea for motivating people like me: blackmail yourself.
+It’s no secret that [most of us](http://www.wolframalpha.com/input/?i=median+US+BMI) are overweight. I don’t think I’m going out on a limb by suggesting that *motivation *to eat better and work out more is the biggest issue. I just had a potentially evil idea for motivating people like me: blackmail yourself.
 
 Suppose you had an app (e.g. a Facebook app) that recorded your “before” stats. This would capture a simple measurement like weight or BMI and (most importantly) an unflattering “before” picture of yourself. This would be like the first weigh in of *The Biggest Loser* except **it’d all be private to you.**
 
 At first.
 
-The trick would be that as long **as you continue **to post progress each week in the form of an updated picture, updated stats, or workout summaries, **things would stay private**. But** if you get complacent, your most recent stats would be automatically leaked** to your wall for all your friends to see.
+The trick would be that as long **as you continue** to post progress each week in the form of an updated picture, updated stats, or workout summaries, **things would stay private**. But **if you get complacent, your most recent stats would be automatically leaked** to your wall for all your friends to see.
 
 If you simply keep up with your plan, eventually you’ll get to post one of those sweet “after” shots (if you want).
 

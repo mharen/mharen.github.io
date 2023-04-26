@@ -31,7 +31,7 @@ Upon discovering the horror in my basement, I uttered a single expletive, follow
 
 ![chart[2].png](/assets/2010/chart[2].png)<font size="1">(this is inverted because I messed up and didn’t want to start over)</font>
 
-Don’t get me wrong—we made her (help) clean it up and that led to a lot of tears—but I really wasn’t as angry with this whole situation as I would have predicted. That’s the life lesson, I guess. After replacing the upstairs carpet because of the great [paint-everywhere-even-on-the-dog-omg-are-you-kidding](http://footedjammies.blogspot.com/2010/04/our-day-in-pictures.html") incident of 2010 (featured on [shitmykidsruined.com](http://www.shitmykidsruined.com/2010/05/14/acrylic-paint/")), a bucket of glitter’s just not so bad.    
+Don’t get me wrong—we made her (help) clean it up and that led to a lot of tears—but I really wasn’t as angry with this whole situation as I would have predicted. That’s the life lesson, I guess. After replacing the upstairs carpet because of the great [paint-everywhere-even-on-the-dog-omg-are-you-kidding](http://footedjammies.blogspot.com/2010/04/our-day-in-pictures.html) incident of 2010 (featured on [shitmykidsruined.com](http://www.shitmykidsruined.com/2010/05/14/acrylic-paint/)), a bucket of glitter’s just not so bad.    
 
 But glitter is **banned** from my home. I’m not a fool.
 
