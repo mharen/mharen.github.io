@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 7: Buttons and Buzzers'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind...
 
@@ -17,15 +17,26 @@ A big benefit to the simple build, though, was that Thing1 was actually interest
 
 Here we go:  
 
-  <h4>Build</h4>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/_BNAhP3OazQ" title="Arduino Day 7: Buttons and Buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![IMAG0719[8].jpg](/assets/2010/IMAG0719[8].jpg)  <h4>Circuit</h4>
+#### Build
+
+![](/assets/2010/IMAG0719-day-7.jpg) 
+
+(those dainty fingers belong to thing2)
+
+![](/assets/2010/IMAG0721-day-7.jpg) 
+
+#### Circuit
 
 Crazy simple circuit today:
 
-![Sketch_bb[7].png](/assets/2010/Sketch_bb[7].png)  <h4>Schematic</h4>
+![](/assets/2010/Sketch_bb-day-7.png) 
 
-![Sketch_schem[7].png](/assets/2010/Sketch_schem[7].png)  <h4>Code</h4>
+#### Schematic
+
+![](/assets/2010/Sketch_schem-day-7.png) 
+#### Code
 
 Today’s coding was a very simple selection from previous exercises, so this should look familiar:
 ```c
@@ -75,7 +86,7 @@ void Buzz(int frequencyHz, int durationMillis){
 
 
 
-<h4>Next Steps</h4>
+#### Next Steps
 
 
 I’d really like to get some live content into this thing. For example, we have a build system at work that automatically builds all of our code. When a build fails, it goes “red” and we’re notified. I’d like to create an “extreme feedback device” (Google it for examples) which represents the build status in some physical way. We’ll see how that goes.

@@ -9,15 +9,20 @@ categories:
 title: 'Arduino Day 13: Weather Bug'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 Today’s quick and simple adaptation of Thursday’s build was suggested by my brother, Chris. It’s a simple traffic light view of the weather:
 
 The app parses XML files from the Internet and extracts a temperature value. If the temperature is less than 30 or over 100, it lights the red LED. If it’s between 30 and 60 or 90 and 100, the yellow LED lights. If it’s in the remaining sweet spot of 60-90, the green LED lights.  
 
-![IMAG0774[4].jpg](/assets/2010/IMAG0774[4].jpg)
+![](/assets/2010/IMAG0772.jpg)
+![](/assets/2010/IMAG0773.jpg)
+![](/assets/2010/IMAG0774.jpg)
 
-Build, circuit, schematic, and Arduino code are identical to my [previous project](../../2010/11/arduino-day-11-extreme-feedback-for.html).  <h4>C# (Updated)</h4>
+Build, circuit, schematic, and Arduino code are identical to my [previous project](../../2010/11/arduino-day-11-extreme-feedback-for.html). 
+
+#### C# (Updated)
+
 ```c
 static void Main(string[] args)
 {
@@ -71,9 +76,6 @@ static void Main(string[] args)
 }
 ```
 
-
-
-<h4>Next Steps</h4>
-
+#### Next Steps
 
 More projects!

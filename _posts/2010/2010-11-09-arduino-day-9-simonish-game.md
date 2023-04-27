@@ -13,25 +13,35 @@ title: 'Arduino Day 9: Simon(ish) Game'
 
 I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day-8-reaction-game.html). I think you’ll probably recognize it:  
 
-
+<iframe width="640" height="385" src="https://www.youtube.com/embed/ozySl-wQYGc" title="Arduino Day 9: Simon(ish) Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The first time Wife tried this (she pretends to be interested, which I’m pretty sure is love) she shocked me by playing for six minutes straight, successfully knocking out a 27 bit sequence. Random chance would put that at 1 in 134217728 (0.0000007%)...it’s probably legit.
 
-![image[3].png](/assets/2010/image[3].png)Speaking of 007, did anyone see those last two Bond movies? Daniel Craig is way, way more badass than Pierce Brosnan. Nothing personal, P, but Daniel Craig could go on a hunger strike, float around on the international space station for 6 months (where he will lose considerable muscle and bone mass), return to relax peacefully among nature (squirrels and birds and whatnot), and still break your hand (and possibly arm) with his face when you sucker punch him in it. And only then would he go get something to eat like a taco or burger or something.
+![](/assets/2010/007.png)
 
-I know the above to be true when compared to Roger Moore, also, because I saw his “performance” in Moonraker and it was lame. I admit that I haven’t recently seen any of the other Bonds.   <h4>Build</h4>
+Speaking of 007, did anyone see those last two Bond movies? Daniel Craig is way, way more badass than Pierce Brosnan. Nothing personal, P, but Daniel Craig could go on a hunger strike, float around on the international space station for 6 months (where he will lose considerable muscle and bone mass), return to relax peacefully among nature (squirrels and birds and whatnot), and still break your hand (and possibly arm) with his face when you sucker punch him in it. And only then would he go get something to eat like a taco or burger or something.
 
-![DSC_0013[3].jpg](/assets/2010/DSC_0013[3].jpg)
+I know the above to be true when compared to Roger Moore, also, because I saw his “performance” in Moonraker and it was lame. I admit that I haven’t recently seen any of the other Bonds.  
+#### Build
 
-Special thanks to Wife’s awesome camera for giving me all that sweet, delicious bokeh you see above. <small>Apparently I’m required by law to list this info, too: 116mm 1/50 f/4.8 ISO200</small>.  <h4>Circuit</h4>
+![](/assets/2010/DSC_0012.jpg)
 
-![Sketch_bb[6].png](/assets/2010/Sketch_bb[6].png)  <h4>Schematic</h4>
+![](/assets/2010/DSC_0013.jpg)
 
-![Sketch_schem[7].png](/assets/2010/Sketch_schem[7].png)  <h4>Code</h4>
+Special thanks to Wife’s awesome camera for giving me all that sweet, delicious bokeh you see above. <small>Apparently I’m required by law to list this info, too: 116mm 1/50 f/4.8 ISO200</small>. 
+#### Circuit
+
+![](/assets/2010/Sketch_bb-day-9.png) 
+#### Schematic
+
+![](/assets/2010/Sketch_schem-day-9.png) 
+
+#### Code
 
 This program follows a typical “game loop” approach where the game is in one of a few states waiting for something to happen at any given time. The only thing close to a trick is how I maintain a sequence of tones. Rather than compute and store a known sequence, I just use the built in random number generator. Since I can seed the generator with whatever I want, I can replay the same sequence over and over again.
 
 It worked out very nicely, actually, and all I have to do to start a new game is reseed the generator to a random value.
+
 ```c
 const int BuzzPin = 5;
 const int BuzzDuration = 100; 
@@ -172,10 +182,7 @@ void Ding(int light){
 }
 ```
 
-
-
-<h4>Next Steps</h4>
-
+#### Next Steps
 
 I’ll try to knock out another simple game tomorrow, and hopefully by Thursday I’ll have another component or two to play with. If not, I might be cracking open some household electronics for parts...
 

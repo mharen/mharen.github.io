@@ -9,29 +9,22 @@ categories:
 title: 'Arduino Day 17: Light Driven Beeps'
 ---
 
-**Tip!** This post is part of a series on my adventures with Arduino
-
-{% 
-    assign arduinoPosts = site.posts 
-    | sort:"date" 
-    | where_exp: "item", "item.categories contains '30 days of arduino'" 
-%}
-<ul>
-{% for item in arduinoPosts %}
-  <li><a class="u-url" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-{% endfor %}
-</ul>
-
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 Today’s build was a fun one for Thing 1. It’s basically just two CdS light sensors tied to a set of LEDs and a buzzer. If you cover either of the sensors (or both), a different tone plays and an LED lights. Like so:  
 
-  <h4>Build</h4>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/NFDGEEr8ydQ" title="Arduino Day 17: Fun with light-controlled buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![IMAG0800[7].jpg](/assets/2010/IMAG0800[7].jpg)</a>
+#### Build
 
-![IMAG0803[5].jpg](/assets/2010/IMAG0803[5].jpg)</a>  <h4>Code</h4>
+![](/assets/2010/IMAG0800.jpg)
+
+![](/assets/2010/IMAG0803.jpg)  
+
+#### Code
 
 There’s nothing too fancy going on here. The only real trick (if you can call it that) is to read in the ambient analog values at startup so you can compare against them later. This is much more effective than hard-coding a threshold.
+
 ```c
 const int BuzzPin = 5;
 const int BuzzDuration = 50; 

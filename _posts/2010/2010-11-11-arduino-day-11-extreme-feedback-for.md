@@ -10,11 +10,11 @@ title: 'Arduino Day 11: Extreme Feedback for Hudson Builds (Includes Chuck Norri
   Cameo)'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 Improving on yesterday’s build, I added in some actual network-sourced data. My little traffic lights now show the build status of one of my projects:  
 
-
+<iframe width="640" height="385" src="https://www.youtube.com/embed/57fANDt9TGo" title="Arduino Day 11: Extreme Feeback: Build Status" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In case you don’t know what any of that was, let me try to explain. At work I build software, and that software is written in code. We have a server monitor our code and automatically try to build it (convert the code into executable software) whenever it changes. We use an awesome tool called Hudson to do this for us. What I’ve built is called an extreme feedback device because it reports a piece of soft data (the build status) in a physical way (beeping lights).
 
@@ -22,24 +22,35 @@ Whenever the build status changes (any of “success”, “building” or “fa
 
 In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/) to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
 
-![chuck-norris-delta-force.jpg](/assets/2010/chuck-norris-delta-force.jpg)
+![](/assets/2010/chuck-norris-delta-force.jpg)
 
 You might imagine how politically correct and culturally sensitive a 1986 movie about terrorism, with the subtitle “They don't negotiate with terrorists... they blow them away!” is. It’s like *24* with less talk and more explosions.
 
 But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
 
-[![Norrishuckabee[5].jpg](/assets/2010/Norrishuckabee[5].jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG)
+[![](/assets/2010/Norrishuckabee.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG)
 
-70. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/).  <h4>Build (Repeat)</h4>
+70\. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/). 
 
-![DSC_00113[2].jpg](/assets/2010/DSC_00113[2].jpg)  <h4>Circuit (Repeat)</h4>
+#### Build (Repeat)
 
-![Sketch_bb6[2].png](/assets/2010/Sketch_bb6[2].png)  <h4>Schematic (Repeat)</h4>
+![](/assets/2010/DSC_00113.jpg) 
 
-![Sketch_schem6[2].png](/assets/2010/Sketch_schem6[2].png)  <h4>Code (Updated)</h4>  <h5>C#</h5>
+#### Circuit (Repeat)
+
+![](/assets/2010/Sketch_bb6.png) 
+
+#### Schematic (Repeat)
+
+![](/assets/2010/Sketch_schem6.png) 
+
+#### Code (Updated)
 
 I started out today by doing all this in Powershell...but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
-```c
+
+##### C#
+
+```cs
 static void Main(string[] args)
 {
 
@@ -83,13 +94,9 @@ static void Main(string[] args)
 }
 ```
 
+##### Arduino
 
-
-<h5>Arduino</h5>
-
-<blockquote>
-  
-```cs
+```c
 const int BuzzPin = 5;
 const int BuzzDuration = 100; 
 const int Tones[] = { 1000, 2000, 3000 };
@@ -146,10 +153,7 @@ void Ding(int light){
 }
 ```
 
-
-
-<h4>Next Steps</h4>
-
+#### Next Steps
 
 I’ve got a busy weekend coming up so I’ll probably just spend a little time refining what I have. I’m open to ideas, though!
 
@@ -164,4 +168,3 @@ I tried to think of a funny Chuck Norris joke but apparently I am not very witty
 **Michael Haren said on 2010-11-12**
 
 Chuck norris can think of witty jokes at 130am
-

@@ -6,10 +6,10 @@ categories:
 - arduino
 - code
 - technology
-title: "Arduino Day 8: \u201CReaction\u201D Game"
+title: "Arduino Day 8: \"Reaction\" Game"
 ---
 
-<div style="border-top: #888 1px solid; border-right: #888 1px solid; border-bottom: #888 1px solid; float: right; padding-bottom: 5px; padding-top: 5px; padding-left: 5px; margin: 0px auto; border-left: #888 1px solid; padding-right: 5px; width: 200px; background-color: #eee;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 Today’s build combines a lot of the skills I’ve learned so far. It’s a simple game you’ve probably played before. It works like this for two players (though any number is possible): 
 
@@ -19,11 +19,30 @@ Today’s build combines a lot of the skills I’ve learned so far. It’s a sim
 
 Here’s the finished project: 
 
+<iframe width="640" height="385" src="https://www.youtube.com/embed/_uI7ZL5zChU" title="Arduino Day 8: &quot;Reaction&quot; Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar) type of humor probably more your style. 
 
-I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar) type of humor probably more your style.  <h4>Build</h4>
+#### Build
 
-![Sketch_schem[7].png](/assets/2010/Sketch_schem[7].png) <h4>Code</h4>
+![](/assets/2010/IMAG0725-day-8.jpg)
+
+![](/assets/2010/IMAG0726-day-8.jpg)
+
+The circuit and code are completely from scratch, but they are so simple I wouldn’t be surprised to find a near duplicate elsewhere. Note that the buttons are on opposite sides of the board on purpose: this is a two player game.
+
+#### Circuit
+
+![](/assets/2010/Sketch_bb-day-8.png)
+
+#### Schematic
+
+The schematic makes this thing look insane. I suggest just looking at the circuit above—it’s really a simple build.
+
+![](/assets/2010/Sketch_schem-day-8.png)
+
+#### Code
+
 ```cs
 const int ToneHz = 2000;
 const int P1ButtonPin = 3;
@@ -152,7 +171,7 @@ void BlinkOnce(int pin){
 }
 ```
 
-<h4>Next Steps</h4>
+#### Next Steps
 
 While this project could certainly be improved (e.g. holding down your button insures victory when instead you should lose for pressing it early), I’m satisfied with it.
 

@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 4: Fun With Sound'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 I wired up a buzzer from Radio Shack for some endless fun with sound. After jumping in head-first, I was unable to make this thing beep so I turned to Google. I immediately found [this very insightful thread](http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1231194692) that clearly explained how this buzzer works and what I was doing wrong. Apparently I needed to oscillate the signal. Who knew?
 
@@ -17,25 +17,36 @@ Anyway, after playing around with beeps, I wired up Mary Had a Little Lamb and p
 
 It seems that I am completely tone deaf. Not only did I have the scale in the wrong order (high vs. low), I had all kinds of wrong notes in there. Lucky for me, I’m married to a musical wonder who helped me out. She set me straight with a proper set of notes and then helped me read music from the Internet. At several points, she even corrected the music we found (and her corrections *always *sounded better). Incredible. 
 
-![privatepractice[7].jpg](/assets/2010/privatepractice[7].jpg)Speaking of Incredible, did you guys see “The Incredibles”? That movie was awesome. You know what’s not awesome? “Private Practice”. It’s like they took the worst parts of Grey’s Anatomy, crapped it down a toilet, and after traveling down the coastal sewer system (gathering steam along the way), it emerged as the ridonkulous show we have today. The worst of it is that I can’t figure out why Grey’s still exists—it has no good parts left.
+![](/assets/2010/privatepractice.jpg "I hate this show so much that I made this up-side-down")
+
+Speaking of Incredible, did you guys see “The Incredibles”? That movie was awesome. You know what’s not awesome? “Private Practice”. It’s like they took the worst parts of Grey’s Anatomy, crapped it down a toilet, and after traveling down the coastal sewer system (gathering steam along the way), it emerged as the ridonkulous show we have today. The worst of it is that I can’t figure out why Grey’s still exists—it has no good parts left.
 
 These shows are simply absurd in every way. Crazy stuff happens on “House MD”, too, but at least they worked it into the story by saying that House is this genius doctor who only takes crazy cases. Private Practice is about a crummy, nearly bankrupt group of doctors with debilitating personal issues who somehow find themselves in the most controversial, insane situations *every day*. If I had one wish, world peace, ending poverty or hunger or whatever would probably win, but ending this show and erasing all memory of it would be up there.
 
 10...9...8...7...ok I’m feeling better now. So here’s what we ended up with:  
 
-  <h4>Build</h4>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/ZGQOJTgm7A4" title="Arduino Day 4: Fun With Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+#### Build
 
 Today’s build was very easy. Most of my time was spent working on code and learning about music notes.
 
-![IMAG0682[8].jpg](/assets/2010/IMAG0682[8].jpg)  <h4>Circuit</h4>
+![](/assets/2010/IMAG0682.jpg) 
 
-![Day 4 - bb[6].png](/assets/2010/Day 4 - bb[6].png)  <h4>Schematic</h4>
+#### Circuit
 
-![Day 4 - Schematic[6].png](/assets/2010/Day 4 - Schematic[6].png)  <h4>Code</h4>
+![](/assets/2010/Day 4 - bb.png) 
+
+#### Schematic
+
+![](/assets/2010/Day 4 - Schematic.png) 
+
+#### Code
 
 Today’s code was ultimately very simple...it just took a while to prune it down to the essentials listed below. As I mentioned, Sarah put the list of notes together and helped translate the song’s music into the encoded note, length, and rest values.
 
 I realize I don’t need so many notes but we did a batch job through Excel so I left them all in here for future use.
+
 ```c
 // notes adapted from http://www.phy.mtu.edu/~suits/notefreqs.html
 // with some help from Excel and my amazing, super talented wife
@@ -192,9 +203,7 @@ void Buzz(int frequencyHz, int durationMillis){
 }
 ```
 
-
-
-<h4>Next Steps</h4>
+#### Next Steps
 
 
 I’m thinking it’d be neat to add some LEDs for each tone or add buttons so sounds can be driven (like a keyboard). I might get into that tomorrow.

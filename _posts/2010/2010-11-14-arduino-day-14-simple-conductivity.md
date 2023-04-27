@@ -9,19 +9,24 @@ categories:
 title: 'Arduino Day 14: Simple Conductivity Sensor'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 In keeping with the traffic light theme of the past few days, I built a ridiculously simple conductivity sensor with an analog input. Place something between the two leads to determine if it is highly conductive, somewhat conductive, or barely or not at all conductive. Like this:  
 
-
+<iframe width="480" height="385" src="https://www.youtube.com/embed/iYd_xMBUhTY" title="Arduino Day 14: Conductivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Yes, that’s Thing 1’s leftovers from lunch (or maybe Thing 2...). Her sandwich bread is somewhat conductive (yellow), but the ham inside is very conductive (green), as is the apple sauce.
 
-Why is the applesauce dark red? Good Question. It’s homemade, and the best we can figure, the apples just turned brown as they normally do when cut.  <h4>Build</h4>
+Why is the applesauce dark red? Good Question. It’s homemade, and the best we can figure, the apples just turned brown as they normally do when cut. 
+
+#### Build
 
 The build is identical to the previous few days with a simple analog input added the same way as the CdS cell in [another build](../../2010/11/arduino-day-6-analog-inputs.html) (I used a 10kΩ resistor instead of 470Ω, though).
 
-![IMAG0782[3].jpg](/assets/2010/IMAG0782[3].jpg)  <h4>Code</h4>
+![](/assets/2010/IMAG0782.jpg) 
+
+#### Code
+
 ```c
 const int BuzzPin = 5;
 const int BuzzDuration = 50; 
@@ -95,9 +100,6 @@ void Ding(int light){
 }
 ```
 
-
-
-<h4>Next Steps</h4>
-
+#### Next Steps
 
 I’ve got a lot of travel this week so doing projects will be very challenging...but we’ll see!

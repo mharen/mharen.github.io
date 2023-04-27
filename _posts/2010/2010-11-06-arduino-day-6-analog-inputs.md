@@ -9,13 +9,21 @@ categories:
 title: 'Arduino Day 6: Analog Inputs'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 I used up the last of my components today: a light sensor (CdS/photoresistor) and a knob-driven variable resistor (potentiometer). This probably means my days of “the basics” are about over!
 
 Let’s talk about “basics” for a second. I visited some awesome friends in the hospital recently and while trying to cheer them up, Sarah and I started chatting about some famous YouTube videos like the double rainbow guy. These poor, poor friends had no idea what we were talking about.
 
-Fortunately, they had a laptop handy, and unlike the first couple of days they were there, the wifi worked. They were summarily introduced to the Internet with the following choice selections:  <table><tbody>     <tr>       <td></td>        <td></td>     </tr>      <tr>       <td></td>        <td></td>     </tr>      <tr>       <td></td>        <td></td>     </tr>   </tbody></table>
+Fortunately, they had a laptop handy, and unlike the first couple of days they were there, the wifi worked. They were summarily introduced to the Internet with the following choice selections:
+
+<iframe width="330" height="272" src="https://www.youtube.com/embed/OQSNhk5ICTI" title="Yosemitebear Mountain Double Rainbow 1-8-10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="330" height="272" src="https://www.youtube.com/embed/MX0D4oZwCsA" title="DOUBLE RAINBOW SONG!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="330" height="272" src="https://www.youtube.com/embed/RzVkntQsNMM" title="Yosemitebear Mountain Wildlife Fall 09" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="330" height="272" src="https://www.youtube.com/embed/_OBlgSz8sSM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="330" height="210" src="https://www.youtube.com/embed/VF9-sEbqDvU" title="MARCEL THE SHELL WITH SHOES ON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="330" height="272" src="https://www.youtube.com/embed/FtX8nswnUKU" title="kittens inspired by kittens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you or someone you know hasn't yet experienced the hilarity of user submitted content, please, do not fear. You are welcome here. It's a safe-ish place.
 
@@ -23,15 +31,25 @@ Now where was I? Oh yes...
 
 Today’s build is another extension on the sound thing I’ve been working on. I took the Mario playing board and added in a light-trigger so it only plays when it’s dark. I also used the potentiometer to control the tempo of the song. Let me show you:  
 
-  <h4>Build</h4>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/gfhQ6J9veXE" title="Arduino Day 6: Analog Inputs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![IMAG0707[8].jpg](/assets/2010/IMAG0707[8].jpg)  <h4>Circuit</h4>
+#### Build
+
+![](/assets/2010/IMAG0705-day-6.jpg) 
+
+![](/assets/2010/IMAG0707-day-6.jpg) 
+
+#### Circuit
 
 Since this build was a very minor addition to my previous circuits, I’m only showing the simple changes here:
 
-![Sketch_bb[6].png](/assets/2010/Sketch_bb[6].png)  <h4>Schematic</h4>
+![](/assets/2010/Sketch_bb-day-6.png) 
 
-![Sketch_schem[14].png](/assets/2010/Sketch_schem[14].png)  <h4>Code</h4>
+#### Schematic
+
+![](/assets/2010/Sketch_schem-day-6.png) 
+
+#### Code
 
 The only changes today were in the Loop() routine:
 ```c
@@ -67,10 +85,7 @@ void loop() {
 }
 ```
 
-
-
-<h4>Next Steps</h4>
-
+#### Next Steps
 
 This was a very fun project because it gave me another opportunity to engage Thing1. I inverted the light sensor logic for her so that it plays only when a bright light is shining on it. She had about eight seconds of fun shining a flashlight on/off/on/off/on/off and seeing the song and LEDs react. Considering her skill with the TV remote (a much more impressive device), I guess the eight seconds of interest I got from my three year old was pretty good.
 

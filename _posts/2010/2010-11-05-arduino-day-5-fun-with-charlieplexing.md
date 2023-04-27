@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 5: Fun With Charlieplexing'
 ---
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** This post is part of [a series](http://blog.wassupy.com/search/label/30 Days Of Arduino) on my adventures with Arduino</div>
+**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
 
 Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from [yesterday’s fun](../../2010/11/arduino-day-4-fun-with-sound.html). In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. 
 
@@ -23,21 +23,30 @@ So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yest
 
 Here we go:  
 
-  <h4>Build</h4>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/UsXtHRiNAiE" title="Arduino Day 5: Charlieplexing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+#### Build
 
-![IMAG0694[8].jpg](/assets/2010/IMAG0694[8].jpg)  <h4>Circuit</h4>
+![](/assets/2010/IMAG0689-day-5.jpg) 
+
+![](/assets/2010/IMAG0694-day-5.jpg) 
+
+#### Circuit
 
 This doesn’t well represent the circuit:
 
-![day 5_bb[7].png](/assets/2010/day 5_bb[7].png)
+![](/assets/2010/day_5_bb.png)
 
 It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.
 
-If you look closely in the build shot above you can see that I used four rows, and the middle two are common to provide less contorting of the LED leads.  <h4>Schematic</h4>
+If you look closely in the build shot above you can see that I used four rows, and the middle two are common to provide less contorting of the LED leads. 
+#### Schematic
 
 I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:
 
-![day 5_schem[8].png](/assets/2010/day 5_schem[8].png)  <h4>Code</h4>
+![](/assets/2010/day_5_schem.png) 
+
+#### Code
 
 I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
 
@@ -50,10 +59,10 @@ int Leds[6][2] =
   { 0, 2 }, { 2, 0 },
   { 1, 2 }, { 2, 1 } 
 };
-</strong>
+
 #define PinCount (sizeof(Pins)/sizeof(int))
 #define LedCount (sizeof(Leds)/sizeof(int))
-</strong>
+
 // notes adapted from http://www.phy.mtu.edu/~suits/notefreqs.html
 // with some help from Excel and my amazing, super talented wife
 // who is not completely tone deaf like me
@@ -200,7 +209,7 @@ void Buzz(int frequencyHz, int durationMillis){
   
   // light on
   Beep(frequencyHz);
-</strong>  for (long i = 0; i < Iterations; i++ )
+  for (long i = 0; i < Iterations; i++ )
   {
       // beep!
       digitalWrite(BuzzPin, HIGH);
@@ -210,13 +219,13 @@ void Buzz(int frequencyHz, int durationMillis){
   }  
   // led off
   Reset();
-</strong>}
+}
 
 void Reset(){
   for (int i=0; i < PinCount; i++){
     pinMode(Pins[i] , INPUT);
   }
-}</strong>
+}
 
 void Beep(int hz){
   if      (hz < 450)  { Burn(Leds[0]); }
@@ -226,29 +235,24 @@ void Beep(int hz){
   else if (hz < 1050) { Burn(Leds[4]); }
   else                { Burn(Leds[5]); }
 }
-</strong>
+
 void Burn(int led[2]){
   Burn(led[0], led[1]); 
 }
-</strong>
+
 void Burn(int highPin, int lowPin){
   pinMode(Pins[highPin], OUTPUT);
   pinMode(Pins[lowPin], OUTPUT);
 
   digitalWrite(Pins[highPin], HIGH);
   digitalWrite(Pins[lowPin], LOW);  
-}</strong>
+}
 ```
 
-
-
-<h4>Next Steps</h4>
-
+#### Next Steps
 
 I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:
 
-
-![IMAG0704[5].jpg](/assets/2010/IMAG0704[5].jpg)
-
+![](/assets/2010/IMAG0704-day-5.jpg)
 
 (The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)
