@@ -14,9 +14,13 @@ Instead, some are saying that they have [a right that isn’t right](http://www.
 
 **Of course not**. That’s just as silly as asking if priests are child molesters and if blondes are dumb—each of these has endless counterexamples of non-molesting priests, non-priest molesters, brilliant blondes, and idiotic gingers.
 
-So if Muslims aren’t terrorists, what’s the problem?   <h4>*Well...some people think that Muslims are terrorists...*</h4>
+So if Muslims aren’t terrorists, what’s the problem? 
 
-OK, so we should oppose it because some people are idiots?   <h4>*OK, I mean, I know that all Muslims aren’t terrorists but all terrorists are Muslims!* </h4>
+#### *Well...some people think that Muslims are terrorists...*
+
+OK, so we should oppose it because some people are idiots? 
+
+#### *OK, I mean, I know that all Muslims aren’t terrorists but all terrorists are Muslims!* 
 
 But they’re not! Timothy McVeigh killed 168 people in the Oklahoma City bombing, the second [deadliest terrorist attack](http://en.wikipedia.org/wiki/Oklahoma_City_bombing) in the US behind 9/11. Should we rally against McVeigh’s Catholicism (this is made an even better example because he [wasn’t much of a catholic](http://en.wikipedia.org/wiki/Timothy_McVeigh#Political_and_religious_views) anyway)? 
 
@@ -38,7 +42,9 @@ They did so not because they didn’t have a right to live in that neighborhood.
 They did so because they knew what their ongoing presence in that neighborhood would mean to the little girl’s family.&#160; Nothing was ever going to bring their little girl back, but every time they saw the boy’s parents or the boy himself, it would be like re-living that awful day again and again.
 </blockquote>
 
-This story is certainly compelling—playing the “think of the children” card is usually a sure bet—but I think it misses the mark. In this analogy, the boy who accidentally kills the girl moves away to spare the girl’s parents ongoing agony. If this were an accurate analogy to the Mosque kerfuffle, **all **little boys would have moved away.  <h4>*Alright so I’m still pissed about this Mosque, so what now?! * </h4>
+This story is certainly compelling—playing the “think of the children” card is usually a sure bet—but I think it misses the mark. In this analogy, the boy who accidentally kills the girl moves away to spare the girl’s parents ongoing agony. If this were an accurate analogy to the Mosque kerfuffle, **all **little boys would have moved away.
+
+#### *Alright so I’m still pissed about this Mosque, so what now?! * 
 
 **I totally get that some people’s initial, emotional reaction is negative**. What I can’t understand is how, after consideration of the obvious facts, people can stick to their initial prejudices. On most issues like taxes, health care, war, etc. I can respectfully disagree with differing views, but I just can’t get there with this one. Put on your big boy underpants and grow up.
 

@@ -16,9 +16,13 @@ title: 'My New Project Update: Name and Sitemap'
 
 ***
 
-<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** If you are disoriented, you might want to [browse more posts](http://blog.wassupy.com/search/label/Project Noodle) about this project</div>  <h4>Choosing a Name</h4>
+<div style="border-bottom: #888 1px solid; border-left: #888 1px solid; padding-bottom: 5px; background-color: #eee; margin: 0px auto; padding-left: 5px; width: 200px; padding-right: 5px; float: right; border-top: #888 1px solid; border-right: #888 1px solid; padding-top: 5px;">**Tip!** If you are disoriented, you might want to [browse more posts](http://blog.wassupy.com/search/label/Project Noodle) about this project</div>
 
-After about 12 seconds of deliberation, I’ve decided to call my interview tracking application “**Noodle**”. This was [Sarah’s](http://footedjammies.blogspot.com/) suggestion. To parry any accusations of bias, I have chosen to award a prize to the runner-up, too. Thank you, [Math Zombie](http://stuffmystudentsdraw.blogspot.com/), for suggesting I use a MacGyver themed names. I will bank that idea for a future project.  <h4>Recent Progress</h4>
+#### Choosing a Name
+
+After about 12 seconds of deliberation, I’ve decided to call my interview tracking application “**Noodle**”. This was [Sarah’s](http://footedjammies.blogspot.com/) suggestion. To parry any accusations of bias, I have chosen to award a prize to the runner-up, too. Thank you, [Math Zombie](http://stuffmystudentsdraw.blogspot.com/), for suggesting I use a MacGyver themed names. I will bank that idea for a future project.
+
+#### Recent Progress
 
 I’ve refined the sitemap a bit:  
 

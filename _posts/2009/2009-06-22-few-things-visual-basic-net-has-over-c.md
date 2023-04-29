@@ -21,7 +21,9 @@ These are the versions of C# known about at the time of this writing:
 **There is no such thing as C# 3.5** - the cause of confusion here is that the C# 3.0 is present in .NET 3.5. The language and framework are versioned independently, however - as is the CLR, which is still (at the time of .NET 3.5) at version 2.0, service packs notwithstanding.
 </blockquote>
 
-Now to the topic of the day: a few things that VB.NET has that C# lacks:  <h4>XML Literals</h4>
+Now to the topic of the day: a few things that VB.NET has that C# lacks:
+
+#### XML Literals
 
 XML Literals are definitely worth checking out if you do much with VB. Here's a snippet to give you an idea of what they look like:
 <blockquote>   

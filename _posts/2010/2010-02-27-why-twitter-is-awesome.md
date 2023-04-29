@@ -10,7 +10,9 @@ I don’t understand Twitter—how it works, how it makes money, or anything. As
 
 ![chart-tweets-per-day3-e1266872028279.png](/assets/2010/chart-tweets-per-day3-e1266872028279.png)
 
-Volume doesn’t make it awesome, though. Most of those tweets are about what uninteresting people are eating, watching, etc. Here’s why it’s awesome: I am empowered to connect with people in otherwise unreachable places. This calls for some examples:  <h4>Example 1: Microsoft</h4>
+Volume doesn’t make it awesome, though. Most of those tweets are about what uninteresting people are eating, watching, etc. Here’s why it’s awesome: I am empowered to connect with people in otherwise unreachable places. This calls for some examples:
+
+#### Example 1: Microsoft
 
 I recently ranted a bit about Visual Studio 2010 RC crashes:
 <blockquote> 
@@ -26,7 +28,9 @@ This brought a very nice reply from someone I’ve never heard of (@Pilchie):
 @mharen: Are you using a touch screen? Seen [http://bit.ly/dlT7ez](http://bit.ly/dlT7ez) ? [11:09 PM Feb 24th](http://twitter.com/Pilchie/status/9610121141)&#160;
 </blockquote>
 
-It turns out that @Pilchie is “Dev Lead for C# IntelliSense/Refactoring/etc at Microsoft”. Well how about that? In a mere 10 minutes, I was getting help from not just Microsoft, but the guy who works on the product I was complaining about. And his link worked!  <h4>Example 2: Stackoverflow/Codinghorror</h4>
+It turns out that @Pilchie is “Dev Lead for C# IntelliSense/Refactoring/etc at Microsoft”. Well how about that? In a mere 10 minutes, I was getting help from not just Microsoft, but the guy who works on the product I was complaining about. And his link worked!
+
+#### Example 2: Stackoverflow/Codinghorror
 
 I was working on a project which is using a lot of the same libraries that Stackoverflow uses. I ran into trouble with one of the components: I couldn’t figure out which version to use. So I pinged the lead developer/co-creator of SO:
 <blockquote> 
@@ -40,7 +44,9 @@ And his very prompt response:
 r @[mharen](http://twitter.com/mharen) our version is on Google Code, or you can dig through the fork-splosion on github and try to guess which version is "best" [7:33 PM Feb 8th](http://twitter.com/codinghorror/status/8832188858)
 </blockquote>
 
-In ***three*** minutes I had my answer from the top guy of the a product that’s used by bajillions (if not gajillions) of people. Even if he hadn’t answered, I was hoping that someone else might (this wasn’t a private query).  <h4>Example 3: Red Gate’s Neil Davidson</h4>
+In ***three*** minutes I had my answer from the top guy of the a product that’s used by bajillions (if not gajillions) of people. Even if he hadn’t answered, I was hoping that someone else might (this wasn’t a private query).
+
+#### Example 3: Red Gate’s Neil Davidson
 
 Via Twitter, I discovered a neat little book on software pricing. I tweeted about it:
 <blockquote> 

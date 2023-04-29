@@ -35,9 +35,13 @@ After freaking out on the giant tractor (photo unavailable), the kids found thei
 
 ![DSC_0061[7].jpg](/assets/2010/DSC_0061[7].jpg)</a>
 
-It took some work but I managed to get the kids away from the bean pit and onto the hay ride thingy. The plan, as I learned was to ride out into the middle of nowhere and do a corn maze. Then ride out to a different middle of nowhere and pick out a pumpkin.  <h4>Journey to the maze</h4>  
+It took some work but I managed to get the kids away from the bean pit and onto the hay ride thingy. The plan, as I learned was to ride out into the middle of nowhere and do a corn maze. Then ride out to a different middle of nowhere and pick out a pumpkin.
 
-&#160;![DSC_0169[5].jpg](/assets/2010/DSC_0169[5].jpg)</a>  <h4>Pumpkin Picking</h4>
+#### Journey to the maze  
+
+&#160;![DSC_0169[5].jpg](/assets/2010/DSC_0169[5].jpg)</a>
+
+#### Pumpkin Picking
 
 On the way to the pumpkin patch I explained my only rule to Thing 1: she can have any pumpkin she wants as long as she can lift it. I’ll carry it but she’s got to be able to pick it up. Those that overheard me immediately adopted similar rules for their families.
 

@@ -18,4 +18,13 @@ title: Ten Commandments of Trick or Treat
 9. Thou shalt not partake of treats until thou hast finished
 10. Thou shalt share treats with thy father
 
-![DSC_0104[10].jpg](/assets/2010/DSC_0104[10].jpg)
+![](/assets/2010/DSC_0072-10.jpg)
+![](/assets/2010/DSC_0104-10.jpg)
+
+---
+
+### 1 comment
+
+**Michael said on 2023-04-29**
+
+Update: I no longer support with most of these.

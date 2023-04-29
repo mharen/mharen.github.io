@@ -10,24 +10,22 @@ In the market from some high-speed Internet? You will no doubt need to select ho
 
 U-Verse:
 
-![image18.png](/assets/2010/image18.png)
+![](/assets/2010/isp-1.png)
 
 Time Warner:
 
-![image15.png](/assets/2010/image15.png)
+![](/assets/2010/isp-2.png)
 
 Wide Open West:
 
-![image22.png](/assets/2010/image22.png)
+![](/assets/2010/isp-3.png)
 
 There are two problems with all this: 
  
   1. The recommendations are completely crap     1. 
   2. They rarely give you information on what actually matters: your upstream—how fast you can [send stuff](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet):
 
-<span class="Apple-style-span" style="line-height: 19px;"></span> <span class="Apple-style-span" style="line-height: 19px;">     <h4><span class="Apple-style-span"><span class="Apple-style-span" style="line-height: 19px;">The Recommendations Are Completely Crap</span></h4>    
-
-<span class="Apple-style-span" style="line-height: 19px;"></span>    
+#### The Recommendations Are Completely Crap
 
 They suggest that if you are to have more than two people online at a time, play games, buy concert tickets, or watch videos you need a *15mbps connection*. That’s a load of c r a p. My office of 150 engineers (more bandwidth heavy than your average user, I’d guess) share a 15mbps connection and it’s plenty speedy.     
 
@@ -35,7 +33,9 @@ In fact, Sarah and I are dangerously addicted to tech, including streaming telev
 
 In the old days, I used to play Doom with friends across a 0.014mbps connection (a 14.4kbps modem).    
 
-The real issue here is that we don’t have much use for speeds in excess of 10mb. There are certainly services on the horizon that would benefit from faster speeds, but they aren’t on those charts. Plus, faster services would need something else, too, which brings me to...      <h4>What Really Matters Is Upstream</h4>    
+The real issue here is that we don’t have much use for speeds in excess of 10mb. There are certainly services on the horizon that would benefit from faster speeds, but they aren’t on those charts. Plus, faster services would need something else, too, which brings me to...      
+
+#### What Really Matters Is Upstream
 
 The most frustrating speed-related problem on the Internet today (for home users) is uploading files. Sending large pictures, uploading videos, posting to blogs, video chatting, etc. all require you to *send* a lot of data through a very small pipe.    
 
@@ -43,17 +43,19 @@ The reason this is a problem is that the speeds normally advertised are asynchro
 
 U-Verse (I couldn’t find this anywhere except [Wikipedia](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet)):    
 
-![image[3].png](/assets/2010/image[3].png)    
+![](/assets/2010/isp-4.png)
 
 Time Warner (credit to TW for making this easy to find):    
 
-![image6[1].png](/assets/2010/image6[1].png)   </span></span>
+![](/assets/2010/isp-5.png)
 
 Props to Wide Open West for providing that information in the initial graphic, though their recommendation that 15mbps is needed for gaming is silly.
 
 The sad fact is that even if you pay for ridiculous internet like Time Warner’s best offer, or the other vendors top choices, your upload is still far, far slower. **This matters because sending content goes at the slower upload speed.**
 
-**I would rather pay $10 to improve my upload speed from 1 to 2 mbps than improve my download speed from 6 to 12 mbps. **  <h4>Final Thoughts</h4>
+**I would rather pay $10 to improve my upload speed from 1 to 2 mbps than improve my download speed from 6 to 12 mbps.**
+
+#### Final Thoughts
 
 I appreciate that vendors are trying to make this stuff easier to buy—that’s great, this stuff is confusing. My objection is that for today’s internet, “Basic”, “Pro” or **anything around 5mbps is far and away sufficient for most people**. The average live Hulu stream is [under 1.5mbps](http://www.hulu.com/support/technical_faq#reqs). The average website is plenty fast on the smallest connection you can buy. **Vendors are not doing a good job justifying the upsell with any honesty.**
 

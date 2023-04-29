@@ -10,7 +10,9 @@ title: Why I love Having a Decent Camera Phone
 ---
 
 
-Without my camera phone (Droid Incredible), I would not have captured any of these images.  <h4>Thing1 enjoying her second day of school, playing with a mirror, and occasionally sleeping:</h4>  
+Without my camera phone (Droid Incredible), I would not have captured any of these images.
+
+#### Thing1 enjoying her second day of school, playing with a mirror, and occasionally sleeping:  
 
 ![IMAG0100[5].jpg](/assets/2010/IMAG0100[5].jpg)
 

@@ -36,8 +36,3 @@ My first project will be up shortly.
 
 ---
 
-### 1 comment
-
-**Sarah said on 2010-11-01**
-
-Yay!  Looking forward to seeing all your fun projects :)
