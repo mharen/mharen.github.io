@@ -5,24 +5,67 @@ categories: technology
 title: Why Computers Suck, Part 1
 ---
 
-
 I work with a lot of remote machines and this usually involves some fairly unpolished VPN software. Today’s experience definitely takes the cake. 
 
 When *you* login to your computer, here’s what probably happens:  
 
   1. Turn on computer     
-  2. Possibly enter username/password  </ol>
+  2. Possibly enter username/password
 
 Done.
 
 Here’s how *I* login:  
 
-  1. Turn on my computer
-  2. Enter username/password     
-  3. Launch Internet Explorer and go to specific address
-  4. Skip an SSL warning by clicking “Continue to this website (not recommended)”      
+1\. Turn on my computer
 
-![image[37].png](/assets/2010/image[37].png)</li> </ol>
+2\. Enter username/password
+
+3\. Launch Internet Explorer and go to specific address
+
+4\. Skip an SSL warning by clicking “Continue to this website (not recommended)” 
+
+![](/assets/2010/computers-suck-1.png)
+
+5\. Enter my numeric user ID, which I retrieve from an email since I can’t remember it and my PIN, and my RSA token code (changes every 60 seconds):
+
+![](/assets/2010/computers-suck-2.png)
+
+![](/assets/2010/computers-suck-3.png)
+
+
+6\. Install some VMWare addon thingy
+
+7\. Enter my login again, but this time with a different password that I also can’t remember, and choose a different domain:
+
+![](/assets/2010/computers-suck-4.png)
+
+8\. Then I accept a meaningless security warning:
+
+![](/assets/2010/computers-suck-5.png)
+
+9\. And ignore a JS error:
+
+![](/assets/2010/computers-suck-6.png)
+
+10\. Or two:
+
+![](/assets/2010/computers-suck-7.png)
+
+11\. And another warning; this is getting ridiculous
+
+![](/assets/2010/computers-suck-8.png)
+
+12\. And another
+
+![](/assets/2010/computers-suck-9.png)
+
+13\. And finally I’m ready to actually do something:
+
+![](/assets/2010/computers-suck-10.png)
+
+14\. But the “connection to the View Server is not ready. Please wait.”
+
+![](/assets/2010/view-server-37.png)
 
 Wait for what? Apparently I took too long doing all of the above and need to start again. Yikes!
 
@@ -49,4 +92,3 @@ But tell me the point of all these shenanigans is that you are logging in from h
 @jb : that's not my situation here, though it might as well be. My situation is that I work as a contractor for many different  companies and each one had their own progress for connecting to their network. 
 
 The processes I posted is better than requiring a dedicated machine, or going to site, but could certainly be improved.
-

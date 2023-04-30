@@ -7,8 +7,7 @@ categories:
 title: Where Do You See Yourself in Five Years? (Blue Pill or Red Pill?)
 ---
 
-
-![image8.png](/assets/2010/image8.png)
+![](/assets/2010/5-years-1.png)
 
 Until recently, this has always been an easy question for me.  
 * In middle school I wanted to be in computers so I obsessed over computers. 
@@ -25,7 +24,9 @@ But now I’m faced with a decision that I suddenly don’t have an easy answer 
 
 Quite simply, I need to decide if I want to move into management (i.e. manage projects and occasionally design software, but stop coding) or stay technical (i.e. design software and write code, but stop advancing). To code or not to code...
 
-#### ![magic8ball1.jpg](/assets/2010/magic8ball1.jpg)Option 1: The Default Path Into Management and Sales
+#### Option 1: The Default Path Into Management and Sales
+
+![](/assets/2010/5-years-2.jpg)
 
 The path of least external resistance is definitely to follow the management route at my current company. That’s what everyone expects me to do. It’s probably where the money is and provides new growth opportunities. Over time I’d have to give up coding and learn more about project management, people management, and sales—areas that don’t excite me terribly. This is the [blue pill](http://en.wikipedia.org/wiki/Bluepill) option.
 
@@ -41,7 +42,7 @@ The issue with this approach is that it’s not really compatible with my curren
 
 #### Decision Time
 
-![image5.png](/assets/2010/image5.png)
+![](/assets/2010/5-years-3.png)
 
 I can take option 2—stay put, stop advancing—*off* the table. I didn’t get where I am now by doing things that are comfortable and as wonderful as it sounds, I can’t imagine that working for me. I’m too easily bored, I guess.
 
