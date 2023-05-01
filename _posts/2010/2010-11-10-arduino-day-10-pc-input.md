@@ -25,7 +25,7 @@ I’m starting to lay the groundwork for a larger project that will be driven fr
 
 #### Schematic
 
-![](/assets/2010/Sketch_schem-day-10.png) 
+![](/assets/2010/Sketch_schem6.png) 
 
 #### Code  
 
