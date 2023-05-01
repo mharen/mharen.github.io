@@ -5,7 +5,6 @@ categories: technology
 title: In Defense of StackExchange / Trust the Experts / Roy Osherove is Wrong
 ---
 
-
 Something I’ve learned over the years wearing many hats—engineer, salesman, husband, father—is that people don’t really know what they want. That’s why we have specialists and experts. I recently read [The Paradox of Choice: Why More Is Less](http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less) wherein the author makes a solid case that we suck at making decisions, and the more decisions we make the less happy we are. This is very counterintuitive but as any indecisive person can probably relate, true. I’ll come back to this later.
 
 I was disappointed to read [Roy Osherove’s rant against Stack Exchange](http://weblogs.asp.net/rosherove/archive/2010/09/24/why-stackexchange-will-eventually-fail-control-freak-ism.aspx)—he’s far off base. He uses a credibility-tarnishing tone to build the following position: Stack Exchange will fail.
@@ -13,39 +12,38 @@ I was disappointed to read [Roy Osherove’s rant against Stack Exchange](http:/
 As an avid Stack Exchange supporter I think he’s wrong. If it does fail, it won’t be for the reasons he outlined. To help soften the quotes, I’ll add a baby with the expression I imagine was on Roy’s face as he typed.
 
 First, he was bothered by the wiki nature of the site:
-<blockquote> 
 
-![ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg](/assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg)<span class="Apple-style-span" style="text-align: left; line-height: 15px; font-size: 12px;">Execuse my french – but what the fuck are all these “enlightened” people doing editing my answers? If I wanted people editing my words, looking down at me, and deciding to change stuff, I’d start a wiki. as is, my answers are my own, and they reflect my mood, and my typos. and if they want me ot fix them they should ask me.</span>          The site makes no secret that it’s really just a giant wiki. It’s nothing new, either; it was founded with this as a core feature. Further, all new visitors see this when they first hit any page on the site:</blockquote>
+> ![](/assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg)
+> 
+> Execuse my french – but what the fuck are all these “enlightened” people doing editing my answers? If I wanted people editing my words, looking down at me, and deciding to change stuff, I’d start a wiki. as is, my answers are my own, and they reflect my mood, and my typos. and if they want me ot fix them they should ask me.
 
-![>    <br class=](/assets/2010/>    <br class=)It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you to give a quick look-see. And if you do, there’s a great—though a little long—explanation of how the site works, including this nice tidbit:
-<blockquote> 
+The site makes no secret that it’s really just a giant wiki. It’s nothing new, either; it was founded with this as a core feature. Further, all new visitors see this when they first hit any page on the site:
 
-**Other people can edit my stuff?!**  
+![](/assets/2010/so-faq.png)
 
-Like Wikipedia, this site is collaboratively edited, and all edits are tracked. If you are not comfortable with the idea of your questions and answers being edited by other trusted users, this may not be the site for you.
-</blockquote>
+It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you to give a quick look-see. And if you do, there’s a great—though a little long—explanation of how the site works, including this nice tidbit:
+
+> **Other people can edit my stuff?!**
+> 
+> Like Wikipedia, this site is collaboratively edited, and all edits are tracked. If you are not comfortable with the idea of your questions and answers being edited by other trusted users, this may not be the site for you.
 
 There’s also a slightly less obvious “about” link just under the yellow bar which offers this excellent graphic on the first screen:
 
-![venn-diagram.png](/assets/2010/venn-diagram.png)
+![](/assets/2010/so-venn.png)
 
 Sure, I don’t expect people to read the directions. But, if you don’t read the directions, it’s not really fair to cry fowl about the others that did. And in any case, the edits he’s probably all in a tizzy about are [good, positive edits](http://meta.stackoverflow.com/posts/65452/revisions).
 
 Next, Roy complains that the Stack Exchange overlords wield their iron fist of power abusively and inconsistently as they cherry pick good proposals to support, kill or merge. Or in his rambling words:
-<blockquote> 
 
-![Baby Frown_small.jpg](/assets/2010/Baby Frown_small.jpg)so control freaks as they are – they made a great platform and started selling it to create mini sites for questions. But they didn’t like it – they decided that “for the good of the community” it will be better if people couldn’t “buy” their own stack overflow sites, but instead [the community would have to vote on them](http://area51.stackexchange.com/faq) – controlfreak move #1 – WE decide for YOU that OTHERS will decide for YOU if your idea is good or not.
-</blockquote>
+> so control freaks as they are – they made a great platform and started selling it to create mini sites for questions. But they didn’t like it – they decided that “for the good of the community” it will be better if people couldn’t “buy” their own stack overflow sites, but instead [the community would have to vote on them](http://area51.stackexchange.com/faq) – controlfreak move #1 – WE decide for YOU that OTHERS will decide for YOU if your idea is good or not.
 
 First, there was clear evidence that the original for-hire model of StackExchange was a failure. They were very open about that and in retrospect it seems obvious why it failed: most sites lacked community. They figured out that the special sauce was to launch the site with a huge group of committed people. And so, they produced a very impressive mechanism for building up a community for any arbitrary topic *before launching a site*—Area 51. And it seems to be working pretty well. 
 
 Roy continues:
-<blockquote> 
 
-![ANd9GcTJUm7Y8dQ8StpjfhOfkO7ecAxoler87cdbckjZcqyDC6SFQK8.jpg](/assets/2010/ANd9GcTJUm7Y8dQ8StpjfhOfkO7ecAxoler87cdbckjZcqyDC6SFQK8.jpg)[so up goes a suggestion for a unit testing site (dev testing) [to area51].](http://area51.stackexchange.com/proposals/8494/unit-testing) It’s supposed to go through all the confirmation channels, get a specific number of supporters to get to being “live” and then joel and jeff will make it into a real site.   
-
-right. only the controlfreak nature won’t let go. the unit testing site is ALMOST up to being a legit site, with people from all over the community wanting to be part of it. after following all the rules that joel and jeff put up themselves, they suddenly drop this bomb - “[hey – why don’t we merge this unit testing thing with another site – it will make more sense that way!”](http://meta.stackoverflow.com/questions/65439/should-developer-testing-be-folded-into-a-more-general-programmers-site/65452#65452)
-</blockquote>
+> [so up goes a suggestion for a unit testing site (dev testing) [to area51].](http://area51.stackexchange.com/proposals/8494/unit-testing) It’s supposed to go through all the confirmation channels, get a specific number of supporters to get to being “live” and then joel and jeff will make it into a real site.   
+>
+> right. only the controlfreak nature won’t let go. the unit testing site is ALMOST up to being a legit site, with people from all over the community wanting to be part of it. after following all the rules that joel and jeff put up themselves, they suddenly drop this bomb - “[hey – why don’t we merge this unit testing thing with another site – it will make more sense that way!”](http://meta.stackoverflow.com/questions/65439/should-developer-testing-be-folded-into-a-more-general-programmers-site/65452#65452)
 
 The system is not perfect, but I think it’s reasonable that they step in from time to time and tweak things. This works especially well when they do so transparently and with community feedback, as they did.
 
@@ -66,4 +64,3 @@ I guess the requirement that they are trustworthy was implied.
 http://twitter.com/swedal/status/25898221598
 
 My other point could be summed up this way: the wisdom of crowds is overrated and in the case of site design amounts to design by committee, which works most effectively when guided by a product manager of sorts
-
