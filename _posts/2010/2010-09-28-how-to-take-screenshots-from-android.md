@@ -7,9 +7,10 @@ categories:
 title: How to Take Screenshots from an Android Phone
 ---
 
-
-![screenshot_2[4].png](/assets/2010/screenshot_2[4].png)</li>
-* Shake your phone </ol>
+1. Root your phone (ok, that’s not so simple) 
+2. Install “screenshot” from the Market 
+3. Open it up and check the box “Shake the phone to take a screenshot”: ![](/assets/2010/screenshot_2-4.png)
+4. Shake your phone
 
 Pretty handy!
 

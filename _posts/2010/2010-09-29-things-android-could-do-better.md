@@ -7,12 +7,11 @@ categories:
 title: Things Android Could Do Better
 ---
 
-
-![androidschmidt.jpg](/assets/2010/androidschmidt.jpg)
+![](/assets/2010/androidschmidt.jpg)
 
 I recently covered the things [I love about Android](../../2010/09/things-i-love-about-android.html) so it only seems fair to touch on its weaknesses (only a small portion of the part outside the "awesomeness" bubble on the previous post). I’d like to remind the audience that I’m not an Android or iPhone zealot—I think they are both fantastic devices and have recommended each. If anything, I'd say I'm a usability zealot but that's for another post.
 
-#### ![11970859362137157163crazyterabyte_low_battery_icon_3svghi.png](/assets/2010/11970859362137157163crazyterabyte_low_battery_icon_3svghi.png)Battery and Charging
+#### Battery and Charging
 
 The biggest problem for me is poor battery life. This will certainly vary from phone to phone as it strikes me as mostly a hardware issue. I’ve [heard](http://www.macworld.com/article/152460/2010/07/iphone4_battery.html) that the iPhone 4 gets good battery life, at least for a smartphone so that’s something to aspire to. My Droid Incredible can *just* make it a full day if I hardly use it. However, if I surf at lunch, use the GPS, or mess around with it much, it’s at 20% left by end of business.
 
@@ -22,9 +21,20 @@ It also seems to charge slowly. I don’t really have any empirical evidence for
 
 One hallmark difference between the Android platform and iPhone is the obvious fact that Android can run on numerous devices, each with different hardware. I have no problem with this. I like that people who prefer physical keyboards or optical joysticks, or whatever can get them. What I don’t like is that there’s seemingly no standard for button ordering or placement. For example, here’s the Motorola Droid 2, the Motorola Droid X, The HTC G1/Dream, and HTC Droid:  
 
-![droid-incredible-sold-out[2].jpg](/assets/2010/droid-incredible-sold-out[2].jpg) 
+![](/assets/2010/better-droid-2.jpg) 
+![](/assets/2010/better-droid-3.jpg) 
+![](/assets/2010/better-droid-4.jpg) 
+![](/assets/2010/better-droid-1.jpg) 
 
-Notice the button arrangements, read from left to right:  <table border="0" cellpadding="2" cellspacing="0" nowrap="nowrap" style="border-bottom: #ddd 1px solid; border-left: #ddd 1px solid; margin: 0px auto; border-top: #ddd 1px solid; border-right: #ddd 1px solid;" width="50%"><tbody>     <tr>       <td nowrap="nowrap">Moto Droid 2</td>        <td nowrap="nowrap">![droid-incredible-sold-out[3][6].jpg](/assets/2010/droid-incredible-sold-out[3][6].jpg)</td>        <td nowrap="nowrap">&#160;</td>        <td nowrap="nowrap">Home</td>        <td nowrap="nowrap">Menu</td>        <td nowrap="nowrap">Back</td>        <td nowrap="nowrap">Search</td>     </tr>   </tbody></table>
+Notice the button arrangements:
+
+![](/assets/2010/droid-buttons-1.jpg) 
+
+![](/assets/2010/droid-buttons-2.jpg) 
+
+![](/assets/2010/droid-buttons-3.jpg) 
+
+![](/assets/2010/droid-buttons-4.jpg) 
 
 This is crazy—the four standard buttons should **always** be in the same order. This is a pretty basic UI guideline that I am surprised wasn’t mandated in the Android licensing. There may very well be other combinations out there, too—these are just the first four phones I thought of. This comes 
 
