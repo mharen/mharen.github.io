@@ -29,6 +29,6 @@ Sierra and Pam both arrived around 8:30pm, and at that point my labor ramped up.
 
 One last thing (since this is already really long!) ~ looking back, as much research as I did about birth since Maya was born, and as convinced as I was that birth works if we just let it, I didn't truly in my heart believe that my body would do what it needed to do all on its own. Until I had this experience, I didn't realize how much my first birth had taken away from me. It makes me sad for women who choose to put their birth into someone else's hands. There is a time and a place for interventions, and I'm glad that I wasn't one of the women who truly needs them and thankful that we have doctors and hospitals available for those that do. But, after experiencing a truly natural, intervention-free birth, I can't imagine doing it any other way. 
 
-&#160;
+
 
 <span style="font-size: 85%;">*I've not heard of ONE baby who died because he or she was born at home...not one. Let alone "all those babies". And I find it highly unlikely that the majority of people using that argument have, either. Yes, babies die at home. Babies die in the hospital, too. Studies show that outcomes for low risk moms and babies are the same or better at home as in the hospital.</span>

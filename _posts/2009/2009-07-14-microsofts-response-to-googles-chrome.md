@@ -40,7 +40,7 @@ Here’s a rough mockup of what WindowsBing™ might look like (made with the ev
   4. WindowsBing™ Business (more expensive than home premium, with fewer features - $299
   5. WindowsBing™ Ultimate (home premium with a better screen saver) - $399
   6. WindowsBing™ Enterprise NoActivation!!1 - (home premium for [warez'ers](http://en.wikipedia.org/wiki/Warez)) - fa-reee! (Bundled with bittorrent, may spontaneously corrupt your user-profile, ruin life)
-  7. WindowsBing™ StarterEdition (Free edition for poor people)&#160; - ($0...poor people don't have computers)
+  7. WindowsBing™ StarterEdition (Free edition for poor people) - ($0...poor people don't have computers)
   8. WindowsBing™ EU edition (browser based OS with...[no bundled browser](http://news.bbc.co.uk/2/hi/business/7834792.stm)) - €199
   9. WindowsBing™ J/K edition (Windows7 [Mojave experiment](http://en.wikipedia.org/wiki/The_Mojave_Experiment) derivative) - $199
 

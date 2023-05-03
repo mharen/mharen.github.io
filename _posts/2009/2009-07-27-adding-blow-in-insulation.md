@@ -18,7 +18,7 @@ Maya read up on the installation procedure (pamphlet in hand) while I unloaded.
 
 The first step was cleanup. It took a lot longer than I anticipated as there was more junk and garbage than I thought. Insulation works best when it’s fluffy and even so all this stuff had to go. Some “before” shots:  
 
-![IMG_5556[10].jpg](/assets/2009/IMG_5556[10].jpg)</a>&#160;&#160; 
+![IMG_5556[10].jpg](/assets/2009/IMG_5556[10].jpg)</a> 
 
 
 
@@ -30,7 +30,7 @@ The first step was cleanup. It took a lot longer than I anticipated as there was
 
 After that came the main event. With my buddy Bryan feeding the blower, I crawled around the attic adding in 6-12 inches of insulation (the base was very uneven), bringing the attic up to R-49. Here are some “after” shots:  
 
-&#160;![IMG_5560[9].jpg](/assets/2009/IMG_5560[9].jpg)</a>&#160; 
+![IMG_5560[9].jpg](/assets/2009/IMG_5560[9].jpg)</a> 
 
 
 

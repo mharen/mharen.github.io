@@ -42,7 +42,7 @@ As expected, they included some coupons for more broth (which we can’t use in 
 
 ![IMG_6337[5].jpg](/assets/2009/IMG_6337[5].jpg)</a>    
 
-<font size="1">(Charlotte pictured, not Maya)</font>&#160;
+<font size="1">(Charlotte pictured, not Maya)</font>
 
 Maya **loves** them. So, Progresso, thanks for the coupons and the toys—I guess we’re even. I wish I could feed your product to my child, though!
 

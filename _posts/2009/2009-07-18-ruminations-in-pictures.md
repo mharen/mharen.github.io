@@ -13,7 +13,7 @@ I’ve been snapping pictures on my phone a lot lately. Here’s what I’ve cap
 
 Here’s a food pyramid recently posted at my office. It must be one of them new fangled row house pyramids.
 
-![200907110956_054[10].jpg](/assets/2009/200907110956_054[10].jpg)</a>&#160;
+![200907110956_054[10].jpg](/assets/2009/200907110956_054[10].jpg)</a>
 
 I’m a bigger fan of the [Natalie Dee](http://nataliedee.com/) variety:  
 
@@ -59,7 +59,7 @@ Apparently a Ford Explorer ate some poor Taurus and is cruising my fair city una
 
 Back to food. A few weeks before Charlotte was born we spent a day cooking and freezing. Trying to get a week’s worth of food into the freezer proved challenging (space, containers, etc.). Here’s what we did:  
 
-![IMG_5086[6].jpg](/assets/2009/IMG_5086[6].jpg)</a>&#160; 
+![IMG_5086[6].jpg](/assets/2009/IMG_5086[6].jpg)</a> 
 
 Anything that was liquidy was put in gallon bags and laid flat to freeze (soup, sauce, chili, etc.). That bag of sauce is about an inch thick. This has three awesome benefits: each bag is portioned with just 2-4 servings, they stack nicely in the freezer and they thaw in five minutes (I timed it, because I’m a nerd and can’t help it):
 
@@ -101,7 +101,7 @@ A few more quick shots and we’re outta here:
 
 Why yes, that’s a huge picnic table humping a moving truck.  
 
-&#160;
+
 
 
 

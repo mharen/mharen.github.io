@@ -7,8 +7,8 @@ categories:
 title: Word Document Automation with .NET 4
 ---
 
-
 I’ve been toying around with some document generation lately and thought I’d share a bit of what I’ve learned. Here’s a method for extracting a list of custom properties in use in the document:  
+
 ```cs
 /// <summary>
 /// Retrieves custom properties from a given Word document
@@ -57,8 +57,6 @@ public static Dictionary<string, string> GetDocProperties(string file)
  
 This is so much easier and cleaner with .NET4’s new dynamic capabilities and how nice it plays with COM. To use this, add the following references to your project:
 
-
   * Microsoft.Office.Interop.Word, v12 
-
   * Office, v12 
 

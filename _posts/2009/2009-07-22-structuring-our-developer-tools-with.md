@@ -23,7 +23,7 @@ Over the last few years, this has led to the collection of a few tools in partic
 
 There are many, many other tools that we use but that’s the short list of software everyone on every project I run becomes fluent in. And that’s why we’re putting so much effort in the infrastructure behind them. Here’s where our server architecture was headed:
 
-&#160;![image[19].png](/assets/2009/image[19].png)
+![image[19].png](/assets/2009/image[19].png)
 
 That’s ok for now, but it’s short-sighted and could be improved. With the magic of virtualization and a reverse proxy, we will very soon have these tools available through a common address with improved reliability and scalability. This is where we’re headed now:  
 

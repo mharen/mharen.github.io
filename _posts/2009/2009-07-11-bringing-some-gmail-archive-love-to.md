@@ -35,11 +35,11 @@ Open *Start > All Programs > Microsoft Office > MS Office Tools > Digital Certif
 
 Enter a name for the certificate and click *OK*:  
 
-![image[46].png](/assets/2009/image[46].png)&#160;
+![image[46].png](/assets/2009/image[46].png)
 
 Next, open up Outlook and go to *Tools > Macro > Visual Basic Editor*:  
 
-&#160;![image[47].png](/assets/2009/image[47].png) 
+![image[47].png](/assets/2009/image[47].png) 
 
 Next, enter this code under *Project1 > Microsoft Office Outlook > ThisOutlookSession* (thanks to [Richard](http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/) for this code!):
 <blockquote>   

@@ -5,12 +5,11 @@ categories: technology
 title: Class Inheritance Throw Back
 ---
 
-
-Another question I answered recently took me way back to my college classes on programming language theory. In those classes we studied the internals of languages in greater detail than I’d care to remember. We also build a [Scheme](http://en.wikipedia.org/wiki/Scheme_(programming_language)) scanner, parser, printer, too, which was fun.
+Another question I answered recently took me way back to my college classes on programming language theory. In those classes we studied the internals of languages in greater detail than I’d care to remember. We also built a [Scheme](http://en.wikipedia.org/wiki/Scheme_(programming_language)) scanner, parser, printer, too, which was fun.
 
 Anyway, the question today was: given a base class “Animal” and a derived class “Dog”, in what order are the constructors and destructors called when the child class is instantiated and destroyed?
 
-![image[2].png](/assets/2010/image[2].png) 
+![](/assets/2010/class-inher.png) 
 
 I haven’t touched C++ for a long time but after thinking about it for a few seconds, this is what would make sense to me:
 

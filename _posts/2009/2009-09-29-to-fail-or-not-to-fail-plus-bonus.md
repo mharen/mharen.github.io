@@ -10,7 +10,7 @@ A hilarious meme popular in my social group right now is that of the fail. This 
 
 While trying to refill a honey bear, I over filled causing quite a mess. Upon seeing my error, a witness is right to proclaim, “Fail!”. This is also increasingly popular in photos. For example, FailBlog is full of sign fails and science fails like these:  
 
-[![image[11].png](/assets/2009/image[11].png)](http://failblog.org/2009/08/30/sports-recognition-fail/)&#160;
+[![image[11].png](/assets/2009/image[11].png)](http://failblog.org/2009/08/30/sports-recognition-fail/)
 
 
 
@@ -41,7 +41,7 @@ The problem is that **a true fail is self evident **and most of these are not. A
 
 In the spirit of all things fail, here are a few pics I snapped on the way to work recently:  
 
-&#160;![200909040745_131[5].jpg](/assets/2009/200909040745_131[5].jpg)</a>    
+![200909040745_131[5].jpg](/assets/2009/200909040745_131[5].jpg)</a>    
 
 <font size="4">**Fire Fighting FTW**</font>
 
@@ -71,7 +71,7 @@ Impressive hand-writing, though!
 
 Pictures don’t do this next one justice. It was the saddest water feature I’ve seen in a long time:
 
-![200909090852_142[4].jpg](/assets/2009/200909090852_142[4].jpg)</a>&#160; 
+![200909090852_142[4].jpg](/assets/2009/200909090852_142[4].jpg)</a> 
 
 Despite its imposing size, it had just one little stream of water which did not do well to cover up the pump or wires powering the thing.
 

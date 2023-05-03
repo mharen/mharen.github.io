@@ -28,7 +28,7 @@ Some of my apps are incompatible with either W7 or X64 but Microsoft has me cove
 
 And then when you launch the app, it looks like a normal XP program (overtop a regular Windows 7 program for comparison):
 
-![image[22].png](/assets/2009/image[22].png)&#160;
+![image[22].png](/assets/2009/image[22].png)
 
 It’s a little slow and perhaps overkill for some small incompatibilities but it is extremely effective and was a major selling point for me.
 
@@ -38,6 +38,6 @@ Next, my touchpad scroll area doesn’t work. I screwed around with all the Vist
 
 Third, some development tools require some extra effort or have reduced functionality. For example, Visual Studio 2005 reminds me each time it runs that it’ll run better if I run it as an administrator. Further, VS2008 informed me that it’s not too keen on [Edit&Continue](http://social.msdn.microsoft.com/Forums/en-US/vside2008/thread/fa7b70cc-af72-4449-b44c-5ae1eb0a64bd) since I’m running x64. 
 
-Finally, I wish there had been a reasonable in-place upgrade option from Windows XP.&#160; Back in high school, we used to format our machines every month or two—that’s what was required to keep Windows 98 running with all the crap we were putting it through. XP was pretty solid, though, when used primarily for work stuff so I haven’t done a clean format in *years*. But to get to Windows 7, I would have had to first go to Vista. Doing two major upgrades seemed worse than doing one clean format. The format/install was painless and I imaged my system first which made me confident I wouldn’t lose anything. Still, reinstalling every damn piece of software and copying over settings to obscure locations is tiresome.
+Finally, I wish there had been a reasonable in-place upgrade option from Windows XP. Back in high school, we used to format our machines every month or two—that’s what was required to keep Windows 98 running with all the crap we were putting it through. XP was pretty solid, though, when used primarily for work stuff so I haven’t done a clean format in *years*. But to get to Windows 7, I would have had to first go to Vista. Doing two major upgrades seemed worse than doing one clean format. The format/install was painless and I imaged my system first which made me confident I wouldn’t lose anything. Still, reinstalling every damn piece of software and copying over settings to obscure locations is tiresome.
 
 Far and away, I’m loving Windows 7 and don’t regret the move at all. I just might do x86 if I had a do-over (though I might yet reap the benefits of x64 when I get a laptop upgrade in a year or two).

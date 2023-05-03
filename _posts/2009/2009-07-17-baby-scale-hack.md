@@ -28,15 +28,15 @@ As you can see, there’s a linear relationship between the can’s location and
 
 ![image[20].png](/assets/2009/image[20].png)</a>
 
-Get the ratio of red to blue by dividing the red distance by the blue distance. This is the multiplier to apply to whatever the scale reads to get the actual weight of the object on the scale. So if we’re half-way across, then we have a ratio of 2:1 or 2, so we double whatever the scale says to get the objects actual weight. If we’re just 1/4 of the way across, we quadruple whatever the scale says. That’s what I meant by a variable weight limit.&#160; I know that Charlotte is less than eight pounds (half of eight is four, the scale’s weight limit) so I just went with the midpoint.
+Get the ratio of red to blue by dividing the red distance by the blue distance. This is the multiplier to apply to whatever the scale reads to get the actual weight of the object on the scale. So if we’re half-way across, then we have a ratio of 2:1 or 2, so we double whatever the scale says to get the objects actual weight. If we’re just 1/4 of the way across, we quadruple whatever the scale says. That’s what I meant by a variable weight limit. I know that Charlotte is less than eight pounds (half of eight is four, the scale’s weight limit) so I just went with the midpoint.
 
 So did it work? Let’s see:
 
-&#160;![IMG_5489[7].jpg](/assets/2009/IMG_5489[7].jpg)</a>  
+![IMG_5489[7].jpg](/assets/2009/IMG_5489[7].jpg)</a>  
 
 Isn’t she lovely?
 
-&#160; ![IMG_5493[16].jpg](/assets/2009/IMG_5493[16].jpg)</a>  
+ ![IMG_5493[16].jpg](/assets/2009/IMG_5493[16].jpg)</a>  
 
 Behold: The power of the swaddle!
 

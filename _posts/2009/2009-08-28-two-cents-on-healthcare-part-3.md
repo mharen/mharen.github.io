@@ -59,8 +59,8 @@ This fear of change is something I simply do not understand. Maybe it’s just m
 * These steps are necessary for the fiscal stability of our nation as the [status quo is unsustainable](http://www.youtube.com/watch?v=Jng4TnKqy6A) (thanks for the video, Steve!) 
 
 
-We could hypothetically do this with private insurance and some new legislation. I’m not opposed to that idea out right, I just don’t think it’s practically possible. In the [health care equation](http://digitalroam.typepad.com/digital_roam/2009/08/american-health-care-on-4-napkins-now-all-together.html) between the patient, doctor, and insurance companies, only the insurance companies have a [direct incentive](http://www.npr.org/blogs/money/2009/08/hear_taking_health_care_to_the.html) to keep costs down and they’re doing a [lousy](http://cbo.gov/ftpdocs/89xx/doc8948/01-31-Testimony.shtml#1086784)&#160;[job](http://cbo.gov/ftpdocs/89xx/doc8948/01-31-Testimony.shtml#1087043) at it:
+We could hypothetically do this with private insurance and some new legislation. I’m not opposed to that idea out right, I just don’t think it’s practically possible. In the [health care equation](http://digitalroam.typepad.com/digital_roam/2009/08/american-health-care-on-4-napkins-now-all-together.html) between the patient, doctor, and insurance companies, only the insurance companies have a [direct incentive](http://www.npr.org/blogs/money/2009/08/hear_taking_health_care_to_the.html) to keep costs down and they’re doing a [lousy](http://cbo.gov/ftpdocs/89xx/doc8948/01-31-Testimony.shtml#1086784)[job](http://cbo.gov/ftpdocs/89xx/doc8948/01-31-Testimony.shtml#1087043) at it:
 
-![image[19].png](/assets/2009/image[19].png)&#160;
+![image[19].png](/assets/2009/image[19].png)
 
 I’m afraid I’ve run out of time to cover all the specific points that Tiffany and Tim discussed. I think they did a fine job and I will likely come back to some of their discussion in the future. They have both clearly put a lot of thought into how specific reform could be implemented and I like the dialog.

@@ -19,7 +19,7 @@ A particularly popular method of this in the Arduino world seems to be [Charliep
 
 Speaking of Charlie. Did you guys see that “Lost” finale a while back? I can’t talk about it but [this](http://www.collegehumor.com/video:1936291) sums up how I feel pretty well. I just watched that again and the pain/disappointment is still too real to discuss it.
 
-So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yesterday.&#160; The song has maybe 10 notes in total. I simply took the frequency range of those notes and broke it into six slices. As I mentioned yesterday, I have no musical skill whatsoever so these are completely arbitrary and not in any order.
+So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yesterday. The song has maybe 10 notes in total. I simply took the frequency range of those notes and broke it into six slices. As I mentioned yesterday, I have no musical skill whatsoever so these are completely arbitrary and not in any order.
 
 Here we go:  
 

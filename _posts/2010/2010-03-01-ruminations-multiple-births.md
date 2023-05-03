@@ -10,22 +10,23 @@ categories:
 title: 'Ruminations: Multiple Births; Congratulations'
 ---
 
-
 I am afraid if I ever have twins or triplets that I would try to carry too many at one time and drop one, both, all, etc. Oops!
 
 And that's my segway into my congratulations to B+T on their new double-dose of parenthood. Here's a list of things to keep you occupied during your downtime (infants are boring): 
-* N/A  
 
+* N/A  
 
 ...you won't be having any of that. Sorry. Now let's [extrapolate your family](http://xkcd.com/605/):
 
-[![extrapolating.png](/assets/2010/extrapolating.png)](http://xkcd.com/605/)
+[![](/assets/2010/extrapolating.png)](http://xkcd.com/605/)
 
-At this rate (if my calculations are correct), the trend is slightly alarming: ![image[14].png](/assets/2010/image[14].png) 
+At this rate (if my calculations are correct), the trend is slightly alarming: 
+
+![](/assets/2010/babies-14.png) 
 
 Of course the total number of kids you have will be a bit more dramatic:
 
-![image[17].png](/assets/2010/image[17].png) 
+![](/assets/2010/babies-17.png) 
 
 The only thing I can conclude from this is that you might want to refocus your house-hunting for something in the country. With lots of room.
 

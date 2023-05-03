@@ -12,7 +12,7 @@ Note to off-site viewers: this post has pictures. If you don’t see them, come 
 
 This is a follow-up on my [previous post](../../2009/07/structuring-our-developer-tools-with.html) about the server architecture I setup to support my company’s developers. This was the goal:
 
-&#160; ![image[11].png](/assets/2009/image[11].png) 
+ ![image[11].png](/assets/2009/image[11].png) 
 
 Or in words: users inside and outside of the company need access to a bunch of tools (the green arrows). The proposed way of doing that uses a single server as a gatekeeper and router to other servers (the black arrows).
 

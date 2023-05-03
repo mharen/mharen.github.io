@@ -33,7 +33,7 @@ The fact is, with finite time and resources we do the best we can to provide a g
 
 First, blame yourself, not the user. It’s usually not their fault something went wrong. I love the [stackoverflow](http://stackoverflow.com/) error message (only once encountered):
 
-&#160;![gooderrorpage7.png](/assets/2009/gooderrorpage7.png) 
+![gooderrorpage7.png](/assets/2009/gooderrorpage7.png) 
 
 Obviously [Lolcats](http://icanhascheezburger.com/) won’t work in some professional environments but the message certainly would: **This is our fault and we’re on it.** Here’s a less adorable mockup I made recently for a corporate project (thanks to [Balsamiq mockups](http://www.balsamiq.com/products/mockups/examples), a sweet mockup maker):  
 
