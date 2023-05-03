@@ -2,15 +2,14 @@
 layout: post
 date: '2010-03-08T15:20:00.001-05:00'
 categories:
-title: +/-20 Years of Computing
+- technology
+title: "+/-20 Years of Computing"
 ---
 
 
 In less than [140 characters](http://twitter.com/mharen/statuses/10184506556): 
-<blockquote> 
 
-Great new things by decade: 90s: make/save data; 00s: find data; 10s: visualize data, extract greater meaning; 20s: democratize data
-</blockquote>
+> Great new things by decade: 90s: make/save data; 00s: find data; 10s: visualize data, extract greater meaning; 20s: democratize data
 
 In detail:
 
@@ -58,5 +57,5 @@ Thanks to the Internet, I’ll end up back on some future incarnation of this pa
 
 **Michael Haren said on 2010-03-08**
 
-I *just* saw this: http://www.google.com/publicdata/directoryvery cool
+I *just* saw this: http://www.google.com/publicdata/directory. Very cool
 

@@ -105,7 +105,7 @@ It makes me cry a little to brute force every container I can think of this way.
 
 **Michael Haren said on 2010-02-27**
 
-Note: the finally{} cleanup code ought be enhanced with a call to something [like this](http://stackoverflow.com/questions/1907270/c-outlook-2007-com-interop-application-does-not-exit" rel="nofollow):
+Note: the finally{} cleanup code ought be enhanced with a call to something [like this](http://stackoverflow.com/questions/1907270/c-outlook-2007-com-interop-application-does-not-exit"):
 
     private static void DisposeApp(Application WordApp)
 

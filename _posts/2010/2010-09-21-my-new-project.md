@@ -20,7 +20,9 @@ I’m kicking off a new project today and am taking you along for the ride. Whil
 
 #### The Project
 
-[![interview-questions.gif](/assets/2010/interview-questions.gif)](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)The problem I’m trying to solve relates to how a company manages interviews. 
+[![](/assets/2010/interview-questions.gif)](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)
+
+The problem I’m trying to solve relates to how a company manages interviews. 
 
 For example, imagine this scenario. You get called for an interview with a company. You schedule a time and go in. You might talk to five different people who all form an opinion of you as a candidate. Ultimately these five opinions are considered in some way and some decision about your future is made.
 
@@ -40,15 +42,8 @@ This is pretty much going to be a one man show, with a lot of feedback along the
 
 #### Your Assignment
 
-![woot-bag-of-crap.jpg](/assets/2010/woot-bag-of-crap.jpg)If you are still with me, I’m impressed. Here’s what I’d like you to do: give this project a cool code name. It needs one and naming stuff is hard so help me out (leave a comment)! If your code name is chosen, a special gift of almost no value will be delivered directly to you. Seriously.
+![](/assets/2010/boc.jpg)
+
+If you are still with me, I’m impressed. Here’s what I’d like you to do: give this project a cool code name. It needs one and naming stuff is hard so help me out (leave a comment)! If your code name is chosen, a special gift of almost no value will be delivered directly to you. Seriously.
 
 The code name need not (and maybe ought not) have anything at all to do with the subject at hand.
-
----
-
-### 1 comment
-
-**Michael Haren said on 2010-09-27**
-
-I don't know who you are, anonymous, but those are horrible. Thanks for the comment, though.
-

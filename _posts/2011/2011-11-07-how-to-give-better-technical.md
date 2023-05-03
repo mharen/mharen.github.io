@@ -72,7 +72,7 @@ Now go forth and make a fool of yourself. *For science!*
 
 **Michael Haren said on 2011-11-07**
 
-For some great tips on improving your delivery, check out [Hanselman's tips](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx" rel="nofollow).
+For some great tips on improving your delivery, check out [Hanselman's tips](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx").
 
 **Sarah said on 2011-11-07**
 

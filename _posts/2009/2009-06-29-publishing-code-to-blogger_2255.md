@@ -34,5 +34,5 @@ I’m a fan—I’m using it to write this post!
 
 **BloggerGeeze said on 2010-02-17**
 
-I have almost tried everything in the internet about adding/displaying a code block on blogger and nothing work luckily I've seen this post from BloggerGeeze - [How to create code block on blogger](http://www.bloggergeeze.com/2010/02/how-to-create-code-block-on-blogger.html" rel="nofollow). Just sharing.
+I have almost tried everything in the internet about adding/displaying a code block on blogger and nothing work luckily I've seen this post from BloggerGeeze - [How to create code block on blogger](http://www.bloggergeeze.com/2010/02/how-to-create-code-block-on-blogger.html"). Just sharing.
 
