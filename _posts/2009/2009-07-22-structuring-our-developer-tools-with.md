@@ -7,7 +7,6 @@ categories:
 title: Structuring Our Developer Tools with a Reverse Proxy
 ---
 
-
 Note to off-site viewers: this post has pictures. If you don’t see them, come to the site for a better view!
 
 Running on some innate desire to improve our trade, a few of my coworkers and I are constantly trying out new developer tools. This has some upsides and downsides. The upside is that if a tool sticks, and brings something to the table, we’ve improved things. We can integrate it into our software development methodology to make everything better.
@@ -15,23 +14,21 @@ Running on some innate desire to improve our trade, a few of my coworkers and I 
 The downside is that by the nature of experimentation, some tools are duds and I sometimes feel like some half-wit software evangelist who promotes change for the sake of change. This is obviously not my intent. Let me be clear on that: my goal is to improve my trade. If something’s not working, I’m among the first to drop it.
 
 Over the last few years, this has led to the collection of a few tools in particular that many of us at Rovisys use daily: 
+
 * Source control: Subversion or Vault (svn’s on the way in, Vault’s on the way out) 
 * Issue tracker: Redmine 
 * Continuous Integration: Hudson CI 
 * Collaboration: Redmine’s Wiki and Microsoft OneNote  
 
-
 There are many, many other tools that we use but that’s the short list of software everyone on every project I run becomes fluent in. And that’s why we’re putting so much effort in the infrastructure behind them. Here’s where our server architecture was headed:
 
-![image[19].png](/assets/2009/image[19].png)
+![](/assets/2009/structure-1.png)
 
 That’s ok for now, but it’s short-sighted and could be improved. With the magic of virtualization and a reverse proxy, we will very soon have these tools available through a common address with improved reliability and scalability. This is where we’re headed now:  
 
-![image[9].png](/assets/2009/image[9].png)<font size="1">(those weird names are the server names; detect a theme?)</font>
+![](/assets/2009/structure-2.png)
 
-
-
-
+(those weird names are the server names; detect a theme?)
 
 What we’ve done is create a centralized access point into our developer tools while at the same time isolating each tool on its own virtualized server. I consider this a huge improvement for many reasons. Each of those services really deserves its own dedicated server. Since we have a huge Hyper-V server it was pretty simple to build one server VM and clone it a for each service. 
 
@@ -41,7 +38,7 @@ Another bonus: the new tool might not be new at all—it might already exist som
 
 Here’s where we might be in a few months:
 
-![image[22].png](/assets/2009/image[22].png) 
+![](/assets/2009/structure-3.png) 
 
 Here I’ve easily and correctly added in our Hudson server (which is already humming along nicely) and a customer project (which was improperly hidden alongside other tools since I had no way to do it properly). 
 

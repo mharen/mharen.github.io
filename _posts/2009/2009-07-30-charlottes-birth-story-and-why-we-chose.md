@@ -8,8 +8,9 @@ categories:
 title: Charlotte's Birth Story, and Why We Chose Homebirth (Written by Sarah)
 ---
 
+_By Sarah_
 
-We were planning on a homebirth since before I was even pregnant with Charlotte, though this wasn't information we went around advertising. It was a very informed choice made after doing lots of research (not surprising, since Michael is very statistics-oriented), but it was also a personal choice and arguing with people who said things like "but what about all those babies who DIED because they were born at home???"* wasn't my idea of a good time, and I needed to be surrounded by positive influences during my pregnancy. If you are interested in learning more about homebirth, just ask! I'd be happy to share my experience and my research with you. In the meantime, I'll share the [link that convinced Michael to give homebirthing a shot](http://gentlebirth.org/format/myths.html), a link to the [documentary that changed my life](http://www.thebusinessofbeingborn.com/), and my story... 
+We were planning on a homebirth since before I was even pregnant with Charlotte, though this wasn't information we went around advertising. It was a very informed choice made after doing lots of research (not surprising, since Michael is very statistics-oriented), but it was also a personal choice and arguing with people who said things like "but what about all those babies who DIED because they were born at home???"[^1] wasn't my idea of a good time, and I needed to be surrounded by positive influences during my pregnancy. If you are interested in learning more about homebirth, just ask! I'd be happy to share my experience and my research with you. In the meantime, I'll share the [link that convinced Michael to give homebirthing a shot](http://gentlebirth.org/format/myths.html), a link to the [documentary that changed my life](http://www.thebusinessofbeingborn.com/), and my story... 
 
 Stats:    
 
@@ -29,6 +30,6 @@ Sierra and Pam both arrived around 8:30pm, and at that point my labor ramped up.
 
 One last thing (since this is already really long!) ~ looking back, as much research as I did about birth since Maya was born, and as convinced as I was that birth works if we just let it, I didn't truly in my heart believe that my body would do what it needed to do all on its own. Until I had this experience, I didn't realize how much my first birth had taken away from me. It makes me sad for women who choose to put their birth into someone else's hands. There is a time and a place for interventions, and I'm glad that I wasn't one of the women who truly needs them and thankful that we have doctors and hospitals available for those that do. But, after experiencing a truly natural, intervention-free birth, I can't imagine doing it any other way. 
 
+***
 
-
-<span style="font-size: 85%;">*I've not heard of ONE baby who died because he or she was born at home...not one. Let alone "all those babies". And I find it highly unlikely that the majority of people using that argument have, either. Yes, babies die at home. Babies die in the hospital, too. Studies show that outcomes for low risk moms and babies are the same or better at home as in the hospital.</span>
+[^1]: I've not heard of ONE baby who died because he or she was born at home...not one. Let alone "all those babies". And I find it highly unlikely that the majority of people using that argument have, either. Yes, babies die at home. Babies die in the hospital, too. Studies show that outcomes for low risk moms and babies are the same or better at home as in the hospital.

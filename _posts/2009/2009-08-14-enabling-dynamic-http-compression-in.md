@@ -5,18 +5,14 @@ categories: windows
 title: Enabling Dynamic HTTP Compression in IIS7 on Windows Server 2008
 ---
 
-
 I’m not very familiar with the newer configuration screens in Windows Server 2008 so I pulled my hair out trying to update some settings. Apparently it’s just too obvious for Google to have been any help so I’m documenting it here for the next shmuck.
 
 I wanted to enable dynamic http compression. I found the page to *enable* it but it wasn’t *installed*:
-<blockquote> 
 
-“The dynamic content compression module is not installed.” (but we won’t tell you how to install it)
-</blockquote>
+> “The dynamic content compression module is not installed.” (but we won’t tell you how to install it)
 
 It turns out that installing it is very easy and didn’t require a reboot (for me, at least):
 
-**Text only**
 
 Install it:  
 
@@ -24,39 +20,14 @@ Install it:
   2. Roles > Web Server (IIS)    
   3. Role Services (scroll down) > Add Role Services    
   4. Add desired role (Web Server > Performance > Dynamic Content Compression)    
-  5. Next, Install, Wait...Done! </ol>
+  5. Next, Install, Wait...Done!
 
 Enable it:  
 
   1. Open server manager
   2. Roles > Web Server (IIS) > Internet Information Services (IIS) Manager    
   3. Next pane: Sites > Default Web Site > Your Web Site    
-  4. Main pane: IIS > Compression </ol>
-
-**With perdy pictures**
-
-Install it:  
-  1. Open server manager     
-
-![SNAG-0002[3].png](/assets/2009/SNAG-0002[3].png)</a></li> </ol>
-
-Enable it:  
-  1. Open server manager    
-  2. Roles > Web Server (IIS) > Internet Information Services (IIS) Manager     
-
-![SNAG-0005[3].png](/assets/2009/SNAG-0005[3].png)</a> </li> </ol>
-
-
-
-
-
-
-
-
-
-
-
-
+  4. Main pane: IIS > Compression
 
 You might be wondering why you’d want to compress content in the first place. [This site](http://weblogs.asp.net/owscott/archive/2009/02/22/iis-7-compression-good-bad-how-much.aspx) has a nice analysis of the practice as well as detailed information regarding what compression level you should use (and how to set it).
 

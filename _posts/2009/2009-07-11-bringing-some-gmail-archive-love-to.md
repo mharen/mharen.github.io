@@ -9,7 +9,6 @@ categories:
 title: Bringing some Gmail-Archive Love to Outlook
 ---
 
-
 I love Gmail's archive feature. It frees me from organizing my mail by depending on search instead. If you’re unfamiliar, here’s the Google approach to mail:  
 
   1. New mail shows up in your inbox    
@@ -19,35 +18,31 @@ I love Gmail's archive feature. It frees me from organizing my mail by depending
 
 I’ve been using a similar approach in Outlook at work for a long time. Encouraged by a [GTD idea](http://getitdone.quickanddirtytips.com/inbox-zero.aspx) (cool podcast, btw), I created this structure:  
 
-![image[55].png](/assets/2009/image[55].png) 
-
-
+![](/assets/2009/outlook-archive-00001.png) 
 
 This mimics the Gmail approach pretty well and means that I can often get to a zero-message inbox. I use a slightly more complex approach at work by adding two extra archive folders (Later and Waiting). These hold mail that is not yet actionable.
 
 This process has worked wonders for me—really! So now my problem is this: I’m in the office after some paternity leave and I have hundreds of messages to run through. This leaves me missing gmail’s shortcut key for archiving. With a quick press of the “y” key, I can archive messages in gmail and I wanted that in Outlook, too! Here’s how I did it.
 
 First, create a certificate so you can sign the macro we’re about to create. Do this by following [these instructions](http://grok.lsu.edu/Article.aspx?articleId=593) (this is my abbreviated version):
-<blockquote> 
 
-Open *Start > All Programs > Microsoft Office > MS Office Tools > Digital Certificate for VBA Projects*
-</blockquote>
+> Open *Start > All Programs > Microsoft Office > MS Office Tools > Digital Certificate for VBA Projects*
 
 Enter a name for the certificate and click *OK*:  
 
-![image[46].png](/assets/2009/image[46].png)
+![](/assets/2009/outlook-archive-00002.png)
 
 Next, open up Outlook and go to *Tools > Macro > Visual Basic Editor*:  
 
-![image[47].png](/assets/2009/image[47].png) 
+![](/assets/2009/outlook-archive-00003.png) 
 
 Next, enter this code under *Project1 > Microsoft Office Outlook > ThisOutlookSession* (thanks to [Richard](http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/) for this code!):
-<blockquote>   
-```cs
+
+```vb
 Option Explicit
 
 Public Sub ArchiveSelectedItems()
-    MoveSelectedItemsToFolder **<font color="#ff0000">"1_Archive"</font>**
+    MoveSelectedItemsToFolder "1_Archive"
 End Sub
 
 'http://richarddingwall.name/2007/11/15/adding-gmails-archive-button-to-microsoft-outlook/
@@ -82,53 +77,29 @@ ErrorHandler:
 End Sub
 ```
 
-</blockquote>
-
-
-
-![image[49].png](/assets/2009/image[49].png)</a> 
-
-
-
-
+![](/assets/2009/outlook-archive-00004.png)</a> 
 
 Create the folder in red (*1_Archive*) under your inbox or change the code to refer to your folder of choice.
 
-
 Sign the certificate by choosing *Tools > Digital Signature > Choose*:
 
+![](/assets/2009/outlook-archive-00005.png) 
 
-
-![image[50].png](/assets/2009/image[50].png) 
-
-
-
-![image[51].png](/assets/2009/image[51].png) 
-
+![](/assets/2009/outlook-archive-00006.png) 
 
 Save and close the VBA window. Restart Outlook (choose *Yes *to save anything if prompted).
 
-
 Next, let’s create a button for our new Macro with *Tools > Customize*:
 
-
-
-![image[52].png](/assets/2009/image[52].png) 
-
+![](/assets/2009/outlook-archive-00007.png) 
 
 Choose the *Macros *category and drag the Archive macro to your toolbar:
 
-
-
-![image[53].png](/assets/2009/image[53].png) 
-
+![](/assets/2009/outlook-archive-00008.png) 
 
 Then, with the customize window still open, right click on the button you just created and give it a better name and set it to *Text Only*:
 
-
-
-![image[54].png](/assets/2009/image[54].png) 
-
+![](/assets/2009/outlook-archive-00009.png) 
 
 I named mine *&Quick Archive*. The ampersand sets the hotkey to the letter that follows it (denoted by the underlined letter in the toolbar). In this case, it will be *Alt-Q*.
 

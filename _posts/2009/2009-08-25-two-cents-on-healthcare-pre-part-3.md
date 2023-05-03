@@ -7,7 +7,6 @@ categories:
 title: Two Cents on Healthcare, Pre-Part 3
 ---
 
-
 While I prepare part three of my healthcare series, I’d like to get some feedback on a question that’s come up more often than I expected:
 
 **Is access to comprehensive healthcare a right or a privilege (regardless of ability to pay)?**

@@ -7,7 +7,6 @@ categories:
 title: Two Cents on Healthcare
 ---
 
-
 I’m not prepared to tackle the healthcare debate on this blog just yet. I have very strong feelings on the matter—so much so that I’m not sure where to start. I’m swirling from thought to thought unsure of how to begin writing. It’s a feeling similar to what I experience after a house move where I just walk around in circles unsure of how or what to start unpacking. So I’ll be brief. 
 
 **I fully support dramatic health care reform. I don’t know what the right solution is but what [we’re doing now](http://www.photius.com/rankings/healthranks.html) isn’t it.**

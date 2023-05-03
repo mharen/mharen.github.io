@@ -5,50 +5,36 @@ categories: household
 title: Adding Blow-In Insulation
 ---
 
-
 I’d been thinking about adding some insulation to my attic for a while now. This year’s 30% tax credit gave me the final kick I needed to do it. I went to Lowe’s and bought 16 bags of Owens Corning blow in insulation which came with a free 24-hour blower rental. It was a tight fit but I made it in one trip:  
 
-![IMG_5544[5].jpg](/assets/2009/IMG_5544[5].jpg)</a>   
+![](/assets/2009/insul-1.jpg)
+
+![](/assets/2009/insul-2.jpg)
+
 
 Maya read up on the installation procedure (pamphlet in hand) while I unloaded.
 
-
-
-![IMG_5552[3].jpg](/assets/2009/IMG_5552[3].jpg) 
+![](/assets/2009/insul-3.jpg) 
 
 The first step was cleanup. It took a lot longer than I anticipated as there was more junk and garbage than I thought. Insulation works best when it’s fluffy and even so all this stuff had to go. Some “before” shots:  
 
-![IMG_5556[10].jpg](/assets/2009/IMG_5556[10].jpg)</a> 
+![](/assets/2009/insul-4.jpg)
 
+![](/assets/2009/insul-5.jpg)
 
-
-
-
-
-
-
+![](/assets/2009/insul-6.jpg)
 
 After that came the main event. With my buddy Bryan feeding the blower, I crawled around the attic adding in 6-12 inches of insulation (the base was very uneven), bringing the attic up to R-49. Here are some “after” shots:  
 
-![IMG_5560[9].jpg](/assets/2009/IMG_5560[9].jpg)</a> 
+![](/assets/2009/insul-7.jpg)
 
+![](/assets/2009/insul-8.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![](/assets/2009/insul-9.jpg)
 
 Cost detail:
 
-![image[7].png](/assets/2009/image[7].png) 
+![](/assets/2009/insul-10.png) 
 
 Some lessons learned or things I’ll do differently next time:  
 
@@ -72,4 +58,3 @@ All told, I burned about 5 hours on the project, including two trips to Lowe’s
 Yeah, as fascinating a device as the blower is, it loses its novelty fast.  Then you're left staring at the huge stack of insulation wishing it were a huge stack of bubble gum.  
 
 Damn, that'd be a lot of gum.
-
