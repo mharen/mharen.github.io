@@ -5,10 +5,10 @@ categories:
 title: Food Allergies != Fun
 ---
 
-
 Sarah and I grew up without allergies and in allergy-free homes with allergy-free extended families and mostly allergy-free friends. That’s why it’s so strange to us that Maya has unpleasant sensitivities to so many different foods. 
 
 The confirmed list of banned foods includes: 
+
 * Tomatoes
 * Pineapple
 * Blueberries
@@ -16,9 +16,9 @@ The confirmed list of banned foods includes:
 
 
 And some recent probable foods: 
+
 * Soy
 * Corn 
-
 
 In case you haven’t checked a food label recently, that means she can’t eat anything. No cheese, ice cream, ketchup, fruit salad, anything sweetened with corn syrup (e.g. almost everything), anything with soybeans or soybean oil (everything else), or anything with butter in it.
 
@@ -28,11 +28,11 @@ Fortunately, Sarah’s taken this all in stride. She bakes all of our bread and 
 
 So as you might imagine, we’ve become quite good at reading food labels. We love that labels are often very clear, including nice bold statement like “contains milk, soy”, but sometimes they hide ingredients behind phrases like “natural flavors” and “spices”. As a parent trying to figure out why my almost-two-year-old daughter is sensitive to a dish it’s very helpful to know what’s actually in it. Concealing ingredients behind groupings like those is very frustrating for us.
 
-![image[17].png](/assets/2009/image[17].png)A recent example of our struggle is Progresso chicken broth. What’s in chicken broth you say? According to the product label, the website, the toll free number on the back of the box, and the letter they sent us, this is what’s in there:
-<blockquote> 
+![](/assets/2009/chicken-broth-17.png)
 
-<font size="1">Ingredients: <u>Chicken Broth</u>, Sea Salt, Sugar, Autolyzed Yeast Extract, Carrot Puree, <u>Natural Flavor</u>, Salt, Chicken Powder, Chicken Fat*, Celery Juice Concentrate, Onion Powder, Chicken Meat, Carrot Juice Concentrate, <u>Spices</u>, Onion Juice Concentrate, Garlic Powder. [underlining added]</font>
-</blockquote>
+A recent example of our struggle is Progresso chicken broth. What’s in chicken broth you say? According to the product label, the website, the toll free number on the back of the box, and the letter they sent us, this is what’s in there:
+
+> Ingredients: **Chicken Broth**, Sea Salt, Sugar, Autolyzed Yeast Extract, Carrot Puree, **Natural Flavor**, Salt, Chicken Powder, Chicken Fat*, Celery Juice Concentrate, Onion Powder, Chicken Meat, Carrot Juice Concentrate, **Spices**, Onion Juice Concentrate, Garlic Powder.
 
 Oh, so the first ingredient in broth is...broth. That makes sense. So Sarah emailed and called Progresso to find out what exactly are: chicken broth, natural flavor, and spices. I’m wondering what chicken powder is, too, but that’s for another day. Their response: **we don’t know** (i.e. they don’t tell us so we can’t tell you). I called again and pressed further and was simply told to stop buying Progresso Broth if I was worried about it because they can’t tell me what’s in it.
 
@@ -40,9 +40,11 @@ Well that was frustrating. This as a great example of a company failing to win a
 
 As expected, they included some coupons for more broth (which we can’t use in anything Maya touches because we still don’t know what’s in it). *Unexpected*, though, was the reason for the package: they included a bunch of General Mills-themed matchbox cars. Seriously—we have four of these things:  
 
-![IMG_6337[5].jpg](/assets/2009/IMG_6337[5].jpg)</a>    
+![](/assets/2009/kid-car.jpg)
 
-<font size="1">(Charlotte pictured, not Maya)</font>
+![](/assets/2009/matchbox-car.jpg)
+
+(Charlotte pictured, not Maya)
 
 Maya **loves** them. So, Progresso, thanks for the coupons and the toys—I guess we’re even. I wish I could feed your product to my child, though!
 
@@ -55,6 +57,4 @@ Maya **loves** them. So, Progresso, thanks for the coupons and the toys—I gues
 Often "natural flavor" means there is MSG in the product.  Just read that recently, can't remember where or would send you the link.
 
 Friend of your Mom's
-
 Jenny
-
