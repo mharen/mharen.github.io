@@ -25,21 +25,21 @@ I don’t have anything to rant about today so I’ll instead direct you to this
 
 #### Build
 
-![](/assets/2010/IMAG0725-day-8.jpg)
+![]({{ "/assets/2010/IMAG0725-day-8.jpg" | relative_url }})
 
-![](/assets/2010/IMAG0726-day-8.jpg)
+![]({{ "/assets/2010/IMAG0726-day-8.jpg" | relative_url }})
 
 The circuit and code are completely from scratch, but they are so simple I wouldn’t be surprised to find a near duplicate elsewhere. Note that the buttons are on opposite sides of the board on purpose: this is a two player game.
 
 #### Circuit
 
-![](/assets/2010/Sketch_bb-day-8.png)
+![]({{ "/assets/2010/Sketch_bb-day-8.png" | relative_url }})
 
 #### Schematic
 
 The schematic makes this thing look insane. I suggest just looking at the circuit above—it’s really a simple build.
 
-![](/assets/2010/Sketch_schem-day-8.png)
+![]({{ "/assets/2010/Sketch_schem-day-8.png" | relative_url }})
 
 #### Code
 

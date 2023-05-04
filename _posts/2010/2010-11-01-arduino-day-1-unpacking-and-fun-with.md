@@ -15,36 +15,36 @@ Today is my first day with the Arduino, and the first day I’ve touched a micro
 
 Since I don’t really have anything except random LEDs, that’s what I’ll get started with. But first, let’s unpack the board:
 
-![](/assets/2010/IMAG0651.jpg)
+![]({{ "/assets/2010/IMAG0651.jpg" | relative_url }})
 
 Oooo a neat red box! What’s inside?
 
-![](/assets/2010/IMAG0653.jpg)
+![]({{ "/assets/2010/IMAG0653.jpg" | relative_url }})
 
-![](/assets/2010/IMAG0654.jpg)
+![]({{ "/assets/2010/IMAG0654.jpg" | relative_url }})
 
 I don’t really care about Madagascar, but I did watch those movies and apparantly just helped to protect some forest there so...I guess what I’m trying to say is, “you’re welcome, Madagascar”. Actually, no, you’re not welcome, Madagascar, you suck. Whenever I play Risk, you just sit there off the coast of Africa demanding an unreasonable number of troops to protect and I’m sick of it. 
 
 OK, back to the present. Here we are:
 
-![](/assets/2010/IMAG0655.jpg)
+![]({{ "/assets/2010/IMAG0655.jpg" | relative_url }})
 
 This thing didn’t come with any directions so let’s just plug it in and see what happens:  
 
-![](/assets/2010/installing drivers.png)
-![](/assets/2010/device ready.png)
+![]({{ "/assets/2010/installing drivers.png" | relative_url }})
+![]({{ "/assets/2010/device ready.png" | relative_url }})
 
-![](/assets/2010/IMAG0659.jpg)
+![]({{ "/assets/2010/IMAG0659.jpg" | relative_url }})
 
 Excellent (see the yellow light in the middle?), and we didn’t let the smoke out yet! This board will take power from USB (or a DC plug), which is awfully convenient since I always have USB handy.
 
 Time for a quick program. I downloaded the [Arduino software](http://arduino.cc/en/Main/Software), unzipped it, and fired it up (no install). 
 
-![](/assets/2010/day-2-1.png)
+![]({{ "/assets/2010/day-2-1.png" | relative_url }})
 
 A blank window. Interesting. A friend had previously shown me this neat trick: go to File > Examples > Whatever:
 
-![](/assets/2010/day-2-2.png)
+![]({{ "/assets/2010/day-2-2.png" | relative_url }})
 
 Here are dozens of neat examples to start with. I chose Basics > Fade to play around with the LEDs I had. The sample code just fades an LED on and off forever. After wiring up the board according to the [incredible directions](http://arduino.cc/en/Tutorial/Fade) on the site, it worked! Amazing.
 
@@ -62,15 +62,15 @@ It’s a much better experience in person—my camera’s frame rate isn’t qui
 
 #### Build:
 
-![](/assets/2010/IMAG0661.jpg)
+![]({{ "/assets/2010/IMAG0661.jpg" | relative_url }})
 
 Circuit (built with the amazing [Fritzing](http://fritzing.org/)):
 
-![](/assets/2010/day one - bb.png)
+![]({{ "/assets/2010/day one - bb.png" | relative_url }})
 
 Schematic (automatically built from the above image with the amazing [Fritzing](http://fritzing.org/)):
 
-![](/assets/2010/day one - schema.png)
+![]({{ "/assets/2010/day one - schema.png" | relative_url }})
 
 #### Code:
 

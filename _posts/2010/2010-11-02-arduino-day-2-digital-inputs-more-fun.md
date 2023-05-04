@@ -19,7 +19,7 @@ It’s really pretty simple. For switches 0 and 1, I have the hot line coming th
 
 In code I watch the two switch inputs and do a basic binary check to turn these two bits into four options (off/off, off/on, on/off, on/on). On...off...that reminds me of the [Karate Kid](http://www.imdb.com/title/tt0087538/). 
 
-![](/assets/2010/day-2-karate.png)
+![]({{ "/assets/2010/day-2-karate.png" | relative_url }})
 
 In the Karate Kid, this old guy befriends a teenager after beating a bunch of bullies senseless. Through couldn’t-work-in-a-million-years training, Mr. Miyagi (the old guy) eventually leads the annoying kid (Daniel-san) to victory at the local Karate championship, and thereby winning the heart of Captain-Bully-Bag-Of-Many-Douches’s ex-girlfriend. 
 
@@ -29,17 +29,17 @@ Ah memories! Back to the project:
 
 #### Build:
 
-![](/assets/2010/IMAG0665.jpg)
+![]({{ "/assets/2010/IMAG0665.jpg" | relative_url }})
 
-![](/assets/2010/IMAG0668.jpg)
+![]({{ "/assets/2010/IMAG0668.jpg" | relative_url }})
 
 Circuit (built with the amazing [Fritzing](http://fritzing.org/"):
 
-![](/assets/2010/day two - bb.png)
+![]({{ "/assets/2010/day two - bb.png" | relative_url }})
 
 Schematic (automatically built from the above image with the amazing [Fritzing](http://fritzing.org/"):
 
-![](/assets/2010/day two - schema.png)
+![]({{ "/assets/2010/day two - schema.png" | relative_url }})
 
 #### Code:
 

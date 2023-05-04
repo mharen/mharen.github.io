@@ -12,7 +12,7 @@ As a continuation of yesterday’s post wherein I built an [analog clock without
 
 Again, here’s where we’re headed:
 
-![goal.png](/assets/2012/goal.png)
+![goal.png]({{ "/assets/2012/goal.png" | relative_url }})
 
 Let’s start with the basic layout again—just a section with an HTML5 <time> element within it:
 

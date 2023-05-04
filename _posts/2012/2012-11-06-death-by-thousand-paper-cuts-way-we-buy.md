@@ -16,7 +16,7 @@ month or two to close.
 
 Death by a thousand paper cuts, as they say.
 
-![a for sale sign in a house's front yard that has been amended to say "must sell", "best offer", "don't make me beg"](/assets/2012/for sale-2.jpg)
+![a for sale sign in a house's front yard that has been amended to say "must sell", "best offer", "don't make me beg"]({{ "/assets/2012/for sale-2.jpg" | relative_url }})
 
 When you consider how messed up our housing industry has been for the last few years I think it’s incredible that not much has changed 
 already. By some accounts, I’d say it’s actually worse (I’ve heard that buying a short-sale or foreclosure takes *even more *time).

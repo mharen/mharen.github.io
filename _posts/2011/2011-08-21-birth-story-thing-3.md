@@ -20,11 +20,11 @@ This is all from my perspective, and is meant to complement whatever Wife may wr
 
 **6:15** Wife wakes me up. Even in my zombie morning state it’s obvious what’s about to happen. I somehow discern that nothing is imminent and am graciously awarded time for a shower. I shower, dress and organize the birth supplies.
 
-![2011-08-17 at 06-03-36.jpg](/assets/2011/2011-08-17 at 06-03-36.jpg)
+![2011-08-17 at 06-03-36.jpg]({{ "/assets/2011/2011-08-17 at 06-03-36.jpg" | relative_url }})
 
 **6:30** I come downstairs to find BirthTeam assembling. I guess they were called before I was woken. I should probably be surprised by this but it was a good call. The kids are sound asleep.
 
-![2011-08-17 at 06-03-41.jpg](/assets/2011/2011-08-17 at 06-03-41.jpg)
+![2011-08-17 at 06-03-41.jpg]({{ "/assets/2011/2011-08-17 at 06-03-41.jpg" | relative_url }})
 
 **6:30** Midwife is put on alert that there’s a good chance it’s about to get real.
 
@@ -32,7 +32,7 @@ This is all from my perspective, and is meant to complement whatever Wife may wr
 
 **7:00** Wife labors with grace and wonder through increasingly intense contractions for about an hour. Just when she starts getting anxious about Midwife, Midwife arrives.
 
-![2011-08-17 at 06-05-18.jpg](/assets/2011/2011-08-17 at 06-05-18.jpg)  
+![2011-08-17 at 06-05-18.jpg]({{ "/assets/2011/2011-08-17 at 06-05-18.jpg" | relative_url }})  
 
 **8:00** Contractions slow just slightly at the good news that Midwife is here. I encourage Wife to walk and we start wandering around the neighborhood. Each contraction (about every 5 minutes) produces an interesting scene that must be confusing to our neighbors. It goes like this: wife will lean on me, or the ground and I’ll hold a long warm rice sock[^1] low across her belly while she whispers[^2] sweet labor sounds to the heavens.
 
@@ -40,25 +40,25 @@ Thing 1 and Thing 2 wake up.
 
 **9:00** Contractions are back to about three minutes apart and are now too difficult to talk during. Wife spends most of her time resting or enduring contractions on the birth ball.
 
-![2011-08-17 at 06-03-34.jpg](/assets/2011/2011-08-17 at 06-03-34.jpg)
+![2011-08-17 at 06-03-34.jpg]({{ "/assets/2011/2011-08-17 at 06-03-34.jpg" | relative_url }})
 
 Every 15 minutes or so she escapes alone to the bathroom for five minutes, which gives me a chance to check on BirthTeam, my other kiddos, play Words with Friends, update my out of office status, eat breakfast, etc. So far this labor has been so easy for me that I start to feel guilty.
 
 **9:30** Wife is no longer amused at any of my jokes. Others pick up on this via some sort of XX-chromosome-pair-linked telepathy but wife takes pity on me and suggests, quite directly, that I stop talking. We’ve run out of small talk and we’re both pretty tired so this is convenient. Wife starts eyeing the tub.
 
-![2011-08-17 at 06-05-23.jpg](/assets/2011/2011-08-17 at 06-05-23.jpg)
+![2011-08-17 at 06-05-23.jpg]({{ "/assets/2011/2011-08-17 at 06-05-23.jpg" | relative_url }})
 
 **10:00** In the tub! Our last child, Thing 2, was born in a high-sided baby pool in the master bedroom at our old house. Luckily, our new house has a tub big enough for the job. The tub is seems to offer great relief to Wife. Midwife continues to check on her and give her encouragement on how to keep labor moving. Contractions maintain pace and increase in intensity. With help from BirthTeam, I’m able to stay planted by the tub and apply a steady stream of cold cloths to Wife’s forehead with each contraction. The kids make frequent tub-side visits to inquire quite candidly on the whereabouts of the baby, and remark about the whole you’re-in-the-bathtub(!) situation.
 
 Midwife occasionally adds a few drops of lavender essential oils to the tub. The atmosphere is tense but the room smells nice.
 
-![2011-08-17 at 10-09-43.jpg](/assets/2011/2011-08-17 at 10-09-43.jpg)
+![2011-08-17 at 10-09-43.jpg]({{ "/assets/2011/2011-08-17 at 10-09-43.jpg" | relative_url }})
 
 ***(If you’re not the slightest bit familiar with birth, you might want to stop reading now. Fair warning...this may be considered graphic)***
 
 **12:00 pm** Things are pretty intense now. Wife is making some sounds that are drawing a crowd of younglings. With the beginning of each contraction they creep closer and then lean back in surprise as volume peaks. I wish I had pictures of their faces—truly priceless. Around this time, Wife is not getting the overwhelming sense that things are progressing as smoothly or rapidly as expected and asks Midwife to check her cervix.
 
-![2011-08-17 at 10-09-50.jpg](/assets/2011/2011-08-17 at 10-09-50.jpg)
+![2011-08-17 at 10-09-50.jpg]({{ "/assets/2011/2011-08-17 at 10-09-50.jpg" | relative_url }})
 
 Midwife reports that the baby’s head is pretty much ready to crown but something may be blocking his grand escape (hand, cord, edge of cervix, a word from our sponsors, who knows). She suggests we move to the bed just in case any complex maneuvers are necessary as they are easier to execute on land.
 
@@ -70,67 +70,67 @@ We carefully help Wife to the bed which is already doubly made up with regular f
 
 **12:10** Within moments of the explosive delivery of fluid, Baby’s head, full of hair, starts crowning. With some gentle guidance from Midwife, and another push, his head comes through. One final push and he fully emerges, followed by another surprising volume of fluid.
 
-[![pirate flush.png](/assets/2011/pirate flush.png)](http://www.veggiepirates.com/)
+[![pirate flush.png]({{ "/assets/2011/pirate flush.png" | relative_url }})](http://www.veggiepirates.com/)
 
 And then joy. Raw, cliché, tears-in-your-eyes joy. A dramatic, heart wrenching joy that engulfs us again and again with each tiny cry from this tiny little person that we’ve spent that last 39 weeks praying for[^5].
 
-![2011-08-17 at 11-32-59.jpg](/assets/2011/2011-08-17 at 11-32-59.jpg)
+![2011-08-17 at 11-32-59.jpg]({{ "/assets/2011/2011-08-17 at 11-32-59.jpg" | relative_url }})
 
 Everyone—Wife, me, Midwife, BirthTeam and assorted kiddos—spend the rest of the hour cooing and fawning over Baby. He is delightful.
 
 *(There’s more after all these pictures.)*
 
-![2011-08-17 at 11-33-26.jpg](/assets/2011/2011-08-17 at 11-33-26.jpg)
+![2011-08-17 at 11-33-26.jpg]({{ "/assets/2011/2011-08-17 at 11-33-26.jpg" | relative_url }})
 
-![2011-08-17 at 11-41-26.jpg](/assets/2011/2011-08-17 at 11-41-26.jpg)
+![2011-08-17 at 11-41-26.jpg]({{ "/assets/2011/2011-08-17 at 11-41-26.jpg" | relative_url }})
 
-![2011-08-17 at 11-43-13.jpg](/assets/2011/2011-08-17 at 11-43-13.jpg)
+![2011-08-17 at 11-43-13.jpg]({{ "/assets/2011/2011-08-17 at 11-43-13.jpg" | relative_url }})
 
-![2011-08-17 at 11-43-33.jpg](/assets/2011/2011-08-17 at 11-43-33.jpg)
+![2011-08-17 at 11-43-33.jpg]({{ "/assets/2011/2011-08-17 at 11-43-33.jpg" | relative_url }})
 
-![2011-08-17 at 11-43-48.jpg](/assets/2011/2011-08-17 at 11-43-48.jpg)
+![2011-08-17 at 11-43-48.jpg]({{ "/assets/2011/2011-08-17 at 11-43-48.jpg" | relative_url }})
 
-![2011-08-17 at 12-17-37.jpg](/assets/2011/2011-08-17 at 12-17-37.jpg)
+![2011-08-17 at 12-17-37.jpg]({{ "/assets/2011/2011-08-17 at 12-17-37.jpg" | relative_url }})
 
-![2011-08-17 at 12-18-41.jpg](/assets/2011/2011-08-17 at 12-18-41.jpg)
+![2011-08-17 at 12-18-41.jpg]({{ "/assets/2011/2011-08-17 at 12-18-41.jpg" | relative_url }})
 
-![2011-08-17 at 12-43-30.jpg](/assets/2011/2011-08-17 at 12-43-30.jpg)
+![2011-08-17 at 12-43-30.jpg]({{ "/assets/2011/2011-08-17 at 12-43-30.jpg" | relative_url }})
 
-![2011-08-17 at 12-48-58.jpg](/assets/2011/2011-08-17 at 12-48-58.jpg)
+![2011-08-17 at 12-48-58.jpg]({{ "/assets/2011/2011-08-17 at 12-48-58.jpg" | relative_url }})
 
-![2011-08-17 at 12-52-02.jpg](/assets/2011/2011-08-17 at 12-52-02.jpg)
+![2011-08-17 at 12-52-02.jpg]({{ "/assets/2011/2011-08-17 at 12-52-02.jpg" | relative_url }})
 
-![2011-08-17 at 13-07-10.jpg](/assets/2011/2011-08-17 at 13-07-10.jpg)
+![2011-08-17 at 13-07-10.jpg]({{ "/assets/2011/2011-08-17 at 13-07-10.jpg" | relative_url }})
 
-![2011-08-17 at 13-18-06.jpg](/assets/2011/2011-08-17 at 13-18-06.jpg)
+![2011-08-17 at 13-18-06.jpg]({{ "/assets/2011/2011-08-17 at 13-18-06.jpg" | relative_url }})
 
-![2011-08-17 at 13-18-25.jpg](/assets/2011/2011-08-17 at 13-18-25.jpg)
+![2011-08-17 at 13-18-25.jpg]({{ "/assets/2011/2011-08-17 at 13-18-25.jpg" | relative_url }})
 
-![2011-08-17 at 13-18-37.jpg](/assets/2011/2011-08-17 at 13-18-37.jpg)
+![2011-08-17 at 13-18-37.jpg]({{ "/assets/2011/2011-08-17 at 13-18-37.jpg" | relative_url }})
 
-![2011-08-17 at 13-19-22.jpg](/assets/2011/2011-08-17 at 13-19-22.jpg)
+![2011-08-17 at 13-19-22.jpg]({{ "/assets/2011/2011-08-17 at 13-19-22.jpg" | relative_url }})
 
-![2011-08-17 at 13-19-31.jpg](/assets/2011/2011-08-17 at 13-19-31.jpg)
+![2011-08-17 at 13-19-31.jpg]({{ "/assets/2011/2011-08-17 at 13-19-31.jpg" | relative_url }})
 
-![2011-08-17 at 13-33-19.jpg](/assets/2011/2011-08-17 at 13-33-19.jpg)
+![2011-08-17 at 13-33-19.jpg]({{ "/assets/2011/2011-08-17 at 13-33-19.jpg" | relative_url }})
 
-![2011-08-17 at 13-33-30.jpg](/assets/2011/2011-08-17 at 13-33-30.jpg)
+![2011-08-17 at 13-33-30.jpg]({{ "/assets/2011/2011-08-17 at 13-33-30.jpg" | relative_url }})
 
-![2011-08-17 at 14-05-17.jpg](/assets/2011/2011-08-17 at 14-05-17.jpg)
+![2011-08-17 at 14-05-17.jpg]({{ "/assets/2011/2011-08-17 at 14-05-17.jpg" | relative_url }})
 
 **1:00** Still high on the experience of meeting Baby, we are ridiculously excited about everything. Use the bathroom for the first time postpartum? OmgHellYesCanIHoldBabyDuring? BirthTeam friends give us some space to soak it all in. Midwife brings Wife an impressive lunch spread (now that she’s eating again) and gives her a quick exam.
 
-![2011-08-17 at 11-33-24.jpg](/assets/2011/2011-08-17 at 11-33-24.jpg)
+![2011-08-17 at 11-33-24.jpg]({{ "/assets/2011/2011-08-17 at 11-33-24.jpg" | relative_url }})
 
 Midwife does the baby exam on the bed right in front of us and walks us through each detail as she adoringly checks it. All are invited to observe. She examines the the placenta and involves the curious kiddos as much as they are comfortable with. Midwife asks of our plans for the placenta and refuses to chuckle at my quizzical expression. Wife decides to freeze it “for now”[^6].
 
-![2011-08-17 at 12-04-22.jpg](/assets/2011/2011-08-17 at 12-04-22.jpg)
+![2011-08-17 at 12-04-22.jpg]({{ "/assets/2011/2011-08-17 at 12-04-22.jpg" | relative_url }})
 
-![2011-08-17 at 12-03-28.jpg](/assets/2011/2011-08-17 at 12-03-28.jpg)
+![2011-08-17 at 12-03-28.jpg]({{ "/assets/2011/2011-08-17 at 12-03-28.jpg" | relative_url }})
 
 Midwife weighs and measures Baby (7lb-9oz, 20.5”). She gives us a few final instructions for caring for boys (we already have two girls). There’s little difference.  
 
-![2011-08-17 at 12-39-06.jpg](/assets/2011/2011-08-17 at 12-39-06.jpg)
+![2011-08-17 at 12-39-06.jpg]({{ "/assets/2011/2011-08-17 at 12-39-06.jpg" | relative_url }})
 
 **2:00** BirthTeam friends gather up offspring, wish us well, and leave. Midwife fills out Baby’s certificate (he’s still unnamed), and leaves (she’ll return tomorrow for a follow up). I see everyone off and discover that they have been busy caring for not just our children but our home. BirthTeam friends and Midwife have done laundry, dishes, and cleaned our bathroom. They even baked Baby a birthday cake! These touching gifts are so, so appreciated as the house falls quiet[^7].
 
@@ -154,7 +154,7 @@ Thank you to everyone who supported us on Baby’s birthday.
 
 We are so fortunate to have you all.
 
-![2011-08-17 at 13-27-58.jpg](/assets/2011/2011-08-17 at 13-27-58.jpg)
+![2011-08-17 at 13-27-58.jpg]({{ "/assets/2011/2011-08-17 at 13-27-58.jpg" | relative_url }})
 
 *(Tip: click the number, or your browser’s back button to go back.)* 
 

@@ -13,7 +13,7 @@ I don’t get out much. My last concert was...a while ago. There is something ab
 
 Take, for example, the following invoice for four tickets to Toy Story on Ice (I have kids, ok?):
 
-![](/assets/2010/ticket racket.png)
+![]({{ "/assets/2010/ticket racket.png" | relative_url }})
 
 That’s $44 for the tickets, and $26.75 for...I don’t know what for. They are literally charging 61% extra. These are electronic tickets so they aren’t even *trying to hide the evil* with these fees. You don’t have bags to haul around like an airline—we’re talking about electrons here. 
 

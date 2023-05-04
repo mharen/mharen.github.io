@@ -19,23 +19,23 @@ Next pop the back open.
 
 No! Unplug it first!
 
-![IMG_20110709_160741.jpg](/assets/2011/IMG_20110709_160741.jpg)
+![IMG_20110709_160741.jpg]({{ "/assets/2011/IMG_20110709_160741.jpg" | relative_url }})
 
 I was pretty sure the plug was fine but I tested it with my multimeter just in case. ~220v check!
 
 Now pop it open already!
 
-![IMG_20110709_160758.jpg](/assets/2011/IMG_20110709_160758.jpg)
+![IMG_20110709_160758.jpg]({{ "/assets/2011/IMG_20110709_160758.jpg" | relative_url }})
 
 OK... hey, what’s that? A burned up wire?
 
-![IMG_20110709_160840.jpg](/assets/2011/IMG_20110709_160840.jpg)
+![IMG_20110709_160840.jpg]({{ "/assets/2011/IMG_20110709_160840.jpg" | relative_url }})
 
 Now’s a good time to say, “now there’s your problem.” Why’d it burn up? Who knows. Condensation, chassis short, something or other, I don’t know. Normally these wires have little clips on them that let you easily attach them to other components (don’t you love how I say “normally” like I knew that before I started this project?). Unfortunately I don’t have any of those and the one that was attached here is not really up for the job. YOU’RE FIRED WIRE CLIP GUY!
 
 Never fear, I’ll just grab my soldering iron. Actually, before I go through the trouble of soldering this back together (I suck at soldering), let’s see if that’s the problem first by reattaching it with a special wire reattacher tool:
 
-![IMG_20110709_160811.jpg](/assets/2011/IMG_20110709_160811.jpg)  
+![IMG_20110709_160811.jpg]({{ "/assets/2011/IMG_20110709_160811.jpg" | relative_url }})  
 
 With that attached by what is one of the [most useful tools ever](http://en.wikipedia.org/wiki/Locking_pliers), me a safe distance away, no children present, and fire extinguisher at the ready (just kidding, it was way far away), I verified the dryer operated as expected. Hooray!
 

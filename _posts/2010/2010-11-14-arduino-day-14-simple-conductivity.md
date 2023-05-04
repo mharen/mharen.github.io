@@ -23,7 +23,7 @@ Why is the applesauce dark red? Good Question. It’s homemade, and the best we 
 
 The build is identical to the previous few days with a simple analog input added the same way as the CdS cell in [another build](../../2010/11/arduino-day-6-analog-inputs.html) (I used a 10kΩ resistor instead of 470Ω, though).
 
-![](/assets/2010/IMAG0782.jpg) 
+![]({{ "/assets/2010/IMAG0782.jpg" | relative_url }}) 
 
 #### Code
 

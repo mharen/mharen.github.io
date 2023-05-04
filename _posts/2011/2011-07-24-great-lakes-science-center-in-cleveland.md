@@ -16,15 +16,15 @@ They also have a fantastic play area that any kid under about seven or eight wou
 
 Getting ready (wife made amazing banana chocolate chip pancakes while I slept!):  
 
-![science-center-2.jpg](/assets/2011/science-center-2.jpg)  
+![science-center-2.jpg]({{ "/assets/2011/science-center-2.jpg" | relative_url }})  
 
 With full bellies, we made it to the Science Center after stopping to calm the troops just once.   
 
-![science-center-4.jpg](/assets/2011/science-center-4.jpg)
+![science-center-4.jpg]({{ "/assets/2011/science-center-4.jpg" | relative_url }})
 
 (Pro tip: take a decent cell phone pic of your kids when you get to a busy place. This way, if they get lost you have a handy picture of exactly what they look like and what they’re wearing. If it’s on a cell phone, you can share it quickly if needed, too. And, if you don’t need it, you at least have a couple cute pics.)  
 
-![science-center-8.jpg](/assets/2011/science-center-8.jpg)  
+![science-center-8.jpg]({{ "/assets/2011/science-center-8.jpg" | relative_url }})  
 
 Bernoulli’s Principle:  
 
@@ -34,49 +34,49 @@ Bernoulli’s Principle:
 
 They had a neat display on DNA sequencing, including a board asking people what they thought about it:
 
-![science-center-21.jpg](/assets/2011/science-center-21.jpg)
+![science-center-21.jpg]({{ "/assets/2011/science-center-21.jpg" | relative_url }})
 
 And this one that triggered a memory of a [hilarious comic](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html):
 
-![science-center-20.jpg](/assets/2011/science-center-20.jpg)    
+![science-center-20.jpg]({{ "/assets/2011/science-center-20.jpg" | relative_url }})    
 
 Maya filled out her own sheet:  
 
-![science-center-26.jpg](/assets/2011/science-center-26.jpg)  
+![science-center-26.jpg]({{ "/assets/2011/science-center-26.jpg" | relative_url }})  
 
 I bet her feelings are shared by many. 
 
 Before we left that exhibit, Wife got a chance to school us in DNA building:  
 
-![ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04](/assets/2011/science-center-16.jpg)
+![ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04]({{ "/assets/2011/science-center-16.jpg" | relative_url }})
 
 Then we did something new: took a tour of the steamship [*William G. Mather*](http://www.glsc.org/mather_museum.php). Unfortunately, I have very few pictures of it. Suffice it to say, it’s utterly massive. Here’s a pic from [Wikipedia](http://en.wikipedia.org/wiki/Steamship_William_G._Mather_Maritime_Museum) that really doesn’t do it justice:
 
-![science-center-27.jpg](/assets/2011/science-center-27.jpg)  
+![science-center-27.jpg]({{ "/assets/2011/science-center-27.jpg" | relative_url }})  
 
 Thing1 tailing Thing2 in a flight simulator: “I’m on your six!”
 
-![science-center-14.jpg](/assets/2011/science-center-14.jpg)
+![science-center-14.jpg]({{ "/assets/2011/science-center-14.jpg" | relative_url }})
 
 “Uh oh!”
 
-![science-center-11.jpg](/assets/2011/science-center-11.jpg)
+![science-center-11.jpg]({{ "/assets/2011/science-center-11.jpg" | relative_url }})
 
 “I got this one, Goose.”
 
-![science-center-12.jpg](/assets/2011/science-center-12.jpg)
+![science-center-12.jpg]({{ "/assets/2011/science-center-12.jpg" | relative_url }})
 
 “Engage.”
 
-![science-center-13.jpg](/assets/2011/science-center-13.jpg)
+![science-center-13.jpg]({{ "/assets/2011/science-center-13.jpg" | relative_url }})
 
 And finally, the ball pit.
 
-![science-center-9.jpg](/assets/2011/science-center-9.jpg)
+![science-center-9.jpg]({{ "/assets/2011/science-center-9.jpg" | relative_url }})
 
 The pit has this cool bucket that the kids fill through various means. At any time, someone can pull a chain to dump it.
 
-![science-center-10.jpg](/assets/2011/science-center-10.jpg)    
+![science-center-10.jpg]({{ "/assets/2011/science-center-10.jpg" | relative_url }})    
 
 And they often do.  
 

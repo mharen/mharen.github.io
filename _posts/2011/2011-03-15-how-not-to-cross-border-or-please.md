@@ -14,7 +14,7 @@ Before Sunday, I’ve been redirected to immigration twice. The first time, a ve
 
 The second time I just answered a few questions and was on my way.
 
-[![348516764_f4eb021893_b.jpg](/assets/2011/348516764_f4eb021893_b.jpg)](http://www.flickr.com/photos/thomashawk/5366984244/)
+[![348516764_f4eb021893_b.jpg]({{ "/assets/2011/348516764_f4eb021893_b.jpg" | relative_url }})](http://www.flickr.com/photos/thomashawk/5366984244/)
 
 Sunday was a different story. I was making fantastic time when I crossed the Ambassador bridge. The booth agent didn’t much care for my song and dance around the “w” word and sent me to immigration. The guy there wasn’t too happy to see me either. He asked for my documentation—letter of attestation, college diploma, resume and customer contract—and was disappointed that I wasn’t sure what he was talking about and couldn’t provide any of it. 
 
@@ -64,7 +64,7 @@ She asked me a bunch of new questions and genuinely tried to understand exactly 
 
 Apparently she didn’t realize I had just gathered/written them minutes before. I was on my way at last! I hopped in my car and sped off, a couple of hours behind schedule. I happily looked up and saw this:
 
-[![Ambassador.jpg](/assets/2011/Ambassador.jpg)](http://www.metroscap.com/detroit/533/the-ambassador-bridge.php)
+[![Ambassador.jpg]({{ "/assets/2011/Ambassador.jpg" | relative_url }})](http://www.metroscap.com/detroit/533/the-ambassador-bridge.php)
 
 Oh that’s weird, I thought. Then, quite suddenly, I realized this meant **I was headed back into the United States** and shouted a four letter word. I had a decision to make. I could go through customs two more times (and pay the bridge toll twice again, too), or do something very dumb. **I was tired and irritable so I did the latter.**
 

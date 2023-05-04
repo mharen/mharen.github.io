@@ -9,7 +9,7 @@ title: First Look at Windows 7
 
 When Windows 7 hit MSDN late last week, I took the plunge...and I’m loving it.
 
-![](/assets/2009/windows-1.png) 
+![]({{ "/assets/2009/windows-1.png" | relative_url }}) 
 
 I’m not one to participate in the religious wars that operating systems seem to cultivate—I have three machines, each perfectly suited to its task: a Windows machine, a Mac, and a Linux box. I’d say I’m pretty well rounded. Interestingly, I have almost zero experience with Vista. I’ve used Server 2008 a bit and liked it but for many reasons was stuck on XP until just recently.
 
@@ -19,15 +19,15 @@ Anyway, back to Windows 7. It’s awesome. Compared to XP, it is elegant, quick 
 
 First some good things. The defaults seem to be much better this time around. I have found myself changing very little in the control panel. On my modest 1.6ghz dual-core laptop, it’s very snappy. The new Explorer is very nice to work with and actually provides helpful information as you go in the form of action buttons directly underneath the address bar:
 
-![](/assets/2009/windows-2.png) 
+![]({{ "/assets/2009/windows-2.png" | relative_url }}) 
 
 Some of my apps are incompatible with either W7 or X64 but Microsoft has me covered with [Windows 7 XP Mode](http://www.microsoft.com/windows/virtual-pc/get-started.aspx). XP Mode is basically an entire install of XP virtualized to run within your current Windows 7 session. They do some nice tricks to make things blend in with W7 but it’s really just an app running in a VM. I used this for the Cisco VPN Client (which doesn’t support x64) and a weird corporate app. Once you install them inside the XP VM, they show up on your Windows 7 Start menu like so:
 
-![](/assets/2009/windows-3.png) 
+![]({{ "/assets/2009/windows-3.png" | relative_url }}) 
 
 And then when you launch the app, it looks like a normal XP program (overtop a regular Windows 7 program for comparison):
 
-![](/assets/2009/windows-4.png)
+![]({{ "/assets/2009/windows-4.png" | relative_url }})
 
 It’s a little slow and perhaps overkill for some small incompatibilities but it is extremely effective and was a major selling point for me.
 

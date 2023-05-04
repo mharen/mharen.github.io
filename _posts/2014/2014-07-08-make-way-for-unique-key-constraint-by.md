@@ -43,6 +43,6 @@ SELECT * FROM @Widgets
 ```
 You ought to be able to run all that and get these results in SQL Server:
 
-> ![query-results.png](/assets/2014/query-results.png)
+> ![query-results.png]({{ "/assets/2014/query-results.png" | relative_url }})
 
 Adapt to your needs :).

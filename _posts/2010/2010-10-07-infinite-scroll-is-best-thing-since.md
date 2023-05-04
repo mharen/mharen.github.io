@@ -13,7 +13,7 @@ Infinite scroll is something you might not have even noticed. It’s the slick e
 
 The trick is that they load more *before *you need it so you never notice it happening. It’s like when the waiter brings you a refill when you’ve still got a couple sips to go. Good stuff.
 
-![](/assets/2010/gooooooogle.png)
+![]({{ "/assets/2010/gooooooogle.png" | relative_url }})
 
 This design pattern replaces paging. Remember paging? That’s what this blog does. When you get to the bottom, there’s a button that says “Older Posts”. When clicked, this starts you anew at the top of the page, but with a different set of seven posts. If, instead of this button, new posts just kept appearing at the bottom (probably without you even realizing it), it’d be infinite scroll.
 
@@ -23,13 +23,13 @@ I really like the full on approach where you don’t have to click anything and 
 
 Twitter does this, too. You can see when I first load the page that the scroll bar shows I have about four or five screens worth of material:  
 
-![](/assets/2010/infinite-scroll-1.png)
-![](/assets/2010/infinite-scroll-2.png)
-![](/assets/2010/infinite-scroll-3.png)
+![]({{ "/assets/2010/infinite-scroll-1.png" | relative_url }})
+![]({{ "/assets/2010/infinite-scroll-2.png" | relative_url }})
+![]({{ "/assets/2010/infinite-scroll-3.png" | relative_url }})
 
 Pay attention to the scroll bar. It starts up top (1), then I move it down (2). And if I move it just a hair farther, it jumps back up (3), signaling that a bunch of new content has loaded beyond where I’ve scrolled. If I scroll very quickly, I can actually see it loading:
 
-![](/assets/2010/SNAG-0028-2.png)
+![]({{ "/assets/2010/SNAG-0028-2.png" | relative_url }})
 
 Pretty handy, eh? Now that I’ve grown accustomed to this, I’m completely unsatisfied by the old style of paging. This approach is intuitive, extremely effective, and fast. Old-school paging disrupts my train of thought and is usually painfully slow.
 

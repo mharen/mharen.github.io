@@ -13,6 +13,6 @@ This year, there were six legs. I was on leg five and had a blast. We drove up o
 
 The highlight of the first night would probably be a crazy old man we ran into at the last bar. His name was drinky or rinky or blinky or something like that. He never took a drink, though he went through the whole cheers thing over and over. He continuously tried to pick fights with each of us while muttering something unintelligible. Old people are funny.
 
-![](/assets/2006/)You can also read details from legs 1-4 in the [Captain’s Log](http://www.bumboat.com/log/log2006north.htm).
+You can also read details from legs 1-4 in the [Captain’s Log](http://www.bumboat.com/log/log2006north.htm).
 
 **UPDATE 29SEP06:** The [Captain's Log](http://www.bumboat.com/log/log2006north.htm) has just been updated to include legs 5 (me) and 6.

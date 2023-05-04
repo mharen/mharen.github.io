@@ -7,17 +7,17 @@ title: "Fun with Google's Public Data"
 
 I was going to do a post about our world’s exploding population growth and stumbled upon Google’s awesome [public data service](http://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&q=world+population#met=sp_pop_totl&idim=country:USA:GBR:JPN:DEU:CAN:MEX:RUS:VNM) with my first research query:
 
-[![](/assets/2010/population-13.png)](http://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&q=world+population#met=sp_pop_totl&idim=country:USA:GBR:JPN:DEU:CAN:MEX:RUS:VNM) 
+[![]({{ "/assets/2010/population-13.png" | relative_url }})](http://www.google.com/publicdata?ds=wb-wdi&met=sp_pop_totl&q=world+population#met=sp_pop_totl&idim=country:USA:GBR:JPN:DEU:CAN:MEX:RUS:VNM) 
 
 I haven’t been able to uncover an index for what types of things you can show here but a little [searching](http://www.google.com/search?q=site:http://www.google.com/publicdata+co2) will get you other things.
 
 Anyway, so this is what I was looking for initially ([data source](http://www.vaughns-1-pagers.com/history/world-population-growth.htm)):
 
-![](/assets/2010/population-23.png)
+![]({{ "/assets/2010/population-23.png" | relative_url }})
 
 And since the last 200 years:
 
-![](/assets/2010/population-27.png) 
+![]({{ "/assets/2010/population-27.png" | relative_url }}) 
 
 Clearly my source data could be more complete. Even with the gaps, though, the exploding trend is obvious. It comes with this neat, mind-blowing factoid, too:
 

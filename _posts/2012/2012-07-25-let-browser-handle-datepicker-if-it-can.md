@@ -42,6 +42,6 @@ The theory here is that now when a browser adds support for native datepickers, 
 
 Here’s an example. If you try this in Chrome (added sometime on or before version 20...?), the second input should be a native datepicker:
 
-![SNAG-0045.png](/assets/2012/SNAG-0045.png)
+![SNAG-0045.png]({{ "/assets/2012/SNAG-0045.png" | relative_url }})
 
 Oh, and by the way, this is especially great for mobile devices—this is supported on iOS but [not much else](http://caniuse.com/#feat=input-datetime) (yet).

@@ -17,15 +17,15 @@ I’m starting to lay the groundwork for a larger project that will be driven fr
  
 #### Build
 
-![](/assets/2010/DSC_0011.jpg) 
+![]({{ "/assets/2010/DSC_0011.jpg" | relative_url }}) 
 
 #### Circuit
 
-![](/assets/2010/Sketch_bb-day-10.png) 
+![]({{ "/assets/2010/Sketch_bb-day-10.png" | relative_url }}) 
 
 #### Schematic
 
-![](/assets/2010/Sketch_schem6.png) 
+![]({{ "/assets/2010/Sketch_schem6.png" | relative_url }}) 
 
 #### Code  
 

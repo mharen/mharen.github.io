@@ -10,7 +10,7 @@ title: When it Comes to Internet Connectivity, Business Users Get Screwed
 
 Here I am at home downloading an MSDN image at 720KB/second; utilizing 94% of my advertized AT&T U-Verse pipe of 6mb:
 
-![](/assets/2009/download-business.png) 
+![]({{ "/assets/2009/download-business.png" | relative_url }}) 
 
 A 3gb DVD in under an 90 minutes—that’s ridiculously fast. Sadly at my office, as with most businesses, it’s a completely different story. Since we allegedly need business-class connections, we have things like T1s. T1s were all the rage back in 1999 when Google was the hip new thing and the rest of us were on dialup. 
 

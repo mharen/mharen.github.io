@@ -29,20 +29,20 @@ Hey, don't get upset with me, I'm just translating.
 
 #### Internet Explorer
 
-![ie-file-print.png](/assets/2011/ie-file-print.png)
+![ie-file-print.png]({{ "/assets/2011/ie-file-print.png" | relative_url }})
 
 or
 
-![ie-right-click.png](/assets/2011/ie-right-click.png)
+![ie-right-click.png]({{ "/assets/2011/ie-right-click.png" | relative_url }})
 
 #### Chrome:
 
-![chrome-file-print.png](/assets/2011/chrome-file-print.png)
+![chrome-file-print.png]({{ "/assets/2011/chrome-file-print.png" | relative_url }})
 
 or
 
-![chrome-right-click.png](/assets/2011/chrome-right-click.png)
+![chrome-right-click.png]({{ "/assets/2011/chrome-right-click.png" | relative_url }})
 
 #### Firefox
 
-![firefox-file-print.png](/assets/2011/firefox-file-print.png)
+![firefox-file-print.png]({{ "/assets/2011/firefox-file-print.png" | relative_url }})

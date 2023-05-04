@@ -17,19 +17,19 @@ So I got downstairs and quickly realized I’d have to severely back off from my
 
 This is where I’d go on and on about how hilarious it was to make coffee or breakfast or whatever with a baby...but I can’t because nothing’s happening down here. That is, except for some good old baby-daddy snuggle time:
 
-![Photo May 13, 7 46 53 AM.jpg](/assets/2012/Photo May 13, 7 46 53 AM.jpg)
+![Photo May 13, 7 46 53 AM.jpg]({{ "/assets/2012/Photo May 13, 7 46 53 AM.jpg" | relative_url }})
 
 And I got it. Suddenly I understood why you are so selfless 365.24 days a year.
 
-![Photo Apr 26, 11 57 46 PM.jpg](/assets/2012/Photo Apr 26, 11 57 46 PM.jpg)
+![Photo Apr 26, 11 57 46 PM.jpg]({{ "/assets/2012/Photo Apr 26, 11 57 46 PM.jpg" | relative_url }})
 
 Being an always-on mom is challenging and draining. And rewarding and beautiful.  
 
-![Photo May 13, 7 58 51 AM.jpg](/assets/2012/Photo May 13, 7 58 51 AM.jpg)
+![Photo May 13, 7 58 51 AM.jpg]({{ "/assets/2012/Photo May 13, 7 58 51 AM.jpg" | relative_url }})
 
 I like to joke when I’m watching a child or two that we’re lucky I remember to feed them. It’s fun and all but we really would probably starve without you. Or rapidly adopt a cake-based diet.
 
-![Photo May 13, 8 00 43 AM.jpg](/assets/2012/Photo May 13, 8 00 43 AM.jpg)
+![Photo May 13, 8 00 43 AM.jpg]({{ "/assets/2012/Photo May 13, 8 00 43 AM.jpg" | relative_url }})
 
 Happy Mother’s Day :)
 

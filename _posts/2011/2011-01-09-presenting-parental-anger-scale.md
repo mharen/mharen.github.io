@@ -8,7 +8,7 @@ categories:
 title: 'Presenting: The Parental Anger Scale'
 ---
 
-![](/assets/2011/IMG_20110107_164257.jpg)
+![]({{ "/assets/2011/IMG_20110107_164257.jpg" | relative_url }})
 
 Parenting is usually a lovely, rewarding profession. This post is not about those parts. Instead, this is about the frustrating moments anyone who is in close company to children has certainly experienced. There’s just something about the persistent “whys” of a three-year-old, or the I’ll-just-dump-this-yogurt-on-the-floor dining technique that triggers weak parenting.
 

@@ -10,7 +10,7 @@ title: Happy First Birthday, Thing 3
 
 Thing 3’s birthday is today. It’s hard to believe it’s already been a year since [he was born](../../2011/08/birth-story-thing-3.html).
 
-![thing 3 in a chair with food on his face](/assets/2012/IMG_3263.jpg)
+![thing 3 in a chair with food on his face]({{ "/assets/2012/IMG_3263.jpg" | relative_url }})
 
 Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.
 
@@ -20,15 +20,15 @@ The gist of the project was to refurbish a piece of furniture into a children’
 
 We found what we needed:
 
-![2012-08-04 14.10.58.jpg](/assets/2012/2012-08-04 14.10.58.jpg)
+![2012-08-04 14.10.58.jpg]({{ "/assets/2012/2012-08-04 14.10.58.jpg" | relative_url }})
 
 The girls helped me scuff of the surface for priming and painting:  
 
-![2012-08-04 14.19.54.jpg](/assets/2012/2012-08-04 14.19.54.jpg)  
+![2012-08-04 14.19.54.jpg]({{ "/assets/2012/2012-08-04 14.19.54.jpg" | relative_url }})  
 
 Then we wiped it down and repaired a broken drawer:
 
-![2012-08-04 14.46.20.jpg](/assets/2012/2012-08-04 14.46.20.jpg)
+![2012-08-04 14.46.20.jpg]({{ "/assets/2012/2012-08-04 14.46.20.jpg" | relative_url }})
 
 I primed it with Kilz 2 Latex primer and then applied a single coat of a greyish paint we found in the basement.
 
@@ -36,21 +36,21 @@ I cut a section of pegboard for the back from a 2’x4’ section I bought at Lo
 
 After painting, the girls helped me attach the draw slides and peg board (tip: tapping the screws with a drill first, then letting the kids help with a manual driver makes for good fun)
 
-![2012-08-16 20.55.10.jpg](/assets/2012/2012-08-16 20.55.10.jpg)
+![2012-08-16 20.55.10.jpg]({{ "/assets/2012/2012-08-16 20.55.10.jpg" | relative_url }})
 
 And it’s finished! I dug up some old pegboard hooks which fit the toolset Wife bought pretty well:
 
-![IMG_3459.jpg](/assets/2012/IMG_3459.jpg)
+![IMG_3459.jpg]({{ "/assets/2012/IMG_3459.jpg" | relative_url }})
 
 Thing1 inspecting our work:
 
-![IMG_3458-1.jpg](/assets/2012/IMG_3458-1.jpg)
+![IMG_3458-1.jpg]({{ "/assets/2012/IMG_3458-1.jpg" | relative_url }})
 
-![2012-08-16 22.16.49.jpg](/assets/2012/2012-08-16 22.16.49.jpg)
+![2012-08-16 22.16.49.jpg]({{ "/assets/2012/2012-08-16 22.16.49.jpg" | relative_url }})
 
 Happy Birthday, Thing 3
 
-![IMG_3222.jpg](/assets/2012/IMG_3222.jpg)    
+![IMG_3222.jpg]({{ "/assets/2012/IMG_3222.jpg" | relative_url }})    
 
 Love, Daddy  
 

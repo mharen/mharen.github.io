@@ -17,17 +17,17 @@ This year was different. First off, I couldn’t even find the old bulbs at firs
 
 And so tonight I took advantage of the warm, calm, no-wind weather to hang 225 lights.
 
-![Photo Nov 15, 8 48 04 PM.jpg](/assets/2011/Photo Nov 15, 8 48 04 PM.jpg)
+![Photo Nov 15, 8 48 04 PM.jpg]({{ "/assets/2011/Photo Nov 15, 8 48 04 PM.jpg" | relative_url }})
 
 Apologies for the weak photography. The resident photographer is away at the moment so I just used my phone. In the dark. *Side note:* you know what’d be an awesome product? *Shorter sections* of lights. I need 18” to finish that top eve. What am I supposed to do...?
 
 So how’d we do energy-wise? I’d say pretty awesome:
 
-![Photo-Nov-15-8-42-49-PM4.jpg](/assets/2011/Photo-Nov-15-8-42-49-PM4.jpg)
+![Photo-Nov-15-8-42-49-PM4.jpg]({{ "/assets/2011/Photo-Nov-15-8-42-49-PM4.jpg" | relative_url }})
 
 That’s 7.5 tiny watts. At 10¢/KWH, running these for 7 hours a day will cost just...
 
-![a calculator that reads "((7.5 watts) * 7 hours * $.10) / kWh = 0.00525 U.S. dollars"](/assets/2011/pennies-per-day.png)
+![a calculator that reads "((7.5 watts) * 7 hours * $.10) / kWh = 0.00525 U.S. dollars"]({{ "/assets/2011/pennies-per-day.png" | relative_url }})
 
 [0.5¢/day](https://www.google.com/search?q=7.5+watts+*+7+hours+*+%24.10%2FkWh&oq=7.5+watts+*+7+hours+*+%24.10%2FkWh). Half a penny a day. Is that right?! Whoa.
 

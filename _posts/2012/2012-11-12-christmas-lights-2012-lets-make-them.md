@@ -18,7 +18,7 @@ Of course I used clips last year, too, but only directly on the wires and spaced
 
 They’re easy, but it takes a lot longer. Wife and I are very, very pleased with the results so far. 
 
-![a white house with the roof edges lined with white christmas lights](/assets/2012/DSC_0039.jpg)
+![a white house with the roof edges lined with white christmas lights]({{ "/assets/2012/DSC_0039.jpg" | relative_url }})
 
 I should probably get a tripod and a remote, but considering that these were taken in near-total darkness we’re lucky we can see anything at all.
 

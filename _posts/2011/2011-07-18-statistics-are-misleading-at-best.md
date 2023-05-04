@@ -9,13 +9,13 @@ title: Statistics are Misleading At Best, Filthy Liars at Second Best
 
 Back in April, I somehow came across [this site](http://disruptthenarrative.wordpress.com/2011/04/24/gas-pump-activism/) blaming President Obama for raging gas prices:
 
-![obamagasprices.jpg](/assets/2011/obamagasprices.jpg)  
+![obamagasprices.jpg]({{ "/assets/2011/obamagasprices.jpg" | relative_url }})  
 
 The implication is that since the moment Obama took office, gas prices have gone crazy. My god! 
 
 Wait wait wait...why the steep decline at the end of 2008? Let’s uncrop a bit (I downloaded some public data from an energy gov site, dropped it into Excel, and annotated it with SnagIt):
 
-![fuel prices.png](/assets/2011/fuel prices.png)
+![fuel prices.png]({{ "/assets/2011/fuel prices.png" | relative_url }})
 
 That’s a pretty different picture, isn’t it? 
 

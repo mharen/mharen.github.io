@@ -13,27 +13,27 @@ I travel semi-regularly for work and it just so happened that we’d be in Canad
 
 She couldn’t really make up for being away from friends, but Sarah could arrange plenty of activities. First, we went to Dussel Farms to get pumpkins and do the [How Tall This Fall thing](http://footedjammies.blogspot.com/2012/11/nablopomo-begins.html), which has become a favorite family tradition. 
 
-![2012-10-20 15.52.43.jpg](/assets/2012/2012-10-20 15.52.43.jpg)
+![2012-10-20 15.52.43.jpg]({{ "/assets/2012/2012-10-20 15.52.43.jpg" | relative_url }})
 
 Then we went to Giant Eagle for their in-store trick-or-treat. I know it sounds cheesy, but it’s actually a pretty neat thing. The store sets up a dozen stations in a loop, each staffed with some very friendly volunteers who compliment the kids and give them treats. To find the stations you follow along with a set of riddles written just right for 3-5 year olds.
 
-![2012-10-20 14.29.44.jpg](/assets/2012/2012-10-20 14.29.44.jpg)
+![2012-10-20 14.29.44.jpg]({{ "/assets/2012/2012-10-20 14.29.44.jpg" | relative_url }})
 
 It was more difficult than you might imagine to get three costumed kids to sit still and near each other for more than 0.5 seconds.
 
 And lastly, Sarah found a public, kid-friendly Halloween party at a community nearby where I was working (and we were staying) in Ontario. They had music, activities, and ended the event with a march around the park led by a float (I guess it was technically a parade...but we were all in it).
 
-![2012-10-27 18.12.01.jpg](/assets/2012/2012-10-27 18.12.01.jpg)
+![2012-10-27 18.12.01.jpg]({{ "/assets/2012/2012-10-27 18.12.01.jpg" | relative_url }})
 
 (It was *very *cold.)
 
-![2012-10-27 18.06.13.jpg](/assets/2012/2012-10-27 18.06.13.jpg)
+![2012-10-27 18.06.13.jpg]({{ "/assets/2012/2012-10-27 18.06.13.jpg" | relative_url }})
 
-![2012-10-27 18.09.51.jpg](/assets/2012/2012-10-27 18.09.51.jpg)
+![2012-10-27 18.09.51.jpg]({{ "/assets/2012/2012-10-27 18.09.51.jpg" | relative_url }})
 
 This is from a warmer day a week or so earlier, during the nice part of Fall.
 
-![2012-10-14 13.57.36.jpg](/assets/2012/2012-10-14 13.57.36.jpg)
+![2012-10-14 13.57.36.jpg]({{ "/assets/2012/2012-10-14 13.57.36.jpg" | relative_url }})
 
 ---
 

@@ -9,39 +9,39 @@ title: How I Discovered Amazon's Impressive Gift Wrap Service Via a Generous Fri
 
 I received an unexpected package today from Amazon. Hmmm...
 
-![2012-11-23 11.12.53.jpg](/assets/2012/2012-11-23 11.12.53.jpg)
+![2012-11-23 11.12.53.jpg]({{ "/assets/2012/2012-11-23 11.12.53.jpg" | relative_url }})
 
 I opened it and started to get excited. It wasn’t what I usually get from Amazon (batteries, pink toys, etc.).
 
-![2012-11-23 11.12.59.jpg](/assets/2012/2012-11-23 11.12.59.jpg)
+![2012-11-23 11.12.59.jpg]({{ "/assets/2012/2012-11-23 11.12.59.jpg" | relative_url }})
 
 It turns out that my friend Mark sent me a birthday present! Woot! I was very impressed by the presentation. Each item had a fancy wrapping, a fancy ribbon, and a fancy card.
 
-![2012-11-23 11.13.03.jpg](/assets/2012/2012-11-23 11.13.03.jpg)
+![2012-11-23 11.13.03.jpg]({{ "/assets/2012/2012-11-23 11.13.03.jpg" | relative_url }})
 
-![2012-11-23 11.13.37.jpg](/assets/2012/2012-11-23 11.13.37.jpg)
+![2012-11-23 11.13.37.jpg]({{ "/assets/2012/2012-11-23 11.13.37.jpg" | relative_url }})
 
 I guess I’m known for my fruity shirts. 
 
 The gifts are perfect, and they arrived like a sir.
 
-![2012-11-23 11.15.41.jpg](/assets/2012/2012-11-23 11.15.41.jpg)
+![2012-11-23 11.15.41.jpg]({{ "/assets/2012/2012-11-23 11.15.41.jpg" | relative_url }})
 
-![2012-11-23 12.02.03.jpg](/assets/2012/2012-11-23 12.02.03.jpg)
+![2012-11-23 12.02.03.jpg]({{ "/assets/2012/2012-11-23 12.02.03.jpg" | relative_url }})
 
-![2012-11-23 12.02.08.jpg](/assets/2012/2012-11-23 12.02.08.jpg)
+![2012-11-23 12.02.08.jpg]({{ "/assets/2012/2012-11-23 12.02.08.jpg" | relative_url }})
 
 I’m actually shocked the kids adapted so quickly to it all. Thing 1, and Uncle Chris:
 
-![2012-11-23 12.29.55.jpg](/assets/2012/2012-11-23 12.29.55.jpg)
+![2012-11-23 12.29.55.jpg]({{ "/assets/2012/2012-11-23 12.29.55.jpg" | relative_url }})
 
-![2012-11-23 11.16.14.jpg](/assets/2012/2012-11-23 11.16.14.jpg)
+![2012-11-23 11.16.14.jpg]({{ "/assets/2012/2012-11-23 11.16.14.jpg" | relative_url }})
 
-![2012-11-23 11.16.24.jpg](/assets/2012/2012-11-23 11.16.24.jpg)
+![2012-11-23 11.16.24.jpg]({{ "/assets/2012/2012-11-23 11.16.24.jpg" | relative_url }})
 
 Thanks, Mark! I’ve got some learnin’ to do.
 
-![2012-11-23 13.40.35.jpg](/assets/2012/2012-11-23 13.40.35.jpg)  
+![2012-11-23 13.40.35.jpg]({{ "/assets/2012/2012-11-23 13.40.35.jpg" | relative_url }})  
 
 Some day I’ll remember to give you your Christmas present from last year.
 

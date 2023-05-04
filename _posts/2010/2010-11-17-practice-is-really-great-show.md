@@ -5,7 +5,7 @@ categories: television
 title: '"Private Practice" is a Really Great Show'
 ---
 
-![](/assets/2010/bed pan.jpg)
+![]({{ "/assets/2010/bed pan.jpg" | relative_url }})
 
 One of Wife's indulgences is watching "Private Practice". I don't watch it with her but I can't help but overhear it while I work on my own projects. Fortunately I was out of town a few days ago so I was unable to listen in.
 

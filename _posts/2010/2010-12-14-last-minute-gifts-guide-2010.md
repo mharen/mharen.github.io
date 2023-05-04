@@ -11,19 +11,19 @@ So you’re out of ideas for that obscure relative or friend you forgot to buy f
 
 #### 1. Robot Alligator
 
-![](/assets/2010/robot alligator.jpg)
+![]({{ "/assets/2010/robot alligator.jpg" | relative_url }})
 
 Nothing says Merry Christmas like a ferocious alligator. In robot form, you can be assured that the terror will cease only for 4-6 hours each night while Chomp recharges. Particular skilled recipients may have luck with training their new robot alligator to do useful things like eat that annoying dog next door. STOP BARKING DOG. STOP STOP STOP.  
 
 #### 2. Peanut Butter
 
-![banana.jpg](/assets/2010/banana.jpg)
+![banana.jpg]({{ "/assets/2010/banana.jpg" | relative_url }})
 
 Everybody likes peanut butter. Plus, those that are allergic to it can just re-gift it back to you. If you’re both allergic then this is probably a bad gift idea.  
 
 #### 3. Empty Box
 
-![empty box.jpg](/assets/2010/empty box.jpg)
+![empty box.jpg]({{ "/assets/2010/empty box.jpg" | relative_url }})
 
 The key to this one is to work on your “surprise face”. When your gift recipient opens the box, you need to act as confused and stunned as they are. Ask what they expected the gift to be and then just tell them that’s what it was until your alligator (allegedly) stole it. This idea works even better if you mail your gifts.
 
@@ -31,7 +31,7 @@ Depending on your relationship to the recipient, this gift has [other variations
 
 #### 4. Old College Textbook
 
-![IMG_20101214_163951.jpg](/assets/2010/IMG_20101214_163951.jpg)
+![IMG_20101214_163951.jpg]({{ "/assets/2010/IMG_20101214_163951.jpg" | relative_url }})
 
 Ah! The gift of education. How else are you supposed to unload these things? After lugging around 50 lbs. of dead tree with me from house to house, I finally just started leaving them around my office and giving them away as swag prizes during my presentations.
 
@@ -41,31 +41,31 @@ Bonus points if the person receiving your gift actually enjoys the book’s subj
 
 #### 5. Coffee
 
-![IMG_20101214_164026.jpg](/assets/2010/IMG_20101214_164026.jpg)
+![IMG_20101214_164026.jpg]({{ "/assets/2010/IMG_20101214_164026.jpg" | relative_url }})
 
 It’s awesome.  
 
 #### 6. Bag of Snow
 
-![IMG_20101213_142832.jpg](/assets/2010/IMG_20101213_142832.jpg)
+![IMG_20101213_142832.jpg]({{ "/assets/2010/IMG_20101213_142832.jpg" | relative_url }})
 
 Nothing captures the spirit of Christmas like a bag of Christmas snow. What makes it Christmas snow? Easy: it came from the North Pole *wink*. If it melts before the recipient opens it, you have yourself a perfect lead in to a pun filled guilt trip.  
 
 #### 7. Expired Gift Card
 
-![IMG_20101214_171618.jpg](/assets/2010/IMG_20101214_171618.jpg)
+![IMG_20101214_171618.jpg]({{ "/assets/2010/IMG_20101214_171618.jpg" | relative_url }})
 
 Those expired or used up gift cards are no good to you...except as wonderful gifts! Dig out that new Sharpie you bought with your now defunct gift card and proudly write whatever value suits you directly on the card. This one’s great because you can just blame those damned computers if your recipient is ever so taboo as to bring up the matter later. Plus no one needs more lotion anyway.  
 
 #### 8. Incomplete Decks of Cards
 
-![IMG_20101214_165434.jpg](/assets/2010/IMG_20101214_165434.jpg)
+![IMG_20101214_165434.jpg]({{ "/assets/2010/IMG_20101214_165434.jpg" | relative_url }})
 
 Go green this year by reusing your “vintage” playing cards as gifts! No need to combine incomplete decks into whole decks, either—that’s just wasteful.  
 
 #### 9. Pictures of Food
 
-![IMG_20101213_200120.jpg](/assets/2010/IMG_20101213_200120.jpg)
+![IMG_20101213_200120.jpg]({{ "/assets/2010/IMG_20101213_200120.jpg" | relative_url }})
 
 [Recent research](http://www.livescience.com/health/imagining-food-to-eat-less-101209.html) has discovered that simply imagining the act of eating helps you eat less. Get ready for a big “thank you” from your gift recipient after you explain as they open their beautifully illustrated card.  
 

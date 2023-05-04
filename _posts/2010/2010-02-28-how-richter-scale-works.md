@@ -15,11 +15,11 @@ and started wondering: how Chile’s quake could be 500x as powerful as Haiti’
 
 The first clue is that the scale is [logarithmic](http://en.wikipedia.org/wiki/Logarithm). That means that each increment of 1 is a 10x increase in magnitude. If you were to plot *x* vs. *log<sub>10</sub>(x)*, it might look like this:
 
-![](/assets/2010/richter-11.png)
+![]({{ "/assets/2010/richter-11.png" | relative_url }})
 
 Well, that’s not very revealing until you realize that the *x*-axis is increasing logarithmically. Consider the same data but with the *x*-axis presented linearly:
 
-![](/assets/2010/richter-8.png)
+![]({{ "/assets/2010/richter-8.png" | relative_url }})
 
 Now we’re talking. Each increment on the *y*-axis is a **10x **increment on the y-axis. i.e. 8 is 10x greater in magnitude than a 7:
 

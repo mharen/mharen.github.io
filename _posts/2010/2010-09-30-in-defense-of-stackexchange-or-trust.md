@@ -13,13 +13,13 @@ As an avid Stack Exchange supporter I think he’s wrong. If it does fail, it wo
 
 First, he was bothered by the wiki nature of the site:
 
-> ![](/assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg)
+> ![]({{ "/assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg" | relative_url }})
 > 
 > Execuse my french – but what the fuck are all these “enlightened” people doing editing my answers? If I wanted people editing my words, looking down at me, and deciding to change stuff, I’d start a wiki. as is, my answers are my own, and they reflect my mood, and my typos. and if they want me ot fix them they should ask me.
 
 The site makes no secret that it’s really just a giant wiki. It’s nothing new, either; it was founded with this as a core feature. Further, all new visitors see this when they first hit any page on the site:
 
-![](/assets/2010/so-faq.png)
+![]({{ "/assets/2010/so-faq.png" | relative_url }})
 
 It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you to give a quick look-see. And if you do, there’s a great—though a little long—explanation of how the site works, including this nice tidbit:
 
@@ -29,7 +29,7 @@ It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you
 
 There’s also a slightly less obvious “about” link just under the yellow bar which offers this excellent graphic on the first screen:
 
-![](/assets/2010/so-venn.png)
+![]({{ "/assets/2010/so-venn.png" | relative_url }})
 
 Sure, I don’t expect people to read the directions. But, if you don’t read the directions, it’s not really fair to cry fowl about the others that did. And in any case, the edits he’s probably all in a tizzy about are [good, positive edits](http://meta.stackoverflow.com/posts/65452/revisions).
 

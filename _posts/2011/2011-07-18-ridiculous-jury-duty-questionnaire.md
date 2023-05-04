@@ -13,31 +13,31 @@ After I sent this in, but before I had to appear the case was continued so I nev
 
 Before you think I’m just cherry-picking questions, I’m not. This thing was personal:
 
-![IMG_20110302_191038.jpg](/assets/2011/IMG_20110302_191038.jpg)
+![IMG_20110302_191038.jpg]({{ "/assets/2011/IMG_20110302_191038.jpg" | relative_url }})
 
 That covered my detailed family history, religion, politics, career, salary, parenting, education, etc. Yikes!
 
 Here are some of my favorite answers:  
 
-![IMG_20110302_191429.jpg](/assets/2011/IMG_20110302_191429.jpg)
+![IMG_20110302_191429.jpg]({{ "/assets/2011/IMG_20110302_191429.jpg" | relative_url }})
 
-![IMG_20110302_191835.jpg](/assets/2011/IMG_20110302_191835.jpg)
+![IMG_20110302_191835.jpg]({{ "/assets/2011/IMG_20110302_191835.jpg" | relative_url }})
 
 Once I even did computer stuff *at *a pizza place.
 
-![IMG_20110302_192155.jpg](/assets/2011/IMG_20110302_192155.jpg)
+![IMG_20110302_192155.jpg]({{ "/assets/2011/IMG_20110302_192155.jpg" | relative_url }})
 
 Wife compelled me to *not attach *a list describing her job.
 
-![IMG_20110302_195136.jpg](/assets/2011/IMG_20110302_195136.jpg)
+![IMG_20110302_195136.jpg]({{ "/assets/2011/IMG_20110302_195136.jpg" | relative_url }})
 
 (Before you assume I hate authority, check out questions 96-98 farther down.)
 
-![IMG_20110302_195104.jpg](/assets/2011/IMG_20110302_195104.jpg)
+![IMG_20110302_195104.jpg]({{ "/assets/2011/IMG_20110302_195104.jpg" | relative_url }})
 
 And finally, after nearly eight years, the secret to my lasting marriage is revealed in question 102.
 
-![IMG_20110302_195122.jpg](/assets/2011/IMG_20110302_195122.jpg)
+![IMG_20110302_195122.jpg]({{ "/assets/2011/IMG_20110302_195122.jpg" | relative_url }})
 
 As a genuinely curious person, with a strong sense of civic duty, I was sincerely disappointed that this fizzled out as quickly as it did. I’ve seen *12 Angry Men* and tons of *Law and Order* so I’m basically an expert.
 

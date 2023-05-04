@@ -69,13 +69,13 @@ On the other hand, if that really was a question, then the answer is “no.”
 
 A Mr. Coffee Drip Pot as pictured (that’s really mine, about to brew!). 
 
-![](/assets/2010/cheap-coffee-maker.jpg)
+![]({{ "/assets/2010/cheap-coffee-maker.jpg" | relative_url }})
 
 **What coffee do you really use?**
 
 My current bag is “Archer Farms, Organic, Fair Trade, Super Nice Guy, Hippie Approved, Single Origin, Save the Children (seriously!?) Tierra Del Sol”. It’s from Target and costs like $6-$8. It’s just coffee. When this bag is gone, I’ll get another of a similar roast but a different variety.
 
-![](/assets/2010/affordable-coffee.jpg)</a>
+![]({{ "/assets/2010/affordable-coffee.jpg" | relative_url }})</a>
 
 **How do I get good coffee at work?**
 
@@ -93,7 +93,7 @@ I have mixed feelings on that. They’re pretty wasteful in terms of energy and 
 
 It’s an acquired taste for sure. Here’s my estimate of a typical hater’s reasons:
 
-![](/assets/2010/coffee-chart.png)
+![]({{ "/assets/2010/coffee-chart.png" | relative_url }})
 
 **I’m making coffee for an actual coffee snob, what do I do?**
 

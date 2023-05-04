@@ -9,13 +9,13 @@ title: "Diagnosis II: Why Can't LiveWriter Post from Work?"
 
 The remote server returned an error: (403) Forbidden.I’m at working trying to toss up blog post here and there and things are coasting along smoothly with Windows Live Writer when I see this when I hit *publish* (bonk):  
 
-![an error dialog that reads "File upload failed. The remote server returned an error: (403) Forbidden." with an annotation that reads "Boooooo"](/assets/2009/live-writer-1.png)
+![an error dialog that reads "File upload failed. The remote server returned an error: (403) Forbidden." with an annotation that reads "Boooooo"]({{ "/assets/2009/live-writer-1.png" | relative_url }})
 
 This was working fine yesterday so I’m assuming I’m being blocked by my corporate firewall. OK, let’s confirm that.
 
 I can access blogger.com, mharen.blogspot.com, my dashboard, the post editor…everything’s fine through the browser, just not through Live Writer. I fired up Fiddler to see what LW’s doing and saw the problem right away:
 
-![](/assets/2009/live-writer-2.png)
+![]({{ "/assets/2009/live-writer-2.png" | relative_url }})
 
 It seems that even none of the blogger/blogspot domains are blocked here, blogger ships its images to [http://picasaweb.google.com/](http://picasaweb.google.com/), which *is* blocked. No matter, I asked our friendly IT admin to unblock it. Now I can publish. But did it work?  
 

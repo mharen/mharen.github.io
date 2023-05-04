@@ -7,7 +7,7 @@ title: About Those Magic Eye Things
 
 You know those [magic eye things](https://en.wikipedia.org/wiki/Autostereogram) that started showing up in the nineties? Sure you do:
 
-![](/assets/2010/Stereogram_Tut_Random_Dot_Shark.png)
+![]({{ "/assets/2010/Stereogram_Tut_Random_Dot_Shark.png" | relative_url }})
 
 I. Hate. Them. They don’t work for me and it’s so frustrating. 
 
@@ -19,7 +19,7 @@ The worst of it is that it hasn’t worked since. Figures.
 
 Since I’m into pie charts this week, here’s the breakdown of the ol’ magic eye:
 
-![](/assets/2010/magic-eye-chart.png)
+![]({{ "/assets/2010/magic-eye-chart.png" | relative_url }})
 
 ---
 

@@ -7,7 +7,7 @@ categories:
 title: Things Android Could Do Better
 ---
 
-![](/assets/2010/androidschmidt.jpg)
+![]({{ "/assets/2010/androidschmidt.jpg" | relative_url }})
 
 I recently covered the things [I love about Android](../../2010/09/things-i-love-about-android.html) so it only seems fair to touch on its weaknesses (only a small portion of the part outside the "awesomeness" bubble on the previous post). I’d like to remind the audience that I’m not an Android or iPhone zealot—I think they are both fantastic devices and have recommended each. If anything, I'd say I'm a usability zealot but that's for another post.
 
@@ -21,20 +21,20 @@ It also seems to charge slowly. I don’t really have any empirical evidence for
 
 One hallmark difference between the Android platform and iPhone is the obvious fact that Android can run on numerous devices, each with different hardware. I have no problem with this. I like that people who prefer physical keyboards or optical joysticks, or whatever can get them. What I don’t like is that there’s seemingly no standard for button ordering or placement. For example, here’s the Motorola Droid 2, the Motorola Droid X, The HTC G1/Dream, and HTC Droid:  
 
-![](/assets/2010/better-droid-2.jpg) 
-![](/assets/2010/better-droid-3.jpg) 
-![](/assets/2010/better-droid-4.jpg) 
-![](/assets/2010/better-droid-1.jpg) 
+![]({{ "/assets/2010/better-droid-2.jpg" | relative_url }}) 
+![]({{ "/assets/2010/better-droid-3.jpg" | relative_url }}) 
+![]({{ "/assets/2010/better-droid-4.jpg" | relative_url }}) 
+![]({{ "/assets/2010/better-droid-1.jpg" | relative_url }}) 
 
 Notice the button arrangements:
 
-![](/assets/2010/droid-buttons-1.jpg) 
+![]({{ "/assets/2010/droid-buttons-1.jpg" | relative_url }}) 
 
-![](/assets/2010/droid-buttons-2.jpg) 
+![]({{ "/assets/2010/droid-buttons-2.jpg" | relative_url }}) 
 
-![](/assets/2010/droid-buttons-3.jpg) 
+![]({{ "/assets/2010/droid-buttons-3.jpg" | relative_url }}) 
 
-![](/assets/2010/droid-buttons-4.jpg) 
+![]({{ "/assets/2010/droid-buttons-4.jpg" | relative_url }}) 
 
 This is crazy—the four standard buttons should **always** be in the same order. This is a pretty basic UI guideline that I am surprised wasn’t mandated in the Android licensing. There may very well be other combinations out there, too—these are just the first four phones I thought of. This comes 
 

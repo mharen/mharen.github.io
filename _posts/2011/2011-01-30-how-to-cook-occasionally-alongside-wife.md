@@ -11,7 +11,7 @@ The responsibility of cooking rarely rests with me. For the sake of my family’
 
 That’s probably my greatest weakness: meal planning. Wife once told me in college that a meal *must include a side*. Up to that point, when I’d say I was “making hamburgers” this is what you’d get on your plate:
 
-![](/assets/2011/cook-2.png)
+![]({{ "/assets/2011/cook-2.png" | relative_url }})
 
 Aside from a short, tired menu of only simple entrées (easily solved by making whatever Wife tells me to make), another weakness is meal execution (i.e. the actual cooking). I’m great at following recipes so long as I don’t have to deviate from the instructions or make substitutions. Actually, a few substitutions are OK—I can look things up on the ol’ internet or check covers of the cookbooks. I can’t handle some of Wife’s mental recipes, though.
 
@@ -36,7 +36,7 @@ Suppose we’re having steak and baked potatoes. This is a cake walk for most pe
 1. Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx)
 2. Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/)
 3. Make sure we have everything. Check!
-4. Make a timeline like this (working backwards from Go Time): ![](/assets/2011/cook-5.png) 
+4. Make a timeline like this (working backwards from Go Time): ![]({{ "/assets/2011/cook-5.png" | relative_url }}) 
 5. Execute timeline
 
 This approach yields one other awesome benefit aside from helping dinner hit the table on-time and at the right temperature: it’s stress free. I just follow my timeline and don’t worry about what I might be missing. When I finish a task, I just set a timer to go off for when I need to start the next step so I can safely zone out on something else (e.g. after “set table”, set timer for “7:40”).

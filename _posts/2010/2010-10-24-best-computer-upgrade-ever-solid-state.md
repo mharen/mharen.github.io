@@ -13,11 +13,11 @@ Why is this thing so awesome? It has no moving parts like it’s rotating platte
 
 This is a random read of various file sizes before the SSD upgrade:
 
-![](/assets/2010/before-1-5.png)
+![]({{ "/assets/2010/before-1-5.png" | relative_url }})
 
 Getting about 50 IOPS, 20ms, and awful MB/s. And after the SSD upgrade:
 
-![](/assets/2010/ssd-rand-3.png)
+![]({{ "/assets/2010/ssd-rand-3.png" | relative_url }})
 
 These are on the very same system. The before shot was made an hour before I cloned it onto the new SSD. Here’s a simple summary between the two:
 
@@ -33,7 +33,7 @@ Yes, that’s a 17 thousand percent improvement in reading 512b blocks with a co
 
 Just for kicks, I repeated the test again today (1 year later) and got similar (if just slightly degraded) results:
 
-![](/assets/2010/ssd-4.png)
+![]({{ "/assets/2010/ssd-4.png" | relative_url }})
 
 **In summary, I went from crappy {iops, mb/s, ms} to *zomg!* {iops, mb/s, ms}.**
 
