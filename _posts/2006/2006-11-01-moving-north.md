@@ -10,11 +10,9 @@ title: Moving North
 
 I think we've made arrangements with all necessary persons (his-work, her-work, his-family, her-family, etc.) so I here you go:
 
-
-
 **We are moving to Ohio!**
 
-<div style="text-align: center;">![moving.JPG](/assets/2006/moving.JPG)I am transferring from the [Apex branch](http://maps.google.com/maps?f=q&hl=en&q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&ie=UTF8&z=15&om=1&iwloc=addr) to the [main office](http://maps.google.com/maps?f=q&hl=en&q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&ie=UTF8&z=15&om=1&iwloc=addr) in Aurora and Sarah will be hunting for new and exciting work in the area.
+I am transferring from the [Apex branch](http://maps.google.com/maps?f=q&hl=en&q=2521+Schieffelin+Rd,+Apex,+NC+27502+(Rovisys+NC)&ie=UTF8&z=15&om=1&iwloc=addr) to the [main office](http://maps.google.com/maps?f=q&hl=en&q=1455+Danner+Drive,+Aurora,+OH+(Rovisys+OH)&ie=UTF8&z=15&om=1&iwloc=addr) in Aurora and Sarah will be hunting for new and exciting work in the area.
 
 We're planning to move in January or February.
 
@@ -22,7 +20,7 @@ We're [selling our house](http://www.fsbo.com/list/90492) and will be hunting fo
 
 At my office, I've not informed anyone of this below management. That should happen shortly.
 
-**Why? **
+**Why?**
 
 Good question. We miss our families and we decided that when we have kids, seeing the relatives a couple times a year wasn't going to cut it. We'll be about 2.5 hours away, which is still a trip, but much more reasonable than the 8.5 hours it is now.
 
