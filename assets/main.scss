@@ -17,8 +17,9 @@ td {
 }
 
 p:has(> img) {
-    padding: 0 15px;
+    padding: 0 10px;
 }
+img { padding: 5px; }
 
 p:has(> img.initial-capital) {
     padding: 0;
