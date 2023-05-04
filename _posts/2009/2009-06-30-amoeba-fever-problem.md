@@ -8,30 +8,23 @@ categories:
 title: Amoeba Fever Problem
 ---
 
-
 My brother, Chris, sent me this interesting [math problem](http://yofx.blogspot.com/2009/06/amoeba-fever-problem.html):
-<blockquote> 
 
-Toby has a jar with one amoeba in it. Every minute, every amoeba turns into 0, 1, 2, or 3 amoebae with a probability of 1/4 for each case (dies, does nothing, splits into two, or splits into three). What is the probability that the amoeba population eventually dies out?
-</blockquote>
+> Toby has a jar with one amoeba in it. Every minute, every amoeba turns into 0, 1, 2, or 3 amoebae with a probability of 1/4 for each case (dies, does nothing, splits into two, or splits into three). What is the probability that the amoeba population eventually dies out?
 
 I initially threw out a guess of “slightly more than 25%”. I figured that the amoeba population either dies out right away (1/4 chance) or starts growing rapidly.
 
 I was up a bit with Maya and thought about this some more and revised my guess to somewhere between 25% and 33%. My reasoning was looking more professional (but not actually any more accurate, as we’ll discuss). I reasoned that the change of an amoeba population die out after n iterations is   
 
-![clip_image002[3].gif](/assets/2009/clip_image002[3].gif)
+![](/assets/2009/amoeba-1.gif)
 
 So the chance of the first 3 iterations leading to die out would be something like:  
 
-![clip_image002[4][2].gif](/assets/2009/clip_image002[4][2].gif)
-
-
+![](/assets/2009/amoeba-2.gif)
 
 Or more generally:  
 
-![clip_image002[6][2].gif](/assets/2009/clip_image002[6][2].gif)
-
-
+![](/assets/2009/amoeba-3.gif)
 
 This converges very rapidly so any additional terms beyond n=3 are insignificant here.
 
