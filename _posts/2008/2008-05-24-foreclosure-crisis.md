@@ -42,7 +42,7 @@ This is where I get really fired up and here's why: these guys have virtually no
 
 As I understand it, all a broker has to do is convince a bank to fund the loan. Since this is a free market, the broker can shop the loan package to multiple banks until someone bites. Over the last few years the standards of a "good loan" have erroded to the point where my dog is considering his own place--all driven by the insatiable demand for mortgages as investments.
 
-NPR's _This American Life_ has an [incredible story](http://thisamericanlife.org/Radio_Episode.aspx?sched=1242" id="cpmq" title="incredible story) about this part of the crisis and I highly recommend it.
+NPR's _This American Life_ has an [incredible story](http://thisamericanlife.org/Radio_Episode.aspx?sched=1242) about this part of the crisis and I highly recommend it.
 
 Who is funding these loans? Banks.
 

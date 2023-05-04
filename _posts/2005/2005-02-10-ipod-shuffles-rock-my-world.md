@@ -5,6 +5,8 @@ categories: technology
 title: iPod Shuffles Rock (my world)!
 ---
 
+*By Sarah*
+
 So...
 
 Last week I was introduced to the [iPod Shuffle](http://www.apple.com/ipodshuffle/).  Cute.  Small (smaller than a pack of sugar free gum, in fact).  Simple.  I am the perfect demographic for this item :)  

@@ -13,7 +13,7 @@ In an effort to reduce my support calls, I am bringing back the "Fix it yourself
 
 While I hope that the content on my site is still mildly distracting, I think it is time for the page to come back, albiet in "post" form. So here you go.
 
-<h3>Basics</h3>
+#### Basics
 
 First off, if you don't have WindowsXP, you are in for a world of pain. Most of the tips below will work for you should know that you are using an operating system with security analogous to a straw house with all the doors and windows open...on a windy day...in Kansas...during tornado season...with Dorothy.
 
@@ -21,13 +21,13 @@ So, you should have Windows XP and it damn well should have Service Pack 2. Here
 
 Whether you have SP2 or not, go on, we'll get it later if you need it.
 
-<h3>Essentials</h3>
+#### Essentials
 
 Download and install these now.
 
-	1. [Firefox](http://www.mozilla.com/firefox/) (web browser)
-	2. [Thunderbird](http://www.mozilla.com/thunderbird/) (email, if you don't use only web-based email)
-	3. [Microsoft AntiSpyware](http://www.microsoft.com/athome/security/spyware/software/default.mspx) (free, for now)
+1. [Firefox](http://www.mozilla.com/firefox/) (web browser)
+2. [Thunderbird](http://www.mozilla.com/thunderbird/) (email, if you don't use only web-based email)
+3. [Microsoft AntiSpyware](http://www.microsoft.com/athome/security/spyware/software/default.mspx) (free, for now)
 
 The above titles are FREE and of very high quality. I suggest installing them and setting them to update automatically. Then, use them in place of Internet Explorer and Outlook Express. Now's the part where you have options...
 
@@ -35,12 +35,12 @@ If you have a virus scanner installed, update it now. Then, set it to update aut
 
 For the cheapskates out there like me, follow these steps to get you 12 months of free virus scanning:
 
-	1. Uninstall that McAfee crap that came with your machine.
-	2. Then, open up that red shield in your task bar--the one warning you about a lack of virus protection.
-	3. Click on Recommendations
-	4. Where it says, "Get another antivirus program." click "How?"
-	5. Follow onscreen instructions. Note that the CA antivirus comes with 12-months free.
-	6. Let the install actually scan your computer--it takes forever but it is well worth it!
+1. Uninstall that McAfee crap that came with your machine.
+2. Then, open up that red shield in your task bar--the one warning you about a lack of virus protection.
+3. Click on Recommendations
+4. Where it says, "Get another antivirus program." click "How?"
+5. Follow onscreen instructions. Note that the CA antivirus comes with 12-months free.
+6. Let the install actually scan your computer--it takes forever but it is well worth it!
 
 Obviously you will have this problem again in 12 months...
 

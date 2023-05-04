@@ -5,7 +5,7 @@ categories: movies
 title: Things that are green
 ---
 
-## Movie reviews by Sarah
+## Movie reviews *by Sarah*
 
 ### The Incredibles
 

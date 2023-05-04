@@ -9,8 +9,6 @@ While our regularly scheduled games are each Tuesday night at 1:15 am, we had la
 
 So we show up completely pumped and find that half of our team skipped out! Normally this would be a bad thing but for D-League hockey, this is actually good. We have 9 people and no goalie. The officials propose that we let one of their friends play goal and we agree. So these leaves us with 9 people, creating 2 lines. Since we switch lines every 3 minutes, every person will get to play 3-on, 3-off, 3-on, 3-off....except each time someone will have to stay on the ice for a double shift.
 
-
-
 As it turns out, only our 'better' players showed up. This made for a great game. We lost our first two games but destroyed this team. The final score was 5-1. Spectators tell me that the final score should have been 6-1 but an error was made. There was just too much scoring action for me to keep track!
 
 Now here's the crazy part--we all played really well! I know! We're terrible! We were lucky enough to play a team more terrible than ourselves! We were passing and setting up plays and everything! Frank had a goal, Sarah had an assist, and I had 2 goals and an assist. Yeah, I hardly believe it myself. You're probably saying the same thing my dad said when I told him: "did they have a goalie?" Yes...but apparantly he sucked. It wasn't all his fault--the other team wasn't really into the whole skating thing. :)

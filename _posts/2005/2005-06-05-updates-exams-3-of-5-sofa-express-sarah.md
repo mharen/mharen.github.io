@@ -7,7 +7,7 @@ categories:
 title: 'Updates: Exams (3 of 5), Sofa Express, Sarah''s Car'
 ---
 
-<h3>Exams</h3>
+### Exams
 
 So far, exams have gone well. First I had my ice skating exam. No joke ;). I got a 98% in the class. That's not bad considering I sprained my ankle pretty badly a few weeks ago. Sarah and Shelley both, of course, got above 100%. :P
 
@@ -17,7 +17,7 @@ Then I had Math today. It was a piece of cake. The exam was comprehensive, cover
 
 My next two exams are Tuesday and Wednesday... ;s
 
-<h3>Sofa Express</h3>
+### Sofa Express
 
 For graduation my parents gave us a bunch of money to buy furniture. I, to my great surprise, actually enjoyed the experience. I never thought I'd say it but there you go. We're having some cool living room stuff delivered the day we move in. Of course I wouldn't bring it up if the story stopped here...
 
@@ -27,7 +27,7 @@ A few days later, my dad gives me a postcard from sofa express advertising a 20%
 
 I was pretty shocked that this was such a complicated thing for them. Like I said, they had two sales the entire day...isn't this a pretty simple thing!? I can't wait to get my updated invoice...
 
-<h3>Sarah's Car</h3>
+### Sarah's Car
 
 Oh man, this is a good one. So i am driving though our little alley and I'm just about to pull into our parking lot when I see my neighbor backing towards me. I honk and attempt to get out of the way but all efforts are futile. He manages to not hear me, or avoid me. He backs right into the side of the rear driver's side door/wheel. The damage is very small but deep enough that it will require some painting.
 

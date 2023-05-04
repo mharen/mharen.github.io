@@ -13,4 +13,4 @@ Three Sundays ago I suffered my earliest elimination ever. I think I was out by 
 
 I haven't updated my spreadsheet for a couple weeks but overall, I'm still up about $90 for the year. Clearly it's not paying the bills :). We play for fun--*with* money--not *for* money. If anyone reading is interested in a game on Sundays or Thursdays at 8pm let me know!
 
-Also: <div class="idiotspeak">Now hear this: Poker Tournament on May 13 (the Friday AFTER Mother's Day, don't worry moms). It will run just like the last one. We'll start around 8:30. Buy in will be $5 with rebuys. The usual snacks and drinks will be provided. All money will be paid out to the top 4 places (I'm not taking a cut, that'd be illegal here in Ohio :)). Please let me know if you are planning on coming!</div>
+Also: Now hear this: Poker Tournament on May 13 (the Friday AFTER Mother's Day, don't worry moms). It will run just like the last one. We'll start around 8:30. Buy in will be $5 with rebuys. The usual snacks and drinks will be provided. All money will be paid out to the top 4 places (I'm not taking a cut, that'd be illegal here in Ohio :)). Please let me know if you are planning on coming!

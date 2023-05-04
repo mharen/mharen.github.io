@@ -5,6 +5,8 @@ categories: random-updates
 title: Racin' for the Cure
 ---
 
+*By Sarah*
+
 Hi all :)
 
 I ran in the Race for the Cure last weekend, a 5k road race in Columbus intended to raise money for breast cancer research.

@@ -17,7 +17,7 @@ I've been flying a fair bit lately and that got me ruminating. If you know the a
 
 * A couple flights ago, my inbound plane was delayed because they had to stop unexpectedly for fuel. I asked how often that happens and the friendly rep told me that it's up to the pilots. Excuse me, but there are somethings I'd just assume leave up to the computer and calculating fuel requirements is one of them. Here's an idea: in bad weather, add extra fuel.
 
-* How fast do planes go when taking off? When landing? [Answer](http://www.aerospaceweb.org/question/performance/q0088.shtml" id="x5-t"" title="Answer): 150-180mph. It doesn't *feel* that fast, but I guess I've never driven a plane down the turnpike before.
+* How fast do planes go when taking off? When landing? [Answer](http://www.aerospaceweb.org/question/performance/q0088.shtml): 150-180mph. It doesn't *feel* that fast, but I guess I've never driven a plane down the turnpike before.
 
 * How do planes make up time in the air? Do they fly faster? Lower?
 

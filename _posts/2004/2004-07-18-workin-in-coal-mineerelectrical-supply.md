@@ -8,6 +8,8 @@ categories:
 title: workin' in a coal mine...er...electrical supply company
 ---
 
+*By Sarah*
+
 since michael hasn't updated ya'll in a while, i thought i would take it upon myself to fill you in on what's going on in good old kent/akron/aurora.  
 
 michael, like he said before, is at a computer company.  he does computer stuff that i don't really understand, and has done some major revamping of one of the company websites (yay michael!).  

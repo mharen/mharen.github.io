@@ -8,7 +8,13 @@ categories:
 title: More updates - Lost, Graduation
 ---
 
-<h3>Lost</h3>Of course I'm speaking about the TV show, not my state of mind. The finale was completely...anticlimactic. A couple new things happened, but little was resolved. In typical ABC fashion, we have to wait until next season to figure out what we've been waiting all season to figure out. Damn! <h3>Graduation</h3>Sarah, Shelley, Ben, and I graduate next Sunday (hopefully ;) ). So as of this writing, just 10 days left...
+
+### Lost
+
+Of course I'm speaking about the TV show, not my state of mind. The finale was completely...anticlimactic. A couple new things happened, but little was resolved. In typical ABC fashion, we have to wait until next season to figure out what we've been waiting all season to figure out. Damn! 
+### Graduation
+
+Sarah, Shelley, Ben, and I graduate next Sunday (hopefully ;) ). So as of this writing, just 10 days left...
 
 For me: just 2 classes, 4 exams, and one long ceremony are between me and a diploma.
 
@@ -23,9 +29,3 @@ Now, if he plan continues to follow, we'll have furniture delivered Wednesday mo
 And then the real world starts on Monday. Sarah is deferring the real world until next Spring when she starts teaching about it to highschoolers. :)
 
 Now I just need to figure out why GoogleMaps says the drive will take 10.5 hours and MapQuest says it will take only 8.5 hours...
-
-And that new address one more time...
-
-   2916 Waterford Forest Circle
-
-   Cary, NC 27513
