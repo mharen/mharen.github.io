@@ -5,7 +5,7 @@ categories: random-updates
 title: How is your WiFi?
 ---
 
-I must admit that I am impressed with the adoption of WiFi. My parents, friends, coworkers, etc. all have jumped on for the ride. In fact, in my apartment I can see at least five networksâ€”seven if I stay near the window. I think this is great!
+I must admit that I am impressed with the adoption of WiFi. My parents, friends, coworkers, etc. all have jumped on for the ride. In fact, in my apartment I can see at least five networks—seven if I stay near the window. I think this is great!
 
 Of course you knew I was going to say "but." Here's my gripe: the wireless protocol is still notoriously unreliable. It isn't enough that we get less than half of the advertised distance and perhaps a quarter of the advertised speed; we also must weather intermittent connections. 
 

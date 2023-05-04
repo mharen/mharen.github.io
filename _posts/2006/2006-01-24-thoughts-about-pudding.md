@@ -11,7 +11,7 @@ title: Thoughts About Pudding
 
 * Cafeteria pudding usually sucks. That's because it's not real pudding.
 
-* Low-cal pudding isn't very good either, but it will doâ€”when it comes to pudding, take what you can get.
+* Low-cal pudding isn't very good either, but it will do—when it comes to pudding, take what you can get.
 
 * You can eat pudding with a spoon *or* fork. It's so versatile!
 

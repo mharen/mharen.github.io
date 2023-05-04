@@ -5,7 +5,7 @@ categories: technology
 title: Auto-Tint Glass
 ---
 
-Auto-tint glass has been used in eyeglasses for many years now (my earliest memory reaches as far back as 1995). You've probably seen it aroundâ€”people wear a single pair of glasses that transform into sunglasses when they go outside into the Sun, and transform back into regular eyeglasses when they come inside. 
+Auto-tint glass has been used in eyeglasses for many years now (my earliest memory reaches as far back as 1995). You've probably seen it around—people wear a single pair of glasses that transform into sunglasses when they go outside into the Sun, and transform back into regular eyeglasses when they come inside. 
 
 Let's all pause a moment and consider how amazing this simple thing is.
 

@@ -5,7 +5,7 @@ categories: random-updates
 title: House Hunting Updates
 ---
 
-Sarah and I found two homes that we really like but after revisiting both homes, one has surfaced as a clear winner. Our agent was over late last night preparing an offer for 105 Stoneline Court.  
+Sarah and I found two homes that we really like but after revisiting both homes, one has surfaced as a clear winner. Our agent was over late last night preparing an offer.  
 
 We chose this house over the other for several reasons. Stoneline is in a nicer area with better schools, etc. It is in an area of higher/quicker appreciation. The community feels better--we have a community pool, and nearby ballpark and bike path. One of the big selling points is land. The first house had less and 1/5 acre. The house we've chosen sits on 2/5 acre. Additionally, two of the 3 adjacent lots (one side and rear) will most likely never have homes on them. The rear lot has a pond on it and the side lot is almost completely in a flood plane with poor position and terrain relative to surrounding properties. That effectively means that we have a lot more privacy and the feel of a lot more land. Obviously all these things translate into a higher cost but it is definitely worth it.
 

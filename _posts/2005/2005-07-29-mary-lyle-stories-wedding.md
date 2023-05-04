@@ -2,7 +2,7 @@
 layout: post
 date: '2005-07-29T21:09:00.000-04:00'
 categories: random-updates
-title: "Mary Lyle-Storie\xE2\u20AC\u2122s Wedding"
+title: "Mary Lyle-Storie's Wedding"
 ---
 
 I'm not sure what Sarah and I were thinking as we planned out our weekend but we messed up somewhere along the way. We left for Newark, Ohio from NC Thursday night and arrived very early Friday morning. Sarah did the whole wedding decoration thing all day Friday. Friday night we did the rehearsal dinner thing. After the dinner Sarah threw Mary a bachelorette party and I went with Chris to play cards.

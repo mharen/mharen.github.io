@@ -9,7 +9,7 @@ Continuing our discussion of the [sneaky iPod pricing structure](http://wassupy.
 
 #### Purpose
 
-Are you planning to use your new player while exercising? If so, you might be better off with a flash based player like the Shuffle and Nano. Running and shaking can cause the hard drive based players to skip, crash, and otherwise stop playing music. Do not let that "3 minute anti-skip" crap fool youâ€”they don't work well when used while exercising. This is the primary reason that Sarah got a shuffle and she loves it.
+Are you planning to use your new player while exercising? If so, you might be better off with a flash based player like the Shuffle and Nano. Running and shaking can cause the hard drive based players to skip, crash, and otherwise stop playing music. Do not let that "3 minute anti-skip" crap fool you—they don't work well when used while exercising. This is the primary reason that Sarah got a shuffle and she loves it.
 
 #### Space
 
