@@ -5,12 +5,12 @@ categories: random-updates
 title: Things my dog has eaten today
 ---
 
-a peanut m&m
+* a peanut m&m
 
-half of a squeaker from a toy (subsequently coughed up)
+* half of a squeaker from a toy (subsequently coughed up)
 
-fluff from the toy
+* fluff from the toy
 
-a jello cup (mostly empty)
+* a jello cup (mostly empty)
 
-a potato
+* a potato

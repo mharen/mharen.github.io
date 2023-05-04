@@ -15,11 +15,8 @@ title: Thoughts About Pudding
 
 * You can eat pudding with a spoon *or* fork. It's so versatile!
 
-
 And one final random though (not related to pudding)...
 
-
-
-	* Why is it that it takes hours and hours to freeze a slice of lasagna but I can reheat the same frozen block in only 90 seconds? Come on!
+* Why is it that it takes hours and hours to freeze a slice of lasagna but I can reheat the same frozen block in only 90 seconds? Come on!
 
 

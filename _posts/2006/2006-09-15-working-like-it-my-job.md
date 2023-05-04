@@ -5,7 +5,7 @@ categories: work
 title: Working like it's my Job
 ---
 
-![rovisyslogo.gif](/assets/2006/rovisyslogo.gif)Work is kind of a roller coaster now. I work at [Rovisys](http://www.rovisys.com/) in Apex, North Carolina (though it’s based in Aurora, Ohio). The big project that I have been working on for about a year is driving me absolutely insane at the moment. Here’s the deal: the project began with a spec written by another company. Rovisys was then hired to implement a bunch of software. About half of that software (a web application) was implemented quickly and installed successfully under a project lead by my friend and coworker Bryan, of the world famous [Guy Behind the Guy](http://guybehindtheguy.blogspot.com/).
+Work is kind of a roller coaster now. I work at [Rovisys](http://www.rovisys.com/) in Apex, North Carolina (though it’s based in Aurora, Ohio). The big project that I have been working on for about a year is driving me absolutely insane at the moment. Here’s the deal: the project began with a spec written by another company. Rovisys was then hired to implement a bunch of software. About half of that software (a web application) was implemented quickly and installed successfully under a project lead by my friend and coworker Bryan, of the world famous [Guy Behind the Guy](http://guybehindtheguy.blogspot.com/).
 
 I did some stuff for that but eventually moved over to the other half of the project which involved a multithreaded windows service that does a bunch of stuff as real-time things happen at the company’s plants around the world. I came into this side of the project a little late and eventually learned a whole lot about how *not* to manage the implementation of a project. The business side of things went ok, but the code...not so much.
 
