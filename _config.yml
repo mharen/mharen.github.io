@@ -22,7 +22,7 @@ title: Wassupy Blog
 email: mharen@gmail.com
 description: >-
   Occasional thoughts on technology, money, life and kids by Michael Haren
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:year/:month/:title.html"
 category_path: tag
