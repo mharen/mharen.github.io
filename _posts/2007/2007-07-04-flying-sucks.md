@@ -9,7 +9,7 @@ I travel quite a bit for my job so I've become all-too familiar with airports. T
 
 Sometimes I wonder if the whole air travel industry is really just a giant experiment to see how much crap people will put up with. I can see some PhDs at a think tank sitting around one of those yin-yang tables brainstorming:
 
-<blockquote>How about this: we say they can't take liquids of any kind on the plane--even if they buy them on the other side of the security checkpoint. Then, a couple of weeks later, we'll say you can take as many 3oz bottles as you can fit into a single 1 qt bag and people will cheer--but they gotta be in a bag! And, if we want to make people really happy, we'll let them buy water and take it on the plane, too. They'll hate it at first but when we give a little, we'll all be heroes! All hail SkyMall!</blockquote>
+> How about this: we say they can't take liquids of any kind on the plane--even if they buy them on the other side of the security checkpoint. Then, a couple of weeks later, we'll say you can take as many 3oz bottles as you can fit into a single 1 qt bag and people will cheer--but they gotta be in a bag! And, if we want to make people really happy, we'll let them buy water and take it on the plane, too. They'll hate it at first but when we give a little, we'll all be heroes! All hail SkyMall!
 
 It seems to me that the whole airline industry is taking the wrong approach to solve the issue of security. Instead of belittling thousands (millions?) of people each day with completely ridiculous procedures, I suggest we try something else.
 

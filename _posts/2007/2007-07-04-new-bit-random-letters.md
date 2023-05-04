@@ -9,12 +9,10 @@ I've decided to launch a new bit on this site: approximately each week, I will w
 
 I open this new bit with this letter to Google, which I will mail out (on actual paper, in an actual envelope) tomorrow:
 
-<blockquote>July 4, 2007
+July 4, 2007
 
-Google Inc.
-
-1600 Amphitheatre Parkway
-
+Google Inc.  
+1600 Amphitheatre Parkway  
 Mountain View, CA 94043
 
 Dear Google,
@@ -31,6 +29,5 @@ I urge you, Google, be mindful of this incredible power you are building.
 
 Best regards,
 
-Michael Haren
-
-mharen@gmail.com (but you already knew that, didn’t you?)</blockquote>
+Michael Haren  
+mharen@gmail.com (but you already knew that, didn’t you?)

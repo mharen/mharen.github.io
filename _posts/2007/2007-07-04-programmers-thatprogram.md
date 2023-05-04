@@ -9,53 +9,32 @@ As a software guy, [this article](http://www.codinghorror.com/blog/archives/0007
 
 The example from the article, is an application that prints a list of numbers from 1-10. A slightly less ridiculously easy version is to:
 
-<blockquote>Write a program that prints the numbers from 1 to 100. But for multiples of three print ?Fizz? instead of the number and for the multiples of five print ?Buzz?. For numbers which are multiples of both three and five print ?FizzBuzz?.</blockquote>
+> Write a program that prints the numbers from 1 to 100. But for multiples of three print ?Fizz? instead of the number and for the multiples of five print ?Buzz?. For numbers which are multiples of both three and five print ?FizzBuzz?.
 
 Any programmer should be able to implement these "programs" in a half-dozen languages in under five minutes. It's tough to convey to non-programmers just how easy this should be--this is something that a programmer should be able to do in *any* language with 2 minutes of googling. We're talking like Hello World, part 2 type stuff here.
 
 Here's my wife's implementation (with only a little help):
 
-<pre>(while n<100)
-
+```c
+(while n<100)
 {
-
-n++;
-
-{
-
-if (n Mod 15 == 0)
-
-{
-
-print "FizzBizz";
-
-}
-
-elseif (n Mod 3 == 0)
-
-{
-
-print "Fizz";
-
-}
-
-elseif (n Mod 5 == 0)
-
-{
-
-print "Bizz";
-
-}
-
-else
-
-{
-
-print n;
-
-}
-
-}
-
+    n++;
+    
+    if (n Mod 15 == 0)
+    {
+        print "FizzBizz";
+    }
+    elseif (n Mod 3 == 0)
+    {
+        print "Fizz";
+    }
+    elseif (n Mod 5 == 0)
+    {
+        print "Bizz";
+    }
+    else
+    {
+        print n;
+    }
 }
 ```

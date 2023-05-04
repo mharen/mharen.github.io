@@ -7,9 +7,6 @@ title: Peanut's 20-Week Ultrasound
 
 My parents gave us a 3D ultrasound for Easter and it was great!
 
+<iframe width="546" height="410" src="https://www.youtube.com/embed/pLG61gP3yvc" title="Peanut at 20 Weeks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-![pics_39.JPG](/assets/2007/pics_39.JPG)We got lots of [awesome shots](http://wassupy.com/gallery2/v/Peanut/" title="Peanut at 20 weeks) of her and a [neat video](http://www.youtube.com/watch?v=pLG61gP3yvc).
-
-
-
+Neat.
