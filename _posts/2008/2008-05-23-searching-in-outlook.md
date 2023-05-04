@@ -5,7 +5,7 @@ categories: technology
 title: Searching in Outlook
 ---
 
-![outlook-icon.jpg](/assets/2008/outlook-icon.jpg)Love it or hate it, Outlook is *the *email solution for a lot of people. When it comes to work-related email, I'm one of those suckers.
+Love it or hate it, Outlook is *the* email solution for a lot of people. When it comes to work-related email, I'm one of those suckers.
 
 Now that Google has spoiled us with archive-and-search-everything email, I've run into issues with my enormous work inbox. I have mimicked by gmail setup in Outlook with the aid of the fantastic search tool Lookout.
 
@@ -15,21 +15,7 @@ If you're stuck with Outlook, consider this free tool to make searches quick and
 
 One final tip: if you are using Outlook 2007 and hate that annoying "Click here to enable lame instant search" nag bar, fear not. This is how to disable it:
 
-
-
-&nbsp;
-
-
-
-	* Tools > Options > Other > Advanced Options
-
-	* Uncheck "Show prompts to enable lame InstantSearch"
-
-
-
-
-
-
-![disablesearchoutlook.png](/assets/2008/disablesearchoutlook.png)
+* Tools > Options > Other > Advanced Options
+* Uncheck "Show prompts to enable lame InstantSearch"
 
  Happy searching!

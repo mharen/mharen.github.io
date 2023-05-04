@@ -11,13 +11,13 @@ This is what I did to get around it.
 
 I have a Linux box running at home (which happens to run this website). Here's how this works from a high level:
 
-	1. Setup a server at home to accept SSH connections (like secure telnet)
-	2. I setup a proxy on my home server to accept connections only from local addresses (not from the internet)
-	3. I configure my laptop to connect to my home computer over SSH (a secure connection)
-	4. I configure my laptop's browser to use a localhost proxy on some random, high port (like 31234)
-	5. I bridge my laptop and my home network via an SSH tunnel so that connections to 127.0.0.1:31234 on my laptop are handled by my home server at 127.0.0.1:31234 (the proxy)
+1. Setup a server at home to accept SSH connections (like secure telnet)
+2. I setup a proxy on my home server to accept connections only from local addresses (not from the internet)
+3. I configure my laptop to connect to my home computer over SSH (a secure connection)
+4. I configure my laptop's browser to use a localhost proxy on some random, high port (like 31234)
+5. I bridge my laptop and my home network via an SSH tunnel so that connections to 127.0.0.1:31234 on my laptop are handled by my home server at 127.0.0.1:31234 (the proxy)
 
-![ssh-tunnel.png](/assets/2008/ssh-tunnel.png)That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a [Gentoo-Linux](http://www.gentoo.org/main/en/about.xml) machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
+That's a lot of information, I know. Each of these steps is pretty easy if handled one at a time. Here's how it's done. This was performed with a [Gentoo-Linux](http://www.gentoo.org/main/en/about.xml) machine at home acting as the server and proxy and a Windows XP machine at work acting as a client.
 
 **Setup a server at home to accept SSH connections**
 
@@ -27,34 +27,24 @@ This is outside the scope of this doc. If you have a Linux machine, you probably
 
 Once you are able to connect to your Linux machine from inside your network, you will need to open up a port on your router/firewall so you can access it from outside your network. This is vendor specific so you're on your own there.
 
-
-
 **I setup a proxy on my home server to accept connections only from local addresses (not from the internet)**
 
 I used TinyProxy as my proxy software because it is lightweight and easy to configure. Since I'm running Gentoo, this is as easy as:
 
-
-
-	* emerge -vat tinyproxy
-
-
-
+* emerge -vat tinyproxy
 
 The configuration file is pretty self explanatory so dig in and read the man pages. Don't forget to add it to the start up services with rc-update!
 
 **Configure browser to use local port for proxy**
 
-This part's a piece of cake so long as you keep the referencing straight. Since SSH will be bridging a "localhost" port on my laptop to a "localhost" port on my server, it's all just localhost. I *do not *configure the proxy with any server-specific addresses.
+This part's a piece of cake so long as you keep the referencing straight. Since SSH will be bridging a "localhost" port on my laptop to a "localhost" port on my server, it's all just localhost. I *do not* configure the proxy with any server-specific addresses.
 
 
+**Configure SSH client's tunnel**
 
- ![proxy.png](/assets/2008/proxy.png)**Configure SSH client's tunnel **
+Now that the server and client are configured, all we need to do is bridge them together. Inside Putty, create a tunnel.
 
-Now that the server and client are configured, all we need to do is bridge them together. Inside Putty, create a tunnel like so:
-
-
-
-![putty-cfg.png](/assets/2008/putty-cfg.png)**Benefits, Issues and Alternatives **
+**Benefits, Issues and Alternatives**
 
 This works well but won't be a walk in the park to configure if you're new to networking or Linux--I skipped a lot of steps. There are also some speed issues as this is routing in/out of my home broadband connection which isn't very fast and in the cases of others, might be firewalled at the ISP level.
 
