@@ -30,10 +30,7 @@ permalink: "/:year/:month/:title.html"
 theme: minima
 plugins:
   - jekyll-feed
-  # - jekyll-category-pages
   - jekyll-archives
-
-category_path: tag
 
 jekyll-archives:
   enabled:
