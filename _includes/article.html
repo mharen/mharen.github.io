@@ -8,13 +8,28 @@
                 {{ include.page.date | date: date_format }}
             </time>
 
-            in <em>
-            {% for category in include.page.categories %}
-                {% if forloop.last %} and {% endif %}
-                <a href="/search/label/{{ category | slugify: 'latin' }}/">{{ category }}</a>
-                {%- unless forloop.last -%}, {%- endunless -%}
-            {% endfor %}
-            </em>
+            {% assign catSize = include.page.categories | size %}
+            {% if catSize > 0 %}
+                in <em>
+                {% case catSize  %}
+                    {% when 1 %}
+                        {% assign category = include.page.categories | first %}
+                        <a href="/search/label/{{ category | slugify: 'latin' }}/">{{ category }}</a>
+                    {% when 2 %}
+                        {% assign category1 = include.page.categories | first %}
+                        {% assign category2 = include.page.categories | last %}
+                        <a href="/search/label/{{ category1 | slugify: 'latin' }}/">{{ category1 }}</a>
+                        and
+                        <a href="/search/label/{{ category2 | slugify: 'latin' }}/">{{ category2 }}</a>
+                    {% else %}
+                        {% for category in include.page.categories %}
+                            {% if forloop.last %} and {% endif %}
+                            <a href="/search/label/{{ category | slugify: 'latin' }}/">{{ category }}</a>
+                            {%- unless forloop.last -%}, {%- endunless -%}
+                        {% endfor %}
+                {% endcase %}
+                </em>
+            {% endif %}
 
             {%- if include.page.author -%}
             • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ include.page.author }}</span></span>
