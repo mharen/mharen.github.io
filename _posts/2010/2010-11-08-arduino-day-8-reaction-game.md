@@ -9,7 +9,7 @@ categories:
 title: "Arduino Day 8: \"Reaction\" Game"
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 Today’s build combines a lot of the skills I’ve learned so far. It’s a simple game you’ve probably played before. It works like this for two players (though any number is possible): 
 

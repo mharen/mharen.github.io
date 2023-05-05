@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 5: Fun With Charlieplexing'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 Here’s the challenge of the day: wire up a bunch of LEDs to blink in sync to the music from [yesterday’s fun](../../2010/11/arduino-day-4-fun-with-sound.html). In all my LED fun before, though, I was wiring up LEDs directly to output pins on the Arduino—one-to-one. This doesn’t scale very well. 
 

@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 1: Unpacking and Fun with LEDs'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 Today is my first day with the Arduino, and the first day I’ve touched a microcontroller in almost a decade. Be gentle.
 

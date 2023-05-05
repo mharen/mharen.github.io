@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 7: Buttons and Buzzers'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 I had very limited time to build today so I’m afraid I don’t have much to show for it. Part of the problem was a lack of ideas, too. I think I need to bite off a bigger, multi-day project. I have some things in mind...
 

@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 9: Simon(ish) Game'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day-8-reaction-game.html). I think you’ll probably recognize it:  
 

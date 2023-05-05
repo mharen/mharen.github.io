@@ -51,7 +51,7 @@ I think Scott’s right to focus on language as the essence of professionalism i
 
 So the next time you want to build a rapport with your audience or jazz up a boring topic, do what I do: tell self-deprecating jokes until you get sympathy laughs and move on to the cool stuff everyone came to hear about. If you think you need four-letter gimmicks to earn people’s time, you’re doing it wrong.
 
-And *they were [ponies]({{ "/assets/2011/ponies.jpg "a pony with a festive plush antler hat" | relative_url }}) the whole time.*
+And *they were [ponies]({{ "/assets/2011/ponies.jpg" | relative_url }} "a pony with a festive plush antler hat") the whole time.*
 
 ---
 

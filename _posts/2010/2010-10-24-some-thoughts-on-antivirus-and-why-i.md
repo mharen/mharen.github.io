@@ -14,7 +14,7 @@ In my experience, antivirus software has been a near-total waste of time and res
 
 When I’ve seen it detect malware, it often couldn’t do anything about it, and most of the time it’s just nagging users with false positives or completely inappropriately technical messages. 
 
-[![network]({{ "/assets/2010/network-6.png "Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out. When Linux/Mac win in a decade or so the game will be over."" | relative_url }})](https://xkcd.com/350/)
+[![network]({{ "/assets/2010/network-6.png" | relative_url }} "Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out. When Linux/Mac win in a decade or so the game will be over.")](https://xkcd.com/350/)
 
 Although, it used to be very important. There once was a time where our poor Windows machines were basically teeming cesspools of digital disease with virtually no defenses. These things needed help. It’s laughable to recall that Windows XP pre SP2 and [recent versions](http://news.cnet.com/8301-10784_3-9807471-7.html) of OS X didn’t even have a firewall enabled by default.
 

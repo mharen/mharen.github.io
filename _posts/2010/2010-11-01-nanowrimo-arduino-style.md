@@ -8,7 +8,7 @@ categories:
 title: 'Nanowrimo: Arduino Style'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 Today marks the beginning of [National Novel Writing Month](http://www.nanowrimo.org/) (NaNoWriMo). Instead of writing a crappy novel (maybe next year), I decided to do one code-related project every day for 30 days. As it happens, the super sweet microcontroller I ordered, the Arduino, *arrived today*. And so, that’s what I’ll do: 30 days of Arduino.
 

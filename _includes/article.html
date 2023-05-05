@@ -1,0 +1,30 @@
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title p-name" itemprop="name headline">{{ include.page.title | escape }}</h1>
+        <p class="post-meta">
+            <time class="dt-published" datetime="{{ include.page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                {{ include.page.date | date: date_format }}
+            </time>
+
+            in <em>
+            {% for category in include.page.categories %}
+                {% if forloop.last %} and {% endif %}
+                <a href="/search/label/{{ category | slugify: 'latin' }}/">{{ category }}</a>
+                {%- unless forloop.last -%}, {%- endunless -%}
+            {% endfor %}
+            </em>
+
+            {%- if include.page.author -%}
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ include.page.author }}</span></span>
+            {%- endif -%}
+        </p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody">
+        {{ include.page.content }}
+    </div>
+
+    <a class="u-url" href="{{ include.page.url | relative_url }}" hidden></a>
+</article>

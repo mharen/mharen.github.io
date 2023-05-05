@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 2: Digital Inputs (More Fun With LEDs)'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 I’m still familiarizing myself with everything Arduino so this next project is a simple modification to my [day-1 LED project](../../2010/11/arduino-day-1-unpacking-and-fun-with.html). I’ve added some dip switches to control which pattern will appear on the LEDs. Here’s the result:
 

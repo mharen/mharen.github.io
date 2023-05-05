@@ -7,7 +7,7 @@ categories:
 title: 'Arduino Day 12: Seeking Inspiration'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 I’ve quite suddenly begun struggling to come up with project ideas that are both possible to implement with my limited components and time, and also interesting (to me at least, if not you). 
 

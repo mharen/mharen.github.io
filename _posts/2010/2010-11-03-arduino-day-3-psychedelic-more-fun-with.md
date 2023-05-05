@@ -9,7 +9,7 @@ categories:
 title: 'Arduino Day 3: Psychedelic Fun With a Tri-Color LED'
 ---
 
-**Tip!** This post is part of [a series](/tag/30-days-of-arduino) on my adventures with Arduino
+**Tip!** This post is part of [a series](/search/label/30-days-of-arduino/) on my adventures with Arduino
 
 I picked up a tri-color RGB super-bright LED yesterday and had some fun playing around with it. The first thing I did was scour the Internet to figure out how to wire this thing up. It was surprisingly difficult to find a decent pin out and wiring guide. 
 
