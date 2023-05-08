@@ -30,7 +30,7 @@ For me, consulting meant that I got to work on a variety of different things. Th
 
 Product work is different. Pretty much all your effort goes to support the products of your company. Of course products are complex things with lots of moving parts, but it's a far cry from the diversity you see in consulting.
 
-I appreciate the variety of the consulting world but I *crave *the razor focus of the products world. I want to polish the application until it shines.** I want the user experience to be so smooth that I'm not tortured watching a new user stumble through it.** Consulting doesn't work that way because it's rarely needed there. 
+I appreciate the variety of the consulting world but I *crave* the razor focus of the products world. I want to polish the application until it shines. **I want the user experience to be so smooth that I'm not tortured watching a new user stumble through it.** Consulting doesn't work that way because it's rarely needed there. 
 
 In the consulting world things usually just need to be *good enough*. That's not a bad thing; the goals are just different. If a customer wants to manage some data with a mobile app, they're satisfied when they can do that. They typically are not willing to pay more to make sure it has a nice icon, comprehensive support documentation, clean URLs, good performance, etc.
 
