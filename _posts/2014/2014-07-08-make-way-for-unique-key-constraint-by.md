@@ -43,7 +43,6 @@ SELECT * FROM @Widgets
 ```
 You ought to be able to run all that and get these results in SQL Server:
 
-
-![](/assets/2014/query-results.png){:height="332" width="213"}
+{% imagesize /assets/2014/query-results.png:img %}
 
 Adapt to your needs :).
