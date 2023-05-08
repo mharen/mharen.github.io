@@ -9,7 +9,7 @@ title: "Diagnosis II: Why Can't LiveWriter Post from Work?"
 
 The remote server returned an error: (403) Forbidden.I’m at working trying to toss up blog post here and there and things are coasting along smoothly with Windows Live Writer when I see this when I hit *publish* (bonk):  
 
-![an error dialog that reads "File upload failed. The remote server returned an error: (403) Forbidden." with an annotation that reads "Boooooo"]({{ "/assets/2009/live-writer-1.png" | relative_url }})
+{% imagesize /assets/2009/live-writer-1.png:img alt='an error dialog that reads "File upload failed. The remote server returned an error: (403) Forbidden." with an annotation that reads "Boooooo"' %}
 
 This was working fine yesterday so I’m assuming I’m being blocked by my corporate firewall. OK, let’s confirm that.
 

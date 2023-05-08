@@ -10,7 +10,7 @@ title: Happy First Birthday, Thing 3
 
 Thing 3’s birthday is today. It’s hard to believe it’s already been a year since [he was born](../../2011/08/birth-story-thing-3.html).
 
-![thing 3 in a chair with food on his face](/assets/2012/IMG_3263.jpg)
+{% imagesize /assets/2012/IMG_3263.jpg:img alt='thing 3 in a chair with food on his face' %}
 
 Although babies are cute and snuggly, I enjoy raising kids even more when they start to interact more purposefully. He’s almost there. He has a couple words, he can take a couple steps, and he’s becoming more expressive every day.
 

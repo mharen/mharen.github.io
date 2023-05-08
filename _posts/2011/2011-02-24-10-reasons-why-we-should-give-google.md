@@ -35,7 +35,7 @@ Google isn’t all showy or anything, it just gives me results. But sometimes th
 
 **3. Google does way more than search:** 
 
-![a long list of google services](/assets/2011/more-than-search.png)
+{% imagesize /assets/2011/more-than-search.png:img alt='a long list of google services' %}
 
 **4. They do search way better than you[^2].** Bing does a decent job and Amazon holds its own within their site, but pretty much no one else does
 

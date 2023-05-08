@@ -16,7 +16,7 @@ Errr...what? I went back and tried copying again. Same thing. Weird.
 
 So I loaded the same site on my desktop and immediately noticed strange behavior around text selection:  
 
-![a screenshot of Taylor Swift lyrics for "Fairy Tale" showing a mouse cursor failing to highlight lyrics because something is wrong with the website](/assets/2012/selection.gif)
+{% imagesize /assets/2012/selection.gif:img alt='a screenshot of Taylor Swift lyrics for "Fairy Tale" showing a mouse cursor failing to highlight lyrics because something is wrong with the website' %}
 
 The title in line one works fine, but the lyrics themselves won’t hold a selection. What’s doing that? Let’s take a peek at the page’s source. The first thing I noticed was an unusually large amount of HTML entities:
 

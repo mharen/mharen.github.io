@@ -12,7 +12,7 @@ title: My Favorite Book Ever
 
 My favorite book ever isn’t a book. It’s a Kindle.  
 
-![kindle cover and light](/assets/2011/kindle-cover-and-light.jpg)
+{% imagesize /assets/2011/kindle-cover-and-light.jpg:img alt='kindle cover and light' %}
 
 I came to this party late and unwilling, like I do to most social occasions. Except I’m usually awkwardly early to social occasions. I received my Kindle 3 Wi-Fi as a Christmas gift (thanks, Mom) and knocked out my first book in just a few days. 
 

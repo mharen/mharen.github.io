@@ -24,7 +24,7 @@ So after playing fast and loose with case sensitivity, it’s easy to treat the 
 Unfortunately, I can’t find a reference that documents this at the moment, but I can confirm it works that way from personal experience. Here’s one of my recent commits:
 
 ![A diff that replaces "Sessionid" with a new casing](/assets/2011/case-sensitive-2.png) 
-![a commit message that reads "OMG this took too long to figure out. Viewstate keys are case sensitive :( Updates #5606"](/assets/2011/case-sensitive-1.png)
+{% imagesize /assets/2011/case-sensitive-1.png:img alt='a commit message that reads "OMG this took too long to figure out. Viewstate keys are case sensitive :( Updates #5606"' %}
 
 And a flood of Google results from others affected confirms it’s not a fluke affecting just me.
 

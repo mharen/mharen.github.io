@@ -11,7 +11,7 @@ A few months ago I got an HTC Droid Incredible on Verizon. It. Is. Awesome.
 
 It is far and away the closest you can get to an iPhone-level device. Speaking of which, I think the iPhone and Droid have completely buried everything else:
 
-![a venn diagram showing iPhone and Android overallping with a big circle labeled "awesomeness", and a little dot called "winmo" that is outside the circle](/assets/2010/phone-venn.png)
+{% imagesize /assets/2010/phone-venn.png:img alt='a venn diagram showing iPhone and Android overallping with a big circle labeled "awesomeness", and a little dot called "winmo" that is outside the circle' %}
 
 In fact, I think about 75% of each device is definitely in the awesome region, and most of that is overlapping. What’s not awesome is either pretty good, or could be improved (they share weaknesses, too).
 
