@@ -13,7 +13,7 @@ title: 'Arduino Day 17: Light Driven Beeps'
 
 Today’s build was a fun one for Thing 1. It’s basically just two CdS light sensors tied to a set of LEDs and a buzzer. If you cover either of the sensors (or both), a different tone plays and an LED lights. Like so:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/NFDGEEr8ydQ" title="Arduino Day 17: Fun with light-controlled buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/NFDGEEr8ydQ" title="Arduino Day 17: Fun with light-controlled buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Build
 

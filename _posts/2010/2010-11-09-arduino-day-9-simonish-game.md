@@ -13,7 +13,7 @@ title: 'Arduino Day 9: Simon(ish) Game'
 
 I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day-8-reaction-game.html). I think you’ll probably recognize it:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/ozySl-wQYGc" title="Arduino Day 9: Simon(ish) Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/ozySl-wQYGc" title="Arduino Day 9: Simon(ish) Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The first time Wife tried this (she pretends to be interested, which I’m pretty sure is love) she shocked me by playing for six minutes straight, successfully knocking out a 27 bit sequence. Random chance would put that at 1 in 134217728 (0.0000007%)...it’s probably legit.
 

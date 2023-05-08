@@ -25,7 +25,7 @@ These shows are simply absurd in every way. Crazy stuff happens on “House MD�
 
 10...9...8...7...ok I’m feeling better now. So here’s what we ended up with:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/ZGQOJTgm7A4" title="Arduino Day 4: Fun With Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/ZGQOJTgm7A4" title="Arduino Day 4: Fun With Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 #### Build
 

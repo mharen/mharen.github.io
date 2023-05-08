@@ -13,7 +13,7 @@ title: 'Arduino Day 10: PC Input'
 
 I’m starting to lay the groundwork for a larger project that will be driven from network data. I don’t have an Ethernet shield so I’ll drive this from USB. Today’s exercise is simply to verify that I can write data to the board from a higher level program on my computer. In this case, I’m using C#.  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/ekmc3fTQPtU" title="Arduino Day 10: PC Input via USB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/ekmc3fTQPtU" title="Arduino Day 10: PC Input via USB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 #### Build
 

@@ -40,7 +40,7 @@ Wii Bowling was another failure. I hoped that the fluid motion of actually prete
 
 This trailer makes it look a lot more fast paced than it really is. There’s no clock—remember, it’s more like toothpicks and marshmallows.  
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/BzQuTsIKd14" title="World of Goo - Official Trailer #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/BzQuTsIKd14" title="World of Goo - Official Trailer #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 It’s interface is very responsive, very interactive, and very simple. 
 

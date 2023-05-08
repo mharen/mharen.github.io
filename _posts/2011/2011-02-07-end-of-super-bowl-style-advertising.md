@@ -16,11 +16,11 @@ He nailed it. When I have access to unlimited amusing clips (usually with no ult
 
 Sure I chuckled at several of them, including this favorite that I’m sure you’ve seen 800 times already:  
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/R55e-uHQna0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/R55e-uHQna0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 And this close runner-up:  
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/SCB4YWPhNeI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/SCB4YWPhNeI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 But those professionally produced, multi-million-dollar barely match up to what Youtubers put together. [Need I remind you](../../2010/11/arduino-day-6-analog-inputs)? 
 

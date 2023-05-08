@@ -17,7 +17,7 @@ A big benefit to the simple build, though, was that Thing1 was actually interest
 
 Here we go:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/_BNAhP3OazQ" title="Arduino Day 7: Buttons and Buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/_BNAhP3OazQ" title="Arduino Day 7: Buttons and Buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Build
 

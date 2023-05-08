@@ -28,7 +28,7 @@ With full bellies, we made it to the Science Center after stopping to calm the t
 
 Bernoulli’s Principle:  
 
-<iframe width="700" height="525" src="https://www.youtube.com/embed/waMs2z5AL-M" title="Bernoulli&#39;s Principle - Floating ball at the Cleveland Science Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/waMs2z5AL-M" title="Bernoulli&#39;s Principle - Floating ball at the Cleveland Science Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 (Note: video cuts out as Thing1 begins to *climb* the exhibit in pursuit of the beach ball.)
 
@@ -80,6 +80,6 @@ The pit has this cool bucket that the kids fill through various means. At any ti
 
 And they often do.  
 
-<iframe width="700" height="349" src="https://www.youtube.com/embed/A9DcTuyPNVI" title="And They All Fall Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/A9DcTuyPNVI" title="And They All Fall Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you’re looking for a fun afternoon, check it out.

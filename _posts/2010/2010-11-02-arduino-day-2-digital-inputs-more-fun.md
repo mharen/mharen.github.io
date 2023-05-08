@@ -13,7 +13,7 @@ title: 'Arduino Day 2: Digital Inputs (More Fun With LEDs)'
 
 I’m still familiarizing myself with everything Arduino so this next project is a simple modification to my [day-1 LED project](../../2010/11/arduino-day-1-unpacking-and-fun-with.html). I’ve added some dip switches to control which pattern will appear on the LEDs. Here’s the result:
 
-<iframe width="741" height="417" src="https://www.youtube.com/embed/sQcut-JRXqY" title="Arduino Day 2: Fun with LEDs and Switches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/sQcut-JRXqY" title="Arduino Day 2: Fun with LEDs and Switches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 It’s really pretty simple. For switches 0 and 1, I have the hot line coming through an LED, through the switch, and then split between a resistor to ground and a digital input on the board. I’m not certain I have this right, but it works and my board hasn’t melted so it’s good enough for me.
 

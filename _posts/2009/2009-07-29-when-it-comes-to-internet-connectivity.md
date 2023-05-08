@@ -18,7 +18,7 @@ Home users like me have been pampered with cheap, reliable and fast Internet acc
 
 Now all you network savvy folks out there will be quick to point out that my connection is asymmetrical while the office’s connection is symmetrical. What that means for my actual reader is that while I can *download *a YouTube video at 6mb, I can only *upload *at a fraction of that, say 0.5-1mb, resulting in a pleasant viewing experience but agonizingly slow sharing of cute baby videos like this one: 
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Co5PCvJ7LJI" title="Maya Dancing and Charlotte Swinging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed sd" src="https://www.youtube.com/embed/Co5PCvJ7LJI" title="Maya Dancing and Charlotte Swinging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 At the office though, I get 4.5mb of symmetrical bandwidth (i.e. I get 4.5mb up and down simultaneously), which means I can upload to Youtube just as fast as I download, and one doesn’t even affect the other even if I do it at the same time.
 

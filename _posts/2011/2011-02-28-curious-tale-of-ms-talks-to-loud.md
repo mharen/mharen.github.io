@@ -7,7 +7,7 @@ title: The Curious Tale of Ms. Talks-Too-Loud
 
 Like my good pal Dane Cook, I dislike exaggerations:  
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/PBA4zojfsJQ" title="Dane Cook - Exaggerating Girlfriend Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/PBA4zojfsJQ" title="Dane Cook - Exaggerating Girlfriend Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Exaggerations bug me more than they should. What’s worse, though, is someone who’s made up stories pour out in an effort to impress those unfortunate enough to be stuck nearby (i.e. coworkers and patrons). I’ll explain...
 

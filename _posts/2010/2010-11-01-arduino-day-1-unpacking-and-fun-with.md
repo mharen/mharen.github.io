@@ -50,7 +50,7 @@ Here are dozens of neat examples to start with. I chose Basics > Fade to play ar
 
 That was cool to start with but I wanted to explore more. I added five more LEDs (six total), and played around with some different loops. Here’s what I ended up with (it’s dark so you can see the lights):
 
-<iframe width="979" height="551" src="https://www.youtube.com/embed/VbIfvKNeQZU" title="Arduino day 1: fun with LEDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/VbIfvKNeQZU" title="Arduino day 1: fun with LEDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 It’s a much better experience in person—my camera’s frame rate isn’t quite high enough and it had trouble focusing. But trust me, it was awesome. What you see is the program cycling through a bunch of different patterns: 
 

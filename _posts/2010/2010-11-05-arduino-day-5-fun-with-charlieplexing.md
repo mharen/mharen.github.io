@@ -23,7 +23,7 @@ So anyway, I Charlieplexed six LEDs for use with that silly Mario song from yest
 
 Here we go:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/UsXtHRiNAiE" title="Arduino Day 5: Charlieplexing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/UsXtHRiNAiE" title="Arduino Day 5: Charlieplexing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 #### Build
 

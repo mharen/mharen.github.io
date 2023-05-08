@@ -14,7 +14,7 @@ title: 'Arduino Day 11: Extreme Feedback for Hudson Builds (Includes Chuck Norri
 
 Improving on yesterday’s build, I added in some actual network-sourced data. My little traffic lights now show the build status of one of my projects:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/57fANDt9TGo" title="Arduino Day 11: Extreme Feeback: Build Status" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/57fANDt9TGo" title="Arduino Day 11: Extreme Feeback: Build Status" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In case you don’t know what any of that was, let me try to explain. At work I build software, and that software is written in code. We have a server monitor our code and automatically try to build it (convert the code into executable software) whenever it changes. We use an awesome tool called Hudson to do this for us. What I’ve built is called an extreme feedback device because it reports a piece of soft data (the build status) in a physical way (beeping lights).
 

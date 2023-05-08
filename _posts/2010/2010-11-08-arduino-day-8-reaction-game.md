@@ -19,7 +19,7 @@ Today’s build combines a lot of the skills I’ve learned so far. It’s a sim
 
 Here’s the finished project: 
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/_uI7ZL5zChU" title="Arduino Day 8: &quot;Reaction&quot; Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/_uI7ZL5zChU" title="Arduino Day 8: &quot;Reaction&quot; Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar) type of humor probably more your style. 
 

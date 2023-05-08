@@ -54,7 +54,7 @@ There’s a lot more to it, but those are the key pieces that manipulated my cli
 
 Mean. Let’s fix it with the developer tools (control-shift-I or F12):
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/NWyAoB78v48" title="Disabling the text selection &quot;protection&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/NWyAoB78v48" title="Disabling the text selection &quot;protection&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Obviously I didn’t actually go to all this trouble to copy that one line. I was just curious how things were working under the covers :).
 

@@ -21,11 +21,11 @@ How? It uses some new tech ([web sockets](http://en.wikipedia.org/wiki/WebSocket
 
 Check out the impressive [live chat](http://jabbr.net/) sample, or watch this [stock ticker](http://vimeo.com/31938189) demo:  
 
-<iframe height="450" src="https://player.vimeo.com/video/31938189?badge=0" frameborder="0" width="500" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe>
+<iframe class="full-embed hd" src="https://player.vimeo.com/video/31938189?badge=0" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe>
 
 After seeing [Hanselman](http://www.hanselman.com/blog/AsynchronousScalableWebApplicationsWithRealtimePersistentLongrunningConnectionsWithSignalR.aspx) present the above demo at StirTrek, I’ve been meaning to give it a try. So I finally did at last night’s RoviSys hack-a-thon. Here’s what I came up with:  
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cUY6p5CumXI" title="SignalR syncing drag events between iPad and Desktop Chrome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/cUY6p5CumXI" title="SignalR syncing drag events between iPad and Desktop Chrome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 That app’s actually [live right now](http://blocky.apphb.com/) and the [source is on GitHub](https://github.com/mharen/devour/tree/master/devour). Check it out! (Note: if you’re not on a solid internet connection, or my host is under load, it’s not going to look great...it’s not been optimized all that much—use some imagination!)
 

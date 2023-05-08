@@ -80,7 +80,7 @@ I’m going to claim that this works (it does)...but depending on what you’re 
 
 With this added to my SignalR sample, multi-touch iOS devices are now supported. Woot!
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cUY6p5CumXI" title="SignalR syncing drag events between iPad and Desktop Chrome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/cUY6p5CumXI" title="SignalR syncing drag events between iPad and Desktop Chrome" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Oh, and that “event.preventDefault()” part is there to stop the screen from moving when you drag it. If that’s all you wanted, you can do this [simpler version](http://stackoverflow.com/a/9251757/29):
 

@@ -22,6 +22,21 @@ img {
     height: auto;
 }
 
+.full-embed {
+    padding: 5px 10px;
+    width: calc(100% - 2 * 10px);
+    height: auto;
+}
+
+.full-embed.hd {
+    aspect-ratio: 16 / 9;
+}
+
+.full-embed.sd {
+    aspect-ratio: 4 / 3;
+}
+
+
 p:has(> img.initial-capital) {
     padding: 0;
 }

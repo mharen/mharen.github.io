@@ -17,13 +17,17 @@ Let’s talk about “basics” for a second. I visited some awesome friends in 
 
 Fortunately, they had a laptop handy, and unlike the first couple of days they were there, the wifi worked. They were summarily introduced to the Internet with the following choice selections:
 
-<iframe width="330" height="272" src="https://www.youtube.com/embed/OQSNhk5ICTI" title="Yosemitebear Mountain Double Rainbow 1-8-10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/OQSNhk5ICTI" title="Yosemitebear Mountain Double Rainbow 1-8-10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="330" height="272" src="https://www.youtube.com/embed/MX0D4oZwCsA" title="DOUBLE RAINBOW SONG!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="330" height="272" src="https://www.youtube.com/embed/RzVkntQsNMM" title="Yosemitebear Mountain Wildlife Fall 09" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="330" height="272" src="https://www.youtube.com/embed/_OBlgSz8sSM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="330" height="210" src="https://www.youtube.com/embed/VF9-sEbqDvU" title="MARCEL THE SHELL WITH SHOES ON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="330" height="272" src="https://www.youtube.com/embed/FtX8nswnUKU" title="kittens inspired by kittens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/MX0D4oZwCsA" title="DOUBLE RAINBOW SONG!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/RzVkntQsNMM" title="Yosemitebear Mountain Wildlife Fall 09" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/_OBlgSz8sSM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/VF9-sEbqDvU" title="MARCEL THE SHELL WITH SHOES ON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/FtX8nswnUKU" title="kittens inspired by kittens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you or someone you know hasn't yet experienced the hilarity of user submitted content, please, do not fear. You are welcome here. It's a safe-ish place.
 
@@ -31,7 +35,7 @@ Now where was I? Oh yes...
 
 Today’s build is another extension on the sound thing I’ve been working on. I took the Mario playing board and added in a light-trigger so it only plays when it’s dark. I also used the potentiometer to control the tempo of the song. Let me show you:  
 
-<iframe width="640" height="385" src="https://www.youtube.com/embed/gfhQ6J9veXE" title="Arduino Day 6: Analog Inputs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/gfhQ6J9veXE" title="Arduino Day 6: Analog Inputs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Build
 
