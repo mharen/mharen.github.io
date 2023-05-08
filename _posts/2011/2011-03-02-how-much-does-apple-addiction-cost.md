@@ -31,7 +31,7 @@ The calculation will be run for the following user profiles:
 
 **The numbers:[^1]**
 
-<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeW1qBduKdHMVSEiEVSAOjxZDx0t5B9yKo6MT6Nhne-kE9JCcCVoKz98nEddLIsDvpKcaeeQ2nQRv0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe class="full-embed fixed-short" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeW1qBduKdHMVSEiEVSAOjxZDx0t5B9yKo6MT6Nhne-kE9JCcCVoKz98nEddLIsDvpKcaeeQ2nQRv0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 In summary, an Apple addiction costs a surprisingly little $89-198 per month. Maybe it’s just me but that’s much less than I’d have guessed it would cost to be swimming in shiny new Apple gear *all the time*. Hmmmm...
 

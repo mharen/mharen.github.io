@@ -36,6 +36,9 @@ img {
     aspect-ratio: 4 / 3;
 }
 
+.full-embed.fixed-short {
+    height: 200px;
+}
 
 p:has(> img.initial-capital) {
     padding: 0;

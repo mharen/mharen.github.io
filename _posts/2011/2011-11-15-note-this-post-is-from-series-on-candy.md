@@ -226,6 +226,6 @@ function DoMove(options, player, board, card){
  
 All this, including the source to the utility functions (e.g. DrawACard) is available [in the fiddle](http://jsfiddle.net/mharen/crgAX/35/). Here’s the working version:
 
-<iframe width="100%" height="300" src="//jsfiddle.net/mharen/crgAX/35/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe class="full-embed fixed-short" src="//jsfiddle.net/mharen/crgAX/35/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 In the next post I’ll do some additional testing and verification. A brief, casual comparison to other papers online reveals that my results are reasonable. I’m not saying they are correct, but I’m at least in the ball park for finding the length of an average game (around 45-50 cards).

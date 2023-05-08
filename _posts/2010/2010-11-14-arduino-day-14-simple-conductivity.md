@@ -13,7 +13,7 @@ title: 'Arduino Day 14: Simple Conductivity Sensor'
 
 In keeping with the traffic light theme of the past few days, I built a ridiculously simple conductivity sensor with an analog input. Place something between the two leads to determine if it is highly conductive, somewhat conductive, or barely or not at all conductive. Like this:  
 
-<iframe width="480" height="385" src="https://www.youtube.com/embed/iYd_xMBUhTY" title="Arduino Day 14: Conductivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="full-embed hd" src="https://www.youtube.com/embed/iYd_xMBUhTY" title="Arduino Day 14: Conductivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Yes, that’s Thing 1’s leftovers from lunch (or maybe Thing 2...). Her sandwich bread is somewhat conductive (yellow), but the ham inside is very conductive (green), as is the apple sauce.
 

@@ -16,18 +16,18 @@ Again, here’s where we’re headed:
 
 Let’s start with the basic layout again—just a section with an HTML5 <time> element within it:
 
-<iframe style="height: 200px; width: 100%" src="https://jsfiddle.net/rxghU/1/embedded/result,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe class="full-embed fixed-short" src="https://jsfiddle.net/rxghU/1/embedded/result,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Next let’s make it a little bigger, and blocky:
 
-<iframe style="height: 200px; width: 100%" src="https://jsfiddle.net/rxghU/2/embedded/result,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe class="full-embed fixed-short" src="https://jsfiddle.net/rxghU/2/embedded/result,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 And add some background gradient for extra, unnecessary internet points:
 
-<iframe style="height: 200px; width: 100%" src="https://jsfiddle.net/rxghU/3/embedded/result,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe class="full-embed fixed-short" src="https://jsfiddle.net/rxghU/3/embedded/result,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 That’s pretty much it. But, that was too easy. Let’s maybe change the text color of the minutes to match the analog clock (bluish). That will require a little JS to break up the tag’s contents:
 
-<iframe style="height: 200px; width: 100%" src="https://jsfiddle.net/rxghU/4/embedded/result,js,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe class="full-embed fixed-short" src="https://jsfiddle.net/rxghU/4/embedded/result,js,html,css" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Let’s not worry about it being totally hideous right now, emkay?

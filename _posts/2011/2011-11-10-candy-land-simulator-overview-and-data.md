@@ -106,6 +106,6 @@ I haven’t decided how to simulate shuffling yet (shuffle first, or draw random
 
 You can run what we have so far by hitting the little “play” triangle in this fiddle:
 
-<iframe style="width: 100%; height: 300px" src="https://jsfiddle.net/mharen/crgAX/5/embedded/js,result" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe class="full-embed fixed-short" src="https://jsfiddle.net/mharen/crgAX/5/embedded/js,result" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Now that we have our structures in place, we should start thinking about how we’re going to use the cards to navigate the board. I’ll start on that tomorrow, too... :)
