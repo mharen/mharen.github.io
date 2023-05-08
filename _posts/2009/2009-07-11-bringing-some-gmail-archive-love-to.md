@@ -77,7 +77,7 @@ ErrorHandler:
 End Sub
 ```
 
-![](/assets/2009/outlook-archive-00004.png)</a> 
+![](/assets/2009/outlook-archive-00004.png)
 
 Create the folder in red (*1_Archive*) under your inbox or change the code to refer to your folder of choice.
 
