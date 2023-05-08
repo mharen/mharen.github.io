@@ -28,7 +28,7 @@ Fortunately, Sarah’s taken this all in stride. She bakes all of our bread and 
 
 So as you might imagine, we’ve become quite good at reading food labels. We love that labels are often very clear, including nice bold statement like “contains milk, soy”, but sometimes they hide ingredients behind phrases like “natural flavors” and “spices”. As a parent trying to figure out why my almost-two-year-old daughter is sensitive to a dish it’s very helpful to know what’s actually in it. Concealing ingredients behind groupings like those is very frustrating for us.
 
-![]({{ "/assets/2009/chicken-broth-17.png" | relative_url }})
+![](/assets/2009/chicken-broth-17.png)
 
 A recent example of our struggle is Progresso chicken broth. What’s in chicken broth you say? According to the product label, the website, the toll free number on the back of the box, and the letter they sent us, this is what’s in there:
 
@@ -40,9 +40,9 @@ Well that was frustrating. This as a great example of a company failing to win a
 
 As expected, they included some coupons for more broth (which we can’t use in anything Maya touches because we still don’t know what’s in it). *Unexpected*, though, was the reason for the package: they included a bunch of General Mills-themed matchbox cars. Seriously—we have four of these things:  
 
-![]({{ "/assets/2009/kid-car.jpg" | relative_url }})
+![](/assets/2009/kid-car.jpg)
 
-![]({{ "/assets/2009/matchbox-car.jpg" | relative_url }})
+![](/assets/2009/matchbox-car.jpg)
 
 (Charlotte pictured, not Maya)
 

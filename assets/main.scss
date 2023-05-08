@@ -16,10 +16,11 @@ td {
     vertical-align: top;
 }
 
-p:has(> img) {
-    padding: 0 10px;
+img {
+    padding: 5px 10px;
+    max-width: calc(100% - 2 * 10px);
+    height: auto;
 }
-img { padding: 5px; }
 
 p:has(> img.initial-capital) {
     padding: 0;
@@ -31,3 +32,6 @@ img.initial-capital {
     padding: 0 10px 0 0;
 }
 
+picture + p {
+    margin-top: 15px;
+}

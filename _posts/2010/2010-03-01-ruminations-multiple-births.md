@@ -18,15 +18,15 @@ And that's my segway into my congratulations to B+T on their new double-dose of 
 
 ...you won't be having any of that. Sorry. Now let's [extrapolate your family](http://xkcd.com/605/):
 
-[![]({{ "/assets/2010/extrapolating.png" | relative_url }})](http://xkcd.com/605/)
+[![](/assets/2010/extrapolating.png)](http://xkcd.com/605/)
 
 At this rate (if my calculations are correct), the trend is slightly alarming: 
 
-![]({{ "/assets/2010/babies-14.png" | relative_url }}) 
+![](/assets/2010/babies-14.png) 
 
 Of course the total number of kids you have will be a bit more dramatic:
 
-![]({{ "/assets/2010/babies-17.png" | relative_url }}) 
+![](/assets/2010/babies-17.png) 
 
 The only thing I can conclude from this is that you might want to refocus your house-hunting for something in the country. With lots of room.
 

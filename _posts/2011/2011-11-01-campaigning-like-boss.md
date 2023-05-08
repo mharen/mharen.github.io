@@ -14,35 +14,35 @@ The committee holds elections every year to replace a few outgoing members. This
 
 As Mick Jagger once said (according to the briefest of fact checking), “anything worth doing is worth overdoing.” (Thanks @pwninstein for the quote.) And so I put out a call for help with my campaign on the internets:
 
-![image-2011-11-01-4.png]({{ "/assets/2011/image-2011-11-01-4.png" | relative_url }})
+![](/assets/2011/image-2011-11-01-4.png)
 
 I put that up on Reddit, along with a bunch of pictures of myself. After a little cross promotion on various social networks, gold started rolling in. Big time.  
 
-![whyyouno.jpg]({{ "/assets/2011/whyyouno.jpg" | relative_url }})    
+![](/assets/2011/whyyouno.jpg)    
 
 And possibly others that I’ve misplaced. 
 
 A lot of people assumed all this was just a joke. But it wasn’t. I printed 60 and posted them everywhere. On walls, office, cubes, file cabinets, windshields, microwaves, coffee makers, windows, servers, mailboxes, etc.
 
-![RAC 2011 Election.jpg]({{ "/assets/2011/RAC 2011 Election.jpg" | relative_url }})
+![](/assets/2011/RAC_2011_Election.jpg)
 
 This was on Wednesday, just two days before the election. Then a funny thing happened: the other candidates suddenly realized that maybe they should make posters for *themselves* instead of for *me*. So a second wave of posters showed up that afternoon and the next day.  
 
-![CSI Miami.jpg]({{ "/assets/2011/CSI Miami.jpg" | relative_url }})  
+![](/assets/2011/CSI_Miami.jpg)  
 
 (And many others I don’t have clean copies of)
 
 The great thing about this happening so quickly was that by the time anyone in management might have had the inkling to shut it down, it was too big to stop. It was about this time that people started wondering how I had time to make all these things. My answer? I didn’t. Which prompted another attack ad:  
 
-![Haren - I dont always.jpg]({{ "/assets/2011/Haren - I dont always.jpg" | relative_url }})
+![](/assets/2011/Haren_-_I_dont_always.jpg)
 
 Things quieted down a bit for the rest of Thursday and then everyone was busy with actual work, and the Halloween party coming up the next day. Speaking of which, here’s one of the other candidates in a truly scary costume:  
 
-![IMG_0329.JPG]({{ "/assets/2011/IMG_0329.JPG" | relative_url }})    
+![](/assets/2011/IMG_0329.JPG)    
 
 About an hour before the election I overheard him say something about making kids cry. And I couldn’t resist making my my first and only poster (personally):  
 
-![anderson cry.jpg]({{ "/assets/2011/anderson cry.jpg" | relative_url }})
+![](/assets/2011/anderson_cry.jpg)
 
 It was a lot of fun, and I won. *Huge thanks* to all those that contributed to my campaign. 
 

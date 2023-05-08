@@ -43,6 +43,7 @@ SELECT * FROM @Widgets
 ```
 You ought to be able to run all that and get these results in SQL Server:
 
-> ![query-results.png]({{ "/assets/2014/query-results.png" | relative_url }})
+
+![](/assets/2014/query-results.png){:height="332" width="213"}
 
 Adapt to your needs :).

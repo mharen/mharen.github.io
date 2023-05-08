@@ -11,15 +11,15 @@ This post started out a little unusually. My normally scheduled blog time was in
 
 So after struggling against writer’s block for too long, I [put the call out](https://plus.google.com/103506291560311820711/posts/U4RurULNe4X):
 
-![a Google+ post that reads "Dear Followers: the first person to suggest a topic gets 600 words on it from me. #whoslineisitanyway #nablopomo #writersblock"]({{ "/assets/2011/call-out.png" | relative_url }})
+![a Google+ post that reads "Dear Followers: the first person to suggest a topic gets 600 words on it from me. #whoslineisitanyway #nablopomo #writersblock"](/assets/2011/call-out.png)
 
 And it was answered:
 
-![a reply from Kevin Krinn @ 12:03 AM that reads "600 words on Ponies please.", and reply from Michael Haren @ 12:05 AM that reads "Well crap. OK"]({{ "/assets/2011/well-crap.png" | relative_url }})
+![a reply from Kevin Krinn @ 12:03 AM that reads "600 words on Ponies please.", and reply from Michael Haren @ 12:05 AM that reads "Well crap. OK"](/assets/2011/well-crap.png)
 
 Crap, indeed. Then, this happened:
 
-![a reply from Schott Hanselman @ 12:08 AM that reads "Topic: Profanity in Tech Presentations and Business", a reply from Michael Haren to Scott @ 12:17 AM that reads "Unfortunately. I've locked as myself into "Ponies", but Ill think about your topic, too. It's a bit difficult to follow the master, but I'lI take it somewhere :). Thanks!", and a reply from Scott to Michael @ 12:20 AM that reads "Ponies that cuss. GO."]({{ "/assets/2011/scott.png" | relative_url }})
+![a reply from Schott Hanselman @ 12:08 AM that reads "Topic: Profanity in Tech Presentations and Business", a reply from Michael Haren to Scott @ 12:17 AM that reads "Unfortunately. I've locked as myself into "Ponies", but Ill think about your topic, too. It's a bit difficult to follow the master, but I'lI take it somewhere :). Thanks!", and a reply from Scott to Michael @ 12:20 AM that reads "Ponies that cuss. GO."](/assets/2011/scott.png)
 
 Who am I to deny one of my personal tech heroes, [Scott Hanselman](http://www.hanselman.com/blog/)?
 
@@ -35,11 +35,11 @@ For example, my vocabulary varies with my audience. I don’t use terms like *lo
 
 If we view language on a scale, we can adjust aspects of it to suit our surroundings. When I’m in a meeting with a bunch of higher-ups, for example, my language variables look like this:
 
-![a gauge showing a range of "word choice" from "oh man!" (selected) to "f**k!"; a guage showing a range of "jokes" from "something my 2yo made up" (selected) to "your mom"; a gauge showing a range of "i/o ratio" from "input (listen)" (selected) to "output (speak)"]({{ "/assets/2011/choice-27.png" | relative_url }})
+![a gauge showing a range of "word choice" from "oh man!" (selected) to "f**k!"; a guage showing a range of "jokes" from "something my 2yo made up" (selected) to "your mom"; a gauge showing a range of "i/o ratio" from "input (listen)" (selected) to "output (speak)"](/assets/2011/choice-27.png)
 
 I play it safe because to do anything else would be odd and possibly counterproductive. During the work day, with my closer coworkers, the dials move up a bit:
 
-![a gauge showing a range of "word choice" from "oh man!" to "f**k!", with a marker part way from the middle towards "oh man!"; a guage showing a range of "jokes" from "something my 2yo made up" to "your mom", with a marker part way from the middle towards "your mom"; a gauge showing a range of "i/o ratio" from "input (listen)" to "output (speak), with a marker right in the middle"]({{ "/assets/2011/choice-26.png" | relative_url }})
+![a gauge showing a range of "word choice" from "oh man!" to "f**k!", with a marker part way from the middle towards "oh man!"; a guage showing a range of "jokes" from "something my 2yo made up" to "your mom", with a marker part way from the middle towards "your mom"; a gauge showing a range of "i/o ratio" from "input (listen)" to "output (speak), with a marker right in the middle"](/assets/2011/choice-26.png)
 
 And then after work, at a code-a-thon, or in smaller groups, things max out as I turn into a child who just learned forbidden words and can’t shut up.
 

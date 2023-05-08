@@ -25,7 +25,7 @@ A [friend](http://twitter.com/#!/corsae/status/1655470213300224) suggested [this
 
 So, yeah, most of these are waiting on parts (which I ordered two weeks ago...).
 
-![]({{ "/assets/2010/bacon.png" | relative_url }})
+![](/assets/2010/bacon.png)
 
 I’ll be back with some actual circuits as soon as things quiet down here on the home front!
 

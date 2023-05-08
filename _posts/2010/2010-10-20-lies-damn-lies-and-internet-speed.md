@@ -10,15 +10,15 @@ In the market from some high-speed Internet? You will no doubt need to select ho
 
 U-Verse:
 
-![]({{ "/assets/2010/isp-1.png" | relative_url }})
+![](/assets/2010/isp-1.png)
 
 Time Warner:
 
-![]({{ "/assets/2010/isp-2.png" | relative_url }})
+![](/assets/2010/isp-2.png)
 
 Wide Open West:
 
-![]({{ "/assets/2010/isp-3.png" | relative_url }})
+![](/assets/2010/isp-3.png)
 
 There are two problems with all this: 
  
@@ -43,11 +43,11 @@ The reason this is a problem is that the speeds normally advertised are asynchro
 
 U-Verse (I couldn’t find this anywhere except [Wikipedia](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet)):    
 
-![]({{ "/assets/2010/isp-4.png" | relative_url }})
+![](/assets/2010/isp-4.png)
 
 Time Warner (credit to TW for making this easy to find):    
 
-![]({{ "/assets/2010/isp-5.png" | relative_url }})
+![](/assets/2010/isp-5.png)
 
 Props to Wide Open West for providing that information in the initial graphic, though their recommendation that 15mbps is needed for gaming is silly.
 

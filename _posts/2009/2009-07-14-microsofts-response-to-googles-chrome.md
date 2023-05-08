@@ -11,7 +11,7 @@ title: "Microsoft's Response to Google's Chrome OS"
 
 Every so often my coworkers and I have a pretty lengthy email exchange about some news item in the tech field. Today it was about Google’s [Chrome Operating System](http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html) announced last week. We each made some predictions about how and when it will penetrate the market. Here’s what we came up with:
 
-![]({{ "/assets/2009/chromeos.png" | relative_url }})
+![](/assets/2009/chromeos.png)
 
 Chrome will take the obvious plunge into the netbook market—that’s what it’s targeted for so this is not a brilliant insight by itself. What’s more interesting is what this can do for the credibility of netbooks. As my buddy Bryan pointed out, a fully capable netbook for the cost of an iPod (say a half or a quarter of what a laptop costs) running Chrome is very, very appealing. Such a machine would easily meet the needs of our non-tech spouses (and parents, and me when I’m not at work). I realize we have netbooks now, but I’m excited for Google to get into the market and give it some style.
 
@@ -27,7 +27,7 @@ That got me thinking: what comes after Windows7? Here’s my prediction for the 
 
 Here’s a rough mockup of what WindowsBing™ might look like (made with the ever awesome [balsamiq mockups](http://www.balsamiq.com/products/mockups) tool):
 
-![]({{ "/assets/2009/WindowsBing-13.png" | relative_url }}) 
+![](/assets/2009/WindowsBing-13.png) 
 
 Ignoring any actual, thought provoking analysis of market trends, etc., I decided to just come up with a list of editions. MS is famous for releasing ridiculously large numbers of editions of their software. Windows7 will come in six flavors (plus six more without IE for the European Union!). The [unnecessary complexity](http://en.wikipedia.org/wiki/Windows_7_editions#Comparison_chart) is maddening. I came up with nine:  
 

@@ -11,7 +11,7 @@ A few months ago I got an HTC Droid Incredible on Verizon. It. Is. Awesome.
 
 It is far and away the closest you can get to an iPhone-level device. Speaking of which, I think the iPhone and Droid have completely buried everything else:
 
-![a venn diagram showing iPhone and Android overallping with a big circle labeled "awesomeness", and a little dot called "winmo" that is outside the circle]({{ "/assets/2010/phone-venn.png" | relative_url }})
+![a venn diagram showing iPhone and Android overallping with a big circle labeled "awesomeness", and a little dot called "winmo" that is outside the circle](/assets/2010/phone-venn.png)
 
 In fact, I think about 75% of each device is definitely in the awesome region, and most of that is overlapping. What’s not awesome is either pretty good, or could be improved (they share weaknesses, too).
 
@@ -23,31 +23,31 @@ This post serves as a brief survey of some of my favorite parts of Android.
 
 Google’s **News and Weather** App is pretty slick. I particularly like the trend of temperature (yellow) and chance of precipitation (blue) over the next 24ish hours.  
 
-![]({{ "/assets/2010/screenshot_14-3-3.png" | relative_url }})
+![](/assets/2010/screenshot_14-3-3.png)
 
 **TweetDeck** is far better than any of the other Twitter or Facebook apps I’ve used. It does the single inbox thing by mixing all the social stuff together, which is nice. With this app I rarely actually visit Facebook.com anymore. It supports multiple columns and simultaneous posts, just like the desktop client.  
 
-![]({{ "/assets/2010/screenshot_18-2.png" | relative_url }}) 
+![](/assets/2010/screenshot_18-2.png) 
 
 The ability to **share** pretty much anything with applications that support it is awesome, too. In this first pic, I’ve chosen a picture to share and Android is asking how. Unfortunately, there’s no easy way to share a **screenshot**. I just [got it working](../../2010/09/how-to-take-screenshots-from-android.html) on my device which is how I was able to take all these shots. This is something that iPhone has killed on, hands-down. Interestingly, **Pandora** doesn’t support sharing, which is too bad. I listen to Pandora easily 20 hours a week through my phone and sometimes I’d like a convenient way to share what I’m listening to. Pandora tip: if you have unlimited data, turn on high quality mode in the settings—it’s *much* better.  
 
-![]({{ "/assets/2010/screenshot_4-2.png" | relative_url }})
+![](/assets/2010/screenshot_4-2.png)
 
 I don’t play too many games but we’ve got a couple of nice ones. I very excited for the final release of **Angry Birds**. I’m told this is among iPhone’s highest grossing games of all time, and after finishing the beta/demo, I can see why.  
 
-![]({{ "/assets/2010/screenshot_29-2.png" | relative_url }})
+![](/assets/2010/screenshot_29-2.png)
 
 I’d been thinking about Kindles ever since they broke the $200 barrier. I like to read but for these reasons, traditional books don’t work that well with me: they are clunky and burdensome to carry around, I like to read multiple books at the same time, and I’m also all that smart with words so I have to look things up all the time. Kindle goes a long way toward solving all of those issues. **Kindle for Android** makes it about 80% of the way there, picking up big points on portability.   
 
-![]({{ "/assets/2010/screenshot_13-2.png" | relative_url }})
+![](/assets/2010/screenshot_13-2.png)
 
 This thing also has the best **GPS Navigation** I’ve ever seen—it’s much better than our Garmin. Being tied to the internet, it’s maps are always up-to-date (with traffic, street view, and satellite view), as are the searchable businesses. It’s simply beautiful and incredibly effective—much more so in motion as everything is wonderfully animated and intuitive.  
 
-![]({{ "/assets/2010/screenshot_24-2.png" | relative_url }})
+![](/assets/2010/screenshot_24-2.png)
 
 It’s no coincidence that these are mostly just apps. That’s the real magic—the Android Market and the iPhone App Store are the real killer apps of these devices.  
 
-![]({{ "/assets/2010/screenshot_19-2.png" | relative_url }})
+![](/assets/2010/screenshot_19-2.png)
 
 Have a favorite app or trick to share? Please do!
 

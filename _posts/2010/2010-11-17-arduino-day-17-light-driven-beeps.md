@@ -17,9 +17,9 @@ Today’s build was a fun one for Thing 1. It’s basically just two CdS light s
 
 #### Build
 
-![]({{ "/assets/2010/IMAG0800.jpg" | relative_url }})
+![](/assets/2010/IMAG0800.jpg)
 
-![]({{ "/assets/2010/IMAG0803.jpg" | relative_url }})  
+![](/assets/2010/IMAG0803.jpg)  
 
 #### Code
 

@@ -14,11 +14,11 @@ In [my last post](../../2011/02/end-of-super-bowl-style-advertising.html) I decl
 
 That is, what will happen during all those TV timeouts when we start depending more on YouTube to entertain us? I guess the value of those time slices will drop to reasonable levels for one (that is, until the medium really falls apart). And two, more advertising will creep into viral videos. Taking my [brother](http://stuffmystudentsdraw.blogspot.com/)’s challenge, let’s analyze my favorite video of all time, [Marcel the Shell](http://www.youtube.com/watch?v=VF9-sEbqDvU) *as is*:  
 
-![image-youtube-16.png]({{ "/assets/2011/image-youtube-16.png" | relative_url }})    
+![](/assets/2011/image-youtube-16.png)    
 
 I bet these are all incidental, too. Imagine if it was intentional?  
 
-![image-youtube-20.png]({{ "/assets/2011/image-youtube-20.png" | relative_url }})
+![](/assets/2011/image-youtube-20.png)
 
 I think Marcel’s expression is appropriate.
 

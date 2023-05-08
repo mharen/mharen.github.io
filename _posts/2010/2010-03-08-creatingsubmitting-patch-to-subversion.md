@@ -25,19 +25,19 @@ A patch is basically a change set wrapped up into a single tidy file. The patch 
 
 First, you should update your working directory if possible with “SVN Update”:
 
-![]({{ "/assets/2010/svn-patch-1.png" | relative_url }}) 
+![](/assets/2010/svn-patch-1.png) 
 
 Normally you would go to the Commit screen to apply your changes. Since you don’t have commit access, this won’t work, so instead right-click and go to “TortoiseSVN” > “Create Patch”:
 
-![]({{ "/assets/2010/svn-patch-2.png" | relative_url }}) 
+![](/assets/2010/svn-patch-2.png) 
 
 A dialog will show you all the changes it has detected; you can double click each file to diff it. Choose the changes you want included in the patch and click “OK”:
 
-![]({{ "/assets/2010/svn-patch-3.png" | relative_url }}) 
+![](/assets/2010/svn-patch-3.png) 
 
 Save the patch somewhere handy:
 
-![]({{ "/assets/2010/svn-patch-4.png" | relative_url }}) 
+![](/assets/2010/svn-patch-4.png) 
 
 Send the patch file off to your committer and you’re done! Go ahead and open it up in a text editor if you want to see how these work. It’s basically a snippet of each of the pieces of code you changed, all bundled up into a nice text file.  
 
@@ -45,20 +45,20 @@ Send the patch file off to your committer and you’re done! Go ahead and open i
 
 Of course the process of applying patches is simple, too. Right-click on the patch file and choose “TortoiseSVN” > “Apply Patch”:
 
-![]({{ "/assets/2010/svn-patch-5.png" | relative_url }}) 
+![](/assets/2010/svn-patch-5.png) 
 
 Choose the SVN working directory to which the patch should be applied:
 
-![]({{ "/assets/2010/svn-patch-6.png" | relative_url }}) 
+![](/assets/2010/svn-patch-6.png) 
 
 You’ll see a list of the patched files and have the opportunity to review each change:
 
-![]({{ "/assets/2010/svn-patch-7.png" | relative_url }}) 
+![](/assets/2010/svn-patch-7.png) 
 
 Then right click to apply some or all of the changes into the working directory you chose.
 
 The patch has now been applied to your working directory—now would be a good time to commit it via normal means (right-click > “SVN Commit”):
 
-![]({{ "/assets/2010/svn-patch-8.png" | relative_url }}) 
+![](/assets/2010/svn-patch-8.png) 
 
 It might seem a little complicated at first, but after you do it once or twice it’ll click as a convenient and effective way to share change sets.

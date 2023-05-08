@@ -17,4 +17,4 @@ And things work great locally. But then you publish to a webserver, an Azure Web
 
 You probably already enabled the generation of the XML documentation file, **but did you do it for the Release configuration**? Since you're here, probably not. Fix that and you'll be all set.
 
-![project dialog]({{ "/assets/2015/project-dialog.png" | relative_url }})
+![](/assets/2015/project-dialog.png){:height="803" width="1004"}

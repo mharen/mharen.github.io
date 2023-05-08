@@ -10,15 +10,15 @@ title: "Easter Eggs in Red-Gate's SQL Compare"
 
 A coworker discovered a neat Easter egg in Red-Gate’s [Schema Compare for Oracle](http://www.red-gate.com/Products/schema_compare_for_oracle/index.htm): Oracleoids:
 
-![]({{ "/assets/2010/easter-clip_image002-3.jpg" | relative_url }})
+![](/assets/2010/easter-clip_image002-3.jpg)
 
 I checked the tools *I use *and discovered this Easter egg in [SQL Compare](http://www.red-gate.com/Products/SQL_Compare/index.htm) and [Data Compare](http://www.red-gate.com/Products/SQL_Data_Compare/index.htm) (v7.1):
 
-![]({{ "/assets/2010/easter-sql-2.jpg" | relative_url }}) 
+![](/assets/2010/easter-sql-2.jpg) 
 
 Which, after a few seconds, turns into one of those annoying slider puzzles:
 
-![]({{ "/assets/2010/easter-sql-3.jpg" | relative_url }}) 
+![](/assets/2010/easter-sql-3.jpg) 
 
 Fun stuff!
 

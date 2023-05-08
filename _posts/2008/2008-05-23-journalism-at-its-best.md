@@ -7,7 +7,7 @@ title: Journalism At Its Best
 
 I snapped this headline back in January and am just now getting around to posting it:
 
-![fedcutsratestostopbloodbath.png]({{ "/assets/2008/fedcutsratestostopbloodbath.png" | relative_url }})
+![](/assets/2008/fedcutsratestostopbloodbath.png)
 
 There is no doubt that times are tough and the credit market is a mess but a bloodbath? No. Newspaper man: you can't open with a headline like this and then not deliver. I can't [follow your story](http://www.youtube.com/watch?v=NVcyPPAwoGA) with gross exaggerations like that.
 

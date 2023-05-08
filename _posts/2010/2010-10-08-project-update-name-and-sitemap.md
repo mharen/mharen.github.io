@@ -24,11 +24,11 @@ After about 12 seconds of deliberation, I’ve decided to call my interview trac
 
 I’ve refined the sitemap a bit:  
 
-![]({{ "/assets/2010/project-update-1.png" | relative_url }})
+![](/assets/2010/project-update-1.png)
 
 I have decided to employ a little discipline by working out the models, views, and controllers—the essential elements to an ASP.NET MVC application—*before *I begin coding. Here’s what I have so far:  
 
-![]({{ "/assets/2010/project-update-2.png" | relative_url }})
+![](/assets/2010/project-update-2.png)
 
 That’s a little messy; let me explain. The `URL` that would be in your browser is the label on the arrows in the first column, e.g. “/candidate-123-john-doe”. When you go to that `URL`, my application will route it through the `Candidate` controller, build a `CandidateDetailsModel`, and present it to you with the `CandidateDetails` view. This detail-heavy image simply attempts to enumerate all the pages—user interfaces—in the application.
 

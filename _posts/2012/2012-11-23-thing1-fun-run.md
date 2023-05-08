@@ -13,17 +13,17 @@ More exciting than mere survival, though was Thing1's race. She did a ~0.25 mile
 
 Congrats, Peanut! 
 
-![blogger-image--1925738137.jpg]({{ "/assets/2012/blogger-image--1925738137.jpg" | relative_url }})
+![](/assets/2012/blogger-image--1925738137.jpg)
 
-![blogger-image--60449605.jpg]({{ "/assets/2012/blogger-image--60449605.jpg" | relative_url }})
+![](/assets/2012/blogger-image--60449605.jpg)
 
-![blogger-image-1600825756.jpg]({{ "/assets/2012/blogger-image-1600825756.jpg" | relative_url }})
+![](/assets/2012/blogger-image-1600825756.jpg)
 
-![blogger-image-180581137.jpg]({{ "/assets/2012/blogger-image-180581137.jpg" | relative_url }})
+![](/assets/2012/blogger-image-180581137.jpg)
 
-![blogger-image-307022469.jpg]({{ "/assets/2012/blogger-image-307022469.jpg" | relative_url }})
+![](/assets/2012/blogger-image-307022469.jpg)
 
-![blogger-image-1004847562.jpg]({{ "/assets/2012/blogger-image-1004847562.jpg" | relative_url }})
+![](/assets/2012/blogger-image-1004847562.jpg)
 
 ---
 

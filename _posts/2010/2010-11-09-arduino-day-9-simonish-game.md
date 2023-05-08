@@ -17,24 +17,24 @@ I built another game on top of [yesterday’s circuit](../../2010/11/arduino-day
 
 The first time Wife tried this (she pretends to be interested, which I’m pretty sure is love) she shocked me by playing for six minutes straight, successfully knocking out a 27 bit sequence. Random chance would put that at 1 in 134217728 (0.0000007%)...it’s probably legit.
 
-![]({{ "/assets/2010/007.png" | relative_url }})
+![](/assets/2010/007.png)
 
 Speaking of 007, did anyone see those last two Bond movies? Daniel Craig is way, way more badass than Pierce Brosnan. Nothing personal, P, but Daniel Craig could go on a hunger strike, float around on the international space station for 6 months (where he will lose considerable muscle and bone mass), return to relax peacefully among nature (squirrels and birds and whatnot), and still break your hand (and possibly arm) with his face when you sucker punch him in it. And only then would he go get something to eat like a taco or burger or something.
 
 I know the above to be true when compared to Roger Moore, also, because I saw his “performance” in Moonraker and it was lame. I admit that I haven’t recently seen any of the other Bonds.  
 #### Build
 
-![]({{ "/assets/2010/DSC_0012.jpg" | relative_url }})
+![](/assets/2010/DSC_0012.jpg)
 
-![]({{ "/assets/2010/DSC_0013.jpg" | relative_url }})
+![](/assets/2010/DSC_0013.jpg)
 
 Special thanks to Wife’s awesome camera for giving me all that sweet, delicious bokeh you see above. <small>Apparently I’m required by law to list this info, too: 116mm 1/50 f/4.8 ISO200</small>. 
 #### Circuit
 
-![]({{ "/assets/2010/Sketch_bb-day-9.png" | relative_url }}) 
+![](/assets/2010/Sketch_bb-day-9.png) 
 #### Schematic
 
-![]({{ "/assets/2010/Sketch_schem-day-9.png" | relative_url }}) 
+![](/assets/2010/Sketch_schem-day-9.png) 
 
 #### Code
 

@@ -20,7 +20,7 @@ As I was playing Candy Land with Thing 1, it occurred to me how much I dislike t
 
 I guess the driving force behind these questions is my insatiable desire to finish this game so I can banish it to the bookshelf for another night and redirect the kiddos to other, less torturous activities.
 
-![candy-land.jpg]({{ "/assets/2011/candy-land.jpg" | relative_url }})
+![](/assets/2011/candy-land.jpg)
 
 This is not a novel thing to wonder. In fact, apparently it’s pretty straight forward to [approximate mathematically](http://www.math.niu.edu/~rusin/uses-math/games/candyland/) with a Markov chain. I’m not interested (or knowledgeable) in any of that, though. Instead, I want to simply build a test apparatus that yields the same kinds of answers from generated experimental data instead of fancy mathematics.
 

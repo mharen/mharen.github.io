@@ -12,11 +12,11 @@ I use Hudson CI to monitor software builds at work and thought it’d be nice to
 
 Here’s the end result:
 
-![]({{ "/assets/2009/sidebar-6.png" | relative_url }}) 
+![](/assets/2009/sidebar-6.png) 
 
 The gadget is on the right side, the regular Hudson interface on the left. The top 11 projects are listed as links to their project pages within Hudson. The colored bullets indicate build status (green = good, red = bad). I experimented with shading, text color, etc. and concluded that just having colored bullets was clear, clean and consistent with the regular Hudson interface.
 
-![]({{ "/assets/2009/sidebar-9.png" | relative_url }})
+![](/assets/2009/sidebar-9.png)
 
 Anyway, the easiest way to get started with Gadget development seems to be starting with an existing gadget. I started with the unofficial Stackoverflow.com [flair gadget](http://flairgadget.codeplex.com/). A .gadget file is really just a zip file. 7zip seems to know this as it allowed me to unzip it without renaming it to .zip which was nice. After unzipping, I stripped out pretty much everything except the structure. 
 

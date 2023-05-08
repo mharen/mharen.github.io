@@ -272,7 +272,7 @@ Since there are so many different ways a client can report themselves, I dumped 
 
 I dumped that into the [Google Charts API](http://code.google.com/apis/chart/) to get this:
 
-![]({{ "/assets/2009/ie6-chart.png" | relative_url }})
+![](/assets/2009/ie6-chart.png)
 
 It’s not the overwhelming result I had hoped for with 27% of traffic over the last 2 weeks coming from the defunct browser I was trying to blame. Again, it seems unlikely that 27% of users are experiencing the same problem without reporting it.
 
@@ -302,7 +302,7 @@ Once I ignored those three items, it was obvious that the application itself had
 
 Being the computer person, I immediately saw why in the little hard drive light. Internet Explorer was leaking memory like crazy and eventually, when the system ran out, caused the disk to thrash as Windows actively consumed and grew the page file. Watching the task manager, I could see a 1-2mb jump in memory usage with *every click*.
 
-![]({{ "/assets/2009/yikes.png" | relative_url }})
+![](/assets/2009/yikes.png)
 
 I tore the page apart and was able to create a simple page to reproduce the problem and share. The above chart (generated with [Perfmon](http://adminfoo.net/2007/04/windows-perfmon-top-ten-counters.html)—a sweet tool on most windows machines) shows that simple page being executed over a period of about 3 minutes. You can see memory usage rose to about 90%, with the page file in tow. Each dropped quite suddenly when I terminated Internet Explorer.
 

@@ -33,7 +33,7 @@ And plenty of other significant problems:
 
 Rather than cobble together crappy solutions to these limitations, Apple focused on nailing its key features: a killer UI and a full blown web browser. People went crazy for it and they kept coming back year after year:
 
-![apple-stock.png]({{ "/assets/2011/apple-stock.png" | relative_url }})  
+![](/assets/2011/apple-stock.png)  
 
 (I know they sell other stuff, too)
 

@@ -5,7 +5,7 @@ categories:
 title: Someone just got fired
 ---
 
-[![google-oops.png]({{ "/assets/2009/google-oops.png" | relative_url }})](http://www.google.com/trends/hottrends?q=google+this+site+may+harm+your+computer&date=2009-1-31&sa=X)
+[![](/assets/2009/google-oops.png)](http://www.google.com/trends/hottrends?q=google+this+site+may+harm+your+computer&date=2009-1-31&sa=X)
 
 For about 30 minutes this morning, google was broken.
 

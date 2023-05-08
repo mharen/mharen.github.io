@@ -22,27 +22,27 @@ Whenever the build status changes (any of “success”, “building” or “fa
 
 In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/) to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
 
-![]({{ "/assets/2010/chuck-norris-delta-force.jpg" | relative_url }})
+![](/assets/2010/chuck-norris-delta-force.jpg)
 
 You might imagine how politically correct and culturally sensitive a 1986 movie about terrorism, with the subtitle “They don't negotiate with terrorists... they blow them away!” is. It’s like *24* with less talk and more explosions.
 
 But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
 
-[![]({{ "/assets/2010/Norrishuckabee.jpg" | relative_url }})](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG)
+[![](/assets/2010/Norrishuckabee.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG)
 
 70\. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/). 
 
 #### Build (Repeat)
 
-![]({{ "/assets/2010/DSC_00113.jpg" | relative_url }}) 
+![](/assets/2010/DSC_00113.jpg) 
 
 #### Circuit (Repeat)
 
-![]({{ "/assets/2010/Sketch_bb6.png" | relative_url }}) 
+![](/assets/2010/Sketch_bb6.png) 
 
 #### Schematic (Repeat)
 
-![]({{ "/assets/2010/Sketch_schem6.png" | relative_url }}) 
+![](/assets/2010/Sketch_schem6.png) 
 
 #### Code (Updated)
 

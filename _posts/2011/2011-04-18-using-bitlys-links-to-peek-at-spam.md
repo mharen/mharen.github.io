@@ -8,13 +8,13 @@ title: "Using Bitly's \u201C+\u201D Links to Peek at Spam"
 
 Thanks to the wonderful technology of spam filters, I rarely see spam anymore. Today, however, this gem came through:
 
-![bitly-2.png]({{ "/assets/2011/bitly-2.png" | relative_url }})
+![](/assets/2011/bitly-2.png)
 
 It made it through the corporate filters but to Outlook’s credit it *was* flagged as probable spam.  
 
 Obviously I didn’t click the link. A bitly link. Hmmm. I use bitly for my [twittering](http://twitter.com/mharen) and happen to know that if you add a “+” to the end of *any *bitly or jmp link, you get an awesome stats page [like this](http://bit.ly/hIfeGP+):  
 
-![bitly-5.png]({{ "/assets/2011/bitly-5.png" | relative_url }})  
+![](/assets/2011/bitly-5.png)  
 
 This usefully tells you where the link takes you (the “long link”)—a dating site—so you don’t have to go there to know. It also tells me how many people have actually hit the link and a bit about them. Here are some interesting stats: 
 * 190 clicks as of this writing

@@ -20,7 +20,7 @@ A while back I was performance-testing a new SQL Server cluster. This machine wa
 
 Then we started load testing. This was basically an integration test where we turned on everything at once and [cranked it to 11](http://en.wikipedia.org/wiki/Up_to_eleven). Only we didn’t get to 11 because our server fell over at 2, making me a sad panda. The server started throwing strange and never-before-seen (by me) errors about problems with memory, threads, timeouts, etc. It looked like this:
 
-![]({{ "/assets/2010/parallelism-5.png" | relative_url }}) 
+![](/assets/2010/parallelism-5.png) 
 
 We had barely loaded the machine with concurrency and it was freaking out. It’d run in spurts of blazing glory, then fail to a grinding halt. After a lot of personal freaking out (we had a very, very tight schedule measured in minutes), I discovered the culprit: parallelism. 
 
@@ -28,7 +28,7 @@ Normally you would think parallelism would be a good thing—many cores make lig
 
 Fortunately, SQL Server knows all this and has a setting for it:
 
-![]({{ "/assets/2010/parallelism-2.png" | relative_url }}) 
+![](/assets/2010/parallelism-2.png) 
 
 The [cost threshold for parallelism](http://msdn.microsoft.com/en-us/library/aa196716(SQL.80).aspx). This value is in seconds. When SQL Server estimates a query will take longer than x seconds to be executed, the query is executed in *parallel*; otherwise *serial*.
 

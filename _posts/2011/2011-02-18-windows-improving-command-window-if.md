@@ -14,11 +14,11 @@ But on Windows, cmd.exe just isn’t enough. Recent versions have brought tab co
 
 One breakthrough I discovered today helps a lot, though: you can make your window *wider than 80 characters.* I’m embarrassed that I didn’t discover this years ago. This is for the poor saps like myself who didn’t know:  
 
-![command-2.png]({{ "/assets/2011/command-2.png" | relative_url }}) ![command-10.png]({{ "/assets/2011/command-10.png" | relative_url }})
+![](/assets/2011/command-2.png) ![](/assets/2011/command-10.png)
 
 And there you go:
 
-![command-11.png]({{ "/assets/2011/command-11.png" | relative_url }})
+![](/assets/2011/command-11.png)
 
 While you’re in there, you might as well choose a pretty font like Consolas, too.
 

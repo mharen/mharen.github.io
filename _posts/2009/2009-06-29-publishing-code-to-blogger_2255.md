@@ -17,7 +17,7 @@ Live Writer comes with a whole suite of “Live” tools. After installing Live 
 
 Next, posts published with Live Writer will often have a bunch of extra newlines in them. This can be fixed by telling Blogger not to convert line breaks:
 
-![]({{ "/assets/2009/pub-to-blogger.png" | relative_url }}) 
+![](/assets/2009/pub-to-blogger.png) 
 
 Finally, I’m not a big fan of the way the code block plugin I mentioned earlier handles CSS. It inserts a new block of styles with every single code block. The workaround seems to be simple enough, though: add the CSS block to the template’s styles and make sure to uncheck “Embed Stylesheet” each time you insert code.
 

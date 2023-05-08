@@ -11,15 +11,15 @@ When someone talks about tax brackets, what they’re really referring to are ma
 
 In the tax world, marginal refers to additional dollars earned. So the marginal tax rate affects dollars earned past a specific threshold. Hmmm, that’s not helping. Here’s an illustration of what a tax bracket is *not*: 
 
-![]({{ "/assets/2010/brackets-1.png" | relative_url }})
+![](/assets/2010/brackets-1.png)
 
 This shows that when you move into the next bracket that *all *of your income is taxed at a higher rate. That’s not true. It’s only the income that is inside the new bracket that is taxed, like this:
 
-![]({{ "/assets/2010/brackets-2.png" | relative_url }})
+![](/assets/2010/brackets-2.png)
 
 That is, a tiny slice is taxed at 10%, a larger slice is taxed at 15%, and a final slice is taxed at 25%. Let’s try a new way to visualize this. Imagine your money as water filling up cups from left to right, until it runs out (insert liquidity joke and [click here](http://instantrimshot.com/); good job):
 
-![]({{ "/assets/2010/brackets-3.png" | relative_url }})
+![](/assets/2010/brackets-3.png)
 
 I’ve attempted to draw this somewhat to scale—notice that the brackets (cups) are not of equal size. What this means is that your first $16,750 of income fills up the first cup and is reduced by 10% in taxes. Your next cup fills up with $51,250 *additional *income and you part with 15% of it. Assuming you’re doing quite well, your next $69,300 of additional income is taxed at 25%. In my illustration the third cup isn’t quite full so the next few bucks you make will be taxed at 25%, eventually entering the 28% bracket (not shown) once you cross $137,300 in *total *income.
 

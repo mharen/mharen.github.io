@@ -14,7 +14,7 @@ In my experience, antivirus software has been a near-total waste of time and res
 
 When I’ve seen it detect malware, it often couldn’t do anything about it, and most of the time it’s just nagging users with false positives or completely inappropriately technical messages. 
 
-[![network]({{ "/assets/2010/network-6.png" | relative_url }} "Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out. When Linux/Mac win in a decade or so the game will be over.")](https://xkcd.com/350/)
+[![network](/assets/2010/network-6.png "Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out. When Linux/Mac win in a decade or so the game will be over."){:height="392" width="700"}](https://xkcd.com/350/)
 
 Although, it used to be very important. There once was a time where our poor Windows machines were basically teeming cesspools of digital disease with virtually no defenses. These things needed help. It’s laughable to recall that Windows XP pre SP2 and [recent versions](http://news.cnet.com/8301-10784_3-9807471-7.html) of OS X didn’t even have a firewall enabled by default.
 
@@ -40,11 +40,11 @@ So that’s how I operated without antivirus software for the last 10 years or s
 
 Then I saw [this PSA](http://twitter.com/#!/codinghorror/status/27956379656):
 
-![]({{ "/assets/2010/antivirus-2.png" | relative_url }})
+![](/assets/2010/antivirus-2.png)
 
 It seems that drive-by attacks are occurring with no user error necessary *in up-to-date Google Chrome*, via a vulnerable Java plugin. I checked *my laptop *with Microsoft’s free, [well-rated](http://www.techsupportalert.com/best-free-anti-virus-software.htm#Quick_Selection_Guide) virus scanner [Security Essentials](http://www.microsoft.com/security_essentials/) and found that **I was infected. **I became infected via my browser (really a plugin, but that’s splitting hairs) and that left me a little shaken. Fortunately, the scanner politely cleaned up the infection without making a big fuss, which is both more effective and less braggy than I remember of other scanners.
 
-![]({{ "/assets/2010/antivirus-3.jpg" | relative_url }})
+![](/assets/2010/antivirus-3.jpg)
 
 I also followed the advice of the above tweet (disabled the rarely used Java plugin), and now I run the free virus scanner regularly. This is really a change in direction for me, and not a turn I’ve taken lightly. And while AV tools will rarely protect us from emerging threats, they *do *detect thousands of old viruses pretty reliably. The ease of use of Security Essentials and it’s non-FUDiness certainly helped me change my mind.
 

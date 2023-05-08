@@ -7,7 +7,7 @@ categories:
 title: 'Idea: Blackmail Yourself to Health'
 ---
 
-![]({{ "/assets/2011/after-health.jpg" | relative_url }})
+![](/assets/2011/after-health.jpg)
 
 It’s no secret that [most of us](http://www.wolframalpha.com/input/?i=median+US+BMI) are overweight. I don’t think I’m going out on a limb by suggesting that *motivation *to eat better and work out more is the biggest issue. I just had a potentially evil idea for motivating people like me: blackmail yourself.
 

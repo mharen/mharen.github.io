@@ -43,9 +43,9 @@ Regarding the keyboard, I'm sure few will share this complaint, but I miss my co
 
 While I do like having proper** page up/down** buttons, the layout is weird. My intuition has me hitting the wrong one, thinking that they should be reversed. Or really, they should be somewhere else. I wish I could order this thing with a standard arrow/nav arrangement instead of the 10-key. *That'd be awesome.*
 
-![have.png]({{ "/assets/2011/have.png" | relative_url }})
+![have.png](/assets/2011/have.png)
 
-![want.png]({{ "/assets/2011/want.png" | relative_url }})
+![want.png](/assets/2011/want.png)
 
 The track pad is fine, but the **track pad scroll support** leaves a little to be desired. I find it jumps around when I try to scroll. The experience is hard to describe, so you'll just have to take my word for it: it's a bit jarring. I assume it's a software issue so maybe it'll go away with a driver update or by tweaking a bunch of random settings.
 
@@ -55,10 +55,10 @@ I am overwhelmingly thrilled with this thing. It's fast and reliable. It seems t
 
 I don't know how meaningful these things are but I've become quite obsessed with my Windows Experience Index scores. Here's my old machine, just before I moved its hard drive over.:
 
-![Windows Experience Index score for the D520 showing a base score of 3.2]({{ "/assets/2011/d520 wei.png" | relative_url }})
+![Windows Experience Index score for the D520 showing a base score of 3.2](/assets/2011/d520_wei.png)
 
 And my new one:
 
-![Windows Experience Index score for the E6520 showing a base score of 6.4]({{ "/assets/2011/e6520 wei.png" | relative_url }})
+![Windows Experience Index score for the E6520 showing a base score of 6.4](/assets/2011/e6520_wei.png)
 
 That's a big leap, and I can feel it.

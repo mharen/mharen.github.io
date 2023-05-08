@@ -11,7 +11,7 @@ A while back I got the worst haircut I’ve ever gotten. I could tell because wh
 
 I could see the flurry of familiar questions each horrified/amused onlooker mentally dismissed when they first met me after the cut...did he cut his own hair? Is that a wig? Did he pay for that? Then I’d invariably see their eyes trace a circle around my head as they imagined the bowl that must have been used as a cutting template. It came out something like this:
 
-![]({{ "/assets/2009/bad-haircut-7.png" | relative_url }})
+![](/assets/2009/bad-haircut-7.png)
 
 Maybe I got what I deserved by going to a place called Fantastic Sams and paying a mere $11.
 
@@ -47,7 +47,7 @@ Hmmm so no training required at all...awesome. So she’s cutting my hair and do
 
 So I was done and had what I guess was just a hack job that resembled something like this:  
 
-![]({{ "/assets/2009/bad-haircut-b.jpg" | relative_url }})
+![](/assets/2009/bad-haircut-b.jpg)
 
 ([artist](http://www.flickr.com/photos/fordbuchanan/3263291855/) rendering)
 

@@ -14,25 +14,25 @@ If you haven’t done this usability test before, it’s painful to watch. You w
 
 There’ll be minor things that are glaring but easy to fix, like this non-question: 
 
-![2012-10-23 09.51.56.png]({{ "/assets/2012/2012-10-23 09.51.56.png" | relative_url }})
+![](/assets/2012/2012-10-23_09.51.56.png)
 
 But there could be fundamental issues with how the app works vs. how users try to use the app:
 
-![2012-09-20 22.38.11.png]({{ "/assets/2012/2012-09-20 22.38.11.png" | relative_url }})  
+![](/assets/2012/2012-09-20_22.38.11.png)  
 
 (I can see Siri getting some people in trouble here...“WHO IS SHE!?”)
 
 Sometimes though, there’s little you can do to catch certain issues. For instance, what is happening in this picture!?
 
-![2012-10-10 23.22.37.png]({{ "/assets/2012/2012-10-10 23.22.37.png" | relative_url }})
+![](/assets/2012/2012-10-10_23.22.37.png)
 
 Ohhhh...
 
-![2012-10-10 23.22.44.png]({{ "/assets/2012/2012-10-10 23.22.44.png" | relative_url }})  
+![](/assets/2012/2012-10-10_23.22.44.png)  
 
 Those are fairly minor. There can be big, huge issues, too, though. For instance, when I tried to sign up for Angie’s List, I opted to sign up with my Google account:
 
-![join]({{ "/assets/2012/join-2.png" | relative_url }})
+![](/assets/2012/join-2.png)
 
 Guess how that experience went :/. I have never had so much trouble giving someone my money. (To their credit, this appears to be fixed now.)
 

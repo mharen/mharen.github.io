@@ -21,28 +21,28 @@ Short and sweet:
 
 In pictures:
 
-![the back of a laptop with the battery removed]({{ "/assets/2011/IMG_0624.JPG" | relative_url }})
+![the back of a laptop with the battery removed](/assets/2011/IMG_0624.JPG)
 
 Take out the screws (be mindful of the HD screws because they're different than the others)
 
-![the bottom of a laptop with the bottom case removed, exposing the internals]({{ "/assets/2011/IMG_0613.JPG" | relative_url }})
+![the bottom of a laptop with the bottom case removed, exposing the internals](/assets/2011/IMG_0613.JPG)
 
-![an in-use memory slot and an empty memory slot]({{ "/assets/2011/IMG_0615.JPG" | relative_url }})
+![an in-use memory slot and an empty memory slot](/assets/2011/IMG_0615.JPG)
 
-![an in-use memory slot and an empty memory slot]({{ "/assets/2011/IMG_0616.JPG" | relative_url }})
+![an in-use memory slot and an empty memory slot](/assets/2011/IMG_0616.JPG)
 
-![memory slots]({{ "/assets/2011/IMG_0617.JPG" | relative_url }})
+![memory slots](/assets/2011/IMG_0617.JPG)
 
-![memory slots]({{ "/assets/2011/IMG_0618.JPG" | relative_url }})
+![memory slots](/assets/2011/IMG_0618.JPG)
 
-![memory slots]({{ "/assets/2011/IMG_0619.JPG" | relative_url }})
+![memory slots](/assets/2011/IMG_0619.JPG)
 
-![memory slots]({{ "/assets/2011/IMG_0621.JPG" | relative_url }})
+![memory slots](/assets/2011/IMG_0621.JPG)
 
-![memory slots]({{ "/assets/2011/IMG_0622.JPG" | relative_url }})
+![memory slots](/assets/2011/IMG_0622.JPG)
 
-![memory slots]({{ "/assets/2011/IMG_0623.JPG" | relative_url }})
+![memory slots](/assets/2011/IMG_0623.JPG)
 
-![Windows System Info page showing 8gb of memory available]({{ "/assets/2011/boom 8gb.png" | relative_url }})
+![Windows System Info page showing 8gb of memory available](/assets/2011/boom_8gb.png)
 
 For $60, 8gb seems like a no-brainer upgrade if your laptop supports it. And now, I can finally reap the rewards of choosing to go with Windows 7 x64 two years ago. Yay!

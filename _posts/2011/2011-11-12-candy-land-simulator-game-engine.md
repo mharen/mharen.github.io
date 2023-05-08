@@ -30,7 +30,7 @@ var cards = [
 ];
 ```
  
-![four meeples from the game Candy Land that resemble ginerbread cookies, each a different color: green, blue, yellow, red]({{ "/assets/2011/players.jpg" | relative_url }})
+![four meeples from the game Candy Land that resemble ginerbread cookies, each a different color: green, blue, yellow, red](/assets/2011/players.jpg)
 
 Now we need to simply draw cards and keep track of a player through the game. I guess we should come up with some simple way to track that. Players will have a name and a position on the board. We also need to know if the player is losing a turn because they stepped on a licorice space. This should do it:
 

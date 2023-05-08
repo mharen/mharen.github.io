@@ -23,7 +23,7 @@ After that, I railed a bit against our current system and posted references supp
 
 To healthcare providers: I meant no offense to you personally. Most of my medical care encounters have been excellent and I attribute that to having good insurance that affords me access to good doctors and nurses. Unfortunately [far too many](http://www.cbpp.org/cms/index.cfm?fa=view&id=621) of us do not have access to good care or when they depend on it are hit with obscene debt; and systemic problems lead to poorer outcomes for us on so many levels it’s depressing. As an aside: how is it that you have “considerable medical debt despite excellent insurance”? That sounds like a contradiction to me.
 
-![]({{ "/assets/2009/healthcare-3-5.png" | relative_url }})
+![](/assets/2009/healthcare-3-5.png)
 
 After doing additional research, I’m sticking to my original claim: the United States is not a leader in health care (not even close). Here’s a nice [assortment of numbers](http://www.huppi.com/kangaroo/L-healthcare.htm) that don’t make us look so great. And a couple more from the CIA World Factbook (which is fun to browse, by the way): 
 * [Infant mortality](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2091rank.html): [](https://www.cia.gov/library/publications/the-world-factbook/rankorder/2091rank.html)</a>ranked #45, which is one slot *worse* than Cuba. Cuba. 
@@ -55,6 +55,6 @@ This fear of change is something I simply do not understand. Maybe it’s just m
 
 We could hypothetically do this with private insurance and some new legislation. I’m not opposed to that idea out right, I just don’t think it’s practically possible. In the [health care equation](http://digitalroam.typepad.com/digital_roam/2009/08/american-health-care-on-4-napkins-now-all-together.html) between the patient, doctor, and insurance companies, only the insurance companies have a [direct incentive](http://www.npr.org/blogs/money/2009/08/hear_taking_health_care_to_the.html) to keep costs down and they’re doing a [lousy](http://cbo.gov/ftpdocs/89xx/doc8948/01-31-Testimony.shtml#1086784)[job](http://cbo.gov/ftpdocs/89xx/doc8948/01-31-Testimony.shtml#1087043) at it:
 
-![]({{ "/assets/2009/healthcare-3-19.png" | relative_url }})
+![](/assets/2009/healthcare-3-19.png)
 
 I’m afraid I’ve run out of time to cover all the specific points that Tiffany and Tim discussed. I think they did a fine job and I will likely come back to some of their discussion in the future. They have both clearly put a lot of thought into how specific reform could be implemented and I like the dialog.

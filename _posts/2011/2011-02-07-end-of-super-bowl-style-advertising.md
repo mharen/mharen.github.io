@@ -10,7 +10,7 @@ title: The End Of Super Bowl-Style Advertising
 
 I’m sure I’m late to this party but here it goes for those just arriving with me: the era of the big Super Bowl commercial is over. I’d like to enter into evidence exhibit A, a tweet from my coworker:  
 
-![a tweet from @jaredforshey on Feb 6, 2011 that reads "In the age of youtube and everyone-is- the-creator-ism, 'funny commercials' just aren't compelling to me."]({{ "/assets/2011/super-bowl-11.png" | relative_url }})
+![a tweet from @jaredforshey on Feb 6, 2011 that reads "In the age of youtube and everyone-is- the-creator-ism, 'funny commercials' just aren't compelling to me."](/assets/2011/super-bowl-11.png)
 
 He nailed it. When I have access to unlimited amusing clips (usually with no ulterior motive), watching a three hour football game is hardly an efficient delivery mechanism for untested, untargeted clips designed to manipulate me.
 

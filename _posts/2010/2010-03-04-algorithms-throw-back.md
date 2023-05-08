@@ -9,7 +9,7 @@ I was given a question today that really took me back. Here’s a hint: it had t
 
 I haven’t touched a BST in six years so it took some priming to get me going.  
 
-![]({{ "/assets/2010/bst.png" | relative_url }})
+![](/assets/2010/bst.png)
 
 ([BST builder](http://people.ksp.sk/~kuko/bak/index.html))
 

@@ -9,25 +9,25 @@ Virtual machines are crazy awesome. One of my favorite features is that you can 
 
 My machine has one VHD and two AVHDs from snapshots:
 
-![files.png]({{ "/assets/2011/files.png" | relative_url }})
+![](/assets/2011/files.png)
 
 Think of this like layers of transparencies—[remember those](http://en.wikipedia.org/wiki/Transparency_(projection)), kids? The first plastic sheet represents the base VHD. When you take a snapshot, it’s like laying a clean sheet overtop of the existing sheet—all your changes are recorded on the new sheet. In Hyper-V, these extra sheets are AVHDs. Additional snapshots do the same thing—more sheets, more differencing disk AVHDs. To rollback to a given snapshot, you just peel off a sheet. Are hopefully more (but possibly less) clearly: 
 
-![mockup_thumb.png]({{ "/assets/2011/mockup_thumb.png" | relative_url }})
+![](/assets/2011/mockup_thumb.png)
 
 All that background should help explain why you will find ever-increasing AVHD files on your system if you play around with snapshots. **But why might you find AVHDs if you no longer have any snapshots?**
 
-![no-snaps.png]({{ "/assets/2011/no-snaps.png" | relative_url }})
+![](/assets/2011/no-snaps.png)
 
 Consider what you’re asking Hyper-V to do when you remove a snapshot (as opposed to rolling back to it). Since all the changes since the snapshot are literally in a separate file, it must merge the AVHD into the VHD.   
 
-![shutdown.png]({{ "/assets/2011/shutdown.png" | relative_url }})
+![](/assets/2011/shutdown.png)
 
 And here’s the rub: Hyper-V will only do a merge when the machine is *shutdown or turned off ***(pausing it isn’t enough). This explains why I found a couple of AVHDs from months ago even though I didn’t have any snapshots—the machine simply hasn’t been completely shutdown in...years (reboots don’t count—Hyper-V won’t merge unless the VM is really off).  
 
 If your AVHD is big, this will take a long, long time. Fortunately, cleaning up the AVHD files should improve the VM’s disk performance and save the host machine some disk space (50% in my case).
 
-![merging.png]({{ "/assets/2011/merging.png" | relative_url }})
+![](/assets/2011/merging.png)
 
 ---
 

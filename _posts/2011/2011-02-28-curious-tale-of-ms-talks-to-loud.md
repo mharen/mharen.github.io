@@ -15,7 +15,7 @@ On Saturday Wife and I took ventured out alone while my amazing sister watched T
 
 Although our riveting games of Speed and Gin were a much needed distraction from life’s events, they were no match for Ms. Talks-Too-Loud. You know who I’m talking about—that person several tables over who never learned how to use indoor voices. In this case, Ms. Talks-Too-Loud works at Panara.
 
-![IMG_20110226_214214.jpg]({{ "/assets/2011/IMG_20110226_214214.jpg" | relative_url }})
+![](/assets/2011/IMG_20110226_214214.jpg)
 
 And she’s completely to the brim full of crap. I understand the pressure to be cool in front of your friends and make up crazy, ridiculous, absolutely-did-not-could-not-happen stories. I struggled with that as a kid but have since learned to embellish my stories solely with the facts and only the finest, choicest self-deprecating humor. I think most adults eventually reach this stage, too. 
 

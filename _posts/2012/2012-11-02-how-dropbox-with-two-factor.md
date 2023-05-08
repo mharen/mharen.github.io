@@ -13,7 +13,7 @@ It didn’t occur to me until today, though, how they handle application-specifi
 
 Google handles this in a pretty straight forward (but painful) way by simply letting you create application specific passwords as you need them:
 
-![asp2-2.png]({{ "/assets/2012/asp2-2.png" | relative_url }})
+![](/assets/2012/asp2-2.png)
 
 So when my phone’s document scanning app ([JotNot](https://itunes.apple.com/us/app/jotnot-scanner/id307868751?mt=8)) complained that I couldn’t connect it to Dropbox, I realized the issue was that I had added two-factor authentication since I hooked the two things together. So I went looking for a way to generate an application-specific password for the app. 
 
@@ -23,19 +23,19 @@ I was surprised that I couldn’t find a way to do this so I turned to Google an
 
 Oh. Alright, let’s try that! I opened up the app and entered my Dropbox login and it failed (expected) and received this in my email:
 
-![expired-2.png]({{ "/assets/2012/expired-2.png" | relative_url }})
+![](/assets/2012/expired-2.png)
 
 OK, that’s true—my password is probably pretty old. I skipped the link here (phishing and all that) and just went directly to the dropbox website to change my password since apparently it has “expired.” Then I tried to login with my scanning app again. It failed (again, expected) but this time I got this in my email:
 
-![add-2.png]({{ "/assets/2012/add-2.png" | relative_url }})
+![](/assets/2012/add-2.png)
 
 Neat! Let’s do that.
 
-![uber secret-2.png]({{ "/assets/2012/uber secret-2.png" | relative_url }})
+![](/assets/2012/uber_secret-2.png)
 
 Cool, there is (at least before I sanitized it for this blog) a longish, random password I can enter on my phone.  
 
-![2012-11-02 21.37.27.png]({{ "/assets/2012/2012-11-02 21.37.27.png" | relative_url }})
+![](/assets/2012/2012-11-02_21.37.27.png)
 
 Woot! Now I’m linked up and can continue scanning documents into my Dropbox.
 

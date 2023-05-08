@@ -11,7 +11,7 @@ title: Building an Analog Clock without Flash or Images
 
 Thing1 is learning to tell time on analog and digital clocks. Her uncle was kind enough to send over a link to an [online game](http://www.oswego.org/ocsd-web/games/StopTheClock/sthec1.html) that helps reinforce what she’s learning. 
 
-![lots of clocks]({{ "/assets/2012/goal.png" | relative_url }})
+![lots of clocks](/assets/2012/goal.png)
 
 It is pretty neat! Unfortunately, though, it’s implemented in Flash so we can’t use it on our iOS devices. Let’s fix that by turning it into a regular web page. We might end up using some of the fancier HTML/CSS/JS things as we go.
 

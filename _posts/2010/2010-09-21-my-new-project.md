@@ -20,7 +20,7 @@ I’m kicking off a new project today and am taking you along for the ride. Whil
 
 #### The Project
 
-[![]({{ "/assets/2010/interview-questions.gif" | relative_url }})](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)
+[![](/assets/2010/interview-questions.gif)](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)
 
 The problem I’m trying to solve relates to how a company manages interviews. 
 
@@ -42,7 +42,7 @@ This is pretty much going to be a one man show, with a lot of feedback along the
 
 #### Your Assignment
 
-![]({{ "/assets/2010/boc.jpg" | relative_url }})
+![](/assets/2010/boc.jpg)
 
 If you are still with me, I’m impressed. Here’s what I’d like you to do: give this project a cool code name. It needs one and naming stuff is hard so help me out (leave a comment)! If your code name is chosen, a special gift of almost no value will be delivered directly to you. Seriously.
 

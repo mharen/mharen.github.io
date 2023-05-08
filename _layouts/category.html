@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 class="post-list-heading">Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+<h1 class="post-list-heading">Archive of posts with {{ page.type }} '{{ page.title | smartify | escape }}'</h1>
 <ul class="post-list">
     {%- for post in page.posts -%}
     <li>

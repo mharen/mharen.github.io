@@ -15,7 +15,7 @@ This was working fine yesterday so I’m assuming I’m being blocked by my corp
 
 I can access blogger.com, mharen.blogspot.com, my dashboard, the post editor…everything’s fine through the browser, just not through Live Writer. I fired up Fiddler to see what LW’s doing and saw the problem right away:
 
-![]({{ "/assets/2009/live-writer-2.png" | relative_url }})
+![](/assets/2009/live-writer-2.png)
 
 It seems that even none of the blogger/blogspot domains are blocked here, blogger ships its images to [http://picasaweb.google.com/](http://picasaweb.google.com/), which *is* blocked. No matter, I asked our friendly IT admin to unblock it. Now I can publish. But did it work?  
 

@@ -16,17 +16,17 @@ Good times. Anyway, we happened to find ourselves in Canada again last month. I 
 
 But now we have a gaggle of children...so it’s even better :)
 
-![2012-10-26 15.37.28.jpg]({{ "/assets/2012/2012-10-26 15.37.28.jpg" | relative_url }})
+![](/assets/2012/2012-10-26_15.37.28.jpg)
 
-![2012-10-26 15.37.43.jpg]({{ "/assets/2012/2012-10-26 15.37.43.jpg" | relative_url }})
+![](/assets/2012/2012-10-26_15.37.43.jpg)
 
 They loved it!
 
-![2012-10-26 15.55.37.jpg]({{ "/assets/2012/2012-10-26 15.55.37.jpg" | relative_url }}) 
+![](/assets/2012/2012-10-26_15.55.37.jpg) 
 
 That’s the iPhone’s native panorama. Here’s the same shot with the 360 app:
 
-![2012-10-26 15.57.16.jpg]({{ "/assets/2012/2012-10-26 15.57.16.jpg" | relative_url }})
+![](/assets/2012/2012-10-26_15.57.16.jpg)
 
 It’s fun reliving these experiences with them.
 
@@ -34,15 +34,15 @@ It’s fun reliving these experiences with them.
 
 Except for the driving, they’re fun travel companions, too.  
 
-![2012-10-24 19.18.09.jpg]({{ "/assets/2012/2012-10-24 19.18.09.jpg" | relative_url }})
+![](/assets/2012/2012-10-24_19.18.09.jpg)
 
 Thank God for this woman. Whenever you see my kids behaving or being cute, it’s because of her.
 
-![2012-10-27 08.27.27.jpg]({{ "/assets/2012/2012-10-27 08.27.27.jpg" | relative_url }})
+![](/assets/2012/2012-10-27_08.27.27.jpg)
 
 I don’t remember what exactly was going on here...but they’re all in one place so I probably thought that was significant enough to document it with a photo.  
 
-![2012-10-27 08.26.26.jpg]({{ "/assets/2012/2012-10-27 08.26.26.jpg" | relative_url }})
+![](/assets/2012/2012-10-27_08.26.26.jpg)
 
 Happy Thanksgiving!
 
