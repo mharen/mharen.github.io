@@ -33,9 +33,9 @@ Launch that printer app again and go to print something else. This should allow 
 
 Now go kill some trees! 
 
-![](/assets/2013/blogger-image-855070614.jpg)
+{% imagesize /assets/2013/blogger-image-855070614.jpg:img %}
 
-![](/assets/2013/blogger-image-519166345.jpg)
+{% imagesize /assets/2013/blogger-image-519166345.jpg:img %}
 
 ---
 

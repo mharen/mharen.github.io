@@ -7,15 +7,15 @@ title: 'Blurry Shapes: Unleashing the Bokeh'
 
 While browsing the excellent photography Stack Exchange site and learning lots about [bokeh](http://photo.stackexchange.com/q/2706/380#2710), I came across the [awesome idea](http://www.diyphotography.net/diy_create_your_own_bokeh) that led to this shot:  
 
-![](/assets/2011/DSC_0417.jpg)
+{% imagesize /assets/2011/DSC_0417.jpg:img %}
 
 The effect here is in the Christmas lights—they’re regular lights—and by adding this lens filter, stuff that’s normally blurry goes crazy:
 
-![](/assets/2011/DSC_0445.jpg)
+{% imagesize /assets/2011/DSC_0445.jpg:img %}
 
 With this in place, the image on the left turns into the image on the right (similar focus distance):  
 
-![](/assets/2011/bokeh-Kit-d47c.0000001289362640.jpg)
+{% imagesize /assets/2011/bokeh-Kit-d47c.0000001289362640.jpg:img %}
 
 ---
 

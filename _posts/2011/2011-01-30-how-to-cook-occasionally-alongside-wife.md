@@ -11,7 +11,7 @@ The responsibility of cooking rarely rests with me. For the sake of my family’
 
 That’s probably my greatest weakness: meal planning. Wife once told me in college that a meal *must include a side*. Up to that point, when I’d say I was “making hamburgers” this is what you’d get on your plate:
 
-![](/assets/2011/cook-2.png)
+{% imagesize /assets/2011/cook-2.png:img %}
 
 Aside from a short, tired menu of only simple entrées (easily solved by making whatever Wife tells me to make), another weakness is meal execution (i.e. the actual cooking). I’m great at following recipes so long as I don’t have to deviate from the instructions or make substitutions. Actually, a few substitutions are OK—I can look things up on the ol’ internet or check covers of the cookbooks. I can’t handle some of Wife’s mental recipes, though.
 

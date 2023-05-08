@@ -7,7 +7,7 @@ categories:
 title: 'Customer Service: How AirTran Bought Me For $0.50'
 ---
 
-![](/assets/2010/airtran.png)
+{% imagesize /assets/2010/airtran.png:img %}
 
 I recently flew with AirTran and the experience was very pleasant. It didn’t start that way, though: 
 

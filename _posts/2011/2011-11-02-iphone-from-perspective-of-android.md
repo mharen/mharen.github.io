@@ -37,7 +37,7 @@ I have many of the same apps on my iPhone that I previously enjoyed on my Droid.
 Apps which stream media (e.g. NPR and YouTube) are *much *better.  
 #### Push notifications
 
-![](/assets/2011/IMG_0494.png)
+{% imagesize /assets/2011/IMG_0494.png:img %}
 
 iPhone is miles ahead when it comes to push notifications. The idea behind push is that you don’t want an app polling for updates because polling is slower and takes up power and system resources. Whatever Android is doing must be broken because hardly any apps support it there. On iPhone, though, *everything *does. It just works and it’s awesome. 
 
@@ -47,7 +47,7 @@ This all plays in nicely with the new Notification Center. That’s a feature th
 
 #### App permissions
 
-![](/assets/2011/IMG_0496.png)
+{% imagesize /assets/2011/IMG_0496.png:img %}
 
 The way Android does app permissions is a little broken. When you go to install an app, you blindly acknowledge the stuff an app can do (you can’t deny certain permissions—if the app asks for it, you have to grant it to install the app). 
 
@@ -68,7 +68,7 @@ One of the things Android has that iPhone lacks is home screen customizations, i
 I know this isn’t a popular position, but I like iTunes. I’ve used it since version 3. I like having a single desktop app that syncs everything up for me. On Android you’re on your own. There are lots of individual apps that help you connect to cloud services (Google Music, Amazon MP3), but managing your own media—files you have in hand—is tricky with Android. On iPhone, it just works.  
 #### Backups/iCloud
 
-![](/assets/2011/IMG_0495.png)
+{% imagesize /assets/2011/IMG_0495.png:img %}
 
 I love that iPhone does daily backups automatically, without a computer. Every night when I plug my phone in the for the night, it backs itself up to Apple. Incidentally, I had an issue with a corrupt picture breaking all kinds of things and had the chance to test the restore process. It works great.
 

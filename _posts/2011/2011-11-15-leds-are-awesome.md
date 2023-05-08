@@ -17,13 +17,13 @@ This year was different. First off, I couldn’t even find the old bulbs at firs
 
 And so tonight I took advantage of the warm, calm, no-wind weather to hang 225 lights.
 
-![](/assets/2011/Photo Nov 15,_8_48_04_PM.jpg)
+{% imagesize /assets/2011/Photo Nov 15,_8_48_04_PM.jpg:img %}
 
 Apologies for the weak photography. The resident photographer is away at the moment so I just used my phone. In the dark. *Side note:* you know what’d be an awesome product? *Shorter sections* of lights. I need 18” to finish that top eve. What am I supposed to do...?
 
 So how’d we do energy-wise? I’d say pretty awesome:
 
-![](/assets/2011/Photo-Nov-15-8-42-49-PM4.jpg)
+{% imagesize /assets/2011/Photo-Nov-15-8-42-49-PM4.jpg:img %}
 
 That’s 7.5 tiny watts. At 10¢/KWH, running these for 7 hours a day will cost just...
 

@@ -14,7 +14,7 @@ If you haven’t done this usability test before, it’s painful to watch. You w
 
 There’ll be minor things that are glaring but easy to fix, like this non-question: 
 
-![](/assets/2012/2012-10-23_09.51.56.png)
+{% imagesize /assets/2012/2012-10-23_09.51.56.png:img %}
 
 But there could be fundamental issues with how the app works vs. how users try to use the app:
 
@@ -24,7 +24,7 @@ But there could be fundamental issues with how the app works vs. how users try t
 
 Sometimes though, there’s little you can do to catch certain issues. For instance, what is happening in this picture!?
 
-![](/assets/2012/2012-10-10_23.22.37.png)
+{% imagesize /assets/2012/2012-10-10_23.22.37.png:img %}
 
 Ohhhh...
 
@@ -32,7 +32,7 @@ Ohhhh...
 
 Those are fairly minor. There can be big, huge issues, too, though. For instance, when I tried to sign up for Angie’s List, I opted to sign up with my Google account:
 
-![](/assets/2012/join-2.png)
+{% imagesize /assets/2012/join-2.png:img %}
 
 Guess how that experience went :/. I have never had so much trouble giving someone my money. (To their credit, this appears to be fixed now.)
 

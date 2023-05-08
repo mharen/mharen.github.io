@@ -18,7 +18,7 @@ That is, what will happen during all those TV timeouts when we start depending m
 
 I bet these are all incidental, too. Imagine if it was intentional?  
 
-![](/assets/2011/image-youtube-20.png)
+{% imagesize /assets/2011/image-youtube-20.png:img %}
 
 I think Marcel’s expression is appropriate.
 

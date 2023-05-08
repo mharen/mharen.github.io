@@ -42,7 +42,7 @@ This is pretty much going to be a one man show, with a lot of feedback along the
 
 #### Your Assignment
 
-![](/assets/2010/boc.jpg)
+{% imagesize /assets/2010/boc.jpg:img %}
 
 If you are still with me, I’m impressed. Here’s what I’d like you to do: give this project a cool code name. It needs one and naming stuff is hard so help me out (leave a comment)! If your code name is chosen, a special gift of almost no value will be delivered directly to you. Seriously.
 

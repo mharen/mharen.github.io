@@ -18,7 +18,7 @@ One breakthrough I discovered today helps a lot, though: you can make your windo
 
 And there you go:
 
-![](/assets/2011/command-11.png)
+{% imagesize /assets/2011/command-11.png:img %}
 
 While you’re in there, you might as well choose a pretty font like Consolas, too.
 

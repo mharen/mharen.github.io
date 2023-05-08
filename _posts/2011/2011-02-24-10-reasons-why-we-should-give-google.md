@@ -19,13 +19,13 @@ Knowing your location may seem unnecessary at first but consider queries for som
 
 And your history really does help, e.g. “java”. That’s a programming language to me, but a tasty beverage to others. OK, actually Google is pretty fixated on the programming side on that one. Here’s a better example, “script”:
 
-![](/assets/2011/google-script.png)
+{% imagesize /assets/2011/google-script.png:img %}
 
 Google isn’t all showy or anything, it just gives me results. But sometimes the results suck. **Here are a few reasons to give Google a break:**  
 
 **1. The results only suck occasionally.** I use Google a lot. If you do, too, check your [history](https://www.google.com/history/) to see just how much: 
 
-![](/assets/2011/google-history.png)
+{% imagesize /assets/2011/google-history.png:img %}
 
 *50 searches most days*...that is more than I would have guessed! 34k total searches? Yikes!
 
@@ -45,7 +45,7 @@ Google isn’t all showy or anything, it just gives me results. But sometimes th
 
 **7. For the most part, they [aren’t evil](https://en.wikipedia.org/wiki/Don't_be_evil),** sometimes doing things that surprise me by how not-evil they are. For example, when you first install Google Chrome, it asks you what search engine you want to use: 
 
-![](/assets/2011/choose-search.jpg)
+{% imagesize /assets/2011/choose-search.jpg:img %}
 
 
 **8. They can read your mind with instant search,** which is useful since I often don’t even understand what it is exactly I want myself

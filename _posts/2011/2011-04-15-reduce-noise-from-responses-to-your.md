@@ -9,7 +9,7 @@ title: Reduce Noise from Responses To Your Outlook Meeting Requests
 
 I give tech talks to my company’s developers about every other month and each time I send out a meeting request to a large group of people. The few days that follow my meeting request are filled with uninteresting responses—RSVPs from those that can/cannot attend. Like this:
 
-![](/assets/2011/2011-04-15-5.png)
+{% imagesize /assets/2011/2011-04-15-5.png:img %}
 
 Of course I could mark the request as “no response requested” but I really do need to know how many people are planning to attend so I can have enough space/food available.
 
@@ -17,7 +17,7 @@ There’s a setting in Outlook to automatically process meeting requests and suc
 
 Here’s what I came up with instead:
 
-![](/assets/2011/2011-04-15-2.png)
+{% imagesize /assets/2011/2011-04-15-2.png:img %}
 
 This is a mail rule catches messages that look like meeting request responses and moves them directly to my archive *unless *they contain any text in the body. This has been working quite well for months as any boilerplate reply goes straight to my archive while anything with a custom response still shows up in my inbox.
 

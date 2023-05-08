@@ -15,9 +15,9 @@ At around T-5 minutes, Sarah dropped off baby #2 so she could do the bathroom th
 
 **Part II:** Upon arriving home after a nice (albeit sadly unproductive day) at multiple offices, I made the mistake of noting baby #1’s odor and thereby committing myself to the changing of what was expected to be a very fowl diaper. If I didn’t know better, I’d say this is what baby ate today:  
 
-![](/assets/2009/poop-1.jpeg)
-![](/assets/2009/poop-2.jpeg)
-![](/assets/2009/poop-3.jpeg)
+{% imagesize /assets/2009/poop-1.jpeg:img %}
+{% imagesize /assets/2009/poop-2.jpeg:img %}
+{% imagesize /assets/2009/poop-3.jpeg:img %}
 
 An entire can of black beans (undrained), a jar of Grey Poupon and a lot of Mexican food.
 

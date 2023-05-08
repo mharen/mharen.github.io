@@ -7,7 +7,7 @@ categories:
 title: Things Android Could Do Better
 ---
 
-![](/assets/2010/androidschmidt.jpg)
+{% imagesize /assets/2010/androidschmidt.jpg:img %}
 
 I recently covered the things [I love about Android](../../2010/09/things-i-love-about-android.html) so it only seems fair to touch on its weaknesses (only a small portion of the part outside the "awesomeness" bubble on the previous post). I’d like to remind the audience that I’m not an Android or iPhone zealot—I think they are both fantastic devices and have recommended each. If anything, I'd say I'm a usability zealot but that's for another post.
 

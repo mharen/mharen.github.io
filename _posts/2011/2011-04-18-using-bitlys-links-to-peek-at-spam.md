@@ -8,7 +8,7 @@ title: "Using Bitly's \u201C+\u201D Links to Peek at Spam"
 
 Thanks to the wonderful technology of spam filters, I rarely see spam anymore. Today, however, this gem came through:
 
-![](/assets/2011/bitly-2.png)
+{% imagesize /assets/2011/bitly-2.png:img %}
 
 It made it through the corporate filters but to Outlook’s credit it *was* flagged as probable spam.  
 

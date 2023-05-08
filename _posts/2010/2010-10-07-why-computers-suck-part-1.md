@@ -24,48 +24,48 @@ Here’s how *I* login:
 
 4\. Skip an SSL warning by clicking “Continue to this website (not recommended)” 
 
-![](/assets/2010/computers-suck-1.png)
+{% imagesize /assets/2010/computers-suck-1.png:img %}
 
 5\. Enter my numeric user ID, which I retrieve from an email since I can’t remember it and my PIN, and my RSA token code (changes every 60 seconds):
 
-![](/assets/2010/computers-suck-2.png)
+{% imagesize /assets/2010/computers-suck-2.png:img %}
 
-![](/assets/2010/computers-suck-3.png)
+{% imagesize /assets/2010/computers-suck-3.png:img %}
 
 
 6\. Install some VMWare addon thingy
 
 7\. Enter my login again, but this time with a different password that I also can’t remember, and choose a different domain:
 
-![](/assets/2010/computers-suck-4.png)
+{% imagesize /assets/2010/computers-suck-4.png:img %}
 
 8\. Then I accept a meaningless security warning:
 
-![](/assets/2010/computers-suck-5.png)
+{% imagesize /assets/2010/computers-suck-5.png:img %}
 
 9\. And ignore a JS error:
 
-![](/assets/2010/computers-suck-6.png)
+{% imagesize /assets/2010/computers-suck-6.png:img %}
 
 10\. Or two:
 
-![](/assets/2010/computers-suck-7.png)
+{% imagesize /assets/2010/computers-suck-7.png:img %}
 
 11\. And another warning; this is getting ridiculous
 
-![](/assets/2010/computers-suck-8.png)
+{% imagesize /assets/2010/computers-suck-8.png:img %}
 
 12\. And another
 
-![](/assets/2010/computers-suck-9.png)
+{% imagesize /assets/2010/computers-suck-9.png:img %}
 
 13\. And finally I’m ready to actually do something:
 
-![](/assets/2010/computers-suck-10.png)
+{% imagesize /assets/2010/computers-suck-10.png:img %}
 
 14\. But the “connection to the View Server is not ready. Please wait.”
 
-![](/assets/2010/view-server-37.png)
+{% imagesize /assets/2010/view-server-37.png:img %}
 
 Wait for what? Apparently I took too long doing all of the above and need to start again. Yikes!
 

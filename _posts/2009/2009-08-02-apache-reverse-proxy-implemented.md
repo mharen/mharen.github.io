@@ -17,7 +17,7 @@ This design offers many benefits which I won’t repeat here—head over to the 
 
 The first hurdle was expected: getting the reverse proxy working. A teammate tried to get this going with IIS7 for a while without success. I took a stab at it with [Apache](http://www.apache.org/)—something I’m much more comfortable with—and got things working pretty quickly. While IIS required explicit rewrite rules with URLs, tags, etc., Apache seems better suited to the job and has a nice, clean configuration:
 
-![](/assets/2009/apache.png)
+{% imagesize /assets/2009/apache.png:img %}
 
 ```xml
 ProxyPass /redmine/ http://rowlf/
@@ -49,7 +49,7 @@ ProxyPass /VaultService/ http://vincent/VaultService/
 </Location>
 ```
 
-![](/assets/2009/redmine.png)
+{% imagesize /assets/2009/redmine.png:img %}
 
 [Redmine](http://www.redmine.org/) was pretty easy to get going at first but had a path-root problem. It wasn’t liking that I was serving it out of a directory (/redmine) on kermit but was actually hosting it on a rwolf’s root (/). It complained by building resource links for things like css and js with an incorrect path. This was quickly remedied by adding this line to Redmine’s environment.rb file (it’s a Ruby on Rails app) as [noted here](http://stackoverflow.com/questions/470961/configuring-ruby-on-rails-app-in-a-subdirectory-under-apache/470973#470973):
 
@@ -58,7 +58,7 @@ ProxyPass /VaultService/ http://vincent/VaultService/
 ActionController::AbstractRequest.relative_url_root = "/redmine"
 ```
 
-![](/assets/2009/svn.png)
+{% imagesize /assets/2009/svn.png:img %}
 
 [SVN](http://www.open.collab.net/products/subversion/) also took a little extra effort to realize it needed the extra verbs [explicitly permitted](http://silmor.de/49) with a [<Limit>](http://httpd.apache.org/docs/2.0/mod/core.html#limit) directive:
 
@@ -69,7 +69,7 @@ ActionController::AbstractRequest.relative_url_root = "/redmine"
 By the time I got those two running, another teammate got [Vault](http://www.sourcegear.com/vault/) running on Vincent so I wired that up easily, too. 
 
 
-![](/assets/2009/vault.png)
+{% imagesize /assets/2009/vault.png:img %}
 
 I was most worried about Vault because it’s the only closed source system involved. I have nothing against closed-source software (it’s what I make every day), just that if SourceGear (Vault’s maker) didn’t plan or desire for Vault to work with a reverse proxy, I’d be pretty much SOL. But it worked most easily so props to [SourceGear](http://sourcegear.com/).
 

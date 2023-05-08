@@ -9,35 +9,35 @@ title: How I Discovered Amazon's Impressive Gift Wrap Service Via a Generous Fri
 
 I received an unexpected package today from Amazon. Hmmm...
 
-![](/assets/2012/2012-11-23_11.12.53.jpg)
+{% imagesize /assets/2012/2012-11-23_11.12.53.jpg:img %}
 
 I opened it and started to get excited. It wasn’t what I usually get from Amazon (batteries, pink toys, etc.).
 
-![](/assets/2012/2012-11-23_11.12.59.jpg)
+{% imagesize /assets/2012/2012-11-23_11.12.59.jpg:img %}
 
 It turns out that my friend Mark sent me a birthday present! Woot! I was very impressed by the presentation. Each item had a fancy wrapping, a fancy ribbon, and a fancy card.
 
-![](/assets/2012/2012-11-23_11.13.03.jpg)
+{% imagesize /assets/2012/2012-11-23_11.13.03.jpg:img %}
 
-![](/assets/2012/2012-11-23_11.13.37.jpg)
+{% imagesize /assets/2012/2012-11-23_11.13.37.jpg:img %}
 
 I guess I’m known for my fruity shirts. 
 
 The gifts are perfect, and they arrived like a sir.
 
-![](/assets/2012/2012-11-23_11.15.41.jpg)
+{% imagesize /assets/2012/2012-11-23_11.15.41.jpg:img %}
 
-![](/assets/2012/2012-11-23_12.02.03.jpg)
+{% imagesize /assets/2012/2012-11-23_12.02.03.jpg:img %}
 
-![](/assets/2012/2012-11-23_12.02.08.jpg)
+{% imagesize /assets/2012/2012-11-23_12.02.08.jpg:img %}
 
 I’m actually shocked the kids adapted so quickly to it all. Thing 1, and Uncle Chris:
 
-![](/assets/2012/2012-11-23_12.29.55.jpg)
+{% imagesize /assets/2012/2012-11-23_12.29.55.jpg:img %}
 
-![](/assets/2012/2012-11-23_11.16.14.jpg)
+{% imagesize /assets/2012/2012-11-23_11.16.14.jpg:img %}
 
-![](/assets/2012/2012-11-23_11.16.24.jpg)
+{% imagesize /assets/2012/2012-11-23_11.16.24.jpg:img %}
 
 Thanks, Mark! I’ve got some learnin’ to do.
 

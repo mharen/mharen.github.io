@@ -20,7 +20,7 @@ Today, I’ll walk you through an actual process of this as I restyle Sarah’s 
 
 Here’s what the blog looks like today:
 
-![](/assets/2010/user-styles-1.png)
+{% imagesize /assets/2010/user-styles-1.png:img %}
 
 Today’s refresh will be pretty light. I’ll update the graphics and colors but leave the layout almost entirely alone. We’re repainting—not moving any walls or furniture.
 
@@ -30,59 +30,59 @@ My browser of choice is Google Chrome, because it’s friggin’ amazing as you 
 
 I’m going for a fall theme so I did an image search for leaves. I want a repeating pattern for the background image so I added a size constraint, guessing that whoever made a repeating leaves pattern would do so at a standard dimension of 512px square (or some other multiple of 128). Success:
 
-![](/assets/2010/user-styles-2.png)
+{% imagesize /assets/2010/user-styles-2.png:img %}
 
 So then I just need to know what element of the existing site to apply this to. It is probably the body tag but let’s check. In Chrome, I bring up the site and hit Control-Shift-I to open up the debugger. If you work on websites and have not used this before, you are welcome. This thing will change your life.
 
-![](/assets/2010/user-styles-3.png)
+{% imagesize /assets/2010/user-styles-3.png:img %}
 
 Here we see the structure of the page on the left and the selected element’s styles on the right. And there we see the background-image property. That’s what I will override in my user style via the Chrome Extension [Stylish](https://chrome.google.com/extensions/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe):
 
-![](/assets/2010/user-styles-4.png)
+{% imagesize /assets/2010/user-styles-4.png:img %}
 
 Once I hit save, the other window is immediately updated (no refresh required):
 
-![](/assets/2010/user-styles-5.png)
+{% imagesize /assets/2010/user-styles-5.png:img %}
 
 #### Masthead Flowers
 
 Next, the two flowers on each side of the masthead. I need to identify them in code so I can refer to them in my user style. Do this by clicking the magnifying glass and then the flower to tell Chrome to show me the code for the flower:
 
-![](/assets/2010/user-styles-6.png)
+{% imagesize /assets/2010/user-styles-6.png:img %}
 
 Let’s override that CSS, and the second flower as well:
 
-![](/assets/2010/user-styles-7.png)
+{% imagesize /assets/2010/user-styles-7.png:img %}
 
 Pow:
 
-![](/assets/2010/user-styles-8.png)
+{% imagesize /assets/2010/user-styles-8.png:img %}
 
 #### Colors
 
 I’ll tweak the header color (purple) and image border color (pink) next.
 
-![](/assets/2010/user-styles-9.png)
+{% imagesize /assets/2010/user-styles-9.png:img %}
 
 Bam:
 
-![](/assets/2010/user-styles-10.png)
+{% imagesize /assets/2010/user-styles-10.png:img %}
 
 #### Navigation Bar
 
 We’re almost done. Next I’ll replace those tiny flowers across the top of the window (I realize container is spelled wrong, but it’s coded so I can’t fix it now).
 
-![](/assets/2010/user-styles-11.png)
+{% imagesize /assets/2010/user-styles-11.png:img %}
 
 Result:
 
-![](/assets/2010/user-styles-12.png)
+{% imagesize /assets/2010/user-styles-12.png:img %}
 
 #### Masthead
 
 The final piece is the actual site logo—the baby face. Sarah might put her own together, but until then I’ll use this:
 
-![](/assets/2010/user-styles-13.png)
+{% imagesize /assets/2010/user-styles-13.png:img %}
 
 That is far, *far* too busy for my taste, but I think Sarah will like it. If I find some time, I might add a soft glow effect around the logo image to help it stand off from the background. To do that efficiently, though, I’ll probably need to update the structure of the page which I don’t want to do right now.
 

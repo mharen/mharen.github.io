@@ -10,7 +10,7 @@ title: What is going on with my iOS clipboard in Safari?!
 
 I [made a joke](https://twitter.com/mharen/status/267293420354154496) earlier that was based on a Taylor Swift lyric (don’t judge me) so I found myself on one of those awful song lyrics sites so I could copy the line I wanted. I highlighted the line I wanted and hit copy:  
 
-![](/assets/2012/2012-11-10_11.31.27.png)
+{% imagesize /assets/2012/2012-11-10_11.31.27.png:img %}
 
 Errr...what? I went back and tried copying again. Same thing. Weird.
 
@@ -20,13 +20,13 @@ So I loaded the same site on my desktop and immediately noticed strange behavior
 
 The title in line one works fine, but the lyrics themselves won’t hold a selection. What’s doing that? Let’s take a peek at the page’s source. The first thing I noticed was an unusually large amount of HTML entities:
 
-![](/assets/2012/image-11.png)
+{% imagesize /assets/2012/image-11.png:img %}
 
 You normally use those codes to represent special characters. This site, however, is using them to obscuring the lyrics. (It’s hard to imagine that this is all that effective in protecting the content.) That’s not what I’m irritated by, though, so let’s keep looking. 
 
 I’m assuming the weird selection behavior is triggered by a script so let’s just look for those by searching for “.js”:
 
-![](/assets/2012/image-14.png)
+{% imagesize /assets/2012/image-14.png:img %}
 
 (I find it amusing that the site attributes the lyrics to Sony but still puts in all this effort to “protecting” them...)
 

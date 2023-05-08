@@ -16,7 +16,7 @@ Couldn’t be easier:
 
 Fire up Visual Studio 2010 and open the Package Manager Console under View > Other Windows > Package Manager Console (or press C-W, C-Z):
 
-![](/assets/2010/nupack-23.png)
+{% imagesize /assets/2010/nupack-23.png:img %}
 
 From here you get a nice, friendly command line window:
 
@@ -43,7 +43,7 @@ PM>
 Nice! OK, Let’s open up a new ASP.NET MVC App:
 
 
-![](/assets/2010/nupack-22.png)
+{% imagesize /assets/2010/nupack-22.png:img %}
 
 And throw together a simple MVC app:
 
@@ -104,7 +104,7 @@ View:
 
 Output:
 
-![](/assets/2010/nupack-26.png)
+{% imagesize /assets/2010/nupack-26.png:img %}
 
 
 It works! Now let’s improve that view code by trying out that fancy [T4MVC](http://mvccontrib.codeplex.com/wikipage?title=T4MVC) stuff I’ve [heard](http://channel9.msdn.com/blogs/jongalloway/jon-takes-five-with-david-ebbo-on-t4mvc) so much about:
@@ -118,7 +118,7 @@ PM>
 
 That was easy. But what just happened? It looks like some files were added:
 
-![](/assets/2010/nupack-13.png)
+{% imagesize /assets/2010/nupack-13.png:img %}
 
 Sweet! Now I have T4MVC all ready to go and can do neat things like this:
 

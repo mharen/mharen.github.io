@@ -18,21 +18,21 @@ title: 'My New Project: Initial Mockups'
 
 This app is going to be pretty simple with only a handful of areas, each with a set of pretty basic screens:
 
-![](/assets/2010/noodle-5.png)
+{% imagesize /assets/2010/noodle-5.png:img %}
 
 Let’s pretend you’re an interviewer and I’ll walk you through what I’ve mocked up so far. Immediately after you do an interview, you open up the app and look for the person you just interviewed on the `/Interview/Recent` screen:
 
-![](/assets/2010/noodle-8.png)
+{% imagesize /assets/2010/noodle-8.png:img %}
 
 You click on Rivers and see this:
 
-![](/assets/2010/noodle-14.png)
+{% imagesize /assets/2010/noodle-14.png:img %}
 
 Once you enter your feedback, you’re part is complete.
 
 Now let’s look at what human resources might see in the `/Candidate/Details` after a few kind folks like yourselves have entered some feedback:
 
-![](/assets/2010/noodle-20.png)
+{% imagesize /assets/2010/noodle-20.png:img %}
 
 Whatever HR needs to make a decision regarding an additional interview, hire, or no-hire should be available on this screen. This screen will also be expanded to track their decision (not pictured).
 

@@ -25,7 +25,7 @@ Anyway, it works:
 
 Today’s build was super easy once I wrapped my head around how this thing’s wired. The DIP switch isn’t needed—I was just playing around with one color at a time before I made the video.
 
-![](/assets/2010/day-3-candy-land.jpg)
+{% imagesize /assets/2010/day-3-candy-land.jpg:img %}
 
 Speaking of super easy, has anyone played this game “Candyland”? It’s a bunch of crap. That game is like sooooo easy. It has one problem, though: you have to play it with three year olds who cheat. Oh, and it’s so boring. To pass the time, I try to imagine what it would be like to navigate that crazy candy world in real life. As I stack the deck with doubles, I picture Bruce Willis or pre-crazy Tom Cruise climbing up the side of a giant sugar crystal volcano or something. With some luck, Thing 1 “accidentally” lands on that go-to-the-end square and the torment is over.
 

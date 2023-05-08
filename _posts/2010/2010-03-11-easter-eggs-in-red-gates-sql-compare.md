@@ -10,7 +10,7 @@ title: "Easter Eggs in Red-Gate's SQL Compare"
 
 A coworker discovered a neat Easter egg in Red-Gate’s [Schema Compare for Oracle](http://www.red-gate.com/Products/schema_compare_for_oracle/index.htm): Oracleoids:
 
-![](/assets/2010/easter-clip_image002-3.jpg)
+{% imagesize /assets/2010/easter-clip_image002-3.jpg:img %}
 
 I checked the tools *I use *and discovered this Easter egg in [SQL Compare](http://www.red-gate.com/Products/SQL_Compare/index.htm) and [Data Compare](http://www.red-gate.com/Products/SQL_Data_Compare/index.htm) (v7.1):
 

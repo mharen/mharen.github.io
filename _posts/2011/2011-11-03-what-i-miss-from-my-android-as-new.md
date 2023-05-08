@@ -11,7 +11,7 @@ title: What I Miss From My Android as a New iPhone User
 
 If you’re just joining us, this is part two of my “OMG I just got an iPhone” series. You can read about what I love about the iPhone in the [previous post](../../2011/11/iphone-from-perspective-of-android.html). While preparing this post, I realized that I' put together a nice [overview of the awesomeness of Android](../../2010/09/things-i-love-about-android.html) 14 months ago. That post is still pretty valid and worth a read. I have a great chart over there that bears repeating:
 
-![](/assets/2010/phone-venn.png)
+{% imagesize /assets/2010/phone-venn.png:img %}
 
 That is, whether you go with Android or iPhone or whatever, these are overwhelming amazing devices. Any critique herein is admittedly just nitpicky. We are living in a very exciting time.
 
@@ -33,7 +33,7 @@ I think the next big thing in tech is going to be a ridiculously simple to use, 
 
 #### Fewer Password Prompts
 
-![](/assets/2011/Automatic_Updates_inline.png)
+{% imagesize /assets/2011/Automatic_Updates_inline.png:img %}
 
 A tad more on this, because it’s really annoying. Why do I have to enter my password to install apps? Why when I update apps? Feel free to ask for a pin or password when money’s involved, but otherwise I feel like I’m authenticating myself waaaay too much.
 
@@ -41,7 +41,7 @@ This is something that strikes me as a very “un-Apple” thing to do. The comp
 
 #### A “Back” Button
 
-![](/assets/2011/dinc.jpg)
+{% imagesize /assets/2011/dinc.jpg:img %}
 
 Android phones typically have four buttons vs. iPhones “home” button. I’ve complained in the past about these buttons being in [frustratingly inconsistent order between vendors](../../2010/09/things-android-could-do-better.html), but *I do like them*. Of those buttons, I miss the back button the most. It pops the stack and takes you to whatever you were just looking at. As you pop around between apps, open links, etc., tapping back would intuitively rewind your experience.
 
@@ -112,7 +112,7 @@ Most Droids simply use a micro USB connection. This was great as it meant Wife a
 
 #### Navigation
 
-![](/assets/2011/alternate-routes.jpg)
+{% imagesize /assets/2011/alternate-routes.jpg:img %}
 
 One of the unsung heroes of the Android OS has got to be navigation. Yes, Maps is great (another example of Google’s apps being better on Android), but Navigation is amazing. It’s, by far, the [best GPS navigation implementation](http://www.google.com/mobile/navigation/) I have ever used.
 
@@ -122,7 +122,7 @@ It is beautiful, fast, intuitive, and very effective. (It does kill the phone’
 
 #### Shortcuts
 
-![](/assets/2011/go_home.png)
+{% imagesize /assets/2011/go_home.png:img %}
 
 Shortcuts are one of the things I bet almost nobody uses, but they are great. You can add shortcuts to you home screen for apps, sure (Android normally keeps apps in a drawer, not on the home screen), but also for common actions like [navigating to a specific address](http://www.howtogeek.com/howto/25707/create-a-%E2%80%9Cgo-home%E2%80%9D-shortcut-for-your-android-phone%E2%80%99s-google-maps-navigation/) (home, work, etc.), calling someone, or playing a song. Having single-tap access to common actions is pretty great.  
 

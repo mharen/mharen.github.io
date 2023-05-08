@@ -7,11 +7,11 @@ title: Anatomy of a Typical Sensationalist News Story
 
 In our highly charged media, it’s exceedingly common (and frustrating) to see a ridiculous news headline which is not supported by the story within. Here’s what I mean; level of alarm is on the y-axis and piece of the story is on the x-axis:
 
-![](/assets/2010/sensational-1.png)
+{% imagesize /assets/2010/sensational-1.png:img %}
 
 Yikes! Things start out pretty serious. After keeping our attention with a few random facts, the story is finally killed by its own lame ties to reality.
 
-![](/assets/2010/sensational-2.jpg)
+{% imagesize /assets/2010/sensational-2.jpg:img %}
 
 Here’s an actual, far less dramatic example from an [article](http://www.latimes.com/news/nationworld/nation/wire/sns-prop8-judge,0,1452598.story) I read this morning:
 
@@ -49,6 +49,6 @@ What, what? So he was out of there next year anyway? When he leaves, he’ll hav
 
 By the way, the Google Image results for *Vaughn R. Walker*—the judge—are pretty hilarious:
 
-![](/assets/2010/sensational-3.png)
+{% imagesize /assets/2010/sensational-3.png:img %}
 
 Assuming he’s the old guy in a suit, hitting slots 1-3 is pretty good. After that it falls apart, though.

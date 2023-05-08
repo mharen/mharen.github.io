@@ -69,7 +69,7 @@ On the other hand, if that really was a question, then the answer is “no.”
 
 A Mr. Coffee Drip Pot as pictured (that’s really mine, about to brew!). 
 
-![](/assets/2010/cheap-coffee-maker.jpg)
+{% imagesize /assets/2010/cheap-coffee-maker.jpg:img %}
 
 **What coffee do you really use?**
 
@@ -93,7 +93,7 @@ I have mixed feelings on that. They’re pretty wasteful in terms of energy and 
 
 It’s an acquired taste for sure. Here’s my estimate of a typical hater’s reasons:
 
-![](/assets/2010/coffee-chart.png)
+{% imagesize /assets/2010/coffee-chart.png:img %}
 
 **I’m making coffee for an actual coffee snob, what do I do?**
 
@@ -107,7 +107,7 @@ That’s incorrect but more importantly, irrelevant!
 
 Yes.
 
-![](../../assets/2010/coffee-with-milk.jpg)
+{% imagesize ../../assets/2010/coffee-with-milk.jpg:img %}
 
 ---
 

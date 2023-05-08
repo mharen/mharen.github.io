@@ -15,9 +15,9 @@ Today’s quick and simple adaptation of Thursday’s build was suggested by my 
 
 The app parses XML files from the Internet and extracts a temperature value. If the temperature is less than 30 or over 100, it lights the red LED. If it’s between 30 and 60 or 90 and 100, the yellow LED lights. If it’s in the remaining sweet spot of 60-90, the green LED lights.  
 
-![](/assets/2010/IMAG0772.jpg)
-![](/assets/2010/IMAG0773.jpg)
-![](/assets/2010/IMAG0774.jpg)
+{% imagesize /assets/2010/IMAG0772.jpg:img %}
+{% imagesize /assets/2010/IMAG0773.jpg:img %}
+{% imagesize /assets/2010/IMAG0774.jpg:img %}
 
 Build, circuit, schematic, and Arduino code are identical to my [previous project](../../2010/11/arduino-day-11-extreme-feedback-for.html). 
 

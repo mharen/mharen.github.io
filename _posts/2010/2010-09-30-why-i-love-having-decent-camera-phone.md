@@ -61,7 +61,7 @@ Some random discoveries at the drug store:
 
 And of course, my super sweet and very missed family:
 
-![](/assets/2010/camera-phone-00008.jpg)
+{% imagesize /assets/2010/camera-phone-00008.jpg:img %}
 
 ---
 

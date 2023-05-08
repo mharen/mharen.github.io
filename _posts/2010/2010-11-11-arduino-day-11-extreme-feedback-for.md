@@ -22,7 +22,7 @@ Whenever the build status changes (any of “success”, “building” or “fa
 
 In the future this tool could be tied to a [mechanical foam dart gun](http://www.thinkgeek.com/computing/accessories/8a0f/) to physically punish whoever broke the build. Speaking of missiles, I saw *Delta Force* recently enough to make this connection: Chuck Norris’s motorcycle *launched missiles*. Yeah.
 
-![](/assets/2010/chuck-norris-delta-force.jpg)
+{% imagesize /assets/2010/chuck-norris-delta-force.jpg:img %}
 
 You might imagine how politically correct and culturally sensitive a 1986 movie about terrorism, with the subtitle “They don't negotiate with terrorists... they blow them away!” is. It’s like *24* with less talk and more explosions.
 

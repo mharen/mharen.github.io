@@ -13,7 +13,7 @@ I haven’t been able to uncover an index for what types of things you can show 
 
 Anyway, so this is what I was looking for initially ([data source](http://www.vaughns-1-pagers.com/history/world-population-growth.htm)):
 
-![](/assets/2010/population-23.png)
+{% imagesize /assets/2010/population-23.png:img %}
 
 And since the last 200 years:
 

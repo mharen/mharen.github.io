@@ -29,20 +29,20 @@ Hey, don't get upset with me, I'm just translating.
 
 #### Internet Explorer
 
-![](/assets/2011/ie-file-print.png)
+{% imagesize /assets/2011/ie-file-print.png:img %}
 
 or
 
-![](/assets/2011/ie-right-click.png)
+{% imagesize /assets/2011/ie-right-click.png:img %}
 
 #### Chrome:
 
-![](/assets/2011/chrome-file-print.png)
+{% imagesize /assets/2011/chrome-file-print.png:img %}
 
 or
 
-![](/assets/2011/chrome-right-click.png)
+{% imagesize /assets/2011/chrome-right-click.png:img %}
 
 #### Firefox
 
-![](/assets/2011/firefox-file-print.png)
+{% imagesize /assets/2011/firefox-file-print.png:img %}

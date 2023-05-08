@@ -7,7 +7,7 @@ categories:
 title: Where Do You See Yourself in Five Years? (Blue Pill or Red Pill?)
 ---
 
-![](/assets/2010/5-years-1.png)
+{% imagesize /assets/2010/5-years-1.png:img %}
 
 Until recently, this has always been an easy question for me.  
 * In middle school I wanted to be in computers so I obsessed over computers. 
@@ -26,7 +26,7 @@ Quite simply, I need to decide if I want to move into management (i.e. manage pr
 
 #### Option 1: The Default Path Into Management and Sales
 
-![](/assets/2010/5-years-2.jpg)
+{% imagesize /assets/2010/5-years-2.jpg:img %}
 
 The path of least external resistance is definitely to follow the management route at my current company. That’s what everyone expects me to do. It’s probably where the money is and provides new growth opportunities. Over time I’d have to give up coding and learn more about project management, people management, and sales—areas that don’t excite me terribly. This is the [blue pill](http://en.wikipedia.org/wiki/Bluepill) option.
 
@@ -42,7 +42,7 @@ The issue with this approach is that it’s not really compatible with my curren
 
 #### Decision Time
 
-![](/assets/2010/5-years-3.png)
+{% imagesize /assets/2010/5-years-3.png:img %}
 
 I can take option 2—stay put, stop advancing—*off* the table. I didn’t get where I am now by doing things that are comfortable and as wonderful as it sounds, I can’t imagine that working for me. I’m too easily bored, I guess.
 

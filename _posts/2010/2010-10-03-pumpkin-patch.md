@@ -30,41 +30,41 @@ The festivities started out on an odd note when there was some confusion over wh
 
 After freaking out on the giant tractor (photo unavailable), the kids found their new favorite thing in the whole wide world...: an enormous bean pit, with a slide. A sign indicated that entering the barn with the bean pit (among other things) was $2. I asked a worker if this is what the wrist bands were for and my confusion was mirrored right back so I decided not to pursue it and assumed we were good.  
 
-![](/assets/2010/pumpkin-patch-00001.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00001.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00032.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00032.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00031.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00031.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00030.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00030.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00029.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00029.jpg:img %}
 
 It took some work but I managed to get the kids away from the bean pit and onto the hay ride thingy. The plan, as I learned was to ride out into the middle of nowhere and do a corn maze. Then ride out to a different middle of nowhere and pick out a pumpkin.
 
 #### Journey to the maze  
 
-![](/assets/2010/pumpkin-patch-00028.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00028.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00027.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00027.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00026.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00026.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00025.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00025.jpg:img %}
 
 #### The maze
 
-![](/assets/2010/pumpkin-patch-00024.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00024.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00023.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00023.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00022.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00022.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00021.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00021.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00020.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00020.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00019.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00019.jpg:img %}
 
 #### Pumpkin Picking
 
@@ -72,51 +72,51 @@ On the way to the pumpkin patch I explained my only rule to Thing 1: she can hav
 
 The driver asked us for our tickets. He wasn’t really concerned with what the colors meant and advised us to do whatever we wanted. I’m not really sure how Thing 1 had any idea what to do here, but she and her friend set out immediately.  
 
-![](/assets/2010/pumpkin-patch-00018.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00018.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00017.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00017.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00016.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00016.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00015.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00015.jpg:img %}
 
 And Thing 2 followed. They discovered an odd pumpkin smiling back at them just before finding a perfect, round, solid, clean(ish), light pumpkin.  
 
-![](/assets/2010/pumpkin-patch-00014.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00014.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00013.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00013.jpg:img %}
 
 It was clearly Thing 2’s new favorite thing as you can see in her transition from *blah* to *mine*:  
 
-![](/assets/2010/pumpkin-patch-00012.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00012.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00011.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00011.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00010.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00010.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00009.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00009.jpg:img %}
 
 Fortunately, they did not leave us in the middle of nowhere and took us back to the entrance where we dropped off our stuff to the car and went back for some more play.  
 
-![](/assets/2010/pumpkin-patch-00008.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00008.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00007.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00007.jpg:img %}
 
 They had a little petting zoo with some goats, sheep, pigs, donkeys, and a cow.   
 
-![](/assets/2010/pumpkin-patch-00006.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00006.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00005.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00005.jpg:img %}
 
 Unfortunately, they were all afraid of Thing 2’s happy squealing so there was no petting. Also, there wasn’t a worker around and so I wasn’t very excited about losing an arm or getting kicked across the field or something. As a city dweller, that’s what I assume will happen without a trained professional reassuring me every four seconds that they won’t hurt us. Maybe it’s easier at a zoo, too, because the animals aren’t in line to be eaten. A tasty animal is an unpredictable animal, that’s what I always say.
 
 And of course we had to hit up the bean pit again before we left.  
 
-![](/assets/2010/pumpkin-patch-00004.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00004.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00003.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00003.jpg:img %}
 
-![](/assets/2010/pumpkin-patch-00002.jpg)
+{% imagesize /assets/2010/pumpkin-patch-00002.jpg:img %}
 
 I bribed Maya for that shot. Don’t judge me.
 

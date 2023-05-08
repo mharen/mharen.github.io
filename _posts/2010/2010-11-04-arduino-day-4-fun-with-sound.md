@@ -17,7 +17,7 @@ Anyway, after playing around with beeps, I wired up Mary Had a Little Lamb and p
 
 It seems that I am completely tone deaf. Not only did I have the scale in the wrong order (high vs. low), I had all kinds of wrong notes in there. Lucky for me, I’m married to a musical wonder who helped me out. She set me straight with a proper set of notes and then helped me read music from the Internet. At several points, she even corrected the music we found (and her corrections *always *sounded better). Incredible. 
 
-![](/assets/2010/privatepractice.jpg" | relative_url }} "I hate this show so much that I made this up-side-down")
+{% imagesize /assets/2010/privatepractice.jpg" | relative_url }} "I hate this show so much that I made this up-side-down":img %}
 
 Speaking of Incredible, did you guys see “The Incredibles”? That movie was awesome. You know what’s not awesome? “Private Practice”. It’s like they took the worst parts of Grey’s Anatomy, crapped it down a toilet, and after traveling down the coastal sewer system (gathering steam along the way), it emerged as the ridonkulous show we have today. The worst of it is that I can’t figure out why Grey’s still exists—it has no good parts left.
 

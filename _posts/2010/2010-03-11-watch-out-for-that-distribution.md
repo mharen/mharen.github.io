@@ -13,7 +13,7 @@ I received some pretty [serious alerts this morning](http://twitter.com/mharen/s
 
 That’s a tad higher than usual...just 100x bigger than it should be (yikes)! Allow me to illustrate how I imagine the last few months going for this gargantuan file:
 
-![](/assets/2010/db-growth-5.png)
+{% imagesize /assets/2010/db-growth-5.png:img %}
 
 The problem turned out to be that several of the replication SQL jobs were disabled (since...months ago). The pertinent job is probably this one, the distribution clean up job:
 

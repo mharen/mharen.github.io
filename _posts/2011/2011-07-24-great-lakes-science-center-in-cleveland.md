@@ -20,7 +20,7 @@ Getting ready (wife made amazing banana chocolate chip pancakes while I slept!):
 
 With full bellies, we made it to the Science Center after stopping to calm the troops just once.   
 
-![](/assets/2011/science-center-4.jpg)
+{% imagesize /assets/2011/science-center-4.jpg:img %}
 
 (Pro tip: take a decent cell phone pic of your kids when you get to a busy place. This way, if they get lost you have a handy picture of exactly what they look like and what they’re wearing. If it’s on a cell phone, you can share it quickly if needed, too. And, if you don’t need it, you at least have a couple cute pics.)  
 
@@ -34,7 +34,7 @@ Bernoulli’s Principle:
 
 They had a neat display on DNA sequencing, including a board asking people what they thought about it:
 
-![](/assets/2011/science-center-21.jpg)
+{% imagesize /assets/2011/science-center-21.jpg:img %}
 
 And this one that triggered a memory of a [hilarious comic](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html):
 
@@ -48,7 +48,7 @@ I bet her feelings are shared by many.
 
 Before we left that exhibit, Wife got a chance to school us in DNA building:  
 
-![](/assets/2011/science-center-16.jpg)
+{% imagesize /assets/2011/science-center-16.jpg:img %}
 
 Then we did something new: took a tour of the steamship [*William G. Mather*](http://www.glsc.org/mather_museum.php). Unfortunately, I have very few pictures of it. Suffice it to say, it’s utterly massive. Here’s a pic from [Wikipedia](http://en.wikipedia.org/wiki/Steamship_William_G._Mather_Maritime_Museum) that really doesn’t do it justice:
 
@@ -56,23 +56,23 @@ Then we did something new: took a tour of the steamship [*William G. Mather*](ht
 
 Thing1 tailing Thing2 in a flight simulator: “I’m on your six!”
 
-![](/assets/2011/science-center-14.jpg)
+{% imagesize /assets/2011/science-center-14.jpg:img %}
 
 “Uh oh!”
 
-![](/assets/2011/science-center-11.jpg)
+{% imagesize /assets/2011/science-center-11.jpg:img %}
 
 “I got this one, Goose.”
 
-![](/assets/2011/science-center-12.jpg)
+{% imagesize /assets/2011/science-center-12.jpg:img %}
 
 “Engage.”
 
-![](/assets/2011/science-center-13.jpg)
+{% imagesize /assets/2011/science-center-13.jpg:img %}
 
 And finally, the ball pit.
 
-![](/assets/2011/science-center-9.jpg)
+{% imagesize /assets/2011/science-center-9.jpg:img %}
 
 The pit has this cool bucket that the kids fill through various means. At any time, someone can pull a chain to dump it.
 

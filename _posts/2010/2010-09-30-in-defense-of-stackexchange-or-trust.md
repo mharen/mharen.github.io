@@ -19,7 +19,7 @@ First, he was bothered by the wiki nature of the site:
 
 The site makes no secret that it’s really just a giant wiki. It’s nothing new, either; it was founded with this as a core feature. Further, all new visitors see this when they first hit any page on the site:
 
-![](/assets/2010/so-faq.png)
+{% imagesize /assets/2010/so-faq.png:img %}
 
 It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you to give a quick look-see. And if you do, there’s a great—though a little long—explanation of how the site works, including this nice tidbit:
 
@@ -29,7 +29,7 @@ It’s a flashy, animated, cannot-be-missed banner that pretty much begs for you
 
 There’s also a slightly less obvious “about” link just under the yellow bar which offers this excellent graphic on the first screen:
 
-![](/assets/2010/so-venn.png)
+{% imagesize /assets/2010/so-venn.png:img %}
 
 Sure, I don’t expect people to read the directions. But, if you don’t read the directions, it’s not really fair to cry fowl about the others that did. And in any case, the edits he’s probably all in a tizzy about are [good, positive edits](http://meta.stackoverflow.com/posts/65452/revisions).
 

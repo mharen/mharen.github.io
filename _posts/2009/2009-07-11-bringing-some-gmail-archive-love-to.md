@@ -30,7 +30,7 @@ First, create a certificate so you can sign the macro we’re about to create. D
 
 Enter a name for the certificate and click *OK*:  
 
-![](/assets/2009/outlook-archive-00002.png)
+{% imagesize /assets/2009/outlook-archive-00002.png:img %}
 
 Next, open up Outlook and go to *Tools > Macro > Visual Basic Editor*:  
 

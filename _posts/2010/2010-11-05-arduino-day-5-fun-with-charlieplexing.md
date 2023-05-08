@@ -35,7 +35,7 @@ Here we go:
 
 This doesn’t well represent the circuit:
 
-![](/assets/2010/day_5_bb.png)
+{% imagesize /assets/2010/day_5_bb.png:img %}
 
 It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.
 
@@ -253,6 +253,6 @@ void Burn(int highPin, int lowPin){
 
 I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:
 
-![](/assets/2010/IMAG0704-day-5.jpg)
+{% imagesize /assets/2010/IMAG0704-day-5.jpg:img %}
 
 (The only way I can get her to look at the camera long enough for a snapshot is by asking her to stick out her tongue.)

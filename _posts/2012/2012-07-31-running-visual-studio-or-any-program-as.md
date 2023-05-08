@@ -14,7 +14,7 @@ As a developer, I often find myself doing things that only administrators can do
 
 For years, I have simply launched my Visual Studio instances from a “Run as Administrator”-decorated short cut on my task bar like this:
 
-![](/assets/2012/SNAG-0051.png)
+{% imagesize /assets/2012/SNAG-0051.png:img %}
 
 **Keep reading—there’s a better way than this for frequently used programs!**
 
@@ -34,7 +34,7 @@ Then I removed the “Run as Administrator” changes I made years back and thin
 
 Careful users will note that this fix will probably break if the program is changed since many of the executable’s attributes are used to identify the program for fixing:
 
-![](/assets/2012/SNAG-0052.png)
+{% imagesize /assets/2012/SNAG-0052.png:img %}
 
 You can customize those when you create the fix, but I’m sticking with the defaults, which seem very narrow. I prefer to update the rule if the executable changes than have a new executable automatically receive the special treatment available through the compatibility fix.
 

@@ -13,7 +13,7 @@ If you know me, you know that I can’t stop yammering about my kids. I won’t 
 
 This occurs to me regularly. For instance, on Saturday I had the intimidating task of entertaining the kids by myself for the evening (Wife was busy). We had a great time. We didn’t do anything fancy—just wandered around the toys and Christmas decorations at Target and Lowes—but everyone was laughing and smiling and having fun.  
 
-![](/assets/2012/2012-11-17_19.12.06.jpg)
+{% imagesize /assets/2012/2012-11-17_19.12.06.jpg:img %}
 
 It helped that I remembered to feed them.
 
@@ -25,23 +25,23 @@ It’s not always so easy (we’re all cranky once in a while) but we’re havin
 
 They start creating fun for themselves.
 
-![](/assets/2012/2012-11-15_07.41.33.jpg)
+{% imagesize /assets/2012/2012-11-15_07.41.33.jpg:img %}
 
 And doing their own things.
 
-![](/assets/2012/2012-11-15_19.22.10.jpg)
+{% imagesize /assets/2012/2012-11-15_19.22.10.jpg:img %}
 
 And sometimes they even like each other. Especially when they’re cold.
 
-![](/assets/2012/2012-11-09_21.18.39.jpg)
+{% imagesize /assets/2012/2012-11-09_21.18.39.jpg:img %}
 
 And when we’re really, really lucky they wake up so happy that you can’t help but wake up happy, too.
 
-![](/assets/2012/2012-11-06_09.35.43.jpg)
+{% imagesize /assets/2012/2012-11-06_09.35.43.jpg:img %}
 
 Happy Thanksgiving from the Harens!
 
-![](/assets/2012/2012-11-07_22.23.00.jpg)
+{% imagesize /assets/2012/2012-11-07_22.23.00.jpg:img %}
 
 ---
 

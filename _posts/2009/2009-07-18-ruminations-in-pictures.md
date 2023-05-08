@@ -12,7 +12,7 @@ I’ve been snapping pictures on my phone a lot lately. Here’s what I’ve cap
 
 Here’s a food pyramid recently posted at my office. It must be one of them new fangled row house pyramids.
 
-![](/assets/2009/2009-07-18-00001.jpg)
+{% imagesize /assets/2009/2009-07-18-00001.jpg:img %}
 
 I’m a bigger fan of the [Natalie Dee](http://nataliedee.com/) variety:  
 
@@ -33,17 +33,17 @@ Don’t let the adorable smiling pig fool you, that’s swine powder in a box. I
 
 Or so I thought until Sarah asked how they get “artificial ham flavor”. Good question. I asked Maya and this was her expression:
 
-![](/assets/2009/2009-07-18-00006.jpg)
+{% imagesize /assets/2009/2009-07-18-00006.jpg:img %}
 
 (I might have asked her to make a “yucky face”, too.)
 
 On another note, you know what a Ford Taurus is, right? Something like these, right?:  
 
-![](/assets/2009/2009-07-18-00007.png)
-![](/assets/2009/2009-07-18-00008.png)
-![](/assets/2009/2009-07-18-00009.png)
-![](/assets/2009/2009-07-18-00010.png)
-![](/assets/2009/2009-07-18-00011.png)
+{% imagesize /assets/2009/2009-07-18-00007.png:img %}
+{% imagesize /assets/2009/2009-07-18-00008.png:img %}
+{% imagesize /assets/2009/2009-07-18-00009.png:img %}
+{% imagesize /assets/2009/2009-07-18-00010.png:img %}
+{% imagesize /assets/2009/2009-07-18-00011.png:img %}
 
 (stock photos)
 
@@ -53,7 +53,7 @@ Then what the hell is this?:
 
 (actual photo from nearby—this crazy thing exists!)  
 
-![](/assets/2009/2009-07-18-00013.png)
+{% imagesize /assets/2009/2009-07-18-00013.png:img %}
 
 (stock photo)
 
@@ -66,11 +66,11 @@ Back to food. A few weeks before Charlotte was born we spent a day cooking and f
 
 Anything that was liquidy was put in gallon bags and laid flat to freeze (soup, sauce, chili, etc.). That bag of sauce is about an inch thick. This has three awesome benefits: each bag is portioned with just 2-4 servings, they stack nicely in the freezer and they thaw in five minutes (I timed it, because I’m a nerd and can’t help it):
 
-![](/assets/2009/2009-07-18-00016.jpg)
+{% imagesize /assets/2009/2009-07-18-00016.jpg:img %}
 
 Back to gross stuff: we performed some capacity experiments with Maya’s diapers a little while back (normally she wears cloth but we were using disposables for some reason at the time). The setup was pretty simple: how much water can a diaper hold? I guessed two cups.
 
-![](/assets/2009/2009-07-18-00017.jpg)
+{% imagesize /assets/2009/2009-07-18-00017.jpg:img %}
 
 We used the scale to keep track as we added water (two cups is about 1 pound):
 

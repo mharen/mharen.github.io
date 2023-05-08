@@ -15,7 +15,7 @@ The implication is that since the moment Obama took office, gas prices have gone
 
 Wait wait wait...why the steep decline at the end of 2008? Let’s uncrop a bit (I downloaded some public data from an energy gov site, dropped it into Excel, and annotated it with SnagIt):
 
-![](/assets/2011/fuel_prices.png)
+{% imagesize /assets/2011/fuel_prices.png:img %}
 
 That’s a pretty different picture, isn’t it? 
 

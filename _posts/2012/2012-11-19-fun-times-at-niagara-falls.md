@@ -16,9 +16,9 @@ Good times. Anyway, we happened to find ourselves in Canada again last month. I 
 
 But now we have a gaggle of children...so it’s even better :)
 
-![](/assets/2012/2012-10-26_15.37.28.jpg)
+{% imagesize /assets/2012/2012-10-26_15.37.28.jpg:img %}
 
-![](/assets/2012/2012-10-26_15.37.43.jpg)
+{% imagesize /assets/2012/2012-10-26_15.37.43.jpg:img %}
 
 They loved it!
 
@@ -26,7 +26,7 @@ They loved it!
 
 That’s the iPhone’s native panorama. Here’s the same shot with the 360 app:
 
-![](/assets/2012/2012-10-26_15.57.16.jpg)
+{% imagesize /assets/2012/2012-10-26_15.57.16.jpg:img %}
 
 It’s fun reliving these experiences with them.
 
@@ -34,15 +34,15 @@ It’s fun reliving these experiences with them.
 
 Except for the driving, they’re fun travel companions, too.  
 
-![](/assets/2012/2012-10-24_19.18.09.jpg)
+{% imagesize /assets/2012/2012-10-24_19.18.09.jpg:img %}
 
 Thank God for this woman. Whenever you see my kids behaving or being cute, it’s because of her.
 
-![](/assets/2012/2012-10-27_08.27.27.jpg)
+{% imagesize /assets/2012/2012-10-27_08.27.27.jpg:img %}
 
 I don’t remember what exactly was going on here...but they’re all in one place so I probably thought that was significant enough to document it with a photo.  
 
-![](/assets/2012/2012-10-27_08.26.26.jpg)
+{% imagesize /assets/2012/2012-10-27_08.26.26.jpg:img %}
 
 Happy Thanksgiving!
 

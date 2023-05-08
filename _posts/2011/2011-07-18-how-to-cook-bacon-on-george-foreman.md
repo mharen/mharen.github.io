@@ -8,11 +8,11 @@ title: How to Cook Bacon on a George Foreman Grill
 
 Place strips of bacon on hot grill:
 
-![](/assets/2011/IMG_20110131_194415.jpg)
+{% imagesize /assets/2011/IMG_20110131_194415.jpg:img %}
 
 Burn grill marks into bacon, without cooking evenly.
 
-![](/assets/2011/IMG_20110131_194319.jpg)
+{% imagesize /assets/2011/IMG_20110131_194319.jpg:img %}
 
 Eat bacon anyway.
 

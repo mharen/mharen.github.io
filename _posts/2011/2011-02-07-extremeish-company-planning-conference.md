@@ -13,11 +13,11 @@ Once you arrive, you still have pretty much no idea what’s happening until it 
 
 I was invited to participate in part of this Winter’s planning conference, a rare honor extended to seven others. It is common to have non-management employees such as myself crash these events at the President’s request and I was happy to oblige.  
 
-![](/assets/2011/retreat-image-22.jpg)
+{% imagesize /assets/2011/retreat-image-22.jpg:img %}
 
-![](/assets/2011/retreat-IMG_20110204_101102.jpg)
+{% imagesize /assets/2011/retreat-IMG_20110204_101102.jpg:img %}
 
-![](/assets/2011/retreat-IMG_20110204_095505.jpg)
+{% imagesize /assets/2011/retreat-IMG_20110204_095505.jpg:img %}
 
 I arrived at a lodge Friday morning after a 2.5 hour drive to the Allegheny National Forest in Pennsylvania. This place wasn’t in the middle of nowhere, but it was pretty remote with narrow, winding, hills and no cell service. I met up with my group of crashers and landed in the conference room with approximately 20 managers. We observed an all-business presentation that was wrapping up before arriving at our primary agenda item “**Safety on the Mountain; Battle Briefing**”, presented by the President.
 
@@ -33,15 +33,15 @@ At first blush this was an intimidating list, and at second blush very expensive
 
 Back to the battle briefing. The President laid out the rules for an afternoon game of capture the flag. This was modified for the environment and took place in about six square miles of hilly, dense forest crisscrossed with dozens of trails:  
 
-![](/assets/2011/retreat-image-21.png)
+{% imagesize /assets/2011/retreat-image-21.png:img %}
 
 I marked my team’s path with question marks because I was never *really sure *where we were. Our initial quest was uneventful; we didn’t make contact with another human for nearly two hours.
 
 I’ll spare you the details and give you just the gist of the adventure. We hiked for about four hours playing the game. Some of us were captured in “POW camps” while others enjoyed well-supplied base camps:  
 
-![](/assets/2011/retreat-IMG_0197.jpg)
+{% imagesize /assets/2011/retreat-IMG_0197.jpg:img %}
 
-![](/assets/2011/retreat-IMG_0211-2.jpg)
+{% imagesize /assets/2011/retreat-IMG_0211-2.jpg:img %}
 
 We only got off track a couple of times and easily corrected by following our footprints backwards until we found the trail again. It only occurred to me just now that our footprints through the snow added a great deal of safety to an otherwise dangerous climate.
 
@@ -55,15 +55,15 @@ I learned a few survival lessons:
 * Snow shoes really work, even if it doesn’t *look *like it
 * Two-way radios don’t work worth a damn outside of line-of-sight. This technology hasn’t improved much since I had a pair 15 years ago.    <li>Don’t delay when the President offers you a ride or you’ll have a lot of walking in your future
 
-![](/assets/2011/retreat-IMG_20110204_094731.jpg)
+{% imagesize /assets/2011/retreat-IMG_20110204_094731.jpg:img %}
 
-![](/assets/2011/retreat-IMG_20110204_094705.jpg)
+{% imagesize /assets/2011/retreat-IMG_20110204_094705.jpg:img %}
 
-![](/assets/2011/retreat-IMG_0187.jpg)
+{% imagesize /assets/2011/retreat-IMG_0187.jpg:img %}
 
-![](/assets/2011/retreat-IMG_0188.jpg)
+{% imagesize /assets/2011/retreat-IMG_0188.jpg:img %}
 
-![](/assets/2011/retreat-IMG_0199.jpg)
+{% imagesize /assets/2011/retreat-IMG_0199.jpg:img %}
 
 I was struck by the beauty of the scenery. It was a neat place with...a lot of trees. And snow. When the kids are a bit older, I can definitely see a trip out here as a nice way to unplug.
 

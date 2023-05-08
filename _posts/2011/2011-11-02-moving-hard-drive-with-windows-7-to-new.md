@@ -36,12 +36,12 @@ I’m happy to report that I’m typing this post on my awesomely fast new lapto
 
 On a related note, I don’t understand why hardly anyone shares their WEI numbers. Here are my before/after numbers (Dell Latitude D520 vs. E6520) in case anyone is curious:
 
-![](/assets/2011/d520_wei.png)
+{% imagesize /assets/2011/d520_wei.png:img %}
 
-![](/assets/2011/e6520_wei.png)
+{% imagesize /assets/2011/e6520_wei.png:img %}
 
 And side-by-side:
 
-![](/assets/2011/side-by-side.png)
+{% imagesize /assets/2011/side-by-side.png:img %}
 
 I’ll be getting a memory upgrade in a week or so (on order) but I don’t expect that to have much affect on these numbers. I will, however, finally reap some x64 benefits...

@@ -27,7 +27,7 @@ Some of my apps are incompatible with either W7 or X64 but Microsoft has me cove
 
 And then when you launch the app, it looks like a normal XP program (overtop a regular Windows 7 program for comparison):
 
-![](/assets/2009/windows-4.png)
+{% imagesize /assets/2009/windows-4.png:img %}
 
 It’s a little slow and perhaps overkill for some small incompatibilities but it is extremely effective and was a major selling point for me.
 

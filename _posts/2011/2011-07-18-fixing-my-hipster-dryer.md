@@ -19,17 +19,17 @@ Next pop the back open.
 
 No! Unplug it first!
 
-![](/assets/2011/IMG_20110709_160741.jpg)
+{% imagesize /assets/2011/IMG_20110709_160741.jpg:img %}
 
 I was pretty sure the plug was fine but I tested it with my multimeter just in case. ~220v check!
 
 Now pop it open already!
 
-![](/assets/2011/IMG_20110709_160758.jpg)
+{% imagesize /assets/2011/IMG_20110709_160758.jpg:img %}
 
 OK... hey, what’s that? A burned up wire?
 
-![](/assets/2011/IMG_20110709_160840.jpg)
+{% imagesize /assets/2011/IMG_20110709_160840.jpg:img %}
 
 Now’s a good time to say, “now there’s your problem.” Why’d it burn up? Who knows. Condensation, chassis short, something or other, I don’t know. Normally these wires have little clips on them that let you easily attach them to other components (don’t you love how I say “normally” like I knew that before I started this project?). Unfortunately I don’t have any of those and the one that was attached here is not really up for the job. YOU’RE FIRED WIRE CLIP GUY!
 

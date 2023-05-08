@@ -20,7 +20,7 @@ The gist of the project was to refurbish a piece of furniture into a children’
 
 We found what we needed:
 
-![](/assets/2012/2012-08-04_14.10.58.jpg)
+{% imagesize /assets/2012/2012-08-04_14.10.58.jpg:img %}
 
 The girls helped me scuff of the surface for priming and painting:  
 
@@ -28,7 +28,7 @@ The girls helped me scuff of the surface for priming and painting:
 
 Then we wiped it down and repaired a broken drawer:
 
-![](/assets/2012/2012-08-04_14.46.20.jpg)
+{% imagesize /assets/2012/2012-08-04_14.46.20.jpg:img %}
 
 I primed it with Kilz 2 Latex primer and then applied a single coat of a greyish paint we found in the basement.
 
@@ -36,17 +36,17 @@ I cut a section of pegboard for the back from a 2’x4’ section I bought at Lo
 
 After painting, the girls helped me attach the draw slides and peg board (tip: tapping the screws with a drill first, then letting the kids help with a manual driver makes for good fun)
 
-![](/assets/2012/2012-08-16_20.55.10.jpg)
+{% imagesize /assets/2012/2012-08-16_20.55.10.jpg:img %}
 
 And it’s finished! I dug up some old pegboard hooks which fit the toolset Wife bought pretty well:
 
-![](/assets/2012/IMG_3459.jpg)
+{% imagesize /assets/2012/IMG_3459.jpg:img %}
 
 Thing1 inspecting our work:
 
-![](/assets/2012/IMG_3458-1.jpg)
+{% imagesize /assets/2012/IMG_3458-1.jpg:img %}
 
-![](/assets/2012/2012-08-16_22.16.49.jpg)
+{% imagesize /assets/2012/2012-08-16_22.16.49.jpg:img %}
 
 Happy Birthday, Thing 3
 

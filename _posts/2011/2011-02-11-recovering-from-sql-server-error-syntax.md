@@ -9,7 +9,7 @@ title: "Recovering from SQL Server Error: \u201CSyntax Error in TextHeader\u201D
 
 After years of working with SQL Server, I thought I’d seen it all. Here’s a humbling reminder that I haven’t:
 
-![](/assets/2011/sql-error-text-header.png)
+{% imagesize /assets/2011/sql-error-text-header.png:img %}
 
 This occurred when I tried to script out a stored procedure so I could change it. Not a good sign. Fortunately I can fallback to good old `sp_helptext` to recover the procedure:
    

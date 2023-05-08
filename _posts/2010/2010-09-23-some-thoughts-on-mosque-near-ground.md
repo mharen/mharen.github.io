@@ -29,7 +29,7 @@ But they’re not! Timothy McVeigh killed 168 people in the Oklahoma City bombin
 
 Here’s a good rule of thumb that covers the [top world religions](http://www.adherents.com/Religions_By_Adherents.html): if a group distorts their religion to the point of terrorism, that group is no longer operating within, or on behalf of their religion. It’s probably worth pointing out, too, that Islam is the world’s [number two religion](http://en.wikipedia.org/wiki/Major_religious_groups#Largest_religions_or_belief_systems_by_number_of_adherents), covering more than a billion and a half people. That’s a billion with a “b”. That’s 10 freaking digits. Like 1,570,000,000 people are totally into Islam. Here’s a [nice info graphic](http://technipol.tumblr.com/post/1009682375/ok-remember-that-chart-from-a-couple-hours-ago) that illustrates this pretty well:
 
-![](/assets/2010/tumblr_l7py0hxcyx1qblt18o1_r1_500.jpg)
+{% imagesize /assets/2010/tumblr_l7py0hxcyx1qblt18o1_r1_500.jpg:img %}
 
 I’ve really been struggling to understand the outrage on this so I did some digging and found [this interesting analogy](http://www.redstate.com/jazzycmk/2010/08/28/an-exceptional-ground-zero-mosque-analogy/):
 
