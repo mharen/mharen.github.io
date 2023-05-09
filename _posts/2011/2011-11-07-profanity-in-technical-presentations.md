@@ -19,7 +19,7 @@ And it was answered:
 
 Crap, indeed. Then, this happened:
 
-{% imagesize /assets/2011/scott.png:img alt='a reply from Schott Hanselman @ 12:08 AM that reads "Topic: Profanity in Tech Presentations and Business", a reply from Michael Haren to Scott @ 12:17 AM that reads "Unfortunately. I've locked as myself into "Ponies", but Ill think about your topic, too. It's a bit difficult to follow the master, but I'lI take it somewhere :). Thanks!", and a reply from Scott to Michael @ 12:20 AM that reads "Ponies that cuss. GO."' %}
+{% imagesize /assets/2011/scott.png:img alt="a reply from Schott Hanselman @ 12:08 AM that reads 'Topic: Profanity in Tech Presentations and Business', a reply from Michael Haren to Scott @ 12:17 AM that reads 'Unfortunately. I've locked as myself into 'Ponies', but Ill think about your topic, too. It's a bit difficult to follow the master, but I'lI take it somewhere :). Thanks!', and a reply from Scott to Michael @ 12:20 AM that reads 'Ponies that cuss. GO.'" %}
 
 Who am I to deny one of my personal tech heroes, [Scott Hanselman](http://www.hanselman.com/blog/)?
 
