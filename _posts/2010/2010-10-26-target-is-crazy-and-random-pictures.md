@@ -121,3 +121,5 @@ The winks are very important.
 
 wow...the rose on the bed pic made me laugh out loud, as did Sarah's comment...nice one.
 
+Comments closed
+{: .comments-closed }

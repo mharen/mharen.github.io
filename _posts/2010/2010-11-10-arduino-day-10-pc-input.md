@@ -143,3 +143,6 @@ thanks
 Dyota,
 
 I don't remember off hand, but it looks like I did go to the trouble to apply color codes to the images so you ought to be able to look them up from there.
+
+Comments closed
+{: .comments-closed }

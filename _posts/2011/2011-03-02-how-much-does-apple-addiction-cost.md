@@ -45,4 +45,7 @@ In summary, an Apple addiction costs a surprisingly little $89-198 per month. Ma
 
 I'm budgeting for just one mac every two years. That could be clearer, sorry
 
+Comments closed
+{: .comments-closed }
+
 ---

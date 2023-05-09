@@ -147,3 +147,6 @@ Now I wait for a list of changes from the Mrs. and start thinking about some mor
 **Sarah said on 2010-10-16**
 
 Thanks, honey :)  I am already planning the winter theme in my head :D
+
+Comments closed
+{: .comments-closed }

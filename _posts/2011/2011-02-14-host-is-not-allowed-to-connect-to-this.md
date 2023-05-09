@@ -106,3 +106,5 @@ Keep these kind of posts coming
 
 - sanjiv singh
 
+Comments closed
+{: .comments-closed }

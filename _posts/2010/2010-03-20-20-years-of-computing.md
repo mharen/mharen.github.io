@@ -59,3 +59,5 @@ Thanks to the Internet, I’ll end up back on some future incarnation of this pa
 
 I *just* saw this: http://www.google.com/publicdata/directory. Very cool
 
+Comments closed
+{: .comments-closed }

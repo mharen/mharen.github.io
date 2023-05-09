@@ -45,3 +45,5 @@ My favorite post ever (maybe tied with Thing3's birth story :))
 
 Thank you! I love you <3
 
+Comments closed
+{: .comments-closed }

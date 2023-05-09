@@ -51,3 +51,5 @@ Happy Thanksgiving from the Harens!
 
 Love this! We really did get pretty lucky with our awesome kids :)
 
+Comments closed
+{: .comments-closed }

@@ -27,3 +27,5 @@ Actually, it rains pretty much all of spring. Damn.
 
 This is why I love Athens. Spring is a full 2-3 weeks earlier than northern Ohio, and blends very nicely into summer, which is long and awesome. Winter is a pain with all the hills, though.
 
+Comments closed
+{: .comments-closed }

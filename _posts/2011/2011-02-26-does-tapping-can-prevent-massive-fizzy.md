@@ -25,3 +25,6 @@ It fizzed slower. I think your sample space is much too small. Mythbusters would
 **Michael Haren said on 2011-02-26**
 
 Unlike mythbusters, my budget is dictated solely by my thirst.
+
+Comments closed
+{: .comments-closed }

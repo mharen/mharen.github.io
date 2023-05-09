@@ -47,3 +47,5 @@ So only just now do I realize that you set this up without a computer.  Good wor
 
 I'm pretty sure I used about half of a ream of paper tonight ~ because I <3 the earth.
 
+Comments closed
+{: .comments-closed }

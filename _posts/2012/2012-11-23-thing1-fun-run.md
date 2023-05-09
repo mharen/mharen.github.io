@@ -32,3 +32,6 @@ Congrats, Peanut!
 **picturingtheordinary said on 2012-11-23**
 
 Very cute!  She looks so grown up!
+
+Comments closed
+{: .comments-closed }

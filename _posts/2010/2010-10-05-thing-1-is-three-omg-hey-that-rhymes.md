@@ -37,3 +37,5 @@ I love you, Peanut.
 
 Beautiful.  :*)
 
+Comments closed
+{: .comments-closed }

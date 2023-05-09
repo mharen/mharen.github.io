@@ -119,3 +119,5 @@ Hi, you don't want to provide your gadget? I use Hudson and will be helpfull ...
 
 nice post
 
+Comments closed
+{: .comments-closed }

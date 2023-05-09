@@ -99,3 +99,6 @@ Best regards,
 **Kaziu said on 2015-01-28**
 
 It seems to be fixed now, doesn't it? I didn't put the spaces and it works fine.
+
+Comments closed
+{: .comments-closed }

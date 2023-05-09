@@ -38,4 +38,7 @@ On a barely related note, check out this [ad-vs-actual](http://www.mopo.ca/2007/
 
 That was awesome.  The whole thing.  Good thing my 9-months pregnant self peed before reading that, cause, well, I don't think I have to say it...
 
+Comments closed
+{: .comments-closed }
+
 ***

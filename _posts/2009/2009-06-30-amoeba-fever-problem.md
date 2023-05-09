@@ -50,3 +50,5 @@ Well, i didn't exactly promise. But I guess that puts more pressure on me. Time 
 
 You're committed.
 
+Comments closed
+{: .comments-closed }

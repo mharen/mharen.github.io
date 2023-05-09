@@ -25,3 +25,5 @@ With this in place, the image on the left turns into the image on the right (sim
 
 Cool post, honey :)  Sorry about my super photography knowledge stealing your thunder.  You probably now know how I feel about every other thing in the world that is not directly related to babies, music or photography (and some things that are).
 
+Comments closed
+{: .comments-closed }

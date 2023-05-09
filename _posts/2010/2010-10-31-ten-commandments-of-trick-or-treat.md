@@ -28,3 +28,6 @@ title: Ten Commandments of Trick or Treat
 **Michael said on 2023-04-29**
 
 Update: I no longer support with most of these.
+
+Comments closed
+{: .comments-closed }

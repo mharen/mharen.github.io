@@ -42,3 +42,6 @@ This is from a warmer day a week or so earlier, during the nice part of Fall.
 **Sarah said on 2012-11-01**
 
 Awesome post :) I love all the pictures!
+
+Comments closed
+{: .comments-closed }

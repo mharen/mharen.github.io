@@ -92,3 +92,6 @@ But tell me the point of all these shenanigans is that you are logging in from h
 @jb : that's not my situation here, though it might as well be. My situation is that I work as a contractor for many different  companies and each one had their own progress for connecting to their network. 
 
 The processes I posted is better than requiring a dedicated machine, or going to site, but could certainly be improved.
+
+Comments closed
+{: .comments-closed }

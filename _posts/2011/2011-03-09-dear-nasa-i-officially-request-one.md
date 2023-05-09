@@ -40,3 +40,5 @@ Michael Haren
 
 Awesome and hilarious.  Good work, babe :)  I think you have a real shot!
 
+Comments closed
+{: .comments-closed }

@@ -54,3 +54,5 @@ Happy Thanksgiving!
 
 :)  Thank you for letting us tag along on your trip!
 
+Comments closed
+{: .comments-closed }

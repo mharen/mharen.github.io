@@ -107,3 +107,6 @@ Thanks, Man!
 **Unknown said on 2015-07-22**
 
 Saved my day, thanks!!
+
+Comments closed
+{: .comments-closed }

@@ -42,3 +42,6 @@ I am glad I am not the only one who can't stop watching the show even though I k
 **picturingtheordinary said on 2010-12-14**
 
 So funny and so true, but for some reason I keep watching it...what's WRONG with me! :)
+
+Comments closed
+{: .comments-closed }

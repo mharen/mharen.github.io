@@ -43,3 +43,5 @@ If you’ve been avoiding these things, I suggest you take another look. Here’
 
 Does your meter have the ability to show the power factor?
 
+Comments closed
+{: .comments-closed }

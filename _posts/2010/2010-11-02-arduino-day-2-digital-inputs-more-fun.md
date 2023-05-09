@@ -153,3 +153,5 @@ see the video please: http://www.youtube.com/watch?v=XL0XsPI8iOg
 
 its a twelve lights metronom like a clock. When the led 12 blinks I want a tone of the arduino's library for example. Each led have his respective note. Do you have an idea how can I make it? Like when the led12 is on tone y on
 
+Comments closed
+{: .comments-closed }

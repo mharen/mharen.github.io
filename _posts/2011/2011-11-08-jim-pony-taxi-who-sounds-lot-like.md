@@ -62,3 +62,5 @@ Please tell me you read this to your kids as a bedtime story.
 
 Awesome. May I subtly share this with prospective clients?
 
+Comments closed
+{: .comments-closed }

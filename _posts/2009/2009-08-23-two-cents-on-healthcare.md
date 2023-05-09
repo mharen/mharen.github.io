@@ -21,3 +21,5 @@ Feel free to post comment with questions, clarifications, etc. but please keep i
 
 Quick note: yes I realize the WHO data are from 2000. The other data on that page are more current and equally disappointing.
 
+Comments closed
+{: .comments-closed }

@@ -55,3 +55,6 @@ Like most campaigns, we avoided the issues, made fools of each other, and set th
 **stiff said on 2011-11-01**
 
 Glad I could help!
+
+Comments closed
+{: .comments-closed }

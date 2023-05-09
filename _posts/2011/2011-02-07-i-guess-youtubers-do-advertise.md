@@ -29,3 +29,6 @@ I think Marcel’s expression is appropriate.
 **Sarah said on 2011-02-07**
 
 I would post a good comment but Charlotte is climbing in my lap yelling "BABIES!" and "no no no!" so I think I need to change my window.
+
+Comments closed
+{: .comments-closed }

@@ -88,3 +88,5 @@ What topics have you covered in some of your presentations? I would like to see 
 
 At Buckeye Interactive, we have been giving presentations on web development, analytics, social media, online advertising, etc. It has been a great experiment, and we have landed a few projects because of it. I also have found, as you mentioned, that we are looked to as an expert on most of the topics because of our presentations and workshops.
 
+Comments closed
+{: .comments-closed }

@@ -36,3 +36,5 @@ I <3 our Christmas lights.  You are, in a word, awesome.
 
 Love the pics, especially the black and white one. You should put that as a backdrop to your family Christmas pics. :)
 
+Comments closed
+{: .comments-closed }

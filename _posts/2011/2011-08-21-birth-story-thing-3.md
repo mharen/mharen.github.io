@@ -179,4 +179,7 @@ This was amazing, Michael.  Thank you for sharing.  I laughed, I cried, I relate
 
 Thanks for sharing.  Congrats to you all. :)
 
+Comments closed
+{: .comments-closed }
+
 ---

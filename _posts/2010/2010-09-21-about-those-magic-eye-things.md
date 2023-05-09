@@ -39,3 +39,5 @@ I think this chart could be renamed Michael Haren is....
 
 :)  I enjoy reading your blog, thanks for the great content!
 
+Comments closed
+{: .comments-closed }

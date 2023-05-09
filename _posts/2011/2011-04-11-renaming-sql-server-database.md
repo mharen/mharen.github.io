@@ -46,3 +46,5 @@ If an old name looks like:
 
 `C:\USERS\MBLOME\..\DATA\NORTHWND.MDF` (which is the fact with MS) then don't forget to surround the name with brackets `[C:\USERS\MBLOME\..\DATA\NORTHWND.MDF]`
 
+Comments closed
+{: .comments-closed }

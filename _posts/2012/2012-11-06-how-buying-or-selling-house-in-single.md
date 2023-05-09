@@ -101,3 +101,5 @@ This would be amazing.  Your million dollar idea?
 
 Most people know that you should always get a home inspection before buying a home but the Latin phrase “Caveat Emptor” is the reason why. This means “Buyer Beware” and is the legal principle in Ohio that when you buy a home, you are responsible to educate yourself on the home’s condition.
 
+Comments closed
+{: .comments-closed }

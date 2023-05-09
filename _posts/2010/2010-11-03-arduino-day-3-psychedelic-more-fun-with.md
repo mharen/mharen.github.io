@@ -109,3 +109,6 @@ That's helpful, thanks. I guess I was right (rare!)
 **Math Zombie said on 2010-11-04**
 
 I hate candy land. It is so frustrating. It's like chutes and ladders. You have no control over anything and then you get the gumdrop or peanut or whatever and have to go back to the beginning. I used to stack the deck at the day care to make kids finish quickly. It is good to get them to practice counting and colors though.
+
+Comments closed
+{: .comments-closed }

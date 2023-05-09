@@ -177,3 +177,5 @@ Probably heading to Radio Shack later today if I can find one that's still open 
 
 Thank you for your comment @Laura. It has inspired me to see to try and work in a rant each day. Today (day 2) is no exception.
 
+Comments closed
+{: .comments-closed }

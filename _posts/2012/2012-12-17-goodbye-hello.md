@@ -47,3 +47,6 @@ Thank you to everyone who helped me work through this difficult decision!
 **Jeff said on 2012-12-18**
 
 Good luck Michael! I still miss RoviSys a lot (especially the awesome people), but you hit the nail on the head in regards to product vs project work. I experienced a pretty exciting shift when I made the change and the growth in my skills and enthusiasm for development has been incredible.
+
+Comments closed
+{: .comments-closed }

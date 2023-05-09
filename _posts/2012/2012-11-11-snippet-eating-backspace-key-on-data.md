@@ -94,3 +94,6 @@ I used pretty much the same code grocked from stackoverflow, and it doesn't work
 It may not be fool proof, sure. If you can repro the issues you're having, though, I'd be happy to help.
 
 A jsfiddle link would be ideal.
+
+Comments closed
+{: .comments-closed }

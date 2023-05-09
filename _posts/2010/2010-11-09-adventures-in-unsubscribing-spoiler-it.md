@@ -81,3 +81,5 @@ Seems pretty clear that this is not unintentional on their part...if you can't u
 
 @Sarah that's possible, but then: "Never attribute to malice that which is adequately explained by stupidity." -Hanlon's Razor
 
+Comments closed
+{: .comments-closed }

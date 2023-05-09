@@ -72,3 +72,5 @@ Thanks for the help. This was exactly my issue!
 
 but how you modify or correct it ?
 
+Comments closed
+{: .comments-closed }

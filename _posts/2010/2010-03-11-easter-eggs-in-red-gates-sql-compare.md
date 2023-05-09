@@ -38,3 +38,5 @@ Anonymous said...
 
 Why would I want that? I love Redgate and they deserve to be paid for their software.
 
+Comments closed
+{: .comments-closed }

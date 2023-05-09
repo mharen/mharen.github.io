@@ -61,3 +61,5 @@ This post was not as boring as you led me to believe :)  Or maybe all your compu
 
 Oh, and I think you should add that you are not an Apple Fanboy (what with your Windows laptop and Android phone).  I know you've said it before, but I think it deserves repeating :D
 
+Comments closed
+{: .comments-closed }

@@ -28,3 +28,6 @@ BTW: I’m posting this [from a friggin airplane](http://twitter.com/mharen/stat
 **Sarah said on 2010-03-21**
 
 Woooooo Hoooooo!
+
+Comments closed
+{: .comments-closed }

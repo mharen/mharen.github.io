@@ -49,3 +49,5 @@ If I’m allowed two points in one post, **my second point is this**: the passio
 
 Very good post, honey :)  And that trampy flight attendant better not try anything.  I'm just sayin.
 
+Comments closed
+{: .comments-closed }

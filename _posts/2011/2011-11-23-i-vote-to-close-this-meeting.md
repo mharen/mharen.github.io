@@ -65,3 +65,5 @@ On the topic of meetings, this book from the Domino Project is pretty great:
 
 [**Read This Before Our Next Meeting**](http://www.amazon.com/gp/product/B0057ZER34/ref=docs-os-doi_0") by Al Pittampalli
 
+Comments closed
+{: .comments-closed }

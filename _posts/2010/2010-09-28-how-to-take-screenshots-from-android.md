@@ -40,3 +40,5 @@ To-Date I've experienced the following advantages to a rooted phone:
 
 That's a relatively boring list, but I'm sure there are other uses out there.
 
+Comments closed
+{: .comments-closed }

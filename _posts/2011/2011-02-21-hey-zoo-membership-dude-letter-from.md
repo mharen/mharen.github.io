@@ -56,4 +56,7 @@ Your forever fan,
 
 Sarah
 
+Comments closed
+{: .comments-closed }
+
 ---

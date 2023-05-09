@@ -33,3 +33,5 @@ You know what, Quicken Loans Arena (and pretty much any place that sells tickets
 
 Very funny!
 
+Comments closed
+{: .comments-closed }

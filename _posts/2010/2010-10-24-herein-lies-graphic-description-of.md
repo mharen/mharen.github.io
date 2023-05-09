@@ -37,3 +37,6 @@ That’s really just a long way to say that we need a new Chinese Food place in 
 **picturingtheordinary said on 2010-10-25**
 
 Okay that was pretty funny...I'm glad Sarah discovered after researching food poisoning that you weren't going to die.
+
+Comments closed
+{: .comments-closed }

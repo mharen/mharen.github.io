@@ -103,3 +103,5 @@ Scanner radio is nice if you like to listen to police, fire scanners, etc.
 
 Urbanspoon is kind of fun as well for picking a restaurant.
 
+Comments closed
+{: .comments-closed }

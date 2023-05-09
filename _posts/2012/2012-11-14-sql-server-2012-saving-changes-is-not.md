@@ -78,5 +78,5 @@ thank thank thank a lot
 
 very nice, thanks
 
-
-
+Comments closed
+{: .comments-closed }

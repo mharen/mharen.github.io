@@ -70,3 +70,6 @@ And of course, my super sweet and very missed family:
 **Sarah said on 2010-09-30**
 
 Love this post <3  But you knew that already :D
+
+Comments closed
+{: .comments-closed }

@@ -27,3 +27,5 @@ And that sucks.
 
 I hadn't looked at it from that angle - great point!
 
+Comments closed
+{: .comments-closed }

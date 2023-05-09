@@ -64,3 +64,6 @@ I guess the requirement that they are trustworthy was implied.
 http://twitter.com/swedal/status/25898221598
 
 My other point could be summed up this way: the wisdom of crowds is overrated and in the case of site design amounts to design by committee, which works most effectively when guided by a product manager of sorts
+
+Comments closed
+{: .comments-closed }

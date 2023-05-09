@@ -37,3 +37,5 @@ If your AVHD is big, this will take a long, long time. Fortunately, cleaning up 
 
 surprisingly with the advance of technology, transparencies and projectors are still very prevalent.
 
+Comments closed
+{: .comments-closed }

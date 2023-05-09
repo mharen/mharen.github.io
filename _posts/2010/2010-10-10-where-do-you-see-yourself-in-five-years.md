@@ -68,3 +68,5 @@ I like option 1. Like you said, you could still do coding by doing side projects
 
 that wikipedia page has a url of bluepill but a title of redpill. crazy.
 
+Comments closed
+{: .comments-closed }

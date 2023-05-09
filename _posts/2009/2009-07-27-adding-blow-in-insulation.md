@@ -58,3 +58,6 @@ All told, I burned about 5 hours on the project, including two trips to Lowe’s
 Yeah, as fascinating a device as the blower is, it loses its novelty fast.  Then you're left staring at the huge stack of insulation wishing it were a huge stack of bubble gum.  
 
 Damn, that'd be a lot of gum.
+
+Comments closed
+{: .comments-closed }

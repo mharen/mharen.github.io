@@ -354,3 +354,5 @@ This is like House. Except very, very lame for non-computer people. I hope you s
 
 So is the life of a computer engineer...
 
+Comments closed
+{: .comments-closed }

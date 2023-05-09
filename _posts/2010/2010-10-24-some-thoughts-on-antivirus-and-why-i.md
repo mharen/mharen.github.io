@@ -57,3 +57,6 @@ In conclusion, I am now updating my antivirus position by recommending that all 
 **Unknown said on 2010-10-24**
 
 Sophos claims 0-day on threats.  When I went dual core is when I finally started running full time A.V.  I've been hit by "drive-bys" as you put it a few times in the last year on both firefox and chrome.  I used to slum around the internet pre-2000 and never had an issue.  These days even legit sites get hit.  I've experimented with running in-line virus detection on my router, but it struggles with streaming media, which is my biggest use.
+
+Comments closed
+{: .comments-closed }

@@ -92,3 +92,5 @@ Anyone remember Microsoft Bob? Here’s a kid’s version available today:
 
 I have an app on my iPhone that lets me add FAIL captions to the pictures on my phone. It's pretty sweet.
 
+Comments closed
+{: .comments-closed }

@@ -85,3 +85,5 @@ Thanks man, you rock.  A little confused how Enable Dynamic Content Compression 
 
 thanks heaps - helped solve a nasty problem. After our server reboot Dynamic compression was enabled for the web site but not installed as a feature! Installing it and turning off/on fixed one problem. Now for the next hurdle :-)
 
+Comments closed
+{: .comments-closed }

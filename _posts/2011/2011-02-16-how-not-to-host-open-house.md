@@ -106,3 +106,5 @@ Anyway, um, awesome post, honey.  I know you sat next to me while I was reading 
 
 Which tip do you disagree with?
 
+Comments closed
+{: .comments-closed }

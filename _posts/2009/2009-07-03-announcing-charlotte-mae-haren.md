@@ -42,3 +42,5 @@ Congratulations! Both girls are beautiful.
 
 Congrats!!
 
+Comments closed
+{: .comments-closed }

@@ -109,3 +109,6 @@ private static void DisposeApp(Application WordApp)
     }
 }
 ```
+
+Comments closed
+{: .comments-closed }

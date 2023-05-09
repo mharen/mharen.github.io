@@ -73,3 +73,5 @@ I write when I can. Sarah and the girls were out most of Saturday so I had time 
 
 I agree. In this case, Chile's won't grow nearly as fast as Haiti's but you're right--a time-corrected comparison would be best.
 
+Comments closed
+{: .comments-closed }

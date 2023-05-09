@@ -190,3 +190,6 @@ void Swap(ref string a, ref string b){
 **Michael Haren said on 2010-11-09**
 
 Yes, thank you! (fixed)
+
+Comments closed
+{: .comments-closed }

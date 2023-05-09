@@ -47,3 +47,5 @@ Remember, this is just last minute advice. Do yourself a favor and do some actua
 
 Good luck tomorrow, Laura!!!
 
+Comments closed
+{: .comments-closed }

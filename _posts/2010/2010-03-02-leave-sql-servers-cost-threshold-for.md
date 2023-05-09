@@ -46,5 +46,5 @@ Okay, I'm know this is an old post, but since I found it today somebody else mig
 
 MaxDOP should also be set to something other than 0 which is the default. http://support.microsoft.com/kb/2806535
 
-
-
+Comments closed
+{: .comments-closed }

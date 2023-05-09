@@ -87,3 +87,5 @@ Love it :)  Yay for blogging!
 
 I have this problem where when I imagine eating a bowl of cereal I start to get really hungry and HAVE to eat a bowl of cereal...so I guess the research doesn't apply to me. Great post...definitely made me laugh! I think the box idea was my favorite.
 
+Comments closed
+{: .comments-closed }

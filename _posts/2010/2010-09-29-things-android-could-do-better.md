@@ -64,3 +64,5 @@ Just kidding--it's crazy fast and chock-full of intuitive awesomeness.
 
 The iPhone charges full in a couple hours, it is pretty quick.
 
+Comments closed
+{: .comments-closed }

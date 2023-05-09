@@ -69,3 +69,5 @@ It also has a unique ability to cut through the BS by forcing you to choose your
 
 Crazy.  It's like you're famous or something :)
 
+Comments closed
+{: .comments-closed }

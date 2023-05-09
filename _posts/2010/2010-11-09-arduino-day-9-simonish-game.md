@@ -194,3 +194,5 @@ I’ll try to knock out another simple game tomorrow, and hopefully by Thursday 
 
 Like. :)  I am very impressed that you used the term "bokeh" properly in a sentence!  And I think it is hilarious that you posted the stats of your photo :P
 
+Comments closed
+{: .comments-closed }

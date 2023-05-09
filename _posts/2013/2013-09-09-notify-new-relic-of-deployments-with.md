@@ -42,3 +42,5 @@ Thanks for this, but the "message" parameter no longer accepts a hash, and the N
 
 Anyway thanks for getting me most of the way there :)
 
+Comments closed
+{: .comments-closed }

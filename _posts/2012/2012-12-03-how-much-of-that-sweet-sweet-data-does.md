@@ -74,3 +74,5 @@ Pretty sure that you meant your parenthetical:
 
 Minor point, though, because the rest of your post, including the calculations, uses the correct units.
 
+Comments closed
+{: .comments-closed }

@@ -71,3 +71,5 @@ NB: I [tweeted](https://twitter.com/mharen/status/268426088076697600) a version 
 
 This is great!  Looking forward to seeing it in action!
 
+Comments closed
+{: .comments-closed }

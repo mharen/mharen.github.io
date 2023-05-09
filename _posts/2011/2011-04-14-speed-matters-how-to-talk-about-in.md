@@ -69,3 +69,5 @@ What application did you use to make these mockups? Balsamiq?
 
 [Yes, sir.](http://balsamiq.com/products/mockups)
 
+Comments closed
+{: .comments-closed }

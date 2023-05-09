@@ -61,3 +61,5 @@ And *they were [ponies]({{ "/assets/2011/ponies.jpg" | relative_url }} "a pony w
 
 I liked this post.  I would say that, because my daily interactions almost always involve two toddlers who like to repeat everything I say, the strongest language I use would be saying both their first AND middle names, emphasis on middle.  Otherwise our language is what you would expect from a non-cussing pony.
 
+Comments closed
+{: .comments-closed }

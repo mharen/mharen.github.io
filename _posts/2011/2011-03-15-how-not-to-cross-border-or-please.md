@@ -88,3 +88,6 @@ Too bad we didn't go with you ~ the border patrolman wouldn't have been able to 
 **Mary said on 2011-03-24**
 
 hilarious :-)
+
+Comments closed
+{: .comments-closed }

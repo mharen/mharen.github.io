@@ -30,3 +30,5 @@ While you’re in there, you might as well choose a pretty font like Consolas, t
 
 These are a couple great little tips. I never realized you could do this. I always just assumed it was stuck in a state of complete suck. Now it's only an incomplete suck.
 
+Comments closed
+{: .comments-closed }

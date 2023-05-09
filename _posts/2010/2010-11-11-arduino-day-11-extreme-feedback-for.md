@@ -168,3 +168,6 @@ I tried to think of a funny Chuck Norris joke but apparently I am not very witty
 **Michael Haren said on 2010-11-12**
 
 Chuck norris can think of witty jokes at 130am
+
+Comments closed
+{: .comments-closed }

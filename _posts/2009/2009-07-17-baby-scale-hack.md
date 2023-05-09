@@ -50,3 +50,6 @@ I can’t actually verify her real weight (thus this ridiculous contraption!) bu
 **GBtG said on 2009-07-20**
 
 God bless you and American ingenuity!
+
+Comments closed
+{: .comments-closed }

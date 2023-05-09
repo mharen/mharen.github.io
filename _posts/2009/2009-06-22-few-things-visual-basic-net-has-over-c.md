@@ -131,3 +131,5 @@ Is C# a programming language? like c and c++?
 
 Yes, C# is a programming language. It's syntax is similar to C/C++ but more closely resembles Java. It's actually very similar to Java, now that I think about it.
 
+Comments closed
+{: .comments-closed }

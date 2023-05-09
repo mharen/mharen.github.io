@@ -52,3 +52,5 @@ It is therefore evident to me that they could likely be predictable given past v
 
 For more on what makes up a Guid on modern windows platforms, check out http://blogs.msdn.com/oldnewthing/archive/2008/06/27/8659071.aspx
 
+Comments closed
+{: .comments-closed }

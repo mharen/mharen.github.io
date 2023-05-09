@@ -39,3 +39,5 @@ That’s a pretty stark contrast between how I perceive Best Buy and StackOverfl
 
 Well didn't you know that by opting out you were actually opting in?  I mean really it's your own fault :P
 
+Comments closed
+{: .comments-closed }

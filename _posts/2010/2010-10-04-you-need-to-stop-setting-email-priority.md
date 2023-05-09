@@ -39,3 +39,5 @@ I must say, though, that I am surprised how rare this feature is invoked; it giv
 
 Hide the flags FTW!
 
+Comments closed
+{: .comments-closed }

@@ -46,3 +46,5 @@ That's unfortunate. I understand your reasoning, though.
 
 This post is neither sad nor funny.
 
+Comments closed
+{: .comments-closed }

@@ -62,3 +62,5 @@ Google is [elegant](http://en.wikipedia.org/wiki/Elegance). Bing is [showy](http
 
 Google is slowly taking over the world.  For realz.
 
+Comments closed
+{: .comments-closed }
