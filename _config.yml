@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wassupy Blog
+title: Michael Haren's Wassupy Blog
+author: Michael Haren
 email: mharen@gmail.com
 description: >-
   Occasional thoughts on technology, money, life and kids by Michael Haren
 # baseurl: "blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.wassupy.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:year/:month/:title.html"
 
 # Build settings
@@ -48,8 +49,6 @@ jekyll-archives:
     month: '/:year/:month/'
     year: '/:year/'
 
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,14 +57,11 @@ jekyll-archives:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - .git
+  - .github
+  - .gitignore
