@@ -21,20 +21,20 @@ It also seems to charge slowly. I don’t really have any empirical evidence for
 
 One hallmark difference between the Android platform and iPhone is the obvious fact that Android can run on numerous devices, each with different hardware. I have no problem with this. I like that people who prefer physical keyboards or optical joysticks, or whatever can get them. What I don’t like is that there’s seemingly no standard for button ordering or placement. For example, here’s the Motorola Droid 2, the Motorola Droid X, The HTC G1/Dream, and HTC Droid:  
 
-![](/assets/2010/better-droid-2.jpg) 
-![](/assets/2010/better-droid-3.jpg) 
-![](/assets/2010/better-droid-4.jpg) 
-![](/assets/2010/better-droid-1.jpg) 
+{% imagesize /assets/2010/better-droid-2.jpg:img %}
+{% imagesize /assets/2010/better-droid-3.jpg:img %}
+{% imagesize /assets/2010/better-droid-4.jpg:img %}
+{% imagesize /assets/2010/better-droid-1.jpg:img %}
 
 Notice the button arrangements:
 
-![](/assets/2010/droid-buttons-1.jpg) 
+{% imagesize /assets/2010/droid-buttons-1.jpg:img %}
 
-![](/assets/2010/droid-buttons-2.jpg) 
+{% imagesize /assets/2010/droid-buttons-2.jpg:img %}
 
-![](/assets/2010/droid-buttons-3.jpg) 
+{% imagesize /assets/2010/droid-buttons-3.jpg:img %}
 
-![](/assets/2010/droid-buttons-4.jpg) 
+{% imagesize /assets/2010/droid-buttons-4.jpg:img %}
 
 This is crazy—the four standard buttons should **always** be in the same order. This is a pretty basic UI guideline that I am surprised wasn’t mandated in the Android licensing. There may very well be other combinations out there, too—these are just the first four phones I thought of. This comes 
 

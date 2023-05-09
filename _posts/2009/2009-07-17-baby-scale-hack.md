@@ -31,15 +31,15 @@ Get the ratio of red to blue by dividing the red distance by the blue distance. 
 
 So did it work? Let’s see:
 
-![](/assets/2009/baby-scale-00005.jpg)  
+{% imagesize /assets/2009/baby-scale-00005.jpg:img %}
 
 Isn’t she lovely?
 
-![](/assets/2009/baby-scale-00006.jpg)  
+{% imagesize /assets/2009/baby-scale-00006.jpg:img %}
 
 Behold: The power of the swaddle!
 
-![](/assets/2009/baby-scale-00007.jpg) 
+{% imagesize /assets/2009/baby-scale-00007.jpg:img %}
 
 I can’t actually verify her real weight (thus this ridiculous contraption!) but my tests with the cans give me confidence that her weight is damn close to 2 x 3lb-2.65oz; or **6 pounds 5 ounces**.
 

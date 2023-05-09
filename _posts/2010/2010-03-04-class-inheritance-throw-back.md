@@ -9,7 +9,7 @@ Another question I answered recently took me way back to my college classes on p
 
 Anyway, the question today was: given a base class “Animal” and a derived class “Dog”, in what order are the constructors and destructors called when the child class is instantiated and destroyed?
 
-![](/assets/2010/class-inher.png) 
+{% imagesize /assets/2010/class-inher.png:img %}
 
 I haven’t touched C++ for a long time but after thinking about it for a few seconds, this is what would make sense to me:
 

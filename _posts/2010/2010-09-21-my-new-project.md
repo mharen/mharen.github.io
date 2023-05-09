@@ -20,7 +20,7 @@ I’m kicking off a new project today and am taking you along for the ride. Whil
 
 #### The Project
 
-[![](/assets/2010/interview-questions.gif)](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)
+[{% imagesize /assets/2010/interview-questions.gif:img %}](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)
 
 The problem I’m trying to solve relates to how a company manages interviews. 
 

@@ -21,21 +21,21 @@ Here we go:
 
 #### Build
 
-![](/assets/2010/IMAG0719-day-7.jpg) 
+{% imagesize /assets/2010/IMAG0719-day-7.jpg:img %}
 
 (those dainty fingers belong to thing2)
 
-![](/assets/2010/IMAG0721-day-7.jpg) 
+{% imagesize /assets/2010/IMAG0721-day-7.jpg:img %}
 
 #### Circuit
 
 Crazy simple circuit today:
 
-![](/assets/2010/Sketch_bb-day-7.png) 
+{% imagesize /assets/2010/Sketch_bb-day-7.png:img %}
 
 #### Schematic
 
-![](/assets/2010/Sketch_schem-day-7.png) 
+{% imagesize /assets/2010/Sketch_schem-day-7.png:img %}
 #### Code
 
 Today’s coding was a very simple selection from previous exercises, so this should look familiar:

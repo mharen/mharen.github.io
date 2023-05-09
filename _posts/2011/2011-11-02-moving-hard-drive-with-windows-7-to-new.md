@@ -13,7 +13,7 @@ I just got a shiny new laptop (yay, thanks, Work!). In the old days (with Window
 
 I think Windows 7 is the first Windows OS that ages nicely enough that I don’t have to start from scratch every few years. So instead of spending 18 hours installing stuff, I physically moved my hard drive from my old machine to my new one. Here’s how:
 
-[![](/assets/2011/transfer.png)](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html)
+[{% imagesize /assets/2011/transfer.png:img %}](http://www.sevenforums.com/tutorials/135077-windows-7-installation-transfer-new-computer.html)
 
 **Yes,** I really moved my drive from one machine to another *without reinstalling anything* (except drivers). And you can, too! **Don’t** listen to the naysayers (but do make backups just in case).
 

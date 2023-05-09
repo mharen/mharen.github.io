@@ -9,7 +9,7 @@ title: Transformers 2, Rise of some Giant Robots
 
 My darling wife agreed to see Transformers2 with me last weekend. We had a nice time and she actually enjoyed the move more than expected. I thought it was pretty good, too (though I had low, low expectations).  
 
-![](/assets/2009/transformers-2.png) 
+{% imagesize /assets/2009/transformers-2.png:img %}
 
 The best part was when Agent Simmons was on the phone with an aircraft carrier telling them to use the rail gun to hit the Decepticon on top of the pyramid, even though no one’s ever heard of Simmons and he doesn’t have clearance, yadda yadda, and my wife said this:
 

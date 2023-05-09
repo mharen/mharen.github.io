@@ -9,7 +9,7 @@ A hilarious meme popular in my social group right now is that of the fail. This 
 
 While trying to refill a honey bear, I over filled causing quite a mess. Upon seeing my error, a witness is right to proclaim, “Fail!”. This is also increasingly popular in photos. For example, FailBlog is full of sign fails and science fails like these:  
 
-[![](/assets/2009/fail-11.png)](http://failblog.org/2009/08/30/sports-recognition-fail/)
+[{% imagesize /assets/2009/fail-11.png:img %}](http://failblog.org/2009/08/30/sports-recognition-fail/)
 
 But you already know this. Why would I spend so much time defining a fail? Because apparently it’s not so obvious to a certain group of [BabyCenter moms](http://community.babycenter.com/post/a13943225/fail_pictures_stole_from_the_june_board). Here are a few Fail fails:
 

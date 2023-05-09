@@ -10,7 +10,7 @@ The great thing about a semantic approach to web development is how nice and eas
 
 For example, suppose I have a “what’s this” help link beside some potentially confusing statement:
 
-![](/assets/2010/progressive-enhancement-11.png) 
+{% imagesize /assets/2010/progressive-enhancement-11.png:img %}
 
 
 Nothing fancy here—just a link with a _blank target ([source](http://jsbin.com/unuqo/3/edit), [demo](http://jsbin.com/unuqo/3)): 
@@ -25,7 +25,7 @@ Nothing fancy here—just a link with a _blank target ([source](http://jsbin.com
  
 It’s not very pretty but it gets the job done without any Javascript. Let’s make it sexy:
 
-![](/assets/2010/progressive-enhancement-8.png) 
+{% imagesize /assets/2010/progressive-enhancement-8.png:img %}
 
 Here we’ve augmented the help link with a nice [jQuery UI](http://jqueryui.com/home) [dialog](http://jqueryui.com/demos/dialog/) instead of a browser popup ([source](http://jsbin.com/unuqo/4/edit), [demo](http://jsbin.com/unuqo/4)):
 

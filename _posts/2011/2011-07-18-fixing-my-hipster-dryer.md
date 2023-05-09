@@ -35,7 +35,7 @@ Now’s a good time to say, “now there’s your problem.” Why’d it burn up
 
 Never fear, I’ll just grab my soldering iron. Actually, before I go through the trouble of soldering this back together (I suck at soldering), let’s see if that’s the problem first by reattaching it with a special wire reattacher tool:
 
-![](/assets/2011/IMG_20110709_160811.jpg)  
+{% imagesize /assets/2011/IMG_20110709_160811.jpg:img %}
 
 With that attached by what is one of the [most useful tools ever](http://en.wikipedia.org/wiki/Locking_pliers), me a safe distance away, no children present, and fire extinguisher at the ready (just kidding, it was way far away), I verified the dryer operated as expected. Hooray!
 

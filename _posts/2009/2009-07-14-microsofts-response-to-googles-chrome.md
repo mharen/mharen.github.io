@@ -27,7 +27,7 @@ That got me thinking: what comes after Windows7? Here’s my prediction for the 
 
 Here’s a rough mockup of what WindowsBing™ might look like (made with the ever awesome [balsamiq mockups](http://www.balsamiq.com/products/mockups) tool):
 
-![](/assets/2009/WindowsBing-13.png) 
+{% imagesize /assets/2009/WindowsBing-13.png:img %}
 
 Ignoring any actual, thought provoking analysis of market trends, etc., I decided to just come up with a list of editions. MS is famous for releasing ridiculously large numbers of editions of their software. Windows7 will come in six flavors (plus six more without IE for the European Union!). The [unnecessary complexity](http://en.wikipedia.org/wiki/Windows_7_editions#Comparison_chart) is maddening. I came up with nine:  
 

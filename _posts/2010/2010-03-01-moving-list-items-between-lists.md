@@ -10,11 +10,11 @@ title: Moving List Items Between Lists
 
 I often apply a push-pull pattern when working with business/data interfaces. I’m talking about something like this:
 
-![](/assets/2010/push-pull-2.png) 
+{% imagesize /assets/2010/push-pull-2.png:img %}
 
 I don’t much like these so I came up with something similar that works well for small datasets which I’ll describe here. Here it is [in action](http://jsbin.com/ucoqi):
 
-[![](/assets/2010/push-pull-6.png)](http://jsbin.com/ucoqi)
+[{% imagesize /assets/2010/push-pull-6.png:img %}](http://jsbin.com/ucoqi)
 
 and here’s how to [build it](http://jsbin.com/ucoqi/edit). First, the basic layout:  
 

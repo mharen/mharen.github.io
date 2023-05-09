@@ -9,7 +9,7 @@ title: Statistics are Misleading At Best, Filthy Liars at Second Best
 
 Back in April, I somehow came across [this site](http://disruptthenarrative.wordpress.com/2011/04/24/gas-pump-activism/) blaming President Obama for raging gas prices:
 
-![](/assets/2011/obamagasprices.jpg)  
+{% imagesize /assets/2011/obamagasprices.jpg:img %}
 
 The implication is that since the moment Obama took office, gas prices have gone crazy. My god! 
 

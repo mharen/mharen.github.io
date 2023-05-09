@@ -33,15 +33,15 @@ On a brighter note, Thing 1 has almost grasped Go Fish, which is pretty magical 
 
 Oh yeah, the build:
 
-![](/assets/2010/day-3-IMAG0680.jpg) 
+{% imagesize /assets/2010/day-3-IMAG0680.jpg:img %}
 
 #### Circuit
 
-![](/assets/2010/day_three_-_bb.png) 
+{% imagesize /assets/2010/day_three_-_bb.png:img %}
 
 #### Schematic
 
-![](/assets/2010/Day_3_-_schematic.png) 
+{% imagesize /assets/2010/Day_3_-_schematic.png:img %}
 
 #### Code
 

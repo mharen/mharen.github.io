@@ -53,7 +53,7 @@ At this point, I had a single 24’ long bundle of noodles. I cut it in half and
 
 As any god engineer would, I carefully estimated my materials before heading to the store and ended up with the following waste:
 
-![](/assets/2012/IMG_3175.jpg)  
+{% imagesize /assets/2012/IMG_3175.jpg:img %}
 
 And they’re ready:
 

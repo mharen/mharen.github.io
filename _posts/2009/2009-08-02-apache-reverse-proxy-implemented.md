@@ -9,7 +9,7 @@ title: Apache Reverse Proxy Implemented
 
 This is a follow-up on my [previous post](../../2009/07/structuring-our-developer-tools-with.html) about the server architecture I setup to support my company’s developers. This was the goal:
 
- ![](/assets/2009/proxy.png) 
+ {% imagesize /assets/2009/proxy.png:img %} 
 
 Or in words: users inside and outside of the company need access to a bunch of tools (the green arrows). The proposed way of doing that uses a single server as a gatekeeper and router to other servers (the black arrows).
 

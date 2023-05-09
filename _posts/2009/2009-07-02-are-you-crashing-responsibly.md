@@ -30,11 +30,11 @@ The fact is, with finite time and resources we do the best we can to provide a g
 
 First, blame yourself, not the user. It’s usually not their fault something went wrong. I love the [stackoverflow](http://stackoverflow.com/) error message (only once encountered):
 
-![](/assets/2009/gooderrorpage7.png) 
+{% imagesize /assets/2009/gooderrorpage7.png:img %}
 
 Obviously [Lolcats](http://icanhascheezburger.com/) won’t work in some professional environments but the message certainly would: **This is our fault and we’re on it.** Here’s a less adorable mockup I made recently for a corporate project (thanks to [Balsamiq mockups](http://www.balsamiq.com/products/mockups/examples), a sweet mockup maker):  
 
-![](/assets/2009/ErrorPageMockup.png) 
+{% imagesize /assets/2009/ErrorPageMockup.png:img %}
 
 It’s clear and simple and better than what this program does today (hint: nothing!). It could still be improved, though. For example, I still think it’s a little busy. I could that by moving the “Your info” box after the “Please follow up with me” checkbox so that it’s only displayed/completed if the user actually wants a follow up. I could also make it more clear that they don’t have to submit this at all—we capture the automatic stuff before this page is even displayed.
 

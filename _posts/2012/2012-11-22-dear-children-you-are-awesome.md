@@ -17,7 +17,7 @@ This occurs to me regularly. For instance, on Saturday I had the intimidating ta
 
 It helped that I remembered to feed them.
 
-![](/assets/2012/2012-11-16_18.35.58.jpg)  
+{% imagesize /assets/2012/2012-11-16_18.35.58.jpg:img %}
 
 *“Look Daddy! A Christmas chicken!”*
 

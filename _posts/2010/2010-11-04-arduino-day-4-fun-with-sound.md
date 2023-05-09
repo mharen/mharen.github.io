@@ -31,15 +31,15 @@ These shows are simply absurd in every way. Crazy stuff happens on “House MD�
 
 Today’s build was very easy. Most of my time was spent working on code and learning about music notes.
 
-![](/assets/2010/IMAG0682.jpg) 
+{% imagesize /assets/2010/IMAG0682.jpg:img %}
 
 #### Circuit
 
-![](/assets/2010/Day_4_-_bb.png) 
+{% imagesize /assets/2010/Day_4_-_bb.png:img %}
 
 #### Schematic
 
-![](/assets/2010/Day_4_-_Schematic.png) 
+{% imagesize /assets/2010/Day_4_-_Schematic.png:img %}
 
 #### Code
 

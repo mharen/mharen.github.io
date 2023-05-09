@@ -27,7 +27,7 @@ Google’s **News and Weather** App is pretty slick. I particularly like the tre
 
 **TweetDeck** is far better than any of the other Twitter or Facebook apps I’ve used. It does the single inbox thing by mixing all the social stuff together, which is nice. With this app I rarely actually visit Facebook.com anymore. It supports multiple columns and simultaneous posts, just like the desktop client.  
 
-![](/assets/2010/screenshot_18-2.png) 
+{% imagesize /assets/2010/screenshot_18-2.png:img %}
 
 The ability to **share** pretty much anything with applications that support it is awesome, too. In this first pic, I’ve chosen a picture to share and Android is asking how. Unfortunately, there’s no easy way to share a **screenshot**. I just [got it working](../../2010/09/how-to-take-screenshots-from-android.html) on my device which is how I was able to take all these shots. This is something that iPhone has killed on, hands-down. Interestingly, **Pandora** doesn’t support sharing, which is too bad. I listen to Pandora easily 20 hours a week through my phone and sometimes I’d like a convenient way to share what I’m listening to. Pandora tip: if you have unlimited data, turn on high quality mode in the settings—it’s *much* better.  
 

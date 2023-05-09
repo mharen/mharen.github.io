@@ -14,7 +14,7 @@ I’d been thinking about adding some insulation to my attic for a while now. Th
 
 Maya read up on the installation procedure (pamphlet in hand) while I unloaded.
 
-![](/assets/2009/insul-3.jpg) 
+{% imagesize /assets/2009/insul-3.jpg:img %}
 
 The first step was cleanup. It took a lot longer than I anticipated as there was more junk and garbage than I thought. Insulation works best when it’s fluffy and even so all this stuff had to go. Some “before” shots:  
 
@@ -34,7 +34,7 @@ After that came the main event. With my buddy Bryan feeding the blower, I crawle
 
 Cost detail:
 
-![](/assets/2009/insul-10.png) 
+{% imagesize /assets/2009/insul-10.png:img %}
 
 Some lessons learned or things I’ll do differently next time:  
 

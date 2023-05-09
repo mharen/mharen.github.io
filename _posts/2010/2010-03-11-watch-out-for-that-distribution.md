@@ -9,7 +9,7 @@ title: Watch out for that Distribution Database
 
 I received some pretty [serious alerts this morning](http://twitter.com/mharen/status/10326855258) about our database server running low on disk space and quickly discovered something amiss:
 
-![](/assets/2010/distribution-db-2.png) 
+{% imagesize /assets/2010/distribution-db-2.png:img %}
 
 That’s a tad higher than usual...just 100x bigger than it should be (yikes)! Allow me to illustrate how I imagine the last few months going for this gargantuan file:
 
@@ -17,7 +17,7 @@ That’s a tad higher than usual...just 100x bigger than it should be (yikes)! A
 
 The problem turned out to be that several of the replication SQL jobs were disabled (since...months ago). The pertinent job is probably this one, the distribution clean up job:
 
-![](/assets/2010/distribution-db-5.png) 
+{% imagesize /assets/2010/distribution-db-5.png:img %}
 
 It’s supposed to run every 10 minutes to tidy things up in the distribution database. I guess not running for *three months* could lead to some problems (eek!). There’s really no excuse for this—it’s embarrassing. I’m not the DBA for this system but I should have noticed; a lot of people should have noticed.
 

@@ -18,7 +18,7 @@ There’ll be minor things that are glaring but easy to fix, like this non-quest
 
 But there could be fundamental issues with how the app works vs. how users try to use the app:
 
-![](/assets/2012/2012-09-20_22.38.11.png)  
+{% imagesize /assets/2012/2012-09-20_22.38.11.png:img %}
 
 (I can see Siri getting some people in trouble here...“WHO IS SHE!?”)
 
@@ -28,7 +28,7 @@ Sometimes though, there’s little you can do to catch certain issues. For insta
 
 Ohhhh...
 
-![](/assets/2012/2012-10-10_23.22.44.png)  
+{% imagesize /assets/2012/2012-10-10_23.22.44.png:img %}
 
 Those are fairly minor. There can be big, huge issues, too, though. For instance, when I tried to sign up for Angie’s List, I opted to sign up with my Google account:
 

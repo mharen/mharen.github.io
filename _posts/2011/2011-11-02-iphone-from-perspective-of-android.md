@@ -100,7 +100,7 @@ It’s all smooth sailing on iPhone. I confidently use email and calendaring lik
 
 Some apps worked well with the lock screen music controls on my Droid but others didn’t. So far it’s been a very pleasant experience on iPhone. The lock screen controls (left image) and the app-switcher pane controls (right image) are intuitive and consistent.  
 
-![](/assets/2011/IMG_0492.png)  
+{% imagesize /assets/2011/IMG_0492.png:img %}
 
 #### Native screenshot support
 

@@ -38,7 +38,7 @@ Another bonus: the new tool might not be new at all—it might already exist som
 
 Here’s where we might be in a few months:
 
-![](/assets/2009/structure-3.png) 
+{% imagesize /assets/2009/structure-3.png:img %}
 
 Here I’ve easily and correctly added in our Hudson server (which is already humming along nicely) and a customer project (which was improperly hidden alongside other tools since I had no way to do it properly). 
 

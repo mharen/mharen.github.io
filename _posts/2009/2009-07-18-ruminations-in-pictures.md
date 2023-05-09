@@ -16,16 +16,16 @@ Here’s a food pyramid recently posted at my office. It must be one of them new
 
 I’m a bigger fan of the [Natalie Dee](http://nataliedee.com/) variety:  
 
-[![](/assets/2009/2009-07-18-00002.png)](http://www.nataliedee.com/030906)
-[![](/assets/2009/2009-07-18-00003.png)](http://www.nataliedee.com/063009) 
+[{% imagesize /assets/2009/2009-07-18-00002.png:img %}](http://www.nataliedee.com/030906)
+[{% imagesize /assets/2009/2009-07-18-00003.png:img %}](http://www.nataliedee.com/063009) 
 
 Then there’s the Childtime day care place near our house. While walking by last week, Sarah noticed they won an award:
 
-![](/assets/2009/2009-07-18-00004.jpg) 
+{% imagesize /assets/2009/2009-07-18-00004.jpg:img %}
 
 Yep, they’re a one-star award winner! It won’t go to their heads since they still have more stars to which they can aspire. In grocery store news, there’s a disturbing new product I noticed the other day:
 
-![](/assets/2009/2009-07-18-00005.jpg) 
+{% imagesize /assets/2009/2009-07-18-00005.jpg:img %}
 
 Don’t let the adorable smiling pig fool you, that’s swine powder in a box. Interestingly enough it actually [looks like](http://www.amazon.com/Goya-Ham-Flavored-Concentrate-1-41/dp/B0002HAAOM) it might be pretty good:
 
@@ -49,7 +49,7 @@ On another note, you know what a Ford Taurus is, right? Something like these, ri
 
 Then what the hell is this?:  
 
-![](/assets/2009/2009-07-18-00012.jpg) 
+{% imagesize /assets/2009/2009-07-18-00012.jpg:img %}
 
 (actual photo from nearby—this crazy thing exists!)  
 
@@ -61,8 +61,8 @@ Apparently a Ford Explorer ate some poor Taurus and is cruising my fair city una
 
 Back to food. A few weeks before Charlotte was born we spent a day cooking and freezing. Trying to get a week’s worth of food into the freezer proved challenging (space, containers, etc.). Here’s what we did:  
 
-![](/assets/2009/2009-07-18-00014.jpg) 
-![](/assets/2009/2009-07-18-00015.jpg) 
+{% imagesize /assets/2009/2009-07-18-00014.jpg:img %}
+{% imagesize /assets/2009/2009-07-18-00015.jpg:img %}
 
 Anything that was liquidy was put in gallon bags and laid flat to freeze (soup, sauce, chili, etc.). That bag of sauce is about an inch thick. This has three awesome benefits: each bag is portioned with just 2-4 servings, they stack nicely in the freezer and they thaw in five minutes (I timed it, because I’m a nerd and can’t help it):
 
@@ -74,45 +74,45 @@ Back to gross stuff: we performed some capacity experiments with Maya’s diaper
 
 We used the scale to keep track as we added water (two cups is about 1 pound):
 
-![](/assets/2009/2009-07-18-00018.jpg) 
+{% imagesize /assets/2009/2009-07-18-00018.jpg:img %}
 
 Here’s the water going in (a little blurry, sorry):
 
-![](/assets/2009/2009-07-18-00019.jpg) 
+{% imagesize /assets/2009/2009-07-18-00019.jpg:img %}
 
 It soaked up easily. Inverting the diaper showed it was nice and dry:
 
-![](/assets/2009/2009-07-18-00020.jpg) 
+{% imagesize /assets/2009/2009-07-18-00020.jpg:img %}
 
 That was easy. How about another two cups (that’s four cups total—one quart):
 
-![](/assets/2009/2009-07-18-00021.jpg) 
+{% imagesize /assets/2009/2009-07-18-00021.jpg:img %}
 
 It passed the same inversion test and weighs in at 2 pounds:
 
-![](/assets/2009/2009-07-18-00022.jpg) 
+{% imagesize /assets/2009/2009-07-18-00022.jpg:img %}
 
 Clearly the diaper is holding it but probably not wearable at this point. Indeed, with a little pressure, its gel beads started oozing out:
 
-![](/assets/2009/2009-07-18-00023.jpg) 
+{% imagesize /assets/2009/2009-07-18-00023.jpg:img %}
 
 Thanks, science!
 
 A few more quick shots and we’re outta here:  
 
-![](/assets/2009/2009-07-18-00024.jpg)  
+{% imagesize /assets/2009/2009-07-18-00024.jpg:img %}
 
 The classic your/you’re mistake. It’s weird, but I find myself starting to make this error occasionally—probably just carelessness on my part, I hope.
 
-![](/assets/2009/2009-07-18-00025.jpg)   
+{% imagesize /assets/2009/2009-07-18-00025.jpg:img %}
 
 I’ll take two twenty pounders of ice, a seven of cheese, and a seven of meat, please.
 
-![](/assets/2009/2009-07-18-00026.jpg)   
+{% imagesize /assets/2009/2009-07-18-00026.jpg:img %}
 
 Why yes, that’s a huge picnic table humping a moving truck.  
 
-![](/assets/2009/2009-07-18-00027.jpg)   
+{% imagesize /assets/2009/2009-07-18-00027.jpg:img %}
 
 Maybe my Garmin feared the giant table and decided to get us the hell out of dodge? But how?! That’s little blue triangle in the middle is me...  
 

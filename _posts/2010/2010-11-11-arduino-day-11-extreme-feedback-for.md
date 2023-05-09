@@ -28,21 +28,21 @@ You might imagine how politically correct and culturally sensitive a 1986 movie 
 
 But a motor cycle that launches missiles. Wow. That picture above, by the way, was presumably from around 25 years ago. Guess how old he was then, and how old he that makes him now:
 
-[![](/assets/2010/Norrishuckabee.jpg)](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG)
+[{% imagesize /assets/2010/Norrishuckabee.jpg:img %}](http://upload.wikimedia.org/wikipedia/en/7/7f/Norrishuckabee.JPG)
 
 70\. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/). 
 
 #### Build (Repeat)
 
-![](/assets/2010/DSC_00113.jpg) 
+{% imagesize /assets/2010/DSC_00113.jpg:img %}
 
 #### Circuit (Repeat)
 
-![](/assets/2010/Sketch_bb6.png) 
+{% imagesize /assets/2010/Sketch_bb6.png:img %}
 
 #### Schematic (Repeat)
 
-![](/assets/2010/Sketch_schem6.png) 
+{% imagesize /assets/2010/Sketch_schem6.png:img %}
 
 #### Code (Updated)
 

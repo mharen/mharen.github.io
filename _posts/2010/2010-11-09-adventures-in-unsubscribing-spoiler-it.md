@@ -33,7 +33,7 @@ Are you kidding me?! Not only is this not an unsubscribe page, there’s no link
 
 Nice! The site is totally broken in Chrome. I’ll continue to the “Membership Center”:
 
-![](/assets/2010/spam-6.png)      
+{% imagesize /assets/2010/spam-6.png:img %}
 
 Umm...MS, Imma Let you finish but 1995 has the best browser war messages of all time. ALL TIME! You’re telling me that I have to use IE for this thing? I’m not a browser zealot, but this is ridiculous. I’ll proceed anyway and weather the “rendering issues”:
 

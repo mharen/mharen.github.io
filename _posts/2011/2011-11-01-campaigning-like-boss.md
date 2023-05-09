@@ -18,7 +18,7 @@ As Mick Jagger once said (according to the briefest of fact checking), “anythi
 
 I put that up on Reddit, along with a bunch of pictures of myself. After a little cross promotion on various social networks, gold started rolling in. Big time.  
 
-![](/assets/2011/whyyouno.jpg)    
+{% imagesize /assets/2011/whyyouno.jpg:img %}
 
 And possibly others that I’ve misplaced. 
 
@@ -28,7 +28,7 @@ A lot of people assumed all this was just a joke. But it wasn’t. I printed 60 
 
 This was on Wednesday, just two days before the election. Then a funny thing happened: the other candidates suddenly realized that maybe they should make posters for *themselves* instead of for *me*. So a second wave of posters showed up that afternoon and the next day.  
 
-![](/assets/2011/CSI_Miami.jpg)  
+{% imagesize /assets/2011/CSI_Miami.jpg:img %}
 
 (And many others I don’t have clean copies of)
 
@@ -38,7 +38,7 @@ The great thing about this happening so quickly was that by the time anyone in m
 
 Things quieted down a bit for the rest of Thursday and then everyone was busy with actual work, and the Halloween party coming up the next day. Speaking of which, here’s one of the other candidates in a truly scary costume:  
 
-![](/assets/2011/IMG_0329.JPG)    
+{% imagesize /assets/2011/IMG_0329.JPG:img %}
 
 About an hour before the election I overheard him say something about making kids cry. And I couldn’t resist making my my first and only poster (personally):  
 

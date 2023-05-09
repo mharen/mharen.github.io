@@ -31,10 +31,10 @@ I know the above to be true when compared to Roger Moore, also, because I saw hi
 Special thanks to Wife’s awesome camera for giving me all that sweet, delicious bokeh you see above. <small>Apparently I’m required by law to list this info, too: 116mm 1/50 f/4.8 ISO200</small>. 
 #### Circuit
 
-![](/assets/2010/Sketch_bb-day-9.png) 
+{% imagesize /assets/2010/Sketch_bb-day-9.png:img %}
 #### Schematic
 
-![](/assets/2010/Sketch_schem-day-9.png) 
+{% imagesize /assets/2010/Sketch_schem-day-9.png:img %}
 
 #### Code
 

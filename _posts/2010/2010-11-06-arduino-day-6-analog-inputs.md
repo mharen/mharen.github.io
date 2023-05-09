@@ -39,19 +39,19 @@ Today’s build is another extension on the sound thing I’ve been working on. 
 
 #### Build
 
-![](/assets/2010/IMAG0705-day-6.jpg) 
+{% imagesize /assets/2010/IMAG0705-day-6.jpg:img %}
 
-![](/assets/2010/IMAG0707-day-6.jpg) 
+{% imagesize /assets/2010/IMAG0707-day-6.jpg:img %}
 
 #### Circuit
 
 Since this build was a very minor addition to my previous circuits, I’m only showing the simple changes here:
 
-![](/assets/2010/Sketch_bb-day-6.png) 
+{% imagesize /assets/2010/Sketch_bb-day-6.png:img %}
 
 #### Schematic
 
-![](/assets/2010/Sketch_schem-day-6.png) 
+{% imagesize /assets/2010/Sketch_schem-day-6.png:img %}
 
 #### Code
 

@@ -13,7 +13,7 @@ As an avid Stack Exchange supporter I think he’s wrong. If it does fail, it wo
 
 First, he was bothered by the wiki nature of the site:
 
-> ![](/assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg)
+> {% imagesize /assets/2010/ANd9GcQsJrv915pJ7fgn4rGxKQ_0Ezf4cBrpDSOqbZNo61dXUMJ2i04.jpg:img %}
 > 
 > Execuse my french – but what the fuck are all these “enlightened” people doing editing my answers? If I wanted people editing my words, looking down at me, and deciding to change stuff, I’d start a wiki. as is, my answers are my own, and they reflect my mood, and my typos. and if they want me ot fix them they should ask me.
 

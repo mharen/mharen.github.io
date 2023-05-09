@@ -5,7 +5,7 @@ categories: in the news
 title: Some Thoughts on the Mosque Near Ground Zero
 ---
 
-[![](/assets/2010/ShiranianPuppy1205thru0206024.JPG)](http://www.dogbreedinfo.com/puppydog/puppiesphoto.htm)
+[{% imagesize /assets/2010/ShiranianPuppy1205thru0206024.JPG:img %}](http://www.dogbreedinfo.com/puppydog/puppiesphoto.htm)
 
 The proposed Islamic Community Center in New York (better known as the Mosque near [Ground Zero](http://en.wikipedia.org/wiki/World_Trade_Center_site)) has been on a lot of minds lately and I’d like to share a few thoughts on it. If this stresses you out, let the crazy adorable puppy console you.
 

@@ -18,7 +18,7 @@ This raises a few questions in my mind:
 
 Let’s thing a moment about how a search engine works. At a ridiculously high level, it wanders around the web clicking on every link it can find. This is called crawling. It records everything as it goes and builds an index. Then when you search for something, it looks at the index to figure out what pages might be relevant to you. If the search engine doesn’t crawl the web with its crawlers, it can’t find pages. 
 
-[![](/assets/2011/bing-tweets.png)](http://twitter.com/#!/mharen/status/33195856446365696)
+[{% imagesize /assets/2011/bing-tweets.png:img %}](http://twitter.com/#!/mharen/status/33195856446365696)
 
 So what’s the alternative to crawling? While exchanging [tweets](http://twitter.com/#!/mharen/status/33195856446365696) with [Phil Haack](http://haacked.com/) (Microsoft product manager of the über-awesome ASP.NET MVC project) something occurred to me. Is Microsoft *crowdsourcing* search? That is, in addition to crawling pages from link to link like everyone else, are they also crawling pages that users click on via “click stream data”?
 

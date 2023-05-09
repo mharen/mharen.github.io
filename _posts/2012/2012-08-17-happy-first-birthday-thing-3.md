@@ -24,7 +24,7 @@ We found what we needed:
 
 The girls helped me scuff of the surface for priming and painting:  
 
-![](/assets/2012/2012-08-04_14.19.54.jpg)  
+{% imagesize /assets/2012/2012-08-04_14.19.54.jpg:img %}
 
 Then we wiped it down and repaired a broken drawer:
 
@@ -50,7 +50,7 @@ Thing1 inspecting our work:
 
 Happy Birthday, Thing 3
 
-![](/assets/2012/IMG_3222.jpg)    
+{% imagesize /assets/2012/IMG_3222.jpg:img %}
 
 Love, Daddy  
 

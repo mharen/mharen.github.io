@@ -17,15 +17,15 @@ I’m starting to lay the groundwork for a larger project that will be driven fr
  
 #### Build
 
-![](/assets/2010/DSC_0011.jpg) 
+{% imagesize /assets/2010/DSC_0011.jpg:img %}
 
 #### Circuit
 
-![](/assets/2010/Sketch_bb-day-10.png) 
+{% imagesize /assets/2010/Sketch_bb-day-10.png:img %}
 
 #### Schematic
 
-![](/assets/2010/Sketch_schem6.png) 
+{% imagesize /assets/2010/Sketch_schem6.png:img %}
 
 #### Code  
 

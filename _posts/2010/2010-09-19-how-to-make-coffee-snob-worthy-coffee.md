@@ -75,7 +75,7 @@ A Mr. Coffee Drip Pot as pictured (that’s really mine, about to brew!).
 
 My current bag is “Archer Farms, Organic, Fair Trade, Super Nice Guy, Hippie Approved, Single Origin, Save the Children (seriously!?) Tierra Del Sol”. It’s from Target and costs like $6-$8. It’s just coffee. When this bag is gone, I’ll get another of a similar roast but a different variety.
 
-![](/assets/2010/affordable-coffee.jpg)
+{% imagesize /assets/2010/affordable-coffee.jpg:img %}
 
 **How do I get good coffee at work?**
 

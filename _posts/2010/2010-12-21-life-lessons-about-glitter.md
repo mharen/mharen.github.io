@@ -18,7 +18,7 @@ In case it’s not immediately obvious, the kids got into an industrial supply o
 
 Astute readers will note substantial collections in shoes, and all over Thing2. What’s most unfortunate is where the glitter is *not*: in its glitter containers (not marked, but scattered throughout) or in the two *giant, wide-open* baskets designated for such activities.  
 
-![](/assets/2010/glitter-3.jpg) ![](/assets/2010/glitter-4.jpg)
+{% imagesize /assets/2010/glitter-3.jpg:img %} {% imagesize /assets/2010/glitter-4.jpg:img %}
 
 To appreciate the gravity of this you must understand that I h-a-t-e glitter. Passionately. If an organization existed with the sole objective of outlawing glitter, I would donate both time and money to the cause.   
   

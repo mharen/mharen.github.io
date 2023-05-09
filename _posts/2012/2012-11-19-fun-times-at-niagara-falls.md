@@ -22,7 +22,7 @@ But now we have a gaggle of children...so it’s even better :)
 
 They loved it!
 
-![](/assets/2012/2012-10-26_15.55.37.jpg) 
+{% imagesize /assets/2012/2012-10-26_15.55.37.jpg:img %}
 
 That’s the iPhone’s native panorama. Here’s the same shot with the 360 app:
 

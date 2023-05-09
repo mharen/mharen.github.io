@@ -41,7 +41,7 @@ I’m actually shocked the kids adapted so quickly to it all. Thing 1, and Uncle
 
 Thanks, Mark! I’ve got some learnin’ to do.
 
-![](/assets/2012/2012-11-23_13.40.35.jpg)  
+{% imagesize /assets/2012/2012-11-23_13.40.35.jpg:img %}
 
 Some day I’ll remember to give you your Christmas present from last year.
 

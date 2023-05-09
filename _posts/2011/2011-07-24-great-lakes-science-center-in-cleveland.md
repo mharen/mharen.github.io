@@ -16,7 +16,7 @@ They also have a fantastic play area that any kid under about seven or eight wou
 
 Getting ready (wife made amazing banana chocolate chip pancakes while I slept!):  
 
-![](/assets/2011/science-center-2.jpg)  
+{% imagesize /assets/2011/science-center-2.jpg:img %}
 
 With full bellies, we made it to the Science Center after stopping to calm the troops just once.   
 
@@ -24,7 +24,7 @@ With full bellies, we made it to the Science Center after stopping to calm the t
 
 (Pro tip: take a decent cell phone pic of your kids when you get to a busy place. This way, if they get lost you have a handy picture of exactly what they look like and what they’re wearing. If it’s on a cell phone, you can share it quickly if needed, too. And, if you don’t need it, you at least have a couple cute pics.)  
 
-![](/assets/2011/science-center-8.jpg)  
+{% imagesize /assets/2011/science-center-8.jpg:img %}
 
 Bernoulli’s Principle:  
 
@@ -38,11 +38,11 @@ They had a neat display on DNA sequencing, including a board asking people what 
 
 And this one that triggered a memory of a [hilarious comic](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html):
 
-![](/assets/2011/science-center-20.jpg)    
+{% imagesize /assets/2011/science-center-20.jpg:img %}
 
 Maya filled out her own sheet:  
 
-![](/assets/2011/science-center-26.jpg)  
+{% imagesize /assets/2011/science-center-26.jpg:img %}
 
 I bet her feelings are shared by many. 
 
@@ -52,7 +52,7 @@ Before we left that exhibit, Wife got a chance to school us in DNA building:
 
 Then we did something new: took a tour of the steamship [*William G. Mather*](http://www.glsc.org/mather_museum.php). Unfortunately, I have very few pictures of it. Suffice it to say, it’s utterly massive. Here’s a pic from [Wikipedia](http://en.wikipedia.org/wiki/Steamship_William_G._Mather_Maritime_Museum) that really doesn’t do it justice:
 
-![](/assets/2011/science-center-27.jpg)  
+{% imagesize /assets/2011/science-center-27.jpg:img %}
 
 Thing1 tailing Thing2 in a flight simulator: “I’m on your six!”
 
@@ -76,7 +76,7 @@ And finally, the ball pit.
 
 The pit has this cool bucket that the kids fill through various means. At any time, someone can pull a chain to dump it.
 
-![](/assets/2011/science-center-10.jpg)    
+{% imagesize /assets/2011/science-center-10.jpg:img %}
 
 And they often do.  
 

@@ -27,9 +27,9 @@ Here we go:
  
 #### Build
 
-![](/assets/2010/IMAG0689-day-5.jpg) 
+{% imagesize /assets/2010/IMAG0689-day-5.jpg:img %}
 
-![](/assets/2010/IMAG0694-day-5.jpg) 
+{% imagesize /assets/2010/IMAG0694-day-5.jpg:img %}
 
 #### Circuit
 
@@ -44,7 +44,7 @@ If you look closely in the build shot above you can see that I used four rows, a
 
 I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:
 
-![](/assets/2010/day_5_schem.png) 
+{% imagesize /assets/2010/day_5_schem.png:img %}
 
 #### Code
 

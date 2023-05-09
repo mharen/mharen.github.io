@@ -32,7 +32,7 @@ This is all from my perspective, and is meant to complement whatever Wife may wr
 
 **7:00** Wife labors with grace and wonder through increasingly intense contractions for about an hour. Just when she starts getting anxious about Midwife, Midwife arrives.
 
-![](/assets/2011/2011-08-17_at_06-05-18.jpg)  
+{% imagesize /assets/2011/2011-08-17_at_06-05-18.jpg:img %}
 
 **8:00** Contractions slow just slightly at the good news that Midwife is here. I encourage Wife to walk and we start wandering around the neighborhood. Each contraction (about every 5 minutes) produces an interesting scene that must be confusing to our neighbors. It goes like this: wife will lean on me, or the ground and I’ll hold a long warm rice sock[^1] low across her belly while she whispers[^2] sweet labor sounds to the heavens.
 
@@ -70,7 +70,7 @@ We carefully help Wife to the bed which is already doubly made up with regular f
 
 **12:10** Within moments of the explosive delivery of fluid, Baby’s head, full of hair, starts crowning. With some gentle guidance from Midwife, and another push, his head comes through. One final push and he fully emerges, followed by another surprising volume of fluid.
 
-[![](/assets/2011/pirate_flush.png)](http://www.veggiepirates.com/)
+[{% imagesize /assets/2011/pirate_flush.png:img %}](http://www.veggiepirates.com/)
 
 And then joy. Raw, cliché, tears-in-your-eyes joy. A dramatic, heart wrenching joy that engulfs us again and again with each tiny cry from this tiny little person that we’ve spent that last 39 weeks praying for[^5].
 
