@@ -15,7 +15,7 @@ I wired up a buzzer from Radio Shack for some endless fun with sound. After jump
 
 Anyway, after playing around with beeps, I wired up Mary Had a Little Lamb and played it for Sarah. She looked at me perplexed and asked what it was. Not a good sign.
 
-It seems that I am completely tone deaf. Not only did I have the scale in the wrong order (high vs. low), I had all kinds of wrong notes in there. Lucky for me, I’m married to a musical wonder who helped me out. She set me straight with a proper set of notes and then helped me read music from the Internet. At several points, she even corrected the music we found (and her corrections *always *sounded better). Incredible. 
+It seems that I am completely tone deaf. Not only did I have the scale in the wrong order (high vs. low), I had all kinds of wrong notes in there. Lucky for me, I’m married to a musical wonder who helped me out. She set me straight with a proper set of notes and then helped me read music from the Internet. At several points, she even corrected the music we found (and her corrections *always* sounded better). Incredible. 
 
 {% imagesize /assets/2010/privatepractice.jpg" | relative_url }} "I hate this show so much that I made this up-side-down":img %}
 

@@ -10,7 +10,7 @@ title: Notify New Relic of Deployments with Chef
 ---
 
 
-You can tell New Relic about your deployments and they’ll add vertical lines to the graphs at the corresponding times. This is *super *helpful as the (often dramatic) impact of a deployment becomes easy to grok.
+You can tell New Relic about your deployments and they’ll add vertical lines to the graphs at the corresponding times. This is *super* helpful as the (often dramatic) impact of a deployment becomes easy to grok.
 
 The documentation on the Events > Deployments page is very helpful, but I still had to tinker with my message to New Relic’s API to get it to work. Here’s what I ended up with:
 

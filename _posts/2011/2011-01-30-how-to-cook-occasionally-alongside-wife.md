@@ -15,13 +15,13 @@ That’s probably my greatest weakness: meal planning. Wife once told me in coll
 
 Aside from a short, tired menu of only simple entrées (easily solved by making whatever Wife tells me to make), another weakness is meal execution (i.e. the actual cooking). I’m great at following recipes so long as I don’t have to deviate from the instructions or make substitutions. Actually, a few substitutions are OK—I can look things up on the ol’ internet or check covers of the cookbooks. I can’t handle some of Wife’s mental recipes, though.
 
-I have a final, challenging problem: I have to *focus* when I’m cooking (or doing *anything *for that matter).
+I have a final, challenging problem: I have to *focus* when I’m cooking (or doing *anything* for that matter).
 
-These issues lead right into the root cooking-related problem in our house right now: I can’t cook *with *Wife. Either we get to talking and then I screw up whatever it was I was supposed to be doing, or she has so many changes to a recipe that we no longer really have a recipe on paper (it’s in her head) and I can’t cook it.
+These issues lead right into the root cooking-related problem in our house right now: I can’t cook *with* Wife. Either we get to talking and then I screw up whatever it was I was supposed to be doing, or she has so many changes to a recipe that we no longer really have a recipe on paper (it’s in her head) and I can’t cook it.
 
 **But I have a solution.**
 
-I plan and prepare to the point that it’s almost silly. This means I refuse to make anything unless I have a recipe. I read the recipe. I *understand *the recipe. I am one with the recipe. We’re BFFs.
+I plan and prepare to the point that it’s almost silly. This means I refuse to make anything unless I have a recipe. I read the recipe. I *understand* the recipe. I am one with the recipe. We’re BFFs.
 
 Then I get a ridiculous number of bowls and measure out everything. Spices, water, flour—*everything*. Then I put it in order of when it’s going to be needed.
 

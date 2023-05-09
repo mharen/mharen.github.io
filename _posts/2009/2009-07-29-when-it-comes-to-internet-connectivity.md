@@ -16,7 +16,7 @@ A 3gb DVD in under an 90 minutes—that’s ridiculously fast. Sadly at my offic
 
 Home users like me have been pampered with cheap, reliable and fast Internet access: $35/month gets me solid 6mb access. I don’t want to know what my office pays for its handful of T1s. From my days at the ISP, I would guess it’s north of $3000 for a 4.5mb pipe. That’s absurd! For about $100/mo I can go up to 18mb!
 
-Now all you network savvy folks out there will be quick to point out that my connection is asymmetrical while the office’s connection is symmetrical. What that means for my actual reader is that while I can *download *a YouTube video at 6mb, I can only *upload *at a fraction of that, say 0.5-1mb, resulting in a pleasant viewing experience but agonizingly slow sharing of cute baby videos like this one: 
+Now all you network savvy folks out there will be quick to point out that my connection is asymmetrical while the office’s connection is symmetrical. What that means for my actual reader is that while I can *download* a YouTube video at 6mb, I can only *upload* at a fraction of that, say 0.5-1mb, resulting in a pleasant viewing experience but agonizingly slow sharing of cute baby videos like this one: 
 
 <iframe class="full-embed sd" src="https://www.youtube.com/embed/Co5PCvJ7LJI" title="Maya Dancing and Charlotte Swinging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

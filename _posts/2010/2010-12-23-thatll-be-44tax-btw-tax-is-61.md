@@ -21,7 +21,7 @@ That’s $44 for the tickets, and $26.75 for...I don’t know what for. They are
 * “Convenience fee”? What the hell is that? I’m buying these online, which saves **you** money on printing, shipping, logistics, etc. Charging me extra for the privilege of saving you money is just absurd. Can you imagine buying any other product and paying more to download it than having it shipped to you?
 * “Facility fee”? Isn’t that what I bought the tickets for? Or did you forget to book the stadium when you booked Disney and now you’re short $200,000? 
 
-What about tax? That’s one that I **wouldn’t **shy from but you **don’t **have that there. Odd.
+What about tax? That’s one that I **wouldn’t** shy from but you **don’t **have that there. Odd.
 
 You know what, Quicken Loans Arena (and pretty much any place that sells tickets, probably)? You suck. **Let’s make a deal**: you keep your tiny, cold seats, $8 sodas and who-knows-what-parking spaces and I’ll keep my money and my sanity. Square?
 

@@ -17,7 +17,7 @@ While I hope that the content on my site is still mildly distracting, I think it
 
 First off, if you don't have WindowsXP, you are in for a world of pain. Most of the tips below will work for you should know that you are using an operating system with security analogous to a straw house with all the doors and windows open...on a windy day...in Kansas...during tornado season...with Dorothy.
 
-So, you should have Windows XP and it damn well should have Service Pack 2. Here's the easiest way to check: Hold with *windows *key on your keyboard (b/t Ctrl and Alt) and press the *break *key (usually above the 10-keypad or the backspace key). This will bring up *System Properties* window. If you already have Service Pack 2, the first section will say so. DO NOT go poking around in the other tabs--just hit Cancel to close the window.
+So, you should have Windows XP and it damn well should have Service Pack 2. Here's the easiest way to check: Hold with *windows* key on your keyboard (b/t Ctrl and Alt) and press the *break* key (usually above the 10-keypad or the backspace key). This will bring up *System Properties* window. If you already have Service Pack 2, the first section will say so. DO NOT go poking around in the other tabs--just hit Cancel to close the window.
 
 Whether you have SP2 or not, go on, we'll get it later if you need it.
 

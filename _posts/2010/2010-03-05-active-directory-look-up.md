@@ -32,6 +32,6 @@ Since I’m running this app as a domain user, I don’t even have to configure 
 
 ***
 
-OK so I have the user’s name, but I’m rarely a fan of duplicating data. But I need a *local *copy of the user’s name to keep things nice and speedy (plus hitting the domain for a person’s name all the time is a little silly, too). 
+OK so I have the user’s name, but I’m rarely a fan of duplicating data. But I need a *local* copy of the user’s name to keep things nice and speedy (plus hitting the domain for a person’s name all the time is a little silly, too). 
 
 My compromise is that I update my local copy with the directory’s profile data each time the user logs in. I’m already hitting the domain to authenticate the user any way so it’s not any extra work. This should take care of the rare situation that someone’s name or profile info changes without requiring anyone to do anything.

@@ -27,7 +27,7 @@ After working through some mockups and trying to define how we might measure a s
 
 * HR already collects a lot of information about candidates and interviews in a set of spreadsheets
 * We don’t have (and can’t collect) enough data to tell who is good or bad at interviewing
-* But even if we could, it’d take *years *and probably couldn’t be shared with us anyway 
+* But even if we could, it’d take *years* and probably couldn’t be shared with us anyway 
 
 
 The whole point of Project Noodle was to collect data with the goal of giving interviewers (e.g. *me*) feedback on how we’re doing. Since I can’t do that, I’ve decided to drop the project. 

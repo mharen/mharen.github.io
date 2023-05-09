@@ -150,7 +150,7 @@ Thank you to everyone who supported us on Baby’s birthday.
 
 *Thank you*, Isabella, Eden, Big Isaac, Mr. Isaac, and Kieran for joining in our fun. Thank you for playing with Thing 1 and Thing 2 and helping them welcome Baby into this world. Thank you for triggering spontaneous laughter throughout the morning and joining in our excitement.
 
-*Thank you *to the dozens who have supported us in the months leading up to Baby’s birth. I know you’ll understand why we couldn’t have all of you here at the same time. We look forward to visiting with each of you and introducing you to Baby.
+*Thank you* to the dozens who have supported us in the months leading up to Baby’s birth. I know you’ll understand why we couldn’t have all of you here at the same time. We look forward to visiting with each of you and introducing you to Baby.
 
 We are so fortunate to have you all.
 

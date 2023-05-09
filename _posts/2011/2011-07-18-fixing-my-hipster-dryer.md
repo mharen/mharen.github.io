@@ -5,7 +5,7 @@ categories: household
 title: Fixing My Hipster Dryer
 ---
 
-As wonderful husbands often do, I went downstairs to switch the laundry the other day *without *being asked and discovered a load of wet clothes in the dryer. My wife likes to say the baby stole her brain so I chuckled heartily and started the dryer, assuming that she forgot to start it when she loaded it. 
+As wonderful husbands often do, I went downstairs to switch the laundry the other day *without* being asked and discovered a load of wet clothes in the dryer. My wife likes to say the baby stole her brain so I chuckled heartily and started the dryer, assuming that she forgot to start it when she loaded it. 
 
 I returned a few hours later to try again at switching the laundry only to discover the clothes in the dryer were still wet. Uh oh. I turned that puppy on and found it ran, it's lint trap was empty, but it didn’t get hot.
 

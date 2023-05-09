@@ -12,7 +12,7 @@ Thanks to the wonderful technology of spam filters, I rarely see spam anymore. T
 
 It made it through the corporate filters but to Outlook’s credit it *was* flagged as probable spam.  
 
-Obviously I didn’t click the link. A bitly link. Hmmm. I use bitly for my [twittering](http://twitter.com/mharen) and happen to know that if you add a “+” to the end of *any *bitly or jmp link, you get an awesome stats page [like this](http://bit.ly/hIfeGP+):  
+Obviously I didn’t click the link. A bitly link. Hmmm. I use bitly for my [twittering](http://twitter.com/mharen) and happen to know that if you add a “+” to the end of *any* bitly or jmp link, you get an awesome stats page [like this](http://bit.ly/hIfeGP+):  
 
 ![](/assets/2011/bitly-5.png)  
 

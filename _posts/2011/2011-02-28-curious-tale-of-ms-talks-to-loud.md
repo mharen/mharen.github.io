@@ -19,7 +19,7 @@ Although our riveting games of Speed and Gin were a much needed distraction from
 
 And she’s completely to the brim full of crap. I understand the pressure to be cool in front of your friends and make up crazy, ridiculous, absolutely-did-not-could-not-happen stories. I struggled with that as a kid but have since learned to embellish my stories solely with the facts and only the finest, choicest self-deprecating humor. I think most adults eventually reach this stage, too. 
 
-Ms. Talks-Too-Loud has *not *reached this state. Here are a few thoughts we overheard:
+Ms. Talks-Too-Loud has *not* reached this state. Here are a few thoughts we overheard:
 
 > *It makes we want to pull my hair out. My hair’s not even real and I want to pull it out.*  
 > 

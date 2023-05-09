@@ -42,7 +42,7 @@ I really think we can simplify and sidestep most of the controversy with a littl
 >   
 > This is a fact today. If uninsured deadbeat Joe Shmoe (no offense, Joe) comes down with cancer, he will receive complete treatment at a hospital, regardless of his ability to pay.   
 >   
-> **Today’s financial impact:** We all hope he *can *pay but with the cost of an extended hospital visit (easily in the six figures), let’s not count on it. So Joe declares bankruptcy and society absorbs the cost of Joe’s treatment through higher health care costs. Everyone loses.  
+> **Today’s financial impact:** We all hope he *can* pay but with the cost of an extended hospital visit (easily in the six figures), let’s not count on it. So Joe declares bankruptcy and society absorbs the cost of Joe’s treatment through higher health care costs. Everyone loses.  
 >   
 > Consider the same scenario but now with Joe being a mostly responsible guy. Suppose instead of being a deadbeat, he had saved away $100,000 for retirement...but neglected to carry health insurance. We’re a little better off because he can apply $100k towards his medical bills, but Joe’s seriously screwed. He’s probably still looking at bankruptcy and his life savings has just vanished. Sure it’s his fault for letting his insurance lapse but it still seems unfair, especially when compared to the deadbeat version.  
 >   

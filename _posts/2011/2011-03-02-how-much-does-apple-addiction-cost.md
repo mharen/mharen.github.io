@@ -13,7 +13,7 @@ Apple’s iPad2 will be released on March 11. It looks awesome, no doubt—just 
 Before you label me a fan boy, let me offer the following facts in my defense: 
 * I don’t have a mac (Wife has a two or three year old MacBook) 
 * I have a pretty dated 30gb iPod (pre-Touch days) 
-* My love of Apple is actually much bigger than Apple—I love *all technology * 
+* My love of Apple is actually much bigger than Apple—I love *all technology*  
 
 
 Moving on. For this calculation, I’ve made the following assumptions:
@@ -27,7 +27,7 @@ The addicted user will buy the following products:
 The calculation will be run for the following user profiles: 
 * The **poser** who buys the cheapest option of whatever new crap Steve presents 
 * The **functional elitist** who buys mid-grade all the way because they actually use it (this would be me) 
-* The **hardcore fan boy **who goes *top of *the top of the line every time  
+* The **hardcore fan boy** who goes *top of* the top of the line every time  
 
 **The numbers:[^1]**
 

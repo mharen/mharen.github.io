@@ -10,7 +10,7 @@ title: Case Sensitivity in ASP.NET
 
 I’m personally a fan of respecting case sensitivity. Historically it seems that most programming languages are picky about “a” vs. “A”, and even most operating systems. VB, and Windows, however, are not.
 
-This leads to some frustratingly elusive bugs on occasion because there *are *instances in VB where case does matter. Take for instance the following objects, commonly available while processing an ASP.NET request:
+This leads to some frustratingly elusive bugs on occasion because there *are* instances in VB where case does matter. Take for instance the following objects, commonly available while processing an ASP.NET request:
 
 * Request
 * Session

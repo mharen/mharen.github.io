@@ -11,7 +11,7 @@ If you don’t know what [XmlHttpRequest](http://en.wikipedia.org/wiki/XMLHttpRe
 
 Infinite scroll is something you might not have even noticed. It’s the slick effect a website employs when they have a lot of content to show you but aren’t sure how much to show you. That is, they load two or three screens of content, then wait for you to scroll down before loading more.
 
-The trick is that they load more *before *you need it so you never notice it happening. It’s like when the waiter brings you a refill when you’ve still got a couple sips to go. Good stuff.
+The trick is that they load more *before* you need it so you never notice it happening. It’s like when the waiter brings you a refill when you’ve still got a couple sips to go. Good stuff.
 
 {% imagesize /assets/2010/gooooooogle.png:img %}
 

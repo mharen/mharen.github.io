@@ -31,7 +31,7 @@ I think people are generally very good at tailoring their behavior (speech, lang
 
 The simple fact is that the overwhelming majority of interactions we have with each other are professional and courteous. That’s how norms are established, after all. So, is crude language appropriate in professional settings? I think it’s better to look at language as just one of many aspects of how we interact with others. 
 
-For example, my vocabulary varies with my audience. I don’t use terms like *lock escalation *or *time complexity *with my sales people. Similarly, I avoid using terms like *value add *and *thinking cap *(yes, I actually hear that one occasionally) when talking to fellow programmers. I’ve even learned to live with people calling computers *hard drives *and mixing up *Office *and *Windows *(hi, Mom!) because that’s the jargon that’s appropriate when talking to people (e.g. my mom) who simply don’t care about technology all that much.
+For example, my vocabulary varies with my audience. I don’t use terms like *lock escalation* or *time complexity* with my sales people. Similarly, I avoid using terms like *value add* and *thinking cap* (yes, I actually hear that one occasionally) when talking to fellow programmers. I’ve even learned to live with people calling computers *hard drives* and mixing up *Office* and *Windows* (hi, Mom!) because that’s the jargon that’s appropriate when talking to people (e.g. my mom) who simply don’t care about technology all that much.
 
 If we view language on a scale, we can adjust aspects of it to suit our surroundings. When I’m in a meeting with a bunch of higher-ups, for example, my language variables look like this:
 
@@ -45,7 +45,7 @@ And then after work, at a code-a-thon, or in smaller groups, things max out as I
 
 My point is, normal people constantly tune these social variables. Intentionally setting them out spec is a tactic that can be employed for dramatic effect, but I rarely find it necessary to do that in the work place. About as far as I’ve gone with such things was during my last tech talk presentation. As I was doing the overview stuff I remarked on the obvious absence of anyone from management. I joked that they were too busy golfing to learn something new and removed my dress shirt to give the remainder of the talk in the geeky t-shirt I was wearing underneath. I’m so baller, I know.
 
-**I think making inappropriate jokes or using bad language is, more than anything, distracting.** I’m sure it offends some people, too, but I think the bigger issue is how it affects your signal. If people are busy thinking about *how *you said something, they aren’t thinking about *what *you said. 
+**I think making inappropriate jokes or using bad language is, more than anything, distracting.** I’m sure it offends some people, too, but I think the bigger issue is how it affects your signal. If people are busy thinking about *how* you said something, they aren’t thinking about *what* you said. 
 
 I think Scott’s right to focus on language as the essence of professionalism in the work place and during presentations. In other settings it might be something else. For example, commenters on Reddit crank the normal, dispassionate language option for crudeness to 11; it’s like an f-bomb blizzard where every snowflake is some different invocation of the same hyper-flexible word. But [there](http://en.wikipedia.org/wiki/Troll_(Internet)) heads explode if someone makes a typo or uses improper grammar. 
 

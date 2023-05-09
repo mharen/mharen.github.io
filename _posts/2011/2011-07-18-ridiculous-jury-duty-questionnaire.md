@@ -23,11 +23,11 @@ Here are some of my favorite answers:
 
 {% imagesize /assets/2011/IMG_20110302_191835.jpg:img %}
 
-Once I even did computer stuff *at *a pizza place.
+Once I even did computer stuff *at* a pizza place.
 
 {% imagesize /assets/2011/IMG_20110302_192155.jpg:img %}
 
-Wife compelled me to *not attach *a list describing her job.
+Wife compelled me to *not attach* a list describing her job.
 
 {% imagesize /assets/2011/IMG_20110302_195136.jpg:img %}
 

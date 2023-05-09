@@ -7,7 +7,7 @@ categories:
 title: Target Is Crazy, And Random Pictures
 ---
 
-We *love *Target. It’s cheap like Walmart but clean, with happy and friendly employees (and customers), and fast checkouts. Sometimes they’re crazy, though. While they’re famous for their [buying in bulk penalties](http://www.consumerist.com/tag/target-is-crazy), we discovered some odd instant substitutes recently:
+We *love* Target. It’s cheap like Walmart but clean, with happy and friendly employees (and customers), and fast checkouts. Sometimes they’re crazy, though. While they’re famous for their [buying in bulk penalties](http://www.consumerist.com/tag/target-is-crazy), we discovered some odd instant substitutes recently:
 
 {% imagesize /assets/2010/target-1.jpg:img %}
 

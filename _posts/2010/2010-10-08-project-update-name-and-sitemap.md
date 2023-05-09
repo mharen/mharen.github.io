@@ -26,7 +26,7 @@ I’ve refined the sitemap a bit:
 
 {% imagesize /assets/2010/project-update-1.png:img %}
 
-I have decided to employ a little discipline by working out the models, views, and controllers—the essential elements to an ASP.NET MVC application—*before *I begin coding. Here’s what I have so far:  
+I have decided to employ a little discipline by working out the models, views, and controllers—the essential elements to an ASP.NET MVC application—*before* I begin coding. Here’s what I have so far:  
 
 {% imagesize /assets/2010/project-update-2.png:img %}
 

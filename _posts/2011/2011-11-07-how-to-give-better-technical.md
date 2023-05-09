@@ -49,7 +49,7 @@ I think most presentations are terrible because the presenter wasn't honest with
 1. Pick a topic
 2. Identify what you want to cover in the topic
 3. Make an interesting outline of everything you want to cover
-4. Practice it, **cutting out stuff **until you’re at about 40 minutes (throwing away content is the hardest part)
+4. Practice it, **cutting out stuff** until you’re at about 40 minutes (throwing away content is the hardest part)
 5. At this point you should be very satisfied with what you’ll cover. Now you can build your assets (code, slides, etc.).
 
 Practice, speaking out loud, everything you think you need to say and do. Leave awkward pauses where you plan to take questions and actually go through the coding exercises you plan to do. Oddly enough, I feel more ridiculous speaking aloud my talk by myself or in front of my wife than I do to a real audience. How do you know when you have 40 minutes of content? You won’t until you practice!

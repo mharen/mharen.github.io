@@ -43,7 +43,7 @@ Unfortunately, this fails with the following error:
 
 The database is not published
 
-OK, so *part *of SQL Server knows it’s not being replicated, I guess that’s good. A lot of sites suggest physically removing the log file by detaching the database, renaming or deleting the log file, and reattaching the database. There’s a much [simpler, gentler way](http://www.sqlmag.com/Forums/tabid/426/aff/72/aft/83960/afv/topic/Default.aspx):
+OK, so *part* of SQL Server knows it’s not being replicated, I guess that’s good. A lot of sites suggest physically removing the log file by detaching the database, renaming or deleting the log file, and reattaching the database. There’s a much [simpler, gentler way](http://www.sqlmag.com/Forums/tabid/426/aff/72/aft/83960/afv/topic/Default.aspx):
   
 ```sql
 -- publish database (this doesn't actually create 

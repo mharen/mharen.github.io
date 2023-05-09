@@ -11,7 +11,7 @@ title: Thing2 Explodes, Laundry Ensues
 
 Poor Thing2 came down with some sort of stomach bug on Sunday. How do I know? Well I’m no doctor, but when my precious little toddler starts losing her breakfast a red flag goes up. 
 
-We first knew something was wrong when kids were coloring and Sister reported that Thing2 had “spit up”. Thing2 *never *spits up. Head cocked to one side I investigated and discovered slimy oatmeal where oatmeal isn’t supposed to be (everywhere).
+We first knew something was wrong when kids were coloring and Sister reported that Thing2 had “spit up”. Thing2 *never* spits up. Head cocked to one side I investigated and discovered slimy oatmeal where oatmeal isn’t supposed to be (everywhere).
 
 Even though she wasn’t actually very upset we consoled her anyway and cleaned her up. In the process I think we got more muck on us than on she had on her.
 

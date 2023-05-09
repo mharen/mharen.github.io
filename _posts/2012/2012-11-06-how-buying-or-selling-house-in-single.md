@@ -57,7 +57,7 @@ Since you’re a certified buyer, you (and the “fast track” people) already 
 
 You chit chat with the seller and make up your mind:* you are buying this house*. You haggle, and eventually settle on the price and shake hands (or maybe you slide napkins back and forth, looking totally B.A.). The hard part is over.
 
-The two of you sit down around the kitchen table and pull out your phones or tablets. Your phones already know *who *you are *where* you are so all you have to do is enter a PIN. The phone accepts your PIN and all your info pops up. All the seller’s info pops up. All the home’s info pops up. *You don’t even enter the address *(GPS FTW!).
+The two of you sit down around the kitchen table and pull out your phones or tablets. Your phones already know *who* you are *where* you are so all you have to do is enter a PIN. The phone accepts your PIN and all your info pops up. All the seller’s info pops up. All the home’s info pops up. *You don’t even enter the address *(GPS FTW!).
 
 You both confirm the sale details (price, date, etc.) and the program verifies that everything’s legit (i.e. that the price and terms work for both of you). 
 
@@ -69,7 +69,7 @@ Since you and the seller already told the “fast track” app about your financ
 
 The seller packs up their kitchen table and leaves. Congratulations on your new home!
 
-And you’re done. (I wish buying a *car *was this easy!)
+And you’re done. (I wish buying a *car* was this easy!)
 
 (Of course the above scenario could be modified to include common contingencies like date of possession, chattel, repairs, a cooling off period, etc.)
 

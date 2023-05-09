@@ -23,7 +23,7 @@ The **screen** is great. We don't skimp on screens so this baby is full hd. It t
 
 The **performance** is incredible. Getting an SSD two years ago was insane--the best upgrade ever--but moving to a modern processor (with four hyper-threaded cores) is a close second. Of course I moved my SSD over to this new machine so I really have a killer workhorse of a machine now.
 
-I was surprised to find lots of things that I assumed were network-bound are **faster** now. I guess my assumption was wrong. Subversion updates and checkins are noticeably faster. Chrome is much snappier. Even *fast* sites like Stackoverflow are noticeably* faster*. I keep finding myself clicking on things and then beginning to move my attention away, only to have whatever I clicked on be ready before I can. I have to train my expectations for the new, more responsive experience.
+I was surprised to find lots of things that I assumed were network-bound are **faster** now. I guess my assumption was wrong. Subversion updates and checkins are noticeably faster. Chrome is much snappier. Even *fast* sites like Stackoverflow are noticeably *faster*. I keep finding myself clicking on things and then beginning to move my attention away, only to have whatever I clicked on be ready before I can. I have to train my expectations for the new, more responsive experience.
 
 I love the **back-lit keyboard**. I work in the dark often (while the kiddos fall asleep, usually) and being able to actually see the keys is pretty helpful. It is attractive, not too bright, and has quickly become something I always want in a laptop.
 

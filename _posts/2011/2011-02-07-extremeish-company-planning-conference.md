@@ -35,7 +35,7 @@ Back to the battle briefing. The President laid out the rules for an afternoon g
 
 {% imagesize /assets/2011/retreat-image-21.png:img %}
 
-I marked my team’s path with question marks because I was never *really sure *where we were. Our initial quest was uneventful; we didn’t make contact with another human for nearly two hours.
+I marked my team’s path with question marks because I was never *really sure* where we were. Our initial quest was uneventful; we didn’t make contact with another human for nearly two hours.
 
 I’ll spare you the details and give you just the gist of the adventure. We hiked for about four hours playing the game. Some of us were captured in “POW camps” while others enjoyed well-supplied base camps:  
 
@@ -47,12 +47,12 @@ We only got off track a couple of times and easily corrected by following our fo
 
 I learned a few survival lessons: 
 * You can’t rely on cell phones—they didn’t work there
-* The latest Google Maps supports cached maps, which *did *work on my phone really well even without service (since I downloaded them in advance—planning FTW), though I relied on my paper map for all important navigation
+* The latest Google Maps supports cached maps, which *did* work on my phone really well even without service (since I downloaded them in advance—planning FTW), though I relied on my paper map for all important navigation
 * Forming consensus among a random group of people is easy—most people like to follow. Forming consensus at a leadership conference is hard because most people like to lead     
 * Instead of saying things like “what do you think of two people hiking down this path?” I found myself getting more assertive than usual to move along the decision making process with language like this, “X and I will hike down this path and then this one unless there’s any objection. No? Let’s go.”   
 
 * Hiking in temperatures in the 20s is easy. Standing still becomes very cold very fast.
-* Snow shoes really work, even if it doesn’t *look *like it
+* Snow shoes really work, even if it doesn’t *look* like it
 * Two-way radios don’t work worth a damn outside of line-of-sight. This technology hasn’t improved much since I had a pair 15 years ago.    <li>Don’t delay when the President offers you a ride or you’ll have a lot of walking in your future
 
 {% imagesize /assets/2011/retreat-IMG_20110204_094731.jpg:img %}

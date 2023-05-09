@@ -30,7 +30,7 @@ This of course includes a couple global files—one for styles and one for scrip
 
 Unfortunately something funny is going on here. Those URLs are not valid—they’re more than relative (relative URLs are fine), they’re relative from an application root, denoted by the tilde (`~`). That tilde means nothing to the browser. 
 
-Now the funny business is that ASP.NET will rewrite the link tag *automatically* to include the correct relative URL by replacing the “`~`” with the appropriate path. It *does not *do that with script tags. So you try to be clever and use a web-friendly relative URL syntax like this:
+Now the funny business is that ASP.NET will rewrite the link tag *automatically* to include the correct relative URL by replacing the “`~`” with the appropriate path. It *does not* do that with script tags. So you try to be clever and use a web-friendly relative URL syntax like this:
 
 
 ```html

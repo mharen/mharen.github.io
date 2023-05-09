@@ -23,7 +23,7 @@ Consider what you’re asking Hyper-V to do when you remove a snapshot (as oppos
 
 {% imagesize /assets/2011/shutdown.png:img %}
 
-And here’s the rub: Hyper-V will only do a merge when the machine is *shutdown or turned off ***(pausing it isn’t enough). This explains why I found a couple of AVHDs from months ago even though I didn’t have any snapshots—the machine simply hasn’t been completely shutdown in...years (reboots don’t count—Hyper-V won’t merge unless the VM is really off).  
+And here’s the rub: Hyper-V will only do a merge when the machine is *shutdown or turned off* (pausing it isn’t enough). This explains why I found a couple of AVHDs from months ago even though I didn’t have any snapshots—the machine simply hasn’t been completely shutdown in...years (reboots don’t count—Hyper-V won’t merge unless the VM is really off).  
 
 If your AVHD is big, this will take a long, long time. Fortunately, cleaning up the AVHD files should improve the VM’s disk performance and save the host machine some disk space (50% in my case).
 

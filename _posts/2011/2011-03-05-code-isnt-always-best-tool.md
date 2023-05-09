@@ -38,7 +38,7 @@ I offer my own **Project Noodle** as another example. Project Noodle was my soft
 
 It eventually became evident to me that the perfect tool already exists in Microsoft Excel. It turned out that the people I was designing a tool for were already using it very effectively. I could certainly improve things a bit and make the process a little smoother and prettier, but it simply isn’t worth it when a suitable tool is already in place.  
 
-**I think choosing *not *to write a program in cases like this is obvious to non-programmers, but not for us software people. For us it’s a difficult realization.** In the case of Project Noodle, I’ve invested considerable effort designing it already, but I must admit that it’s not the best solution for the problem. Luckily, I came to this awareness early in the process, saving me countless hours of wasted effort.  
+**I think choosing *not* to write a program in cases like this is obvious to non-programmers, but not for us software people. For us it’s a difficult realization.** In the case of Project Noodle, I’ve invested considerable effort designing it already, but I must admit that it’s not the best solution for the problem. Luckily, I came to this awareness early in the process, saving me countless hours of wasted effort.  
 
 Sometimes our favorite tool isn’t the best tool.  
 

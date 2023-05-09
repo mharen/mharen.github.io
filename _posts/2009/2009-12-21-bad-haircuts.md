@@ -37,7 +37,7 @@ She said she didn’t know anything about it because she just started and, in fa
 > 
 > “No...this place just opened and they were hiring so...here we are!”
 
-Hmmm so no training required at all...awesome. So she’s cutting my hair and doing the clippers and scissors and clippers and scissors and *back again *to clippers...? I’m detecting a problem. It seems she’s going back and forth—temple to temple—with the clippers and moving towards the top of my head as she goes. I suggest that we stop with the clippers
+Hmmm so no training required at all...awesome. So she’s cutting my hair and doing the clippers and scissors and clippers and scissors and *back again* to clippers...? I’m detecting a problem. It seems she’s going back and forth—temple to temple—with the clippers and moving towards the top of my head as she goes. I suggest that we stop with the clippers
 
 > “hmmm that’s probably enough with the clippers”   
 > 

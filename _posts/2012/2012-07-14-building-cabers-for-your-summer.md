@@ -11,7 +11,7 @@ Let’s face it: you’re not an Olympian. Great, I’m relieved to get that out
 
 Starting with the Summer games in 2008, my company has held its own version of the Olympics. We had a fantastically [memorable time in 2008](http://www.rovisys.com/staticContent/Pictures/RovOlympics2008/index.html), and [again in 2010](http://www.rovisys.com/staticContent/Pictures/WinterOlympics2010/index.html) (Winter), and are ramping up again for the 2012 games on Friday.
 
-My contribution to the organization of the event this year is the caber toss. Or really just the cabers themselves. Apparently a [caber toss](http://en.wikipedia.org/wiki/Caber_toss) is a Scottish thing where you launch 175 lb., 19’ birch trees (the cabers) for distance and accuracy. Obviously we’re not going to do exactly that (we’re a bunch of wee engineers) so our approximation will be constructed from pool noodles. Approximate equipment for an approximate event (this isn’t actually an *Olympic *event), I guess.
+My contribution to the organization of the event this year is the caber toss. Or really just the cabers themselves. Apparently a [caber toss](http://en.wikipedia.org/wiki/Caber_toss) is a Scottish thing where you launch 175 lb., 19’ birch trees (the cabers) for distance and accuracy. Obviously we’re not going to do exactly that (we’re a bunch of wee engineers) so our approximation will be constructed from pool noodles. Approximate equipment for an approximate event (this isn’t actually an *Olympic* event), I guess.
 
 Here’s how I made ours.
 
@@ -47,7 +47,7 @@ When you run out of noodles, you’ll have three or four sticking out. Cut those
 
 {% imagesize /assets/2012/IMG_3171.jpg:img %}
 
-At this point, I had a single 24’ long bundle of noodles. I cut it in half and capped all the ends with a very generous amount of tape to make *two *bundles:
+At this point, I had a single 24’ long bundle of noodles. I cut it in half and capped all the ends with a very generous amount of tape to make *two* bundles:
 
 {% imagesize /assets/2012/2012-07-14_14.27.17.jpg:img %}
 

@@ -34,7 +34,7 @@ Vector two, network access, is pretty well handled by using the built in firewal
 
 Vector three, the web browser, is mostly mitigated by using a decent browser (i.e. not Internet Explorer 6 or 7).
 
-Vectors 4 and 5 are the big ones. These directly involve humans and as such are hard to control. If you download junk from random websites, you’re just asking for it. Instead, you should download only things that don’t seem scammy (e.g. not computer speedup tools, illegally sourced software, or money making schemes) from sites that you trust. Similarly, if someone sends you something suspicious (e.g. “chek out dis pic.scr”), hit delete! If a colleague sends you something out of the blue, ask for confirmation that they actually sent you something before opening it to make sure *they *sent it.
+Vectors 4 and 5 are the big ones. These directly involve humans and as such are hard to control. If you download junk from random websites, you’re just asking for it. Instead, you should download only things that don’t seem scammy (e.g. not computer speedup tools, illegally sourced software, or money making schemes) from sites that you trust. Similarly, if someone sends you something suspicious (e.g. “chek out dis pic.scr”), hit delete! If a colleague sends you something out of the blue, ask for confirmation that they actually sent you something before opening it to make sure *they* sent it.
 
 So that’s how I operated without antivirus software for the last 10 years or so. I used a firewall, a decent browser, and I didn’t open random crap. I didn’t use antivirus. I didn’t get viruses (I checked occasionally).
 
@@ -42,11 +42,11 @@ Then I saw [this PSA](http://twitter.com/#!/codinghorror/status/27956379656):
 
 {% imagesize /assets/2010/antivirus-2.png:img %}
 
-It seems that drive-by attacks are occurring with no user error necessary *in up-to-date Google Chrome*, via a vulnerable Java plugin. I checked *my laptop *with Microsoft’s free, [well-rated](http://www.techsupportalert.com/best-free-anti-virus-software.htm#Quick_Selection_Guide) virus scanner [Security Essentials](http://www.microsoft.com/security_essentials/) and found that **I was infected. **I became infected via my browser (really a plugin, but that’s splitting hairs) and that left me a little shaken. Fortunately, the scanner politely cleaned up the infection without making a big fuss, which is both more effective and less braggy than I remember of other scanners.
+It seems that drive-by attacks are occurring with no user error necessary *in up-to-date Google Chrome*, via a vulnerable Java plugin. I checked *my laptop* with Microsoft’s free, [well-rated](http://www.techsupportalert.com/best-free-anti-virus-software.htm#Quick_Selection_Guide) virus scanner [Security Essentials](http://www.microsoft.com/security_essentials/) and found that **I was infected. **I became infected via my browser (really a plugin, but that’s splitting hairs) and that left me a little shaken. Fortunately, the scanner politely cleaned up the infection without making a big fuss, which is both more effective and less braggy than I remember of other scanners.
 
 {% imagesize /assets/2010/antivirus-3.jpg:img %}
 
-I also followed the advice of the above tweet (disabled the rarely used Java plugin), and now I run the free virus scanner regularly. This is really a change in direction for me, and not a turn I’ve taken lightly. And while AV tools will rarely protect us from emerging threats, they *do *detect thousands of old viruses pretty reliably. The ease of use of Security Essentials and it’s non-FUDiness certainly helped me change my mind.
+I also followed the advice of the above tweet (disabled the rarely used Java plugin), and now I run the free virus scanner regularly. This is really a change in direction for me, and not a turn I’ve taken lightly. And while AV tools will rarely protect us from emerging threats, they *do* detect thousands of old viruses pretty reliably. The ease of use of Security Essentials and it’s non-FUDiness certainly helped me change my mind.
 
 In conclusion, I am now updating my antivirus position by recommending that all Windows users (not just casual users as I previously recommended) run a free antivirus program like the Microsoft option I mentioned above.
 

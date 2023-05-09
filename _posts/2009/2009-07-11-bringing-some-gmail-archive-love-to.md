@@ -14,7 +14,7 @@ I love Gmail's archive feature. It frees me from organizing my mail by depending
   1. New mail shows up in your inbox    
   2. When you’re done with an email, you “archive” it, which basically moves it into a giant folder    
   3. When you need to find an old message again, you *search
-  4. for it by keyword, sender, date, etc. You *do not *organize mail by folder (though you can if you must)
+  4. for it by keyword, sender, date, etc. You *do not* organize mail by folder (though you can if you must)
 
 I’ve been using a similar approach in Outlook at work for a long time. Encouraged by a [GTD idea](http://getitdone.quickanddirtytips.com/inbox-zero.aspx) (cool podcast, btw), I created this structure:  
 
@@ -87,13 +87,13 @@ Sign the certificate by choosing *Tools > Digital Signature > Choose*:
 
 ![](/assets/2009/outlook-archive-00006.png) 
 
-Save and close the VBA window. Restart Outlook (choose *Yes *to save anything if prompted).
+Save and close the VBA window. Restart Outlook (choose *Yes* to save anything if prompted).
 
 Next, let’s create a button for our new Macro with *Tools > Customize*:
 
 ![](/assets/2009/outlook-archive-00007.png) 
 
-Choose the *Macros *category and drag the Archive macro to your toolbar:
+Choose the *Macros* category and drag the Archive macro to your toolbar:
 
 ![](/assets/2009/outlook-archive-00008.png) 
 

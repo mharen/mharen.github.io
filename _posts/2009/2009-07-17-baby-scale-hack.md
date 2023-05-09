@@ -7,7 +7,7 @@ categories:
 title: Baby Scale Hack
 ---
 
-I came home from work and promptly determined that Charlotte’s approximate weight was needed. I’ll spare you the long story behind *why *we needed her weight—just know that the desire was high. 
+I came home from work and promptly determined that Charlotte’s approximate weight was needed. I’ll spare you the long story behind *why* we needed her weight—just know that the desire was high. 
 
 {% imagesize /assets/2009/baby-scale-00001.jpg:img %}
 

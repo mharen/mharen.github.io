@@ -19,7 +19,7 @@ Death by a thousand paper cuts, as they say.
 {% imagesize /assets/2012/for_sale-2.jpg:img alt='a for sale sign in a house's front yard that has been amended to say "must sell", "best offer", "don't make me beg"' %}
 
 When you consider how messed up our housing industry has been for the last few years I think it’s incredible that not much has changed 
-already. By some accounts, I’d say it’s actually worse (I’ve heard that buying a short-sale or foreclosure takes *even more *time).
+already. By some accounts, I’d say it’s actually worse (I’ve heard that buying a short-sale or foreclosure takes *even more* time).
 I firmly believe that by the year 2020, this is all going to be different. By then, a significant share of the market will be available for 
 purchase in under seven days, with some unoccupied houses ready to change hands in a *single day*. I’ll explain.
 

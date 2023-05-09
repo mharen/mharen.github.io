@@ -19,7 +19,7 @@ Here’s what I came up with instead:
 
 {% imagesize /assets/2011/2011-04-15-2.png:img %}
 
-This is a mail rule catches messages that look like meeting request responses and moves them directly to my archive *unless *they contain any text in the body. This has been working quite well for months as any boilerplate reply goes straight to my archive while anything with a custom response still shows up in my inbox.
+This is a mail rule catches messages that look like meeting request responses and moves them directly to my archive *unless* they contain any text in the body. This has been working quite well for months as any boilerplate reply goes straight to my archive while anything with a custom response still shows up in my inbox.
 
 This could almost certainly be improved, e.g.: 
 

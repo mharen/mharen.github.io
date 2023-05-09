@@ -53,7 +53,7 @@ $(document).keydown(function (e) {
 });
 ```
 
-This is about as naïve as it gets and would not be appropriate for sequences with large repeating blocks. But we don’t have that so we’re good. (For example, if the user hits “up, up, up”, we could argue that the next key should be an “up” *or *a “down”, or even “up, up”, depending on how much history we consider. A serious state machine would take care of this but we do none of that here, because we’re not being very serious.)
+This is about as naïve as it gets and would not be appropriate for sequences with large repeating blocks. But we don’t have that so we’re good. (For example, if the user hits “up, up, up”, we could argue that the next key should be an “up” *or* a “down”, or even “up, up”, depending on how much history we consider. A serious state machine would take care of this but we do none of that here, because we’re not being very serious.)
 
 So let's fill in that do-something-cool block.
 

@@ -21,7 +21,7 @@ Well, that’s not very revealing until you realize that the *x*-axis is increas
 
 {% imagesize /assets/2010/richter-8.png:img %}
 
-Now we’re talking. Each increment on the *y*-axis is a **10x **increment on the y-axis. i.e. 8 is 10x greater in magnitude than a 7:
+Now we’re talking. Each increment on the *y*-axis is a **10x* *increment on the y-axis. i.e. 8 is 10x greater in magnitude than a 7:
 
 > 10<sup>8</sup>/10<sup>7</sup> = 10
 

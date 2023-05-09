@@ -12,7 +12,7 @@ title: Jim, The Pony Taxi, Who Sounds A Lot Like an Engineer
 
 <img src="{{ "/assets/2011/t.png" | relative_url }}" class="initial-capital" />here once was a clever pony named Jim. He was a [fine steed]({{ "/assets/2011/ponies.jpg" | relative_url }} "a pony wearing a plush antler hat") who loved solving the world's transportation problems, one trip at a time. When asked what he did for a living, Jim would often answer succinctly, "I make traveling easier."
 
-And so Jim went about his days improving trip performance and finding new ways to help his customers. All the while though, a particular calling bubbled to the surface: more than anything, he *really* wanted his riders to be happy. Unfortunately, like most ponies, Jim wasn't just directed to *wherever* his customers wanted to go, but also *how *to get there.
+And so Jim went about his days improving trip performance and finding new ways to help his customers. All the while though, a particular calling bubbled to the surface: more than anything, he *really* wanted his riders to be happy. Unfortunately, like most ponies, Jim wasn't just directed to *wherever* his customers wanted to go, but also *how* to get there.
 
 The problem, Jim realized, was that he often knew how to better serve his customers than they did. It wasn't that he didn't respect his customers--certainly their destinations were important. But he felt that his years of experience in the shipping business (as the ponies refer to it) made him better qualified to plan the route.
 

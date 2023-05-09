@@ -49,13 +49,13 @@ The comparable experience on iPhone is less than ideal. It goes like this:
 * While looking at some content, click a link or a notification 
 * Something else opens, do whatever you want with it 
 * To return to what you were doing before clicking the link or the notification: 
-* Double-tap the home button and tap the app you *were *using  
+* Double-tap the home button and tap the app you *were* using  
 
 It’s not a huge deal, but it’s three taps and a tiny bit of extra mental energy to do something that’s just one brainless tap on Android. I can’t imagine how annoying this must have been on iPhone before the multitasking stuff was released.  
 
 #### Google Voice Integration
 
-This is a big one for me. I *love *Google Voice. I’ve used it extensively for years, to the point where I honestly have lost track of my actual phone number (I only know and share my GV number). GV integrates fully into Android and it is awesome. Texting, calling, etc. all seamlessly work through my GV number without a second thought on Android.
+This is a big one for me. I *love* Google Voice. I’ve used it extensively for years, to the point where I honestly have lost track of my actual phone number (I only know and share my GV number). GV integrates fully into Android and it is awesome. Texting, calling, etc. all seamlessly work through my GV number without a second thought on Android.
 
 The iPhone experience is weak in comparison. I can dial and text, but only from the GV app. The native dialer and iMessage app don’t consider GV at all, which means that other apps that dial and text (tapping on numbers in *any other app*, or doing speech-driven stuff with Siri) don’t use my Google Voice number.
 
@@ -76,7 +76,7 @@ I do admit that iPhone’s strict control over this means that the hand off is m
 
 #### Better Google Apps
 
-While apps in general are better in the iPhone universe, Google’s apps are the exception. I’ve found that Google not only releases *more *apps for Android than iPhone but they also come out more quickly and seem to be of higher quality.
+While apps in general are better in the iPhone universe, Google’s apps are the exception. I’ve found that Google not only releases *more* apps for Android than iPhone but they also come out more quickly and seem to be of higher quality.
 
 Take Gmail as an obvious example. iPhone’s native email client supports Gmail, but if you do that you don’t get push notifications. Gmail gets around that by pretending to be an Exchange Server, so you can get push, but then you lose much of what makes Gmail awesome.
 

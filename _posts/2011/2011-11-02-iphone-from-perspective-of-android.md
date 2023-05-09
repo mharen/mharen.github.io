@@ -9,11 +9,11 @@ categories:
 title: iPhone, from a Former Android Enthusiast
 ---
 
-I’ve never been a Mac *or *PC guy. I love technology too much to pick just one flavor. In college I ran Linux exclusively for a few years, now I use Windows almost exclusively, and my wife has a MacBook at home which I use occasionally. The best tool for the job, as they say.
+I’ve never been a Mac *or* PC guy. I love technology too much to pick just one flavor. In college I ran Linux exclusively for a few years, now I use Windows almost exclusively, and my wife has a MacBook at home which I use occasionally. The best tool for the job, as they say.
 
 My position on smart phones is much the same.
 
-I used a horrible, nightmarish WinMo6 phone for a while. I *hated *that phone, but my company provided it and it did let me reach the internet from anywhere so I ought not complain too much. Eventually I realized that for $50 per month I could hop on to my wife’s plan and get whatever phone I wanted. I got a very delightful HTC Droid Incredible and loved it.
+I used a horrible, nightmarish WinMo6 phone for a while. I *hated* that phone, but my company provided it and it did let me reach the internet from anywhere so I ought not complain too much. Eventually I realized that for $50 per month I could hop on to my wife’s plan and get whatever phone I wanted. I got a very delightful HTC Droid Incredible and loved it.
 
 There’s a lesson here, folks: if you can afford to cure pain points, do it. For me, it was an embarrassingly easy decision once I realized how silly the whole thing was.
 
@@ -34,12 +34,12 @@ Let’s go.
 
 I have many of the same apps on my iPhone that I previously enjoyed on my Droid. In many cases, however, the iPhone versions are better. Apps like Angry Birds and Words with Friends feel more mature. Their navigation is more intuitive and they *don’t crash regularly*. 
 
-Apps which stream media (e.g. NPR and YouTube) are *much *better.  
+Apps which stream media (e.g. NPR and YouTube) are *much* better.  
 #### Push notifications
 
 {% imagesize /assets/2011/IMG_0494.png:img %}
 
-iPhone is miles ahead when it comes to push notifications. The idea behind push is that you don’t want an app polling for updates because polling is slower and takes up power and system resources. Whatever Android is doing must be broken because hardly any apps support it there. On iPhone, though, *everything *does. It just works and it’s awesome. 
+iPhone is miles ahead when it comes to push notifications. The idea behind push is that you don’t want an app polling for updates because polling is slower and takes up power and system resources. Whatever Android is doing must be broken because hardly any apps support it there. On iPhone, though, *everything* does. It just works and it’s awesome. 
 
 They even give you a centralized location for managing what apps can notify you and what those notifications look like. For example, you can choose to have popups for texts, banners for emails, and nothing for individual games.
 

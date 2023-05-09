@@ -25,7 +25,7 @@ And lastly, Sarah found a public, kid-friendly Halloween party at a community ne
 
 {% imagesize /assets/2012/2012-10-27_18.12.01.jpg:img %}
 
-(It was *very *cold.)
+(It was *very* cold.)
 
 {% imagesize /assets/2012/2012-10-27_18.06.13.jpg:img %}
 

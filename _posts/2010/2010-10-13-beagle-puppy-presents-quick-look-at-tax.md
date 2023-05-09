@@ -13,7 +13,7 @@ In the tax world, marginal refers to additional dollars earned. So the marginal 
 
 {% imagesize /assets/2010/brackets-1.png:img %}
 
-This shows that when you move into the next bracket that *all *of your income is taxed at a higher rate. That’s not true. It’s only the income that is inside the new bracket that is taxed, like this:
+This shows that when you move into the next bracket that *all* of your income is taxed at a higher rate. That’s not true. It’s only the income that is inside the new bracket that is taxed, like this:
 
 {% imagesize /assets/2010/brackets-2.png:img %}
 
@@ -21,7 +21,7 @@ That is, a tiny slice is taxed at 10%, a larger slice is taxed at 15%, and a fin
 
 {% imagesize /assets/2010/brackets-3.png:img %}
 
-I’ve attempted to draw this somewhat to scale—notice that the brackets (cups) are not of equal size. What this means is that your first $16,750 of income fills up the first cup and is reduced by 10% in taxes. Your next cup fills up with $51,250 *additional *income and you part with 15% of it. Assuming you’re doing quite well, your next $69,300 of additional income is taxed at 25%. In my illustration the third cup isn’t quite full so the next few bucks you make will be taxed at 25%, eventually entering the 28% bracket (not shown) once you cross $137,300 in *total *income.
+I’ve attempted to draw this somewhat to scale—notice that the brackets (cups) are not of equal size. What this means is that your first $16,750 of income fills up the first cup and is reduced by 10% in taxes. Your next cup fills up with $51,250 *additional* income and you part with 15% of it. Assuming you’re doing quite well, your next $69,300 of additional income is taxed at 25%. In my illustration the third cup isn’t quite full so the next few bucks you make will be taxed at 25%, eventually entering the 28% bracket (not shown) once you cross $137,300 in *total* income.
 
 One key thing this picture illustrates is that even if someone makes a billion dollars, their first three cups look pretty much the same as above (all full, of course). This means that if a tax break is applied to just the lower brackets, *the billionaire will get the exact same tax break *as the much less prosperous (but exceedingly comfortable) person depicted above. 
 

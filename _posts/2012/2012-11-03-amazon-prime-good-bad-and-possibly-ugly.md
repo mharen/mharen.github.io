@@ -49,7 +49,7 @@ There are an increasingly large number of stories out there about the perils of 
 >
 > "This is America?" my Skype pal asks, because often I'm abroad.
 
-The author never says she worked at Amazon and I’m not making that connection here. It’s tough to revere them quite so much when I read stories about the general business like that. Or stories [like this](http://www.mcall.com/news/local/amazon/mc-allentown-amazon-complaints-20110917,0,6503103.story), which *definitely *happened at Amazon:
+The author never says she worked at Amazon and I’m not making that connection here. It’s tough to revere them quite so much when I read stories about the general business like that. Or stories [like this](http://www.mcall.com/news/local/amazon/mc-allentown-amazon-complaints-20110917,0,6503103.story), which *definitely* happened at Amazon:
 
 > Workers said they were forced to endure brutal heat inside the sprawling warehouse and were pushed to work at a pace many could not sustain. Employees were frequently reprimanded regarding their productivity and threatened with termination, workers said. The consequences of not meeting work expectations were regularly on display, as employees lost their jobs and got escorted out of the warehouse. Such sights encouraged some workers to conceal pain and push through injury lest they get fired as well, workers said.
 
