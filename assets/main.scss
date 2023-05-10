@@ -70,3 +70,57 @@ time {
     font-size: $small-font-size;
     font-style: italic;
 }
+
+.archives {
+    border: none;
+    td {
+        border: none;
+        vertical-align: middle;
+    }
+    .archive-year {
+        // display: flex;
+        // flex-wrap: wrap;
+        // gap: 10px;
+        // row-gap: 10px;
+        // align-items: center;
+
+        h3 {
+            margin: 0;
+        }
+
+        ol {
+            list-style: none;
+            margin: 0;
+            display: grid;
+            grid-gap: 5px;
+            grid: auto-flow / repeat(12, 1fr);
+            color: #aaa;
+        }
+
+        @media (max-width: 600px) {
+            ol {
+                grid: auto-flow / repeat(6, 1fr);
+            }
+        }
+        @media (max-width: 500px) {
+            ol {
+                grid: repeat(3, 1fr) / auto-flow;
+            }
+        }
+        @media (max-width: 400px) {
+            ol {
+                grid: repeat(4, 1fr) / auto-flow;
+            }
+        }
+        @media (max-width: 350px) {
+            ol {
+                grid: repeat(6, 1fr) / auto-flow;
+            }
+        }
+        @media (max-width: 250px) {
+            ol {
+                grid: repeat(12, 1fr) / auto-flow;
+            }
+        }
+    }
+}
