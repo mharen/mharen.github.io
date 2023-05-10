@@ -92,6 +92,7 @@ time {
             list-style: none;
             margin: 0;
             display: grid;
+            transition: all 300ms;
             grid-gap: 5px;
             grid: auto-flow / repeat(12, 1fr);
             color: #aaa;
@@ -108,6 +109,14 @@ time {
             }
         }
         @media (max-width: 400px) {
+            td:first-child {
+                padding: 0;
+            }
+            h3 {
+                transform: rotate(-90deg);
+                text-align: center;
+            }
+
             ol {
                 grid: repeat(4, 1fr) / auto-flow;
             }
