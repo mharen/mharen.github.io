@@ -2,6 +2,7 @@
 layout: page
 title: Archives
 permalink: /archives/
+sitemap: true
 ---
 
 {% assign dates = site.posts | reverse | map: "date" %}

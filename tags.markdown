@@ -2,6 +2,7 @@
 layout: page
 title: Tags
 permalink: /search/label/
+sitemap: true
 ---
 
 {% assign sorted = site.categories | sort %}

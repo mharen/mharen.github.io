@@ -45,9 +45,9 @@ jekyll-archives:
     month: category_index
     year: category_index
   permalinks:
-    category: '/search/label/:name/' # these exist primarily to catch old Blogger-style urls
-    month: '/:year/:month/'
-    year: '/:year/'
+    category: "/search/label/:name/" # these exist primarily to catch old Blogger-style urls
+    month: "/:year/:month/"
+    year: "/:year/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
