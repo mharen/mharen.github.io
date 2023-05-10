@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2010-09-21T00:09:00.001-04:00'
-categories: random-updates
+categories:
+- random updates
 title: About Those Magic Eye Things
 ---
 

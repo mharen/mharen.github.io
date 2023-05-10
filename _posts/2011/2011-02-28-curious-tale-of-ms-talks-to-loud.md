@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2011-02-28T23:53:00.001-05:00'
-categories: around-town
+categories:
+- around town
 title: The Curious Tale of Ms. Talks-Too-Loud
 ---
 

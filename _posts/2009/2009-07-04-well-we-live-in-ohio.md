@@ -4,7 +4,7 @@ date: '2009-07-04T23:28:00.001-04:00'
 categories:
 - relaxing
 - family
-- random-updates
+- random updates
 title: Well, we live in Ohio.
 ---
 

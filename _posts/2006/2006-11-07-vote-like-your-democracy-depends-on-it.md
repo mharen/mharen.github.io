@@ -2,8 +2,8 @@
 layout: post
 date: '2006-11-07T09:06:00.000-05:00'
 categories:
-- around-town
-- in-the-news
+- around town
+- in the news
 - technology
 title: Vote Like Your Democracy Depends on it!
 ---

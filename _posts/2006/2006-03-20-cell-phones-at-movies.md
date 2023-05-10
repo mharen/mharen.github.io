@@ -2,7 +2,7 @@
 layout: post
 date: '2006-03-20T06:35:00.000-05:00'
 categories:
-- around-town
+- around town
 - movies
 - technology
 title: Cell Phones at the Movies

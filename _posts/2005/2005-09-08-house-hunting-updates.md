@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-09-08T14:00:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: House Hunting Updates
 ---
 

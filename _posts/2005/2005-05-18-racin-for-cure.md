@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-05-18T20:00:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: Racin' for the Cure
 ---
 

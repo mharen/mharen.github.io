@@ -3,8 +3,8 @@ layout: post
 date: '2011-02-16T20:34:00.001-05:00'
 categories:
 - household
-- around-town
-- in-the-news
+- around town
+- in the news
 title: How Not To Host an Open House
 ---
 

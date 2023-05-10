@@ -2,7 +2,7 @@
 layout: post
 date: '2011-02-24T23:24:00.001-05:00'
 categories:
-- in-the-news
+- in the news
 - technology
 title: 10 Reasons Why We Should Give Google More Credit
 ---

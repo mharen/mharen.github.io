@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-05-08T20:00:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: Mike and Ike
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-09-27T09:30:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: The average blah has a bajillion times more bacteria than the average toilet seat
 ---
 

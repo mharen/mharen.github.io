@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-01-24T16:22:00.000-05:00'
-categories: random-updates
+categories:
+- random updates
 title: Thoughts About Pudding
 ---
 

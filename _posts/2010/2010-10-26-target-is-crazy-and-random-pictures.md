@@ -2,7 +2,7 @@
 layout: post
 date: '2010-10-26T23:44:00.001-04:00'
 categories:
-- random-updates
+- random updates
 - travel
 title: Target Is Crazy, And Random Pictures
 ---

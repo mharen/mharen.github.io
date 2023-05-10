@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2008-05-18T15:57:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: Pizza Structures
 ---
 

@@ -3,7 +3,7 @@ layout: post
 date: '2012-11-14T16:30:00.001-05:00'
 categories:
 - database
-- nablopomo-2012
+- nablopomo 2012
 - code
 - technology
 title: "SQL Server 2012: \"Saving changes is not permitted...\""

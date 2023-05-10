@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-07-29T21:09:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: "Mary Lyle-Storie's Wedding"
 ---
 

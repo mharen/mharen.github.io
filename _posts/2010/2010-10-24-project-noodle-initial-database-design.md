@@ -4,7 +4,7 @@ date: '2010-10-24T23:40:00.001-04:00'
 categories:
 - database
 - technology
-- project-noodle
+- project noodle
 title: 'Project Noodle: Initial Database Design'
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-09-16T16:37:00.000-04:00'
-categories: in the news
+categories: 
+- in the news
 title: Gas prices
 ---
 

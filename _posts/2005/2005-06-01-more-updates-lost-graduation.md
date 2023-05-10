@@ -4,7 +4,7 @@ date: '2005-06-01T20:00:00.000-04:00'
 categories:
 - television
 - school
-- random-updates
+- random updates
 title: More updates - Lost, Graduation
 ---
 

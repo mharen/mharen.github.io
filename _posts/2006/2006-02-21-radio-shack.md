@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-02-21T05:57:00.000-05:00'
-categories: in the news
+categories: 
+- in the news
 title: Radio Shack
 ---
 

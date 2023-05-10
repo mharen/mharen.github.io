@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2010-09-23T23:56:00.001-04:00'
-categories: in the news
+categories: 
+- in the news
 title: Some Thoughts on the Mosque Near Ground Zero
 ---
 

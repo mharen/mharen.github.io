@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-09-10T16:18:00.000-04:00'
-categories: around-town
+categories:
+- around town
 title: Impatience at its best
 ---
 

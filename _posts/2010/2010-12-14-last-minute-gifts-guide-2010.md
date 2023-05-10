@@ -2,8 +2,8 @@
 layout: post
 date: '2010-12-14T17:24:00.001-05:00'
 categories:
-- in-the-news
-- random-updates
+- in the news
+- random updates
 title: 'Last Minute Gifts: Guide 2010'
 ---
 

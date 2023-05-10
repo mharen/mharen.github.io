@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-02-02T10:24:00.000-05:00'
-categories: random-updates
+categories:
+- random updates
 title: I can't make this stuff up
 ---
 

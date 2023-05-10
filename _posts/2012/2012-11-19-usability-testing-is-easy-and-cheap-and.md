@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-19T23:28:00.001-05:00'
 categories:
-- nablopomo-2012
+- nablopomo 2012
 - usability
 - technology
 title: Usability Testing is Easy. And Cheap. And Painful (But Essential!)

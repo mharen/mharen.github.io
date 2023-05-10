@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2007-07-04T17:39:00.000-04:00'
-categories: in the news
+categories: 
+- in the news
 title: Flying Sucks
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 date: '2005-02-09T19:00:00.000-05:00'
 categories:
-- random-updates
+- random updates
 - technology
 title: Stealing vs. Stealing...
 ---

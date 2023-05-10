@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-14T22:56:00.001-05:00'
 categories:
-- nablopomo-2012
+- nablopomo 2012
 - code
 - technology
 title: Building a Digital Clock without Flash or Images

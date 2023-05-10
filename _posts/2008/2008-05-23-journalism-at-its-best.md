@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2008-05-23T06:27:00.000-04:00'
-categories: in the news
+categories: 
+- in the news
 title: Journalism At Its Best
 ---
 

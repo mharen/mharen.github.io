@@ -3,7 +3,7 @@ layout: post
 date: '2010-02-28T23:35:00.001-05:00'
 categories:
 - math
-- in-the-news
+- in the news
 title: How the Richter Scale Works
 ---
 

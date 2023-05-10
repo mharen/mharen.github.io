@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-11-01T13:15:00.000-05:00'
-categories: around-town
+categories:
+- around town
 title: Trick or Treat, Smell my Feet
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-09-24T02:44:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: How is your WiFi?
 ---
 

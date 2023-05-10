@@ -2,7 +2,7 @@
 layout: post
 date: '2011-07-24T21:31:00.001-04:00'
 categories:
-- around-town
+- around town
 - family
 - baby
 title: The Great Lakes Science Center in Cleveland, Ohio

@@ -2,8 +2,8 @@
 layout: post
 date: '2011-11-10T23:00:00.001-05:00'
 categories:
-- candy-land-simulator
-- nablopomo-2011
+- candy land simulator
+- nablopomo 2011
 - code
 - technology
 title: 'A Candy Land Simulator: Overview and Data Representations'

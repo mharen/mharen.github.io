@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2010-09-30T10:27:00.001-04:00'
-categories: in the news
+categories: 
+- in the news
 title: Anatomy of a Typical Sensationalist News Story
 ---
 
@@ -23,7 +24,7 @@ Ohhh Prop 8—that sounds serious; **tell me more!**
 
 > Vaughn R. Walker, the federal judge who ruled that Proposition 8 was unconstitutional, will leave the bench at the end of the year for the private sector, the U.S. District Court in San Francisco announced Wednesday.
 
-Right there in the first sentence the headline is contradicted. Is he retiring or going into the private sector? Maybe he’s retiring *to* the private sector? **I’m intrigued.** Pray continue:
+Right there in the first sentence the headline is contradicted. Is he retiring or going into the private sector? Maybe he’s retiring *to *the private sector? **I’m intrigued.** Pray continue:
 
 > Walker presided over an unprecedented federal trial earlier this year that examined a wide array of questions about gays and lesbians, including whether sexual orientation can be changed and whether same-sex unions differ much from opposite-sex unions.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2005-03-08T19:00:00.000-05:00'
-categories: in the news
+categories: 
+- in the news
 title: some people are just crazy
 ---
 

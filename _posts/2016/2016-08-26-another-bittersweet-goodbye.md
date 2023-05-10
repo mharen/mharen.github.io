@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2016-08-26T08:50:00.000-04:00'
-categories: foster-care
+categories:
+- foster care
 title: Another Bittersweet Goodbye
 ---
 

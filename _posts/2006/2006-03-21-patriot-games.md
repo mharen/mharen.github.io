@@ -2,8 +2,8 @@
 layout: post
 date: '2006-03-21T08:34:00.000-05:00'
 categories:
-- in-the-news
-- random-updates
+- in the news
+- random updates
 title: Patriot Games
 ---
 

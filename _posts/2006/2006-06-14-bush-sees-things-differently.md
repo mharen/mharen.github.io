@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-06-14T14:05:00.000-04:00'
-categories: in the news
+categories: 
+- in the news
 title: Bush Sees Things Differently
 ---
 

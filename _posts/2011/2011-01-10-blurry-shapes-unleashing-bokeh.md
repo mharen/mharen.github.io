@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2011-01-10T22:56:00.001-05:00'
-categories: random-updates
+categories:
+- random updates
 title: 'Blurry Shapes: Unleashing the Bokeh'
 ---
 

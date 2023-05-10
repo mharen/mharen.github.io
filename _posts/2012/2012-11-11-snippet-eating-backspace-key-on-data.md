@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-11T23:59:00.000-05:00'
 categories:
-- nablopomo-2012
+- nablopomo 2012
 - code
 - technology
 title: 'Snippet: Eating The Backspace Key on Data Entry Screens (Or, How I Became A Secret Hero)'

@@ -2,7 +2,7 @@
 layout: post
 date: '2010-10-03T00:43:00.001-04:00'
 categories:
-- around-town
+- around town
 - sarah
 - family
 title: The Pumpkin Patch

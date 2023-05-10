@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-02T22:24:00.001-04:00'
 categories:
-- nablopomo-2012
+- nablopomo 2012
 - technology
 title: How Dropbox with Two-Factor Authentication Neatly Handles Application Specific Passwords
 ---

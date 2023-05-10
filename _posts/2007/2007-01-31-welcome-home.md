@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2007-01-31T16:13:00.000-05:00'
-categories: random-updates
+categories:
+- random updates
 title: Welcome Home
 ---
 

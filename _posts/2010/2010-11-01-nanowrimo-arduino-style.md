@@ -2,7 +2,7 @@
 layout: post
 date: '2010-11-01T23:08:00.001-04:00'
 categories:
-- 30-days-of-arduino
+- 30 days of arduino
 - arduino
 - technology
 title: 'Nanowrimo: Arduino Style'

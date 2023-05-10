@@ -3,7 +3,7 @@ layout: post
 date: '2012-11-22T09:00:00.000-05:00'
 categories:
 - family
-- nablopomo-2012
+- nablopomo 2012
 - baby
 - parenting
 title: 'Dear Children: You Are Awesome'

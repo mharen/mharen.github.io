@@ -3,7 +3,7 @@ layout: post
 date: '2011-11-04T21:10:00.001-04:00'
 categories:
 - work
-- nablopomo-2011
+- nablopomo 2011
 title: Oh no! I have an interview today and did absolutely nothing to prepare!
 ---
 

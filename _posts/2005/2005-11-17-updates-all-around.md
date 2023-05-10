@@ -2,10 +2,10 @@
 layout: post
 date: '2005-11-17T12:22:00.000-05:00'
 categories:
-- around-town
+- around town
 - relaxing
 - work
-- random-updates
+- random updates
 title: Updates All Around
 ---
 

@@ -3,8 +3,8 @@ layout: post
 date: '2011-11-01T23:17:00.001-04:00'
 categories:
 - work
-- random-updates
-- nablopomo-2011
+- random updates
+- nablopomo 2011
 title: Campaigning Like a Boss
 ---
 

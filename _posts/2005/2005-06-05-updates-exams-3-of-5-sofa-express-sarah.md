@@ -3,7 +3,7 @@ layout: post
 date: '2005-06-05T20:00:00.000-04:00'
 categories:
 - school
-- random-updates
+- random updates
 title: 'Updates: Exams (3 of 5), Sofa Express, Sarah''s Car'
 ---
 

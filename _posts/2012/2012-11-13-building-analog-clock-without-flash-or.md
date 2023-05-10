@@ -2,7 +2,7 @@
 layout: post
 date: '2012-11-13T23:31:00.001-05:00'
 categories:
-- nablopomo-2012
+- nablopomo 2012
 - code
 - technology
 title: Building an Analog Clock without Flash or Images

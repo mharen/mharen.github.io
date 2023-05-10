@@ -3,7 +3,7 @@ layout: post
 date: '2011-03-02T23:11:00.001-05:00'
 categories:
 - money
-- in-the-news
+- in the news
 - technology
 title: How Much Does an Apple Addiction Cost?
 ---

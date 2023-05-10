@@ -4,7 +4,7 @@ date: '2011-02-07T23:45:00.001-05:00'
 categories:
 - television
 - marketing
-- in-the-news
+- in the news
 title: "I Guess YouTuber's *Do* Advertise"
 ---
 

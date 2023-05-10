@@ -2,8 +2,8 @@
 layout: post
 date: '2011-07-18T21:55:00.001-04:00'
 categories:
-- around-town
-- in-the-news
+- around town
+- in the news
 title: Statistics are Misleading At Best, Filthy Liars at Second Best
 ---
 

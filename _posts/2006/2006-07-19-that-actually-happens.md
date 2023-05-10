@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2006-07-19T09:53:00.000-04:00'
-categories: random-updates
+categories:
+- random updates
 title: That Actually Happens?!
 ---
 

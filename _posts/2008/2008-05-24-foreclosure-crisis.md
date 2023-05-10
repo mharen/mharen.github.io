@@ -3,7 +3,7 @@ layout: post
 date: '2008-05-24T18:06:00.000-04:00'
 categories:
 - money
-- in-the-news
+- in the news
 title: The Foreclosure Crisis
 ---
 

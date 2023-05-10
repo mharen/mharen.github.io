@@ -2,7 +2,7 @@
 layout: post
 date: '2011-07-18T21:11:00.001-04:00'
 categories:
-- around-town
+- around town
 - letters
 title: A Ridiculous Jury Duty Questionnaire
 ---

@@ -3,7 +3,7 @@ layout: post
 date: '2012-07-14T14:56:00.001-04:00'
 categories:
 - work
-- random-updates
+- random updates
 title: Building Cabers for your Summer Olympics
 ---
 

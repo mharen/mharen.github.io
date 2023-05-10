@@ -3,7 +3,7 @@ layout: post
 date: '2010-12-23T11:42:00.001-05:00'
 categories:
 - marketing
-- random-updates
+- random updates
 title: That'll be $44+"Tax" (BTW, "tax" is 61%)
 ---
 

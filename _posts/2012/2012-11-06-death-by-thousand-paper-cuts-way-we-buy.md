@@ -3,8 +3,8 @@ layout: post
 date: '2012-11-06T13:55:00.000-05:00'
 categories:
 - household
-- nablopomo-2012
-- real-estate
+- nablopomo 2012
+- real estate
 title: 'Death By a Thousand Paper Cuts: The Way We Buy and Sell Houses Is Begging for Disruption'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 date: '2010-11-06T23:43:00.001-04:00'
 categories:
-- 30-days-of-arduino
+- 30 days of arduino
 - arduino
 - code
 - technology

@@ -4,7 +4,7 @@ date: '2006-11-01T06:21:00.000-05:00'
 categories:
 - school
 - work
-- random-updates
+- random updates
 title: Moving North
 ---
 

@@ -3,7 +3,7 @@ layout: post
 date: '2010-10-24T18:35:00.001-04:00'
 categories:
 - family
-- random-updates
+- random updates
 title: Herein Lies A Graphic Description of Toilet Punishment
 ---
 

@@ -5,7 +5,7 @@ categories:
 - television
 - school
 - hockey
-- random-updates
+- random updates
 title: updates on the way...
 ---
 

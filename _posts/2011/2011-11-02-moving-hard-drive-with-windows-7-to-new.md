@@ -4,7 +4,7 @@ date: '2011-11-02T23:22:00.001-04:00'
 categories:
 - hardware
 - windows
-- nablopomo-2011
+- nablopomo 2011
 - technology
 title: Moving A Hard Drive with Windows 7 to a New Machine
 ---

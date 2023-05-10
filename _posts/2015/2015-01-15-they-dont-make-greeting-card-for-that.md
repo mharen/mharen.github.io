@@ -1,7 +1,8 @@
 ---
 layout: post
 date: '2015-01-15T22:25:00.000-05:00'
-categories: foster-care
+categories:
+- foster care
 title: They don't make a greeting card for that
 ---
 

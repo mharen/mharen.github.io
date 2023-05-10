@@ -3,7 +3,7 @@ layout: post
 date: '2012-11-23T08:31:00.001-05:00'
 categories:
 - family
-- nablopomo-2012
+- nablopomo 2012
 title: Thing1's Fun Run
 ---
 

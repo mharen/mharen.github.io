@@ -3,7 +3,7 @@ layout: post
 date: '2012-12-17T23:01:00.001-05:00'
 categories:
 - work
-- random-updates
+- random updates
 title: Goodbye, Hello
 ---
 
