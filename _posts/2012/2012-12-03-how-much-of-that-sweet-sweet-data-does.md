@@ -2,9 +2,9 @@
 layout: post
 date: '2012-12-03T22:41:00.001-05:00'
 categories:
-- ios
+- iOS
 - technology
-- iphone
+- iPhone
 title: How Much Of that Sweet, Sweet Data Does Pandora Use on Your Phone?
 ---
 

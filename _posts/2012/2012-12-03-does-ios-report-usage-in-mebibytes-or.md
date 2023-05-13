@@ -3,9 +3,8 @@ layout: post
 date: '2012-12-03T21:45:00.001-05:00'
 categories:
 - television
-- ios
-- apple
-- iphone
+- iOS
+- iPhone
 title: Does iOS Report Usage in Mebibytes or Megabytes?
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 date: '2013-06-14T09:45:00.001-04:00'
 categories:
-- chef
 - windows
 - code
 - technology

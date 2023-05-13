@@ -2,7 +2,6 @@
 layout: post
 date: '2010-09-19T13:47:00.001-04:00'
 categories:
-- coffee
 - random updates
 title: How to Make Coffee-Snob Worthy Coffee
 ---

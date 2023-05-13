@@ -6,7 +6,6 @@ categories:
 - reviews
 - kindle
 - technology
-- books
 title: My Favorite Book Ever
 ---
 

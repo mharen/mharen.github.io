@@ -5,7 +5,7 @@ categories:
 - nablopomo 2011
 - android
 - technology
-- iphone
+- iPhone
 title: iPhone, from a Former Android Enthusiast
 ---
 

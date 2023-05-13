@@ -5,7 +5,7 @@ categories:
 - nablopomo 2011
 - android
 - technology
-- iphone
+- iPhone
 title: What I Miss From My Android as a New iPhone User
 ---
 

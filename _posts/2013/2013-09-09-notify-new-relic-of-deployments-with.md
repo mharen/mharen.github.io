@@ -3,7 +3,6 @@ layout: post
 date: '2013-09-09T10:03:00.001-04:00'
 categories:
 - work
-- devops
 - code
 - technology
 title: Notify New Relic of Deployments with Chef

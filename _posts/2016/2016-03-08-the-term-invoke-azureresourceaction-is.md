@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2016-03-08T21:54:00.001-05:00'
-categories: azure
+categories: technology
 title: The term 'Invoke-AzureResourceAction' is not recognized as the name of a cmdlet
 ---
 

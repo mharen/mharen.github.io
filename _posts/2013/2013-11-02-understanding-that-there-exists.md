@@ -3,7 +3,6 @@ layout: post
 date: '2013-11-02T16:25:00.001-04:00'
 categories:
 - psychology
-- books
 title: Understanding (That There Exists) An Opposing View
 ---
 

@@ -2,8 +2,6 @@
 layout: post
 date: '2013-02-05T16:56:00.001-05:00'
 categories:
-- chef
-- devops
 - code
 - technology
 title: 'Chef on Windows Error: tar: Cannot fork: Function not implemented (Solved)'
