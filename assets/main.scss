@@ -78,21 +78,16 @@ time {
         vertical-align: middle;
     }
     .archive-year {
-        // display: flex;
-        // flex-wrap: wrap;
-        // gap: 10px;
-        // row-gap: 10px;
-        // align-items: center;
-
         h3 {
             margin: 0;
+            text-align: center;
+            transition: all 200ms;
         }
 
         ol {
             list-style: none;
             margin: 0;
             display: grid;
-            transition: all 300ms;
             grid-gap: 5px;
             grid: auto-flow / repeat(12, 1fr);
             color: #aaa;
@@ -112,9 +107,9 @@ time {
             td:first-child {
                 padding: 0;
             }
+
             h3 {
                 transform: rotate(-90deg);
-                text-align: center;
             }
 
             ol {

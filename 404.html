@@ -15,11 +15,13 @@ layout: default
     line-height: 1;
     letter-spacing: -1px;
   }
+  img {
+    max-width: 100%;
+  }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <h1>Page not found</h1>
+  <p>{% imagesize /assets/old-computer.png:img alt="an abstract picture of an old computer" %}</p>
+  <p>404</p>
 </div>
