@@ -17,4 +17,4 @@ And things work great locally. But then you publish to a webserver, an Azure Web
 
 You probably already enabled the generation of the XML documentation file, **but did you do it for the Release configuration**? Since you're here, probably not. Fix that and you'll be all set.
 
-{% imagesize /assets/2015/project-dialog.png:img %}
+{% imagesize /assets/2015/project-dialog.png:img alt='project config dialog with "configuration: release" highlighted, and a highlighed checked box that reads "xml documentation file"' %}
