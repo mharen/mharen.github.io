@@ -3,7 +3,7 @@ layout: post
 date: '2024-06-20'
 categories:
 - technology
-title: VSCode: There is no formatter for 'aspnetcorerazor' files installed
+title: "VSCode: There is no formatter for 'aspnetcorerazor' files installed"
 ---
 
 After years of using VSCode I suddenly got this error after an update:
