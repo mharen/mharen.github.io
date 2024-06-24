@@ -1,10 +1,8 @@
----
----
-
-@import "{{ site.theme }}";
+@import "minima-custom";
 
 // quick and dirty dark mode, thanks to Eric Meyer
 // https://meyerweb.com/eric/thoughts/2023/01/16/minimal-dark-mode-styling/
+
 @media (prefers-color-scheme: dark) {
     html {
         filter: invert(1);

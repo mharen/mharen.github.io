@@ -1,10 +1,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/main.css?v={{ site.env.CSS_CACHE_VERSION | default: 'latest' }}">
-  <link rel="apple-touch-icon" sizes="941x911" href="/assets/old-computer.png">
+  <!-- <link rel="stylesheet" href="/assets/main.css?v={{ site.env.CSS_CACHE_VERSION | default: 'latest' }}"> -->
+  <link rel="apple-touch-icon" sizes="941x911" href="/assets/old-computer-min.png">
   <link rel="icon" type="image/png" sizes="128x128" href="/favicon-128.png">
   <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <style type="text/css">
+    {{ site.data.styles }}
+  </style>
 </head>
