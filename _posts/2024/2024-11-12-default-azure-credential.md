@@ -25,7 +25,7 @@ As you can imagine, when running locally, it will get a token from your IDE, or 
 token from the managed identity. This works _really well_ and it's _so convenient_. But there are two things we can do
 to _make it a lot faster._
 
-## Use something more specific than `DefaultAzureCredential`
+## Use something more specific than _DefaultAzureCredential_
 
 First, follow the [documentation's advice][2] and use something more specific instead. For instance, if you _know_
 you'll use managed identity when deployed, and various others in local dev, then set it up that way:
