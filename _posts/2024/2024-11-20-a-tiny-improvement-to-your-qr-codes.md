@@ -11,7 +11,7 @@ learned that you can improve them with a small tweak: [leverage the right mode][
 
 Suppose you encode a URL, e.g. `https://www.wassupy.com/`:
 
-{% imagesize ../assets/2024/qrcode-byte.png:img alt='A qr code that is 33x33 blocks' %}
+{% imagesize /assets/2024/qrcode-byte.png:img alt='A qr code that is 33x33 blocks' %}
 
 And then this similar URL, `HTTPS://WWW.WASSUPY.COM/`:
 
