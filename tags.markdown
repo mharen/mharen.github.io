@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Tags
 permalink: /search/label/
 sitemap: true
