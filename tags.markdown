@@ -1,13 +1,15 @@
 ---
-layout: page
+layout: default
 title: Tags
 permalink: /search/label/
 sitemap: true
 ---
 
+<h2>Tags</h2>
+
 {% assign sorted = site.categories | sort %}
 
-<ul class="tag-list">
+<ul class="tag-list none">
 {% for category in sorted %}
 {%- assign cat = category | first -%}
 {%- assign size = category[1] | size -%}
