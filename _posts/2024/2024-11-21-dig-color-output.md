@@ -8,7 +8,10 @@ title: "Colorized DNS results from dig"
 
 Inspired by this [old script][1], you can colorize `dig`'s output to make it easier to read:
 
-{% imagesize /assets/2024/dig-color.png:img alt='a terminal window showing the command "dig portal.azure.com" and the results, which are several recursive dns entries, colored so that each name has a different color' %}
+<picture>
+    <source srcset="/assets/2024/dig-color-dark.png" media="(prefers-color-scheme: dark)">
+    <img height="497" width="640" src="/assets/2024/dig-color-light.png" title="hi" alt='a terminal window showing the command "dig portal.azure.com" and the results, which are several recursive dns entries, colored so that each name has a different color' />
+</picture>
 
 Each host gets a color, which makes it easier to scan the recursive entries because you can easily pair up the identical names.
 
