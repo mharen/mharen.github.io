@@ -8,4 +8,6 @@ jpegoptim -ptsw4 -m80 *.jpg
 
 # try hardest
 optipng -o7 *.png
+
+# or try https://tinypng.com, which seems to do a pretty good job
 ```
