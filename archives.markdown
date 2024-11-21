@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Archives
 permalink: /archives/
 sitemap: true
@@ -17,7 +17,7 @@ sitemap: true
 {% endfor %}
 
 {% assign yearMonths = yearMonths | uniq %}
-
+<h2>Archives</h2>
 <table class="archives">
     {%- for year in (sinceYear..untilYear) reversed %}
     <tr class="archive-year">

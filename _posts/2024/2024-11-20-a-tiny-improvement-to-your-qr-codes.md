@@ -21,8 +21,8 @@ The all-caps version is simpler because it makes use of the "alphanumeric" segme
 
 | Input mode   | Bits/char. | Character set       |
 |--------------|------------|---------------------|
-| Numeric      | 3 1⁄3      | `[0-9]`             |
-| Alphanumeric | 5 1⁄2      | `[0–9A–Z$%*+./: -]` |
+| Numeric      | 3 ⅓        | `[0-9]`             |
+| Alphanumeric | 5 ½        | `[0–9A–Z$%*+./: -]` |
 | Binary/byte  | 8          |                     |
 
 *Note: the alphanumeric set **does not** include lowercase letters.*
