@@ -4,19 +4,33 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/main.css?{{ site.data.md5 }}">
+  <title>
+    {%- case page.type -%}
+    {%- when "category" -%}
+      Archive of posts in {{ page.title | smartify | escape }}
+    {%- when "year" -%}
+      Archive of posts from {{ page.date | date: "%Y" }}
+    {%- when "month" -%}
+      Archive of posts from {{ page.date | date: "%B %Y" }}
+    {%- when "day" -%}
+      Archive of posts from {{ page.date | date: "%B %-d, %Y" }}
+    {%- else -%}
+      {%- if page.title -%}
+        {{ page.title | truncatewords: 7 | smartify | escape }}—Wassupy
+      {%- else -%}
+        Wassupy
+      {%- endif -%}
+    {%- endcase -%}
+  </title>
   <link rel="apple-touch-icon" sizes="941x911" href="/assets/old-computer-min.png">
   <link rel="icon" type="image/png" sizes="128x128" href="/favicon-128.png">
   <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-  <style type="text/css">
-    {{site.data.styles}}
-  </style>
 </head>
 
-<body>
-
-  
+<body>  
   <div id="wrapper">
     <main>
       <header>

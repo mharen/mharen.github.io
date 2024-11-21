@@ -3,16 +3,16 @@ layout: default
 ---
 
 <h2>
-  {% case page.type %}
-  {% when "category" %}
-  Archive of posts in {{ page.title | smartify | escape }}
-  {% when "year" %}
-  Archive of posts from {{ page.date | date: "%Y" }}
-  {% when "month" %}
-  Archive of posts from {{ page.date | date: "%B %Y" }}
-  {% when "day" %}
-  Archive of posts from {{ page.date | date: "%B %-d, %Y" }}
-  {% endcase %}
+    {%- case page.type -%}
+    {%- when "category" -%}
+    Archive of posts in {{ page.title | smartify | escape }}
+    {%- when "year" -%}
+    Archive of posts from {{ page.date | date: "%Y" }}
+    {%- when "month" -%}
+    Archive of posts from {{ page.date | date: "%B %Y" }}
+    {%- when "day" -%}
+    Archive of posts from {{ page.date | date: "%B %-d, %Y" }}
+    {%- endcase -%}
 </h2>
 
 <ol class="none comfortable">
