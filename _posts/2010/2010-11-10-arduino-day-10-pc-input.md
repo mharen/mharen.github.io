@@ -15,21 +15,21 @@ I’m starting to lay the groundwork for a larger project that will be driven fr
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/ekmc3fTQPtU" title="Arduino Day 10: PC Input via USB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
-#### Build
+### Build
 
 {% imagesize /assets/2010/DSC_0011.jpg:img %}
 
-#### Circuit
+### Circuit
 
 {% imagesize /assets/2010/Sketch_bb-day-10.png:img %}
 
-#### Schematic
+### Schematic
 
 {% imagesize /assets/2010/Sketch_schem6.png:img %}
 
-#### Code  
+### Code  
 
-##### C#
+#### C#
 
 ```c
 using System;
@@ -64,7 +64,7 @@ namespace ArduinoDay10
 }
 ```
 
-##### Arduino
+#### Arduino
   
 ```c
 const int BuzzPin = 5;
@@ -122,7 +122,7 @@ void Ding(int light){
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 Ultimately I want to drive this from a Hudson CI build feed so I’ll continue working on that in the coming days. 
 

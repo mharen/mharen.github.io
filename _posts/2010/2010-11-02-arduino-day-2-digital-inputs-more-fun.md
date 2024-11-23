@@ -27,7 +27,7 @@ A few things: first of all, this story is complete crap. You can’t defeat a bu
 
 Ah memories! Back to the project:
 
-#### Build:
+### Build:
 
 {% imagesize /assets/2010/IMAG0665.jpg:img %}
 
@@ -41,7 +41,7 @@ Schematic (automatically built from the above image with the amazing [Fritzing](
 
 {% imagesize /assets/2010/day_two_-_schema.png:img %}
 
-#### Code:
+### Code:
 
 ```c
 int SwitchPin0 = 2;
@@ -115,7 +115,7 @@ void DoFlash(){
 }
 ```
 
-#### Next plans
+### Next plans
 
 I went out to Radio Shack to pick up a few things and apparently they only sell phones and batteries now? Even though the salesman assured me they don’t have anything like an “LED” or a “resistor”, I found a dusty cabinet in the back with some nice stuff. I picked up a 5kΩ potentiometer, a bunch of random LEDs, a couple push buttons, some 220Ω resistors, and a piezo buzzer. 
 

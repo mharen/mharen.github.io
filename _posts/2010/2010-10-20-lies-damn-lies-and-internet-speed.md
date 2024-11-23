@@ -25,7 +25,7 @@ There are two problems with all this:
   1. The recommendations are completely crap     1. 
   2. They rarely give you information on what actually matters: your upstream—how fast you can [send stuff](http://en.wikipedia.org/wiki/AT%26T_U-verse#U-verse_Internet):
 
-#### The Recommendations Are Completely Crap
+### The Recommendations Are Completely Crap
 
 They suggest that if you are to have more than two people online at a time, play games, buy concert tickets, or watch videos you need a *15mbps connection*. That’s a load of c r a p. My office of 150 engineers (more bandwidth heavy than your average user, I’d guess) share a 15mbps connection and it’s plenty speedy.     
 
@@ -35,7 +35,7 @@ In the old days, I used to play Doom with friends across a 0.014mbps connection 
 
 The real issue here is that we don’t have much use for speeds in excess of 10mb. There are certainly services on the horizon that would benefit from faster speeds, but they aren’t on those charts. Plus, faster services would need something else, too, which brings me to...      
 
-#### What Really Matters Is Upstream
+### What Really Matters Is Upstream
 
 The most frustrating speed-related problem on the Internet today (for home users) is uploading files. Sending large pictures, uploading videos, posting to blogs, video chatting, etc. all require you to *send* a lot of data through a very small pipe.    
 
@@ -55,7 +55,7 @@ The sad fact is that even if you pay for ridiculous internet like Time Warner’
 
 **I would rather pay $10 to improve my upload speed from 1 to 2 mbps than improve my download speed from 6 to 12 mbps.**
 
-#### Final Thoughts
+### Final Thoughts
 
 I appreciate that vendors are trying to make this stuff easier to buy—that’s great, this stuff is confusing. My objection is that for today’s internet, “Basic”, “Pro” or **anything around 5mbps is far and away sufficient for most people**. The average live Hulu stream is [under 1.5mbps](http://www.hulu.com/support/technical_faq#reqs). The average website is plenty fast on the smallest connection you can buy. **Vendors are not doing a good job justifying the upsell with any honesty.**
 

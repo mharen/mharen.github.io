@@ -18,7 +18,7 @@ title: My New Project
 
 I’m kicking off a new project today and am taking you along for the ride. While the subject matter could hardly be less interesting (as you’ll soon find), I hope the process to be worthwhile. Stick with me to the end for your assignment and an opportunity to win fabulously small, worthless prizes.
 
-#### The Project
+### The Project
 
 [{% imagesize /assets/2010/interview-questions.gif:img %}](http://www.toothpastefordinner.com/tfd-archives/tfdarchive-oct03.php)
 
@@ -28,7 +28,7 @@ For example, imagine this scenario. You get called for an interview with a compa
 
 The software I intend to build helps the company track all these interactions and produce useful information to improve the process. 
 
-#### Say Again?
+### Say Again?
 
 That might seem a little narrow at first, but before long the amount of information is surprising. Aside from the logistics of setting up the interviews themselves (each coordinated with five different interviewers), we also need to capture each interviewers feedback. Then we need to evaluate it to make a decision. 
 
@@ -36,11 +36,11 @@ The side effect of gathering all this information is that we can then analyze it
 
 I’m actually a little afraid that my test company will discover interviewer ratings are not correlated to candidate success at all. What then?!
 
-#### What’s Next
+### What’s Next
 
 This is pretty much going to be a one man show, with a lot of feedback along the way from an actual company. If this was my full time job, we’d be looking at about four weeks of work by 1.5 people. It’s not my job, though, so excluding the first look mockups I’ll be posting soon, it’ll be a while before I have much to show (this is a personal project and not affiliated with my employer). 
 
-#### Your Assignment
+### Your Assignment
 
 {% imagesize /assets/2010/boc.jpg:img %}
 

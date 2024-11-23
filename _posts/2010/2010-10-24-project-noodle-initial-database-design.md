@@ -32,7 +32,7 @@ At this stage, I am really interested in two key things:
 
 And so, being the semi-disciplined person I am (or at least when I’m blogging about a recommendation), I will check these two things.   
 
-#### Does my schema cover everything?
+### Does my schema cover everything?
 
 In another window I brought up the [mockups](../../2010/09/my-new-project-initial-mockups.html). Right off the bat, I’m finding a gap in what I need to capture and what my schema supports: 
 * I don’t have anywhere to store why, when, or where a candidate is to be interviewed 
@@ -52,7 +52,7 @@ A more enterprisey solution would probably break out the ratings from the `Inter
 
 I’m opting for the much simpler structure above, deferring that refactoring until a significant problem demands that they be made.  
 
-#### Are my obvious queries easy?
+### Are my obvious queries easy?
 
 I know I want to display a list of interviews with who/when/why/where information. It looks like I can get all that from the `InterviewMasters` and `Candidates` tables. It now occurs to me that I don’t have a way to archive interviews. I’ll ignore that for now and come back to it if it becomes an issue.
 
@@ -62,6 +62,6 @@ Finally, I need to be able to aggregate interview feedback from many interviewer
 
 It looks like I haven’t gone overboard with the normalization because I don’t see any red flags so far. I’ve also opted to do no history or versioning, which has helped to avoid a lot of complexity with all of the above queries.  
 
-#### Next
+### Next
 
 Next up is probably some actual screen development and code.

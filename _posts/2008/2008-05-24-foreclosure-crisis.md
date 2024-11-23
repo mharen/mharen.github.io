@@ -18,7 +18,7 @@ I've been reading a lot about our nation's foreclosure crisis and it's an issue 
 
 I think that is a (roughly) accurate view of who relates to a mortgage.
 
-#### Blame the borrowers
+### Blame the borrowers
 
 Being a person who owns a house and is fairly good with numbers, I find it easy to blame the "irresponsible borrowers."
 
@@ -28,7 +28,7 @@ On the other hand, home buying is a complex and emotional process. This is why w
 
 So let's blame them.
 
-#### Blame the agents
+### Blame the agents
 
 This is a tough one for me. We had a great experience with both homes we purchased and felt that our agents helped us through the process. At our first closing, it was our agent who uncovered a couple errors and ultimately netted us a couple hundred bucks back.
 
@@ -36,7 +36,7 @@ I can't say for sure if either agent would have stopped us from getting in over 
 
 OK, so the agents are off the hook--let's blame the brokers and lenders instead.
 
-#### Blame the brokers and lenders
+### Blame the brokers and lenders
 
 This is where I get really fired up and here's why: these guys have virtually no incentive to be responsible. A broker's job is to basically connect people who want money to people who have money--they facilitate and take commission from a transaction without risking any of their own money!
 
@@ -46,7 +46,7 @@ NPR's _This American Life_ has an [incredible story](http://thisamericanlife.org
 
 Who is funding these loans? Banks.
 
-#### Blame the banks
+### Blame the banks
 
 Somehow in their 20-hour work weeks (closed national holidays, weekends, paydays, full moons and days that end in "y"), bankers managed to buy any and every loan. Despite no income, assets, or SSN, Pirate (my dog) was approved for a sweet crib in the hills.
 
@@ -56,7 +56,7 @@ From hereon, mortgages were bundled together and sold as packaged securities. Th
 
 This is where it stops with me. I don't blame Wall Street or the big investors. They thought they were buying good stuff with AAA ratings.
 
-#### So, Blame everyone but Wall Street
+### So, Blame everyone but Wall Street
 
 Borrowers need to be smarter. Education is key here. A simple, accurate monthly budget might have prevented a lot of this. Losing your home and destroying your credit is probably enough punishment so I'll let them off the hook for time served (20% of the blame). As much as I think a bailout of any kind is unfair to the rest of us, something needs to be done--but that's for another time.
 
@@ -64,7 +64,7 @@ Brokers and lenders take a hefty portion of the blame (30%) for selling people t
 
 I place the remaining half of the blame with the banks. Just because everyone else is buying crummy loans doesn't make it right. It sounds like I'm talking about a child and maybe I am. These are the guys with the calculators, spreadsheets, forecast models, degrees, etc.--They're supposed to be the experts! I am really struggling to wrap my head around when bankers must have been thinking when they bought junk mortgages. Maybe the truck-loads of cash helped.
 
-#### What Now?
+### What Now?
 
 That's a toughy. I don't think more paperwork is the answer--that's part of the problem. I think the process of buying a house should be overhauled and simplified. There's little reason for it to be so ridiculously complicated and the devil's in the details with this one--if you can't understand what a paper says, it could be screwing you big time.
 

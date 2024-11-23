@@ -11,7 +11,7 @@ Let's all pause a moment and consider how amazing this simple thing is.
 
 Ok, thank you. I am curious why this technology hasn't found itself more useful. Imagine the possibilities!
 
-#### Windows...everywhere!
+### Windows...everywhere!
 
 You can buy permanently tinted windows but they come with a pretty serious limitation: at night, they are really, really dark. How about windows that automatically tint during the day, but lighten up at night? It seems to me that this would keep our cars and houses cooler in the warmer months by blocking out the Sun (energy efficiency is all the rage these days, right?). 
 

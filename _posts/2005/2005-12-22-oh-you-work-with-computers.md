@@ -13,7 +13,7 @@ In an effort to reduce my support calls, I am bringing back the "Fix it yourself
 
 While I hope that the content on my site is still mildly distracting, I think it is time for the page to come back, albiet in "post" form. So here you go.
 
-#### Basics
+### Basics
 
 First off, if you don't have WindowsXP, you are in for a world of pain. Most of the tips below will work for you should know that you are using an operating system with security analogous to a straw house with all the doors and windows open...on a windy day...in Kansas...during tornado season...with Dorothy.
 
@@ -21,7 +21,7 @@ So, you should have Windows XP and it damn well should have Service Pack 2. Here
 
 Whether you have SP2 or not, go on, we'll get it later if you need it.
 
-#### Essentials
+### Essentials
 
 Download and install these now.
 

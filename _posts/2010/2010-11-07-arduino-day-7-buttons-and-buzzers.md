@@ -19,7 +19,7 @@ Here we go:
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/_BNAhP3OazQ" title="Arduino Day 7: Buttons and Buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Build
+### Build
 
 {% imagesize /assets/2010/IMAG0719-day-7.jpg:img %}
 
@@ -27,16 +27,16 @@ Here we go:
 
 {% imagesize /assets/2010/IMAG0721-day-7.jpg:img %}
 
-#### Circuit
+### Circuit
 
 Crazy simple circuit today:
 
 {% imagesize /assets/2010/Sketch_bb-day-7.png:img %}
 
-#### Schematic
+### Schematic
 
 {% imagesize /assets/2010/Sketch_schem-day-7.png:img %}
-#### Code
+### Code
 
 Today’s coding was a very simple selection from previous exercises, so this should look familiar:
 ```c
@@ -86,7 +86,7 @@ void Buzz(int frequencyHz, int durationMillis){
 
 
 
-#### Next Steps
+### Next Steps
 
 
 I’d really like to get some live content into this thing. For example, we have a build system at work that automatically builds all of our code. When a build fails, it goes “red” and we’re notified. I’d like to create an “extreme feedback device” (Google it for examples) which represents the build status in some physical way. We’ll see how that goes.

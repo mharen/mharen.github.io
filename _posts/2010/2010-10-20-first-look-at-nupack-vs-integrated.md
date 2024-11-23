@@ -5,14 +5,14 @@ categories: technology
 title: 'First Look at NuPack: A VS-Integrated Package Management Tool'
 ---
 
-#### Installation
+### Installation
 
 Couldn’t be easier: 
 * [http://nupack.codeplex.com/](http://nupack.codeplex.com/) 
 * Download 
 * Go  
   
-#### First Run
+### First Run
 
 Fire up Visual Studio 2010 and open the Package Manager Console under View > Other Windows > Package Manager Console (or press C-W, C-Z):
 

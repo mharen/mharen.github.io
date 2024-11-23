@@ -23,15 +23,15 @@ In this edition:
 * Six Feet Under
 * Movie:Resident Evil (hint: what?!)
 
-#### School
+### School
 
 School is going pretty well, I guess. I've got a couple tough classes but I'm pretty sure I'll pass all of them :). I'm taking ECE320 (ridiculous circuits), Phil 215 (Asian religions), CSE694Z (datamining), math 566 (i'm not sure what this is), and ice skating. THe classes are all pretty interesting and not too tough. I particularly like ice skating ;). Man, i am just out of witty banter. Normally I'd have funny stuff to say....
 
-#### RoviSys and UNC
+### RoviSys and UNC
 
 I accepted the RoviSys job in NC. Since we have the apartment, the job, and the grad school (for sarah - she finally got her "congrats" letter!), all we need are diplomas and we'll be all set! I'm very excited for the move. It will be a lot of fun to be completely on our own (without roommates and families so close by).
 
-#### Hockey Game 1
+### Hockey Game 1
 
 As promised, hockey updates! This quarter we are playing D-League, the lowest you can go. You might recall that we played C-League last quarter and got stomped every game. As it turns out this second time around, many of those that played C-League also moved down to D-League because we are again getting our assess handed to us.
 
@@ -39,13 +39,13 @@ I don't remember the score of this first game but it was brutal. I think I was -
 
 Then again, it's all just for fun. It'd be nice to win one game so we can go into playoffs but it's not a big deal.
 
-#### Hockey Game 2
+### Hockey Game 2
 
 This game was much better! We were playing against a team that didn't completely dominate us (...at first). About five minutes into the game we are down 0-1 but manage to tie it. We're playing well and getting in some good shots. Our glory is answered with another goal and we find ourselves down again 1-2. Then another. 1-3. We answer making it 2-3. Chris A., some other guy, and me are responsible for this one! Chris A. is pretty good at this stuff, it seems. Then we have a unique line change in that those entering the ice have limited ability to play defense or skate. During 3 minutes, the other team scores 3 times on the same line. No joke! We were within reach and then all of the sudden, we're down 2-6. There's only 6 minutes left so the game is over. We play hard anyway and keep them to 6-2.
 
 Believe it or not, this game went MUCH better than our first game. We just forgot to play for 3 minutes. The game is getting much more fun, too. I'm becoming a better skater which allows me to play faster and rougher. It's really a lot of fun. If you have any skating ability and the opportunity to play, I highly recommend it!
 
-#### Disease Transmission - Food For Thought...Err
+### Disease Transmission - Food For Thought...Err
 
 **Update:** Sarah has found a [website](http://microbiology.mtsinai.on.ca/faq/transmission.shtml#droplet) that describes the difference between various methods of disease transmission.
 
@@ -53,13 +53,13 @@ Completely changing gears...I've been thinking about some stuff lately. I was si
 
 Here's another (more) interesting question: how much do these air born droplets weight? Can they float around endlessly? Here's an idea: if they float around, does having a heating/cooling system in which the vents are in the ceiling and the intakes in/near the floor help to prevent disease transmission by sucking the little droplets towards the ground (away from faces) rather than the reverse which would stir them up into the air at face level? Man that's a long sentence. Seriously, though, if you have an air filter that can catch these little droplets would the direction of flow make a difference? My house is bottom-fed, which I hypothesize is bad but my dad's house is top-fed, which I hypothesize is good. I have again been instructed to ask a pathologist. This could make any interesting research topic, i guess.
 
-#### Six Feet Under
+### Six Feet Under
 
 Sarah and I have started watching HBO's Six Feet Under. She found the first two seasons at the library and we're plowing through them. Basically, it details the workings of a family that owns and operates a funeral home. In the beginning of ever episode, someone dies. This person then talks to the funeral guys during the episode. Other stuff happens to make it worthy of HBO's R-rated TV. 
 
 I find that it's not as good as the Sapranos but pretty much on par with Oz. I recommend it.
 
-#### Movie:Resident Evil (hint: what?!)
+### Movie:Resident Evil (hint: what?!)
 
 Let me first acknowledge that this movie was based on a video game. Even the fact that it stars Milla Jovovich can't change this. Keeping this in mind, the movie wasn't so bad. I enjoyed the action and the humorous attempts to explain zombies. They even through in a crazy AI computer. In fact, things were going great for everyone until the silly humans turned off the computer! OOPS! Ok, as I write this I am realizing that the movie actually sucked. I'm looking for good points of reflection and they aren't there. Sorry Milla, I tried!
 

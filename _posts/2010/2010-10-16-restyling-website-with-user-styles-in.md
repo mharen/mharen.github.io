@@ -16,7 +16,7 @@ There is of course one major downside to this approach: I can’t change the sit
 
 Today, I’ll walk you through an actual process of this as I restyle Sarah’s blog.
 
-#### Before
+### Before
 
 Here’s what the blog looks like today:
 
@@ -26,7 +26,7 @@ Today’s refresh will be pretty light. I’ll update the graphics and colors bu
 
 My browser of choice is Google Chrome, because it’s friggin’ amazing as you will soon discover.
 
-#### Background Image
+### Background Image
 
 I’m going for a fall theme so I did an image search for leaves. I want a repeating pattern for the background image so I added a size constraint, guessing that whoever made a repeating leaves pattern would do so at a standard dimension of 512px square (or some other multiple of 128). Success:
 
@@ -44,7 +44,7 @@ Once I hit save, the other window is immediately updated (no refresh required):
 
 {% imagesize /assets/2010/user-styles-5.png:img %}
 
-#### Masthead Flowers
+### Masthead Flowers
 
 Next, the two flowers on each side of the masthead. I need to identify them in code so I can refer to them in my user style. Do this by clicking the magnifying glass and then the flower to tell Chrome to show me the code for the flower:
 
@@ -58,7 +58,7 @@ Pow:
 
 {% imagesize /assets/2010/user-styles-8.png:img %}
 
-#### Colors
+### Colors
 
 I’ll tweak the header color (purple) and image border color (pink) next.
 
@@ -68,7 +68,7 @@ Bam:
 
 {% imagesize /assets/2010/user-styles-10.png:img %}
 
-#### Navigation Bar
+### Navigation Bar
 
 We’re almost done. Next I’ll replace those tiny flowers across the top of the window (I realize container is spelled wrong, but it’s coded so I can’t fix it now).
 
@@ -78,7 +78,7 @@ Result:
 
 {% imagesize /assets/2010/user-styles-12.png:img %}
 
-#### Masthead
+### Masthead
 
 The final piece is the actual site logo—the baby face. Sarah might put her own together, but until then I’ll use this:
 

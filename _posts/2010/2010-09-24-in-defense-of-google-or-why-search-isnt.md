@@ -14,7 +14,7 @@ I read a [tiring article](http://www.fastcompany.com/1687702/how-microsoft-bing-
 
 I’d like to offer a few counterpoints.
 
-#### It has fewer features than Bing
+### It has fewer features than Bing
 
 I used to wonder why Google remained so simple and basic while others like Ask.com were adding fancy search results pages. What I came to realize is that “simple and basic” are features. Google goes all out to be minimalistic while offering some less eye-catching, but seriously important features like performance, relevance, and real-time results.
 
@@ -34,7 +34,7 @@ Sure, Bing is gorgeous here. However, that’s not what’s important to me. Whe
 
 I’d also argue that Google focuses on far more useful features than other services (e.g. relevance) but it’s hard to stay objective on that road.
 
-#### Its new Instant Search is Traumatic to the Elderly 
+### Its new Instant Search is Traumatic to the Elderly 
 
 (Beware: Sweeping generalizations ahead.) Let’s be honest here, the elderly aren’t looking at the screen when they type anyway, and if they are, Google Instant isn’t going to even be active on their pokey dial up connection. But if it is and they don’t like it, they can turn it off:
 

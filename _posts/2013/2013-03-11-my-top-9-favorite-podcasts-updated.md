@@ -18,5 +18,6 @@ Although I sample a ridiculously large number of podcasts, these are the select 
  * [The Moth Podcast](http://themoth.org/radio)
  * [Hanselminutes](http://www.hanselminutes.com/)
  * [The Skeptics Guide to the Universe](http://www.theskepticsguide.org/)
+{: .col-15}
 
 I was going to write a lengthy description/review for each but, let’s be honest, you weren’t going to read it. Just go listen to some of these!

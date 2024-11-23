@@ -16,15 +16,17 @@ Verizon has a [pretty neat calculator](http://www.verizonwireless.com/b2c/splash
 
 That is: lots of email, browsing, and navigation requires well under a gigabyte a month. They helpfully indicate what numbers they’re using for these figures:
 
-> | Email (text only)                            | 10 KB     |
-> | Web Access (internet and Intranet)           | 400 KB    |
-> | Audio Streaming                              | 60 MB/hr  |
-> | Audio Track Download (3 1/2 min at 192 kbps) | 7 MB      |
-> | 3G Video Streaming                           | 250 MB/hr |
-> | 3G Verizon Video & NFL Mobile Streaming      | 125 MB/hr |
-> | 4G Video Streaming                           | 350 MB/hr |
-> | Digital Photo download/upload (Hi-Res)       | 3 MB      |
-> | Navigation Turn by Turn Directions           | 5 MB/hr   |
+| Activity                                     | Data      |
+|----------------------------------------------|-----------|
+| Email (text only)                            | 10 KB     |
+| Web Access (internet and Intranet)           | 400 KB    |
+| Audio Streaming                              | 60 MB/hr  |
+| Audio Track Download (3 1/2 min at 192 kbps) | 7 MB      |
+| 3G Video Streaming                           | 250 MB/hr |
+| 3G Verizon Video & NFL Mobile Streaming      | 125 MB/hr |
+| 4G Video Streaming                           | 350 MB/hr |
+| Digital Photo download/upload (Hi-Res)       | 3 MB      |
+| Navigation Turn by Turn Directions           | 5 MB/hr   |
 
 So adding 2 hours of streaming a day blows up the data big time:
 

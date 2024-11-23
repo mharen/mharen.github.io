@@ -24,23 +24,23 @@ But now I’m faced with a decision that I suddenly don’t have an easy answer 
 
 Quite simply, I need to decide if I want to move into management (i.e. manage projects and occasionally design software, but stop coding) or stay technical (i.e. design software and write code, but stop advancing). To code or not to code...
 
-#### Option 1: The Default Path Into Management and Sales
+### Option 1: The Default Path Into Management and Sales
 
 {% imagesize /assets/2010/5-years-2.jpg:img %}
 
 The path of least external resistance is definitely to follow the management route at my current company. That’s what everyone expects me to do. It’s probably where the money is and provides new growth opportunities. Over time I’d have to give up coding and learn more about project management, people management, and sales—areas that don’t excite me terribly. This is the [blue pill](http://en.wikipedia.org/wiki/Bluepill) option.
 
-#### Option 2: The Terminal Path of Staying Technical
+### Option 2: The Terminal Path of Staying Technical
 
 Another option is to resist the pull into management and remain a senior engineer forever. By deliberately limiting my advancement into management, I’d be able to stay technical and do pretty much what I do now. The money and the work is comfortable, though there’s more travel than I’d like. I’d probably continue leading small teams and working on long-term projects. This is another blue pill option.
 
-#### Option 3: Something Else Entirely
+### Option 3: Something Else Entirely
 
 I think I would love to be a highly technical *product manager*. I have given myself this role on some internal projects that I probably can’t talk about and have really enjoyed it. Being the human representative of a product that advocates for or against features and changes, and stays deep enough in the technical details that I actually get to code some or most of it is very compelling.
 
 The issue with this approach is that it’s not really compatible with my current employer—we don’t have very many products. Instead, we do projects—consultant work for various companies. Since pursuing this directly would require aggressive career changes and uncertainty, it’s the red pill option.
 
-#### Decision Time
+### Decision Time
 
 {% imagesize /assets/2010/5-years-3.png:img %}
 
@@ -52,7 +52,7 @@ That leaves me with option 1. The wildcard within option 1 is that I might be ab
 
 So that’s what I’m going to do: option 1, management and sales, with an eye out for product management opportunities. This of course means I’ll be more motivated than ever to do side projects like [Noodle](http://blog.wassupy.com/search/label/Project Noodle) to scratch my coder itch and stay sharp.
 
-#### Final Conclusions
+### Final Conclusions
 
 Of course this is the *five-year* plan so who knows what’ll happen? 
 

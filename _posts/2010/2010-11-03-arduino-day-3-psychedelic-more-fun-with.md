@@ -21,7 +21,7 @@ Anyway, it works:
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/jlUODWHTe8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Build
+### Build
 
 Today’s build was super easy once I wrapped my head around how this thing’s wired. The DIP switch isn’t needed—I was just playing around with one color at a time before I made the video.
 
@@ -35,15 +35,15 @@ Oh yeah, the build:
 
 {% imagesize /assets/2010/day-3-IMAG0680.jpg:img %}
 
-#### Circuit
+### Circuit
 
 {% imagesize /assets/2010/day_three_-_bb.png:img %}
 
-#### Schematic
+### Schematic
 
 {% imagesize /assets/2010/Day_3_-_schematic.png:img %}
 
-#### Code
+### Code
 
 Today’s code is very straight forward. It basically just increases the intensity of each color a random amount (0-5 of 255) every 25ms. Once the color exceeds 255, I flip it to –255 so it can start counting to zero. I only write the absolute value to the pin so the effect is an intensity value that ramps up and down.
 
@@ -86,7 +86,7 @@ void loop() {
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 This could turn into a neat toy if I just wire the LED to three potentiometers. Then kids could mix colors themselves. Hmmm...
 

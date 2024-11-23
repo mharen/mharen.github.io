@@ -12,7 +12,7 @@ title: The Konami Code In JS
 
 To implement this we’ll need two basic components: a sequence detector to figure out when the code has been entered, and the "something cool".  
 
-#### Sequence Detector
+### Sequence Detector
 
 First, we need to determine what sequence we're interested in in terms of [key codes](http://www.quirksmode.org/js/keys.html):
 
@@ -57,7 +57,7 @@ This is about as naïve as it gets and would not be appropriate for sequences wi
 
 So let's fill in that do-something-cool block.
 
-#### Something Cool
+### Something Cool
 
 A [lot of sites](http://konamicodesites.com/) do neat things for this code. My take on it will involve Ninja, just like Google Reader, but I'll put a different spin on it. Here's the code:
     

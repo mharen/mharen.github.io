@@ -48,7 +48,7 @@ Thing1 struggled with the controls a little bit, but compared to the other games
 
 Here’s why this game is perfect for us:
 
-#### It’s easy
+### It’s easy
 
 This game uses the remote like a remote: you point at the screen. When you do, you get a colored dot that follows you around. **This constant feedback is the secret sauce I didn’t realize we needed.**
 
@@ -56,17 +56,17 @@ It uses only one button (you hold down “A” to grab a goo ball). And it’s i
 
 At least early on in the game, there’s zero time pressure and nothing is coming to hurt you.
 
-#### It’s multiplayer
+### It’s multiplayer
 
 The multiplayer mode is ridiculously simple: you just pick up another remote and join in. You don’t have to pick players or configure anything or even restart the level—you just go. Another dot will show up and everyone can work together.
 
 **Tip:** Player 1 controls where you are in the world. If their dot gets near the edge of the screen, the screen pans in that direction. Thing 1 could do it, but it frustrated her to find herself flying all over the place. On the second night, I used the Player 1 remote so I could keep the screen panning under control while the kids used Players 2 and 3. They did **much better** this way.
 
-#### It’s quick
+### It’s quick
 
 The first several levels take only a few minutes to solve so things move along at a good pace. And if it all goes badly, you can hit “retry” and start over.
 
-#### It’s smart
+### It’s smart
 
 It’s a physics simulation so they’re learning about gravity and construction. They’re learning how to solve problems that require increasingly creative solutions. They’re learning hand-eye coordination. They’re learning how to work together. 
 

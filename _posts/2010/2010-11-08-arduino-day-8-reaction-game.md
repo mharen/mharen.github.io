@@ -23,7 +23,7 @@ Here’s the finished project:
 
 I don’t have anything to rant about today so I’ll instead direct you to this rather entertaining interview with [David Sedaris](http://www.thedailyshow.com/watch/thu-november-4-2010/david-sedaris). If you don’t know who that is, you probably won’t find it funny. In that case, [this](http://www.collegehumor.com/videos/playlist:prankwar) type of humor probably more your style. 
 
-#### Build
+### Build
 
 {% imagesize /assets/2010/IMAG0725-day-8.jpg:img %}
 
@@ -31,17 +31,17 @@ I don’t have anything to rant about today so I’ll instead direct you to this
 
 The circuit and code are completely from scratch, but they are so simple I wouldn’t be surprised to find a near duplicate elsewhere. Note that the buttons are on opposite sides of the board on purpose: this is a two player game.
 
-#### Circuit
+### Circuit
 
 {% imagesize /assets/2010/Sketch_bb-day-8.png:img %}
 
-#### Schematic
+### Schematic
 
 The schematic makes this thing look insane. I suggest just looking at the circuit above—it’s really a simple build.
 
 {% imagesize /assets/2010/Sketch_schem-day-8.png:img %}
 
-#### Code
+### Code
 
 ```cs
 const int ToneHz = 2000;
@@ -171,7 +171,7 @@ void BlinkOnce(int pin){
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 While this project could certainly be improved (e.g. holding down your button insures victory when instead you should lose for pressing it early), I’m satisfied with it.
 

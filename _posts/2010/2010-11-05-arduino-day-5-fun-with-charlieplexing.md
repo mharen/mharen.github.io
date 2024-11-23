@@ -25,13 +25,13 @@ Here we go:
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/UsXtHRiNAiE" title="Arduino Day 5: Charlieplexing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
-#### Build
+### Build
 
 {% imagesize /assets/2010/IMAG0689-day-5.jpg:img %}
 
 {% imagesize /assets/2010/IMAG0694-day-5.jpg:img %}
 
-#### Circuit
+### Circuit
 
 This doesn’t well represent the circuit:
 
@@ -40,13 +40,13 @@ This doesn’t well represent the circuit:
 It was actually much simpler to build, requiring very little wire. Looking at the schematic below you can see that the four points on top of the LEDs connect to a single point as do the four points on bottom. This makes bread boarding the circuit pretty easy.
 
 If you look closely in the build shot above you can see that I used four rows, and the middle two are common to provide less contorting of the LED leads. 
-#### Schematic
+### Schematic
 
 I don’t fully understand how thing thing works but it does. Let Google lead you to more information on the subject, including better schematics:
 
 {% imagesize /assets/2010/day_5_schem.png:img %}
 
-#### Code
+### Code
 
 I strongly suggest reading voraciously about how this Charlieplexing thing works. It will save you some grief.
 
@@ -249,7 +249,7 @@ void Burn(int highPin, int lowPin){
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 I’m not totally sure what I’ve got next (I’m running out of new components). I might work a switch in there or maybe try to do a larger LED array for some animation. I’m thinking about projects I can get Thing1 interested in, too. She likes to help but loses interest after about four seconds so it’s tough. She loved pushing a button I wired into the speaker, though:
 

@@ -27,7 +27,7 @@ Hey, don't get upset with me, I'm just translating.
 
 ### Alternate Methods
 
-#### Internet Explorer
+### Internet Explorer
 
 {% imagesize /assets/2011/ie-file-print.png:img %}
 
@@ -35,7 +35,7 @@ or
 
 {% imagesize /assets/2011/ie-right-click.png:img %}
 
-#### Chrome:
+### Chrome:
 
 {% imagesize /assets/2011/chrome-file-print.png:img %}
 
@@ -43,6 +43,6 @@ or
 
 {% imagesize /assets/2011/chrome-right-click.png:img %}
 
-#### Firefox
+### Firefox
 
 {% imagesize /assets/2011/firefox-file-print.png:img %}

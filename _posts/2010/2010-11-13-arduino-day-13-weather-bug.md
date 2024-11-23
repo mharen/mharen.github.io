@@ -21,7 +21,7 @@ The app parses XML files from the Internet and extracts a temperature value. If 
 
 Build, circuit, schematic, and Arduino code are identical to my [previous project](../../2010/11/arduino-day-11-extreme-feedback-for.html). 
 
-#### C# (Updated)
+### C# (Updated)
 
 ```c
 static void Main(string[] args)
@@ -76,6 +76,6 @@ static void Main(string[] args)
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 More projects!

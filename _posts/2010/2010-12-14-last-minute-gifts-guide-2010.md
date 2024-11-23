@@ -9,19 +9,19 @@ title: 'Last Minute Gifts: Guide 2010'
 
 So you’re out of ideas for that obscure relative or friend you forgot to buy for and you need to pick up something quick before that Super Saver Shipping deadline passes? Here are 10 surefire gift ideas to save face this Christmas:
 
-#### 1. Robot Alligator
+### 1. Robot Alligator
 
 {% imagesize /assets/2010/robot_alligator.jpg:img %}
 
 Nothing says Merry Christmas like a ferocious alligator. In robot form, you can be assured that the terror will cease only for 4-6 hours each night while Chomp recharges. Particular skilled recipients may have luck with training their new robot alligator to do useful things like eat that annoying dog next door. STOP BARKING DOG. STOP STOP STOP.  
 
-#### 2. Peanut Butter
+### 2. Peanut Butter
 
 {% imagesize /assets/2010/banana.jpg:img %}
 
 Everybody likes peanut butter. Plus, those that are allergic to it can just re-gift it back to you. If you’re both allergic then this is probably a bad gift idea.  
 
-#### 3. Empty Box
+### 3. Empty Box
 
 {% imagesize /assets/2010/empty_box.jpg:img %}
 
@@ -29,7 +29,7 @@ The key to this one is to work on your “surprise face”. When your gift recip
 
 Depending on your relationship to the recipient, this gift has [other variations](http://www.youtube.com/watch?v=WhwbxEfy7fg).  
 
-#### 4. Old College Textbook
+### 4. Old College Textbook
 
 {% imagesize /assets/2010/IMG_20101214_163951.jpg:img %}
 
@@ -39,37 +39,37 @@ This gift is best opened while you revel in the value and timelessness of learni
 
 Bonus points if the person receiving your gift actually enjoys the book’s subject.  
 
-#### 5. Coffee
+### 5. Coffee
 
 {% imagesize /assets/2010/IMG_20101214_164026.jpg:img %}
 
 It’s awesome.  
 
-#### 6. Bag of Snow
+### 6. Bag of Snow
 
 {% imagesize /assets/2010/IMG_20101213_142832.jpg:img %}
 
 Nothing captures the spirit of Christmas like a bag of Christmas snow. What makes it Christmas snow? Easy: it came from the North Pole *wink*. If it melts before the recipient opens it, you have yourself a perfect lead in to a pun filled guilt trip.  
 
-#### 7. Expired Gift Card
+### 7. Expired Gift Card
 
 {% imagesize /assets/2010/IMG_20101214_171618.jpg:img %}
 
 Those expired or used up gift cards are no good to you...except as wonderful gifts! Dig out that new Sharpie you bought with your now defunct gift card and proudly write whatever value suits you directly on the card. This one’s great because you can just blame those damned computers if your recipient is ever so taboo as to bring up the matter later. Plus no one needs more lotion anyway.  
 
-#### 8. Incomplete Decks of Cards
+### 8. Incomplete Decks of Cards
 
 {% imagesize /assets/2010/IMG_20101214_165434.jpg:img %}
 
 Go green this year by reusing your “vintage” playing cards as gifts! No need to combine incomplete decks into whole decks, either—that’s just wasteful.  
 
-#### 9. Pictures of Food
+### 9. Pictures of Food
 
 {% imagesize /assets/2010/IMG_20101213_200120.jpg:img %}
 
 [Recent research](http://www.livescience.com/health/imagining-food-to-eat-less-101209.html) has discovered that simply imagining the act of eating helps you eat less. Get ready for a big “thank you” from your gift recipient after you explain as they open their beautifully illustrated card.  
 
-#### 10.
+### 10.
 
 I’m out of ideas.
 

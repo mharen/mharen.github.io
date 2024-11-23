@@ -18,7 +18,7 @@ That’s why I started drinking coffee, any way. The reason I’m a snob about i
 
 Notably absent from my reasons is caffeine. That difficult to spell compound has no perceptible effect on me and is of little use (to me) when struck with that 2:30 feeling. And yes, I have tested this by abstaining from coffee for many weeks at a time...
 
-#### How To Make Coffee at Home
+### How To Make Coffee at Home
 
 First off, you need good coffee. Coffee has a limited shelf life so don’t buy too much. Check the label carefully for the words “Folgers” and “Maxwell House”—these are indications of poor quality coffee. Buy it in a bag, too, not a can. For true connoisseurs, read up on [Alton Brown’s advice](http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html) and try to catch his *Good Eats* on the topic. I think most of his thoughts are pretty extreme, though, so I’ll present a much simplified version. 
 
@@ -30,7 +30,7 @@ Here’s what you’ll need:
 
 I’m the only coffee drinker in the house so any numbers I toss out below are for one person; adjust yours accordingly.
 
-#### Your First Pot
+### Your First Pot
 
 I usually put down two normal cups, which is equal to about four “Mr. Coffee” cups, so I fill the machine up to the “**4 cups**” line with water. 
 
@@ -40,7 +40,7 @@ Brew your coffee (don’t steal a cup part way through—it only takes 3 minutes
 
 Prepare a mug as you normally would or if you’re new here, add a splash or two of milk and a generous tablespoon of sugar (get ‘em started easy, I always say). Pour the drink and find something interesting or relaxing to do for 20 minutes while it cools enough for you to actually sip it.
 
-#### Your Next Pot
+### Your Next Pot
 
 How’d that first pot go? Too strong/weak? Think about what you’d like to change and do so next time by adjusting your numbers up or down by one or two grams/cup. If you feel compelled to go lower than 12 grams total, though, I’d suggest diluting the finished product with some water as suggested in the previously references [article](http://www.foodnetwork.com/recipes/alton-brown/true-brew-recipe/index.html):
 
@@ -48,15 +48,15 @@ How’d that first pot go? Too strong/weak? Think about what you’d like to cha
 
 If you follow the dilution method, I suggest switching to tea (pansy) or adding the plain water to the carafe after the coffee maker is ready to go, but before you start brewing. This will help things mix and rise to a nice temperature.
 
-#### Your Next Bag
+### Your Next Bag
 
 After a few weeks you’ll run out of coffee. Buy a different variety next time to keep things interesting. Sarah always gets me something new, but nothing fancy, and the slight change every few weeks is great.
 
-#### What About Organic/Fair Trade/Single Origin/Blah/Blah/Blah Coffee?
+### What About Organic/Fair Trade/Single Origin/Blah/Blah/Blah Coffee?
 
 I honestly don’t know the first thing about any of that. My [resident hippie](http://footedjammies.blogspot.com/) buys coffee like a hippie so I guess I am passively endorsing some of those causes by drinking it, so there’s that. I suggest turning to Google for more info on those topics.
 
-#### FAQ (i.e. Q&As I Made Up)
+### FAQ (i.e. Q&As I Made Up)
 
 **I have a fancy {coffee, coffee maker, beaker, flask, magical gem, etc.} and it makes *way* better coffee?**
 

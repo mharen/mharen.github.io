@@ -60,7 +60,7 @@ It’s a much better experience in person—my camera’s frame rate isn’t qui
 * Flash – flash all the LEDs on/off at the same time  
 
 
-#### Build:
+### Build:
 
 {% imagesize /assets/2010/IMAG0661.jpg:img %}
 
@@ -72,7 +72,7 @@ Schematic (automatically built from the above image with the amazing [Fritzing](
 
 {% imagesize /assets/2010/day_one_-_schema.png:img %}
 
-#### Code:
+### Code:
 
 ```c
 int Leds[] = {3, 5, 6, 9, 10, 11};

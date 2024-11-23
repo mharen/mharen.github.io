@@ -14,7 +14,7 @@ Parenting is usually a lovely, rewarding profession. This post is not about thos
 
 These things affect us to different degrees as I’ll attempt to describe via the **Parental Anger Scale**:  
 
-#### Level 1: Amused Parent
+### Level 1: Amused Parent
 
 **Frequency:** 150x/day
 
@@ -24,7 +24,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Parental Response:** smile, chuckle, or eye-roll
 
-#### Level 2: Annoyed Parent
+### Level 2: Annoyed Parent
 
 **Frequency:** frequent
 
@@ -34,7 +34,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Parental Response:** polite explanation (“teaching moments”), snacks, bribery or redirection
 
-#### Level 3: Angry Parent
+### Level 3: Angry Parent
 
 **Frequency:** occasional
 
@@ -44,7 +44,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 **Parental Response:** timeout, loss of privileges, or early termination of activities (the car is turned around, as they say), insists that parent cannot understand children who don’t use their words because all they can hear is “quack quack quack” (implying child is a duck)
 
-#### Level 4: Frazzled Parent
+### Level 4: Frazzled Parent
 
 **Frequency:** rare
 
@@ -58,7 +58,7 @@ These things affect us to different degrees as I’ll attempt to describe via th
 
 Of course most of the things that lead to parental anger start as child anger. They get a scale, too:
 
-#### Level 1: The world is over
+### Level 1: The world is over
 
 That is all.
 

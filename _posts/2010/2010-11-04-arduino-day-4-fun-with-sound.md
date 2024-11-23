@@ -27,21 +27,21 @@ These shows are simply absurd in every way. Crazy stuff happens on “House MD�
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/ZGQOJTgm7A4" title="Arduino Day 4: Fun With Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
-#### Build
+### Build
 
 Today’s build was very easy. Most of my time was spent working on code and learning about music notes.
 
 {% imagesize /assets/2010/IMAG0682.jpg:img %}
 
-#### Circuit
+### Circuit
 
 {% imagesize /assets/2010/Day_4_-_bb.png:img %}
 
-#### Schematic
+### Schematic
 
 {% imagesize /assets/2010/Day_4_-_Schematic.png:img %}
 
-#### Code
+### Code
 
 Today’s code was ultimately very simple...it just took a while to prune it down to the essentials listed below. As I mentioned, Sarah put the list of notes together and helped translate the song’s music into the encoded note, length, and rest values.
 
@@ -203,7 +203,7 @@ void Buzz(int frequencyHz, int durationMillis){
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 
 I’m thinking it’d be neat to add some LEDs for each tone or add buttons so sounds can be driven (like a keyboard). I might get into that tomorrow.

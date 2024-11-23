@@ -11,15 +11,16 @@ You run your local build *as you*, and run your deployment *as a managed identit
 tokens, secrets, or keys in your code or deployment environment. The [`DefaultAzureCredential`][1] class provides an
 easy start by attempting to get an auth token from all of these sources, stopping when it gets one:
 
-- `EnvironmentCredential`
-- `WorkloadIdentityCredential`
-- `ManagedIdentityCredential`
-- `SharedTokenCacheCredential`
-- `VisualStudioCredential`
-- `VisualStudioCodeCredential`
-- `AzureCliCredential`
-- `AzurePowerShellCredential`
-- `AzureDeveloperCliCredential`
+1. EnvironmentCredential
+2. WorkloadIdentityCredential
+3. ManagedIdentityCredential
+4. SharedTokenCacheCredential
+5. VisualStudioCredential
+6. VisualStudioCodeCredential
+7. AzureCliCredential
+8. AzurePowerShellCredential
+9. AzureDeveloperCliCredential
+{: .col-15}
 
 As you can imagine, when running locally, it will get a token from your IDE, or CLI, and when deployed, it'll get a
 token from the managed identity. This works _really well_ and it's _so convenient_. But there are two things we can do

@@ -36,7 +36,7 @@ Suppose we’re having steak and baked potatoes. This is a cake walk for most pe
 1. Find and study a steak recipe. [Check!](http://howtogrillsteak.com/prep.aspx)
 2. Find and study a baked potato recipe. [Check!](http://howtobakeapotato.com/)
 3. Make sure we have everything. Check!
-4. Make a timeline like this (working backwards from Go Time): {% imagesize /assets/2011/cook-5.png:img %} 
+4. Make a timeline like this (working backwards from Go Time):<br/> {% imagesize /assets/2011/cook-5.png:img %} 
 5. Execute timeline
 
 This approach yields one other awesome benefit aside from helping dinner hit the table on-time and at the right temperature: it’s stress free. I just follow my timeline and don’t worry about what I might be missing. When I finish a task, I just set a timer to go off for when I need to start the next step so I can safely zone out on something else (e.g. after “set table”, set timer for “7:40”).

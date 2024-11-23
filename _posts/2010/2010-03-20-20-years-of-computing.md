@@ -13,11 +13,11 @@ In less than [140 characters](http://twitter.com/mharen/statuses/10184506556):
 
 In detail:
 
-#### 1990s
+### 1990s
 
 The 90s were an incredible time. This was the decade where most computing focused on generating data and saving it. The conventional wisdom of the day seemed to be that, through a magical process, massive amounts of data could be used to solve anything. This was the era of the chess playing super computer, [Deep Blue](http://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)). This was the “anything is possible” childhood of the Internet.
 
-#### 2000s
+### 2000s
 
 Then came Google. Google made the 2000s the year of search. By then, what it had started in 1998 had reach a seriously huge critical mass. Early in the decade, though, many people and companies struggled to understand the Internet. This was a scary time for me as I saw some [high profile collapses](http://en.wikipedia.org/wiki/Dot-com_bubble#List_of_companies_significant_to_the_bubble) like [Pets.com](http://en.wikipedia.org/wiki/Pets.com) learn some hard lessons in business fundamentals (e.g. 1,000,000 views * $0/view = $0).
 
@@ -25,7 +25,7 @@ It’s during this time that businesses based on good foundations of revenue and
 
 That brings us to today.
 
-#### 2010s
+### 2010s
 
 We’re starting to feel a little overloaded by the massive amounts of information available to us. The ability to find a dataset, track it over a period of time and compare it to another dataset is a fairly challenging task today. This is where I expect to see some big “Wows” in 2010—visualization of data. 
 
@@ -37,7 +37,7 @@ Connectivity is no longer a limitation.
 
 We will seem some very impressive and innovative ways to make sense and meaning of data very soon.  
 
-#### 2020s
+### 2020s
 
 I think the success of data visualization will lead to passionate movements to democratize data. Around 2020, it will no longer be acceptable to conceal, hide, or privatize data. There will be a very successful movement to make government data and university data available via extremely accessible means—via APIs or methods that probably don’t exist today. Individuals will adopt the use of standards and contribute—for free—to the pool of data. This [long-tail](http://en.wikipedia.org/wiki/Long_Tail) effect will be interesting if not incredible. 
 
@@ -45,7 +45,7 @@ Organizations will jump on board and contribute to this stream by dropping the u
 
 In 2028, people will start discussing the merits of a [conventional census](http://en.wikipedia.org/wiki/Census)—a reinvigoration of arguments made leading up to the 2020 census. Doing away with the census—which seemed ridiculous in 2018—will have a lot of support. We’ll do one anyway (at great expense) but it’ll be the last time. Around this time (2030), near-real-time data of greater quality than today’s census numbers will be available to all of us.
 
-#### In Summary
+### In Summary
 
 I’m excited. 
 

@@ -7,7 +7,7 @@ title: Updates from the crypt
 
 Finale time has come and gone, and let me tell you, what a season it has been. 
 
-#### 7th Heaven
+### 7th Heaven
 
 What a load of crap. Oh my goodness, I'm not sure I'll be able to express how terrible this was. I'm not even going to try. Instead, I'll just give props to the writers. I'm 100% sure this is how it went down:
 
@@ -17,7 +17,7 @@ Writer 2: --or lets hire some crack hos!
 
 Well, that's what they did. 'nough said.
 
-#### 24
+### 24
 
 This was a two-hour show. It was awesome for about 1:45. The show had been lagging a little bit but this finale was pretty good. That is, until (spoiler...) the jackass President decided that even though Jack saved the entire damn country (again, 4 seasons running) and was willing to be handed over to the Chinese government for some bullshit that happened 3 <s>weeks</s> hours ago, he's got to be killed because--get this--he knows too much.
 
@@ -25,7 +25,7 @@ Well pardon me, sir, but wtf? What a terrible ending! Basically, Tony and Bitche
 
 That brings up a barely related point I've been thinking about. I think that they should codeword each season with a day of the week. So season one is Monday, season two is Tuesday, etc. If they're feeling really ambitious and worry that seven days won't cover it, they could start with a date Jan 1, Jan 2, etc. Just a thought...
 
-#### Alias
+### Alias
 
 Or as I like to call it, **Jenny plays dress-up**.
 

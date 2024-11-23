@@ -32,23 +32,23 @@ But a motor cycle that launches missiles. Wow. That picture above, by the way, w
 
 70\. Chuck Norris is **seventy** years old. And apparently immortal which is extra scary considering, well, [you know](http://www.chucknorrisfacts.com/). 
 
-#### Build (Repeat)
+### Build (Repeat)
 
 {% imagesize /assets/2010/DSC_00113.jpg:img %}
 
-#### Circuit (Repeat)
+### Circuit (Repeat)
 
 {% imagesize /assets/2010/Sketch_bb6.png:img %}
 
-#### Schematic (Repeat)
+### Schematic (Repeat)
 
 {% imagesize /assets/2010/Sketch_schem6.png:img %}
 
-#### Code (Updated)
+### Code (Updated)
 
 I started out today by doing all this in Powershell...but ultimately flipped back to full C# because most of my PS code was looking like C# anyway (and I’m very weak with PS).
 
-##### C#
+#### C#
 
 ```cs
 static void Main(string[] args)
@@ -94,7 +94,7 @@ static void Main(string[] args)
 }
 ```
 
-##### Arduino
+#### Arduino
 
 ```c
 const int BuzzPin = 5;
@@ -153,7 +153,7 @@ void Ding(int light){
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 I’ve got a busy weekend coming up so I’ll probably just spend a little time refining what I have. I’m open to ideas, though!
 

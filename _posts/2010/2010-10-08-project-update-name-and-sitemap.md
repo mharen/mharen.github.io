@@ -16,11 +16,11 @@ title: 'My New Project Update: Name and Sitemap'
 
 ***
 
-#### Choosing a Name
+### Choosing a Name
 
 After about 12 seconds of deliberation, I’ve decided to call my interview tracking application “**Noodle**”. This was [Sarah’s](http://footedjammies.blogspot.com/) suggestion. To parry any accusations of bias, I have chosen to award a prize to the runner-up, too. Thank you, [Math Zombie](http://stuffmystudentsdraw.blogspot.com/), for suggesting I use a MacGyver themed names. I will bank that idea for a future project.
 
-#### Recent Progress
+### Recent Progress
 
 I’ve refined the sitemap a bit:  
 

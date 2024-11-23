@@ -11,6 +11,7 @@ There's a long history of exploits when web browsers and files mix. I recently w
 - common image types
 - text/plain
 - text/csv
+{: .col-15}
 
 The page was careful to check the content type during the upload, and to return the same content type on download. But this left a gap. A careful attacker could do this:
 

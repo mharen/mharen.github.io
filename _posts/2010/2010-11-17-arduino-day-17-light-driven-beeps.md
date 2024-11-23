@@ -15,13 +15,13 @@ Today’s build was a fun one for Thing 1. It’s basically just two CdS light s
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/NFDGEEr8ydQ" title="Arduino Day 17: Fun with light-controlled buzzers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Build
+### Build
 
 {% imagesize /assets/2010/IMAG0800.jpg:img %}
 
 {% imagesize /assets/2010/IMAG0803.jpg:img %}
 
-#### Code
+### Code
 
 There’s nothing too fancy going on here. The only real trick (if you can call it that) is to read in the ambient analog values at startup so you can compare against them later. This is much more effective than hard-coding a threshold.
 

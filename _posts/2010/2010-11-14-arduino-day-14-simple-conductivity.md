@@ -19,13 +19,13 @@ Yes, that’s Thing 1’s leftovers from lunch (or maybe Thing 2...). Her sandwi
 
 Why is the applesauce dark red? Good Question. It’s homemade, and the best we can figure, the apples just turned brown as they normally do when cut. 
 
-#### Build
+### Build
 
 The build is identical to the previous few days with a simple analog input added the same way as the CdS cell in [another build](../../2010/11/arduino-day-6-analog-inputs.html) (I used a 10kΩ resistor instead of 470Ω, though).
 
 {% imagesize /assets/2010/IMAG0782.jpg:img %}
 
-#### Code
+### Code
 
 ```c
 const int BuzzPin = 5;
@@ -100,6 +100,6 @@ void Ding(int light){
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 I’ve got a lot of travel this week so doing projects will be very challenging...but we’ll see!

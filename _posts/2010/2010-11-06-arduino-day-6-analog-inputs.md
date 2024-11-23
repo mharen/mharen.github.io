@@ -37,23 +37,23 @@ Today’s build is another extension on the sound thing I’ve been working on. 
 
 <iframe class="full-embed hd" src="https://www.youtube.com/embed/gfhQ6J9veXE" title="Arduino Day 6: Analog Inputs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Build
+### Build
 
 {% imagesize /assets/2010/IMAG0705-day-6.jpg:img %}
 
 {% imagesize /assets/2010/IMAG0707-day-6.jpg:img %}
 
-#### Circuit
+### Circuit
 
 Since this build was a very minor addition to my previous circuits, I’m only showing the simple changes here:
 
 {% imagesize /assets/2010/Sketch_bb-day-6.png:img %}
 
-#### Schematic
+### Schematic
 
 {% imagesize /assets/2010/Sketch_schem-day-6.png:img %}
 
-#### Code
+### Code
 
 The only changes today were in the Loop() routine:
 ```c
@@ -89,7 +89,7 @@ void loop() {
 }
 ```
 
-#### Next Steps
+### Next Steps
 
 This was a very fun project because it gave me another opportunity to engage Thing1. I inverted the light sensor logic for her so that it plays only when a bright light is shining on it. She had about eight seconds of fun shining a flashlight on/off/on/off/on/off and seeing the song and LEDs react. Considering her skill with the TV remote (a much more impressive device), I guess the eight seconds of interest I got from my three year old was pretty good.
 
