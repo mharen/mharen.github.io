@@ -146,12 +146,6 @@ hr {
     border: none;
     background-color: $brand-color;
 }
-ol + hr,
-ul + hr,
-hr + h3,
-hr + p {
-    margin-top: 1rem;
-}
 
 td {
     vertical-align: top;
@@ -183,7 +177,7 @@ article {
     }
 
     .meta {
-        margin-top: 0.2rem;
+        margin-top: 0.5rem;
         font-size: 0.8rem;
     }
 
@@ -225,9 +219,16 @@ article {
         }
     }
 
-    h3 + div.highlighter-rouge,
+    div + h2,
     div + h3,
-    div + h2 {
+    h2 + h3,
+    h3 + div.highlighter-rouge,
+    h3 + h3,
+    hr + h3,
+    ul + h3,
+    hr + p,
+    ol + hr,
+    ul + hr {
         margin-top: 1rem;
     }
 

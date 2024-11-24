@@ -14,16 +14,16 @@ I've got a lot to write about but it's going to have to wait just a little while
 Anyway, things to write about...
 
 * moving/packing
-* <s>hockey (GAME TONIGHT at 11:15! We're in the finals!)</s> (6/1/05)
-* <s>Graduation</s> (6/2/05)
+* ~~hockey (GAME TONIGHT at 11:15! We're in the finals!)~~ (6/1/05)
+* ~~Graduation~~ (6/2/05)
 * perl and php
 * Damon's
-* <s>7th Heaven and other things evil</s> (5/31/05)
-* <s>24 Season Finale</s> (5/31/05)
-* <s>Alias Season Finale (OMG)</s> (5/31/05)
-* <s>Lost Season Finale</s> (6/2/05)
+* ~~7th Heaven and other things evil~~ (5/31/05)
+* ~~24 Season Finale~~ (5/31/05)
+* ~~Alias Season Finale (OMG)~~ (5/31/05)
+* ~~Lost Season Finale~~ (6/2/05)
 * Ike (the hampster)
-* <s>Sofa Express</s> (6/6/05)
+* ~~Sofa Express~~ (6/6/05)
 * etc.
 
 So you see, I have been busy, just not talking about it.

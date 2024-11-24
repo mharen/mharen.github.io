@@ -10,7 +10,7 @@ I have heard this phrase [over](http://www.realtechnews.com/posts/2933) and [ove
 
 Now we have a [mouse](http://www.lewispr.com/us/wire/index.php?news_id=1915) designed to tackle this "problem". Work with me here...if you clean your bathroom regularly (or even occasionally!), but rarely clean your desk, which do you expect to be cleaner?
 
-* **Here's an idea: clean your desk.**
+**Here's an idea: clean your desk.**
 
 This just in: recently washed stuff is cleaner than unwashed stuff! Holy crap!
 
