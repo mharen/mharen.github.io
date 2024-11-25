@@ -81,7 +81,7 @@ header {
 }
 
 .logo {
-    width: 71px;
+    height: 78px;
     aspect-ratio: 81 / 78;
 }
 
@@ -119,17 +119,17 @@ main {
 footer {
     order: 1;
     flex: none;
-
-    .logo {
-        transform: scaleX(-1);
-        display: block;
-    }
-
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
     flex-direction: column;
     justify-content: flex-start;
+    font-size: 0.75rem;
+
+    .logo {
+        transform: scaleX(-1);
+        display: block;
+    }
 }
 
 #fin {
@@ -276,7 +276,6 @@ time {
     .archive-year {
         h3 {
             margin: 0;
-            // text-align: center;
         }
 
         ol {
@@ -340,8 +339,9 @@ time {
     }
     footer {
         flex-direction: row;
-        justify-content: space-between;
-        width: 100%;
+        .logo {
+            height: 3rem;
+        }
     }
 
     article {
@@ -360,24 +360,14 @@ time {
     }
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 500px) {
     footer > :last-child {
         display: none;
     }
 }
 
-@media all and (max-width: 500px) {
-    footer {
-        font-size: 0.75rem;
-        gap: 0.5rem;
-        .logo {
-            width: calc(71px * 0.75);
-        }
-    }
-}
-
 @media all and (max-width: 350px) {
-    .logo {
+    footer a:has(.logo) {
         display: none;
     }
 }
