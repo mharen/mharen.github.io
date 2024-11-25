@@ -83,6 +83,7 @@ header {
 .logo {
     height: 78px;
     aspect-ratio: 81 / 78;
+    transform: scaleX(-1);
 }
 
 h2 + ul,
@@ -125,10 +126,10 @@ footer {
     flex-direction: column;
     justify-content: flex-start;
     font-size: 0.75rem;
+    text-align: right;
 
-    .logo {
-        transform: scaleX(-1);
-        display: block;
+    a:any-link {
+        color: $text-color;
     }
 }
 
@@ -339,6 +340,7 @@ time {
     }
     footer {
         flex-direction: row;
+        text-align: left;
         .logo {
             height: 3rem;
         }
