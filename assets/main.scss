@@ -361,17 +361,23 @@ time {
 @media all and (max-width: 800px) {
     #wrapper {
         flex-wrap: wrap;
+        gap: 0; // use padding-bottom with gap:0 on the wrapper to leave space for scroll bars
     }
     main {
         flex: 1 1 100%;
     }
 
     footer {
+        padding-bottom: 1rem; // use padding-bottom with gap:0 on the wrapper to leave space for scroll bars
+
         flex-direction: row;
         text-align: left;
+        margin-right: -1rem;
+
         .logo {
-            height: 4rem;
+            height: 4rem; // 3 lines + 2 gaps
         }
+
         .icons {
             flex-direction: row;
             align-content: start;
