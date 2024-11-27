@@ -132,7 +132,6 @@ footer {
     justify-content: flex-start;
     font-size: 0.8rem;
     text-align: right;
-    overflow: scroll;
 
     li + li {
         margin-top: 0.5rem;
@@ -369,6 +368,7 @@ time {
 
     footer {
         padding-bottom: 1rem; // use padding-bottom with gap:0 on the wrapper to leave space for scroll bars
+        overflow: scroll;
 
         flex-direction: row;
         text-align: left;
