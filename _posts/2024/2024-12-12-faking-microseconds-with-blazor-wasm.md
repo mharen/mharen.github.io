@@ -9,7 +9,7 @@ title: "Faking microseconds with .NET Blazor WASM"
 
 Today I learned that `DateTime` objects are only preceise down to the millisecond when compiled down to WebAssembly (WASM) and hosted by the browser. For instance:
 
-```
+```cs
 DateTime d = new DateTime();
 d.ToString("o"); 
 // server-side => 2024-12-12T21:18:14.8730419
@@ -19,7 +19,7 @@ d.ToString("o");
 
 This shows up anywhere you look beyond milliseconds:
 
-```
+```cs
 d.ToString("FFFFFFF"); 
 // server-side => 8730419
 // client-side => 8730000
@@ -51,7 +51,7 @@ There are two places where my page shows sub-millisecond values and I used simpl
 
 First, I call `.ToString()` with up to 7 Fs. WASM would produce something like this:
 
-```
+```cs
 d.ToString("FFF");     // client-side => 873
 d.ToString("FFFF");    // client-side => 8730
 d.ToString("FFFFF");   // client-side => 87300
@@ -61,7 +61,7 @@ d.ToString("FFFFFFF"); // client-side => 8730000
 
 The fix:
 
-```
+```cs
 // e.g. "0419"
 string fakeMicroseconds = Random.Shared.Next(0, 9999).ToString("D4");
 
@@ -74,7 +74,7 @@ d.ToString("FFFFFFF") + fakeMicroseconds[..4];  // => 8730419
 
 And then we have strings like `2024-12-12T21:18:14.8730000` and `2024-12-12T21:18:14.8730000-05:00`. Fixing those is pretty easy too:
 
-```
+```cs
 public static string FillMicroseconds(this string formattedDate, string fakeMicroseconds)
 {
     var index = formattedDate.LastIndexOf("0000");
