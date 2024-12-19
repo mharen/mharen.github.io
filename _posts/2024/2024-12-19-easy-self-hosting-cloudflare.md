@@ -111,7 +111,7 @@ services:
     restart: unless-stopped
 
   whoami:
-    image: "traefik/whoami"
+    image: traefik/whoami
     restart: unless-stopped
 ```
 
