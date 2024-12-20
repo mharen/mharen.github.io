@@ -8,7 +8,7 @@ title: A dash of whimsy with a tiny loading animation
 
 It's neat how a teensy little animation can add a little whimsy to an otherwise [boring thing](https://vcfprinter.wassupy.com/) like loading a bunch of contact cards:
 
-<video autoplay loop muted playsinline width="1866" height="1510">
+<video autoplay loop muted playsinline width="1866" height="1510" aria-label="A looping animation that shows a web page loading a grid of 24 contact cards. The contact cards quickly fade into view at slightly different times, over a period of about 1 second.">
   <source src="/assets/2024/vcf-whimsy.mp4" type="video/mp4">
   <source src="/assets/2024/vcf-whimsy.webm" type="video/webm">
   <source src="/assets/2024/vcf-whimsy.ogg" type="video/ogg">
