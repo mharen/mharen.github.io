@@ -2,9 +2,9 @@
 layout: post
 date: "2024-12-19"
 categories:
-    - technology
-    - code
-    - homelab
+  - technology
+  - code
+  - homelab
 title: "Easy self-hosting websites with Cloudflare and Docker Compose"
 ---
 
@@ -21,9 +21,11 @@ This guide assumes you have the following:
 Web users connect to Cloudflare, and instead of Cloudflare reaching into our network, we run a service inside the
 network that _reaches out to Cloudflare_:
 
-<picture>
-    <source height="181" width="454" srcset="/assets/2024/cf-tunnels-dark.png" media="(prefers-color-scheme: dark)" />
-    <img height="181" width="454" src="/assets/2024/cf-tunnels-light.png" alt='a screenshot of a web page that shows a bunch of contact cards, print-preview mode' />
+<picture> <source height="181" width="454" srcset="/assets/2024/cf-tunnels-dark.png" media="(prefers-color-scheme: dark)" />
+    <img height="181" width="454" src="/assets/2024/cf-tunnels-light.png" alt='a flowchart that shows three
+        entities: web user, cloudflare, home lab. The web user is connected to cloudflare. The home lab has three docker
+        containers. The first is labled "CF tunnel" and it is connected to the cloudflare entity, and to each of the other
+        two containers: web app, and web app 2' />
 </picture>
 
 We are **not** opening any ports, e.g. http/https from our server to the local network or internet. We are **not**
