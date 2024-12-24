@@ -21,12 +21,51 @@ This guide assumes you have the following:
 Web users connect to Cloudflare, and instead of Cloudflare reaching into our network, we run a service inside the
 network that _reaches out to Cloudflare_:
 
-<picture> <source height="181" width="454" srcset="/assets/2024/cf-tunnels-dark.png" media="(prefers-color-scheme: dark)" />
-    <img height="181" width="454" src="/assets/2024/cf-tunnels-light.png" alt='a flowchart that shows three
-        entities: web user, cloudflare, home lab. The web user is connected to cloudflare. The home lab has three docker
-        containers. The first is labled "CF tunnel" and it is connected to the cloudflare entity, and to each of the other
-        two containers: web app, and web app 2' />
-</picture>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 879 240" font-size="20" stroke-width="4" stroke="black" fill="none" role="img">
+    <title>CF Tunnels</title>
+    <desc>Diagram of a user connecting to a homelab via Cloudflare Tunnels. The diagram has three entities: user,
+    Cloudflare, home lab. The user is connected to Cloudflare. The home lab has three docker containers. The first is
+    labled "CF Tunnel" and it is connected to the Cloudflare entity, and to each of the other two containers: Webapp1,
+    and Webapp2</desc>
+    <defs>
+        <marker id="head" orient="auto" markerWidth="4" markerHeight="4" refX="0.1" refY="2">
+            <path d="M0,0 V4 L2,2 Z" stroke-width="1" fill="black" />
+        </marker>
+    </defs>
+
+    <g id="actor" fill="none">
+        <circle cx="50" cy="50" r="40"/>
+        <line x1="50" y1="90" x2="50" y2="150"/>
+        <line x1="50" y1="150" x2="25" y2="190"/>
+        <line x1="50" y1="150" x2="75" y2="190"/>
+        <line x1="25" y1="100" x2="75" y2="100"/>
+    </g>
+    <path id="cloudflare" stroke-linecap="round" stroke-linejoin="round" d="M 172.498 118.768 C 172.498 175.125 220.749 189.214 244.868 189.214 L 376.449 189.214 C 396.186 189.214 435.661 177.687 435.661 131.576 C 435.661 85.467 396.186 73.94 376.449 73.94 C 376.449 54.727 356.712 9.898 310.658 9.898 C 273.816 9.898 251.447 35.515 244.868 48.323 C 220.749 48.323 172.498 62.413 172.498 118.768 Z" style="fill: none;"/>
+
+    <g id="homelab">
+        <rect x="500" y="10" width="365" height="180" />
+        <rect id="cftunnel" x="520" y="80" width="135" height="40" />
+        <rect id="webapp1" x="710" y="30" width="135" height="40" />
+        <rect id="webapp2" x="710" y="130" width="135" height="40" />
+    </g>
+
+    <g id="connections">
+        <path id="arrow-line" marker-end="url(#head)" d="M90,100 155,100"/>
+        <path id="arrow-line" marker-end="url(#head)" d="M515,100 450,100"/>
+        <path id="arrow-line" marker-end="url(#head)" d="M660,90 695,75 "/>
+        <path id="arrow-line" marker-end="url(#head)" d="M660,110 695,125 "/>
+    </g>
+
+    <g id="labels" stroke-width="0" fill="black">
+        <text x="50" y="220" dominant-baseline="middle" text-anchor="middle">User</text>
+        <text x="304" y="220" dominant-baseline="middle" text-anchor="middle">Cloudflare</text>
+        <text x="681.5" y="220" dominant-baseline="middle" text-anchor="middle">Homelab Containers</text>
+        <text id="cftunnel-label" x="530" y="108">CF Tunnel</text>
+        <text id="webapp1-label" x="720" y="58">Webapp1</text>
+        <text id="webapp2-label" x="720" y="158">Webapp2</text>
+    </g>
+
+</svg>
 
 We are **not** opening any ports, e.g. http/https from our server to the local network or internet. We are **not**
 messing with dynamic dns stuff. We don't need to set up TLS.
@@ -37,10 +76,10 @@ messing with dynamic dns stuff. We don't need to set up TLS.
 
 First create your tunnel in the Cloudflare dashboard > Zero Trust > Networks > Tunnels:
 
-- Choose `cloudflared`
-- Name it whatever you want, e.g. `homelab`
-- Click the "docker" installation instructions just to _grab the token_
-- *Don't actually install anything*
+-   Choose `cloudflared`
+-   Name it whatever you want, e.g. `homelab`
+-   Click the "docker" installation instructions just to _grab the token_
+-   _Don't actually install anything_
 
 Copy that token for the next section.
 
@@ -52,16 +91,15 @@ Create `docker-compose.yaml` like this, with the token you copied above:
 version: "3.3"
 
 services:
+    tunnel:
+        image: cloudflare/cloudflared
+        restart: unless-stopped
+        command: tunnel run
+        environment:
+            - TUNNEL_TOKEN=***insert CF Tunnel token here***
 
-  tunnel:
-    image: cloudflare/cloudflared
-    restart: unless-stopped
-    command: tunnel run
-    environment:
-      - TUNNEL_TOKEN=***insert CF Tunnel token here***
-
-  web:
-    image: nginx:latest
+    web:
+        image: nginx:latest
 ```
 
 Start up the containers:
@@ -75,7 +113,6 @@ Tail the logs:
 ```sh
 docker compose logs -f
 ```
-
 
 ### Back in the Cloudflare dashboard
 
