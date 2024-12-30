@@ -93,9 +93,6 @@ services:
         command: tunnel run
         environment:
             - TUNNEL_TOKEN=***insert CF Tunnel token here***
-
-    web:
-        image: nginx:latest
 ```
 
 Start up the containers:
