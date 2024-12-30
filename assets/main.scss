@@ -30,6 +30,11 @@ $link-color: $brand-color;
 
 $faint-brand-color: scale-color(
     $color: $brand-color,
+    $lightness: 96.5%,
+);
+
+$med-brand-color: scale-color(
+    $color: $brand-color,
     $lightness: 85%,
 );
 
@@ -53,8 +58,7 @@ h3 {
 code {
     // https://meta.stackexchange.com/a/364280
     font-family: ui-monospace, "Cascadia Mono", "Segoe UI Mono", "Liberation Mono", Menlo, Monaco, Consolas, monospace;
-    font-size: 0.9rem;
-    font-size: 0.9rem;
+    font-size: 0.9em;
     background-color: $faint-brand-color;
     margin: -0.1rem;
     padding: 0.1rem;
@@ -181,7 +185,8 @@ td {
 }
 
 article {
-    video,img {
+    video,
+    img {
         max-width: 100%;
         height: auto;
     }
@@ -215,12 +220,9 @@ article {
 
     div.highlight {
         padding: 0.5rem;
-        // margin: 0 -0.5rem;
-        // margin-left: 2rem;
         border-radius: 0.5rem;
         overflow-x: scroll;
-    }
-    .highlighter-rouge .highlight {
+        border: 1px solid $dark-faint-brand-color;
         background-color: $faint-brand-color;
     }
 
@@ -416,8 +418,35 @@ time {
         filter: invert(1);
     }
 
-    article .highlighter-rouge .highlight,
-    code {
-        background-color: $dark-faint-brand-color;
+    article {
+        div.highlight {
+            &,
+            code {
+                background-color: $med-brand-color;
+            }
+        }
+    }
+}
+
+@media (prefers-contrast: more) {
+    article {
+        code {
+            border-width: 1px 0px;
+            border-color: $brand-color;
+            border-style: dotted;
+            border-radius: 0;
+        }
+
+        div.highlight {
+            border: 2px solid $brand-color;
+
+            &,
+            code {
+                background-color: #fff;
+            }
+            code {
+                border: none;
+            }
+        }
     }
 }
