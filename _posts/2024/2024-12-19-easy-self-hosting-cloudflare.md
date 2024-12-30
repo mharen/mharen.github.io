@@ -50,10 +50,10 @@ network that _reaches out to Cloudflare_:
     </g>
 
     <g id="connections">
-        <path id="arrow-line" marker-end="url(#head)" d="M90,100 155,100"/>
-        <path id="arrow-line" marker-end="url(#head)" d="M515,100 450,100"/>
-        <path id="arrow-line" marker-end="url(#head)" d="M660,90 695,75 "/>
-        <path id="arrow-line" marker-end="url(#head)" d="M660,110 695,125 "/>
+        <path marker-end="url(#head)" d="M90,100 155,100"/>
+        <path marker-end="url(#head)" d="M515,100 450,100"/>
+        <path marker-end="url(#head)" d="M660,90 695,75 "/>
+        <path marker-end="url(#head)" d="M660,110 695,125 "/>
     </g>
 
     <g id="labels" stroke-width="0" fill="black">
