@@ -59,10 +59,8 @@ code {
     // https://meta.stackexchange.com/a/364280
     font-family: ui-monospace, "Cascadia Mono", "Segoe UI Mono", "Liberation Mono", Menlo, Monaco, Consolas, monospace;
     font-size: 0.9em;
-    background-color: $faint-brand-color;
     margin: -0.1rem;
     padding: 0.1rem;
-    border-radius: 0.2rem;
 }
 a:any-link {
     text-decoration: none;
@@ -219,11 +217,18 @@ article {
     }
 
     div.highlight {
-        padding: 0.5rem;
-        border-radius: 0.5rem;
         overflow-x: scroll;
-        border: 1px solid $dark-faint-brand-color;
-        background-color: $faint-brand-color;
+        margin-left: 0.25rem;
+        padding-left: 1rem;
+        border-left: 1px solid $brand-color;
+
+        // safari
+        &::-webkit-scrollbar {
+            display: none;
+        }
+
+        // everything other than safari
+        scrollbar-width: none;
     }
 
     p > code {
@@ -267,6 +272,12 @@ article {
     .col-15 {
         column-width: 15rem;
         column-gap: 1rem;
+    }
+
+    blockquote {
+        padding-left: 1rem;
+        border-left: 0.25rem solid #ccc;
+        font-style: italic;
     }
 }
 
@@ -391,12 +402,6 @@ time {
     }
 
     article {
-        div.highlight {
-            margin: 0 -1rem;
-            padding: 0.5rem 1.5rem;
-            border-radius: 0;
-        }
-
         table {
             width: calc(100% + 2rem);
             margin: 0 -1rem;
@@ -417,36 +422,12 @@ time {
     iframe {
         filter: invert(1);
     }
-
-    article {
-        div.highlight {
-            &,
-            code {
-                background-color: $med-brand-color;
-            }
-        }
-    }
 }
 
 @media (prefers-contrast: more) {
     article {
-        code {
-            border-width: 1px 0px;
-            border-color: $brand-color;
-            border-style: dotted;
-            border-radius: 0;
-        }
-
         div.highlight {
-            border: 2px solid $brand-color;
-
-            &,
-            code {
-                background-color: #fff;
-            }
-            code {
-                border: none;
-            }
+            border-left: 2px solid $brand-color;
         }
     }
 }

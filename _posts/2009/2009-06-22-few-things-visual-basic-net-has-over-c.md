@@ -56,7 +56,7 @@ The second version is clearly more verbose but I think it provides some clear be
 IsNumeric and DateDiff are among many common functions that are actually available in C# if you add a reference to Microsoft.VisualBasic. I avoid doing this because without optional argument support, they can be a little awkward to use. C# and .NET now also include other options like TryParse on most types and date arithmetic with TimeSpans.
 
 ### Overflow/Underflow Checkin
-There are also a few semantic differences between the two languages. For example, VB checks mathematic operations for overflow and underflow whereas [C# does not](http://msdn.microsoft.com/en-us/library/74b4xzyw%28VS.71%29.aspx). C# allows you to control this very easily with checked/unchecked blocks:<blockquote>
+There are also a few semantic differences between the two languages. For example, VB checks mathematic operations for overflow and underflow whereas [C# does not](http://msdn.microsoft.com/en-us/library/74b4xzyw%28VS.71%29.aspx). C# allows you to control this very easily with checked/unchecked blocks:
 
 ```cs
 // will raise a System.OverflowException exception
@@ -78,7 +78,7 @@ As far as I can tell, VB doesn’t provide this level of control—it’s either
 
 ### Automatically Implemented Properties
 
-Another feature exclusive to C# is automatically implemented properties. For example, here’s the old style:<blockquote>
+Another feature exclusive to C# is automatically implemented properties. For example, here’s the old style:
 
 ```cs
 // C#2

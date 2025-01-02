@@ -14,7 +14,6 @@ Are you riding the new SQL Server 2012 HAWTNESS? Good for you. Did you try to ma
 {% imagesize /assets/2012/alter.png:img %}
 
 > “Saving changes is not permitted. The changes you have made require the following tables to be dropped and re-created. You have either made changes to a table that can’t be re-created **or enabled the option Prevent saving changes that require the table to be re-created.**”
-</blockquote>
 
 So the answer’s right there, but it’s at the end of a really long blob of text so you are forgiven if you missed it. Before you close your table change designer (and lose those precious table changes), just go uncheck that box in the options:
 

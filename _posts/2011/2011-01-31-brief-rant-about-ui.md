@@ -23,10 +23,8 @@ This really lets me focus on the content of the post which is important because 
 {% imagesize /assets/2011/ux-13.png:img %}
 
 **If I had to pick one thing a UI should be to make it good, I think it should be *obvious*.** The UI should be painfully clear about how to do things. For example, in the above image it’s pretty clear how you open a new tab or how you go forwards/backwards when browsing. This goal is supported by Steve Krug’s excellent book *Don’t Make Me Think*:
-<blockquote> 
 
-“Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. When instructions are absolutely necessary, cut them back to the bare minimum.”
-</blockquote>
+> “Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. When instructions are absolutely necessary, cut them back to the bare minimum.”
 
 It’s less obvious how you’d find out what versions we’re looking at. That’s typically in “Help > About” but none of these browsers have the typical “File Edit View Help” menu anymore.
 
