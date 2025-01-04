@@ -448,6 +448,7 @@ time {
     // invert back images and videos
     .nodark,
     html img,
+    html video,
     iframe {
         filter: invert(1);
     }
