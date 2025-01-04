@@ -97,6 +97,12 @@
     </footer>
   </div>
   <pre id="fin" aria-hidden="true">-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-.,__,.-'~'-</pre>
+
+  <script>
+    // add play/pause onclick to looping videos
+    document.querySelectorAll('video[autoplay][loop]')
+      .forEach(v => v.addEventListener("click", e => e.target.paused ? e.target.play() : e.target.pause()));
+  </script>
 </body>
 
 </html>
