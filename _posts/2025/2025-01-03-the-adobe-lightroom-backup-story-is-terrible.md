@@ -16,7 +16,7 @@ straightforward way to do this, especially not repeatedly.
 **To be clear:** the cloud storage Adobe uses for Lightroom is exceptionally convenient, but it is not a backup. I want
 a backup that will survive account compromise, loss of access, or a major technical issue with the provider.
 
-*It'd be nice* if I could restore the backup without much disruption, but I'll settle for an inconvenient, incomplete copy of
+_It'd be nice_ if I could restore the backup without much disruption, but I'll settle for an inconvenient, incomplete copy of
 everything.
 
 Here's what I settled on:
@@ -25,10 +25,12 @@ Here's what I settled on:
 2. Use the Adobe Lightroom Downloader to download all the photos to it (25 hours)
 3. Repeat periodically
 
-<picture>
-    <source srcset="/assets/2025/lightroom-downloader-dark.png" media="(prefers-color-scheme: dark)" />
-    <img height="1360" width="960" src="/assets/2025/lightroom-downloader-light.png" alt='a screenshot of an app titled "Lightroom Downloader", showing image files being downloaded and a progress bar at 17%. There is a button at the bottom labeled "Pause Download"' />
-</picture>
+<div class="--tile-300">
+    <picture>
+        <source srcset="/assets/2025/lightroom-downloader-dark.png" media="(prefers-color-scheme: dark)" />
+        <img height="1360" width="960" src="/assets/2025/lightroom-downloader-light.png" alt='a screenshot of an app titled "Lightroom Downloader", showing image files being downloaded and a progress bar at 17%. There is a button at the bottom labeled "Pause Download"' />
+    </picture>
+</div>
 
 I'm disappointed that this doesn't give me the high-fidelity backup I want, and that I have to manually do it every
 month or two, and that it's wildly inefficient to re-download all the photos every time, but it's all I have.

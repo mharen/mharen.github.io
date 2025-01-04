@@ -45,7 +45,8 @@ We tried all of these things and they all helped a little. But they all had sign
 
 ### A real solution
 
-I knew about [medicine bottles][6] that show time-since-last-open and thought something like that would be wonderful. What we have finally arrived at is a solution that completely solves our problem with the following results:
+I knew about [medicine bottles][6] that show time-since-last-open and thought something like that would be wonderful.
+What we have finally arrived at is a solution that completely solves our problem with the following results:
 
 -   We have a status light that anyone can read at a glance: it turns red when the dogs need fed, and turns green when
     they've recently beed fed
@@ -58,8 +59,8 @@ I knew about [medicine bottles][6] that show time-since-last-open and thought so
   <img src="/assets/2025/dog-food-light.gif" loading="lazy" />
 </video>
 
-It's basically an [andon light][1]/[stack light][5], powered by Home Assistant and two components: an open/close sensor on the dog food
-container and a smart RGB night light.
+It's basically an [andon light][1]/[stack light][5], powered by Home Assistant and two components: an open/close sensor
+on the dog food container and a smart RGB night light.
 
 ### Build details
 
@@ -151,7 +152,9 @@ action:
 mode: single
 ```
 
-I cannot express just how helpful this has been <span class="nodark">😊</span>. And since it's all in Home Assistant, it shows up on my dashboard. Here you can see that they were last fed an hour ago, and keeps history, though that's not really necessary:
+I cannot express just how helpful this has been <span class="nodark">😊</span>. And since it's all in Home Assistant, it
+shows up on my dashboard. Here you can see that they were last fed an hour ago, and keeps history, though that's not
+really necessary:
 
 <div class="--tile-300">
     <picture>

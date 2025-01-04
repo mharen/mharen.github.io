@@ -270,15 +270,9 @@ article {
     h3 + div.highlighter-rouge,
     h3 + h3,
     hr + h3,
-    ol + h3,
-    ul + h3,
-    ol + h2,
-    ul + h2,
-    hr + p,
-    ol + hr,
-    ul + hr,
-    ul + video,
-    ol + video {
+    ol + *,
+    ul + *,
+    hr + p {
         margin-top: 1rem;
     }
 
