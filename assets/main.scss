@@ -188,14 +188,16 @@ article {
         max-width: 100%;
         height: auto;
 
-        &.--500 {
-            max-width: min(100%, 500px);
-        }
-
         &.border {
             border: 1px solid $brand-color;
             border-radius: 0.5rem;
         }
+    }
+
+    .--tile-300 {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 1rem;
     }
 
     .full-embed {
@@ -274,7 +276,9 @@ article {
     ul + h2,
     hr + p,
     ol + hr,
-    ul + hr {
+    ul + hr,
+    ul + video,
+    ol + video {
         margin-top: 1rem;
     }
 
@@ -287,6 +291,15 @@ article {
         padding-left: 1rem;
         border-left: 0.25rem solid #ccc;
         font-style: italic;
+    }
+
+    .pq {
+        padding: 0.5rem;
+        margin: 2rem 1rem;
+        width: 300px;
+        float: right;
+        border: 1px solid $brand-color;
+        border-radius: 0 0.5rem 0 0.5rem;
     }
 }
 
@@ -416,6 +429,12 @@ time {
             margin: 0 -1rem;
             border-left: 1rem transparent solid;
             border-right: 1rem transparent solid;
+        }
+
+        .pq {
+            float: unset;
+            width: unset;
+            margin: 1rem 0;
         }
     }
 }
