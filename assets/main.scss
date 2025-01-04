@@ -187,6 +187,15 @@ article {
     img {
         max-width: 100%;
         height: auto;
+
+        &.--500 {
+            max-width: min(100%, 500px);
+        }
+
+        &.border {
+            border: 1px solid $brand-color;
+            border-radius: 0.5rem;
+        }
     }
 
     .full-embed {
@@ -418,6 +427,7 @@ time {
         filter: invert(1);
     }
     // invert back images and videos
+    .nodark,
     html img,
     iframe {
         filter: invert(1);
