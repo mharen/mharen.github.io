@@ -41,6 +41,7 @@ WHERE rno > 1
 
 SELECT * FROM @Widgets
 ```
+
 You ought to be able to run all that and get these results in SQL Server:
 
 {% imagesize /assets/2014/query-results.png:img %}
