@@ -2,6 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 permalink: "/:year/:month/:title.html"
+url: "https://www.wassupy.com"
 
 # Build settings
 # theme: minima
