@@ -165,6 +165,7 @@ footer {
             width: 2rem;
             height: 2rem;
             display: block;
+            fill: currentColor; // make svg icons inherit text color; essential for dark mode
         }
     }
 }
