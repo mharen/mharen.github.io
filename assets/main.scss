@@ -24,24 +24,27 @@ select {
 
 @import "syntax-highlighting";
 
-$text-color: #000;
-$brand-color: #365db0;
-$link-color: $brand-color;
+// Light mode colors (default)
+:root {
+    --text-color: #000;
+    --bg-color: #fff;
+    --brand-color: #365db0;
+    --link-color: #365db0;
+    --faint-brand-color: #f5f7fb;
+    --border-color: #ccc;
+}
 
-$faint-brand-color: scale-color(
-    $color: $brand-color,
-    $lightness: 96.5%,
-);
-
-$med-brand-color: scale-color(
-    $color: $brand-color,
-    $lightness: 85%,
-);
-
-$dark-faint-brand-color: scale-color(
-    $color: $brand-color,
-    $lightness: 70%,
-);
+// Dark mode colors
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #e8e8e8;
+        --bg-color: #1a1a1a;
+        --brand-color: #6b9ff0;
+        --link-color: #6b9ff0;
+        --faint-brand-color: #2a3a50;
+        --border-color: #555;
+    }
+}
 
 html {
     // https://meta.stackexchange.com/a/364280
@@ -49,6 +52,9 @@ html {
     font-size: 16px;
     line-height: 1.4;
     hyphens: auto;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    color-scheme: light dark;
 }
 h1,
 h2,
@@ -64,18 +70,18 @@ code {
 }
 a:any-link {
     text-decoration: none;
-    color: $link-color;
+    color: var(--link-color);
 }
 
 header {
     display: flex;
     justify-content: space-between;
     margin-bottom: 1rem;
-    color: $text-color;
+    color: var(--text-color);
     text-wrap: balance;
 
     a:any-link {
-        color: $text-color;
+        color: var(--text-color);
         text-decoration: none;
     }
     h1 + p {
@@ -143,7 +149,7 @@ footer {
     }
 
     a:any-link {
-        color: $text-color;
+        color: var(--text-color);
     }
 
     .icons {
@@ -166,7 +172,7 @@ footer {
 #fin {
     overflow: hidden;
     margin: 2rem -1rem 0 -1rem;
-    color: $brand-color;
+    color: var(--brand-color);
     display: flex;
     justify-content: center;
 }
@@ -175,7 +181,7 @@ hr {
     margin: 0 auto;
     height: 1px;
     border: none;
-    background-color: $brand-color;
+    background-color: var(--brand-color);
 }
 
 td {
@@ -189,7 +195,7 @@ article {
         height: auto;
 
         &.border {
-            border: 1px solid $brand-color;
+            border: 1px solid var(--brand-color);
             border-radius: 0.5rem;
         }
     }
@@ -231,7 +237,7 @@ article {
         overflow-x: scroll;
         margin-left: 0.25rem;
         padding-left: 1rem;
-        border-left: 1px solid $brand-color;
+        border-left: 1px solid var(--brand-color);
 
         // safari
         &::-webkit-scrollbar {
@@ -253,7 +259,7 @@ article {
         th {
             text-align: left;
             vertical-align: bottom;
-            border-bottom: 2px solid $brand-color;
+            border-bottom: 2px solid var(--brand-color);
         }
         td {
             vertical-align: top;
@@ -283,7 +289,7 @@ article {
 
     blockquote {
         padding-left: 1rem;
-        border-left: 0.25rem solid #ccc;
+        border-left: 0.25rem solid var(--border-color);
         font-style: italic;
     }
 
@@ -292,7 +298,7 @@ article {
         margin: 2rem 1rem;
         width: 300px;
         float: right;
-        border: 1px solid $brand-color;
+        border: 1px solid var(--brand-color);
         border-radius: 0 0.5rem 0 0.5rem;
     }
 }
@@ -322,7 +328,7 @@ time {
     width: 100%;
 
     tr:nth-child(even) {
-        background-color: $faint-brand-color;
+        background-color: var(--faint-brand-color);
     }
 
     th,
@@ -344,7 +350,7 @@ time {
             display: grid;
             grid-gap: 5px;
             grid: auto-flow / repeat(12, 1fr);
-            color: #aaa;
+            color: var(--border-color);
         }
 
         @media (max-width: 600px) {
@@ -433,25 +439,10 @@ time {
     }
 }
 
-// quick and dirty dark mode, thanks to Eric Meyer
-// https://meyerweb.com/eric/thoughts/2023/01/16/minimal-dark-mode-styling/
-@media (prefers-color-scheme: dark) {
-    html {
-        filter: invert(1);
-    }
-    // invert back images and videos
-    .nodark,
-    html img,
-    html video,
-    iframe {
-        filter: invert(1);
-    }
-}
-
 @media (prefers-contrast: more) {
     article {
         div.highlight {
-            border-left: 2px solid $brand-color;
+            border-left: 2px solid var(--brand-color);
         }
     }
 }
