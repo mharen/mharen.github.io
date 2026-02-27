@@ -17,7 +17,7 @@ That middle step wasn't working quite right so we wanted to inspect it before it
 
 Watch for the working folder and just clone it every 1 second:
 
-```ps
+```powershell
 # PowerShell script to backup directories with timestamp extensions
 # Usage: 
 #   cd C:\path\to\directory
