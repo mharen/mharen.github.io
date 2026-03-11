@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="icon-clip">
+      <rect width="1024" height="1024" rx="224" fill="#000000"/>
+    </clipPath>
+  </defs>
+  <rect width="1024" height="1024" rx="224" fill="#000000"/>
+  <g clip-path="url(#icon-clip)">
+    <g transform="matrix(1, 0, 0, 1, -38.604259, -19.498455)">
+      <rect x="104.371" y="635.349" width="80.195" height="433.725" rx="32" fill="#FA114F"/>
+      <rect x="104.371" y="543.619" width="80.195" height="205.996" rx="32" fill="#92E100"/>
+      <rect x="104.371" y="541.702" width="80.195" height="95.046" rx="32" fill="#1AD6FD"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -11.921532, -19.499434)">
+      <rect x="349.392" y="499.899" width="80.195" height="569.176" rx="32" fill="#FA114F"/>
+      <rect x="349.392" y="452.967" width="80.195" height="246.155" rx="32" fill="#92E100"/>
+      <rect x="349.392" y="419.924" width="80.195" height="139.599" rx="32" fill="#1AD6FD"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -25.262384, -19.499434)">
+      <rect x="226.881" y="531.719" width="80.195" height="537.356" rx="32" fill="#FA114F"/>
+      <rect x="226.881" y="364.713" width="80.195" height="275.006" rx="32" fill="#92E100"/>
+      <rect x="226.881" y="289.235" width="80.195" height="187.122" rx="32" fill="#1AD6FD"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1.420328, -19.499464)">
+      <rect x="471.902" y="492.817" width="80.195" height="576.258" rx="32" fill="#FA114F"/>
+      <rect x="471.902" y="307.028" width="80.195" height="279.226" rx="32" fill="#92E100"/>
+      <rect x="471.902" y="194.189" width="80.195" height="210.884" rx="32" fill="#1AD6FD"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 41.443893, -19.499434)">
+      <rect x="839.434" y="539.392" width="80.195" height="529.683" rx="32" fill="#FA114F"/>
+      <rect x="839.434" y="379.458" width="80.195" height="260.26" rx="32" fill="#92E100"/>
+      <rect x="839.434" y="289.235" width="80.195" height="187.122" rx="32" fill="#1AD6FD"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 28.102034, -19.499434)">
+      <rect x="716.924" y="534.792" width="80.195" height="534.283" rx="32" fill="#FA114F"/>
+      <rect x="716.924" y="452.715" width="80.195" height="246.407" rx="32" fill="#92E100"/>
+      <rect x="716.924" y="419.924" width="80.195" height="139.599" rx="32" fill="#1AD6FD"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 14.76115, -19.49748)">
+      <rect x="594.413" y="623.734" width="80.195" height="445.339" rx="32" fill="#FA114F"/>
+      <rect x="594.413" y="552.558" width="80.195" height="197.058" rx="32" fill="#92E100"/>
+      <rect x="594.413" y="541.702" width="80.195" height="95.046" rx="32" fill="#1AD6FD"/>
+    </g>
+  </g>
+</svg>
