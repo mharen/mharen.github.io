@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Walking Desk Workouts</title>
+    <meta
+      name="description"
+      content="Walking Desk Workouts helps you turn treadmill desk stats into Apple Health step counts and walking workouts."
+    />
+    <link rel="canonical" href="https://www.wassupy.com/walking-desk-workouts" />
+    <link rel="icon" type="image/png" sizes="512x512" href="./walking-desk-workout-icon-512.png" />
+    <link rel="apple-touch-icon" href="./walking-desk-workout-icon-512.png" />
+    <style>
+      :root {
+        --bg: #f1ece2;
+        --bg-deep: #d5c4a1;
+        --panel: rgba(255, 251, 244, 0.76);
+        --panel-strong: rgba(255, 248, 238, 0.92);
+        --line: rgba(73, 55, 31, 0.14);
+        --text: #1f1a14;
+        --muted: #685946;
+        --accent: #1c6b57;
+        --accent-strong: #104338;
+        --shadow: 0 28px 80px rgba(56, 40, 18, 0.14);
+        --hero-shadow: 0 32px 96px rgba(38, 55, 33, 0.18);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--text);
+        font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+        background:
+          radial-gradient(circle at top left, rgba(201, 156, 67, 0.28), transparent 28%),
+          radial-gradient(circle at 85% 10%, rgba(29, 103, 84, 0.22), transparent 24%),
+          linear-gradient(180deg, #efe5d4 0%, var(--bg) 48%, #e7dfd1 100%);
+      }
+
+      a {
+        color: var(--accent-strong);
+      }
+
+      .page-shell {
+        width: min(1120px, calc(100vw - 28px));
+        margin: 0 auto;
+        padding: 20px 0 40px;
+      }
+
+      .hero,
+      .panel {
+        border: 1px solid var(--line);
+        border-radius: 30px;
+        background: var(--panel);
+        backdrop-filter: blur(18px);
+      }
+
+      .hero {
+        padding: 22px;
+        box-shadow: var(--hero-shadow);
+      }
+
+      .top-nav,
+      .site-footer {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+      }
+
+      .top-nav a,
+      .site-footer a {
+        text-decoration: none;
+        font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        font-size: 0.88rem;
+      }
+
+      .hero-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 1.7fr) minmax(260px, 0.9fr);
+        gap: 18px;
+        align-items: stretch;
+        padding-top: 36px;
+      }
+
+      .hero-copy {
+        padding: 8px 8px 8px 2px;
+      }
+
+      .brand-mark {
+        display: inline-flex;
+        align-items: center;
+        gap: 14px;
+        margin-bottom: 18px;
+        padding: 10px 14px 10px 10px;
+        border: 1px solid rgba(73, 55, 31, 0.12);
+        border-radius: 20px;
+        background: rgba(255, 251, 244, 0.72);
+        box-shadow: 0 18px 48px rgba(56, 40, 18, 0.08);
+      }
+
+      .brand-mark img {
+        display: block;
+        width: 54px;
+        height: 54px;
+        border-radius: 16px;
+      }
+
+      .brand-mark-copy {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .eyebrow,
+      .section-kicker,
+      .card-label,
+      .policy-date {
+        margin: 0;
+        color: var(--muted);
+        font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .eyebrow,
+      .section-kicker {
+        font-size: 0.86rem;
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        margin: 12px 0 18px;
+        font-size: clamp(3rem, 7vw, 6rem);
+        line-height: 0.93;
+        max-width: 10ch;
+      }
+
+      h2 {
+        font-size: clamp(2rem, 4vw, 3.25rem);
+        line-height: 1;
+        margin-bottom: 16px;
+      }
+
+      h3 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 1.05rem;
+        line-height: 1.7;
+      }
+
+      .lede {
+        max-width: 54ch;
+        font-size: 1.14rem;
+        color: var(--muted);
+      }
+
+      .hero-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 28px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 48px;
+        padding: 0 20px;
+        border-radius: 999px;
+        text-decoration: none;
+        font-family: "Avenir Next Condensed", "Franklin Gothic Medium", sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+
+      .button-primary {
+        color: #fff8f0;
+        background: linear-gradient(135deg, #19624f 0%, #1f7c64 100%);
+      }
+
+      .button-secondary {
+        background: rgba(255, 255, 255, 0.45);
+        border: 1px solid var(--line);
+      }
+
+      .hero-card {
+        align-self: end;
+        padding: 24px;
+        border-radius: 24px;
+        background:
+          linear-gradient(180deg, rgba(15, 57, 47, 0.92) 0%, rgba(28, 93, 76, 0.96) 100%);
+        color: #f4f2ec;
+        box-shadow: var(--shadow);
+      }
+
+      .card-label {
+        font-size: 0.74rem;
+        color: rgba(236, 230, 220, 0.72);
+      }
+
+      .card-value {
+        margin: 6px 0 20px;
+        font-size: 1.2rem;
+        line-height: 1.35;
+      }
+
+      .section-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 18px;
+        margin-top: 18px;
+      }
+
+      .panel {
+        padding: 24px;
+        box-shadow: var(--shadow);
+      }
+
+      .intro-panel {
+        grid-column: 1 / -1;
+        background: var(--panel-strong);
+      }
+
+      .callout-panel {
+        display: grid;
+        grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
+        gap: 20px;
+        align-items: start;
+        margin-top: 18px;
+        background:
+          linear-gradient(135deg, rgba(255, 249, 240, 0.96) 0%, rgba(243, 235, 224, 0.88) 100%);
+      }
+
+      .support-details p:last-child {
+        margin-bottom: 0;
+      }
+
+      .legal-panel {
+        margin-top: 18px;
+        background: var(--panel-strong);
+      }
+
+      .policy-date {
+        margin-bottom: 24px;
+        font-size: 0.8rem;
+      }
+
+      .site-footer {
+        justify-content: center;
+        padding: 22px 10px 8px;
+      }
+
+      @media (max-width: 860px) {
+        .hero-grid,
+        .callout-panel,
+        .section-grid {
+          grid-template-columns: 1fr;
+        }
+
+        h1 {
+          max-width: 11ch;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .page-shell {
+          width: min(100vw - 16px, 1120px);
+          padding-top: 8px;
+        }
+
+        .brand-mark {
+          gap: 12px;
+          padding-right: 12px;
+        }
+
+        .brand-mark img {
+          width: 48px;
+          height: 48px;
+        }
+
+        .hero,
+        .panel {
+          border-radius: 24px;
+          padding: 18px;
+        }
+
+        .top-nav,
+        .site-footer,
+        .hero-actions {
+          gap: 10px;
+        }
+
+        p {
+          font-size: 1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero" id="overview">
+        <nav class="top-nav" aria-label="Section navigation">
+          <a href="#overview">Overview</a>
+          <a href="#how-it-works">How It Works</a>
+          <a href="#support">Support</a>
+          <a href="#privacy">Privacy</a>
+        </nav>
+
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <div class="brand-mark">
+              <img
+                src="./walking-desk-workout-icon-512.png"
+                alt="Walking Desk Workouts app icon"
+                width="54"
+                height="54"
+              />
+              <div class="brand-mark-copy">
+                <p class="eyebrow">Walking Desk Workouts</p>
+              </div>
+            </div>
+            <h1>Record walking desk sessions without losing them to your treadmill console.</h1>
+            <p class="lede">
+              Enter the steps, miles, calories, and duration from your treadmill desk. The app writes
+              that session to Apple Health as a walking workout and step sample, then shows your recent
+              totals in one place.
+            </p>
+
+            <div class="hero-actions">
+              <a href="#support" class="button button-primary">Support</a>
+              <a href="#privacy" class="button button-secondary">Privacy Policy</a>
+            </div>
+          </div>
+
+          <aside class="hero-card" aria-label="App highlights">
+            <p class="card-label">Built for</p>
+            <p class="card-value">Treadmill desk sessions</p>
+            <p class="card-label">Writes to Apple Health</p>
+            <p class="card-value">Steps, distance, calories, workout</p>
+            <p class="card-label">Shows back</p>
+            <p class="card-value">7 days of totals</p>
+          </aside>
+        </div>
+      </header>
+
+      <main>
+        <section class="section-grid" id="how-it-works">
+          <article class="panel intro-panel">
+            <p class="section-kicker">How It Works</p>
+            <h2>Simple input, direct HealthKit save.</h2>
+            <p>
+              Walking Desk Workouts is meant for people who accumulate real walking time at a desk but
+              still need a clean record in Apple Health. There is no account setup, sync service, or
+              export flow. You open the app, enter the treadmill numbers, and save.
+            </p>
+          </article>
+
+          <article class="panel">
+            <h3>What you enter</h3>
+            <p>Steps, distance in miles, calories, and workout duration from your treadmill display.</p>
+          </article>
+
+          <article class="panel">
+            <h3>What the app saves</h3>
+            <p>
+              A walking workout plus Health samples for step count, walking or running distance, and
+              active energy burned.
+            </p>
+          </article>
+
+          <article class="panel">
+            <h3>What the app reads</h3>
+            <p>
+              Step count and walking or running distance totals so it can show your recent daily history.
+            </p>
+          </article>
+
+          <article class="panel">
+            <h3>What it does not do</h3>
+            <p>No login, no cloud account, no advertising SDKs, and no analytics tracking.</p>
+          </article>
+        </section>
+
+        <section class="panel callout-panel" id="support">
+          <div>
+            <p class="section-kicker">Support</p>
+            <h2>Questions, bugs, etc.</h2>
+          </div>
+          <div class="support-details">
+            <p>
+              Email:
+              <a href="mailto:walking-desk-workouts@wassupy.com">walking-desk-workouts@wassupy.com</a>
+            </p>
+          </div>
+        </section>
+
+        <section class="panel legal-panel" id="privacy">
+          <p class="section-kicker">We don't track anything</p>
+          <h2>Privacy Policy</h2>
+          <p class="policy-date">Last updated: March 12, 2026</p>
+
+          <p>
+            Walking Desk Workouts does not require an account and does not collect personal information
+            for the developer.
+          </p>
+
+          <h3>Data collection</h3>
+          <p>
+            The app does not operate a user account system, does not include third-party advertising, and
+            does not use analytics SDKs to profile or track you.
+          </p>
+
+          <h3>Health data access</h3>
+          <p>
+            If you grant Apple Health permission, the app reads step count and walking or running
+            distance so it can show your recent daily totals.
+          </p>
+          <p>
+            If you choose to save a session, the app writes step count, walking or running distance,
+            active energy burned, and a walking workout to Apple Health based on the values you entered.
+          </p>
+
+          <h3>Where data is stored</h3>
+          <p>
+            Health data used by the app stays within Apple Health and on your device or your Apple
+            account's Health sync systems, subject to Apple's platform behavior and settings. The
+            developer does not receive a copy of that Health data through this app.
+          </p>
+
+          <h3>Sharing</h3>
+          <p>
+            The app does not sell your data and does not share your personal or Health data with external
+            advertisers or data brokers.
+          </p>
+
+          <h3>Your choices</h3>
+          <p>
+            You can deny or revoke Health access at any time in Apple's Health and Settings controls. If
+            access is not granted, the app cannot read recent totals or save workout entries to Apple
+            Health.
+          </p>
+
+          <h3>Contact</h3>
+          <p>
+            For privacy questions, contact
+            <a href="mailto:walking-desk-workouts@wassupy.com">walking-desk-workouts@wassupy.com</a>.
+          </p>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <a href="#overview">Overview</a>
+        <a href="#how-it-works">How It Works</a>
+        <a href="#support">Support</a>
+        <a href="#privacy">Privacy</a>
+      </footer>
+    </div>
+  </body>
+</html>
