@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>When It Happens</title>
+  <link rel="icon" type="image/png" href="icon.png">
+  <style>
+    :root {
+      --parchment: #f4efe5;
+      --navy: #1a2e47;
+      --red: #8d2d30;
+      --ink: #233245;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", serif;
+      color: var(--ink);
+      background:
+        linear-gradient(180deg, rgba(26, 46, 71, .95) 0 12px, transparent 12px calc(100% - 12px), rgba(141, 45, 48, .95) calc(100% - 12px)),
+        linear-gradient(180deg, #f7f2ea, var(--parchment));
+      min-height: 100vh;
+    }
+
+    main {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 48px 24px 64px;
+      display: grid;
+      gap: 24px;
+    }
+
+    .panel {
+      background: rgba(255, 255, 255, .78);
+      border: 1px solid rgba(184, 160, 106, .6);
+      border-radius: 28px;
+      padding: 32px;
+      box-shadow: 0 24px 60px rgba(26, 46, 71, .08);
+      scroll-margin-top: 16px;
+    }
+
+    h1,
+    h2 {
+      color: var(--navy);
+      margin: 0 0 16px;
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 5vw, 4rem);
+    }
+
+    h2 {
+      font-size: clamp(1.45rem, 3vw, 2rem);
+    }
+
+    p {
+      font-size: 1.1rem;
+      line-height: 1.7;
+    }
+
+    .logo-wrap {
+      display: flex;
+      margin: 0 0 20px;
+    }
+
+    .logo {
+      width: min(150px, 34vw);
+      height: auto;
+      border-radius: 28px;
+      box-shadow: 0 16px 34px rgba(26, 46, 71, .2);
+      border: 1px solid rgba(184, 160, 106, .45);
+      background: rgba(255, 255, 255, .6);
+    }
+
+    a {
+      color: var(--red);
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <section class="panel" id="home">
+      <div class="logo-wrap">
+        <img class="logo" src="icon.png" alt="When It Happens app icon logo">
+      </div>
+      <h1>When It Happens</h1>
+      <p>One respectful alert for one historic event.</p>
+    </section>
+
+    <section class="panel" id="privacy">
+      <h2>Privacy</h2>
+      <p>No analytics data, no advertising identifiers, no account data, and no personal profile information.</p>
+    </section>
+
+    <section class="panel" id="support">
+      <h2>Support</h2>
+      <p>For support, contact <a href="mailto:whenithappens@wassupy.com">whenithappens@wassupy.com</a>.</p>
+    </section>
+  </main>
+</body>
+
+</html>
