@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contacts Printer</title>
+  <meta name="description" content="Contacts Printer lets you search, filter, select, edit, and print Apple Contacts on iPhone, iPad, and Mac.">
+  <link rel="canonical" href="https://www.wassupy.com/contacts-printer/">
+  <link rel="icon" type="image/png" href="./app-icon.png">
+  <link rel="apple-touch-icon" href="./app-icon.png">
+  <style>
+    :root {
+      --bg: #2675c6;
+      --paper: #fffdf8;
+      --ink: #182126;
+      --muted: #5f6b73;
+      --accent: #0f766e;
+      --accent-soft: #d7efe9;
+      --line: rgba(24, 33, 38, 0.12);
+      --card-radius: 24px;
+      --card-shadow: 0 20px 60px rgba(24, 33, 38, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(15, 118, 110, 0.14), transparent 28%),
+        linear-gradient(0deg, #f8f6ef 0%, var(--bg) 100%);
+      height: 100%;
+      padding: 32px;
+    }
+
+    main {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 80px;
+    }
+
+    .hero,
+    section {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--card-radius);
+      box-shadow: var(--card-shadow);
+    }
+
+    .hero {
+      padding: 48px;
+      display: grid;
+      gap: 24px;
+      grid-template-columns: 1.2fr 0.8fr;
+      align-items: center;
+      margin-bottom: 24px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--card-radius);
+      box-shadow: var(--card-shadow);
+      position: relative;
+    }
+
+    .eyebrow {
+      margin-bottom: 12px;
+      padding: 6px 12px;
+      border-radius: 10px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font: 600 0.9rem/1.2 -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    h1,
+    h2 {
+      margin: 0 0 14px;
+      line-height: 1;
+    }
+
+    h1 {
+      font-size: clamp(2.8rem, 6vw, 5rem);
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 3vw, 2.5rem);
+    }
+
+    p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+
+    .hero-copy {
+      display: grid;
+      gap: 16px;
+    }
+
+    .app-icon {
+      width: min(100%, 320px);
+      aspect-ratio: 1;
+      display: block;
+      box-shadow: 0 24px 48px rgba(15, 118, 110, 0.18);
+      position: absolute;
+      bottom: 0;
+      right: calc(3 * var(--card-radius));
+    }
+
+    .hero-card p {
+      text-align: center;
+      max-width: 22rem;
+    }
+
+    .copy-list {
+      display: grid;
+      gap: 10px;
+      margin-top: 4px;
+    }
+
+    .copy-list p {
+      padding-top: 10px;
+      border-top: 1px solid var(--line);
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 8px;
+      font: 500 0.95rem/1.4 -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--ink);
+    }
+
+    .meta span {
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(15, 118, 110, 0.08);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 24px;
+    }
+
+    section {
+      padding: 32px;
+    }
+
+    @media (max-width: 1024px) {
+      body {
+        padding: unset;
+      }
+
+      .hero,
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .grid {
+        gap: 16px;
+      }
+
+      .hero {
+        padding: 20px;
+        margin-bottom: 40px;
+      }
+
+      .app-icon {
+        display: none;
+      }
+
+      section {
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">iPhone, iPad, and Mac</span>
+        <h1>Search, filter, and print your contacts.</h1>
+        <p>Contacts Printer works directly with Apple Contacts so you can quickly narrow the list, choose what to include, and print a compact grid without exporting your data.</p>
+        <div class="meta">
+          <span>On-device only</span>
+          <span>Search + dedupe</span>
+          <span>Select + edit</span>
+          <span>Compact printouts</span>
+        </div>
+      </div>
+      <img class="app-icon" aria-hidden="true" src="./app-icon.png" alt="Contacts Printer app icon">
+    </div>
+
+    <div class="grid">
+      <section id="about">
+        <h2>What It Does</h2>
+        <div class="copy-list">
+          <p>Search your contacts, filter to the fields you need, and hide entries that do not match.</p>
+          <p>Select specific contacts, edit them in place, and print a dense multi-column page that stays readable.</p>
+        </div>
+      </section>
+
+      <section id="support">
+        <h2>Support</h2>
+        <p>Need help? Send your device, OS version, and a short description of the issue.</p>
+        <p style="margin-top:16px;"><a href="mailto:contacts-printer@wassupy.com" style="color: var(--accent);">contacts-printer@wassupy.com</a></p>
+      </section>
+
+      <section id="privacy">
+        <h2>Privacy</h2>
+        <div class="copy-list">
+          <p>Runs on-device with no accounts, no analytics, no tracking, and no contact data leaving your device.</p>
+          <p>No data is collected or shared.</p>
+        </div>
+      </section>
+    </div>
+  </main>
+</body>
+
+</html>
