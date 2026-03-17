@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simple Photo Sheet Printer</title>
+  <link rel="icon" type="image/png" href="image-printer-icon.png">
+  <style>
+    :root {
+      --bg: #f6f1e7;
+      --panel: rgba(255, 253, 249, 0.9);
+      --ink: #1f2933;
+      --muted: #52606d;
+      --line: rgba(31, 41, 51, 0.12);
+      --accent: #bf5b04;
+      --accent-deep: #7c2d12;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Avenir Next", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top right, rgba(191, 91, 4, 0.16), transparent 30%),
+        linear-gradient(180deg, #fcfaf6 0%, var(--bg) 100%);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    main {
+      width: min(960px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 48px 0 64px;
+    }
+
+    .hero,
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      padding: 28px;
+      backdrop-filter: blur(12px);
+      box-shadow: 0 20px 50px rgba(31, 41, 51, 0.08);
+    }
+
+    .hero {
+      display: grid;
+      gap: 18px;
+      margin-bottom: 20px;
+    }
+
+    .eyebrow {
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      font-size: 0.78rem;
+      color: var(--accent-deep);
+      font-weight: 700;
+      margin: 0;
+    }
+
+    h1, h2 {
+      margin: 0;
+      line-height: 1.1;
+    }
+
+    h1 {
+      font-size: clamp(2.4rem, 5vw, 4.8rem);
+      max-width: 12ch;
+    }
+
+    h2 {
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      margin-bottom: 14px;
+    }
+
+    p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .facts {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+    }
+
+    .fact {
+      padding: 16px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(31, 41, 51, 0.08);
+    }
+
+    .fact strong {
+      display: block;
+      margin-bottom: 4px;
+      color: var(--ink);
+    }
+
+    .stack {
+      display: grid;
+      gap: 20px;
+    }
+
+    a {
+      color: var(--accent-deep);
+    }
+
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: fit-content;
+      padding: 12px 18px;
+      border-radius: 999px;
+      background: var(--accent);
+      color: white;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 20px;
+      color: var(--muted);
+    }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      margin-top: 18px;
+      font-size: 0.95rem;
+    }
+    .hero-icon {
+      width: 72px;
+      height: 72px;
+      border-radius: 16px;
+      object-fit: cover;
+      display: block;
+      margin-bottom: 8px;
+      box-shadow: 0 2px 8px rgba(31,41,51,0.10);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <img src="image-printer-icon.png" alt="Image Printer Icon" class="hero-icon">
+      <p class="eyebrow">Simple Photo Sheet Printer</p>
+      <h1>Batch print your photos.</h1>
+      <p>Simple Photo Sheet Printer lets you choose several photos, and send a tiled sheet straight to AirPrint or a compatible printer. Everything happens on-device.</p>
+      <div class="facts">
+        <div class="fact">
+          <strong>Supported devices</strong>
+          <span>iPhone and iPad on iOS/iPadOS 18 or later.</span>
+        </div>
+        <div class="fact">
+          <strong>Print options</strong>
+          <span>Choose tile size, paper size, and fit or fill placement.</span>
+        </div>
+        <div class="fact">
+          <strong>Privacy</strong>
+          <span>No analytics, no accounts, no uploads, no third-party tracking.</span>
+        </div>
+      </div>
+      <a class="cta" href="mailto:image-printer@wassupy.com">Contact Support</a>
+    </section>
+
+    <div class="stack">
+      <section id="support">
+        <h2>Support</h2>
+        <p>For questions, bug reports, or App Store support requests, email <a href="mailto:image-printer@wassupy.com">image-printer@wassupy.com</a>. Include your device model, iOS or iPadOS version, and the print size you were trying to use so we can reproduce the issue quickly.</p>
+      </section>
+
+      <section id="privacy">
+        <h2>Privacy</h2>
+        <p>Simple Photo Sheet Printer is designed to work entirely on your device. The app requests read-only access to the photos you choose so it can prepare a printable page layout. It does not request or use location data, does not analyze your photo library beyond your selection, and does not transmit your images or personal information anywhere.</p>
+        <p style="margin-top: 12px;">The app does not use analytics SDKs, advertising SDKs, sign-in systems, or remote storage. Printed pages are generated locally and sent only to the system print sheet you control.</p>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
