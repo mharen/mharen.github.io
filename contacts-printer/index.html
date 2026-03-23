@@ -151,6 +151,13 @@
       padding: 32px;
     }
 
+    section:target {
+      box-shadow: 0 0 0 4px var(--accent);
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      transition: box-shadow 0.2s, border-color 0.2s, background 0.2s;
+    }
+
     @media (max-width: 1024px) {
       body {
         padding: unset;
