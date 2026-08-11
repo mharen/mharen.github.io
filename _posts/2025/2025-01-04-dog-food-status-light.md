@@ -52,7 +52,7 @@ What we have finally arrived at is a solution that completely solves our problem
     they've recently beed fed
 -   The status light updates automatically with no extra work (very important!)
 
-<video autoplay loop muted playsinline width="1280" height="720" aria-label="A looping animation that shows a web page loading a grid of 24 contact cards. The contact cards quickly fade into view at slightly different times, over a period of about 1 second.">
+<video autoplay loop muted playsinline width="1280" height="720" aria-label="A looping video that shows a light plugged into a wall. Initially the light is red. Then the camera pulls back to show an open dog food container with an open/close sensor installed in the lid. Then the container is closed and the light turns green.">
   <source src="/assets/2025/dog-food-light.mp4" type="video/mp4">
   <source src="/assets/2025/dog-food-light.webm" type="video/webm">
   <source src="/assets/2025/dog-food-light.ogg" type="video/ogg">
